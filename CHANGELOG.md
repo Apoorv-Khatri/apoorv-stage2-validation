@@ -648012,3 +648012,2166 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:53:55.030656+00:00 — Review 2XPTKJBQ s5: source-audited coding and linked comparisons
+
+359 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5781",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5782",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5783",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5784",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5785",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5786",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5787",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5788",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5789",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5790",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5791",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5792",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5793",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5794",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5795",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5796",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5797",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5798",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5799",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5800",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5801",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5802",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5803",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5804",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5805",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5806",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5807",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5808",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5809",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5781",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5782",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5783",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5784",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5785",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5786",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5787",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5788",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5789",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5790",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5791",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5792",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5793",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5794",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5795",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5796",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5797",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5798",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5799",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5800",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5801",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5802",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5803",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5804",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5805",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5806",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5807",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5808",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5809",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5781",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5782",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5783",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5784",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5785",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5786",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5787",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5788",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5789",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5790",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5791",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5792",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5793",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5794",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5795",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5796",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5797",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5798",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5799",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5800",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5801",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5802",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5803",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5804",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5805",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5806",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5807",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5808",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5809",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L522",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L523",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L524",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5781",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5782",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5783",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5784",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5785",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5786",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5787",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5788",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5789",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5790",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5791",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5792",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5793",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5794",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5795",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5796",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5797",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5798",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5799",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5800",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5801",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5802",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5803",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5804",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5805",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5806",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5807",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5808",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5809",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M522",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M523",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M524",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5781",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5782",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5783",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5784",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5785",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5786",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5787",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5788",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5789",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5790",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5791",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5792",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5793",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5794",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5795",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5796",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5797",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5798",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5799",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5800",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5801",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5802",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5803",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5804",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5805",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5806",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5807",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5808",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5809",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O522",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P522",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P523",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P524",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5781",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5782",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5783",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5784",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5785",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5786",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5787",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5788",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5789",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5790",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5791",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5792",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5793",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5794",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5795",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5796",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5797",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5798",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5799",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5800",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5801",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5802",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5803",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5804",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5805",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5806",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5807",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5808",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5809",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q522",
+    "before": null,
+    "after": "Table2 pp3172–73 row a DDS examiner awardees, family BP full, cols5–6: effect -0.227 pp per $1,000 annual DI; paired mean 4.29 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q523",
+    "before": null,
+    "after": "Table2 pp3172–73 row b Hearings level awardees, family BP full, cols5–6: effect +0.062 pp per $1,000 annual DI; paired mean 1.04 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q524",
+    "before": null,
+    "after": "Table2 pp3172–73 row c Females, family BP full, cols5–6: effect -0.142 pp per $1,000 annual DI; paired mean 3.94 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5781",
+    "before": null,
+    "after": "Table2 pp3172–73 row c Females, family BP DDS-only, cols7–8: effect -0.230 pp per $1,000 annual DI; paired mean 4.87 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5782",
+    "before": null,
+    "after": "Table2 pp3172–73 row d Males, family BP full, cols5–6: effect -0.148 pp per $1,000 annual DI; paired mean 3.40 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5783",
+    "before": null,
+    "after": "Table2 pp3172–73 row d Males, family BP DDS-only, cols7–8: effect -0.190 pp per $1,000 annual DI; paired mean 3.78 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5784",
+    "before": null,
+    "after": "Table2 pp3172–73 row e Non-Black, family BP full, cols5–6: effect -0.181 pp per $1,000 annual DI; paired mean 3.53 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5785",
+    "before": null,
+    "after": "Table2 pp3172–73 row e Non-Black, family BP DDS-only, cols7–8: effect -0.207 pp per $1,000 annual DI; paired mean 4.14 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5786",
+    "before": null,
+    "after": "Table2 pp3172–73 row f Black, family BP full, cols5–6: effect -0.047 pp per $1,000 annual DI; paired mean 4.28 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5787",
+    "before": null,
+    "after": "Table2 pp3172–73 row f Black, family BP DDS-only, cols7–8: effect -0.082 pp per $1,000 annual DI; paired mean 5.07 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5788",
+    "before": null,
+    "after": "Table2 pp3172–73 row g Age<45, family BP full, cols5–6: effect -0.206 pp per $1,000 annual DI; paired mean 2.83 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5789",
+    "before": null,
+    "after": "Table2 pp3172–73 row g Age<45, family BP DDS-only, cols7–8: effect -0.332 pp per $1,000 annual DI; paired mean 3.42 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5790",
+    "before": null,
+    "after": "Table2 pp3172–73 row h Age>=45, family BP full, cols5–6: effect -0.021 pp per $1,000 annual DI; paired mean 5.32 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5791",
+    "before": null,
+    "after": "Table2 pp3172–73 row h Age>=45, family BP DDS-only, cols7–8: effect -0.001 pp per $1,000 annual DI; paired mean 5.93 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5792",
+    "before": null,
+    "after": "Table2 pp3172–73 row i Started1997–2005, family BP full, cols5–6: effect -0.213 pp per $1,000 annual DI; paired mean 3.86 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5793",
+    "before": null,
+    "after": "Table2 pp3172–73 row i Started1997–2005, family BP DDS-only, cols7–8: effect -0.274 pp per $1,000 annual DI; paired mean 4.48 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5794",
+    "before": null,
+    "after": "Table2 pp3172–73 row j Started2006–9, family BP full, cols5–6: effect -0.044 pp per $1,000 annual DI; paired mean 3.35 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5795",
+    "before": null,
+    "after": "Table2 pp3172–73 row j Started2006–9, family BP DDS-only, cols7–8: effect -0.069 pp per $1,000 annual DI; paired mean 3.98 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5796",
+    "before": null,
+    "after": "Table2 pp3172–73 row k Mental, family BP full, cols5–6: effect -0.117 pp per $1,000 annual DI; paired mean 0.65 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5797",
+    "before": null,
+    "after": "Table2 pp3172–73 row k Mental, family BP DDS-only, cols7–8: effect -0.137 pp per $1,000 annual DI; paired mean 0.67 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5798",
+    "before": null,
+    "after": "Table2 pp3172–73 row l Musculoskeletal, family BP full, cols5–6: effect +0.002 pp per $1,000 annual DI; paired mean 0.72 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5799",
+    "before": null,
+    "after": "Table2 pp3172–73 row l Musculoskeletal, family BP DDS-only, cols7–8: effect -0.061 pp per $1,000 annual DI; paired mean 0.66 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5800",
+    "before": null,
+    "after": "Table2 pp3172–73 row m Cancers, family BP full, cols5–6: effect -0.171 pp per $1,000 annual DI; paired mean 18.99 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5801",
+    "before": null,
+    "after": "Table2 pp3172–73 row m Cancers, family BP DDS-only, cols7–8: effect -0.281 pp per $1,000 annual DI; paired mean 19.40 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5802",
+    "before": null,
+    "after": "Table2 pp3172–73 row n Cardiovascular, family BP full, cols5–6: effect -0.020 pp per $1,000 annual DI; paired mean 1.79 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5803",
+    "before": null,
+    "after": "Table2 pp3172–73 row n Cardiovascular, family BP DDS-only, cols7–8: effect -0.035 pp per $1,000 annual DI; paired mean 2.00 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5804",
+    "before": null,
+    "after": "Table2 pp3172–73 row o Other disabilities, family BP full, cols5–6: effect -0.211 pp per $1,000 annual DI; paired mean 6.93 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5805",
+    "before": null,
+    "after": "Table2 pp3172–73 row o Other disabilities, family BP DDS-only, cols7–8: effect -0.236 pp per $1,000 annual DI; paired mean 8.55 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5806",
+    "before": null,
+    "after": "Table2 pp3172–73 row p Years1–2, family BP full, cols5–6: effect -0.107 pp per $1,000 annual DI; paired mean 5.16 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5807",
+    "before": null,
+    "after": "Table2 pp3172–73 row p Years1–2, family BP DDS-only, cols7–8: effect -0.142 pp per $1,000 annual DI; paired mean 4.48 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5808",
+    "before": null,
+    "after": "Table2 pp3172–73 row q Years3–4, family BP full, cols5–6: effect -0.145 pp per $1,000 annual DI; paired mean 2.15 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5809",
+    "before": null,
+    "after": "Table2 pp3172–73 row q Years3–4, family BP DDS-only, cols7–8: effect -0.193 pp per $1,000 annual DI; paired mean 3.98 pp for that subgroup/horizon at AIME [-10,0]. p3171: mortality reductions generally larger in groups with higher baseline mortality; no effect/mean division reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R522",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R523",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R524",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5781",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5782",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5783",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5784",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5785",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5786",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5787",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5788",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5789",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5790",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5791",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5792",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5793",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5794",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5795",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5796",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5797",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5798",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5799",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5800",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5801",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5802",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5803",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5804",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5805",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5806",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5807",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label. Family DDS time-row means 4.48/3.98 repeat cohort-row means; visually verified printed values, not repaired. Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5808",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label.  Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5809",
+    "before": null,
+    "after": "Benchmark is observed mortality among beneficiaries at AIME -$10 to 0 relative to BP, not a constructed untreated marginal-complier mortality mean. Continuous fuzzy RKD weights depend on formula compliance (p3163); source does not establish equality or sufficient target-weight details. Hence unknown, not automatically aligned by locality or unaligned by IV label. Family DDS time-row means 4.48/3.98 repeat cohort-row means; visually verified printed values, not repaired. Independent verbal adjudication: p3171 award-channel and pp3171/3174 cancer/other-disability discussion explicitly connect effects to baseline mortality. Generic across-group sentence does not establish a row-specific verbal comparison for other pairs; those remain eligible nonverbal table pairs. No division inferred from baseline-to-baseline fourfold comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8385",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8386",
+    "before": null,
+    "after": "2XPTKJBQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8385",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8386",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8385",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8386",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2079",
+    "before": null,
+    "after": "Average annual mortality during first four years after DI payments, in percentage points. Detailed binary-treatment labels not required: treatment is continuous. Do not treat the reported average rate as automatically a binary dependent variable. Restrict y1 to four-year horizon; Table2 time-on-DI rows link hy1 (years1–2) and hy2 (years3–4)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8385",
+    "before": null,
+    "after": "Table2 time-on-DI rows: average annual mortality in years1–2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8386",
+    "before": null,
+    "after": "Table2 time-on-DI rows: average annual mortality in years3–4, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J846",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M846",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N846",
+    "before": null,
+    "after": "Table2 cols5–8: family-BP DI income on subgroup mortality; hearings-level estimate is POSITIVE +0.062 pp, not a reduction. First-stage DDS restrictions and time horizons retained separately in comparisons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O846",
+    "before": null,
+    "after": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Heterogeneity is central in introduction p3159; several imprecise subgroup estimates remain eligible. Do not infer subgroup significance from main status."
+  }
+]
+```
