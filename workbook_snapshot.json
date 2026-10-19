@@ -41897,7 +41897,16 @@
     "L4136": "1",
     "M4136": "n/a",
     "N4136": "Empirically calibrated cross-bracket spillover adjustment to marginal value of public funds, versus no-spillover assumption Location: Section VII A, Eq.(6), Table V",
-    "O4136": "Implemented nonlinear rational function of pass-through coefficient and external ETI/tax parameters, not a new DiD regression. Retain observed empirical calibrations; pure hypothetical dose sensitivity rows are conceptual and not independently estimated causal settings."
+    "O4136": "Implemented nonlinear rational function of pass-through coefficient and external ETI/tax parameters, not a new DiD regression. Retain observed empirical calibrations; pure hypothetical dose sensitivity rows are conceptual and not independently estimated causal settings.",
+    "A4137": "A8LFPXLL",
+    "B4137": "h7",
+    "I4137": "1",
+    "J4137": "DiD_conventional",
+    "K4137": "1",
+    "L4137": "0",
+    "M4137": "n/a",
+    "N4137": "Owner top-bracket exposure defined using 2012, predicted baseline assignment Location: Figure A.1 and Table A.6 exposure 2012",
+    "O4137": "Author-linked appendix pp.48/64; baseline definition differs from 2011-2012. One binary excluded exposure in each IV contrast; table and graph deduplicated."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105747,7 +105756,14 @@
     "A9302": "A8LFPXLL",
     "B9302": "h6",
     "C9302": "hy3",
-    "K9302": "MVPF for top marginal personal income tax; dimensionless sufficient-statistic calibration, Eq.(6)."
+    "K9302": "MVPF for top marginal personal income tax; dimensionless sufficient-statistic calibration, Eq.(6).",
+    "A9303": "A8LFPXLL",
+    "B9303": "h7",
+    "C9303": "hy1",
+    "H9303": "0",
+    "I9303": "0",
+    "J9303": "log",
+    "K9303": "Log average full-time employee earnings relative to 2012 baseline."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
