@@ -37350,7 +37350,16 @@
     "L3721": "1",
     "M3721": "n/a",
     "N3721": "Table5 pp1558-60: Remove188-day connection delay; change in consumer surplus.",
-    "O3721": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Explicitly implemented calibrated counterfactual. Main institutional-performance conclusion in conclusion pp1561-62. Continuous growth-rate scenario differs from binary elimination of a friction. Not an observational regression of the policy itself. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented."
+    "O3721": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Explicitly implemented calibrated counterfactual. Main institutional-performance conclusion in conclusion pp1561-62. Continuous growth-rate scenario differs from binary elimination of a friction. Not an observational regression of the policy itself. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented.",
+    "A3722": "2W92PVM3",
+    "B3722": "h20",
+    "I3722": "1",
+    "J3722": "Other",
+    "K3722": "1",
+    "L3722": "1",
+    "M3722": "n/a",
+    "N3722": "Table5 pp1558-60: Remove construction-cost leakage; change in average connection cost.",
+    "O3722": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Explicitly implemented calibrated counterfactual. Main institutional-performance conclusion in conclusion pp1561-62. Continuous growth-rate scenario differs from binary elimination of a friction. Not an observational regression of the policy itself. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented. Independent audit: The implemented step is specifically a 21.3% reduction of modeled connection cost, not joint demand integration. It imposes leakage-as-waste and proportional savings rather than estimating an empirical leakage coefficient; the paper separately cautions that leakage may instead be a transfer (fn53)."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94344,7 +94353,14 @@
     "H8377": "0",
     "I8377": "unknown",
     "J8377": "none",
-    "K8377": "consumer surplus per household, USD; construction as reported Table5."
+    "K8377": "consumer surplus per household, USD; construction as reported Table5.",
+    "A8378": "2W92PVM3",
+    "B8378": "h20",
+    "C8378": "hy1",
+    "H8378": "0",
+    "I8378": "unknown",
+    "J8378": "none",
+    "K8378": "average connection cost per household, USD; construction as reported Table5."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -158690,7 +158706,18 @@
     "O5736": "0",
     "P5736": "1",
     "Q5736": "Table5 alternative-approach CS column, pp1558-59: focal change +52 USD/household; benchmark293 USD/household base-scenario average consumer surplus.",
-    "R5736": "Independent omission: distinct alternative-demand calibrated effect and its own same-column base-case mean. No comparison to experimental CS or construction cost. Same modeled population and weights under this approach; alignment1."
+    "R5736": "Independent omission: distinct alternative-demand calibrated effect and its own same-column base-case mean. No comparison to experimental CS or construction cost. Same modeled population and weights under this approach; alignment1.",
+    "A5737": "2W92PVM3",
+    "B5737": "h20",
+    "C5737": "hc1",
+    "K5737": "1",
+    "L5737": "hy1",
+    "M5737": "outcome_mean",
+    "N5737": "1",
+    "O5737": "1",
+    "P5737": "1",
+    "Q5737": "Table5 pp1558-59: focal estimate -157; benchmark 739 base-scenario average average connection cost.",
+    "R5737": "Same modeled population, weights and scale as within-column baseline. For credit, prose says more than triples CS (level/base); for leakage,21.3% decrease actually used. Do not derive additional ratios."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
