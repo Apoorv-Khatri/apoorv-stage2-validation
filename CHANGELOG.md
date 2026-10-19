@@ -759936,3 +759936,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:08:09.590206+00:00 — Review 7PQVC2SH h21: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6767",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6767",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6767",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6767",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6767",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6767",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6767",
+    "before": null,
+    "after": "p2087: structural growth rate ranges from0.0846 with no schooling to0.1412 with college degree. Explicit same-outcome level comparison; no division printed. Not Table4 parameter SD as an outcome SD."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8909",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8909",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8909",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8909",
+    "before": null,
+    "after": "Entrepreneurial log-productivity growth rate during initial growth phase, per time unit; equation9, Table4A."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3969",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3969",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3969",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3969",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3969",
+    "before": null,
+    "after": "Table4A / pp2086-2088: structural effect of an additional schooling year on entrepreneurial log-productivity growth mu1; minimum-distance m and tail-implied recovery. Four sales/value-added overall/within-sector calibrations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3969",
+    "before": null,
+    "after": "Nonlinear outcome-adaptive model estimation, not IV because equations invert tail indices. Baseline mu1=0.0033; alternatives0.0041,0.0049,0.0039. Schooling changes growth in equation9; m/mu0/SDs themselves are nuisance/model parameters, not additional treatment effects."
+  }
+]
+```

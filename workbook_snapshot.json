@@ -40187,7 +40187,16 @@
     "L3968": "1",
     "M3968": "n/a",
     "N3968": "Figure6b/Table2 col7: worker schooling-bin heterogeneity in upper-tail wage distribution,1995-2017 workforce; near-constant tail indices retained.",
-    "O3968": "Substantive null contrast establishing specificity to entrepreneurship, not balance/pretrend. Same outcome-rank/tail-selection nonlinear estimator as h19. Descriptive gate alternative explicitly held; main follows intro and conclusion contrast."
+    "O3968": "Substantive null contrast establishing specificity to entrepreneurship, not balance/pretrend. Same outcome-rank/tail-selection nonlinear estimator as h19. Descriptive gate alternative explicitly held; main follows intro and conclusion contrast.",
+    "A3969": "7PQVC2SH",
+    "B3969": "h21",
+    "I3969": "1",
+    "J3969": "Other",
+    "K3969": "0",
+    "L3969": "1",
+    "M3969": "n/a",
+    "N3969": "Table4A / pp2086-2088: structural effect of an additional schooling year on entrepreneurial log-productivity growth mu1; minimum-distance m and tail-implied recovery. Four sales/value-added overall/within-sector calibrations.",
+    "O3969": "Nonlinear outcome-adaptive model estimation, not IV because equations invert tail indices. Baseline mu1=0.0033; alternatives0.0041,0.0049,0.0039. Schooling changes growth in equation9; m/mu0/SDs themselves are nuisance/model parameters, not additional treatment effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101156,7 +101165,11 @@
     "A8908": "7PQVC2SH",
     "B8908": "h20",
     "C8908": "hy1",
-    "K8908": "Wage distribution upper-tail index after Mincerian residualization; no systematic schooling change. No own-outcome mean/SD comparison established."
+    "K8908": "Wage distribution upper-tail index after Mincerian residualization; no systematic schooling change. No own-outcome mean/SD comparison established.",
+    "A8909": "7PQVC2SH",
+    "B8909": "h21",
+    "C8909": "hy1",
+    "K8909": "Entrepreneurial log-productivity growth rate during initial growth phase, per time unit; equation9, Table4A."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -177487,7 +177500,17 @@
     "N6766": "1",
     "O6766": "1",
     "P6766": "n/a",
-    "Q6766": "AppendixB.1 pp1-2: top schooling group firms 2.6 times as large as bottom group at age20, QP sales1995-1997 cohort. Potential lagged-reporting survivor bias noted by author."
+    "Q6766": "AppendixB.1 pp1-2: top schooling group firms 2.6 times as large as bottom group at age20, QP sales1995-1997 cohort. Potential lagged-reporting survivor bias noted by author.",
+    "A6767": "7PQVC2SH",
+    "B6767": "h21",
+    "C6767": "hc1",
+    "K6767": "1",
+    "L6767": "hy1",
+    "M6767": "other_level",
+    "N6767": "1",
+    "O6767": "0",
+    "P6767": "n/a",
+    "Q6767": "p2087: structural growth rate ranges from0.0846 with no schooling to0.1412 with college degree. Explicit same-outcome level comparison; no division printed. Not Table4 parameter SD as an outcome SD."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
