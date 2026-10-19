@@ -36926,7 +36926,16 @@
     "L3683": "0",
     "M3683": "n/a",
     "N3683": "Section6.5 / Fig.IA1 p.844: volume-weighted across-order Price impact before/after decimalization, grouped by order size.",
-    "O3683": "Main article explicitly establishes linear weighted pre/post comparisons and qualitative robustness. Order-size groups are sample variants, not binary size treatment. Exact bins, plotted numbers and further outcome constructions unavailable. No invented grid."
+    "O3683": "Main article explicitly establishes linear weighted pre/post comparisons and qualitative robustness. Order-size groups are sample variants, not binary size treatment. Exact bins, plotted numbers and further outcome constructions unavailable. No invented grid.",
+    "A3684": "ZHTZCSY3",
+    "B3684": "h8",
+    "I3684": "1",
+    "J3684": "OLS",
+    "K3684": "0",
+    "L3684": "0",
+    "M3684": "n/a",
+    "N3684": "Footnote18 p.846: change in innovation regressed on change in Percent effective spread; annual liquidity, innovation from event year to two/three years afterward (Dass et al. replication).",
+    "O3684": "Actual implemented supporting result: authors successfully replicate null spread/innovation association using these methods. Not merely a literature citation. Distinct continuous-change regression rather than matched binary DiD. Exact controls/FE, coefficients and whether outcome scale matches Table9 are not established; OLS is inferred from stated regression, not an unseen implementation. No comparison magnitude supplied."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93378,7 +93387,15 @@
     "H8322": "0",
     "I8322": "unknown",
     "J8322": "unknown",
-    "K8322": "Volume-weighted across-order Price impact over month before/after decimalization; order-size groups in Fig.IA1 (unavailable), units inferred as percentage from baseline definition, not visually verified."
+    "K8322": "Volume-weighted across-order Price impact over month before/after decimalization; order-size groups in Fig.IA1 (unavailable), units inferred as percentage from baseline definition, not visually verified.",
+    "A8323": "ZHTZCSY3",
+    "B8323": "h8",
+    "C8323": "hy1",
+    "K8323": "Footnote18: change in innovation (citations) from event year to two/three years afterward; exact transformation not specified in footnote, likely neighboring log1p-change but not asserted.",
+    "A8324": "ZHTZCSY3",
+    "B8324": "h8",
+    "C8324": "hy2",
+    "K8324": "Footnote18: change in innovation (patents) from event year to two/three years afterward; exact transformation not specified in footnote, likely neighboring log1p-change but not asserted."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -621627,3 +621627,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:18:44.159993+00:00 — Review ZHTZCSY3 h8: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8323",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8324",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8323",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8324",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8323",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8324",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8323",
+    "before": null,
+    "after": "Footnote18: change in innovation (citations) from event year to two/three years afterward; exact transformation not specified in footnote, likely neighboring log1p-change but not asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8324",
+    "before": null,
+    "after": "Footnote18: change in innovation (patents) from event year to two/three years afterward; exact transformation not specified in footnote, likely neighboring log1p-change but not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3684",
+    "before": null,
+    "after": "ZHTZCSY3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3684",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3684",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3684",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3684",
+    "before": null,
+    "after": "Footnote18 p.846: change in innovation regressed on change in Percent effective spread; annual liquidity, innovation from event year to two/three years afterward (Dass et al. replication)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3684",
+    "before": null,
+    "after": "Actual implemented supporting result: authors successfully replicate null spread/innovation association using these methods. Not merely a literature citation. Distinct continuous-change regression rather than matched binary DiD. Exact controls/FE, coefficients and whether outcome scale matches Table9 are not established; OLS is inferred from stated regression, not an unseen implementation. No comparison magnitude supplied."
+  }
+]
+```
