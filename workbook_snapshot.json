@@ -512,6 +512,7 @@
     "B107": "The Response of Drug Expenditure to Nonlinear Contract Design: Evidence from Medicare Part D *",
     "C107": "econ",
     "D107": 7,
+    "E107": "DONE — Full available final article and18-page author-linked appendix independently reviewed; actual MIT anchor/hash verified, publisher byte identity unverified. Selected Readme, elasticity.R and Stata implementation inspected, not whole archive or restricted-CMS replication. Retain21 settings70 outcome records132 comparisons; add fixed-utilization standard/observed-contract mechanical effects separately from behavioral responses, methods unknown. Add three qualitative monthly actual/no-kink probability comparisons, no invented coefficients or bin grids. h1 probability-level caption versus log-share/retransformation code and h3 individual-ratio mean versus group-mean ratio remain methodunknown; published h3 outcome-mean benchmark convention retained with code conflict explicit. Normalized excess-mass recovery Other, not automatic RD from kink or nonlinear fitting from command name. TableVI marginal-quantile versus individual-effect-quantile prose links unknown for two verbal flags; distinct individual-effect distribution scope preserved. Constant-contract model contrasts retained without unsupported common-simulation-draw claim. Substantive null cutoffs and crude50-dollar scope retained with uncertainty. Effect/effect mechanical shares and annual-spending denominators for deferred spending not promoted to benchmarks. Printed numeric, sample-year and code conflicts preserved. Original fields, IDs and hyperlinks preserved.",
     "A108": "9XCS46FU",
     "B108": "Machine Learning as a Tool for Hypothesis Generation",
     "C108": "econ",
@@ -41363,7 +41364,16 @@
     "L4089": "0",
     "M4089": "unknown",
     "N4089": "Fill gap versus standard2008 contract holding utilization behavior constant: mechanical payment-incidence effect, p879; average OOP falls about200 dollars and insurer spending rises by same amount. Distinct fixed-behavior estimand from s3.",
-    "O4089": "Author explicitly attributes spending/payment change to filling gap with behavior held fixed. This is a mechanical policy counterfactual, not zero causal content merely because behavior is frozen. Conditional payment aggregation may be linear, while full model recovery is nonlinear; exact implemented inputs/procedure for this reported mechanical calculation not established by inspected sources, so unknown rather than inferred OLS or Other. No effect-to-effect comparison added."
+    "O4089": "Author explicitly attributes spending/payment change to filling gap with behavior held fixed. This is a mechanical policy counterfactual, not zero causal content merely because behavior is frozen. Conditional payment aggregation may be linear, while full model recovery is nonlinear; exact implemented inputs/procedure for this reported mechanical calculation not established by inspected sources, so unknown rather than inferred OLS or Other. No effect-to-effect comparison added.",
+    "A4090": "9VJYE45Y",
+    "B4090": "h14",
+    "I4090": "1",
+    "J4090": "unknown",
+    "K4090": "1",
+    "L4090": "1",
+    "M4090": "unknown",
+    "N4090": "Fill gap versus observed contracts holding utilization behavior constant: mechanical insurer/Medicare spending increase150 dollars per beneficiary, p883; intro p844 says mechanical consequence about60% of overall effect. Distinct fixed-behavior estimand from s4.",
+    "O4090": "Author explicitly attributes spending/payment change to filling gap with behavior held fixed. This is a mechanical policy counterfactual, not zero causal content merely because behavior is frozen. Conditional payment aggregation may be linear, while full model recovery is nonlinear; exact implemented inputs/procedure for this reported mechanical calculation not established by inspected sources, so unknown rather than inferred OLS or Other. No effect-to-effect comparison added."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -103553,7 +103563,14 @@
     "H9093": "0",
     "I9093": "unknown",
     "J9093": "none",
-    "K9093": "Annual insurer spending under fixed utilization, mechanical increase about200 dollars, expressly stated as same amount; p879. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically."
+    "K9093": "Annual insurer spending under fixed utilization, mechanical increase about200 dollars, expressly stated as same amount; p879. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically.",
+    "A9094": "9VJYE45Y",
+    "B9094": "h14",
+    "C9094": "hy1",
+    "H9094": "0",
+    "I9094": "unknown",
+    "J9094": "none",
+    "K9094": "Annual insurer spending under fixed utilization, mechanical increase150 dollars per beneficiary; p883. Medicare interpretation assumes complete pass-through, fn29. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

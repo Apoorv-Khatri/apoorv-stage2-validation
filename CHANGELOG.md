@@ -795297,3 +795297,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:29:13.276743+00:00 — Review 9VJYE45Y h14: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9094",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9094",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9094",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9094",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9094",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9094",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9094",
+    "before": null,
+    "after": "Annual insurer spending under fixed utilization, mechanical increase150 dollars per beneficiary; p883. Medicare interpretation assumes complete pass-through, fn29. Fixed-utilization input distribution not explicitly established; do not transfer individual zero-mass label automatically."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E107",
+    "before": null,
+    "after": "DONE — Full available final article and18-page author-linked appendix independently reviewed; actual MIT anchor/hash verified, publisher byte identity unverified. Selected Readme, elasticity.R and Stata implementation inspected, not whole archive or restricted-CMS replication. Retain21 settings70 outcome records132 comparisons; add fixed-utilization standard/observed-contract mechanical effects separately from behavioral responses, methods unknown. Add three qualitative monthly actual/no-kink probability comparisons, no invented coefficients or bin grids. h1 probability-level caption versus log-share/retransformation code and h3 individual-ratio mean versus group-mean ratio remain methodunknown; published h3 outcome-mean benchmark convention retained with code conflict explicit. Normalized excess-mass recovery Other, not automatic RD from kink or nonlinear fitting from command name. TableVI marginal-quantile versus individual-effect-quantile prose links unknown for two verbal flags; distinct individual-effect distribution scope preserved. Constant-contract model contrasts retained without unsupported common-simulation-draw claim. Substantive null cutoffs and crude50-dollar scope retained with uncertainty. Effect/effect mechanical shares and annual-spending denominators for deferred spending not promoted to benchmarks. Printed numeric, sample-year and code conflicts preserved. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4090",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4090",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4090",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4090",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4090",
+    "before": null,
+    "after": "Fill gap versus observed contracts holding utilization behavior constant: mechanical insurer/Medicare spending increase150 dollars per beneficiary, p883; intro p844 says mechanical consequence about60% of overall effect. Distinct fixed-behavior estimand from s4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4090",
+    "before": null,
+    "after": "Author explicitly attributes spending/payment change to filling gap with behavior held fixed. This is a mechanical policy counterfactual, not zero causal content merely because behavior is frozen. Conditional payment aggregation may be linear, while full model recovery is nonlinear; exact implemented inputs/procedure for this reported mechanical calculation not established by inspected sources, so unknown rather than inferred OLS or Other. No effect-to-effect comparison added."
+  }
+]
+```
