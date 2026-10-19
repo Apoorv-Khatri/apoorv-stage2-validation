@@ -39300,7 +39300,16 @@
     "L3892": "1",
     "M3892": "n/a",
     "N3892": "SectionIV.E pp162-164 / Figure4: expansion of MM competition and markup reductions, MM proxy for bar market versus VI mixed-product group. Markups recovered via output elasticity/material revenue share, not estimated regression on MM share.",
-    "O3892": "p164 explicitly interprets pattern as competition due to MM expansion leading to lower margins. Structural measurement plus historical attribution, no isolated causal coefficient. Exclude if parent requires explicit intervention rather than author-attributed trajectory; method not IV or DiD. Figure caption market-share weighted conflicts with equation18 material-expenditure weighting; retain latter construction and flag caption."
+    "O3892": "p164 explicitly interprets pattern as competition due to MM expansion leading to lower margins. Structural measurement plus historical attribution, no isolated causal coefficient. Exclude if parent requires explicit intervention rather than author-attributed trajectory; method not IV or DiD. Figure caption market-share weighted conflicts with equation18 material-expenditure weighting; retain latter construction and flag caption.",
+    "A3893": "5SL56HMJ",
+    "B3893": "h16",
+    "I3893": "1",
+    "J3893": "Other",
+    "K3893": "0",
+    "L3893": "1",
+    "M3893": "n/a",
+    "N3893": "SectionIV.F pp164-165 / AppendixB.9: consumer surplus change from MM-attributed price decline (main51%, appendix60%), holding1963 demand fixed and using2002 prices; alternative demand elasticities-0.6,-3.5,-1.",
+    "O3893": "Explicit counterfactual demand/consumer-surplus integration, nonlinear mapping in price change (AppendixB.9 formula), not OLS merely because demand is linear. Main vs supplement attribution fraction conflicts51%/60%; do not substitute. Price change is continuous dose, not binary adoption. Main welfare contribution highlighted introduction even though SectionIV.F calls it not main focus; main-role adjudication needed."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -98456,7 +98465,11 @@
     "A8686": "5SL56HMJ",
     "B8686": "h15",
     "C8686": "hy1",
-    "K8686": "Markup price/marginal-cost ratio by technology, equation18 and Figure4; baseline/end values in prose MM1.8 to1.1, VI1.4 toabout1.2; FigureMM start visually nearer1.5, source conflict."
+    "K8686": "Markup price/marginal-cost ratio by technology, equation18 and Figure4; baseline/end values in prose MM1.8 to1.1, VI1.4 toabout1.2; FigureMM start visually nearer1.5, source conflict.",
+    "A8687": "5SL56HMJ",
+    "B8687": "h16",
+    "C8687": "hy1",
+    "K8687": "Change in consumer surplus, billions of1997USD per year: main9-11; AppendixB.9 9.3,11.2,9.5 (60% attribution label). Shipment-normalized shares are cross-outcome comparisons, not qualifying CS benchmarks."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
