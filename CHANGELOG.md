@@ -831081,3 +831081,498 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:52:45.011955+00:00 — Review 9XMIBBJM h29: source-audited coding and linked comparisons
+
+81 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7447",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7448",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7449",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7450",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7451",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7452",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7447",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7448",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7449",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7450",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7451",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7452",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7447",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7448",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7449",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7450",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7451",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7452",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7449",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7450",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7447",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7448",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7449",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7450",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7451",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7452",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7447",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7448",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7449",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7450",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7451",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7452",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7450",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7450",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7447",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7448",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7450",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7451",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7452",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7447",
+    "before": null,
+    "after": "Table A.14 col.1; appendix.txt L1821,L1828: focal effect 0.445; benchmark 147 (displayed mean of that column)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7448",
+    "before": null,
+    "after": "Table A.14 col.2; appendix.txt L1821,L1828: focal effect 3.132; benchmark 147 (displayed mean of that column)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7449",
+    "before": null,
+    "after": "Table A.14 col.3; appendix.txt L1821,L1828: focal effect 2.058; benchmark 149.3 (displayed mean of that column)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7450",
+    "before": null,
+    "after": "Table A.14 col.4; appendix.txt L1821,L1828: focal effect 5.090; benchmark 149.3 (displayed mean of that column)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7451",
+    "before": null,
+    "after": "Table A.14 col.5; appendix.txt L1821,L1828: focal effect 1.104; benchmark 146.9 (displayed mean of that column)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7452",
+    "before": null,
+    "after": "Table A.14 col.6; appendix.txt L1821,L1828: focal effect 2.202; benchmark 146.9 (displayed mean of that column)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7447",
+    "before": null,
+    "after": "Benchmark is not established as the untreated local cutoff target; table sample means alone do not establish alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7448",
+    "before": null,
+    "after": "Benchmark is not established as the untreated local cutoff target; table sample means alone do not establish alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7449",
+    "before": null,
+    "after": "Benchmark is not established as the untreated local cutoff target; table sample means alone do not establish alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7450",
+    "before": null,
+    "after": "Benchmark is not established as the untreated local cutoff target; table sample means alone do not establish alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7451",
+    "before": null,
+    "after": "Benchmark is not established as the untreated local cutoff target; table sample means alone do not establish alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7452",
+    "before": null,
+    "after": "Benchmark is not established as the untreated local cutoff target; table sample means alone do not establish alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9261",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9261",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9261",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9261",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9261",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9261",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9261",
+    "before": null,
+    "after": "Number of students enrolled."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4120",
+    "before": null,
+    "after": "9XMIBBJM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4120",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4120",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4120",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4120",
+    "before": null,
+    "after": "Party-turnover direct RD on school enrollment counts; Appendix A.14."
+  }
+]
+```
