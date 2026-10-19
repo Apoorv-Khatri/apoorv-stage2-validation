@@ -40178,7 +40178,16 @@
     "L3967": "1",
     "M3967": "n/a",
     "N3967": "Figure6a/Table2 cols1-6: schooling-group heterogeneity in upper-tail sales/value-added distributions; log empirical CCDF slopes conditional on schooling bins, top10%/5% and cohort/sector-residualization variants.",
-    "O3967": "Broad intention gate: pp2074-2075 interpret tail thickness as consequence of schooling-induced growth, central abstract result. Outcome-selected tails and empirical ranks make full distribution estimator nonlinear in underlying reported firm outcomes; not an OLS effect of log sales on an externally fixed CCDF. Narrower descriptive-tail exclusion is held for adjudication. Sector residualization does not override full estimator."
+    "O3967": "Broad intention gate: pp2074-2075 interpret tail thickness as consequence of schooling-induced growth, central abstract result. Outcome-selected tails and empirical ranks make full distribution estimator nonlinear in underlying reported firm outcomes; not an OLS effect of log sales on an externally fixed CCDF. Narrower descriptive-tail exclusion is held for adjudication. Sector residualization does not override full estimator.",
+    "A3968": "7PQVC2SH",
+    "B3968": "h20",
+    "I3968": "1",
+    "J3968": "Other",
+    "K3968": "0",
+    "L3968": "1",
+    "M3968": "n/a",
+    "N3968": "Figure6b/Table2 col7: worker schooling-bin heterogeneity in upper-tail wage distribution,1995-2017 workforce; near-constant tail indices retained.",
+    "O3968": "Substantive null contrast establishing specificity to entrepreneurship, not balance/pretrend. Same outcome-rank/tail-selection nonlinear estimator as h19. Descriptive gate alternative explicitly held; main follows intro and conclusion contrast."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101143,7 +101152,11 @@
     "A8907": "7PQVC2SH",
     "B8907": "h19",
     "C8907": "hy2",
-    "K8907": "Value-added distribution upper-tail index, Table2 cols5-6; not a separate sales outcome or invented mean."
+    "K8907": "Value-added distribution upper-tail index, Table2 cols5-6; not a separate sales outcome or invented mean.",
+    "A8908": "7PQVC2SH",
+    "B8908": "h20",
+    "C8908": "hy1",
+    "K8908": "Wage distribution upper-tail index after Mincerian residualization; no systematic schooling change. No own-outcome mean/SD comparison established."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

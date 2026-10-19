@@ -759849,3 +759849,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:07:48.313482+00:00 — Review 7PQVC2SH h20: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8908",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8908",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8908",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8908",
+    "before": null,
+    "after": "Wage distribution upper-tail index after Mincerian residualization; no systematic schooling change. No own-outcome mean/SD comparison established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3968",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3968",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3968",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3968",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3968",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3968",
+    "before": null,
+    "after": "Figure6b/Table2 col7: worker schooling-bin heterogeneity in upper-tail wage distribution,1995-2017 workforce; near-constant tail indices retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3968",
+    "before": null,
+    "after": "Substantive null contrast establishing specificity to entrepreneurship, not balance/pretrend. Same outcome-rank/tail-selection nonlinear estimator as h19. Descriptive gate alternative explicitly held; main follows intro and conclusion contrast."
+  }
+]
+```
