@@ -660534,3 +660534,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:47:05.667618+00:00 — Review 4BNXLZ5D s3: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R561",
+    "before": null,
+    "after": "p889 3.7pp effect for one TREATMENT-SD rise in log prior sales: no linked outcome mean/SD. Table3 standalone outcome means/SDs not deliberate pairing. Not outcome standardization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2114",
+    "before": null,
+    "after": "Scope restricted to log previous-sales specifications (Table5 odd columns); transaction-count equivalents under h15. Cash-in-advance indicator (one versus zero for the other financing modes)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2115",
+    "before": null,
+    "after": "Scope restricted to log previous-sales specifications (Table5 odd columns); transaction-count equivalents under h15. Letter-of-credit indicator (one versus zero for the other financing modes)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2116",
+    "before": null,
+    "after": "Scope restricted to log previous-sales specifications (Table5 odd columns); transaction-count equivalents under h15. Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I861",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J861",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L861",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M861",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N861",
+    "before": null,
+    "after": "Table5 odd cols1/3/5: log cumulative previous sales, interacted with common-law indicator, on three financing-mode indicators. Log previous-transaction count split h15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O861",
+    "before": null,
+    "after": "Table5 p889 explicitly identifies changes within customer-country; p864 explains FE rule out selection of customers who buy less on cash-in-advance. Customer×country, product, year are THREE nonnested sets. HDFE substantive selection rationale plus dimensions; original claim fewer than three is wrong. No higher-priority estimator. Main central relationship conclusion pp856–57,898. Fn28/online Table8 LC-exclusion robustness is grouped here as a routine sample variant, not a separately verified HDFE implementation. Available text establishes dropping LC, not the unseen estimator cells. Reopen a method split only if final appendix shows a distinct estimator."
+  }
+]
+```
