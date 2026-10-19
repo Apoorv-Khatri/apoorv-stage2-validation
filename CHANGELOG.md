@@ -780726,3 +780726,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T12:17:31.214490+00:00 — Review 8A6ENF64 h29: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9013",
+    "before": null,
+    "after": "8A6ENF64"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9013",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9013",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9013",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9013",
+    "before": null,
+    "after": "Punishment points/Birr spent on player1; same observed count outcome as Table3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4052",
+    "before": null,
+    "after": "8A6ENF64"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4052",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4052",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4052",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4052",
+    "before": null,
+    "after": "Contribution profile(2,4) versus(6,6); p762 fn20 implemented negative-binomial robustness to Table3, estimates stated same. Separate nonlinear estimator; no printed coefficients invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4052",
+    "before": null,
+    "after": "Article p762 fn20 explicitly says negative-binomial estimates are the same as the Table3 Poisson estimates; the nine profile contrasts are inherited from that specified regression, not an invented cross-product. Nonlinear negative-binomial outcome estimator => Other. Binary refers to each named profile-versus-(6,6) contrast, not randomized leader types. Supporting robustness main0; no numerical NB coefficient or outcome benchmark supplied."
+  }
+]
+```
