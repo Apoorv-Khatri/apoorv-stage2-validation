@@ -716997,3 +716997,438 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:15:20.391622+00:00 — Review 5SL56HMJ s6: source-audited coding and linked comparisons
+
+71 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6412",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6413",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6414",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6415",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6416",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6412",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6413",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6414",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6415",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6416",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6412",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6413",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6414",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6415",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6416",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K585",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L585",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6412",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6413",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6414",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6415",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6416",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M585",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6412",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6413",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6414",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6415",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6416",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6413",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O585",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6413",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P585",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6412",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6413",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6414",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6415",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6416",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q585",
+    "before": null,
+    "after": "p160 all-plants prose pairs0.31 with0.33 survival rate; Table10 VI cols3-4 pairs0.31 with0.23, all-plants cols1-2 print0.39/0.36 with0.33. Original row conflates these. Hold precise allocation for adjudication; independently clear table triples added below."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6412",
+    "before": null,
+    "after": "Table10 col1 p161, all plants1963-active sample: sheet-share marginal effect 0.39 probability units per unit share; same-column baseline survival probability 0.33, horizon2002. p160 prose0.31/0.33 not substituted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6413",
+    "before": null,
+    "after": "Table10 col2 p161, all plants1963-active sample: sheet-share marginal effect 0.36 probability units per unit share; same-column baseline survival probability 0.33, horizon2002. p160 prose0.31/0.33 not substituted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6414",
+    "before": null,
+    "after": "Table10 col3 p161, VI1963-active sample: sheet-share marginal effect 0.31 probability units per unit share; same-column baseline survival probability 0.23, horizon2002. p160 prose0.31/0.33 not substituted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6415",
+    "before": null,
+    "after": "Table10 col4 p161, VI1963-active sample: sheet-share marginal effect 0.31 probability units per unit share; same-column baseline survival probability 0.23, horizon2002. p160 prose0.31/0.33 not substituted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6416",
+    "before": null,
+    "after": "Table10 col5 p161, VI1963-active sample: sheet-share marginal effect 0.22 probability units per unit share; same-column baseline survival probability 0.22, horizon2002. p160 prose0.31/0.33 not substituted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R585",
+    "before": null,
+    "after": "Do not treat source 31 percent as divided by33 percent: marginal effects are probability changes. Baseline construction (sample mean versus fitted at covariates) not specified; untreated sheet-share0 target not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6412",
+    "before": null,
+    "after": "Baseline probability computation/conditioning and untreated share0 target not specified. Same sample does not establish alignment. Distinct coefficient columns retained even when rounded estimates coincide."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6413",
+    "before": null,
+    "after": "Baseline probability computation/conditioning and untreated share0 target not specified. Same sample does not establish alignment. Distinct coefficient columns retained even when rounded estimates coincide."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6414",
+    "before": null,
+    "after": "Baseline probability computation/conditioning and untreated share0 target not specified. Same sample does not establish alignment. Distinct coefficient columns retained even when rounded estimates coincide."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6415",
+    "before": null,
+    "after": "Baseline probability computation/conditioning and untreated share0 target not specified. Same sample does not establish alignment. Distinct coefficient columns retained even when rounded estimates coincide."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6416",
+    "before": null,
+    "after": "Baseline probability computation/conditioning and untreated share0 target not specified. Same sample does not establish alignment. Distinct coefficient columns retained even when rounded estimates coincide."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2216",
+    "before": null,
+    "after": "Binary indicator of survival to2002 among1963 active plants (0=exited); alternate horizons stated only qualitatively in fn44. Original zero-mass0 is wrong: survival rates below1 and binary outcome establish exits. Detailed labels optional for continuous parent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I907",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J907",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K907",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L907",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M907",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N907",
+    "before": null,
+    "after": "Table10 / pp160-161: continuous initial sheet-specialization share effect on survival to2002 among1963 plants, all/VI samples; nonlinear binary-response marginal effects. Footnote44 reports alternate base years1967,1972,1977 and terminal1997/1992 robustness; no invented grid or estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O907",
+    "before": null,
+    "after": "Log-likelihood/chi-square and marginal-effect implementation establish nonlinear binary response; exact logit/probit link not named in available Table10 source. Do not infer it solely from AppendixB.5 probit. Authors explicitly call a strong positive impact. Main prose all-plants0.31 conflicts with table0.39/0.36; preserve conflict. Endpoint illustration does not make continuous regressor binary."
+  }
+]
+```
