@@ -37782,7 +37782,16 @@
     "L3757": "0",
     "M3757": "n/a",
     "N3757": "TableC2: IPW-reweighted reform effects on age, literacy, female and white indicators for census-linked hires.",
-    "O3757": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. IPW corrects census-linkage selection on observed salary, job and origin, not treatment matching. Distinct weighted target; mean-weight construction unresolved. TableC2 explicitly bases IPW on salary, occupation, same-state origin and foreign-born status. None is the focal age/literacy/female/white outcome; selection-on-observables weights are not shown to be chosen on these focal outcomes. No basis for replacing DiD with Matching or Other."
+    "O3757": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. IPW corrects census-linkage selection on observed salary, job and origin, not treatment matching. Distinct weighted target; mean-weight construction unresolved. TableC2 explicitly bases IPW on salary, occupation, same-state origin and foreign-born status. None is the focal age/literacy/female/white outcome; selection-on-observables weights are not shown to be chosen on these focal outcomes. No basis for replacing DiD with Matching or Other.",
+    "A3758": "3ZIDN6KF",
+    "B3758": "h20",
+    "I3758": "1",
+    "J3758": "DiD_conventional",
+    "K3758": "1",
+    "L3758": "0",
+    "M3758": "n/a",
+    "N3758": "FigureA2: leave-one-treated-city-out robustness of the 1883 reform on log delivery errors; 23 city omissions grouped.",
+    "O3758": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. Caption cites Table2col2 despite wave-restricted plotted samples; no numerical graph grid invented. Different figure result location; variants grouped."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95245,7 +95254,14 @@
     "H8439": "1",
     "I8439": "1",
     "J8439": "none",
-    "K8439": "White among census-linked hires, weighted TableC2."
+    "K8439": "White among census-linked hires, weighted TableC2.",
+    "A8440": "3ZIDN6KF",
+    "B8440": "h20",
+    "C8440": "hy1",
+    "H8440": "0",
+    "I8440": "unknown",
+    "J8440": "log",
+    "K8440": "Log delivery errors."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
