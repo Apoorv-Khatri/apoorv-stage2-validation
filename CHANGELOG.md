@@ -614532,3 +614532,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:26:47.548212+00:00 — Review XTWW4AUI h11: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8299",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8299",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8299",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8299",
+    "before": null,
+    "after": "Return outcome of timing-premium analysis; exact stock/portfolio implementation not specified. Main text establishes implemented factor control and unchanged result, but does not settle Fama-MacBeth slope versus LME alpha or treatment coding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3675",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3675",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3675",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3675",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3675",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3675",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3675",
+    "before": null,
+    "after": "Shorting-premium E-factor control robustness, pp.139-140."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3675",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Main text establishes implemented factor control and unchanged result, but does not settle Fama-MacBeth slope versus LME alpha or treatment coding."
+  }
+]
+```

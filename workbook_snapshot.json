@@ -36807,7 +36807,16 @@
     "L3674": "0",
     "M3674": "n/a",
     "N3674": "IV365/IVD double sorts restricted to bottom20% mispricing (most underpriced) stocks, p.139.",
-    "O3674": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Implemented sort contrast known and positive at top IV quintile; do not infer weights or horizon."
+    "O3674": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Implemented sort contrast known and positive at top IV quintile; do not infer weights or horizon.",
+    "A3675": "XTWW4AUI",
+    "B3675": "h11",
+    "I3675": "1",
+    "J3675": "unknown",
+    "K3675": "unknown",
+    "L3675": "0",
+    "M3675": "unknown",
+    "N3675": "Shorting-premium E-factor control robustness, pp.139-140.",
+    "O3675": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Minimum implemented scope from final main article; supplement unavailable. Main text establishes implemented factor control and unchanged result, but does not settle Fama-MacBeth slope versus LME alpha or treatment coding."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93076,7 +93085,11 @@
     "H8298": "0",
     "I8298": "unknown",
     "J8298": "unknown",
-    "K8298": "High-minus-low IVD portfolio return; holding horizon not stated in final main paragraph. Implemented sort contrast known and positive at top IV quintile; do not infer weights or horizon."
+    "K8298": "High-minus-low IVD portfolio return; holding horizon not stated in final main paragraph. Implemented sort contrast known and positive at top IV quintile; do not infer weights or horizon.",
+    "A8299": "XTWW4AUI",
+    "B8299": "h11",
+    "C8299": "hy1",
+    "K8299": "Return outcome of timing-premium analysis; exact stock/portfolio implementation not specified. Main text establishes implemented factor control and unchanged result, but does not settle Fama-MacBeth slope versus LME alpha or treatment coding."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
