@@ -39019,7 +39019,16 @@
     "L3865": "0",
     "M3865": "n/a",
     "N3865": "Appendix II.D pp38-43: bills-versus10-year coupon maturity rule under yield-curve slopes; reported1-,3-,12-month holding outcomes grouped, G10/developed/developed-emerging and sample-window robustness. Same1975-2015 G10 one-month results repeated from main figures/tables excluded here. No unseen horizon-by-sample cells inferred. Where only long-bond returns printed, retain implemented scope without inventing maturity difference.",
-    "O3865": "Portfolio-rule interpretation only: substitute bond maturity on the same historical price/exchange-rate path and fixed funding/investment currencies. This is not an effect of rates/slopes on prices. Annualized averages of country log returns with predetermined sort weights give linear contrasts on the reported log-return scale (OLS code), not identifying FE or matching. Price-taking and feasible frictionless trading are maintained; transaction costs absent (p4158). Sharpe ratios themselves are nonlinear descriptive summaries, not classified OLS effects. Causal gate and linearity domain require adjudication. Conditional linearity is established by p4152 averaging country log returns with date-t sort information. OLS is a taxonomy for this linear historical-path contrast, not evidence of an estimated causal regression or market-equilibrium intervention."
+    "O3865": "Portfolio-rule interpretation only: substitute bond maturity on the same historical price/exchange-rate path and fixed funding/investment currencies. This is not an effect of rates/slopes on prices. Annualized averages of country log returns with predetermined sort weights give linear contrasts on the reported log-return scale (OLS code), not identifying FE or matching. Price-taking and feasible frictionless trading are maintained; transaction costs absent (p4158). Sharpe ratios themselves are nonlinear descriptive summaries, not classified OLS effects. Causal gate and linearity domain require adjudication. Conditional linearity is established by p4152 averaging country log returns with date-t sort information. OLS is a taxonomy for this linear historical-path contrast, not evidence of an estimated causal regression or market-equilibrium intervention.",
+    "A3866": "5EFFX2TK",
+    "B3866": "h15",
+    "I3866": "1",
+    "J3866": "OLS",
+    "K3866": "0",
+    "L3866": "0",
+    "M3866": "n/a",
+    "N3866": "AppendixIII.B p45 / FigureA11: zero-coupon maturity dose under slope carry rule in extended country sample1987:5-2015:12; same3-month horizon, bills4.20% versus15-year-2.30%; no numeric difference reported.",
+    "O3866": "Portfolio-rule interpretation only: substitute bond maturity on the same historical price/exchange-rate path and fixed funding/investment currencies. This is not an effect of rates/slopes on prices. Annualized averages of country log returns with predetermined sort weights give linear contrasts on the reported log-return scale (OLS code), not identifying FE or matching. Price-taking and feasible frictionless trading are maintained; transaction costs absent (p4158). Sharpe ratios themselves are nonlinear descriptive summaries, not classified OLS effects. Causal gate and linearity domain require adjudication. Conditional linearity is established by p4152 averaging country log returns with date-t sort information. OLS is a taxonomy for this linear historical-path contrast, not evidence of an estimated causal regression or market-equilibrium intervention."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97983,7 +97992,11 @@
     "H8659": "0",
     "I8659": "unknown",
     "J8659": "other",
-    "K8659": "Appendix FigureA7 p40: cumulative dollar log excess returns, the sum of currency and local-bond components under the same maturity rule; cumulative local-bond component is the rule contrast. Sum of monthly log returns, not an annualized mean. No numeric cumulative endpoints invented."
+    "K8659": "Appendix FigureA7 p40: cumulative dollar log excess returns, the sum of currency and local-bond components under the same maturity rule; cumulative local-bond component is the rule contrast. Sum of monthly log returns, not an annualized mean. No numeric cumulative endpoints invented.",
+    "A8660": "5EFFX2TK",
+    "B8660": "h15",
+    "C8660": "hy1",
+    "K8660": "Annualized dollar log excess return across zero-coupon maturities in extended sample. Annualized difference of log holding-period returns; not log of a signed excess return. No evidence establishing a point mass at zero."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -167089,7 +167102,29 @@
     "O6126": "0",
     "P6126": "0",
     "Q6126": "Appendix II.D pp38-43, developed/emerging1975-2015, 12-month holding: maturity-rule dollar log return change -5.83pp/year; same-outcome long-maturity strategy mean -2.78%, annualized percent. Same sort/countries, horizon and sample as focal contrast. This is the LONG-maturity treated endpoint, not the short-maturity baseline; benchmark label in this evidence overrides generic short-maturity wording.",
-    "R6126": "Eligible explicit endpoint pairing, but treated long-maturity outcome is not untreated rule mean. Parent may prefer decomposition-only exclusion; eligibility and alignment adjudicated independently."
+    "R6126": "Eligible explicit endpoint pairing, but treated long-maturity outcome is not untreated rule mean. Parent may prefer decomposition-only exclusion; eligibility and alignment adjudicated independently.",
+    "A6127": "5EFFX2TK",
+    "B6127": "h15",
+    "C6127": "hc1",
+    "K6127": "1",
+    "L6127": "hy1",
+    "M6127": "outcome_mean",
+    "N6127": "1",
+    "O6127": "0",
+    "P6127": "1",
+    "Q6127": "AppendixIII.B p45 FigureA11: maturity-rule dollar log return change 15-year versus bills (difference not numerically printed); same-outcome short-maturity strategy mean 4.20%, annualized percent. Same sort/countries, horizon and sample as focal contrast. ",
+    "R6127": "Short maturity is the untreated rule on same historical paths and portfolio weights; alignment conditional on price-taking rule estimand, not on an exogenous maturity shock. Local term premium is the printed long-minus-short-maturity change in dollar return by the return identity; not a cross-outcome benchmark.",
+    "A6128": "5EFFX2TK",
+    "B6128": "h15",
+    "C6128": "hc2",
+    "K6128": "1",
+    "L6128": "hy1",
+    "M6128": "outcome_mean",
+    "N6128": "1",
+    "O6128": "0",
+    "P6128": "0",
+    "Q6128": "AppendixIII.B p45 FigureA11: maturity-rule dollar log return change 15-year versus bills (difference not numerically printed); same-outcome long-maturity strategy mean -2.30%, annualized percent. Same sort/countries, horizon and sample as focal contrast. This is the LONG-maturity treated endpoint, not the short-maturity baseline; benchmark label in this evidence overrides generic short-maturity wording.",
+    "R6128": "Eligible explicit endpoint pairing, but treated long-maturity outcome is not untreated rule mean. Parent may prefer decomposition-only exclusion; eligibility and alignment adjudicated independently."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
