@@ -805218,3 +805218,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:40:40.281747+00:00 — Review 9XMIBBJM s10: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2414",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2414",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2414",
+    "before": null,
+    "after": "Individual fourth-grade Prova Brasil score, math/Portuguese average standardized by the no-party-turnover individual distribution; Appendix A.8. Causal eligibility held unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I963",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J963",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M963",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N963",
+    "before": null,
+    "after": "Unconditional party turnover and fourth-grade standardized scores, Appendix A.8 columns 1–2; municipality dummy controls in column 2. Main p.448 calls OLS an effect-size estimate; footnote 21 explicitly calls A.8 associations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O963",
+    "before": null,
+    "after": "Contested causal gate, not an identification-quality rejection. No explicit identifying role established for municipal FE. Candidate-turnover slopes and all comparison additions are held pending gate adjudication; do not invent a separate identifying-FE estimator."
+  }
+]
+```
