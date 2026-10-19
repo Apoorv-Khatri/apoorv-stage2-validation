@@ -683160,3 +683160,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:45:10.926536+00:00 — Review 4X3H7PWW h4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8572",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8572",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8572",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8572",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8572",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8572",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8572",
+    "before": null,
+    "after": "Hourly-wage-based predicted earnings increase under1967 floor, overall and subgroups; TableIII. Nonlinear wage-floor mapping."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3820",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3820",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3820",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3820",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3820",
+    "before": null,
+    "after": "TableIII cols1-3/pp194-195: mechanical counterfactual assign1967 minimum to below-floor workers, perfect compliance/no employment change and spillovers; predicted wage changes overall/by race/education."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3820",
+    "before": null,
+    "after": "Policy intervention calculation not pure forecasting. Nonlinear floor mapping of wages and average proportional changes. Alternative spillover cutoffs in footnote39 grouped. No mean/SD benchmark explicitly paired beyond proportional wage-change interpretation; no invented baseline wage values."
+  }
+]
+```

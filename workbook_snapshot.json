@@ -38589,7 +38589,16 @@
     "L3819": "0",
     "M3819": "n/a",
     "N3819": "TableVI Alternative2: continuous state share earning below$1.60 in1966 × post on employment indicators and log annual earnings, All/Black/White.",
-    "O3819": "Distinct treatment from Kaitz index. Main TableVI SD0.08; AppendixE6 says0.008. Preserve conflict; no outcome-SD comparison."
+    "O3819": "Distinct treatment from Kaitz index. Main TableVI SD0.08; AppendixE6 says0.008. Preserve conflict; no outcome-SD comparison.",
+    "A3820": "4X3H7PWW",
+    "B3820": "h4",
+    "I3820": "1",
+    "J3820": "Other",
+    "K3820": "1",
+    "L3820": "0",
+    "M3820": "n/a",
+    "N3820": "TableIII cols1-3/pp194-195: mechanical counterfactual assign1967 minimum to below-floor workers, perfect compliance/no employment change and spillovers; predicted wage changes overall/by race/education.",
+    "O3820": "Policy intervention calculation not pure forecasting. Nonlinear floor mapping of wages and average proportional changes. Alternative spillover cutoffs in footnote39 grouped. No mean/SD benchmark explicitly paired beyond proportional wage-change interpretation; no invented baseline wage values."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97014,7 +97023,14 @@
     "A8571": "4X3H7PWW",
     "B8571": "h3",
     "C8571": "hy3",
-    "K8571": "Log annual earnings; TableVI Alternative2, all and race groups."
+    "K8571": "Log annual earnings; TableVI Alternative2, all and race groups.",
+    "A8572": "4X3H7PWW",
+    "B8572": "h4",
+    "C8572": "hy1",
+    "H8572": "0",
+    "I8572": "unknown",
+    "J8572": "other",
+    "K8572": "Hourly-wage-based predicted earnings increase under1967 floor, overall and subgroups; TableIII. Nonlinear wage-floor mapping."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
