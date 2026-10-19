@@ -777603,3 +777603,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T12:05:55.121811+00:00 — Review 8A6ENF64 s3: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2349",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2349",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2349",
+    "before": null,
+    "after": "PCT per hectare across first and second assessments; reported level outcome in two-period DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J942",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M942",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N942",
+    "before": null,
+    "after": "Weighted LEQ punishment points x second-assessment indicator, Table7 cols3-4; conventional two-period DiD with group FE and optional period x covariate controls;25 groups/50 observations. NOT binary leader dummy in displayed table. Coefficients5.619 and4.611 per point."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O942",
+    "before": null,
+    "after": "pp775-776: dummy variant separately reported as not shown. Treatment is weighted LEQ dose, not assignment or merely post. No experimental leader assignment; maintained differential-change interpretation needs parallel trends. 4.46 average points and20.56 imply dose scaling; prose calls this second-round level difference though coefficient is DiD. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
+  }
+]
+```
