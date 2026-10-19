@@ -40373,7 +40373,16 @@
     "L3987": "0",
     "M3987": "n/a",
     "N3987": "Table5 within-sector rows: development accounting using within-five-digit-sector estimated model parameters, two accounting outcomes and six calibrations. Scope restricted to panel B, Caselli accounting; panel A separately h30.",
-    "O3987": "Substantive robustness of aggregate effect; nonlinear full model not FE despite within-sector input estimation. No extra treatment effect of sector assignment."
+    "O3987": "Substantive robustness of aggregate effect; nonlinear full model not FE despite within-sector input estimation. No extra treatment effect of sector assignment.",
+    "A3988": "89PULMFU",
+    "B3988": "h1",
+    "I3988": "1",
+    "J3988": "IV",
+    "K3988": "0",
+    "L3988": "1",
+    "M3988": "unknown",
+    "N3988": "Table1C col1: CO log pollution intensity response to log(1-abatement cost share), IV slope130.030. Same equation17 but pollutant-specific excluded interaction; no SO2 IV reported.",
+    "O3988": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101472,7 +101481,11 @@
     "A8927": "7PQVC2SH",
     "B8927": "h39",
     "C8927": "hy1",
-    "K8927": "Caselli explained fraction, within-sector parameter robustness."
+    "K8927": "Caselli explained fraction, within-sector parameter robustness.",
+    "A8928": "89PULMFU",
+    "B8928": "h1",
+    "C8928": "hy1",
+    "K8928": "Change in log((CO emissions+1)/real output), equation17 and fn22; county x six-digit NAICS x year. Table dependent label omits differencing; retain conflict. Nonlinear alpha inversion is not the outcome. No numerical zero mass of transformed difference inferred."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
