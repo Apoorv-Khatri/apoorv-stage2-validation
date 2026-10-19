@@ -41942,7 +41942,16 @@
     "L4141": "0",
     "M4141": "n/a",
     "N4141": "Baseline any-top-bracket exposure: flexible control and nonbusiness-income composition sample robustness Location: Figure A.2; Table A.6 baseline/unweighted/exclude-top0.1/wages/capital/investment/FIRE sample rows",
-    "O4141": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4141": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4142": "A8LFPXLL",
+    "B4142": "h12",
+    "I4142": "1",
+    "J4142": "DiD_conventional",
+    "K4142": "1",
+    "L4142": "0",
+    "M4142": "n/a",
+    "N4142": "Baseline exposure assignment among single-household-owner firms Location: Figure A.3 and Table A.6 single-owner row",
+    "O4142": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105827,7 +105836,14 @@
     "H9307": "0",
     "I9307": "0",
     "J9307": "log",
-    "K9307": "Log average full-time nonowner earnings; baseline controls/sample variants retained together, not a separate OLS method."
+    "K9307": "Log average full-time nonowner earnings; baseline controls/sample variants retained together, not a separate OLS method.",
+    "A9308": "A8LFPXLL",
+    "B9308": "h12",
+    "C9308": "hy1",
+    "H9308": "0",
+    "I9308": "0",
+    "J9308": "log",
+    "K9308": "Log average employee earnings, single-household-owner firms; conditional time path and post-reform event-study results."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
