@@ -749931,3 +749931,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:27:31.472080+00:00 — Review 64JY936S h17: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8851",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8851",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8851",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8851",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8851",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8851",
+    "before": null,
+    "after": "Employer pass-through fraction: Table1 A1.007/1.085; B0.994/1.013; C0.910/0.971; D1.097/1.081 (short/medium). Ratio of wage DD coefficients, not dependent wage level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3932",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3932",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3932",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3932",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3932",
+    "before": null,
+    "after": "Age eligibility tax cut incidence fraction accruing to employer, Table1 A-D: gross-wage DD divided by (gross-wage DD minus net-wage DD), delta-method uncertainty."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3932",
+    "before": null,
+    "after": "Ratio denominator contains estimated outcomes, so nonlinear incidence statistic, not an IV treatment coefficient. Retain full samples/subgroups and short/medium horizons. No comparison to another effect as same-outcome level."
+  }
+]
+```
