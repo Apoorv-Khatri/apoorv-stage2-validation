@@ -684210,3 +684210,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:47:45.287176+00:00 — Review 4X3H7PWW h12: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8585",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8586",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8587",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8588",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8585",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8586",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8587",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8588",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8585",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8586",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8587",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8588",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8585",
+    "before": null,
+    "after": "Log annual earnings by gender/education; TableE5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8586",
+    "before": null,
+    "after": "Employment versus unemployment indicator by gender/education; TableE5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8587",
+    "before": null,
+    "after": "Employment versus unemployment/NILF by gender/education; TableE5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8588",
+    "before": null,
+    "after": "Log annual hours, all/race/gender/education; TableE5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3828",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3828",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3828",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3828",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3828",
+    "before": null,
+    "after": "AppendixTableE5: continuous 1966 Kaitz index DiD, additional gender/education wage/employment/hours results and all/race hours; TableVI repeats excluded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3828",
+    "before": null,
+    "after": "Substantive Kaitz-dose robustness; one treatment-SD scaling, not outcome-SD normalization. TableE5 mean0.35 and SD0.048. Repeated TableVI cells excluded from new policy scope."
+  }
+]
+```

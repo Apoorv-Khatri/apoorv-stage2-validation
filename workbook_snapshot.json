@@ -38661,7 +38661,16 @@
     "L3827": "0",
     "M3827": "n/a",
     "N3827": "AppendixTableE4/FiguresE2b-E3: binary strong-state DiD on wages, employment and hours in gender/education groups and employment cohort event paths.",
-    "O3827": "s7-s9 cover all/race repeats. Here retain additional gender/education/cohort results. FigureE3b actual legends16-30,50-64,16-64 conflict with caption25-55; no inferred cohort wage/hours grid."
+    "O3827": "s7-s9 cover all/race repeats. Here retain additional gender/education/cohort results. FigureE3b actual legends16-30,50-64,16-64 conflict with caption25-55; no inferred cohort wage/hours grid.",
+    "A3828": "4X3H7PWW",
+    "B3828": "h12",
+    "I3828": "1",
+    "J3828": "DiD_conventional",
+    "K3828": "0",
+    "L3828": "0",
+    "M3828": "n/a",
+    "N3828": "AppendixTableE5: continuous 1966 Kaitz index DiD, additional gender/education wage/employment/hours results and all/race hours; TableVI repeats excluded.",
+    "O3828": "Substantive Kaitz-dose robustness; one treatment-SD scaling, not outcome-SD normalization. TableE5 mean0.35 and SD0.048. Repeated TableVI cells excluded from new policy scope."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97177,7 +97186,23 @@
     "H8584": "0",
     "I8584": "unknown",
     "J8584": "log",
-    "K8584": "Log annual hours, gender/education; E4/E2b/E3."
+    "K8584": "Log annual hours, gender/education; E4/E2b/E3.",
+    "A8585": "4X3H7PWW",
+    "B8585": "h12",
+    "C8585": "hy1",
+    "K8585": "Log annual earnings by gender/education; TableE5",
+    "A8586": "4X3H7PWW",
+    "B8586": "h12",
+    "C8586": "hy2",
+    "K8586": "Employment versus unemployment indicator by gender/education; TableE5",
+    "A8587": "4X3H7PWW",
+    "B8587": "h12",
+    "C8587": "hy3",
+    "K8587": "Employment versus unemployment/NILF by gender/education; TableE5",
+    "A8588": "4X3H7PWW",
+    "B8588": "h12",
+    "C8588": "hy4",
+    "K8588": "Log annual hours, all/race/gender/education; TableE5"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
