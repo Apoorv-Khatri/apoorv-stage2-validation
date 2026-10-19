@@ -751569,3 +751569,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:31:53.348275+00:00 — Review 64JY936S h27: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8864",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8865",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8866",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8864",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8865",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8866",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8864",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8865",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8866",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8865",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8866",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8864",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8865",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8866",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8864",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8865",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8866",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8864",
+    "before": null,
+    "after": "Total employment/labor-force rate; A23C additive decomposition, not shares of existing jobs. Positive total/permanent, null temporary; no invented coefficients."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8865",
+    "before": null,
+    "after": "Permanent employment/labor-force contribution; A23C additive decomposition, not shares of existing jobs. Positive total/permanent, null temporary; no invented coefficients."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8866",
+    "before": null,
+    "after": "Temporary employment/labor-force contribution; A23C additive decomposition, not shares of existing jobs. Positive total/permanent, null temporary; no invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3942",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3942",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3942",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3942",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3942",
+    "before": null,
+    "after": "Age eligibility x post employment in Labor Force Survey, A23A-C: total, permanent and temporary employment contributions;2002-06 versus2009-13."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3942",
+    "before": null,
+    "after": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+  }
+]
+```
