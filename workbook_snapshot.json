@@ -40034,7 +40034,16 @@
     "L3951": "1",
     "M3951": "n/a",
     "N3951": "p2080 undisplayed Figure8 robustness: STEM-degree share-by-age with five-digit sector-by-year effects, log sales.",
-    "O3951": "Main establishes implemented regression with five field shares, but only reports about half STEM-HASS gap explained by sectors. Do not invent individual coefficient levels or repeat value-added robustness into this variant. Identifying five-digit sector-by-year cells address endogenous sector selection/growth potential (p2068), carried into mechanism comparisons pp2076,2080. One interacted cell set plus age controls, not HDFE; year nested in sector-year. Residual omitted ability remains. No higher-priority design."
+    "O3951": "Main establishes implemented regression with five field shares, but only reports about half STEM-HASS gap explained by sectors. Do not invent individual coefficient levels or repeat value-added robustness into this variant. Identifying five-digit sector-by-year cells address endogenous sector selection/growth potential (p2068), carried into mechanism comparisons pp2076,2080. One interacted cell set plus age controls, not HDFE; year nested in sector-year. Residual omitted ability remains. No higher-priority design.",
+    "A3952": "7PQVC2SH",
+    "B3952": "h3",
+    "I3952": "1",
+    "J3952": "OLS",
+    "K3952": "0",
+    "L3952": "1",
+    "M3952": "n/a",
+    "N3952": "Figure8: fraction of firm entrepreneurs with HASS degree interacted with age, compared with omitted no-college share; log sales and qualitative value-added extension.",
+    "O3952": "Shares are continuous in multiple-founder firms; no invented binary implementation. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100911,7 +100920,15 @@
     "A8885": "7PQVC2SH",
     "B8885": "h7",
     "C8885": "hy1",
-    "K8885": "Log sales, sector-controlled field-share-by-age regression, p2080; field-specific coefficients undisplayed."
+    "K8885": "Log sales, sector-controlled field-share-by-age regression, p2080; field-specific coefficients undisplayed.",
+    "A8886": "7PQVC2SH",
+    "B8886": "h3",
+    "C8886": "hy1",
+    "K8886": "Log sales, Figure8; coefficients on HASS share-by-age.",
+    "A8887": "7PQVC2SH",
+    "B8887": "h3",
+    "C8887": "hy2",
+    "K8887": "Log value added; p2079 says results similar for value added in this same field-share specification; no numerical values or SD benchmark supplied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -177202,7 +177219,17 @@
     "O6762": "0",
     "P6762": "0",
     "Q6762": "Table3 p2079 practice row18: printed college-minus-no-college difference0.07 probability units; College mean0.92,2016 independent founder-managed survey firms. Rounded reported difference retained, not recomputed.",
-    "R6762": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained."
+    "R6762": "Treated endpoint is not an untreated baseline. Both endpoint means deliberately accompany the printed difference. Directional more-likely prose does not explicitly compare the effect magnitude with either benchmark; verbal=0 consistently for both endpoints. Alternative broad directional reading requires symmetric adjudication. Printed rounding/significance conflicts retained.",
+    "A6763": "7PQVC2SH",
+    "B6763": "h3",
+    "C6763": "hc1",
+    "K6763": "1",
+    "L6763": "hy1",
+    "M6763": "other_level",
+    "N6763": "1",
+    "O6763": "1",
+    "P6763": "n/a",
+    "Q6763": "p2080: HASS entrepreneur at age10 has firm25% larger than no-college entrepreneur; exponentiated log-sales endpoint contrast, not arithmetic mean construction."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
