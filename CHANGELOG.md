@@ -642231,3 +642231,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:33:40.040468+00:00 — Review 2W92PVM3 h8: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8363",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8364",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8363",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8364",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8363",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8364",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8363",
+    "before": null,
+    "after": "accept hypothetical offer without time limit"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8364",
+    "before": null,
+    "after": "accept same hypothetical offer with6-week payment deadline"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3710",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3710",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3710",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3710",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3710",
+    "before": null,
+    "after": "SectionVI.A pp1552-53 / Figure3C: randomly assigned hypothetical up-front price (seven levels,$0-$853) on stated acceptance, unrestricted and6-week questions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3710",
+    "before": null,
+    "after": "Actual randomized survey price assignment, not receipt effect. Nonbinary demand curve as implemented in final text; author April2019 B8A/B8B dummy contrasts held pending final verification. Hypothetical acceptance is not actual connection take-up. Supports credit-constraint caveat, not core revealed-demand estimate. Independent audit: Random survey assignment is real but only the package/price is assigned. Keep the final plotted multi-valued response scope; do not manufacture binary appendix dummy contrasts or a credit-versus-cash experiment."
+  }
+]
+```

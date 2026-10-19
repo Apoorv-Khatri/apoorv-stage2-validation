@@ -37242,7 +37242,16 @@
     "L3709": "1",
     "M3709": "n/a",
     "N3709": "SectionV.E / Table4 pp1550-51: connection acquisition versus no-grid electricity surplus, calibrated discrete/continuous linear-demand model across consumption/elasticity scenarios.",
-    "O3709": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Zero no-connection consumer surplus explicitly assumed. Table4 varies consumption, elasticity and growth as model scenarios, not randomized doses; connection/no-connection contrast is binary. Consumer surplus98-293 at10kWh; no claim that10kWh itself is a randomized treatment. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented. Independent audit: The exact known design is discounted discrete/continuous consumer-surplus calibration under linear demand, fixed elasticities and assumed zero no-grid surplus. Linear demand alone does not supply an implemented OLS regression on surplus; no cost/consumer-surplus benchmark is eligible."
+    "O3709": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Zero no-connection consumer surplus explicitly assumed. Table4 varies consumption, elasticity and growth as model scenarios, not randomized doses; connection/no-connection contrast is binary. Consumer surplus98-293 at10kWh; no claim that10kWh itself is a randomized treatment. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented. Independent audit: The exact known design is discounted discrete/continuous consumer-surplus calibration under linear demand, fixed elasticities and assumed zero no-grid surplus. Linear demand alone does not supply an implemented OLS regression on surplus; no cost/consumer-surplus benchmark is eligible.",
+    "A3710": "2W92PVM3",
+    "B3710": "h8",
+    "I3710": "1",
+    "J3710": "RCT",
+    "K3710": "0",
+    "L3710": "0",
+    "M3710": "n/a",
+    "N3710": "SectionVI.A pp1552-53 / Figure3C: randomly assigned hypothetical up-front price (seven levels,$0-$853) on stated acceptance, unrestricted and6-week questions.",
+    "O3710": "Actual randomized survey price assignment, not receipt effect. Nonbinary demand curve as implemented in final text; author April2019 B8A/B8B dummy contrasts held pending final verification. Hypothetical acceptance is not actual connection take-up. Supports credit-constraint caveat, not core revealed-demand estimate. Independent audit: Random survey assignment is real but only the package/price is assigned. Keep the final plotted multi-valued response scope; do not manufacture binary appendix dummy contrasts or a credit-versus-cash experiment."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94155,7 +94164,15 @@
     "H8362": "0",
     "I8362": "unknown",
     "J8362": "none",
-    "K8362": "Present-value consumer surplus from grid connection, USD per household,30-year life,15% discount,$.12/kWh,188-day delay."
+    "K8362": "Present-value consumer surplus from grid connection, USD per household,30-year life,15% discount,$.12/kWh,188-day delay.",
+    "A8363": "2W92PVM3",
+    "B8363": "h8",
+    "C8363": "hy1",
+    "K8363": "accept hypothetical offer without time limit",
+    "A8364": "2W92PVM3",
+    "B8364": "h8",
+    "C8364": "hy2",
+    "K8364": "accept same hypothetical offer with6-week payment deadline"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
