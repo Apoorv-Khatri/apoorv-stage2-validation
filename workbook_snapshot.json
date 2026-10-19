@@ -39868,7 +39868,16 @@
     "L3942": "0",
     "M3942": "n/a",
     "N3942": "Age eligibility x post employment in Labor Force Survey, A23A-C: total, permanent and temporary employment contributions;2002-06 versus2009-13.",
-    "O3942": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+    "O3942": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms.",
+    "A3943": "64JY936S",
+    "B3943": "h28",
+    "I3943": "1",
+    "J3943": "DiD_conventional",
+    "K3943": "1",
+    "L3943": "0",
+    "M3943": "n/a",
+    "N3943": "High versus medium2006 firm exposure x post temporary-contract share, A23F; linked LFS/admin sample. Substantive null workforce contractual-composition response.",
+    "O3943": "Graphical treated/control before-after contrast interpreted as no expansion of temporary jobs in more exposed firms. A23E cross-sectional share-young correlation alone excluded; A23F null retained under broad author-intention gate, although used also as confound check. Appendix p68 first calls the comparison high/low, then high/medium; A23F legend and ensuing prose say medium. Preserve this additional printed conflict."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100543,7 +100552,14 @@
     "H8866": "0",
     "I8866": "unknown",
     "J8866": "none",
-    "K8866": "Temporary employment/labor-force contribution; A23C additive decomposition, not shares of existing jobs. Positive total/permanent, null temporary; no invented coefficients."
+    "K8866": "Temporary employment/labor-force contribution; A23C additive decomposition, not shares of existing jobs. Positive total/permanent, null temporary; no invented coefficients.",
+    "A8867": "64JY936S",
+    "B8867": "h28",
+    "C8867": "hy1",
+    "H8867": "0",
+    "I8867": "unknown",
+    "J8867": "none",
+    "K8867": "Share of workers on temporary contracts in matched LFS/admin firm groups; A23F. Repeated cross-sections, not a balanced firm panel asserted."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

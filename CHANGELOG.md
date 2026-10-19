@@ -751758,3 +751758,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:32:16.302059+00:00 — Review 64JY936S h28: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8867",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8867",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8867",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8867",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8867",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8867",
+    "before": null,
+    "after": "Share of workers on temporary contracts in matched LFS/admin firm groups; A23F. Repeated cross-sections, not a balanced firm panel asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3943",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3943",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3943",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3943",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3943",
+    "before": null,
+    "after": "High versus medium2006 firm exposure x post temporary-contract share, A23F; linked LFS/admin sample. Substantive null workforce contractual-composition response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3943",
+    "before": null,
+    "after": "Graphical treated/control before-after contrast interpreted as no expansion of temporary jobs in more exposed firms. A23E cross-sectional share-young correlation alone excluded; A23F null retained under broad author-intention gate, although used also as confound check. Appendix p68 first calls the comparison high/low, then high/medium; A23F legend and ensuing prose say medium. Preserve this additional printed conflict."
+  }
+]
+```
