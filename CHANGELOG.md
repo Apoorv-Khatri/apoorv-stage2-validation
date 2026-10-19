@@ -716487,3 +716487,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:13:54.026636+00:00 — Review 5SL56HMJ s2: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6409",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6409",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6409",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6409",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6409",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6409",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6409",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6409",
+    "before": null,
+    "after": "p148: standard deviation of plant log productivity is about30 percent, while differences in technology account for an8 percent gap. Rounded preferred Table3 col1 premium (printed -0.075 for VI). SD refers to plant-productivity dispersion across producers, sample period1963-2002; no fraction actually calculated in prose."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6409",
+    "before": null,
+    "after": "Conditional technology-premium weighting versus pooled productivity SD not established; not an IV/complier comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2212",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2212",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2212",
+    "before": null,
+    "after": "Estimated log TFP residual, Table3 VI-premium rows; generated outcome, not gross-output level. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I903",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J903",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K903",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L903",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M903",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N903",
+    "before": null,
+    "after": "Table3 pp146-148: VI versus minimill productivity premium, linear projection of estimated log TFP on VI indicator and year dummies. All six price-correction/productivity-construction variants retained, including near-zero OLS-derived premiums; Table4 input-elasticity estimation is upstream, not this treatment regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O903",
+    "before": null,
+    "after": "Reported-outcome domain is constructed log TFP: actual focal estimator is a linear projection, not the upstream Olley-Pakes GMM control function. Year dummies are common-time controls, not an established identifying FE battery. Alternative full-procedure Other taxonomy is held for independent adjudication. Technology interpretation explicit pp148-149,168; not randomly assigned and plants never switch technology."
+  }
+]
+```
