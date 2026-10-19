@@ -685521,3 +685521,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:51:22.131922+00:00 — Review 4X3H7PWW h24: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8607",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8608",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8607",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8608",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8607",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8608",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8607",
+    "before": null,
+    "after": "Relative white/Black workforce composition response to relative wages, share-based elasticity in TableE9. Eq14 actually estimates a white-indicator mean effect; printed conversion to a count ratio conflicts with that outcome. No repaired formula asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8608",
+    "before": null,
+    "after": "Relative white/Black employment-population response to relative wages, EPOP-gap elasticity in TableE9; distinct from workforce-composition share. Printed conversion and denominator implementation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3839",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3839",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3839",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3839",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3839",
+    "before": null,
+    "after": "AppendixE4/TableE9 derived labor-labor substitution elasticity: relative wage change scaled using policy-induced changes from 1966 Kaitz index reform exposure; all/men/women, share and EPOP variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3839",
+    "before": null,
+    "after": "Author explicitly interprets wage increase causing relative employment response. Ratio/Wald-like ingredients but printed elasticity formulas and units conflict; do not certify IV exclusion, compatible projection or linear normalization. Treatment is relative wage change, not binary policy assignment. Need parent adjudication/replication for taxonomy; unknown IV type. This wording does not assert implemented IV. Share-based and EPOP-based outcome definitions are separately recorded."
+  }
+]
+```

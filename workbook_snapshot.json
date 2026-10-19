@@ -38760,7 +38760,16 @@
     "L3838": "0",
     "M3838": "n/a",
     "N3838": "AppendixE4/TableE9 Eq14-16: 1966 Kaitz index reform effects on white-worker share, white-minus-Black employment probability and earnings contrasts, all/men/women.",
-    "O3838": "Substantive labor-substitution channel (intro p174/conclusion discussion); share Eq14 linear DiD, gaps Eq15-16 DDD. Actual dependent variables white indicator, employment indicator, log earnings, not literal individual share ratio. No IV estimate established by elasticities alone. Derived substitution elasticities h23-h25 separately held-method causal responses."
+    "O3838": "Substantive labor-substitution channel (intro p174/conclusion discussion); share Eq14 linear DiD, gaps Eq15-16 DDD. Actual dependent variables white indicator, employment indicator, log earnings, not literal individual share ratio. No IV estimate established by elasticities alone. Derived substitution elasticities h23-h25 separately held-method causal responses.",
+    "A3839": "4X3H7PWW",
+    "B3839": "h24",
+    "I3839": "1",
+    "J3839": "unknown",
+    "K3839": "0",
+    "L3839": "0",
+    "M3839": "unknown",
+    "N3839": "AppendixE4/TableE9 derived labor-labor substitution elasticity: relative wage change scaled using policy-induced changes from 1966 Kaitz index reform exposure; all/men/women, share and EPOP variants.",
+    "O3839": "Author explicitly interprets wage increase causing relative employment response. Ratio/Wald-like ingredients but printed elasticity formulas and units conflict; do not certify IV exclusion, compatible projection or linear normalization. Treatment is relative wage change, not binary policy assignment. Need parent adjudication/replication for taxonomy; unknown IV type. This wording does not assert implemented IV. Share-based and EPOP-based outcome definitions are separately recorded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97379,7 +97388,15 @@
     "A8606": "4X3H7PWW",
     "B8606": "h21",
     "C8606": "hy3",
-    "K8606": "Log annual earnings underlying white-minus-Black wage contrast; TableE9/Eq14-16."
+    "K8606": "Log annual earnings underlying white-minus-Black wage contrast; TableE9/Eq14-16.",
+    "A8607": "4X3H7PWW",
+    "B8607": "h24",
+    "C8607": "hy1",
+    "K8607": "Relative white/Black workforce composition response to relative wages, share-based elasticity in TableE9. Eq14 actually estimates a white-indicator mean effect; printed conversion to a count ratio conflicts with that outcome. No repaired formula asserted.",
+    "A8608": "4X3H7PWW",
+    "B8608": "h24",
+    "C8608": "hy2",
+    "K8608": "Relative white/Black employment-population response to relative wages, EPOP-gap elasticity in TableE9; distinct from workforce-composition share. Printed conversion and denominator implementation unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
