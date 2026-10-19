@@ -37701,7 +37701,16 @@
     "L3748": "1",
     "M3748": "n/a",
     "N3748": "Table9 col4: reform × postreform-entry-cohort slope (.026) in joint equation with contemporaneous Reform×Post.",
-    "O3748": "Table9 col4, pp2380-2381: entry-cohort selection coefficient .026 is jointly estimated with Reform×Post -.053, not a separately fitted regression. Classify the focal cohort coefficient as identifying HDFE (same four nonredundant dimensions and tenure/heterogeneity argument as col3), not automatically DiD because a neighboring regressor is DiD. The post-entry contrast is between selected cohorts conditional on contemporaneous reform protection; parallel trends for the reform coefficient alone does not identify a cohort-selection effect. Broad author-intention inclusion holds; residual selection limits credibility, not inclusion. Whole-equation DiD is an explicit competing survey convention; this candidate uses parameter-specific identification."
+    "O3748": "Table9 col4, pp2380-2381: entry-cohort selection coefficient .026 is jointly estimated with Reform×Post -.053, not a separately fitted regression. Classify the focal cohort coefficient as identifying HDFE (same four nonredundant dimensions and tenure/heterogeneity argument as col3), not automatically DiD because a neighboring regressor is DiD. The post-entry contrast is between selected cohorts conditional on contemporaneous reform protection; parallel trends for the reform coefficient alone does not identify a cohort-selection effect. Broad author-intention inclusion holds; residual selection limits credibility, not inclusion. Whole-equation DiD is an explicit competing survey convention; this candidate uses parameter-specific identification.",
+    "A3749": "3ZIDN6KF",
+    "B3749": "h11",
+    "I3749": "1",
+    "J3749": "DiD_modern",
+    "K3749": "1",
+    "L3749": "0",
+    "M3749": "n/a",
+    "N3749": "FigureA1 p40: Callaway–Sant’Anna dynamic effect of reform on log delivery errors.",
+    "O3749": "Final official supplement FigA1 explicitly names Callaway–Sant’Anna and Stata csdid. Linear heterogeneity-robust implementation established, distinct from baseline stacked regression. No numerical point estimates transcribed from graph, no SD/mean pairing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95045,7 +95054,14 @@
     "H8422": "1",
     "I8422": "1",
     "J8422": "none",
-    "K8422": "Individual exit indicator."
+    "K8422": "Individual exit indicator.",
+    "A8423": "3ZIDN6KF",
+    "B8423": "h11",
+    "C8423": "hy1",
+    "H8423": "0",
+    "I8423": "unknown",
+    "J8423": "log",
+    "K8423": "Log delivery errors, FigureA1."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

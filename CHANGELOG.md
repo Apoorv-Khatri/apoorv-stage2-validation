@@ -656805,3 +656805,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:26:31.626022+00:00 — Review 3ZIDN6KF h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8423",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8423",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8423",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8423",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8423",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8423",
+    "before": null,
+    "after": "Log delivery errors, FigureA1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3749",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3749",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3749",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3749",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3749",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3749",
+    "before": null,
+    "after": "FigureA1 p40: Callaway–Sant’Anna dynamic effect of reform on log delivery errors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3749",
+    "before": null,
+    "after": "Final official supplement FigA1 explicitly names Callaway–Sant’Anna and Stata csdid. Linear heterogeneity-robust implementation established, distinct from baseline stacked regression. No numerical point estimates transcribed from graph, no SD/mean pairing."
+  }
+]
+```
