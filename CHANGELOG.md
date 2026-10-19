@@ -660615,3 +660615,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:47:28.330636+00:00 — Review 4BNXLZ5D s4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2117",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2118",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2119",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J862",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M862",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N862",
+    "before": null,
+    "after": "Table7 cols1–6: differential new-versus-existing financing-term contrast during Oct2008–Jun2009, estimated by the new-customer × crisis interaction in a joint linear probability regression. Precrisis new-customer contrast separately scoped in h17; no separate regression is asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O862",
+    "before": null,
+    "after": "OLS/regression adjustment recommendation, not established parallel-trends DiD: the linear interaction is algebraically a difference in differences, but pp893–896 and fn30–31 frame conditional new-customer financing and selection, not an identifying common-trend counterfactual. Country/product/year dummies are present; no Table5-style identifying battery argument. Newness is first-transaction status, not a fixed pretreatment cohort. This is a taxonomy judgment, not rejection for imperfect identification. Main=1: introduction p856 explicitly highlights crisis new-customer terms. A broad algebraic-DiD convention is a documented alternative, not used here. Preserve printed anomalous sales-value SE-position cells −0.0436 and −0.0432."
+  }
+]
+```
