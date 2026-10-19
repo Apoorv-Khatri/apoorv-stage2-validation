@@ -41052,7 +41052,16 @@
     "L4060": "0",
     "M4060": "n/a",
     "N4060": "Contribution profile(2,6) versus(6,6); p762 fn20 implemented negative-binomial robustness to Table3, estimates stated same. Separate nonlinear estimator; no printed coefficients invented.",
-    "O4060": "Article p762 fn20 explicitly says negative-binomial estimates are the same as the Table3 Poisson estimates; the nine profile contrasts are inherited from that specified regression, not an invented cross-product. Nonlinear negative-binomial outcome estimator => Other. Binary refers to each named profile-versus-(6,6) contrast, not randomized leader types. Supporting robustness main0; no numerical NB coefficient or outcome benchmark supplied."
+    "O4060": "Article p762 fn20 explicitly says negative-binomial estimates are the same as the Table3 Poisson estimates; the nine profile contrasts are inherited from that specified regression, not an invented cross-product. Nonlinear negative-binomial outcome estimator => Other. Binary refers to each named profile-versus-(6,6) contrast, not randomized leader types. Supporting robustness main0; no numerical NB coefficient or outcome benchmark supplied.",
+    "A4061": "8A6ENF64",
+    "B4061": "h38",
+    "I4061": "1",
+    "J4061": "Other",
+    "K4061": "1",
+    "L4061": "1",
+    "M4061": "n/a",
+    "N4061": "Contribution profile(0,6) versus(6,6); Table3 Poisson (eq4) punishment of player1; AME0.471 Birr. Routine socioeconomic-control variant fn21 grouped.",
+    "O4061": "Section IV Result1 explicitly says deviations evoke punishment; repeated strategy-method choices under prescribed contribution profiles. Poisson is nonlinear in reported punishment outcome => Other, not RCT. Profiles not randomly assigned leaders. Main motive evidence is central to typology. No own-outcome mean/SD benchmark printed; intercept is log expected punishment, not raw baseline pairing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102674,7 +102683,14 @@
     "H9021": "0",
     "I9021": "1",
     "J9021": "none",
-    "K9021": "Punishment points/Birr spent on player1; same observed count outcome as Table3."
+    "K9021": "Punishment points/Birr spent on player1; same observed count outcome as Table3.",
+    "A9022": "8A6ENF64",
+    "B9022": "h38",
+    "C9022": "hy1",
+    "H9022": "0",
+    "I9022": "1",
+    "J9022": "none",
+    "K9022": "Punishment points/Birr spent by leader on player1 in a strategy-method decision. Nonnegative discrete count, observed0,1,2 (fn20)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
