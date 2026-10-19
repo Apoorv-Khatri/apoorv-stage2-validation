@@ -763758,3 +763758,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:11:46.018642+00:00 — Review 7PQVC2SH h31: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8919",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8919",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8919",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8919",
+    "before": null,
+    "after": "Employee human capital and proportional earnings; model marginal schooling return."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3979",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3979",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3979",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3979",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3979",
+    "before": null,
+    "after": "Section5.1 pp2093-2094: schooling effect on employee human capital/earnings; geometric return8% fixed, model-implied arithmetic return11.0% at schooling6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3979",
+    "before": null,
+    "after": "Structural model implications feeding the central aggregation/heterogeneity argument; nonlinear expectation and estimated distribution parameters. Comparisons among marginal returns are effect-versus-effect, not outcome mean/SD; no extra eligible comparison."
+  }
+]
+```
