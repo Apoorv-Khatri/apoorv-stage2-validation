@@ -730812,3 +730812,390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:47:03.561670+00:00 — Review 5VHQLIKT h3: source-audited coding and linked comparisons
+
+63 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6555",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6556",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6557",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6555",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6556",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6557",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6555",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6556",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6557",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6555",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6556",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6557",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6555",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6556",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6557",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6555",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6555",
+    "before": null,
+    "after": "Table IV B/C p2339 cols1-3 income macro-efficiency beliefs, column1: Efficiency coefficient 0.14 probability units; same-column Control mean 0.31. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6556",
+    "before": null,
+    "after": "Table IV B/C p2339 cols1-3 income macro-efficiency beliefs, column2: Efficiency coefficient 0.03 probability units; same-column Control mean 0.48. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6557",
+    "before": null,
+    "after": "Table IV B/C p2339 cols1-3 income macro-efficiency beliefs, column3: Efficiency coefficient 0.01 probability units; same-column Control mean 0.65. No-video respondents with generic question formulation (Table III note, inherited by other tables). Values are not percentages of baseline; binary outcome has observed zeros because 0<control mean<1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6555",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6556",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6557",
+    "before": null,
+    "after": "Benchmark restricted to generic wording; full regression controls all question formulations (p2326 fn12, p2334 fn17, Table III note). Without final appendix, equality with full assignment target across formulations is not established. Random assignment would align an unrestricted no-video mean; retain unknown for this specific restricted benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8717",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8718",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8719",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8717",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8718",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8719",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8717",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8718",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8719",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8717",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8718",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8719",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8717",
+    "before": null,
+    "after": "Indicator equal to 1 if respondent believes increasing income taxes on high-income households would hurt economic activity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8718",
+    "before": null,
+    "after": "Indicator equal to 1 if respondent believes tax cuts on high-income households would decrease the deficit in the long run (Laffer effect for high incomes)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8719",
+    "before": null,
+    "after": "Indicator equal to 1 if respondent believes tax cuts on the middle class would decrease the deficit in the long run (Laffer effect for middle class)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3901",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3901",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3901",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3901",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3901",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3901",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3901",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3901",
+    "before": null,
+    "after": "Efficiency video assignment versus no-video control: Table IV B/C p2339 cols1-3 income macro-efficiency beliefs. Other randomized arms are separate settings; all respondent-control variants at this location grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3901",
+    "before": null,
+    "after": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects."
+  }
+]
+```
