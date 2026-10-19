@@ -40755,7 +40755,16 @@
     "L4027": "1",
     "M4027": "n/a",
     "N4027": "LEQEF weighted punishment intensity, Table6 cols1-2; no village FE, unadjusted and group-adjusted OLS; PCT-I. Do not transfer col3 headline comparisons here.",
-    "O4027": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
+    "O4027": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders.",
+    "A4028": "8A6ENF64",
+    "B4028": "h5",
+    "I4028": "1",
+    "J4028": "FE",
+    "K4028": "0",
+    "L4028": "1",
+    "M4028": "n/a",
+    "N4028": "LAS weighted punishment intensity (points spent on full contributors, zero outside LAS), Table6 cols3,5-8; identifying village FE; PCT-I.",
+    "O4028": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102139,7 +102148,14 @@
     "H8987": "0",
     "I8987": "0",
     "J8987": "none",
-    "K8987": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I)."
+    "K8987": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I).",
+    "A8988": "8A6ENF64",
+    "B8988": "h5",
+    "C8988": "hy1",
+    "H8988": "0",
+    "I8988": "0",
+    "J8988": "none",
+    "K8988": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -180418,7 +180434,18 @@
     "O6944": "1",
     "P6944": "n/a",
     "Q6944": "Official appendix p20 sensitivity Table1 row8, col5: 100.000 percent of own1990 emissions for trade deficits-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels.",
-    "R6944": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
+    "R6944": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate.",
+    "A6945": "8A6ENF64",
+    "B6945": "h5",
+    "C6945": "hc1",
+    "K6945": "1",
+    "L6945": "hy1",
+    "M6945": "outcome_mean",
+    "N6945": "1",
+    "O6945": "0",
+    "P6945": "unknown",
+    "Q6945": "p771, Table6 col3: author-scaled20.36 fewer PCT/ha for average2.75 LAS full-contributor punishment points; overall mean66.79. Table coefficient -7.404 conflicts with prose over7.5; preserve both, no corrected invented coefficient.",
+    "R6945": "Overall51-group mean includes all leader types. Continuous weighted-regression target and its untreated reference mean not identified; do not infer alignment from same sample."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
