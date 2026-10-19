@@ -40719,7 +40719,16 @@
     "L4023": "0",
     "M4023": "n/a",
     "N4023": "Appendix sensitivity Table1 p20 col5, rows[8]: trade deficits-only historical shocks; partial equilibrium; wages and firm entry fixed; aggregate emissions index.",
-    "O4023": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels. Partial equilibrium imposes emissions ratio=1/tax ratio; nonregulatory shocks have exact nulls100 by construction. Nonlinear model recovery retained, not a linear DiD."
+    "O4023": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels. Partial equilibrium imposes emissions ratio=1/tax ratio; nonregulatory shocks have exact nulls100 by construction. Nonlinear model recovery retained, not a linear DiD.",
+    "A4024": "8A6ENF64",
+    "B4024": "h1",
+    "I4024": "1",
+    "J4024": "FE",
+    "K4024": "0",
+    "L4024": "1",
+    "M4024": "n/a",
+    "N4024": "LEQ weighted punishment intensity (total equality-only punishment points, zero outside LEQ), Table6 cols3,5-8; identifying village FE; PCT-I.",
+    "O4024": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102075,7 +102084,14 @@
     "A8983": "89PULMFU",
     "B8983": "h36",
     "C8983": "hy1",
-    "K8983": "Unweighted mean across six criteria pollutants of US manufacturing counterfactual-emissions/own1990-emissions percentages, averaged across2005 and2008 (sensitivity Table1 p20 note). This is one actually tabulated aggregate dependent measure, not six unobserved outcomes grouped as a placeholder. SectionIII.G instead says NOx2008; numerical allocation remains conflicting."
+    "K8983": "Unweighted mean across six criteria pollutants of US manufacturing counterfactual-emissions/own1990-emissions percentages, averaged across2005 and2008 (sensitivity Table1 p20 note). This is one actually tabulated aggregate dependent measure, not six unobserved outcomes grouped as a placeholder. SectionIII.G instead says NOx2008; numerical allocation remains conflicting.",
+    "A8984": "8A6ENF64",
+    "B8984": "h1",
+    "C8984": "hy1",
+    "H8984": "0",
+    "I8984": "0",
+    "J8984": "none",
+    "K8984": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
