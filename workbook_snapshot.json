@@ -38679,7 +38679,16 @@
     "L3829": "0",
     "M3829": "n/a",
     "N3829": "AppendixTableE6: continuous 1966 fraction earning below$1.60 DiD, additional gender/education wage/employment/hours results and all/race hours; TableVI repeats excluded.",
-    "O3829": "Substantive robustness, one treatment-SD, not outcome normalization. E6 SD0.008 versus main0.08 retained."
+    "O3829": "Substantive robustness, one treatment-SD, not outcome normalization. E6 SD0.008 versus main0.08 retained.",
+    "A3830": "4X3H7PWW",
+    "B3830": "h14",
+    "I3830": "1",
+    "J3830": "DiD_conventional",
+    "K3830": "1",
+    "L3830": "0",
+    "M3830": "n/a",
+    "N3830": "AppendixTableE7/Eq13: strong versus weak state × post × below-median1966 unemployment, employment probability all/Black/White.",
+    "O3830": "Distinct moderator-specific DDD estimand. Lower-order treatment effect applies moderator0, total at1 requires adding triple term. E7 prose mistakenly calls negative Black effect tight market, table row says above-median unemployment. Keep coefficient-conditional meanings; no generic independent causal effect assigned to geography control."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97227,7 +97236,14 @@
     "A8592": "4X3H7PWW",
     "B8592": "h13",
     "C8592": "hy4",
-    "K8592": "Log annual hours, all/race/gender/education; TableE6"
+    "K8592": "Log annual hours, all/race/gender/education; TableE6",
+    "A8593": "4X3H7PWW",
+    "B8593": "h14",
+    "C8593": "hy1",
+    "H8593": "1",
+    "I8593": "1",
+    "J8593": "none",
+    "K8593": "Employment versus unemployment indicator, TableE7."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
