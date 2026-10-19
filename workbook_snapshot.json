@@ -39841,7 +39841,16 @@
     "L3939": "0",
     "M3939": "n/a",
     "N3939": "A17 individual earnings robustness: high versus next-highest quartile firm exposure using2003 base; individual average earnings relative to2003; distinct worker outcome/estimand.",
-    "O3939": "A17 G/H; header versus later caption year conflict preserved. Worker cohort/assignment details not restated completely for2003 variant, so do not invent ages or numerical effects."
+    "O3939": "A17 G/H; header versus later caption year conflict preserved. Worker cohort/assignment details not restated completely for2003 variant, so do not invent ages or numerical effects.",
+    "A3940": "64JY936S",
+    "B3940": "h25",
+    "I3940": "1",
+    "J3940": "DiD_conventional",
+    "K3940": "1",
+    "L3940": "0",
+    "M3940": "n/a",
+    "N3940": "Age eligibility x post employment excluding New Start Jobs recipients, A22C; remove recipients from both numerator and denominator. Appendix fn59 also establishes regional heterogeneity robustness under this exclusion.",
+    "O3940": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100481,7 +100490,14 @@
     "H8861": "0",
     "I8861": "unknown",
     "J8861": "other",
-    "K8861": "Group mean individual earnings relative to2003, A17H; exact2003 worker cohort construction not fully restated."
+    "K8861": "Group mean individual earnings relative to2003, A17H; exact2003 worker cohort construction not fully restated.",
+    "A8862": "64JY936S",
+    "B8862": "h25",
+    "C8862": "hy1",
+    "H8862": "0",
+    "I8862": "unknown",
+    "J8862": "none",
+    "K8862": "Employment/labor-force aggregate rate excluding hiring-subsidy recipients; A22C and Appendix fn59 regional variant. No numerical coefficients printed."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
