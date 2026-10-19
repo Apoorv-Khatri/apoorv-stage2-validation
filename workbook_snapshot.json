@@ -38016,7 +38016,16 @@
     "L3779": "0",
     "M3779": "n/a",
     "N3779": "p887 fn27: implemented linear probability robustness of enforcement×distance on financing choice (online appendix).",
-    "O3779": "Main text establishes linear probability tests consistent with Figure8. No final appendix available: exact enforcement set, outcome grid, FE implementation, coefficients and treatment support unresolved; retain one minimum scope rather than manufacture eight regressions. Binary status unknown because possible binary/continuous proxies are not enumerated here. OLS absent an established identifying FE or higher-priority design. Retain minimum established linear implementation only; no eight-proxy cross-product or assumption that nonlinear FE specifications carry over."
+    "O3779": "Main text establishes linear probability tests consistent with Figure8. No final appendix available: exact enforcement set, outcome grid, FE implementation, coefficients and treatment support unresolved; retain one minimum scope rather than manufacture eight regressions. Binary status unknown because possible binary/continuous proxies are not enumerated here. OLS absent an established identifying FE or higher-priority design. Retain minimum established linear implementation only; no eight-proxy cross-product or assumption that nonlinear FE specifications carry over.",
+    "A3780": "4BNXLZ5D",
+    "B3780": "h19",
+    "I3780": "1",
+    "J3780": "Other",
+    "K3780": "0",
+    "L3780": "0",
+    "M3780": "n/a",
+    "N3780": "p891 fn28: Table5 relationship specifications run as multinomial logits; log previous sales, common/civil-law heterogeneity.",
+    "O3780": "Explicit implemented nonlinear robustness, hence Other; FE handling in nonlinear specification not established by main footnote. No assumption that customer FE survive unchanged. Graphs online unavailable."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -95712,7 +95721,19 @@
     "A8483": "4BNXLZ5D",
     "B8483": "h18",
     "C8483": "hy1",
-    "K8483": "Financing-mode choice in linear probability interaction robustness; precise category outcome grid not established in available main text."
+    "K8483": "Financing-mode choice in linear probability interaction robustness; precise category outcome grid not established in available main text.",
+    "A8484": "4BNXLZ5D",
+    "B8484": "h19",
+    "C8484": "hy1",
+    "K8484": "Cash-in-advance indicator (one versus zero for the other financing modes).",
+    "A8485": "4BNXLZ5D",
+    "B8485": "h19",
+    "C8485": "hy2",
+    "K8485": "Letter-of-credit indicator (one versus zero for the other financing modes).",
+    "A8486": "4BNXLZ5D",
+    "B8486": "h19",
+    "C8486": "hy3",
+    "K8486": "Postshipment indicator (documentary collection or open account; one versus zero for other modes)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
