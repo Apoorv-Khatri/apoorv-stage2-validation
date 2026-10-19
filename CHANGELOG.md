@@ -682815,3 +682815,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:44:13.643926+00:00 — Review 4X3H7PWW h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8567",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8567",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8567",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8567",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8567",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8567",
+    "before": null,
+    "after": "Log mean hourly wage at industry-region-year level; TableIV cols3-4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3817",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3817",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3817",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3817",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3817",
+    "before": null,
+    "after": "Eq(2)/TableIV cols3-4: BLS triple difference newly covered industry × post × South on log hourly wages; full/strict samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3817",
+    "before": null,
+    "after": "Separate Southern differential estimand from s5. Triple interaction0.075/0.081; lower-order0.066/0.098 is non-South contrast, not unconditional effect. p198 calls beta4 Southern effect although Eq2 beta1 is triple interaction; printed conflict retained."
+  }
+]
+```

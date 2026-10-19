@@ -38562,7 +38562,16 @@
     "L3816": "1",
     "M3816": "n/a",
     "N3816": "Section5.4 p535: model-based conversion of Table4 PanelC col5 into first-year referral log-wage effect2.6% and subsequent-year effect0.4%, used as structural calibration moments.",
-    "O3816": "Independent adjudication: p532 footnote33 constructs the conversion factor from Table2 hiring-share coefficient and median workforce/population shares, not from the focal log-wage or turnover outcomes. Multiplying Table4 joint worker+firm+year linear coefficients by this scalar preserves linearity in those outcomes. Retain HDFE under identifying-method precedence, with a model-based referral-dose interpretation; this is not an implemented referral first stage or the later nonlinear welfare calibration. Distinct referral estimand retained separately from raw share effects. Parent should adjudicate this conditional-on-design taxonomy explicitly."
+    "O3816": "Independent adjudication: p532 footnote33 constructs the conversion factor from Table2 hiring-share coefficient and median workforce/population shares, not from the focal log-wage or turnover outcomes. Multiplying Table4 joint worker+firm+year linear coefficients by this scalar preserves linearity in those outcomes. Retain HDFE under identifying-method precedence, with a model-based referral-dose interpretation; this is not an implemented referral first stage or the later nonlinear welfare calibration. Distinct referral estimand retained separately from raw share effects. Parent should adjudicate this conditional-on-design taxonomy explicitly.",
+    "A3817": "4X3H7PWW",
+    "B3817": "h1",
+    "I3817": "1",
+    "J3817": "DiD_conventional",
+    "K3817": "1",
+    "L3817": "0",
+    "M3817": "n/a",
+    "N3817": "Eq(2)/TableIV cols3-4: BLS triple difference newly covered industry × post × South on log hourly wages; full/strict samples.",
+    "O3817": "Separate Southern differential estimand from s5. Triple interaction0.075/0.081; lower-order0.066/0.098 is non-South contrast, not unconditional effect. p198 calls beta4 Southern effect although Eq2 beta1 is triple interaction; printed conflict retained."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96961,7 +96970,14 @@
     "H8566": "0",
     "I8566": "unknown",
     "J8566": "none",
-    "K8566": "Average hourly wage, observed versus no-reform counterfactual, used in Eq4 employment elasticity denominator; not independently tabulated by every cell."
+    "K8566": "Average hourly wage, observed versus no-reform counterfactual, used in Eq4 employment elasticity denominator; not independently tabulated by every cell.",
+    "A8567": "4X3H7PWW",
+    "B8567": "h1",
+    "C8567": "hy1",
+    "H8567": "0",
+    "I8567": "unknown",
+    "J8567": "log",
+    "K8567": "Log mean hourly wage at industry-region-year level; TableIV cols3-4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
