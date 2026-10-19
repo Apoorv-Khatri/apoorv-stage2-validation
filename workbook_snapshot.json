@@ -40427,7 +40427,16 @@
     "L3993": "0",
     "M3993": "n/a",
     "N3993": "Table1B col1: newly nonattainment regulatory exposure interacted with polluter status/share; effect on CO pollution intensity, reduced-form coefficient-7.386.",
-    "O3993": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator. p3835 says regulated sectors decrease pollution per unit output after regulation; retain imprecise/null results too. First-difference interaction with lower-order terms is conventional DiD; no IV receipt in this reduced form. Binary unknown because binary-polluter versus continuous-share conflict."
+    "O3993": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator. p3835 says regulated sectors decrease pollution per unit output after regulation; retain imprecise/null results too. First-difference interaction with lower-order terms is conventional DiD; no IV receipt in this reduced form. Binary unknown because binary-polluter versus continuous-share conflict.",
+    "A3994": "89PULMFU",
+    "B3994": "h7",
+    "I3994": "1",
+    "J3994": "DiD_conventional",
+    "K3994": "unknown",
+    "L3994": "0",
+    "M3994": "n/a",
+    "N3994": "Table1B col2: newly nonattainment regulatory exposure interacted with polluter status/share; effect on NOx pollution intensity, reduced-form coefficient-5.985.",
+    "O3994": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator. p3835 says regulated sectors decrease pollution per unit output after regulation; retain imprecise/null results too. First-difference interaction with lower-order terms is conventional DiD; no IV receipt in this reduced form. Binary unknown because binary-polluter versus continuous-share conflict."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101553,7 +101562,14 @@
     "H8933": "0",
     "I8933": "unknown",
     "J8933": "other",
-    "K8933": "Change in log((CO emissions+1)/real output), Table1B, eq17/fn22. Table log-level label and first-difference description unresolved."
+    "K8933": "Change in log((CO emissions+1)/real output), Table1B, eq17/fn22. Table log-level label and first-difference description unresolved.",
+    "A8934": "89PULMFU",
+    "B8934": "h7",
+    "C8934": "hy1",
+    "H8934": "0",
+    "I8934": "unknown",
+    "J8934": "other",
+    "K8934": "Change in log((NOx emissions+1)/real output), Table1B, eq17/fn22. Table log-level label and first-difference description unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
