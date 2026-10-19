@@ -779886,3 +779886,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T12:14:14.282555+00:00 — Review 8A6ENF64 h21: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9005",
+    "before": null,
+    "after": "8A6ENF64"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9005",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9005",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9005",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9005",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9005",
+    "before": null,
+    "after": "Second-assessment PCT per hectare."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4044",
+    "before": null,
+    "after": "8A6ENF64"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4044",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4044",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4044",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4044",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4044",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4044",
+    "before": null,
+    "after": "Same continuous LPUN; A11 col4, PCT-II,25 groups, OLS limited controls; no village FE. Coefficient50.504."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4044",
+    "before": null,
+    "after": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
+  }
+]
+```
