@@ -42032,7 +42032,16 @@
     "L4151": "0",
     "M4151": "n/a",
     "N4151": "top net of investment income: baseline exposure definition as direct treatment Location: Table A.6 top net of investment income",
-    "O4151": "Distinct reported exposure/instrument definition; Appendix E provides treatment rationale. IV single binary baseline definition; exact realized exposure counterpart not restated for each row, so describe only established scope."
+    "O4151": "Distinct reported exposure/instrument definition; Appendix E provides treatment rationale. IV single binary baseline definition; exact realized exposure counterpart not restated for each row, so describe only established scope.",
+    "A4152": "A8LFPXLL",
+    "B4152": "h22",
+    "I4152": "1",
+    "J4152": "IV",
+    "K4152": "1",
+    "L4152": "0",
+    "M4152": "single binary",
+    "N4152": "top net of investment income: baseline exposure definition instrumenting realized exposure Location: Table A.6 top net of investment income",
+    "O4152": "Distinct reported exposure/instrument definition; Appendix E provides treatment rationale. IV single binary baseline definition; exact realized exposure counterpart not restated for each row, so describe only established scope."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105984,7 +105993,14 @@
     "H9317": "0",
     "I9317": "0",
     "J9317": "log",
-    "K9317": "Log average employee earnings, Table A.6 top net of investment income."
+    "K9317": "Log average employee earnings, Table A.6 top net of investment income.",
+    "A9318": "A8LFPXLL",
+    "B9318": "h22",
+    "C9318": "hy1",
+    "H9318": "0",
+    "I9318": "0",
+    "J9318": "log",
+    "K9318": "Log average employee earnings, Table A.6 top net of investment income."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
