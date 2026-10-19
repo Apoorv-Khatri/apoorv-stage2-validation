@@ -666384,3 +666384,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:18:24.876759+00:00 — Review 4HCEQK9M s5: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5886",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5887",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5886",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5887",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5886",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5887",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5886",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5886",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5887",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5886",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5887",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5886",
+    "before": null,
+    "after": "Table6col5 p3208 lean: focal -0.0301 (lean beta); paired control mean 0.169, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5887",
+    "before": null,
+    "after": "Table6col5 p3208 semi-peak: focal -0.0301 + -0.252 (semi-peak beta+gamma); paired control mean 0.205, in the indicated season/sample on the reported outcome scale."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5886",
+    "before": null,
+    "after": "IV external-employment dose effect versus all-control village-day mean; not complier/dose-weighted counterfactual. Crowd-out per external day is treatment-dose normalization, not own-outcome division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5887",
+    "before": null,
+    "after": "IV external-employment dose effect versus all-control village-day mean; not complier/dose-weighted counterfactual. Crowd-out per external day is treatment-dose normalization, not own-outcome division."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2135",
+    "before": null,
+    "after": "Village-day average local wage-employment share, Table6 col5; nonbinary treatment, detailed labels optional."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I868",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J868",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K868",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L868",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M868",
+    "before": null,
+    "after": "multiple binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N868",
+    "before": null,
+    "after": "Table6 col5: external-employment share and its semi-peak interaction instrumented by village assignment and assignment×semi-peak; local village-day employment share outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O868",
+    "before": null,
+    "after": "pp3207-3208 Table6 cols3-5: joint linear IV includes external employment and its seasonal interaction. Excluded randomized assignment and assignment×binary semi-peak are two binary instruments, not a single continuous instrument or scalar first-stage fitted index. Seasonal linear-combination effect -0.0301 + -0.252 is reported as crowd-out0.282. Control mean is not a complier/dose-specific untreated outcome benchmark; alignment0. Exact code not inspected; joint instrument interpretation follows displayed first stages and interaction system, parent confirm if separate-season implementation claimed."
+  }
+]
+```
