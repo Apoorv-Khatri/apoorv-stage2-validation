@@ -627741,3 +627741,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:59:25.530952+00:00 — Review 2UP7GN8M h13: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8342",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8342",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8342",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8342",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8342",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8342",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8342",
+    "before": null,
+    "after": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3698",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3698",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3698",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3698",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3698",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3698",
+    "before": null,
+    "after": "TableA10, footnote28 p3325: sponsorship on relative efficacy after dropping pre-1991 trials."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3698",
+    "before": null,
+    "after": "Implemented supporting smaller sponsorship estimate established in final main text. Exact FE/controls and numerical coefficient not available; no extrapolated table grid."
+  }
+]
+```
