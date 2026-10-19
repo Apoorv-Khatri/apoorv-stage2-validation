@@ -681225,3 +681225,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:20:42.434037+00:00 — Review 4X3H7PWW s1: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R574",
+    "before": null,
+    "after": "TableIII compares estimated reform effect with another predicted reform effect, not an outcome mean/SD/level. Verbal=1 and no division in source do not establish eligibility. Race evidence must use1967-only8.0/4.3, not pooled9.5/5.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2168",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2168",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J883",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M883",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N883",
+    "before": null,
+    "after": "Eq(1), FigureV, TableI ALL columns and AppendixD1-D2: binary newly covered industry versus 1938 industry, pooled and dynamic effects on log annual earnings; routine controls/sample/inference variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O883",
+    "before": null,
+    "after": "pp188-200. DiD takes precedence even without individual controls; industry/time FE not separate FE methods. Baseline1967 effect5.3%, pooled0.065. Exclusion of income-year1962 (deficient March1963 CPS) and reference-year1965 are distinct operations, not necessarily contradictory; AppendixB.5 explains excluded survey. AppendixD2 means describe normalized wage paths, with no exact policy coefficient paired."
+  }
+]
+```
