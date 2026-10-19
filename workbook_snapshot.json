@@ -37233,7 +37233,16 @@
     "L3708": "1",
     "M3708": "n/a",
     "N3708": "SectionV.C p1545 / FigureB12: LMCP-style $171 connection program,23.7% take-up; social surplus loss18809/community or935/connected household.",
-    "O3708": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Distinct policy estimand from universal expansion, not a repeated headline. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented."
+    "O3708": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Distinct policy estimand from universal expansion, not a repeated headline. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented.",
+    "A3709": "2W92PVM3",
+    "B3709": "h7",
+    "I3709": "1",
+    "J3709": "Other",
+    "K3709": "1",
+    "L3709": "1",
+    "M3709": "n/a",
+    "N3709": "SectionV.E / Table4 pp1550-51: connection acquisition versus no-grid electricity surplus, calibrated discrete/continuous linear-demand model across consumption/elasticity scenarios.",
+    "O3709": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Zero no-connection consumer surplus explicitly assumed. Table4 varies consumption, elasticity and growth as model scenarios, not randomized doses; connection/no-connection contrast is binary. Consumer surplus98-293 at10kWh; no claim that10kWh itself is a randomized treatment. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented. Independent audit: The exact known design is discounted discrete/continuous consumer-surplus calibration under linear demand, fixed elasticities and assumed zero no-grid surplus. Linear demand alone does not supply an implemented OLS regression on surplus; no cost/consumer-surplus benchmark is eligible."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94139,7 +94148,14 @@
     "H8361": "0",
     "I8361": "unknown",
     "J8361": "none",
-    "K8361": "Net social surplus change under program, USD per community and per connected household; differing denominators stated, not normalized outcome SD."
+    "K8361": "Net social surplus change under program, USD per community and per connected household; differing denominators stated, not normalized outcome SD.",
+    "A8362": "2W92PVM3",
+    "B8362": "h7",
+    "C8362": "hy1",
+    "H8362": "0",
+    "I8362": "unknown",
+    "J8362": "none",
+    "K8362": "Present-value consumer surplus from grid connection, USD per household,30-year life,15% discount,$.12/kWh,188-day delay."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

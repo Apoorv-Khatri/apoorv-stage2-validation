@@ -642126,3 +642126,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:33:19.102313+00:00 — Review 2W92PVM3 h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8362",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8362",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8362",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8362",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8362",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8362",
+    "before": null,
+    "after": "Present-value consumer surplus from grid connection, USD per household,30-year life,15% discount,$.12/kWh,188-day delay."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3709",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3709",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3709",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3709",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3709",
+    "before": null,
+    "after": "SectionV.E / Table4 pp1550-51: connection acquisition versus no-grid electricity surplus, calibrated discrete/continuous linear-demand model across consumption/elasticity scenarios."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3709",
+    "before": null,
+    "after": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Zero no-connection consumer surplus explicitly assumed. Table4 varies consumption, elasticity and growth as model scenarios, not randomized doses; connection/no-connection contrast is binary. Consumer surplus98-293 at10kWh; no claim that10kWh itself is a randomized treatment. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented. Independent audit: The exact known design is discounted discrete/continuous consumer-surplus calibration under linear demand, fixed elasticities and assumed zero no-grid surplus. Linear demand alone does not supply an implemented OLS regression on surplus; no cost/consumer-surplus benchmark is eligible."
+  }
+]
+```
