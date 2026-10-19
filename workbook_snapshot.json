@@ -41300,7 +41300,16 @@
     "L4082": "0",
     "M4082": "n/a",
     "N4082": "Cross-plan price-jump size and estimated excess mass; Figure A4: enrollee-weighted regression slope0.19(SE0.08), R2=.011, plans with1000+ beneficiaries within2000 of kink.",
-    "O4082": "p856 interprets increasing excess mass with higher price increase as expected behavioral response. Broad author-intention inclusion, not credible exogenous contract assignment; WLS linear in reported plan excess-mass statistic, distinct from upstream bunching recovery."
+    "O4082": "p856 interprets increasing excess mass with higher price increase as expected behavioral response. Broad author-intention inclusion, not credible exogenous contract assignment; WLS linear in reported plan excess-mass statistic, distinct from upstream bunching recovery.",
+    "A4083": "9VJYE45Y",
+    "B4083": "h7",
+    "I4083": "1",
+    "J4083": "unknown",
+    "K4083": "0",
+    "L4083": "0",
+    "M4083": "unknown",
+    "N4083": "Nonstandard2100-dollar kink versus standard2400/2510 placebo locations: annual spending distribution Figure A2 (2007/08, N12189).",
+    "O4083": "Behavioral-response support explicitly main p853 fn9/A2 caption. Graphical density comparison only; no fitted discontinuity coefficient established. Preserve null at standard locations without invented estimates."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -103399,7 +103408,14 @@
     "H9080": "0",
     "I9080": "unknown",
     "J9080": "other",
-    "K9080": "Plan-specific excess-mass statistic, Figure A4; generated dependent variable, no causal effects of risk-score covariates inferred."
+    "K9080": "Plan-specific excess-mass statistic, Figure A4; generated dependent variable, no causal effects of risk-score covariates inferred.",
+    "A9081": "9VJYE45Y",
+    "B9081": "h7",
+    "C9081": "hy1",
+    "H9081": "0",
+    "I9081": "unknown",
+    "J9081": "other",
+    "K9081": "Annual spending normalized histogram frequency, $20 bins relative2100 nonstandard kink."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
