@@ -686700,3 +686700,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:53:08.021659+00:00 — Review 4X3H7PWW h28: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8618",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8618",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8618",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8618",
+    "before": null,
+    "after": "Hourly-wage-bin frequencies/shares displayed for nonsupervisory workers across specified AppendixC panels; no numerical policy-effect coefficient supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3844",
+    "before": null,
+    "after": "4X3H7PWW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3844",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3844",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3844",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3844",
+    "before": null,
+    "after": "AppendixC FiguresC3-C12: minimum-wage introduction and subsequent floor increases on hourly-wage distributions across industries, regions and tipped/nontipped worker groups."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3844",
+    "before": null,
+    "after": "AppendixC explicitly calls these graphical evidence of how minimum wage affects wage distributions; broad author-intention gate passes. Observed histogram paths, not formal RD at wage floor or randomized treatment. No explicit common causal effect estimator; unknown rather than assume nonlinear Other or fabricate OLS regression. Continuous/multilevel floor path includes$0.50 tipped and$1/$1.15/$1.30 floors; minimum established scope, no invented figure-by-cutoff coefficient grid. Parent may treat as descriptive corroboration already subsumed by bunching rather than separate setting. Main-role correction: introduction p172 explicitly introduces immediate distributional wage spikes as the first empirical step showing large wage effects. AppendixC Uses distinguishes this graphical wage evidence from the employment bunching estimator; tipped workers, schools and hospitals extend beyond its four-industry employment sample. Main status does not depend on estimator certainty."
+  }
+]
+```

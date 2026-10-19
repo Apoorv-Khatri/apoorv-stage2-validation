@@ -38805,7 +38805,16 @@
     "L3843": "0",
     "M3843": "unknown",
     "N3843": "AppendixF4/TableF1: laundries/hotels/restaurants, United States,1967 policy effect on bottom-wage employment relative to upper-wage employment-growth counterfactual; cutoff variants.",
-    "O3843": "Author parallel-growth bottom/top argument establishes causal intention. Implemented growth-rate contrast is DiD-like conditional on pre-counts, but outcome-dependent binning, simulated wage shifting and elasticity recovery complicate full-procedure linearity. Do not assign Other from simulation label alone. TableF1 South no-spillover elasticity0.48 conflicts prose-0.01; national printed wage endpoints and growth rates also conflict. No silent repair."
+    "O3843": "Author parallel-growth bottom/top argument establishes causal intention. Implemented growth-rate contrast is DiD-like conditional on pre-counts, but outcome-dependent binning, simulated wage shifting and elasticity recovery complicate full-procedure linearity. Do not assign Other from simulation label alone. TableF1 South no-spillover elasticity0.48 conflicts prose-0.01; national printed wage endpoints and growth rates also conflict. No silent repair.",
+    "A3844": "4X3H7PWW",
+    "B3844": "h28",
+    "I3844": "1",
+    "J3844": "unknown",
+    "K3844": "0",
+    "L3844": "1",
+    "M3844": "unknown",
+    "N3844": "AppendixC FiguresC3-C12: minimum-wage introduction and subsequent floor increases on hourly-wage distributions across industries, regions and tipped/nontipped worker groups.",
+    "O3844": "AppendixC explicitly calls these graphical evidence of how minimum wage affects wage distributions; broad author-intention gate passes. Observed histogram paths, not formal RD at wage floor or randomized treatment. No explicit common causal effect estimator; unknown rather than assume nonlinear Other or fabricate OLS regression. Continuous/multilevel floor path includes$0.50 tipped and$1/$1.15/$1.30 floors; minimum established scope, no invented figure-by-cutoff coefficient grid. Parent may treat as descriptive corroboration already subsumed by bunching rather than separate setting. Main-role correction: introduction p172 explicitly introduces immediate distributional wage spikes as the first empirical step showing large wage effects. AppendixC Uses distinguishes this graphical wage evidence from the employment bunching estimator; tipped workers, schools and hospitals extend beyond its four-industry employment sample. Main status does not depend on estimator certainty."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -97480,7 +97489,11 @@
     "H8617": "0",
     "I8617": "unknown",
     "J8617": "none",
-    "K8617": "Mean hourly wages of bottom workers,1966 and1967, used to calculate wage gain/elasticity, TableF1."
+    "K8617": "Mean hourly wages of bottom workers,1966 and1967, used to calculate wage gain/elasticity, TableF1.",
+    "A8618": "4X3H7PWW",
+    "B8618": "h28",
+    "C8618": "hy1",
+    "K8618": "Hourly-wage-bin frequencies/shares displayed for nonsupervisory workers across specified AppendixC panels; no numerical policy-effect coefficient supplied."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
