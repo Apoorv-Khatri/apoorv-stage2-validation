@@ -630783,3 +630783,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:29:38.789343+00:00 — Review 2W92PVM3 s2: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J839",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M839",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N839",
+    "before": null,
+    "after": "Eq.(2)-(3), Figure3A: number of connections M on budgeted average total cost G=b0/M+b1+b2*M; marginal cost derived as b1+2*b2*M. Sample+designed communities."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O839",
+    "before": null,
+    "after": "pp1542-43: authors call estimation nonlinear, but equation is linear in coefficients/outcome G with fixed regressors 1/M,1,M; OLS/regression adjustment under project linearity criterion, not Other merely because nonlinear in treatment. No implemented IV in final main equation; realized M is not randomized assignment. Randomized price offers provide author-argued exogenous scale variation; designed high-coverage cost projections and functional-form assumptions matter. Parent verify NLS implementation: unconstrained least squares on this equation is OLS-equivalent. Independent audit: OLS classification upheld conditional on the stated least-squares fit: fixed design columns 1/M,1,M give a linear projection in G; a curve nonlinear in M is not a nonlinear estimator in G. The final preferred fit is not the appendix quadratic-IV estimator. Sample and designed budget data are combined, not an experiment that randomized realized project size."
+  }
+]
+```
