@@ -41327,7 +41327,16 @@
     "L4085": "0",
     "M4085": "n/a",
     "N4085": "Full insurance versus constant25% coinsurance: type-specific implied expected annual drug spending; Table A3 bottom p18.",
-    "O4085": "Explicit two-contract implied-spending comparison conditional on latent type, not a causal effect of type or risk-score coefficients. Retained as substantive contract counterfactual under the broad author-intention gate (Table note: claiming affected by contract features). Other reflects estimated latent-type/health-preference recovery. Do not assert that these constant-contract expected values use the same simulation draws as Table VI; direct analytic calculation is possible. Alternative exclusion as parameter illustration remains contested. Full insurance is the intervention and constant25% coinsurance the baseline."
+    "O4085": "Explicit two-contract implied-spending comparison conditional on latent type, not a causal effect of type or risk-score coefficients. Retained as substantive contract counterfactual under the broad author-intention gate (Table note: claiming affected by contract features). Other reflects estimated latent-type/health-preference recovery. Do not assert that these constant-contract expected values use the same simulation draws as Table VI; direct analytic calculation is possible. Alternative exclusion as parameter illustration remains contested. Full insurance is the intervention and constant25% coinsurance the baseline.",
+    "A4086": "9VJYE45Y",
+    "B4086": "h10",
+    "I4086": "1",
+    "J4086": "unknown",
+    "K4086": "1",
+    "L4086": "0",
+    "M4086": "unknown",
+    "N4086": "Fill gap eliminating all cross-year deferred spending: crude back-of-envelope population extrapolation, p893; about50 dollars per beneficiary.",
+    "O4086": "Explicit causal calculation assumes33% relative January excess applies to entire population and all deferral eliminated. Exact full procedure/linearity not established: unknown, not automatically Other from calculation label.50/150 compares two effects, not a level benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -103447,7 +103456,14 @@
     "H9083": "0",
     "I9083": "unknown",
     "J9083": "none",
-    "K9083": "Expected annual total spending by latent type under two constant-price contracts; Table A3 bottom p18. Mean conditional on type, not five distinct dependent variables."
+    "K9083": "Expected annual total spending by latent type under two constant-price contracts; Table A3 bottom p18. Mean conditional on type, not five distinct dependent variables.",
+    "A9084": "9VJYE45Y",
+    "B9084": "h10",
+    "C9084": "hy1",
+    "H9084": "0",
+    "I9084": "unknown",
+    "J9084": "none",
+    "K9084": "Annual deferred drug spending eliminated by filling gap, about50 dollars per beneficiary; p893."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
