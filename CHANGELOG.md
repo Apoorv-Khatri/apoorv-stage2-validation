@@ -660720,3 +660720,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:47:51.804514+00:00 — Review 4BNXLZ5D s5: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R562",
+    "before": null,
+    "after": "p897 17.3pp difference between zero/all postshipment-share customers is effect interpretation alone; neither group growth level stated. No mean/SD or other outcome-level benchmark. No division."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2120",
+    "before": null,
+    "after": "Reported scale is OTHER transformation: (crisis sales minus precrisis sales)/(crisis sales plus precrisis sales), not untransformed ordinary percentage growth. Exits assigned -1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2121",
+    "before": null,
+    "after": "Reported scale is OTHER transformation: (crisis sales minus precrisis sales)/(crisis sales plus precrisis sales), not untransformed ordinary percentage growth. Continuing customers only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I863",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J863",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L863",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M863",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N863",
+    "before": null,
+    "after": "Table8: continuous precrisis postshipment-sales share on normalized sales growth including exits, intensive-margin growth, and survival; cols1–6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O863",
+    "before": null,
+    "after": "Caption explicitly OLS. Author-intention supported by abstract and pp897–98: financing shapes crisis impact. Share remains continuous despite zero-to-one illustrative contrast. Growth outcome is change divided by sum, not conventional additive level change; no implemented parallel-trends design established. Survival is a level, not a differenced outcome. No FE. Selection in prior terms/relationship quality remains. GDP/currency/banking-crisis variables are included controls, not separately interpreted treatment effects."
+  }
+]
+```
