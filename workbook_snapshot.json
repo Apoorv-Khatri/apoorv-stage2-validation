@@ -37089,7 +37089,16 @@
     "L3695": "0",
     "M3695": "unknown",
     "N3695": "TableA6 / AppendixD (unavailable), pp3313-3314: sponsored trials increase absolute efficacy of focal drug and least-effective drug.",
-    "O3695": "Substantive companion-arm spillover explains absolute-versus-relative gap. Minimal causal scope from explicit implemented sentence; exact treatment coding/estimator/other results require appendix. Binary sponsored-trial contrast is explicit; no unseen coefficients. Independent audit: Supporting absolute-versus-relative decomposition, not independently highlighted as a central companion-arm finding in abstract/introduction/conclusion; this differs from the main relative efficacy result. Exact AppendixD implementation remains unknown."
+    "O3695": "Substantive companion-arm spillover explains absolute-versus-relative gap. Minimal causal scope from explicit implemented sentence; exact treatment coding/estimator/other results require appendix. Binary sponsored-trial contrast is explicit; no unseen coefficients. Independent audit: Supporting absolute-versus-relative decomposition, not independently highlighted as a central companion-arm finding in abstract/introduction/conclusion; this differs from the main relative efficacy result. Exact AppendixD implementation remains unknown.",
+    "A3696": "2UP7GN8M",
+    "B3696": "h11",
+    "I3696": "1",
+    "J3696": "unknown",
+    "K3696": "1",
+    "L3696": "1",
+    "M3696": "unknown",
+    "N3696": "FigureA6 / SectionIV.B.2 pp3323-3324: sponsorship effects in counterfactual samples adding observed unpublished trials and simulating missing trials.",
+    "O3696": "Implemented repeated-trial imputation uses random draws from observed unpublished trials, not randomized sponsorship. Maintains similarity of unseen and observed unpublished effects, completeness of registry and eventual publications. 20%,50%,90% are changes relative to estimated sponsorship effect, not outcome-mean comparisons. Exact FE and repeated-draw estimator unresolved; no fabricated appendix grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93693,7 +93702,14 @@
     "H8339": "0",
     "I8339": "unknown",
     "J8339": "unknown",
-    "K8339": "Absolute efficacy of sponsored/focal drug in corresponding AppendixD analysis; exact dependent scale and implementation unavailable."
+    "K8339": "Absolute efficacy of sponsored/focal drug in corresponding AppendixD analysis; exact dependent scale and implementation unavailable.",
+    "A8340": "2UP7GN8M",
+    "B8340": "h11",
+    "C8340": "hy1",
+    "H8340": "0",
+    "I8340": "unknown",
+    "J8340": "unknown",
+    "K8340": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

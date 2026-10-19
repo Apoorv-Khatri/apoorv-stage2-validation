@@ -627465,3 +627465,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:58:41.831917+00:00 — Review 2UP7GN8M h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8340",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8340",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8340",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8340",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8340",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8340",
+    "before": null,
+    "after": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3696",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3696",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3696",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3696",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3696",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3696",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3696",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3696",
+    "before": null,
+    "after": "FigureA6 / SectionIV.B.2 pp3323-3324: sponsorship effects in counterfactual samples adding observed unpublished trials and simulating missing trials."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3696",
+    "before": null,
+    "after": "Implemented repeated-trial imputation uses random draws from observed unpublished trials, not randomized sponsorship. Maintains similarity of unseen and observed unpublished effects, completeness of registry and eventual publications. 20%,50%,90% are changes relative to estimated sponsorship effect, not outcome-mean comparisons. Exact FE and repeated-draw estimator unresolved; no fabricated appendix grid."
+  }
+]
+```
