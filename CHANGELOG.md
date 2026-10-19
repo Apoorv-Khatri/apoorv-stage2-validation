@@ -627318,3 +627318,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:58:19.237579+00:00 — Review 2UP7GN8M h10: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8338",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8339",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8338",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8339",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8338",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8339",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8338",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8339",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8338",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8339",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8338",
+    "before": null,
+    "after": "Absolute efficacy of least-effective drug in trial under sponsored-trial contrast; available text establishes direction but not exact standardization/zero support."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8339",
+    "before": null,
+    "after": "Absolute efficacy of sponsored/focal drug in corresponding AppendixD analysis; exact dependent scale and implementation unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3695",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3695",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3695",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3695",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3695",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3695",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3695",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3695",
+    "before": null,
+    "after": "TableA6 / AppendixD (unavailable), pp3313-3314: sponsored trials increase absolute efficacy of focal drug and least-effective drug."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3695",
+    "before": null,
+    "after": "Substantive companion-arm spillover explains absolute-versus-relative gap. Minimal causal scope from explicit implemented sentence; exact treatment coding/estimator/other results require appendix. Binary sponsored-trial contrast is explicit; no unseen coefficients. Independent audit: Supporting absolute-versus-relative decomposition, not independently highlighted as a central companion-arm finding in abstract/introduction/conclusion; this differs from the main relative efficacy result. Exact AppendixD implementation remains unknown."
+  }
+]
+```

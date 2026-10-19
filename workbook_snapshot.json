@@ -37080,7 +37080,16 @@
     "L3694": "0",
     "M3694": "unknown",
     "N3694": "TableA7 (unavailable), described p3314: sponsorship on efficacy with drug-by-set rather than drug-by-pair fixed effects.",
-    "O3694": "Implemented robustness and similar magnitudes established; minimum scope only. Identifying FE present, exact other sets/outcome grid unavailable, FE/HDFE unresolved. Not infer an unseen copy of all Table1 columns."
+    "O3694": "Implemented robustness and similar magnitudes established; minimum scope only. Identifying FE present, exact other sets/outcome grid unavailable, FE/HDFE unresolved. Not infer an unseen copy of all Table1 columns.",
+    "A3695": "2UP7GN8M",
+    "B3695": "h10",
+    "I3695": "1",
+    "J3695": "unknown",
+    "K3695": "1",
+    "L3695": "0",
+    "M3695": "unknown",
+    "N3695": "TableA6 / AppendixD (unavailable), pp3313-3314: sponsored trials increase absolute efficacy of focal drug and least-effective drug.",
+    "O3695": "Substantive companion-arm spillover explains absolute-versus-relative gap. Minimal causal scope from explicit implemented sentence; exact treatment coding/estimator/other results require appendix. Binary sponsored-trial contrast is explicit; no unseen coefficients. Independent audit: Supporting absolute-versus-relative decomposition, not independently highlighted as a central companion-arm finding in abstract/introduction/conclusion; this differs from the main relative efficacy result. Exact AppendixD implementation remains unknown."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93670,7 +93679,21 @@
     "H8337": "0",
     "I8337": "unknown",
     "J8337": "unknown",
-    "K8337": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable."
+    "K8337": "Relative efficacy: standardized component difference from placebo/least arm; exact appendix scale unverified where source unavailable.",
+    "A8338": "2UP7GN8M",
+    "B8338": "h10",
+    "C8338": "hy1",
+    "H8338": "0",
+    "I8338": "unknown",
+    "J8338": "unknown",
+    "K8338": "Absolute efficacy of least-effective drug in trial under sponsored-trial contrast; available text establishes direction but not exact standardization/zero support.",
+    "A8339": "2UP7GN8M",
+    "B8339": "h10",
+    "C8339": "hy2",
+    "H8339": "0",
+    "I8339": "unknown",
+    "J8339": "unknown",
+    "K8339": "Absolute efficacy of sponsored/focal drug in corresponding AppendixD analysis; exact dependent scale and implementation unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
