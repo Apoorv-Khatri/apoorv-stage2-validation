@@ -37224,7 +37224,16 @@
     "L3707": "1",
     "M3707": "n/a",
     "N3707": "SectionV.C / Figure3B pp1544-45: universal connection program versus no expansion; consumer surplus and net social surplus (loss50197 per community,593 per household).",
-    "O3707": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented."
+    "O3707": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented.",
+    "A3708": "2W92PVM3",
+    "B3708": "h6",
+    "I3708": "1",
+    "J3708": "Other",
+    "K3708": "1",
+    "L3708": "1",
+    "M3708": "n/a",
+    "N3708": "SectionV.C p1545 / FigureB12: LMCP-style $171 connection program,23.7% take-up; social surplus loss18809/community or935/connected household.",
+    "O3708": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Distinct policy estimand from universal expansion, not a repeated headline. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94123,7 +94132,14 @@
     "H8360": "0",
     "I8360": "unknown",
     "J8360": "none",
-    "K8360": "Consumer surplus from universal grid connections,12421 per community /147 per household, from integrated experimental demand."
+    "K8360": "Consumer surplus from universal grid connections,12421 per community /147 per household, from integrated experimental demand.",
+    "A8361": "2W92PVM3",
+    "B8361": "h6",
+    "C8361": "hy1",
+    "H8361": "0",
+    "I8361": "unknown",
+    "J8361": "none",
+    "K8361": "Net social surplus change under program, USD per community and per connected household; differing denominators stated, not normalized outcome SD."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
