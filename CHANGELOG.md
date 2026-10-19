@@ -751968,3 +751968,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:33:01.492097+00:00 — Review 64JY936S h30: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8869",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8869",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8869",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8869",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8869",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8869",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8869",
+    "before": null,
+    "after": "Firm employment response elasticity with respect to wage, p1759 range1.8-2.4; author-implied labor supply."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3945",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3945",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3945",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3945",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3945",
+    "before": null,
+    "after": "Firm-specific labor-supply elasticity recovered from tax-induced employment4.6% and wage1.9-2.6% effects, p1759:1.8-2.4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3945",
+    "before": null,
+    "after": "Ratio of estimated employment and earnings responses; nonlinear joint outcome recovery under firm-specific labor-supply interpretation, not an implemented2SLS. Focal treatment is wage change, not binary tax eligibility. No comparison to outcome mean/SD established."
+  }
+]
+```

@@ -39886,7 +39886,16 @@
     "L3944": "0",
     "M3944": "unknown",
     "N3944": "Concurrent temporary-contract reform and temporary-job composition by age, Figure A23D / Appendix A.3.2: pre2002-06 versus post2009-13 age profiles; no expansion among young, slight older expansion. Substantive policy-null interpretation, not an identified youth-payroll eligibility coefficient.",
-    "O3944": "Appendix A.3.2 pp66-67 and A23D attributes this profile to temporary-contract reform. Retain the minimum policy-response scope under the broad author-intention gate, with unknown method and exposure coding: no untreated group for the nationwide concurrent reform is established. Alternative exclusion as diagnostic-only remains for parent adjudication. Do not assign binary age eligibility to this concurrent reform."
+    "O3944": "Appendix A.3.2 pp66-67 and A23D attributes this profile to temporary-contract reform. Retain the minimum policy-response scope under the broad author-intention gate, with unknown method and exposure coding: no untreated group for the nationwide concurrent reform is established. Alternative exclusion as diagnostic-only remains for parent adjudication. Do not assign binary age eligibility to this concurrent reform.",
+    "A3945": "64JY936S",
+    "B3945": "h30",
+    "I3945": "1",
+    "J3945": "Other",
+    "K3945": "0",
+    "L3945": "0",
+    "M3945": "n/a",
+    "N3945": "Firm-specific labor-supply elasticity recovered from tax-induced employment4.6% and wage1.9-2.6% effects, p1759:1.8-2.4.",
+    "O3945": "Ratio of estimated employment and earnings responses; nonlinear joint outcome recovery under firm-specific labor-supply interpretation, not an implemented2SLS. Focal treatment is wage change, not binary tax eligibility. No comparison to outcome mean/SD established."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -100575,7 +100584,14 @@
     "H8868": "0",
     "I8868": "unknown",
     "J8868": "none",
-    "K8868": "Temporary employment as share of total employment by age and period; A23D. Not temporary employment/labor-force contribution in A23C."
+    "K8868": "Temporary employment as share of total employment by age and period; A23D. Not temporary employment/labor-force contribution in A23C.",
+    "A8869": "64JY936S",
+    "B8869": "h30",
+    "C8869": "hy1",
+    "H8869": "0",
+    "I8869": "unknown",
+    "J8869": "other",
+    "K8869": "Firm employment response elasticity with respect to wage, p1759 range1.8-2.4; author-implied labor supply."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
