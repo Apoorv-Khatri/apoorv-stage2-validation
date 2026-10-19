@@ -507,6 +507,7 @@
     "B106": "Leader Punishment and Cooperation in Groups: Experimental Field Evidence from Commons Management in Ethiopia",
     "C106": "econ",
     "D106": 3,
+    "E106": "DONE — Available-source review of37-page final article and23-page official AEA supplement, independently retrieved/hash-matched and audited. Retain56 settings,60 outcome records and two mean comparisons; one original wrong-parent comparison rejected and reattached to LAS FE. Experiment measures observational leader types, not randomized forest treatment;2005 forest assessment precedes2008 preference elicitation. Weighted punishment doses distinct from indicators; identifying village FE separated from OLS, weighted-dose DiD retained. Poisson/negative-binomial response scopes separate, central nulls retained, Figure6 substantive mechanism method unknown. Null adjustment slopes not promoted solely from generic effect wording; substantive parameter-specific interpretation required, not significance. DFITS robustness grouped conditional on selected sample with full-procedure outcome-adaptivity caveat. Unreported player2 contrast allocations, additional dummy-level scopes and FigureA1 benchmark allocations held outside application; no fabricated grid or omission-free certification. Both mean comparisons verbal1/divided0/alignmentunknown; punishment-dose scaling not outcome normalization. Printed dose, sample, caption and numerical conflicts preserved. No empirical replication. Original fields, IDs and hyperlinks preserved.",
     "A107": "9VJYE45Y",
     "B107": "The Response of Drug Expenditure to Nonlinear Contract Design: Evidence from Medicare Part D *",
     "C107": "econ",
@@ -41187,7 +41188,16 @@
     "L4075": "0",
     "M4075": "n/a",
     "N4075": "Conditional-cooperator share and its square, A6 col6; explicit nonlinear-in-dose but linear-in-outcome conditional-cooperation response, village FE; PCT-I.",
-    "O4075": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
+    "O4075": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders.",
+    "A4076": "8A6ENF64",
+    "B4076": "h53",
+    "I4076": "1",
+    "J4076": "unknown",
+    "K4076": "0",
+    "L4076": "1",
+    "M4076": "unknown",
+    "N4076": "Leader-type differences in conditional-cooperators contribution distributions, Figure6/pp777-778: authors say LAS induce lower cooperation and anticipators refrain from high contributions. Four observed leader types, not randomized assignment.",
+    "O4076": "Substantive author-intended mechanism retained despite observational types. Histogram and omnibus median test reported, but an implemented causal-effect estimator is not identified: do not call the median-test p-value OLS or invent threshold effects. The reported median2 Birr locates the histogram tail; it is not an explicitly normalized or paired magnitude for a quantified leader effect. Unknown method is independent of main1 and nonbinary four-type exposure."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102935,7 +102945,14 @@
     "H9039": "0",
     "I9039": "0",
     "J9039": "none",
-    "K9039": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I)."
+    "K9039": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I).",
+    "A9040": "8A6ENF64",
+    "B9040": "h53",
+    "C9040": "hy1",
+    "H9040": "0",
+    "I9040": "1",
+    "J9040": "none",
+    "K9040": "Individual conditional-cooperator contribution to TPPG public good,0/2/4/6 Birr; plotted distribution."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

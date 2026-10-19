@@ -783372,3 +783372,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T12:26:22.255940+00:00 — Review 8A6ENF64 h53: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9040",
+    "before": null,
+    "after": "8A6ENF64"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9040",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9040",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9040",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9040",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9040",
+    "before": null,
+    "after": "Individual conditional-cooperator contribution to TPPG public good,0/2/4/6 Birr; plotted distribution."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E106",
+    "before": null,
+    "after": "DONE — Available-source review of37-page final article and23-page official AEA supplement, independently retrieved/hash-matched and audited. Retain56 settings,60 outcome records and two mean comparisons; one original wrong-parent comparison rejected and reattached to LAS FE. Experiment measures observational leader types, not randomized forest treatment;2005 forest assessment precedes2008 preference elicitation. Weighted punishment doses distinct from indicators; identifying village FE separated from OLS, weighted-dose DiD retained. Poisson/negative-binomial response scopes separate, central nulls retained, Figure6 substantive mechanism method unknown. Null adjustment slopes not promoted solely from generic effect wording; substantive parameter-specific interpretation required, not significance. DFITS robustness grouped conditional on selected sample with full-procedure outcome-adaptivity caveat. Unreported player2 contrast allocations, additional dummy-level scopes and FigureA1 benchmark allocations held outside application; no fabricated grid or omission-free certification. Both mean comparisons verbal1/divided0/alignmentunknown; punishment-dose scaling not outcome normalization. Printed dose, sample, caption and numerical conflicts preserved. No empirical replication. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4076",
+    "before": null,
+    "after": "8A6ENF64"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4076",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4076",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4076",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4076",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4076",
+    "before": null,
+    "after": "Leader-type differences in conditional-cooperators contribution distributions, Figure6/pp777-778: authors say LAS induce lower cooperation and anticipators refrain from high contributions. Four observed leader types, not randomized assignment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4076",
+    "before": null,
+    "after": "Substantive author-intended mechanism retained despite observational types. Histogram and omnibus median test reported, but an implemented causal-effect estimator is not identified: do not call the median-test p-value OLS or invent threshold effects. The reported median2 Birr locates the histogram tail; it is not an explicitly normalized or paired magnitude for a quantified leader effect. Unknown method is independent of main1 and nonbinary four-type exposure."
+  }
+]
+```
