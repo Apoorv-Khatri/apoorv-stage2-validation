@@ -681573,3 +681573,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T06:22:19.708226+00:00 — Review 4X3H7PWW s5: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2174",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2174",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J887",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M887",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N887",
+    "before": null,
+    "after": "TableIV cols1-2: BLS cross-industry DiD on log mean hourly wages, full and strict samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O887",
+    "before": null,
+    "after": "Author interprets implemented policy contrast causally. Conventional treated/post or event-time estimator; no implemented heterogeneity-robust modern DiD, randomized assignment, RD or IV. Fixed effects do not override DiD precedence."
+  }
+]
+```
