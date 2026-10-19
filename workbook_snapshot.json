@@ -37432,7 +37432,16 @@
     "L3725": "0",
     "M3725": "single continuous",
     "N3725": "TableB6, p3174: family-BP DI income effect on beneficiary earnings.",
-    "O3725": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Main text establishes implemented effect: family null, upper negative. No unseen table coefficients/benchmarks asserted."
+    "O3725": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Main text establishes implemented effect: family null, upper negative. No unseen table coefficients/benchmarks asserted.",
+    "A3726": "2XPTKJBQ",
+    "B3726": "h2",
+    "I3726": "1",
+    "J3726": "IV",
+    "K3726": "0",
+    "L3726": "0",
+    "M3726": "single continuous",
+    "N3726": "TableB6, p3174: upper-BP DI income effect on beneficiary earnings.",
+    "O3726": "Fuzzy RKD ratio of outcome-slope kink to payment-slope kink, Eq.(1)-(2), pp3163-65: IV precedence, not direct RD or OLS. One scalar excluded kink basis (AIME minus BP) × above-BP indicator, not a binary eligibility instrument; local polynomial/covariate terms are controls. Conventional and quadratic bias-corrected variants grouped. Local marginal-effect weights reflect compliance with the benefit formula; no identifying FE battery. Main text establishes implemented effect: family null, upper negative. No unseen table coefficients/benchmarks asserted."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94488,7 +94497,11 @@
     "A8387": "2XPTKJBQ",
     "B8387": "h1",
     "C8387": "hy1",
-    "K8387": "Earnings; exact horizon/scale not established by final main text."
+    "K8387": "Earnings; exact horizon/scale not established by final main text.",
+    "A8388": "2XPTKJBQ",
+    "B8388": "h2",
+    "C8388": "hy1",
+    "K8388": "Earnings; exact horizon/scale not established by final main text."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
