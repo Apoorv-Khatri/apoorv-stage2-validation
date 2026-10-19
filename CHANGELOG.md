@@ -839190,3 +839190,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:23:46.304823+00:00 — Review A8LFPXLL s1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9286",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9286",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9286",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9286",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9286",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2415",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9286",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9286",
+    "before": null,
+    "after": "Log average earnings of stayers present in 2012 and remaining at firm in year t; Table II B stayers, -0.0071 preferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J964",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M964",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O964",
+    "before": null,
+    "after": "Eq. (2), Figure II A-B, Table II A ITT and B sample variants: conventional DiD in every control column, never separate OLS/FE. All-owner treatment moved to h1. Table II col.3 prints positive 0.0198; preserve printed sign conflict. Dynamic post-treatment results included."
+  }
+]
+```
