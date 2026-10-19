@@ -609213,3 +609213,1398 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T00:22:05.485758+00:00 — Review XTWW4AUI s3: source-audited coding and linked comparisons
+
+231 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5370",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5371",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5372",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5373",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5374",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5375",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5376",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5377",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5378",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5379",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5380",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5381",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5382",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5383",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5384",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5385",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5386",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5387",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5388",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5389",
+    "before": null,
+    "after": "XTWW4AUI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5370",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5371",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5372",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5373",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5374",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5375",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5376",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5377",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5378",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5379",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5380",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5381",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5382",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5383",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5384",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5385",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5386",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5387",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5388",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5389",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5370",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5371",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5372",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5373",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5374",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5375",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5376",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5377",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5378",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5379",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5380",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5381",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5382",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5383",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5384",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5385",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5386",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5387",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5388",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5389",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5385",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5370",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5371",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5372",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5373",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5374",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5375",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5376",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5377",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5378",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5379",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5380",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5381",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5382",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5383",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5384",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5385",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5386",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5387",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5388",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5389",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5370",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5371",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5372",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5373",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5374",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5375",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5376",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5377",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5378",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5379",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5380",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5381",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5382",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5383",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5384",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5385",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5386",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5387",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5388",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5389",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5372",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5373",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5375",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5376",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5378",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5379",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5380",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5381",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5383",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5384",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5388",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5372",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5373",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5375",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5376",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5378",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5379",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5380",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5381",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5383",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5384",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5388",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5370",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5372",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5373",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5374",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5375",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5376",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5377",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5378",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5379",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5380",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5381",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5383",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5384",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5388",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5370",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile1,12months: LME 0.00 percentage points, early-component mean 9.17%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5371",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile2,12months: LME -0.06 percentage points, early-component mean 11.01%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5372",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile3,12months: LME 0.46 percentage points, early-component mean 11.16%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5373",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile4,12months: LME -1.01 percentage points, early-component mean 12.24%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5374",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile5,12months: LME 7.17 percentage points, early-component mean 4.53%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5375",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile1,12months: LME 1.00 percentage points, early-component mean 10.47%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5376",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile2,12months: LME -0.29 percentage points, early-component mean 12.69%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5377",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile3,12months: LME 0.97 percentage points, early-component mean 12.42%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5378",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile4,12months: LME 0.52 percentage points, early-component mean 10.89%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5379",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile5,12months: LME 6.51 percentage points, early-component mean 5.29%. Same printed row/panel, paired early outcome level; PanelA value weights/PanelB equal weights (Table1 equal pair weights)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5380",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile1,12months: LME 0.00 percentage points, late-component mean 9.18%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5381",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile2,12months: LME -0.06 percentage points, late-component mean 10.95%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5382",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile3,12months: LME 0.46 percentage points, late-component mean 11.62%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5383",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile4,12months: LME -1.01 percentage points, late-component mean 11.23%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5384",
+    "before": null,
+    "after": "Table4 p.134 PanelA, IV365 quintile5,12months: LME 7.17 percentage points, late-component mean 11.70%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5385",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile1,12months: LME 1.00 percentage points, late-component mean 11.47%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5386",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile2,12months: LME -0.29 percentage points, late-component mean 12.40%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5387",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile3,12months: LME 0.97 percentage points, late-component mean 13.39%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5388",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile4,12months: LME 0.52 percentage points, late-component mean 11.40%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5389",
+    "before": null,
+    "after": "Table4 p.134 PanelB, IV365 quintile5,12months: LME 6.51 percentage points, late-component mean 11.80%. Same printed row/panel; late is low IV30 for Table1 and high IVD for Tables4-6. Table1 equal pair weights; PanelA value weights/PanelB equal weights. Benchmark is the observed late (treated) endpoint, not an untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5370",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5371",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5372",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5373",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5374",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5375",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5376",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5377",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5378",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5379",
+    "before": null,
+    "after": "Independent eligibility judgment: explicitly labeled early/late endpoint means and their LME contrast in the same row constitute deliberate same-outcome pairing, not an unrelated descriptive table. Verbal0/divided0. Early mean is observed comparison-group return, not established as the later target untreated counterfactual; alignment unknown. No calculated ratio. Narrow decomposition-only exclusion would require dropping BOTH endpoint families, not only the treated late mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5380",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5381",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5382",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5383",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5384",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5385",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5386",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5387",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5388",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5389",
+    "before": null,
+    "after": "Independent correction to early-only proposal: eligibility and alignment are distinct. The deliberately paired same-outcome late mean qualifies just as the early mean does, but Human_aligned=0 because it is the treated endpoint rather than an untreated baseline. No verbal effect-to-mean comparison or normalization; preserve printed values and rounding."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2000",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2000",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2000",
+    "before": null,
+    "after": "Reported simple return (12-month cumulative for s1-s4; one-month for s5-s7), not an estimated coefficient as a separate dependent variable. Percentage-point contrasts; factor alpha where applicable. No log/log1p outcome. Exact zero mass is not established by main article."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J819",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M819",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N819",
+    "before": null,
+    "after": "Table 4 A/B p.134: high-minus-low IVD quintile 12-month return contrasts within each IV365 quintile, value/equal weighted; retain all five strata including nulls. Same-section untabulated top IV365 decile/top5% results about10/13% grouped sample variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O819",
+    "before": null,
+    "after": "Author-intention gate passes under broad prompt: pp.128,131,134,144 interpret later resolution as requiring compensation, not merely forecasting ability. This is observational pricing evidence, not credible exogenous intervention by assumption. IV here means implied volatility, NOT an instrumental variable. No implemented IV/RCT/RD/DiD or identifying categorical FE; asset-pricing factors and monthly cross-sectional demeaning are not identifying FE. Fixed covariate-defined group weighted mean differences are linear outcome contrasts; no separately implemented matching algorithm for these double sorts. Main role independently established abstract/introduction/conclusion."
+  }
+]
+```
