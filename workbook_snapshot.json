@@ -502,6 +502,7 @@
     "B105": "Why Is Pollution from US Manufacturing Declining? The Roles of Environmental Regulation, Productivity, and Trade",
     "C105": "econ",
     "D105": 2,
+    "E105": "DONE — Available-source review of41-page final article and25-page official AEA appendix, independently retrieved/hash-matched and audited. Retain38 settings and92 comparisons; original NBP log-percentage conversion comparison rejected. Add principal nonlinear equilibrium shock counterfactuals, pollutant-specific IV/reduced forms, dynamics and substantive robustness/nulls. Instrument definition conflicts remain unresolved: IV type and reduced-form exposure binary unknown rather than choosing between footnote and table. Alpha retained as reexpression of coded abatement relationship, not additional sector causal outcomes or a linear-IV alpha coefficient. Descriptive productivity correlations/statistical accounting excluded on explicit author estimand framing. Own1990-baseline and deliberately compared observed-path graphical benchmarks retained without invented endpoints or annual grids. Sensitivity table composite construction used with conflicts explicit; six verbal flags unknown where prose attaches different numerical cells/outcomes/horizons. Further sensitivity actual-level triples and implemented nonmanufacturing allocation held outside application, not certified absent. No grouped placeholders or replication-package bypass; no empirical replication. Original fields, IDs and hyperlinks preserved.",
     "A106": "8A6ENF64",
     "B106": "Leader Punishment and Cooperation in Groups: Experimental Field Evidence from Commons Management in Ethiopia",
     "C106": "econ",
@@ -40688,7 +40689,16 @@
     "L4022": "0",
     "M4022": "n/a",
     "N4022": "Appendix sensitivity Table1 p20 col4, rows[8]: US expenditure shares-only historical shocks; partial equilibrium; wages and firm entry fixed; aggregate emissions index.",
-    "O4022": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels. Partial equilibrium imposes emissions ratio=1/tax ratio; nonregulatory shocks have exact nulls100 by construction. Nonlinear model recovery retained, not a linear DiD."
+    "O4022": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels. Partial equilibrium imposes emissions ratio=1/tax ratio; nonregulatory shocks have exact nulls100 by construction. Nonlinear model recovery retained, not a linear DiD.",
+    "A4023": "89PULMFU",
+    "B4023": "h36",
+    "I4023": "1",
+    "J4023": "Other",
+    "K4023": "0",
+    "L4023": "0",
+    "M4023": "n/a",
+    "N4023": "Appendix sensitivity Table1 p20 col5, rows[8]: trade deficits-only historical shocks; partial equilibrium; wages and firm entry fixed; aggregate emissions index.",
+    "O4023": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels. Partial equilibrium imposes emissions ratio=1/tax ratio; nonregulatory shocks have exact nulls100 by construction. Nonlinear model recovery retained, not a linear DiD."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102028,7 +102038,11 @@
     "A8982": "89PULMFU",
     "B8982": "h35",
     "C8982": "hy1",
-    "K8982": "Unweighted mean across six criteria pollutants of US manufacturing counterfactual-emissions/own1990-emissions percentages, averaged across2005 and2008 (sensitivity Table1 p20 note). This is one actually tabulated aggregate dependent measure, not six unobserved outcomes grouped as a placeholder. SectionIII.G instead says NOx2008; numerical allocation remains conflicting."
+    "K8982": "Unweighted mean across six criteria pollutants of US manufacturing counterfactual-emissions/own1990-emissions percentages, averaged across2005 and2008 (sensitivity Table1 p20 note). This is one actually tabulated aggregate dependent measure, not six unobserved outcomes grouped as a placeholder. SectionIII.G instead says NOx2008; numerical allocation remains conflicting.",
+    "A8983": "89PULMFU",
+    "B8983": "h36",
+    "C8983": "hy1",
+    "K8983": "Unweighted mean across six criteria pollutants of US manufacturing counterfactual-emissions/own1990-emissions percentages, averaged across2005 and2008 (sensitivity Table1 p20 note). This is one actually tabulated aggregate dependent measure, not six unobserved outcomes grouped as a placeholder. SectionIII.G instead says NOx2008; numerical allocation remains conflicting."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -180286,7 +180300,18 @@
     "O6943": "1",
     "P6943": "n/a",
     "Q6943": "Official appendix p20 sensitivity Table1 row8, col4: 100.000 percent of own1990 emissions for US expenditure shares-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels.",
-    "R6943": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
+    "R6943": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate.",
+    "A6944": "89PULMFU",
+    "B6944": "h36",
+    "C6944": "hc1",
+    "K6944": "1",
+    "L6944": "hy1",
+    "M6944": "other_level",
+    "N6944": "0",
+    "O6944": "1",
+    "P6944": "n/a",
+    "Q6944": "Official appendix p20 sensitivity Table1 row8, col5: 100.000 percent of own1990 emissions for trade deficits-only scenario. Table title explicitly divides counterfactual emissions by1990; note defines six-pollutant mean averaged2005/2008. Baseline index100. Official final supplement p20 Table1 sensitivity (distinct from statistical Table1 p5): cells actual46.464 and foreign95.429, caption examples40.47 and107.14; III.G p23 instead assigns numerical results to NOx2008 and misnumbers rows. Preserve cells and table-defined aggregation, do not silently repair or treat prose as separate numerical outcome. All ratios explicitly normalized to1990; other_level not outcome_mean because it is an index of own pollutant aggregate levels.",
+    "R6944": "Table/title-only specific triple: verbal0 divided1; shared explanatory note does not individually verbalize every estimate."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
