@@ -716940,3 +716940,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:14:58.005745+00:00 — Review 5SL56HMJ s5: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2215",
+    "before": null,
+    "after": "Estimated log TFP, Table9 identifying-FE columns3,4,6-8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J906",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K906",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M906",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N906",
+    "before": null,
+    "after": "Table9 sheet-revenue specialization share effect on log TFP: cols3,4,6,7,8, coefficients0.094,0.119,0.099,0.114,0.168. State-year, firm-year, or plant plus year FE. All/VI sample variants grouped. Cols2,5 separated to h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O906",
+    "before": null,
+    "after": "pp159-161 interpret specialization premia as mechanism of competition-induced selection. State/firm cells inherit explicit identifying rationale in SectionIIIB; plant FE isolate within-plant heterogeneity, but limited within-plant specialization variation reduces power. No HDFE: plant plus year is two sets. Continuous share, not binary endpoint illustration."
+  }
+]
+```
