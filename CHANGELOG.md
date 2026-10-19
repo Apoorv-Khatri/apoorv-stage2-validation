@@ -642795,3 +642795,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:35:07.002347+00:00 — Review 2W92PVM3 h12: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8369",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8370",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8369",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8370",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8369",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8370",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8369",
+    "before": null,
+    "after": "economic outcomes of neighboring households; final main text no exact outcome grid or scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8370",
+    "before": null,
+    "after": "noneconomic outcomes of neighboring households; final main text no exact outcome grid or scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3714",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3714",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3714",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3714",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3714",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3714",
+    "before": null,
+    "after": "Footnote35 p1549 and p1560, TableB6C: local household spillover effects on economic and noneconomic outcomes; R1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3714",
+    "before": null,
+    "after": "Final main text establishes implemented central spillover null but not precise estimator/treatment. Do not promote prespecified community rate IV or author-copy B6C household-receipt caption into final fact. Author April2019 B6C reports RCT and IV; PAP uses community electrification rate, conflicting with table caption. Parent final verification required; minimum scope only. Independent audit: Retain minimum implemented-result scope, unknown method where final implementation is not specified. Author appendix/PAP discrepancies cannot be resolved by treating plans as results. Do not duplicate the pooled outcome grid or manufacture wave-specific comparison allocations."
+  }
+]
+```

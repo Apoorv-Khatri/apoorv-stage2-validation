@@ -37278,7 +37278,16 @@
     "L3713": "0",
     "M3713": "n/a",
     "N3713": "Figure3C / SectionVI.A pp1553-54: imposing6-week up-front deadline on hypothetical credit offer; stated demand curves.",
-    "O3713": "Sequential paired question contrast, not randomized deadline. Actual RCT assignment pertains financing package only. No unlabeled plotted coefficients digitized; author appendix precise means not substituted for verified final. Independent audit: Retain as author-interpreted paired linear contrast (OLS), not RCT: every respondent first sees the unrestricted question, then the deadline. Order and hypothetical bias affect identification credibility. No numerical decline is computed and attributed to the source."
+    "O3713": "Sequential paired question contrast, not randomized deadline. Actual RCT assignment pertains financing package only. No unlabeled plotted coefficients digitized; author appendix precise means not substituted for verified final. Independent audit: Retain as author-interpreted paired linear contrast (OLS), not RCT: every respondent first sees the unrestricted question, then the deadline. Order and hypothetical bias affect identification credibility. No numerical decline is computed and attributed to the source.",
+    "A3714": "2W92PVM3",
+    "B3714": "h12",
+    "I3714": "1",
+    "J3714": "unknown",
+    "K3714": "unknown",
+    "L3714": "1",
+    "M3714": "unknown",
+    "N3714": "Footnote35 p1549 and p1560, TableB6C: local household spillover effects on economic and noneconomic outcomes; R1.",
+    "O3714": "Final main text establishes implemented central spillover null but not precise estimator/treatment. Do not promote prespecified community rate IV or author-copy B6C household-receipt caption into final fact. Author April2019 B6C reports RCT and IV; PAP uses community electrification rate, conflicting with table caption. Parent final verification required; minimum scope only. Independent audit: Retain minimum implemented-result scope, unknown method where final implementation is not specified. Author appendix/PAP discrepancies cannot be resolved by treating plans as results. Do not duplicate the pooled outcome grid or manufacture wave-specific comparison allocations."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94221,7 +94230,15 @@
     "H8368": "1",
     "I8368": "1",
     "J8368": "none",
-    "K8368": "Hypothetical credit-package acceptance indicator reported as percentage."
+    "K8368": "Hypothetical credit-package acceptance indicator reported as percentage.",
+    "A8369": "2W92PVM3",
+    "B8369": "h12",
+    "C8369": "hy1",
+    "K8369": "economic outcomes of neighboring households; final main text no exact outcome grid or scale.",
+    "A8370": "2W92PVM3",
+    "B8370": "h12",
+    "C8370": "hy2",
+    "K8370": "noneconomic outcomes of neighboring households; final main text no exact outcome grid or scale."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
