@@ -758244,3 +758244,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:02:14.676769+00:00 — Review 7PQVC2SH h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8888",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8888",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8888",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8888",
+    "before": null,
+    "after": "Log sales, sector-controlled field-share-by-age regression, p2080; field-specific coefficients undisplayed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3953",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3953",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3953",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3953",
+    "before": null,
+    "after": "p2080 undisplayed Figure8 robustness: HASS-degree share-by-age with five-digit sector-by-year effects, log sales."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3953",
+    "before": null,
+    "after": "Main establishes implemented regression with five field shares, but only reports about half STEM-HASS gap explained by sectors. Do not invent individual coefficient levels or repeat value-added robustness into this variant. Identifying five-digit sector-by-year cells address endogenous sector selection/growth potential (p2068), carried into mechanism comparisons pp2076,2080. One interacted cell set plus age controls, not HDFE; year nested in sector-year. Residual omitted ability remains. No higher-priority design."
+  }
+]
+```
