@@ -40881,7 +40881,16 @@
     "L4041": "0",
     "M4041": "n/a",
     "N4041": "LEQ leader dummy versus LNP x assessment period, p776 first sentence: implemented unreported dummy robustness immediately following Table7 DiD discussion. Keep one minimum DiD scope, do not invent separate dummy OLS columns.",
-    "O4041": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders. Independent allocation: the unreported dummy statement continues the paragraph discussing Table7 DiD; retain this minimum scope. The wording does not establish a dummy-by-column grid, and possible level-regression dummy variants remain unallocated."
+    "O4041": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders. Independent allocation: the unreported dummy statement continues the paragraph discussing Table7 DiD; retain this minimum scope. The wording does not establish a dummy-by-column grid, and possible level-regression dummy variants remain unallocated.",
+    "A4042": "8A6ENF64",
+    "B4042": "h19",
+    "I4042": "1",
+    "J4042": "OLS",
+    "K4042": "0",
+    "L4042": "0",
+    "M4042": "n/a",
+    "N4042": "LPUN=(1+mean punishment for C<6)/(1+mean punishment for C=6); A11 cols1,3, OLS PCT-I, full51 and punishing22 groups. Printed slash lacks parentheses; adjoining definition states ones added to numerator and denominator.",
+    "O4042": "Broad author-intention inclusion: Sections V/VI interpret leader motives as affecting performance despite repeated association language and acknowledged endogeneity. Village FE expressly absorb omitted village heterogeneity (pp750,770); classify FE where implemented, not RCT. No randomized assignment of real-world leaders, no IV receipt estimator. Main=0 denotes supporting robustness, not insignificance. Timing correction: PCT-I was assessed in 2005; preferences were elicited in March-May2008. Earlier leader election does not mean experimental elicitation predates PCT-I (article pp754,769). Experimental measurement/random player pairing is not randomized assignment of forest leaders."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -102370,7 +102379,14 @@
     "H9002": "0",
     "I9002": "unknown",
     "J9002": "none",
-    "K9002": "PCT per hectare across first/second assessments in25 groups."
+    "K9002": "PCT per hectare across first/second assessments in25 groups.",
+    "A9003": "8A6ENF64",
+    "B9003": "h19",
+    "C9003": "hy1",
+    "H9003": "0",
+    "I9003": "0",
+    "J9003": "none",
+    "K9003": "Average potential crop trees per hectare, first forest assessment2005 (PCT-I)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
