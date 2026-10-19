@@ -767550,3 +767550,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:34:19.207379+00:00 — Review 89PULMFU s2: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K629",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R629",
+    "before": null,
+    "after": "p3847 fn36 explicitly computes exp(1.195)-1=2.303. This is solely a log-to-percentage interpretation, with no separately stated tax level/mean/SD benchmark. Exclude under instructions Section6, despite words relative to counterfactual. 2.3 is proportional increase, not final tax level multiple. Eligibility independent of verbal=1 and arithmetic division interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2346",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2346",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J939",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M939",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N939",
+    "before": null,
+    "after": "NBP assignment (NBP region x regulated industry x post2002): effect on log model-implied NOx tax. Appendix Table4 cols1-4, equation24. Baseline1.195 (SE0.422); cols3-4 1.186. Static DDD; dynamic Figure6 scope h12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O939",
+    "before": null,
+    "after": "Substantive validation effect: pp3846-47 explicitly interpret beta as how NBP affected taxes, not diagnostic-only first stage. All cols retain DDD lower-order interactions; changing FE batteries does not create OLS/FE settings. Table4 col1 industry-region FE; col2 adds industry-year; col3 adds region-year to col1; col4 all three. Equation24 describes full spec, not col1. Conditional parallel trends; constructed log-tax outcome does not change downstream linear DDD classification."
+  }
+]
+```
