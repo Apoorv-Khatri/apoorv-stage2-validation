@@ -753294,3 +753294,1374 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:59:16.079368+00:00 — Review 7PQVC2SH s9: source-audited coding and linked comparisons
+
+227 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6720",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6721",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6722",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6723",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6724",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6725",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6726",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6727",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6728",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6729",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6730",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6731",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6720",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6721",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6722",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6723",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6724",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6725",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6726",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6727",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6728",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6729",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6730",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6731",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6720",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6721",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6722",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6723",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6724",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6725",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6726",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6727",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6728",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6729",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6730",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6731",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K609",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K610",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K611",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K612",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K613",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K614",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K615",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K616",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L609",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L610",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L611",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L612",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L613",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L614",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L615",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L616",
+    "before": null,
+    "after": "y9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L617",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6720",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6721",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6722",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6723",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6724",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6725",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6726",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6727",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6728",
+    "before": null,
+    "after": "y9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6729",
+    "before": null,
+    "after": "y10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6730",
+    "before": null,
+    "after": "y11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6731",
+    "before": null,
+    "after": "y12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M609",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M610",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M611",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M612",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M613",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M614",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M615",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M616",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M617",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6720",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6721",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6722",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6723",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6724",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6725",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6726",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6727",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6728",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6729",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6730",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6731",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N609",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N610",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N611",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N612",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N613",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N614",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N615",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N616",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6721",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6722",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6723",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6724",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6731",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O609",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O610",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O611",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O612",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O613",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O614",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O615",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O616",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P609",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P610",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P611",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P612",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P613",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P614",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P615",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P616",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6720",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6721",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6722",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6723",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6724",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6725",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6726",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6727",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6728",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6729",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6730",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6731",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q609",
+    "before": null,
+    "after": "p2077 Figure7: Implied age-10 difference in specialization between the average entrepreneur in the top schooling group and the average entrepreneur in the bottom group: 0.68 standard deviations. Benchmark: One standard deviation of the standardized specialization outcome; all mechanism outcomes are standardized."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q610",
+    "before": null,
+    "after": "p2077 Figure7: Implied age-10 top-versus-bottom-group difference in organizational layers: 0.47 standard deviations. Benchmark: One standard deviation of the standardized layers outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q611",
+    "before": null,
+    "after": "p2077 Figure7: Implied age-10 top-versus-bottom-group difference in R&D: 0.34 standard deviations. Benchmark: One standard deviation of the standardized R&D-investment outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q612",
+    "before": null,
+    "after": "p2077 Figure7: Implied age-10 top-versus-bottom-group difference in STEM-worker employment: 0.32 standard deviations. Benchmark: One standard deviation of the standardized STEM-employment outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q613",
+    "before": null,
+    "after": "p2077 Figure7: Implied age-10 top-versus-bottom-group difference in capital-labour ratio: 0.19 standard deviations. Benchmark: One standard deviation of the standardized log capital-labour-ratio outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q614",
+    "before": null,
+    "after": "p2077 Figure7: Implied age-10 top-versus-bottom-group difference in electricity expense per worker: 0.14 standard deviations. Benchmark: One standard deviation of the standardized log electricity-per-worker outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q615",
+    "before": null,
+    "after": "p2077 Figure7: Implied age-10 top-versus-bottom-group difference in employing a sales/marketing professional: 0.35 standard deviations. Benchmark: One standard deviation of the standardized binary outcome for employing a sales or marketing professional."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q616",
+    "before": null,
+    "after": "p2077 Figure7: Implied age-10 top-versus-bottom-group difference in exporting: 0.21 standard deviations. Benchmark: One standard deviation of the standardized export indicator outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q617",
+    "before": null,
+    "after": "p2077 Figure7: Implied age-10 top-versus-bottom-group difference in advertising: 0.17 standard deviations. Benchmark: One standard deviation of the standardized advertising indicator outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6720",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Indicator for whether the firm invests in R&D (reports R&D expense or workers allocated to R&D).. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6721",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Indicator for whether the firm employs STEM workers.. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6722",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Capital-labour ratio, using fixed assets over labour.. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6723",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Electricity expense per worker.. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6724",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Degree of specialization measured by number of unique 4-digit ISCO occupations employed by the firm.. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6725",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Number of organizational layers in the firm, measured as in Caliendo et al. (2020).. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6726",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Indicator for whether the firm advertises.. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6727",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Indicator for whether the firm employs sales or marketing professionals.. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6728",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Indicator for whether the firm exports.. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6729",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Revenue productivity / average revenue product of inputs (TFPR) following Hsieh and Klenow (2009).. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6730",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Physical productivity measure TFPQ following Hsieh and Klenow (2009).. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6731",
+    "before": null,
+    "after": "Figure7 p2076, complete plotted schooling-by-age path for Indicator for whether the firm reports any debt on its balance sheet.. One-year schooling increment; coefficients divided by own outcome SD in pooled eligible2004-2007 cohorts up to age10. No graph ordinates invented; distinct increment from verbal endpoint-group contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R609",
+    "before": null,
+    "after": "Pooled own-outcome SD among eligible2004-2007 cohort observations, not established age10 conditional target weighting. Treatment increment is difference in average years across endpoint groups, not binary treatment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R610",
+    "before": null,
+    "after": "Pooled own-outcome SD among eligible2004-2007 cohort observations, not established age10 conditional target weighting. Treatment increment is difference in average years across endpoint groups, not binary treatment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R611",
+    "before": null,
+    "after": "Pooled own-outcome SD among eligible2004-2007 cohort observations, not established age10 conditional target weighting. Treatment increment is difference in average years across endpoint groups, not binary treatment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R612",
+    "before": null,
+    "after": "Pooled own-outcome SD among eligible2004-2007 cohort observations, not established age10 conditional target weighting. Treatment increment is difference in average years across endpoint groups, not binary treatment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R613",
+    "before": null,
+    "after": "Pooled own-outcome SD among eligible2004-2007 cohort observations, not established age10 conditional target weighting. Treatment increment is difference in average years across endpoint groups, not binary treatment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R614",
+    "before": null,
+    "after": "Pooled own-outcome SD among eligible2004-2007 cohort observations, not established age10 conditional target weighting. Treatment increment is difference in average years across endpoint groups, not binary treatment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R615",
+    "before": null,
+    "after": "Pooled own-outcome SD among eligible2004-2007 cohort observations, not established age10 conditional target weighting. Treatment increment is difference in average years across endpoint groups, not binary treatment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R616",
+    "before": null,
+    "after": "Pooled own-outcome SD among eligible2004-2007 cohort observations, not established age10 conditional target weighting. Treatment increment is difference in average years across endpoint groups, not binary treatment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R617",
+    "before": null,
+    "after": "Pooled own-outcome SD among eligible2004-2007 cohort observations, not established age10 conditional target weighting. Treatment increment is difference in average years across endpoint groups, not binary treatment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6720",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6721",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6722",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6723",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6724",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6725",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6726",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6727",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6728",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6729",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6730",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6731",
+    "before": null,
+    "after": "mechanisms.ipynb cell12 (archived package) divides outcome by sample SD without centering; continuous conditional age-specific effect target versus pooled reference weights unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8881",
+    "before": null,
+    "after": "7PQVC2SH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8881",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8881",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2308",
+    "before": null,
+    "after": "Indicator for whether the firm invests in R&D (reports R&D expense or workers allocated to R&D). Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2309",
+    "before": null,
+    "after": "Indicator for whether the firm employs STEM workers. Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2310",
+    "before": null,
+    "after": "Log of capital-labour ratio, using fixed assets over labour. Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2311",
+    "before": null,
+    "after": "Log of electricity expense per worker. Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2312",
+    "before": null,
+    "after": "Degree of specialization measured by number of unique 4-digit ISCO occupations employed by the firm. Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2313",
+    "before": null,
+    "after": "Number of organizational layers in the firm, measured as in Caliendo et al. (2020). Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2314",
+    "before": null,
+    "after": "Indicator for whether the firm advertises. Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2315",
+    "before": null,
+    "after": "Indicator for whether the firm employs sales or marketing professionals. Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2316",
+    "before": null,
+    "after": "Indicator for whether the firm exports. Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2317",
+    "before": null,
+    "after": "Log of revenue productivity / average revenue product of inputs (TFPR) following Hsieh and Klenow (2009). Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2318",
+    "before": null,
+    "after": "Log of physical productivity measure TFPQ following Hsieh and Klenow (2009). Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2319",
+    "before": null,
+    "after": "Indicator for whether the firm reports any debt on its balance sheet. Figure7: estimated after dividing this outcome by its pooled sample SD, without centering (archived mechanisms notebook cell12). The underlying indicator/count/log and standardized reported scale are distinct; treatment is continuous, so detailed binary-treatment labels are not required."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8881",
+    "before": null,
+    "after": "Debt/assets ratio, p2078 undisplayed robustness: positive schooling relationship at entry falls toward zero by age10. Figure7c context establishes FE equation2; scale standardization not explicitly repeated for this undisplayed outcome. No unverified SD comparison added."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I934",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J934",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K934",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L934",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M934",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N934",
+    "before": null,
+    "after": "Figure7a-c: continuous entrepreneur schooling-by-age coefficients for12 standardized mechanism outcomes; includes near-null/reversing TFPR and debt effects. Additional qualitative debt/assets robustness outcome hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O934",
+    "before": null,
+    "after": "All four mechanism evidence sets support central mechanism conclusion pp2062-2063,2081. Identifying five-digit sector-by-year cells address endogenous sector selection/growth potential (p2068), carried into mechanism comparisons pp2076,2080. One interacted cell set plus age controls, not HDFE; year nested in sector-year. Residual omitted ability remains. No higher-priority design. Standardization divides by own outcome SD; package mechanisms cell12 confirms division without centering, not a treatment SD."
+  }
+]
+```
