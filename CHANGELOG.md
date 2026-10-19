@@ -678087,3 +678087,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:29:06.864465+00:00 — Review 4HCEQK9M h15: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8530",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8530",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8530",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8530",
+    "before": null,
+    "after": "Aggregate labor demand response to wage; elasticity construction in AppendixE, not a binary outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3799",
+    "before": null,
+    "after": "4HCEQK9M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3799",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3799",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3799",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3799",
+    "before": null,
+    "after": "AppendixE pp23-24 FigureA8: aggregate demand elasticity -4.16 implied by hiring-shock wage/employment changes under competitive semi-peak equilibrium."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3799",
+    "before": null,
+    "after": "Appendix E pp23-24 explicitly motivates demand slope delta e/delta w using randomized supply shifts: this intermediate slope has a single-binary-assignment Wald interpretation. The reported -4.16 is an elasticity, not the unscaled slope. Source does not specify normalization, compatible reduced-form samples/weights or the implemented full estimator. Do not certify IV for the full elasticity or call it Other merely because implied. Keep causal wage-response scope; method unknown pending implementation."
+  }
+]
+```

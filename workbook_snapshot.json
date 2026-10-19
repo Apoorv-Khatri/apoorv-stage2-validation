@@ -38259,7 +38259,16 @@
     "L3798": "0",
     "M3798": "n/a",
     "N3798": "FigureA5 p4 and main p3217/fn41: randomized private job offer10% below prevailing wage versus prevailing wage on take-up; re-presented external-study experiment in same districts.",
-    "O3798": "A5 and main p3217/fn41 summarize randomized private wage offers from Breza, Kaur and Krishnaswamy (2019), not this village experiment. The RCT contrast and endpoints are established, but this final source does not establish newly implemented reanalysis rather than borrowed evidence. Keep scope eligibility unknown pending project adjudication/implementation; do not assert this paper performed a new experiment or reanalysis."
+    "O3798": "A5 and main p3217/fn41 summarize randomized private wage offers from Breza, Kaur and Krishnaswamy (2019), not this village experiment. The RCT contrast and endpoints are established, but this final source does not establish newly implemented reanalysis rather than borrowed evidence. Keep scope eligibility unknown pending project adjudication/implementation; do not assert this paper performed a new experiment or reanalysis.",
+    "A3799": "4HCEQK9M",
+    "B3799": "h15",
+    "I3799": "1",
+    "J3799": "unknown",
+    "K3799": "0",
+    "L3799": "0",
+    "M3799": "unknown",
+    "N3799": "AppendixE pp23-24 FigureA8: aggregate demand elasticity -4.16 implied by hiring-shock wage/employment changes under competitive semi-peak equilibrium.",
+    "O3799": "Appendix E pp23-24 explicitly motivates demand slope delta e/delta w using randomized supply shifts: this intermediate slope has a single-binary-assignment Wald interpretation. The reported -4.16 is an elasticity, not the unscaled slope. Source does not specify normalization, compatible reduced-form samples/weights or the implemented full estimator. Do not certify IV for the full elasticity or call it Other merely because implied. Keep causal wage-response scope; method unknown pending implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96364,7 +96373,11 @@
     "H8529": "1",
     "I8529": "1",
     "J8529": "none",
-    "K8529": "Indicator accepts privately offered job."
+    "K8529": "Indicator accepts privately offered job.",
+    "A8530": "4HCEQK9M",
+    "B8530": "h15",
+    "C8530": "hy1",
+    "K8530": "Aggregate labor demand response to wage; elasticity construction in AppendixE, not a binary outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
