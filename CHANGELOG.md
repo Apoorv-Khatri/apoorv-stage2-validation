@@ -839898,3 +839898,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T15:26:46.497478+00:00 — Review A8LFPXLL s7: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K658",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R658",
+    "before": null,
+    "after": "Qualifying owner-share comparison, but wrong parent after splitting Figure V B to h2. Preserved original c1; replacement h2/hc1. The 33.5% is an outcome mean/share, not other_level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9291",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9292",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9291",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9292",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9291",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9292",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2428",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2427",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2428",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9291",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9292",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2427",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2428",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9291",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9292",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2427",
+    "before": null,
+    "after": "Change in total earnings paid within each fixed earnings-cutpoint bin divided by TOTAL 2012 firm wage bill; not change in a contemporaneous wage-bill share. Figure V A and Figure A.6 A; workers may change bins."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2428",
+    "before": null,
+    "after": "Inactive relocated outcome: owner surplus-share effect belongs to h2/hy1 (Figure V B); original fields and ID preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9291",
+    "before": null,
+    "after": "Change in total stayer earnings in each fixed earnings bin / TOTAL 2012 firm wage bill."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9292",
+    "before": null,
+    "after": "Turnover earnings contribution in each fixed earnings bin / TOTAL 2012 firm wage bill."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J970",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M970",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N970",
+    "before": null,
+    "after": "Binary baseline owner exposure: wage-bill distributional decomposition in Figure V A and Figure A.6 A; changes in total, stayer and turnover earnings within fixed cutpoint bins divided by TOTAL 2012 firm wage bill, dollar-weighted. Workers can change bins. Owner-share regression is h2; derived after-tax worker shares are h54."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O970",
+    "before": null,
+    "after": "Retain Figure V A distributional wage-bill decomposition. Split directly estimated owner after-tax surplus share at Figure V B to h2; outcome and original comparison moved explicitly, not silently relinked. Bins are fixed cutpoints but workers may change bins. Figure A.6 A completes the same decomposition, so former h32 components are now s7/hy1-hy2, not another setting."
+  }
+]
+```
