@@ -753180,3 +753180,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:58:19.567324+00:00 — Review 7PQVC2SH s7: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J932",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K932",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M932",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N932",
+    "before": null,
+    "after": "Table1 cols5-6: same switcher analysis for log value added; corrected schooling slopes0.0309 and0.0773 at ages0/10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O932",
+    "before": null,
+    "after": "Same causal interpretation and central ability-bias conclusion as sales; main status not downgraded merely because alternative outcome. Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented."
+  }
+]
+```
