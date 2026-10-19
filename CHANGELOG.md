@@ -740991,3 +740991,822 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:19:17.818587+00:00 — Review 64JY936S s5: source-audited coding and linked comparisons
+
+135 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6638",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6639",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6640",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6641",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6642",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6643",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6644",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6645",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6646",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6647",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6648",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6649",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6638",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6639",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6640",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6641",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6642",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6643",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6644",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6645",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6646",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6647",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6648",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6649",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6638",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6639",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6640",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6641",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6642",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6643",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6644",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6645",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6646",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6647",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6648",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6649",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6638",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6639",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6640",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6641",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6642",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6643",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6644",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6645",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6646",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6647",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6648",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6649",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6638",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6639",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6640",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6641",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6642",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6643",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6644",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6645",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6646",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6647",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6648",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6649",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6638",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6639",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6640",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6641",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6642",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6643",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6644",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6645",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6646",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6649",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6638",
+    "before": null,
+    "after": "Table5 panelA col1, less constrained: 0.017. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6639",
+    "before": null,
+    "after": "Table5 panelA col1, more constrained: 0.054. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6640",
+    "before": null,
+    "after": "Table5 panelA col2, less constrained: 0.032. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6641",
+    "before": null,
+    "after": "Table5 panelA col2, more constrained: 0.060. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6642",
+    "before": null,
+    "after": "Table5 panelA col3, less constrained: 0.044. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6643",
+    "before": null,
+    "after": "Table5 panelA col3, more constrained: 0.049. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6644",
+    "before": null,
+    "after": "Table5 panelB col1, less constrained: 0.040. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6645",
+    "before": null,
+    "after": "Table5 panelB col1, more constrained: 0.053. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6646",
+    "before": null,
+    "after": "Table5 panelB col2, less constrained: 0.043. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6647",
+    "before": null,
+    "after": "Table5 panelB col2, more constrained: 0.068. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6648",
+    "before": null,
+    "after": "Table5 panelB col3, less constrained: 0.034. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6649",
+    "before": null,
+    "after": "Table5 panelB col3, more constrained: 0.075. Same own-firm2006 outcome normalization as Table4; A18/A19 explicitly label outcome relative to2006. No comparison to first-stage share-young or another treatment effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2279",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2280",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2279",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2280",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2279",
+    "before": null,
+    "after": "Number of workers at the firm, normalized relative to 2006. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms. Construction conflict: p1744 defines employment as annual earnings above $4,940 (2012 dollars); Figure6 caption instead says average number of full-time employees. Preserve both; do not silently equate headcount and FTE."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2280",
+    "before": null,
+    "after": "Total assets of the firm, normalized relative to 2006. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J922",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M922",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N922",
+    "before": null,
+    "after": "High versus medium2006 firm payroll exposure within financial-constraint subgroups (2006 age, liquid-assets/total-assets, sales medians), Table5 A/B, A18-A19: employment and total assets. All12 estimates retained. Main mechanism explicitly in abstract."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O922",
+    "before": null,
+    "after": "Conventional interacted DiD; constraint status is moderator, not intervention. Table5 note says1999-2006 preperiod although firm balance sheets start2003 and A18/A19 graphs start2003; preserve printed conflict. PanelC is diagnostic exposure balance, not an outcome effect."
+  }
+]
+```
