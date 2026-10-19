@@ -482,6 +482,7 @@
     "B101": "Reallocation and Technology: Evidence from the US Steel Industry",
     "C101": "econ",
     "D101": 6,
+    "E101": "DONE — Full41-page final article and31-page official AEA supplement reviewed and independently audited, supplement freshly hash-matched. Retain25 settings and reject one descriptive original;78 retained comparisons and one unresolved original Table10 attachment. Constructed-log-TFP premium OLS distinguished from upstream structural estimation; identifying FE separated from year-control OLS. Retain author-interpreted accounting contributions but method unknown where conditional linear contrasts versus complete structural attribution are unresolved; upstream GMM alone does not prove nonlinear focal estimation. h5 VI-survival slope held outside additions for insufficient parameter-specific causal interpretation; h18 labor-timing robustness merged. Direct44%/51% formulations counted once with conflict; combined VI and total reallocation scopes added. Table10 link unspecified, conflicting original comparison unknown, clear table triples retained without resolving contradictory prose. Markup attribution and nonlinear welfare scopes retained; main51% versus official appendix60% preserved. Eight verbal flags corrected; numerical, weighting and caption conflicts retained. No confidential-data replication or invented estimates. Original fields, IDs and hyperlinks preserved.",
     "A102": "5VHQLIKT",
     "B102": "Understanding Tax Policy: How do People Reason?",
     "C102": "econ",
@@ -39345,7 +39346,16 @@
     "L3897": "1",
     "M3897": "unknown",
     "N3897": "Main p161: combined within-VI reallocation and net-entry contribution induced by MM competition, distinct combined estimand from its individual components h8/h9 and industry-wide h20.",
-    "O3897": "Broad author-intention causal-accounting gate; Other as structural accounting, not automatic nonlinear covariance. Combined component explicitly defined and causally attributed. Source inconsistency does not establish another effect; parent must adjudicate before application. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
+    "O3897": "Broad author-intention causal-accounting gate; Other as structural accounting, not automatic nonlinear covariance. Combined component explicitly defined and causally attributed. Source inconsistency does not establish another effect; parent must adjudicate before application. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification.",
+    "A3898": "5SL56HMJ",
+    "B3898": "h22",
+    "I3898": "1",
+    "J3898": "unknown",
+    "K3898": "0",
+    "L3898": "1",
+    "M3898": "unknown",
+    "N3898": "Main p157-158: total dynamic reallocation across all plants, combining continuing-plant market-share reallocation and net entry; excludes plant improvement. Distinct combined estimand from h8/h9.",
+    "O3898": "Broad author-intention causal-accounting gate; Other as structural accounting, not automatic nonlinear covariance. Combined component explicitly defined and causally attributed. Source inconsistency does not establish another effect; parent must adjudicate before application. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -98521,7 +98531,11 @@
     "A8691": "5SL56HMJ",
     "B8691": "h21",
     "C8691": "hy1",
-    "K8691": "Contribution to industry aggregate log-TFP growth1963-2002 from VI combined reallocation/net entry."
+    "K8691": "Contribution to industry aggregate log-TFP growth1963-2002 from VI combined reallocation/net entry.",
+    "A8692": "5SL56HMJ",
+    "B8692": "h22",
+    "C8692": "hy1",
+    "K8692": "Contribution to industry aggregate log-TFP growth1963-2002 from all-plant combined reallocation/net entry."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -171562,7 +171576,18 @@
     "O6484": "1",
     "P6484": "n/a",
     "Q6484": "Main p161 explicitly attributes30% of industry productivity growth to the reallocation process among VI producers, summing net-entry0.07 and reallocation0.23 from Table8. Benchmark realized1963-2002 industry TFP growth22.1; no component level reconstructed.",
-    "R6484": "Same-outcome realized growth normalization; other_level, alignment n/a. No invented component amount. Combined contribution is not a duplicate of a component alone."
+    "R6484": "Same-outcome realized growth normalization; other_level, alignment n/a. No invented component amount. Combined contribution is not a duplicate of a component alone.",
+    "A6485": "5SL56HMJ",
+    "B6485": "h22",
+    "C6485": "hc1",
+    "K6485": "1",
+    "L6485": "hy1",
+    "M6485": "other_level",
+    "N6485": "1",
+    "O6485": "1",
+    "P6485": "n/a",
+    "Q6485": "Main p157 defines total reallocation as all terms except plant improvement; p158 says plant improvement9.5 is43% of total22% growth and total reallocation including net entry is two-thirds. Preserve this internally conflicting share literally; do not silently calculate or substitute the complement. Table12 separately reports42% reallocation and15% net entry, not an independently printed combined ratio.",
+    "R6485": "Same-outcome realized growth normalization; other_level, alignment n/a. No invented component amount. Combined contribution is not a duplicate of a component alone."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

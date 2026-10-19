@@ -723477,3 +723477,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:22:54.435817+00:00 — Review 5SL56HMJ h22: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6485",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6485",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6485",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6485",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6485",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6485",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6485",
+    "before": null,
+    "after": "Main p157 defines total reallocation as all terms except plant improvement; p158 says plant improvement9.5 is43% of total22% growth and total reallocation including net entry is two-thirds. Preserve this internally conflicting share literally; do not silently calculate or substitute the complement. Table12 separately reports42% reallocation and15% net entry, not an independently printed combined ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6485",
+    "before": null,
+    "after": "Same-outcome realized growth normalization; other_level, alignment n/a. No invented component amount. Combined contribution is not a duplicate of a component alone."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8692",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8692",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8692",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8692",
+    "before": null,
+    "after": "Contribution to industry aggregate log-TFP growth1963-2002 from all-plant combined reallocation/net entry."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E101",
+    "before": null,
+    "after": "DONE — Full41-page final article and31-page official AEA supplement reviewed and independently audited, supplement freshly hash-matched. Retain25 settings and reject one descriptive original;78 retained comparisons and one unresolved original Table10 attachment. Constructed-log-TFP premium OLS distinguished from upstream structural estimation; identifying FE separated from year-control OLS. Retain author-interpreted accounting contributions but method unknown where conditional linear contrasts versus complete structural attribution are unresolved; upstream GMM alone does not prove nonlinear focal estimation. h5 VI-survival slope held outside additions for insufficient parameter-specific causal interpretation; h18 labor-timing robustness merged. Direct44%/51% formulations counted once with conflict; combined VI and total reallocation scopes added. Table10 link unspecified, conflicting original comparison unknown, clear table triples retained without resolving contradictory prose. Markup attribution and nonlinear welfare scopes retained; main51% versus official appendix60% preserved. Eight verbal flags corrected; numerical, weighting and caption conflicts retained. No confidential-data replication or invented estimates. Original fields, IDs and hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3898",
+    "before": null,
+    "after": "5SL56HMJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3898",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3898",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3898",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3898",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3898",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3898",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3898",
+    "before": null,
+    "after": "Main p157-158: total dynamic reallocation across all plants, combining continuing-plant market-share reallocation and net entry; excludes plant improvement. Distinct combined estimand from h8/h9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3898",
+    "before": null,
+    "after": "Broad author-intention causal-accounting gate; Other as structural accounting, not automatic nonlinear covariance. Combined component explicitly defined and causally attributed. Source inconsistency does not establish another effect; parent must adjudicate before application. Parent adjudication: method unknown. Conditional on constructed productivity and shares, accounting components may be linear contrasts; upstream structural estimation alone does not establish a nonlinear focal estimator. Complete attribution procedure versus conditional-outcome domain is unresolved, so Other is not certified. Causal-intention retention does not establish identification."
+  }
+]
+```
