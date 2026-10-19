@@ -38360,7 +38360,16 @@
     "L3804": "1",
     "M3804": "n/a",
     "N3804": "Table4 PanelA col5: own-minority share on log daily wage and annual turnover; average effects, joint worker, firm, and year FE.",
-    "O3804": "Eq(2), pp523-526 and Table4 notes p530: worker FE address worker ability/referral selection, firm FE firm productivity/referral selection; year FE also present. Cols3/4 have worker OR firm plus year (standard FE); col5 has worker+firm+year (three effective sets, HDFE), with explicit substantive sorting argument. No IV, randomization, RD, or DiD implemented in these proxy regressions. Own share is a continuous pre-hire proxy, not observed referral treatment."
+    "O3804": "Eq(2), pp523-526 and Table4 notes p530: worker FE address worker ability/referral selection, firm FE firm productivity/referral selection; year FE also present. Cols3/4 have worker OR firm plus year (standard FE); col5 has worker+firm+year (three effective sets, HDFE), with explicit substantive sorting argument. No IV, randomization, RD, or DiD implemented in these proxy regressions. Own share is a continuous pre-hire proxy, not observed referral treatment.",
+    "A3805": "4LB5EN3L",
+    "B3805": "h3",
+    "I3805": "1",
+    "J3805": "OLS",
+    "K3805": "0",
+    "L3805": "0",
+    "M3805": "n/a",
+    "N3805": "Table4 PanelB cols1-2: own-minority share on log daily wage and annual turnover; initial effect and linear tenure interaction, without identifying worker/firm FE.",
+    "O3805": "Broad author-intention inclusion: Table4 caption and discussion frame these as alternative impact estimates, while p530 calls initial wage coefficient a negative association and p531 says OLS biased by sorting. Supporting selection benchmarks, not preferred causal estimates; gate contested. Year and industry dummies alone do not establish identifying FE."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -96557,7 +96566,15 @@
     "A8542": "4LB5EN3L",
     "B8542": "h2",
     "C8542": "hy2",
-    "K8542": "Binary annual leaving-firm indicator t+1; Table4 PanelA."
+    "K8542": "Binary annual leaving-firm indicator t+1; Table4 PanelA.",
+    "A8543": "4LB5EN3L",
+    "B8543": "h3",
+    "C8543": "hy1",
+    "K8543": "Log daily gross wage, low/medium skilled full-time administrative workers; Table4 PanelB.",
+    "A8544": "4LB5EN3L",
+    "B8544": "h3",
+    "C8544": "hy2",
+    "K8544": "Binary annual leaving-firm indicator t+1; Table4 PanelB."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
