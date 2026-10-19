@@ -658779,3 +658779,498 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:29:30.993546+00:00 — Review 3ZIDN6KF h19: source-audited coding and linked comparisons
+
+81 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5843",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5844",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5845",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5846",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5843",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5844",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5845",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5846",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5843",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5844",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5845",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5846",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5845",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5843",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5844",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5845",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5846",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5843",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5844",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5845",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5846",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5843",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5844",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5845",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5846",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5843",
+    "before": null,
+    "after": "TableC2 col1 p57: focal .906; deliberately paired mean dependent variable 28.40, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5844",
+    "before": null,
+    "after": "TableC2 col2 p57: focal .001; deliberately paired mean dependent variable .864, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5845",
+    "before": null,
+    "after": "TableC2 col3 p57: focal -.016; deliberately paired mean dependent variable .114, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5846",
+    "before": null,
+    "after": "TableC2 col4 p57: focal -.002; deliberately paired mean dependent variable .966, same reported scale and estimation sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5843",
+    "before": null,
+    "after": "IPW target all hires under selection-on-observables; mean repeated from Table5, unclear whether weighted. Not assume weighted untreated target mean; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5844",
+    "before": null,
+    "after": "IPW target all hires under selection-on-observables; mean repeated from Table5, unclear whether weighted. Not assume weighted untreated target mean; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5845",
+    "before": null,
+    "after": "IPW target all hires under selection-on-observables; mean repeated from Table5, unclear whether weighted. Not assume weighted untreated target mean; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5846",
+    "before": null,
+    "after": "IPW target all hires under selection-on-observables; mean repeated from Table5, unclear whether weighted. Not assume weighted untreated target mean; alignment unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8436",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8437",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8438",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8439",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8436",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8437",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8438",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8439",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8436",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8437",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8438",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8439",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8436",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8437",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8438",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8439",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8436",
+    "before": null,
+    "after": "Age among census-linked hires, weighted TableC2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8437",
+    "before": null,
+    "after": "Literacy among census-linked hires, weighted TableC2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8438",
+    "before": null,
+    "after": "Female among census-linked hires, weighted TableC2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8439",
+    "before": null,
+    "after": "White among census-linked hires, weighted TableC2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3757",
+    "before": null,
+    "after": "3ZIDN6KF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3757",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3757",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3757",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3757",
+    "before": null,
+    "after": "TableC2: IPW-reweighted reform effects on age, literacy, female and white indicators for census-linked hires."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3757",
+    "before": null,
+    "after": "Conventional linear reform-exposure × post/event-time contrast under conditional parallel trends. Eq.(1), pp2364-2368, does not implement the named FigureA1 alternatives. PDS is incidental covariate adjustment, not a separate effect estimator. FE implementation is location-specific, not automatically the full baseline battery. IPW corrects census-linkage selection on observed salary, job and origin, not treatment matching. Distinct weighted target; mean-weight construction unresolved. TableC2 explicitly bases IPW on salary, occupation, same-state origin and foreign-born status. None is the focal age/literacy/female/white outcome; selection-on-observables weights are not shown to be chosen on these focal outcomes. No basis for replacing DiD with Matching or Other."
+  }
+]
+```
