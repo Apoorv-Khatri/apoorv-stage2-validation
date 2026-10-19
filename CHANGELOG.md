@@ -626784,3 +626784,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:56:50.690253+00:00 — Review 2UP7GN8M h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8334",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8334",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8334",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8334",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8334",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8334",
+    "before": null,
+    "after": "Relative efficacy: standardized absolute efficacy minus the placebo arm if available, otherwise the least-effective arm; main-source equation/table establishes construction. Component-SD units do not establish unit SD of this difference."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3691",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3691",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3691",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3691",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3691",
+    "before": null,
+    "after": "Figure5B Eq.(6): sponsorship coefficients interacted with publication-year bins, including post-2005 dynamics."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3691",
+    "before": null,
+    "after": "Substantive gradual decline after policy, not diagnostic-only pretrends. Conventional dynamic differential comparison; no implemented modern estimator. Exact reference/normalization not fully stated in available text; no numeric digitization. Independent audit: DiD is supported by substantive pre/post-policy differential sponsorship interpretation (pp3325-3326), not by an interaction symbol alone. No modern estimator is implemented. Repeated cross sections need not observe the identical trials before and after. Concurrent reporting/norm reforms undermine attribution, not the implemented conventional differential-change category."
+  }
+]
+```

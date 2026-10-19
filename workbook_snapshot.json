@@ -37044,7 +37044,16 @@
     "L3690": "1",
     "M3690": "n/a",
     "N3690": "Table5 col8: sponsorship effect on all-characteristic LASSO-predicted relative efficacy (.01 table; .006 in mechanism prose).",
-    "O3690": "LASSO selects predictors using efficacy, followed by Eq.(4). Full outcome-adaptive procedure coded Other, not linear IV. Conditional-on-fitted-outcome HDFE alternative must be adjudicated. Abstract-central design mechanism null. Independent audit: Recommend Other for the FULL implemented outcome-adaptive LASSO selection plus effect procedure. Conditioning on its selected fitted outcome would hide this distinguishing estimator stage; no excluded instruments exist."
+    "O3690": "LASSO selects predictors using efficacy, followed by Eq.(4). Full outcome-adaptive procedure coded Other, not linear IV. Conditional-on-fitted-outcome HDFE alternative must be adjudicated. Abstract-central design mechanism null. Independent audit: Recommend Other for the FULL implemented outcome-adaptive LASSO selection plus effect procedure. Conditioning on its selected fitted outcome would hide this distinguishing estimator stage; no excluded instruments exist.",
+    "A3691": "2UP7GN8M",
+    "B3691": "h6",
+    "I3691": "1",
+    "J3691": "DiD_conventional",
+    "K3691": "1",
+    "L3691": "1",
+    "M3691": "n/a",
+    "N3691": "Figure5B Eq.(6): sponsorship coefficients interacted with publication-year bins, including post-2005 dynamics.",
+    "O3691": "Substantive gradual decline after policy, not diagnostic-only pretrends. Conventional dynamic differential comparison; no implemented modern estimator. Exact reference/normalization not fully stated in available text; no numeric digitization. Independent audit: DiD is supported by substantive pre/post-policy differential sponsorship interpretation (pp3325-3326), not by an interaction symbol alone. No modern estimator is implemented. Repeated cross sections need not observe the identical trials before and after. Concurrent reporting/norm reforms undermine attribution, not the implemented conventional differential-change category."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -93609,7 +93618,14 @@
     "H8333": "0",
     "I8333": "unknown",
     "J8333": "other",
-    "K8333": "Relative predicted efficacy using all trial/patient characteristics selected by LASSO; Table5 col8; not directly observed efficacy."
+    "K8333": "Relative predicted efficacy using all trial/patient characteristics selected by LASSO; Table5 col8; not directly observed efficacy.",
+    "A8334": "2UP7GN8M",
+    "B8334": "h6",
+    "C8334": "hy1",
+    "H8334": "0",
+    "I8334": "1",
+    "J8334": "other",
+    "K8334": "Relative efficacy: standardized absolute efficacy minus the placebo arm if available, otherwise the least-effective arm; main-source equation/table establishes construction. Component-SD units do not establish unit SD of this difference."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
