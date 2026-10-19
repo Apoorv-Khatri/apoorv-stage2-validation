@@ -793605,3 +793605,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:26:23.375861+00:00 — Review 9VJYE45Y h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9080",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9080",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9080",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9080",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9080",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9080",
+    "before": null,
+    "after": "Plan-specific excess-mass statistic, Figure A4; generated dependent variable, no causal effects of risk-score covariates inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4082",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4082",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4082",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4082",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4082",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4082",
+    "before": null,
+    "after": "Cross-plan price-jump size and estimated excess mass; Figure A4: enrollee-weighted regression slope0.19(SE0.08), R2=.011, plans with1000+ beneficiaries within2000 of kink."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4082",
+    "before": null,
+    "after": "p856 interprets increasing excess mass with higher price increase as expected behavioral response. Broad author-intention inclusion, not credible exogenous contract assignment; WLS linear in reported plan excess-mass statistic, distinct from upstream bunching recovery."
+  }
+]
+```
