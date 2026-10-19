@@ -771213,3 +771213,1002 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T11:40:24.761456+00:00 — Review 89PULMFU h15: source-audited coding and linked comparisons
+
+165 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6881",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6882",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6883",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6884",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6885",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6886",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6887",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6888",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6889",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6890",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6891",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6892",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6881",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6882",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6883",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6884",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6885",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6886",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6887",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6888",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6889",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6890",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6891",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6892",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6881",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6882",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6883",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6884",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6885",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6886",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6887",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6888",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6889",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6890",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6891",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6892",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6882",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6884",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6885",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6886",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6888",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6890",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6891",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6881",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6882",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6883",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6884",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6885",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6886",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6887",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6888",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6889",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6890",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6891",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6892",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6881",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6882",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6883",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6884",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6885",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6886",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6887",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6888",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6889",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6890",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6891",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6892",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6882",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6884",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6885",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6886",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6888",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6890",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6891",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6882",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6884",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6885",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6888",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6891",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6881",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6882",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6883",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6884",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6885",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6886",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6887",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6888",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6889",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6890",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6891",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6892",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6881",
+    "before": null,
+    "after": "Figure5 panelA, US environmental regulation-only path,1990-2008; caption and p3841 explicitly normalize own CO manufacturing emissions to1990=100. One graphical path comparison, not fabricated annual coefficient grid. Baseline aggregate level, not sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6882",
+    "before": null,
+    "after": "Figure5 panelA: US environmental regulation-only counterfactual CO path deliberately compared against actual same-pollutant all-shocks path (solid line); p3841 explicitly says compare counterfactual emissions against actual. Separate contemporaneous same-outcome level benchmark, not an untreated mean. No division by actual path reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6883",
+    "before": null,
+    "after": "Figure5 panelB, US environmental regulation-only path,1990-2008; caption and p3841 explicitly normalize own NOx manufacturing emissions to1990=100. One graphical path comparison, not fabricated annual coefficient grid. Baseline aggregate level, not sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6884",
+    "before": null,
+    "after": "Figure5 panelB: US environmental regulation-only counterfactual NOx path deliberately compared against actual same-pollutant all-shocks path (solid line); p3841 explicitly says compare counterfactual emissions against actual. Separate contemporaneous same-outcome level benchmark, not an untreated mean. No division by actual path reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6885",
+    "before": null,
+    "after": "Figure5 panelC, US environmental regulation-only path,1990-2008; caption and p3841 explicitly normalize own PM2.5 manufacturing emissions to1990=100. One graphical path comparison, not fabricated annual coefficient grid. Baseline aggregate level, not sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6886",
+    "before": null,
+    "after": "Figure5 panelC: US environmental regulation-only counterfactual PM2.5 path deliberately compared against actual same-pollutant all-shocks path (solid line); p3841 explicitly says compare counterfactual emissions against actual. Separate contemporaneous same-outcome level benchmark, not an untreated mean. No division by actual path reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6887",
+    "before": null,
+    "after": "Figure5 panelD, US environmental regulation-only path,1990-2008; caption and p3841 explicitly normalize own PM10 manufacturing emissions to1990=100. One graphical path comparison, not fabricated annual coefficient grid. Baseline aggregate level, not sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6888",
+    "before": null,
+    "after": "Figure5 panelD: US environmental regulation-only counterfactual PM10 path deliberately compared against actual same-pollutant all-shocks path (solid line); p3841 explicitly says compare counterfactual emissions against actual. Separate contemporaneous same-outcome level benchmark, not an untreated mean. No division by actual path reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6889",
+    "before": null,
+    "after": "Figure5 panelE, US environmental regulation-only path,1990-2008; caption and p3841 explicitly normalize own SO2 manufacturing emissions to1990=100. One graphical path comparison, not fabricated annual coefficient grid. Baseline aggregate level, not sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6890",
+    "before": null,
+    "after": "Figure5 panelE: US environmental regulation-only counterfactual SO2 path deliberately compared against actual same-pollutant all-shocks path (solid line); p3841 explicitly says compare counterfactual emissions against actual. Separate contemporaneous same-outcome level benchmark, not an untreated mean. No division by actual path reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6891",
+    "before": null,
+    "after": "Figure5 panelF, US environmental regulation-only path,1990-2008; caption and p3841 explicitly normalize own VOCs manufacturing emissions to1990=100. One graphical path comparison, not fabricated annual coefficient grid. Baseline aggregate level, not sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6892",
+    "before": null,
+    "after": "Figure5 panelF: US environmental regulation-only counterfactual VOCs path deliberately compared against actual same-pollutant all-shocks path (solid line); p3841 explicitly says compare counterfactual emissions against actual. Separate contemporaneous same-outcome level benchmark, not an untreated mean. No division by actual path reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6881",
+    "before": null,
+    "after": "Qualifying own-baseline normalization of a causal counterfactual; alternative construction-only exclusion held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6882",
+    "before": null,
+    "after": "Graphical same-outcome level pairing policy requires parent adjudication; values intentionally qualitative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6883",
+    "before": null,
+    "after": "Qualifying own-baseline normalization of a causal counterfactual; alternative construction-only exclusion held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6884",
+    "before": null,
+    "after": "Graphical same-outcome level pairing policy requires parent adjudication; values intentionally qualitative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6885",
+    "before": null,
+    "after": "Qualifying own-baseline normalization of a causal counterfactual; alternative construction-only exclusion held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6886",
+    "before": null,
+    "after": "Graphical same-outcome level pairing policy requires parent adjudication; values intentionally qualitative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6887",
+    "before": null,
+    "after": "Qualifying own-baseline normalization of a causal counterfactual; alternative construction-only exclusion held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6888",
+    "before": null,
+    "after": "Graphical same-outcome level pairing policy requires parent adjudication; values intentionally qualitative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6889",
+    "before": null,
+    "after": "Qualifying own-baseline normalization of a causal counterfactual; alternative construction-only exclusion held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6890",
+    "before": null,
+    "after": "Graphical same-outcome level pairing policy requires parent adjudication; values intentionally qualitative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6891",
+    "before": null,
+    "after": "Qualifying own-baseline normalization of a causal counterfactual; alternative construction-only exclusion held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6892",
+    "before": null,
+    "after": "Graphical same-outcome level pairing policy requires parent adjudication; values intentionally qualitative."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8954",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8955",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8956",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8957",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8958",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8959",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8954",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8955",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8956",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8957",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8958",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8959",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8954",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8955",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8956",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8957",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8958",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8959",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8954",
+    "before": null,
+    "after": "CO total US manufacturing emissions index,1990=100; Figure5 panelA. Not pollution intensity; no graph endpoint numerals transcribed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8955",
+    "before": null,
+    "after": "NOx total US manufacturing emissions index,1990=100; Figure5 panelB. Not pollution intensity; no graph endpoint numerals transcribed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8956",
+    "before": null,
+    "after": "PM2.5 total US manufacturing emissions index,1990=100; Figure5 panelC. Not pollution intensity; no graph endpoint numerals transcribed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8957",
+    "before": null,
+    "after": "PM10 total US manufacturing emissions index,1990=100; Figure5 panelD. Not pollution intensity; no graph endpoint numerals transcribed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8958",
+    "before": null,
+    "after": "SO2 total US manufacturing emissions index,1990=100; Figure5 panelE. Not pollution intensity; no graph endpoint numerals transcribed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8959",
+    "before": null,
+    "after": "VOCs total US manufacturing emissions index,1990=100; Figure5 panelF. Not pollution intensity; no graph endpoint numerals transcribed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4004",
+    "before": null,
+    "after": "89PULMFU"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4004",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4004",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4004",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4004",
+    "before": null,
+    "after": "Figure5 A-F pp3841-44: historical1990-2008 US environmental regulation path alone versus all shocks fixed at1990; effects on six US manufacturing emissions paths."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4004",
+    "before": null,
+    "after": "Nonlinear structural general-equilibrium solution of equations12-15 (AppendixIII.F), with endogenous wages, entry, abatement, production and trade. Select historic shock path while other shocks fixed at1990. Causal author-intention explicit p3841; not merely descriptive scale/composition/technique identity. Binary0: continuous shock path, not binary merely because two scenarios compared. Credibility rests on CES/monopolistic competition/Pareto/Cobb-Douglas and inelastic factors; does not establish quasi-experimental identification."
+  }
+]
+```
