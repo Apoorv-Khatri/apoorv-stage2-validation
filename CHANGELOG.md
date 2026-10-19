@@ -794730,3 +794730,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:28:10.133806+00:00 — Review 9VJYE45Y h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9085",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9085",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9085",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9085",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9085",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9085",
+    "before": null,
+    "after": "Total annual spending distribution around catastrophic limit mapped from OOP threshold; no missing mass found, exact estimator not given."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4087",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4087",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4087",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4087",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4087",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4087",
+    "before": null,
+    "after": "Price decline at catastrophic limit: no evidence of missing mass, Appendix A footnote1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4087",
+    "before": null,
+    "after": "Explicit implemented null, not merely cutoff applicability; authors deem uninformative because few observations and noisy OOP-to-total-spending mapping. No invented coefficient or RD estimator."
+  }
+]
+```
