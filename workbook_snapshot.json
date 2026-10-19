@@ -40409,7 +40409,16 @@
     "L3991": "1",
     "M3991": "unknown",
     "N3991": "Table1C col4: PM2.5 log pollution intensity response to log(1-abatement cost share), IV slope58.551. Same equation17 but pollutant-specific excluded interaction; no SO2 IV reported.",
-    "O3991": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator."
+    "O3991": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator.",
+    "A3992": "89PULMFU",
+    "B3992": "h5",
+    "I3992": "1",
+    "J3992": "IV",
+    "K3992": "0",
+    "L3992": "1",
+    "M3992": "unknown",
+    "N3992": "Table1C col5: VOCs log pollution intensity response to log(1-abatement cost share), IV slope124.907. Same equation17 but pollutant-specific excluded interaction; no SO2 IV reported.",
+    "O3992": "Table1 note p3835 specifies binary polluter x pollutant-specific newly nonattainment indicator; p3834 fn21 instead specifies continuous1990 sector emission share x any-pollutant newly nonattainment1990-93. Multiplicity is one scalar excluded interaction in each equation, but support/definition conflicts: IV type unknown, not confidently single binary or single continuous. Lower-order terms are included controls. No code obtained to resolve. Equation17 uses first differences; table reports county-NAICS FE and log-level dependent labels. Do not invent a separate levels estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101524,7 +101533,11 @@
     "A8931": "89PULMFU",
     "B8931": "h4",
     "C8931": "hy1",
-    "K8931": "Change in log((PM2.5 emissions+1)/real output), equation17 and fn22; county x six-digit NAICS x year. Table dependent label omits differencing; retain conflict. Nonlinear alpha inversion is not the outcome. No numerical zero mass of transformed difference inferred."
+    "K8931": "Change in log((PM2.5 emissions+1)/real output), equation17 and fn22; county x six-digit NAICS x year. Table dependent label omits differencing; retain conflict. Nonlinear alpha inversion is not the outcome. No numerical zero mass of transformed difference inferred.",
+    "A8932": "89PULMFU",
+    "B8932": "h5",
+    "C8932": "hy1",
+    "K8932": "Change in log((VOCs emissions+1)/real output), equation17 and fn22; county x six-digit NAICS x year. Table dependent label omits differencing; retain conflict. Nonlinear alpha inversion is not the outcome. No numerical zero mass of transformed difference inferred."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
