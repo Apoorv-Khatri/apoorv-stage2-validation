@@ -753231,3 +753231,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:58:40.910389+00:00 — Review 7PQVC2SH s8: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R608",
+    "before": null,
+    "after": "p2074 compares quantile and OLS coefficients: another estimated effect is not an outcome mean/SD/level. Verbal ratio exists but eligibility fails independently."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J933",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K933",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M933",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N933",
+    "before": null,
+    "after": "Figure5b: quantile regression of log sales on continuous entrepreneur schooling and controls, percentiles1-99 plus99.9 according to caption/method."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O933",
+    "before": null,
+    "after": "Nonlinear quantile estimator; near-zero lower-tail returns retained. p2074 calls top coefficient0.165 the99.99th percentile whereas caption/method say99.9. Preserve source conflict; not silently corrected. Comparison with OLS0.057 is effect-versus-effect, not outcome-level benchmark."
+  }
+]
+```
