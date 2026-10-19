@@ -740022,3 +740022,972 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T10:18:53.786405+00:00 — Review 64JY936S s4: source-audited coding and linked comparisons
+
+160 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6628",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6629",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6630",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6631",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6632",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6633",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6634",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6635",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6636",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6637",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6628",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6629",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6630",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6631",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6632",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6633",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6634",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6635",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6636",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6637",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6628",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6629",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6630",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6631",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6632",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6633",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6634",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6635",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6636",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6637",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K601",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6628",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6629",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6628",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6629",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6630",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6631",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6632",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6633",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6634",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6635",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6636",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6637",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6628",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6629",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6630",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6631",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6632",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6633",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6634",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6635",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6636",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6637",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6628",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6629",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6628",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6629",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6628",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6629",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6630",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6631",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6632",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6633",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6634",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6635",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6636",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6637",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6628",
+    "before": null,
+    "after": "Table4 col1 row1: 0.046; note/p1741 explicitly normalizes each firm outcome by its own2006 level before averaging; baseline ratio=1. Same-outcome individual-firm level scaling (not a ratio to Table3 sample mean). Balanced2003-13 firms."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6629",
+    "before": null,
+    "after": "Table4 col1 row2: 0.058; note/p1741 explicitly normalizes each firm outcome by its own2006 level before averaging; baseline ratio=1. Same-outcome individual-firm level scaling (not a ratio to Table3 sample mean). Balanced2003-13 firms."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6630",
+    "before": null,
+    "after": "Table4 col1 row3: 0.031; note/p1741 explicitly normalizes each firm outcome by its own2006 level before averaging; baseline ratio=1. Same-outcome individual-firm level scaling (not a ratio to Table3 sample mean). Balanced2003-13 firms."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6631",
+    "before": null,
+    "after": "Table4 col1 row4: 0.061; note/p1741 explicitly normalizes each firm outcome by its own2006 level before averaging; baseline ratio=1. Same-outcome individual-firm level scaling (not a ratio to Table3 sample mean). Balanced2003-13 firms."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6632",
+    "before": null,
+    "after": "Table4 col1 EBIT: 0.081; fn45 p1745 first divides firm profit by firm2006 value added, then divides group mean of that ratio by its own2006 group mean to interpret percent effects. Only this second same-outcome normalization qualifies; value added alone does not."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6633",
+    "before": null,
+    "after": "Table4 col4 row1: 0.033; note/p1741 explicitly normalizes each firm outcome by its own2006 level before averaging; baseline ratio=1. Same-outcome individual-firm level scaling (not a ratio to Table3 sample mean). Unbalanced age-reweighted2006 firms, inactive firms zero."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6634",
+    "before": null,
+    "after": "Table4 col4 row2: 0.016; note/p1741 explicitly normalizes each firm outcome by its own2006 level before averaging; baseline ratio=1. Same-outcome individual-firm level scaling (not a ratio to Table3 sample mean). Unbalanced age-reweighted2006 firms, inactive firms zero."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6635",
+    "before": null,
+    "after": "Table4 col4 row3: 0.026; note/p1741 explicitly normalizes each firm outcome by its own2006 level before averaging; baseline ratio=1. Same-outcome individual-firm level scaling (not a ratio to Table3 sample mean). Unbalanced age-reweighted2006 firms, inactive firms zero."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6636",
+    "before": null,
+    "after": "Table4 col4 row4: 0.040; note/p1741 explicitly normalizes each firm outcome by its own2006 level before averaging; baseline ratio=1. Same-outcome individual-firm level scaling (not a ratio to Table3 sample mean). Unbalanced age-reweighted2006 firms, inactive firms zero."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6637",
+    "before": null,
+    "after": "Table4 col4 EBIT: 0.21; fn45 p1745 first divides firm profit by firm2006 value added, then divides group mean of that ratio by its own2006 group mean to interpret percent effects. Only this second same-outcome normalization qualifies; value added alone does not."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R598",
+    "before": null,
+    "after": "Tax windfall/labor-cost reduction is treatment dose or a different outcome, not a level/mean/SD of the focal employment, assets, sales, value added, profits or net earnings outcome. Do not relabel other_level. Proper own-outcome normalization comparisons added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R599",
+    "before": null,
+    "after": "Tax windfall/labor-cost reduction is treatment dose or a different outcome, not a level/mean/SD of the focal employment, assets, sales, value added, profits or net earnings outcome. Do not relabel other_level. Proper own-outcome normalization comparisons added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R600",
+    "before": null,
+    "after": "Tax windfall/labor-cost reduction is treatment dose or a different outcome, not a level/mean/SD of the focal employment, assets, sales, value added, profits or net earnings outcome. Do not relabel other_level. Proper own-outcome normalization comparisons added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R601",
+    "before": null,
+    "after": "Tax windfall/labor-cost reduction is treatment dose or a different outcome, not a level/mean/SD of the focal employment, assets, sales, value added, profits or net earnings outcome. Do not relabel other_level. Proper own-outcome normalization comparisons added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R602",
+    "before": null,
+    "after": "Tax windfall/labor-cost reduction is treatment dose or a different outcome, not a level/mean/SD of the focal employment, assets, sales, value added, profits or net earnings outcome. Do not relabel other_level. Proper own-outcome normalization comparisons added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6632",
+    "before": null,
+    "after": "Own-group2006 mean of profit/VA ratio is explicit, but treatment contrast subtracts two separately normalized groups; no single common untreated mean target or intergroup equality established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6637",
+    "before": null,
+    "after": "Own-group2006 mean of profit/VA ratio is explicit, but treatment contrast subtracts two separately normalized groups; no single common untreated mean target or intergroup equality established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8788",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8789",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8790",
+    "before": null,
+    "after": "64JY936S"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8788",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8789",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8790",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8788",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8789",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8790",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2274",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2276",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2274",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2275",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2276",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2277",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2278",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8788",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8789",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8790",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2274",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2275",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2276",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2277",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2278",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8788",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8789",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8790",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2274",
+    "before": null,
+    "after": "Number of workers at the firm, normalized relative to the firm's 2006 level. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms. Construction conflict: p1744 defines employment as annual earnings above $4,940 (2012 dollars); Figure6 caption instead says average number of full-time employees. Preserve both; do not silently equate headcount and FTE."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2275",
+    "before": null,
+    "after": "Total assets of the firm, normalized relative to the firm's 2006 level. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2276",
+    "before": null,
+    "after": "Sales of the firm, normalized relative to the firm's 2006 level. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2277",
+    "before": null,
+    "after": "Value added of the firm, normalized relative to the firm's 2006 level. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2278",
+    "before": null,
+    "after": "Profits (EBIT), normalized using value added in 2006 and rescaled to equal 1 in 2006 at the group level. Table4/5 uses arithmetic normalized levels, not logs. Zero mass of aggregate reported series not established; unbalanced micro records include zero for nonoperating firms."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8788",
+    "before": null,
+    "after": "Total number of workers appearing on firm payroll, alternative to annual-earnings-threshold count; p1744 fn44 says similar effects. No separate coefficients or normalization stated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8789",
+    "before": null,
+    "after": "Fixed assets: AppendixB p71 reports similar yet noisier percentage growth in unreported specifications. Attribution to Table4 high-versus-medium benchmark follows immediate paragraph; no inferred dose grid."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8790",
+    "before": null,
+    "after": "Fixed tangible assets: AppendixB p71 reports similar yet noisier percentage growth, unreported specification. No numeric coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J921",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M921",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N921",
+    "before": null,
+    "after": "High (top quartile positive2006 share young) versus medium (middle half) firm payroll exposure, Table4 col1/Figure6: employment, assets, sales, value added, EBIT. Include col4 unbalanced age-DFL robustness at same table; nonoperating firms assigned zero. Other dose contrasts split to h1/h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O921",
+    "before": null,
+    "after": "Author-interpreted policy response under parallel trends. Conventional aggregate treated/control pre/post contrast; age/year or group/year effects and DFL covariate weighting do not override DiD. Not RD merely because eligibility has an age cutoff; no implemented local-polynomial RD. Not IV merely because exposure persistence is called a first stage (p1740 explicitly says no IV effects). Main role follows abstract/introduction/conclusion, including null incidence and rent-sharing mechanisms."
+  }
+]
+```
