@@ -39550,7 +39550,16 @@
     "L3913": "1",
     "M3913": "n/a",
     "N3913": "Efficiency video assignment versus no-video control: Figure V B Treatments p2356 estate policy index. Other randomized arms are separate settings; all respondent-control variants at this location grouped.",
-    "O3913": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects."
+    "O3913": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects.",
+    "A3914": "5VHQLIKT",
+    "B3914": "h16",
+    "I3914": "1",
+    "J3914": "RCT",
+    "K3914": "1",
+    "L3914": "1",
+    "M3914": "n/a",
+    "N3914": "Economist video assignment versus no-video control: Figure V B Treatments p2356 estate policy index. Other randomized arms are separate settings; all respondent-control variants at this location grouped.",
+    "O3914": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects. Correction: the reported 23%/18% income and roughly 30% estate magnitudes are shares of the same-index partisan gap, NOT numerical outcome-SD coefficients; Figure V prints no exact treatment-point labels."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -99498,7 +99507,14 @@
     "H8781": "0",
     "I8781": "unknown",
     "J8781": "sd_units",
-    "K8781": "Estate tax policy index: standardized composite increasing in support for the estate tax. Components are indicator variables for believing the estate tax should exist, should be increased, is a good tool to reduce inequality, and that government should be responsible for reducing intergenerational wealth transmission. Control-group z-scored components averaged and restandardized (p2352). No evidence establishes an atom exactly at zero in the standardized composite."
+    "K8781": "Estate tax policy index: standardized composite increasing in support for the estate tax. Components are indicator variables for believing the estate tax should exist, should be increased, is a good tool to reduce inequality, and that government should be responsible for reducing intergenerational wealth transmission. Control-group z-scored components averaged and restandardized (p2352). No evidence establishes an atom exactly at zero in the standardized composite.",
+    "A8782": "5VHQLIKT",
+    "B8782": "h16",
+    "C8782": "hy1",
+    "H8782": "0",
+    "I8782": "unknown",
+    "J8782": "sd_units",
+    "K8782": "Estate tax policy index: standardized composite increasing in support for the estate tax. Components are indicator variables for believing the estate tax should exist, should be increased, is a good tool to reduce inequality, and that government should be responsible for reducing intergenerational wealth transmission. Control-group z-scored components averaged and restandardized (p2352). No evidence establishes an atom exactly at zero in the standardized composite."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -174062,7 +174078,28 @@
     "O6620": "1",
     "P6620": "unknown",
     "Q6620": "Figure V B Treatments p2356 estate policy index: Efficiency assignment coefficient is plotted in standardized policy-index units; exact numeric estimate not printed in main text. p2352 construction: average control-mean/control-SD-standardized components, standardized again. Includes null Efficiency effect.",
-    "R6620": "Control group is normalization reference for components; final index restandardization reference/weights not explicit enough in available text to establish final composite SD alignment. Do not equate partisan-gap percentages with SD coefficients."
+    "R6620": "Control group is normalization reference for components; final index restandardization reference/weights not explicit enough in available text to establish final composite SD alignment. Do not equate partisan-gap percentages with SD coefficients.",
+    "A6621": "5VHQLIKT",
+    "B6621": "h16",
+    "C6621": "hc1",
+    "K6621": "1",
+    "L6621": "hy1",
+    "M6621": "outcome_sd",
+    "N6621": "0",
+    "O6621": "1",
+    "P6621": "unknown",
+    "Q6621": "Figure V B Treatments p2356 estate policy index: Economist assignment coefficient is plotted in standardized policy-index units; exact numeric estimate not printed in main text. p2352 construction: average control-mean/control-SD-standardized components, standardized again. Includes null Efficiency effect.",
+    "R6621": "Control group is normalization reference for components; final index restandardization reference/weights not explicit enough in available text to establish final composite SD alignment. Do not equate partisan-gap percentages with SD coefficients.",
+    "A6622": "5VHQLIKT",
+    "B6622": "h16",
+    "C6622": "hc2",
+    "K6622": "1",
+    "L6622": "hy1",
+    "M6622": "other_level",
+    "N6622": "1",
+    "O6622": "1",
+    "P6622": "n/a",
+    "Q6622": "p2364: Economist effect is roughly30% of same-policy-index Democrat-Republican gap in control group. Effect plotted Figure V, not inferred as equal to that number of SDs."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

@@ -738711,3 +738711,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T09:52:22.267524+00:00 — Review 5VHQLIKT h16: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6621",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6622",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6621",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6622",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6621",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6622",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6621",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6622",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6621",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6622",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6622",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6621",
+    "before": null,
+    "after": "Figure V B Treatments p2356 estate policy index: Economist assignment coefficient is plotted in standardized policy-index units; exact numeric estimate not printed in main text. p2352 construction: average control-mean/control-SD-standardized components, standardized again. Includes null Efficiency effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6622",
+    "before": null,
+    "after": "p2364: Economist effect is roughly30% of same-policy-index Democrat-Republican gap in control group. Effect plotted Figure V, not inferred as equal to that number of SDs."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6621",
+    "before": null,
+    "after": "Control group is normalization reference for components; final index restandardization reference/weights not explicit enough in available text to establish final composite SD alignment. Do not equate partisan-gap percentages with SD coefficients."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8782",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8782",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8782",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8782",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8782",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8782",
+    "before": null,
+    "after": "Estate tax policy index: standardized composite increasing in support for the estate tax. Components are indicator variables for believing the estate tax should exist, should be increased, is a good tool to reduce inequality, and that government should be responsible for reducing intergenerational wealth transmission. Control-group z-scored components averaged and restandardized (p2352). No evidence establishes an atom exactly at zero in the standardized composite."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3914",
+    "before": null,
+    "after": "5VHQLIKT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3914",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3914",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3914",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3914",
+    "before": null,
+    "after": "Economist video assignment versus no-video control: Figure V B Treatments p2356 estate policy index. Other randomized arms are separate settings; all respondent-control variants at this location grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3914",
+    "before": null,
+    "after": "Direct randomized video assignment versus no video; linear controlled regressions. Demographic/question-form dummies are controls, not identifying FE. Mechanism beliefs are substantive outcomes, not diagnostic-only first stages; no IV receipt estimator. Abstract and VI.D establish central experimental role, including null Efficiency policy effects. Correction: the reported 23%/18% income and roughly 30% estate magnitudes are shares of the same-index partisan gap, NOT numerical outcome-SD coefficients; Figure V prints no exact treatment-point labels."
+  }
+]
+```
