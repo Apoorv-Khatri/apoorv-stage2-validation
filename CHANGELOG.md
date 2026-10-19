@@ -795639,3 +795639,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T14:01:09.951484+00:00 — Review 9XCS46FU s4: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2370",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2370",
+    "before": null,
+    "after": "Well-groomed experiment: respondent-by-image-pair indicator y_is=1 when respondent recommends detention for the prespecified top defendant, 0 for bottom; not an observed real-court decision. Appendix C pp69–70; table coefficient in probability units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J953",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N953",
+    "before": null,
+    "after": "Well-groomed randomized paired morph variant on hypothetical detention recommendation; Appendix C/Table A.XVII cols (1),(2). Heavy-faced separately h2. Pair FE and optional participant FE are subordinate to random assignment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O953",
+    "before": null,
+    "after": "Main p817 says LESS groomed/heavy-faced is more likely detained; mirror Appendix C p70 says MORE, contrary to negative A.XVII cells. N well-groomed 18,269 prose versus 18,268 table; respondent versus two-way clustering; validation versus GAN treatment-SD reference differ. Preserve conflicts. Mirror is not verified final publisher supplement. No empirical replication."
+  }
+]
+```
