@@ -40115,7 +40115,16 @@
     "L3960": "0",
     "M3960": "n/a",
     "N3960": "AppendixB.1/F.3a: entrepreneur schooling-bin sales life cycles in1995-1997 cohorts up to age20, QP rather than SCIE sales.",
-    "O3960": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership."
+    "O3960": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership.",
+    "A3961": "7PQVC2SH",
+    "B3961": "h13",
+    "I3961": "1",
+    "J3961": "OLS",
+    "K3961": "0",
+    "L3961": "0",
+    "M3961": "n/a",
+    "N3961": "AppendixB.1/F.3b:2017 cross-sectional schooling-bin sales-age profiles up to50+; first observed top-manager schooling proxies founder schooling.",
+    "O3961": "Broad author-intention inclusion: Section3.2 p2069 explicitly addresses assigning causal interpretation to schooling coefficients; conclusion p2097 treats entrepreneurial human capital as an ingredient of growth. Observational, not exogenous assignment. Age/year controls alone do not establish identifying FE; no IV/RCT/RD/DiD implemented. These are schooling treatments within sector/sample variants, not causal effects of sector membership."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -101044,7 +101053,11 @@
     "A8898": "7PQVC2SH",
     "B8898": "h12",
     "C8898": "hy1",
-    "K8898": "Log sales, AppendixB.1/F.3a. No unprinted coefficient values assigned."
+    "K8898": "Log sales, AppendixB.1/F.3a. No unprinted coefficient values assigned.",
+    "A8899": "7PQVC2SH",
+    "B8899": "h13",
+    "C8899": "hy1",
+    "K8899": "Log sales, AppendixB.1/F.3b. No unprinted coefficient values assigned."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
