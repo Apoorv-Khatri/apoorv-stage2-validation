@@ -678828,3 +678828,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T05:51:28.677301+00:00 — Review 4LB5EN3L s4: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K572",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R571",
+    "before": null,
+    "after": "Real qualifying comparison but wrong retained setting: transformed binary referral estimand, not Table4 cols3-4 continuous-share FE. Reattached under h10; original ID/fields preserved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R572",
+    "before": null,
+    "after": "Real qualifying comparison but wrong retained setting: transformed binary referral estimand, not Table4 cols3-4 continuous-share FE. Reattached under h11; original ID/fields preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I878",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J878",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K878",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L878",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M878",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N878",
+    "before": null,
+    "after": "Table4 PanelB cols3-4: own-minority workforce share one year before hiring on log daily wage and annual leaving-firm indicator; initial effect and linear tenure interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O878",
+    "before": null,
+    "after": "Eq(2), pp523-526 and Table4 notes p530: worker FE address worker ability/referral selection, firm FE firm productivity/referral selection; year FE also present. Cols3/4 have worker OR firm plus year (standard FE); col5 has worker+firm+year (three effective sets, HDFE), with explicit substantive sorting argument. No IV, randomization, RD, or DiD implemented in these proxy regressions. Own share is a continuous pre-hire proxy, not observed referral treatment."
+  }
+]
+```
