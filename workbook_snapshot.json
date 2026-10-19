@@ -41969,7 +41969,16 @@
     "L4144": "0",
     "M4144": "n/a",
     "N4144": "Baseline binary exposure heterogeneity across prereform business-income deciles Location: Figure A.4",
-    "O4144": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4144": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4145": "A8LFPXLL",
+    "B4145": "h15",
+    "I4145": "1",
+    "J4145": "DiD_conventional",
+    "K4145": "1",
+    "L4145": "0",
+    "M4145": "n/a",
+    "N4145": "Baseline exposure comparison with higher-income unexposed controls Location: Figure A.5 substantive series (not placebo)",
+    "O4145": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -105875,7 +105884,14 @@
     "H9310": "0",
     "I9310": "0",
     "J9310": "log",
-    "K9310": "Log average employee earnings; separate exposed/unexposed contrast within each prereform business-income decile including losses."
+    "K9310": "Log average employee earnings; separate exposed/unexposed contrast within each prereform business-income decile including losses.",
+    "A9311": "A8LFPXLL",
+    "B9311": "h15",
+    "C9311": "hy1",
+    "H9311": "0",
+    "I9311": "0",
+    "J9311": "log",
+    "K9311": "Log average employee earnings; control owners above $250K or $350K but below top bracket. Placebo $350-450K versus lower incomes excluded."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
