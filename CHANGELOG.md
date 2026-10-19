@@ -786069,3 +786069,690 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T13:15:32.637598+00:00 — Review 9VJYE45Y s3: source-audited coding and linked comparisons
+
+113 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A6981",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6982",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6983",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A6984",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6981",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6982",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6983",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B6984",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6981",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6982",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6983",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C6984",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K6984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L632",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L633",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L634",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6981",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6982",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6983",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L6984",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M632",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M633",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M634",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6981",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6982",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6983",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M6984",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N633",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6983",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N6984",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O633",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O6984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6981",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6982",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6983",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P6984",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q632",
+    "before": null,
+    "after": "On average, total spending increases by $204, or about 12 percent, from $1,760 to $1,964. Table VI p880, same simulated population and baseline contract, full12-month coverage assumed. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q633",
+    "before": null,
+    "after": "Table VI, rows (1)-(2), Mean OOP: Baseline 809; Filled gap 655. Table VI p880, same simulated population and baseline contract, full12-month coverage assumed. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q634",
+    "before": null,
+    "after": "Table VI, rows (1)-(2), Mean insurer: Baseline 951; Filled gap 1,309. Table VI p880, same simulated population and baseline contract, full12-month coverage assumed. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6981",
+    "before": null,
+    "after": "Table VI rows1-2 p880: SD baseline1924, filled gap2127. Paired distributional levels, not individual change percentile."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6982",
+    "before": null,
+    "after": "Table VI rows1-2 p880: 25th percentile baseline402, filled gap407. Paired distributional levels, not individual change percentile."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6983",
+    "before": null,
+    "after": "Table VI rows1-2 p880: Median baseline1413, filled gap1455. Paired distributional levels, not individual change percentile."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q6984",
+    "before": null,
+    "after": "Table VI rows1-2 p880: 90th percentile baseline3632, filled gap4450. Paired distributional levels, not individual change percentile."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R632",
+    "before": null,
+    "after": "Aligned under maintained invariant preferences/health and same-draw model counterfactual, not a claim of experimental identification. Mere nearby prose mentioning effect without baseline is not automatically verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R633",
+    "before": null,
+    "after": "Aligned under maintained invariant preferences/health and same-draw model counterfactual, not a claim of experimental identification. Mere nearby prose mentioning effect without baseline is not automatically verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R634",
+    "before": null,
+    "after": "Aligned under maintained invariant preferences/health and same-draw model counterfactual, not a claim of experimental identification. Mere nearby prose mentioning effect without baseline is not automatically verbal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6983",
+    "before": null,
+    "after": "p879 calls these median increase /90th percentile change, whereas Table VI reports marginal spending quantiles under each contract, not quantiles of individual changes. Pairing and nondivision verified; exact verbal estimand attribution unresolved. Preserve printed prose and table without repairing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R6984",
+    "before": null,
+    "after": "p879 calls these median increase /90th percentile change, whereas Table VI reports marginal spending quantiles under each contract, not quantiles of individual changes. Pairing and nondivision verified; exact verbal estimand attribution unresolved. Preserve printed prose and table without repairing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9048",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9049",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9050",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9051",
+    "before": null,
+    "after": "9VJYE45Y"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9048",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9049",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9050",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9051",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9048",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9049",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9050",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9051",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2353",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9048",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9049",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9050",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2353",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2354",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2355",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9048",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9049",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9050",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9051",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2353",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2354",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2355",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9048",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9049",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9050",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9051",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2353",
+    "before": null,
+    "after": "Dollar spending outcome, not binary. Structural nonzero probability of no health event supports zero individual spending; Table I and estimation zero-spending moment corroborate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2354",
+    "before": null,
+    "after": "Dollar spending outcome, not binary. Structural nonzero probability of no health event supports zero individual spending; Table I and estimation zero-spending moment corroborate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2355",
+    "before": null,
+    "after": "Dollar spending outcome, not binary. Structural nonzero probability of no health event supports zero individual spending; Table I and estimation zero-spending moment corroborate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9048",
+    "before": null,
+    "after": "SD of total drug spending distribution, Table VI rows1-2; annual."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9049",
+    "before": null,
+    "after": "25th percentile of total drug spending distribution, Table VI rows1-2; annual."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9050",
+    "before": null,
+    "after": "Median of total drug spending distribution, Table VI rows1-2; annual."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9051",
+    "before": null,
+    "after": "90th percentile of total drug spending distribution, Table VI rows1-2; annual."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J945",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M945",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N945",
+    "before": null,
+    "after": "Fill gap versus2008 standard contract; Table VI rows1-2 pp879-882, mean/distributional spending and Figure VIII heterogeneity. Footnote25 anticipatory subset $74; no new graph coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O945",
+    "before": null,
+    "after": "Structural dynamic purchase model estimated by simulated minimum distance (equation9); nonlinear recovery/optimization, not IV from moment conditions and not RD from the budget kink. Same simulation draws across contracts; fixed health/preferences, plan selection and supply. Main role follows introduction/conclusion, not table order."
+  }
+]
+```
