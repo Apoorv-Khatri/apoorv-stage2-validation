@@ -662808,3 +662808,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T04:54:43.842859+00:00 — Review 4BNXLZ5D h18: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8483",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8483",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8483",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8483",
+    "before": null,
+    "after": "Financing-mode choice in linear probability interaction robustness; precise category outcome grid not established in available main text."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3779",
+    "before": null,
+    "after": "4BNXLZ5D"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3779",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3779",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3779",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3779",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3779",
+    "before": null,
+    "after": "p887 fn27: implemented linear probability robustness of enforcement×distance on financing choice (online appendix)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3779",
+    "before": null,
+    "after": "Main text establishes linear probability tests consistent with Figure8. No final appendix available: exact enforcement set, outcome grid, FE implementation, coefficients and treatment support unresolved; retain one minimum scope rather than manufacture eight regressions. Binary status unknown because possible binary/continuous proxies are not enumerated here. OLS absent an established identifying FE or higher-priority design. Retain minimum established linear implementation only; no eight-proxy cross-product or assumption that nonlinear FE specifications carry over."
+  }
+]
+```
