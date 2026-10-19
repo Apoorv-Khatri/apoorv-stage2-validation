@@ -37215,7 +37215,16 @@
     "L3706": "0",
     "M3706": "n/a",
     "N3706": "SectionV.B p1543 / FiguresB10A-B: scale-cost curves by population and land gradient; average connection cost.",
-    "O3706": "Same Eq.(2) fitting approach applied to subgroups; no new randomized treatment or identifying FE. Population/gradient causal language assessed as scale heterogeneity, not separate exogenous effects of covariates. Printed final prose gradient endpoint839 versus657; author appendix panel captions reverse population/gradient ordering, so do not copy panel labels blindly. Independent audit: Retain only final-text-established cost robustness scope. No final-only numerical appendix coefficients or additional endogenous polynomial terms inferred. The author copy is informative but not a verified final supplement."
+    "O3706": "Same Eq.(2) fitting approach applied to subgroups; no new randomized treatment or identifying FE. Population/gradient causal language assessed as scale heterogeneity, not separate exogenous effects of covariates. Printed final prose gradient endpoint839 versus657; author appendix panel captions reverse population/gradient ordering, so do not copy panel labels blindly. Independent audit: Retain only final-text-established cost robustness scope. No final-only numerical appendix coefficients or additional endogenous polynomial terms inferred. The author copy is informative but not a verified final supplement.",
+    "A3707": "2W92PVM3",
+    "B3707": "h5",
+    "I3707": "1",
+    "J3707": "Other",
+    "K3707": "1",
+    "L3707": "1",
+    "M3707": "n/a",
+    "N3707": "SectionV.C / Figure3B pp1544-45: universal connection program versus no expansion; consumer surplus and net social surplus (loss50197 per community,593 per household).",
+    "O3707": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -94100,7 +94109,21 @@
     "A8358": "2W92PVM3",
     "B8358": "h4",
     "C8358": "hy1",
-    "K8358": "Average total cost per connection, USD, predicted by scale within subgroups; not an estimated causal effect of land gradient itself."
+    "K8358": "Average total cost per connection, USD, predicted by scale within subgroups; not an estimated causal effect of land gradient itself.",
+    "A8359": "2W92PVM3",
+    "B8359": "h5",
+    "C8359": "hy1",
+    "H8359": "0",
+    "I8359": "unknown",
+    "J8359": "none",
+    "K8359": "Net social surplus change under universal connection program: loss USD50,197 per community, USD593 per household in the community (not a selected-taker denominator); Figure3B and p1545.",
+    "A8360": "2W92PVM3",
+    "B8360": "h5",
+    "C8360": "hy2",
+    "H8360": "0",
+    "I8360": "unknown",
+    "J8360": "none",
+    "K8360": "Consumer surplus from universal grid connections,12421 per community /147 per household, from integrated experimental demand."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

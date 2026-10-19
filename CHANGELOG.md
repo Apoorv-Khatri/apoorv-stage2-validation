@@ -641874,3 +641874,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T03:32:34.188968+00:00 — Review 2W92PVM3 h5: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A8359",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A8360",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8359",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B8360",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8359",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C8360",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H8360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8359",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I8360",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8359",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J8360",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8359",
+    "before": null,
+    "after": "Net social surplus change under universal connection program: loss USD50,197 per community, USD593 per household in the community (not a selected-taker denominator); Figure3B and p1545."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K8360",
+    "before": null,
+    "after": "Consumer surplus from universal grid connections,12421 per community /147 per household, from integrated experimental demand."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A3707",
+    "before": null,
+    "after": "2W92PVM3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B3707",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I3707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J3707",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K3707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L3707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M3707",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N3707",
+    "before": null,
+    "after": "SectionV.C / Figure3B pp1544-45: universal connection program versus no expansion; consumer surplus and net social surplus (loss50197 per community,593 per household)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O3707",
+    "before": null,
+    "after": "Model-based intervention counterfactual, not randomized-assignment regression or IV. Other denotes the specified model-based policy/surplus calibration rather than a direct assignment or receipt regression. Do not infer that every component calculation is nonlinear: fixed-growth discounting and percentage cost scaling can be linear arithmetic conditional on their calibrated inputs. Maintains functional form, discounting and willingness-to-pay assumptions. Consumer surplus versus construction cost is DIFFERENT outcome, not a qualifying outcome benchmark. Independent audit: Gate retained: numerical consequences are attributed to a specified intervention under maintained model assumptions (Sections V.C/V.E/VI.D), not a stand-alone forecast correlation. Method is residual structural/calibration Other, not a claim of experimental identification for the policy. The outcome is calibrated surplus/cost, not an observed outcome in an asserted regression. Alternative classification as linear imputation is a taxonomy sensitivity, especially for fixed percentage leakage removal; no unreported regression is invented."
+  }
+]
+```
