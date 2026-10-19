@@ -625362,3 +625362,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-19T02:53:41.562841+00:00 — Review 2UP7GN8M s6: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A5548",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A5549",
+    "before": null,
+    "after": "2UP7GN8M"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5548",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B5549",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5548",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C5549",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K5549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5548",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L5549",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5548",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M5549",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N5549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O5549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5548",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P5549",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5548",
+    "before": null,
+    "after": "Table6 col1 p3323: focal estimate .149; benchmark .85."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q5549",
+    "before": null,
+    "after": "Table6 col2 p3323: focal estimate .029; benchmark .85."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5548",
+    "before": null,
+    "after": "Publication mean among sponsored/not-sponsored subsample respectively; continuous efficacy regression target/untreated baseline not specified, so unknown. Do not attach full-sample86% from prose."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R5549",
+    "before": null,
+    "after": "Publication mean among sponsored/not-sponsored subsample respectively; continuous efficacy regression target/untreated baseline not specified, so unknown. Do not attach full-sample86% from prose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I835",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J835",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L835",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O835",
+    "before": null,
+    "after": "Eq.(5), Table6 pp3321-3323: continuous relative efficacy -> publication indicator, separately by sponsorship. Drug-by-pair and scale FE only; year deliberately omitted. Retain broad author-intention selection mechanism (higher favorable efficacy prompts publication), not a sponsorship coefficient. Wording is also relationship/corroboration; conditional-association exclusion is contested. Abstract/intro publication mechanism central. No IV, RCT, RD or temporal DiD. Independent audit: Retain under broad author-intention gate, not because gradient is significant. Introduction p3301 describes favorable sponsored results being selected into publication; conclusion p3331 says sponsors affect publication and knowledge availability. Eq5/Figure4 implement this directional selection mechanism, including the nonsponsored weak/null gradient. The relationship/corroboration wording is contrary evidence but not a disavowal of this mechanism. No claim of exogenous efficacy assignment."
+  }
+]
+```
