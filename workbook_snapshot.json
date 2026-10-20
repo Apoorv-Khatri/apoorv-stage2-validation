@@ -44615,7 +44615,16 @@
     "L4398": "0",
     "M4398": "n/a",
     "N4398": "Cited NBER Appendix B Table B15 Panel B: liquidity subsets; nonlinear RMTR from compliance response schedule.",
-    "O4398": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
+    "O4398": "Ratio/root of outcome-estimated coefficients; source version explicitly identified.",
+    "A4399": "F3IAL93B",
+    "B4399": "h48",
+    "I4399": "1",
+    "J4399": "RCT",
+    "K4399": "0",
+    "L4399": "0",
+    "M4399": "n/a",
+    "N4399": "Cited NBER Appendix B Table B15 Panel A: liquidity subsets; randomized rate polynomial effects on compliance (underlying schedule).",
+    "O4399": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115255,7 +115264,14 @@
     "H10326": "0",
     "I10326": "unknown",
     "J10326": "other",
-    "K10326": "RMTR as fraction of status quo; liquidity subsets."
+    "K10326": "RMTR as fraction of status quo; liquidity subsets.",
+    "A10327": "F3IAL93B",
+    "B10327": "h48",
+    "C10327": "hy1",
+    "H10327": "1",
+    "I10327": "1",
+    "J10327": "none",
+    "K10327": "Property tax compliance indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
