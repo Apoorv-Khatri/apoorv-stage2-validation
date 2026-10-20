@@ -44579,7 +44579,16 @@
     "L4394": "0",
     "M4394": "n/a",
     "N4394": "Cited NBER Appendix B Table B13 Panel B: quadratic/cubic model; nonlinear RMTR from compliance response schedule.",
-    "O4394": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
+    "O4394": "Ratio/root of outcome-estimated coefficients; source version explicitly identified.",
+    "A4395": "F3IAL93B",
+    "B4395": "h44",
+    "I4395": "1",
+    "J4395": "RCT",
+    "K4395": "0",
+    "L4395": "0",
+    "M4395": "n/a",
+    "N4395": "Cited NBER Appendix B Table B13 Panel A: quadratic/cubic model; randomized rate polynomial effects on compliance (underlying schedule).",
+    "O4395": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115191,7 +115200,14 @@
     "H10322": "0",
     "I10322": "unknown",
     "J10322": "other",
-    "K10322": "RMTR as fraction of status quo; quadratic/cubic model."
+    "K10322": "RMTR as fraction of status quo; quadratic/cubic model.",
+    "A10323": "F3IAL93B",
+    "B10323": "h44",
+    "C10323": "hy1",
+    "H10323": "1",
+    "I10323": "1",
+    "J10323": "none",
+    "K10323": "Property tax compliance indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
