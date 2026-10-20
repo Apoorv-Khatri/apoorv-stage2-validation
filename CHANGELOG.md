@@ -907563,3 +907563,414 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T13:41:20.219140+00:00 — Review DUE9RA4X h24: source-audited coding and linked comparisons
+
+67 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7945",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7946",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7947",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7948",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7945",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7946",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7947",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7948",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7945",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7946",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7947",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7948",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7945",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7946",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7947",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7948",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7945",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7946",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7947",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7948",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7945",
+    "before": null,
+    "after": "Table A4 p.9 T2 col 1: -0.552; outcome_mean benchmark: 0.066 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7946",
+    "before": null,
+    "after": "Table A4 p.9 T2 col 1: -0.552; outcome_sd benchmark: 0.508 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7947",
+    "before": null,
+    "after": "Table A4 p.9 T2 col 2: -0.537; outcome_mean benchmark: 0.244 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7948",
+    "before": null,
+    "after": "Table A4 p.9 T2 col 2: -0.537; outcome_sd benchmark: 1.728 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7945",
+    "before": null,
+    "after": "Eligibility adjudication: retain deliberate coefficient/count-outcome mean or SD pairing under instructions section 6; same outcome is weekly/monthly count, not log-transformed count. Poisson log-link coefficient is not a count difference, so scale alignment=0 under section 7. No marginal effect, exponentiation or effect/mean division is supplied or inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7946",
+    "before": null,
+    "after": "Eligibility adjudication: retain deliberate coefficient/count-outcome mean or SD pairing under instructions section 6; same outcome is weekly/monthly count, not log-transformed count. Poisson log-link coefficient is not a count difference, so scale alignment=0 under section 7. No marginal effect, exponentiation or effect/mean division is supplied or inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7947",
+    "before": null,
+    "after": "Eligibility adjudication: retain deliberate coefficient/count-outcome mean or SD pairing under instructions section 6; same outcome is weekly/monthly count, not log-transformed count. Poisson log-link coefficient is not a count difference, so scale alignment=0 under section 7. No marginal effect, exponentiation or effect/mean division is supplied or inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7948",
+    "before": null,
+    "after": "Eligibility adjudication: retain deliberate coefficient/count-outcome mean or SD pairing under instructions section 6; same outcome is weekly/monthly count, not log-transformed count. Poisson log-link coefficient is not a count difference, so scale alignment=0 under section 7. No marginal effect, exponentiation or effect/mean division is supplied or inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9922",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9923",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9922",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9923",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9922",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9923",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9922",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9923",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9922",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9923",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9922",
+    "before": null,
+    "after": "Number of violations per firm-week, Poisson reported coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9923",
+    "before": null,
+    "after": "Number of violations per firm-month, Poisson reported coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4300",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4300",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4300",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4300",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4300",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4300",
+    "before": null,
+    "after": "T2 assignment versus control, aggregated violation counts. Table A4 p.9; main fn23 p.834."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4300",
+    "before": null,
+    "after": "Main fn23 explicitly says Poisson; A4 caption only says equation (1). Nonlinear conditional-mean estimator takes Other despite randomized assignment. Pairing raw count means with Poisson coefficients is a scale mismatch; do not reinterpret coefficients as count differences."
+  }
+]
+```
