@@ -891345,3 +891345,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T13:20:07.696409+00:00 — Review DUE9RA4X s3: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2499",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2500",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2501",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2502",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2503",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2499",
+    "before": null,
+    "after": "Indicator for the Figure 4 standardized daily concentration bin 0–40% of firm regulatory limit; caption SO2 (COD), pollutant pooling/allocation not specified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2500",
+    "before": null,
+    "after": "Indicator for the Figure 4 standardized daily concentration bin 40–80% of firm regulatory limit; caption SO2 (COD), pollutant pooling/allocation not specified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2501",
+    "before": null,
+    "after": "Indicator for the Figure 4 standardized daily concentration bin 80–100% of firm regulatory limit; caption SO2 (COD), pollutant pooling/allocation not specified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2502",
+    "before": null,
+    "after": "Indicator for the Figure 4 standardized daily concentration bin 100–200% of firm regulatory limit; caption SO2 (COD), pollutant pooling/allocation not specified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2503",
+    "before": null,
+    "after": "Indicator for the Figure 4 standardized daily concentration bin >200% of firm regulatory limit; caption SO2 (COD), pollutant pooling/allocation not specified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1003",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1003",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1003",
+    "before": null,
+    "after": "Public T2 assignment versus control, distributional bin-indicator effects. Figure 4 p.836."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1003",
+    "before": null,
+    "after": "Five explicitly plotted bins retained. Caption says SO2 (COD), but displays one set, not ten pollutant-specific coefficients; do not manufacture an outcome grid. No outcome-level mean/SD benchmark: regulatory limit normalizes the underlying concentration, not focal indicator effect."
+  }
+]
+```
