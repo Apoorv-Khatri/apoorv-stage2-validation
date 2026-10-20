@@ -44570,7 +44570,16 @@
     "L4393": "0",
     "M4393": "n/a",
     "N4393": "Cited NBER Appendix B Table B12 Panel A: low/high value bands; randomized rate polynomial effects on compliance (underlying schedule).",
-    "O4393": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
+    "O4393": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls.",
+    "A4394": "F3IAL93B",
+    "B4394": "h43",
+    "I4394": "1",
+    "J4394": "Other",
+    "K4394": "0",
+    "L4394": "0",
+    "M4394": "n/a",
+    "N4394": "Cited NBER Appendix B Table B13 Panel B: quadratic/cubic model; nonlinear RMTR from compliance response schedule.",
+    "O4394": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115175,7 +115184,14 @@
     "H10321": "1",
     "I10321": "1",
     "J10321": "none",
-    "K10321": "Property tax compliance indicator."
+    "K10321": "Property tax compliance indicator.",
+    "A10322": "F3IAL93B",
+    "B10322": "h43",
+    "C10322": "hy1",
+    "H10322": "0",
+    "I10322": "unknown",
+    "J10322": "other",
+    "K10322": "RMTR as fraction of status quo; quadratic/cubic model."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -214166,7 +214182,27 @@
     "N8811": "0",
     "O8811": "1",
     "P8811": "n/a",
-    "Q8811": "Cited NBER Appendix B Table B12 Panel B col 8: RMTR 0.386; benchmark: status quo statutory tax rate normalized to 1."
+    "Q8811": "Cited NBER Appendix B Table B12 Panel B col 8: RMTR 0.386; benchmark: status quo statutory tax rate normalized to 1.",
+    "A8812": "F3IAL93B",
+    "B8812": "h43",
+    "C8812": "hc1",
+    "K8812": "1",
+    "L8812": "hy1",
+    "M8812": "other_level",
+    "N8812": "0",
+    "O8812": "1",
+    "P8812": "n/a",
+    "Q8812": "Cited NBER Appendix B Table B13 Panel B col 3: RMTR 0.599; benchmark: status quo statutory tax rate normalized to 1.",
+    "A8813": "F3IAL93B",
+    "B8813": "h43",
+    "C8813": "hc2",
+    "K8813": "1",
+    "L8813": "hy1",
+    "M8813": "other_level",
+    "N8813": "0",
+    "O8813": "1",
+    "P8813": "n/a",
+    "Q8813": "Cited NBER Appendix B Table B13 Panel B col 4: RMTR 0.606; benchmark: status quo statutory tax rate normalized to 1."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

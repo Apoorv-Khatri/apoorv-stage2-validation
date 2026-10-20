@@ -984636,3 +984636,228 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:00:00.010693+00:00 — Review F3IAL93B h43: source-audited coding and linked comparisons
+
+36 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8812",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8813",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8812",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8813",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8812",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8813",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8812",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8813",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8812",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8813",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8812",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8813",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8812",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B13 Panel B col 3: RMTR 0.599; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8813",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B13 Panel B col 4: RMTR 0.606; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10322",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10322",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10322",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10322",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10322",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10322",
+    "before": null,
+    "after": "RMTR as fraction of status quo; quadratic/cubic model."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4394",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4394",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4394",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4394",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4394",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B13 Panel B: quadratic/cubic model; nonlinear RMTR from compliance response schedule."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4394",
+    "before": null,
+    "after": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
+  }
+]
+```
