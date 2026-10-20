@@ -42122,7 +42122,16 @@
     "L4161": "0",
     "M4161": "n/a",
     "N4161": "Business tax liability average 2011-2012 incomes: predicted per-worker dose Location: Figure A.7 and Table A.9 average 2011-2012 incomes",
-    "O4161": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV."
+    "O4161": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV.",
+    "A4162": "A8LFPXLL",
+    "B4162": "h36",
+    "I4162": "1",
+    "J4162": "IV",
+    "K4162": "0",
+    "L4162": "0",
+    "M4162": "single binary",
+    "N4162": "Business tax liability average 2011-2012 incomes: observed total liability instrumented by baseline exposure Location: Figure A.7 and Table A.9 average 2011-2012 incomes",
+    "O4162": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106132,7 +106141,11 @@
     "A9327": "A8LFPXLL",
     "B9327": "h35",
     "C9327": "hy1",
-    "K9327": "Change in average employee earnings in dollars."
+    "K9327": "Change in average employee earnings in dollars.",
+    "A9328": "A8LFPXLL",
+    "B9328": "h36",
+    "C9328": "hy1",
+    "K9328": "Change in total firm wage bill in dollars."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
