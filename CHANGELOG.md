@@ -846684,3 +846684,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:55:16.305122+00:00 — Review AG8QMNLF s5: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2440",
+    "before": null,
+    "after": "Extensive-margin contribution series (lambda+−lambda−) times mean log-price increase. Covariance with inflation divided by inflation variance gives the reported projection/contribution coefficient (80–90%), not an observed dependent share."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J978",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M978",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N978",
+    "before": null,
+    "after": "Inflation → extensive-margin contribution series (lambda+ minus lambda−) times mean size of increases, summarized by its projection slope Cov(component,inflation)/Var(inflation), IV.E p.494. The 80–90% coefficient is the contribution share, not a separate dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O978",
+    "before": null,
+    "after": "Retained under author-intention causal accounting: p.494 and footnote29 use the empirical contribution to adjudicate Proposition3. OLS denotes the algebraically equivalent projection Cov(component,inflation)/Var(inflation), conditional on inflation and the reported aggregate component. Not an independently identified intervention in frequency. Choose reported-outcome domain consistently with s7/h5, not the nonlinear micro-price construction. No qualifying outcome benchmark in Var(inflation). A narrower descriptive-accounting gate would exclude this setting; this is a taxonomy choice, not a factual estimator correction."
+  }
+]
+```
