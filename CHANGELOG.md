@@ -883167,3 +883167,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:14:57.003815+00:00 — Review DRDWCKUF s11: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L680",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M680",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q680",
+    "before": null,
+    "after": "p.276 Table 13 col.4: 0.21 pp (prose 0.2) vs overall adviser annual misconduct 0.6%; firm-weighted Form ADV sample 2011–14 vs overall adviser-years benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R680",
+    "before": null,
+    "after": "Known population/weight mismatch; no construction maps overall adviser mean to weighted Form ADV target."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R681",
+    "before": null,
+    "after": "Standalone 3.4 pp coefficient, no stated benchmark in cited sentence. other_level is not a catch-all for an effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2491",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2492",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2491",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2492",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2491",
+    "before": null,
+    "after": "Firm stock/flow percentage, not individual binary outcome. Overall firm descriptive median zero does not establish zero mass in this Form ADV regression subsample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2492",
+    "before": null,
+    "after": "Firm stock/flow percentage, not individual binary outcome. Overall firm descriptive median zero does not establish zero mass in this Form ADV regression subsample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J999",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M999",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N999",
+    "before": null,
+    "after": "Serving retail rather than exclusively nonretail clients → firm stock and annual flow of misconduct; Table 13/equation (11), all columns, square-root adviser-count WLS. State/year dummy controls retained as controls, no distinct identifying claim for equation (11)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O999",
+    "before": null,
+    "after": "Broad intention gate: pp.275–276 and 284–285 interpret targeting retail investors as mechanism, not merely significance. Fee indicators treated as controls/conditional associations, not a blanket causal cross-product. Selection and detection caveats remain."
+  }
+]
+```
