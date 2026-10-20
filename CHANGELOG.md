@@ -846006,3 +846006,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:53:23.085685+00:00 — Review AG8QMNLF s1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K659",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K660",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R659",
+    "before": null,
+    "after": "c1 is a percentage interpretation of the log-frequency fit and uses a treatment increment, not an independently stated outcome benchmark. c2 is a zero-inflation duration level alone, not a focal-effect/benchmark pair; it is also not frequency units."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R660",
+    "before": null,
+    "after": "c1 is a percentage interpretation of the log-frequency fit and uses a treatment increment, not an independently stated outcome benchmark. c2 is a zero-inflation duration level alone, not a focal-effect/benchmark pair; it is also not frequency units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9351",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9351",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9351",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2433",
+    "before": null,
+    "after": "Reported dependent series for equation (7) is log(lambda), where lambda is the transformed price-change frequency; fitted implied duration is separately hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9351",
+    "before": null,
+    "after": "Fitted implied price-spell duration 1/lambda in months, including zero-inflation duration; Figure V p.482, 4.5 months. Reciprocal of fitted frequency, not frequency units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J974",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M974",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N974",
+    "before": null,
+    "after": "Expected aggregate inflation → log frequency of price changes and fitted implied duration; equation (7), Figure V, pp.481–482. Estimated-threshold piecewise NLLS, not OLS. Table I pooled aggregate baseline is a repeat."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O974",
+    "before": null,
+    "after": "Frequency/OLS_quadratic.m lines18–69 selects threshold by fitted R² and removes negative quadratic coefficients: overall fit is outcome-adaptive, despite conditional OLS steps. Rendered equation (7) contains epsilon before min; text extraction loses it. Author-intention inclusion: pp.452–453 and 469–470 connect these empirical relationships to inflation comparative statics conditional on stable idiosyncratic-shock variance and expected inflation. Observational identification, not randomized or policy DiD."
+  }
+]
+```
