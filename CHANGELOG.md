@@ -864174,3 +864174,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T10:48:56.804645+00:00 — Review CPRH287R h24: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9491",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9491",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9491",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9491",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9491",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9491",
+    "before": null,
+    "after": "Weekly household potato-chip quantity purchased (at home and on-the-go per Table A.2 caption), level. Eleven demographic samples, eight lag indicators in same equation. Most slopes near zero, some significant; no linked outcome mean/SD. Quantity unit not explicitly stated in this appendix table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4212",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4212",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4212",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4212",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4212",
+    "before": null,
+    "after": "Last potato-chip purchase 4 weeks ago versus no purchase in preceding two months: current household weekly quantity; Appendix A.1 equation1.1, Table A.2 p.4. Demographic regressions grouped at same location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4212",
+    "before": null,
+    "after": "Authors explicitly interpret beta as habits effect conditional on household heterogeneity and aggregate week effects (appendix p.2). Household and week FE are two dimensions, not HDFE. Supporting substantive near-zero habit response despite diagnostic motivation. Equation uses last purchase whereas captions say purchase k weeks ago: construction conflict unresolved. No causal OLS row inferred from association-only Table A.1. Outcome-linear regression in weekly quantity; not IV."
+  }
+]
+```
