@@ -924852,3 +924852,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:50:38.608348+00:00 — Review E5YG2HPW s7: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1020",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1020",
+    "before": null,
+    "after": "Table V p.1322: S&P500 falls 6.5 percent for a shock raising 2-year nominal forward by 1 percentage point. Table SE=3.9; prose SE=3.3, both printed and visually verified. No silent reconciliation. Structural stock-price responses split to h13; these are effect-to-effect checks, not outcome-level benchmarks."
+  }
+]
+```
