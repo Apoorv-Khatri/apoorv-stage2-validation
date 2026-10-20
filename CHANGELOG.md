@@ -852396,3 +852396,198 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T10:37:36.054798+00:00 — Review CPRH287R s7: source-audited coding and linked comparisons
+
+31 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2467",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2467",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2469",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2470",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2471",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2472",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2467",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2469",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2470",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2471",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2472",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2467",
+    "before": null,
+    "after": "Choice-distortion welfare component +£15.0m/month, persuasive standard; Table 13. Components/alternative effects are not same-outcome baseline benchmarks."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2468",
+    "before": null,
+    "after": "Inactive: characteristic-effect outcome moved to h9 (different welfare standard)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2469",
+    "before": null,
+    "after": "Price-competition welfare component +£3.7m/month, shared across standards; Table 13. Components/alternative effects are not same-outcome baseline benchmarks."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2470",
+    "before": null,
+    "after": "Total consumer compensating variation +£18.7m/month, persuasive standard; Table 13. Components/alternative effects are not same-outcome baseline benchmarks."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2471",
+    "before": null,
+    "after": "Change in firm profits inclusive of advertising-cost savings -£5.1m/month, shared across standards; Table 13. Components/alternative effects are not same-outcome baseline benchmarks."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2472",
+    "before": null,
+    "after": "Total welfare change +£13.6m/month, persuasive standard; Table 13. Components/alternative effects are not same-outcome baseline benchmarks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J987",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M987",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N987",
+    "before": null,
+    "after": "Advertising-stock ban, persuasive-advertising welfare standard: distortion removal, price competition, compensating variation, profit and total welfare, Table 13 p.430. Characteristic-standard totals separately h9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O987",
+    "before": null,
+    "after": "Conclusion p.433 expressly concludes consumer/total welfare rise under the persuasive view. Main status is not reduced merely because welfare requires a maintained assumption. Nonlinear log-sum/experience-utility calculation and marginal-utility conversion (4.12–4.15)."
+  }
+]
+```
