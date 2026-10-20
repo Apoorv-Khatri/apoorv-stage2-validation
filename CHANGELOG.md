@@ -895461,3 +895461,984 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T13:26:36.385081+00:00 — Review DUE9RA4X h10: source-audited coding and linked comparisons
+
+162 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7809",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7810",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7811",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7812",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7813",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7814",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7815",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7816",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7817",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7818",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7819",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7820",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7809",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7810",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7811",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7812",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7813",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7814",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7815",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7816",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7817",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7818",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7819",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7820",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7809",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7810",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7811",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7812",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7813",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7814",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7815",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7816",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7817",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7818",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7819",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7820",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7809",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7810",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7811",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7812",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7813",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7814",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7815",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7816",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7817",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7818",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7819",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7820",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7809",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7810",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7811",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7812",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7813",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7814",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7815",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7816",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7817",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7818",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7819",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7820",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7809",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 1a: -0.001; outcome_mean benchmark: 0.009 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7810",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 1a: -0.001; outcome_sd benchmark: 0.096 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7811",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 1b: -0.001; outcome_mean benchmark: 0.009 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7812",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 1b: -0.001; outcome_sd benchmark: 0.096 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7813",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 2a: -4.7; outcome_mean benchmark: 132.5 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7814",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 2a: -4.7; outcome_sd benchmark: 539.5 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7815",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 2b: -5.1; outcome_mean benchmark: 132.5 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7816",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 2b: -5.1; outcome_sd benchmark: 539.5 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7817",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 3a: -0.6; outcome_mean benchmark: 59.1 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7818",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 3a: -0.6; outcome_sd benchmark: 78.8 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7819",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 3b: -0.6; outcome_mean benchmark: 59.1 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7820",
+    "before": null,
+    "after": "Table A6 p.11 T1D call firm col 3b: -0.6; outcome_sd benchmark: 78.8 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7809",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7810",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7811",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7812",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7813",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7814",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7815",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7816",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7817",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7818",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7819",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7820",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9890",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9891",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9892",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9890",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9891",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9892",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9890",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9891",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9892",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9890",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9891",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9890",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9891",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9892",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9890",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9891",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9892",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9890",
+    "before": null,
+    "after": "Daily firm violation indicator (1 if any emission standard violated, 0 otherwise)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9891",
+    "before": null,
+    "after": "Daily pipe-level SO2 emission concentration, mg/m3 per table notes; main p.835 prose instead prints ug/m3 (unresolved units conflict)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9892",
+    "before": null,
+    "after": "Daily pipe-level COD emission concentration, mg/L per table notes; main p.835 prose instead prints ug/L (unresolved units conflict)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4286",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4286",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4286",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4286",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4286",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4286",
+    "before": null,
+    "after": "T1D call firm assignment effect in jointly disaggregated arm regression. Table A6 p.11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4286",
+    "before": null,
+    "after": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
+  }
+]
+```
