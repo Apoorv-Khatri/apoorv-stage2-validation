@@ -883122,3 +883122,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:14:19.219066+00:00 — Review DRDWCKUF s10: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I998",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J998",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L998",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M998",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O998",
+    "before": null,
+    "after": "Table 12B pp.274–275: conditional association diagnoses hiring tolerance/matching. No clear claim that changing existing employee misconduct causes hiring composition. Held causal gate for independent adjudication; OLS is conditional taxonomy, year/state controls not independently argued as identifying in this hiring equation. No eligible benchmark found."
+  }
+]
+```
