@@ -43137,7 +43137,16 @@
     "L4254": "0",
     "M4254": "unknown",
     "N4254": "Severe Misconduct 1 versus none → job separation and one-year reemployment; Section VI.A.1 pp.282–283.",
-    "O4254": "Definition 1: settled regulatory/civil/customer fraud/forgery, unauthorized activity, churning, unregistered securities, misrepresentation/omission, plus specified final criminal cases; definition 2 excludes misrepresentation/omission. Implemented outcomes established; final appendix estimator/column allocation unavailable. No numerical range assigned to an individual severity definition."
+    "O4254": "Definition 1: settled regulatory/civil/customer fraud/forgery, unauthorized activity, churning, unregistered securities, misrepresentation/omission, plus specified final criminal cases; definition 2 excludes misrepresentation/omission. Implemented outcomes established; final appendix estimator/column allocation unavailable. No numerical range assigned to an individual severity definition.",
+    "A4255": "DRDWCKUF",
+    "B4255": "h15",
+    "I4255": "1",
+    "J4255": "unknown",
+    "K4255": "1",
+    "L4255": "0",
+    "M4255": "unknown",
+    "N4255": "Severe Misconduct 2 versus none → job separation and one-year reemployment; Section VI.A.1 pp.282–283.",
+    "O4255": "Definition 1: settled regulatory/civil/customer fraud/forgery, unauthorized activity, churning, unregistered securities, misrepresentation/omission, plus specified final criminal cases; definition 2 excludes misrepresentation/omission. Implemented outcomes established; final appendix estimator/column allocation unavailable. No numerical range assigned to an individual severity definition."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110802,7 +110811,21 @@
     "H9839": "1",
     "I9839": "1",
     "J9839": "none",
-    "K9839": "New industry employment within one year conditional on job separation after severe misconduct."
+    "K9839": "New industry employment within one year conditional on job separation after severe misconduct.",
+    "A9840": "DRDWCKUF",
+    "B9840": "h15",
+    "C9840": "hy1",
+    "H9840": "1",
+    "I9840": "1",
+    "J9840": "none",
+    "K9840": "Job separation from original firm after severe misconduct.",
+    "A9841": "DRDWCKUF",
+    "B9841": "h15",
+    "C9841": "hy2",
+    "H9841": "1",
+    "I9841": "1",
+    "J9841": "none",
+    "K9841": "New industry employment within one year conditional on job separation after severe misconduct."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
