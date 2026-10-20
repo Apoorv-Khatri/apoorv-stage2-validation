@@ -988218,3 +988218,588 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:44:43.466784+00:00 — Review F3IAL93B h53: source-audited coding and linked comparisons
+
+96 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8854",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8855",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8856",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8857",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8858",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8859",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8860",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8861",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8854",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8855",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8856",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8857",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8858",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8859",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8860",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8861",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8854",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8855",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8856",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8857",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8858",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8859",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8860",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8861",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8854",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8855",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8856",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8857",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8858",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8859",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8860",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8861",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8854",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8855",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8856",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8857",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8858",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8859",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8860",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8861",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8854",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8855",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8856",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8857",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8858",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8859",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8860",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8861",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8854",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8856",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8857",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8858",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8854",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8855",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8856",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8857",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8858",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8859",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8860",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8861",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8854",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8855",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8856",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8857",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8858",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8859",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8860",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8861",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8854",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B20 Panel B col 1: RMTR 0.489; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8855",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B20 Panel B col 2: RMTR 0.076; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8856",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B20 Panel B col 3: RMTR 0.315; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8857",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B20 Panel B col 4: RMTR 0.138; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8858",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B20 Panel B col 5: RMTR 0.849; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8859",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B20 Panel B col 6: RMTR 0.634; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8860",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B20 Panel B col 7: RMTR 0.791; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8861",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B20 Panel B col 8: RMTR 0.734; benchmark: status quo statutory tax rate normalized to 1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10332",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10332",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10332",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10332",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10332",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10332",
+    "before": null,
+    "after": "RMTR as fraction of status quo; control/enforcement messages adding imbalanced covariates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4404",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4404",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4404",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4404",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4404",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4404",
+    "before": null,
+    "after": "Cited NBER Appendix B Table B20 Panel B: control/enforcement messages adding imbalanced covariates; nonlinear RMTR from compliance response schedule."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4404",
+    "before": null,
+    "after": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
+  }
+]
+```
