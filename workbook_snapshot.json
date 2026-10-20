@@ -44633,7 +44633,16 @@
     "L4400": "0",
     "M4400": "n/a",
     "N4400": "Cited NBER Appendix B Table B16 Panel B: property-value deciles; nonlinear RMTR from compliance response schedule.",
-    "O4400": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
+    "O4400": "Ratio/root of outcome-estimated coefficients; source version explicitly identified.",
+    "A4401": "F3IAL93B",
+    "B4401": "h50",
+    "I4401": "1",
+    "J4401": "RCT",
+    "K4401": "0",
+    "L4401": "0",
+    "M4401": "n/a",
+    "N4401": "Cited NBER Appendix B Table B16 Panel A: property-value deciles; randomized rate polynomial effects on compliance (underlying schedule).",
+    "O4401": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115287,7 +115296,14 @@
     "H10328": "0",
     "I10328": "unknown",
     "J10328": "other",
-    "K10328": "RMTR as fraction of status quo; property-value deciles."
+    "K10328": "RMTR as fraction of status quo; property-value deciles.",
+    "A10329": "F3IAL93B",
+    "B10329": "h50",
+    "C10329": "hy1",
+    "H10329": "1",
+    "I10329": "1",
+    "J10329": "none",
+    "K10329": "Property tax compliance indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
