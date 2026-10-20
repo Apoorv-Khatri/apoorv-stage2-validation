@@ -43299,7 +43299,16 @@
     "L4272": "0",
     "M4272": "n/a",
     "N4272": "Serving retail clients → customer-initiated and noncustomer-initiated firm stock misconduct rates; Section VI.B pp.284–285, equation (11).",
-    "O4272": "Final main text explicitly reports adviser with a record for both initiation sources; no extra flow outcome inferred. Underlying WLS with dummy controls, no separately established identification change."
+    "O4272": "Final main text explicitly reports adviser with a record for both initiation sources; no extra flow outcome inferred. Underlying WLS with dummy controls, no separately established identification change.",
+    "A4273": "DRDWCKUF",
+    "B4273": "h48",
+    "I4273": "1",
+    "J4273": "unknown",
+    "K4273": "1",
+    "L4273": "0",
+    "M4273": "unknown",
+    "N4273": "Recent misconduct → job separation; Client-facing adviser restrictions, Section VI.E.1 pp.287–288.",
+    "O4273": "Main text establishes implemented separation result; original-firm/time/county controls discussed but precise alternate-model allocation unavailable. Routine definitions/control variants grouped in this separate robustness location; no presumed unseen estimator grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -111111,7 +111120,14 @@
     "H9860": "0",
     "I9860": "unknown",
     "J9860": "none",
-    "K9860": "Share of firm advisers with a noncustomer (firm/regulator)-initiated misconduct record."
+    "K9860": "Share of firm advisers with a noncustomer (firm/regulator)-initiated misconduct record.",
+    "A9861": "DRDWCKUF",
+    "B9861": "h48",
+    "C9861": "hy1",
+    "H9861": "1",
+    "I9861": "1",
+    "J9861": "none",
+    "K9861": "Next-year separation from original advisory firm."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
