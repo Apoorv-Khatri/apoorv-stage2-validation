@@ -927465,3 +927465,570 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:57:51.158080+00:00 — Review E5YG2HPW h9: source-audited coding and linked comparisons
+
+93 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10106",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10107",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10108",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10109",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10110",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10111",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10112",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10113",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10114",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10115",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10116",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10117",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10118",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10119",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10120",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10121",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10122",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10123",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10124",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10125",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10126",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10106",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10107",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10108",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10109",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10110",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10111",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10112",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10113",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10114",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10115",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10116",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10117",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10118",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10119",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10120",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10121",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10122",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10123",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10124",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10125",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10126",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10106",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10107",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10108",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10109",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10110",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10111",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10112",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10113",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10114",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10115",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10116",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10117",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10118",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10119",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10120",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10121",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10122",
+    "before": null,
+    "after": "hy17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10123",
+    "before": null,
+    "after": "hy18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10124",
+    "before": null,
+    "after": "hy19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10125",
+    "before": null,
+    "after": "hy20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10126",
+    "before": null,
+    "after": "hy21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10106",
+    "before": null,
+    "after": "Monthly revision in expected 3-month T-bill nominal rate 1 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10107",
+    "before": null,
+    "after": "Monthly revision in expected short real rate 1 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10108",
+    "before": null,
+    "after": "Monthly revision in expected GDP-deflator inflation 1 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10109",
+    "before": null,
+    "after": "Monthly revision in expected 3-month T-bill nominal rate 2 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10110",
+    "before": null,
+    "after": "Monthly revision in expected short real rate 2 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10111",
+    "before": null,
+    "after": "Monthly revision in expected GDP-deflator inflation 2 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10112",
+    "before": null,
+    "after": "Monthly revision in expected 3-month T-bill nominal rate 3 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10113",
+    "before": null,
+    "after": "Monthly revision in expected short real rate 3 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10114",
+    "before": null,
+    "after": "Monthly revision in expected GDP-deflator inflation 3 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10115",
+    "before": null,
+    "after": "Monthly revision in expected 3-month T-bill nominal rate 4 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10116",
+    "before": null,
+    "after": "Monthly revision in expected short real rate 4 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10117",
+    "before": null,
+    "after": "Monthly revision in expected GDP-deflator inflation 4 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10118",
+    "before": null,
+    "after": "Monthly revision in expected 3-month T-bill nominal rate 5 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10119",
+    "before": null,
+    "after": "Monthly revision in expected short real rate 5 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10120",
+    "before": null,
+    "after": "Monthly revision in expected GDP-deflator inflation 5 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10121",
+    "before": null,
+    "after": "Monthly revision in expected 3-month T-bill nominal rate 6 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10122",
+    "before": null,
+    "after": "Monthly revision in expected short real rate 6 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10123",
+    "before": null,
+    "after": "Monthly revision in expected GDP-deflator inflation 6 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10124",
+    "before": null,
+    "after": "Monthly revision in expected 3-month T-bill nominal rate 7 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10125",
+    "before": null,
+    "after": "Monthly revision in expected short real rate 7 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10126",
+    "before": null,
+    "after": "Monthly revision in expected GDP-deflator inflation 7 quarters ahead; Table D.1, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4347",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4347",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4347",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4347",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4347",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4347",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4347",
+    "before": null,
+    "after": "Monthly policy-news shock effect on Blue Chip expected nominal short rate, real short rate and GDP-deflator inflation at horizons 1-7 quarters, Online Appendix Table D.1 p.8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4347",
+    "before": null,
+    "after": "Substantive risk-premium alternative, retain null inflation responses. Monthly revisions; first-week meetings excluded. Inflation is GDP deflator; real rate subtracts that expected inflation from expected 3-month T-bill rate. No benchmark."
+  }
+]
+```
