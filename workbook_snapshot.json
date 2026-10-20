@@ -44228,7 +44228,16 @@
     "L4355": "1",
     "M4355": "n/a",
     "N4355": "Figure 1C-D and Table A16 cols 1,3: OLS level-level and log-log relationship of collector RMTR to estimated enforcement capacity.",
-    "O4355": "Conditional OLS relationship in the explicitly reported collector-level dependent outcome vector (RMTR, visits, beliefs or elasticities as individually defined). Higher-priority randomized assignment identifies the upstream collector effects, not random manipulation of the scalar estimated capacity. Broad author-intention gate passes via final Sections 7.2.1-7.2.3, including null mechanisms. Full micro-compliance-outcome construction is nonlinear/outcome-adaptive where both regressor and RMTR derive from compliance; the competing full-procedure Other classification is preserved for parent adjudication. Do not treat poor identification alone as exclusion."
+    "O4355": "Conditional OLS relationship in the explicitly reported collector-level dependent outcome vector (RMTR, visits, beliefs or elasticities as individually defined). Higher-priority randomized assignment identifies the upstream collector effects, not random manipulation of the scalar estimated capacity. Broad author-intention gate passes via final Sections 7.2.1-7.2.3, including null mechanisms. Full micro-compliance-outcome construction is nonlinear/outcome-adaptive where both regressor and RMTR derive from compliance; the competing full-procedure Other classification is preserved for parent adjudication. Do not treat poor identification alone as exclusion.",
+    "A4356": "F3IAL93B",
+    "B4356": "h5",
+    "I4356": "1",
+    "J4356": "Other",
+    "K4356": "0",
+    "L4356": "0",
+    "M4356": "n/a",
+    "N4356": "Table A16 cols 2,4 / Figure B15: enforcement-capacity/RMTR relationship after multivariate empirical-Bayes adjustment.",
+    "O4356": "EB weights/covariances estimated from focal outcomes; outcome-adaptive complete procedure, not merely an OLS control variant."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -114035,7 +114044,14 @@
     "H10207": "0",
     "I10207": "unknown",
     "J10207": "other",
-    "K10207": "Collector RMTR, levels and logs as separately displayed in Table A16."
+    "K10207": "Collector RMTR, levels and logs as separately displayed in Table A16.",
+    "A10208": "F3IAL93B",
+    "B10208": "h5",
+    "C10208": "hy1",
+    "H10208": "0",
+    "I10208": "unknown",
+    "J10208": "other",
+    "K10208": "Empirical-Bayes adjusted collector RMTR, levels and logs."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
