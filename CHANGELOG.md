@@ -882759,3 +882759,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:12:22.652126+00:00 — Review DRDWCKUF s7: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2482",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2482",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2482",
+    "before": null,
+    "after": "Time out of industry with reemployment event/right censoring, modeled by Cox proportional hazard; ratios reported. Not an ordinary binary dependent probability; zero-duration mass unestablished."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J995",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M995",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N995",
+    "before": null,
+    "after": "Recent misconduct → reemployment hazard/duration out of industry; Cox proportional hazards equation (7), Table 10 all/complete spells. Figure 6 empirical survival paths are separately reported, not the Cox estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O995",
+    "before": null,
+    "after": "Nonlinear survival estimation. Introduction p.236 explicitly highlights longer gaps; retain complete-spell small/reversed effect rather than treating it as diagnostic. Hazard ratios alone do not establish a stated outcome-mean/SD/level benchmark."
+  }
+]
+```
