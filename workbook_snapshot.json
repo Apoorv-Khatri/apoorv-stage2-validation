@@ -44132,7 +44132,16 @@
     "L4349": "0",
     "M4349": "n/a",
     "N4349": "30-minute policy-news shock effect on cumulative nominal/real zero-coupon yield changes at longer post-announcement horizons, Online Appendix Table D.3 p.11.",
-    "O4349": "Outcomes cumulate from day before FOMC through days 1,5,10,20,60,125,250; Newey-West SEs with four lags. Day1 repeats baseline scope; keep horizons together at this location. Substantive persistence evidence despite imprecision; no mean/SD benchmark."
+    "O4349": "Outcomes cumulate from day before FOMC through days 1,5,10,20,60,125,250; Newey-West SEs with four lags. Day1 repeats baseline scope; keep horizons together at this location. Substantive persistence evidence despite imprecision; no mean/SD benchmark.",
+    "A4350": "E5YG2HPW",
+    "B4350": "h12",
+    "I4350": "1",
+    "J4350": "Other",
+    "K4350": "0",
+    "L4350": "1",
+    "M4350": "n/a",
+    "N4350": "Estimated-model comparison of unexpected monetary shock with information versus similarly sized systematic policy-rate change without information; Figure IX pp.1320-21.",
+    "O4350": "Causal structural policy counterfactual, not prediction. Continuous interest-rate change in both cases; information-model regimes are not a randomized binary treatment. Figure IX retains same estimated structural parameters. Effect-to-effect contrast is not an outcome mean/SD benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -113872,7 +113881,11 @@
     "A10200": "E5YG2HPW",
     "B10200": "h11",
     "C10200": "hy42",
-    "K10200": "Cumulative change from day before FOMC through trading day 250 in 5-year real zero-coupon yield; Table D.3, percentage points."
+    "K10200": "Cumulative change from day before FOMC through trading day 250 in 5-year real zero-coupon yield; Table D.3, percentage points.",
+    "A10201": "E5YG2HPW",
+    "B10201": "h12",
+    "C10201": "hy1",
+    "K10201": "Model-implied expected output-growth response path with versus without the information effect; Figure IX (quarterly horizon)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

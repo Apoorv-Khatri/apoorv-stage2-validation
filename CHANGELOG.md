@@ -929934,3 +929934,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T15:01:14.526575+00:00 — Review E5YG2HPW h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10201",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10201",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10201",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10201",
+    "before": null,
+    "after": "Model-implied expected output-growth response path with versus without the information effect; Figure IX (quarterly horizon)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4350",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4350",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4350",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4350",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4350",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4350",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4350",
+    "before": null,
+    "after": "Estimated-model comparison of unexpected monetary shock with information versus similarly sized systematic policy-rate change without information; Figure IX pp.1320-21."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4350",
+    "before": null,
+    "after": "Causal structural policy counterfactual, not prediction. Continuous interest-rate change in both cases; information-model regimes are not a randomized binary treatment. Figure IX retains same estimated structural parameters. Effect-to-effect contrast is not an outcome mean/SD benchmark."
+  }
+]
+```
