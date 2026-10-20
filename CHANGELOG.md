@@ -846111,3 +846111,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:53:52.794654+00:00 — Review AG8QMNLF s2: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9352",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9352",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9352",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2434",
+    "before": null,
+    "after": "Log frequency series constructed separately for Table I variants, then fitted by equation (7). Table II is h2; implied duration separately hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9352",
+    "before": null,
+    "after": "Fitted implied price-spell duration 1/lambda in months, including zero-inflation duration; Table I p.486, separate missing/sales/substitution/aggregation variants. Reciprocal of fitted frequency, not frequency units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J975",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M975",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N975",
+    "before": null,
+    "after": "Inflation → log frequency and implied duration under missing-price, sales, substitution and aggregation variants; Table I only, p.486; appendix DA–DF gives construction. Excludes repeated pooled aggregate baseline already in s1. Table II moved to h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O975",
+    "before": null,
+    "after": "All variants fit estimated-threshold equation (7); upstream pooled/MLE/median construction is not a separate identifying method. Routine variants remain together. Measurement-rule effect discussed at p.487 separately h7. Author-intention inclusion: pp.452–453 and 469–470 connect these empirical relationships to inflation comparative statics conditional on stable idiosyncratic-shock variance and expected inflation. Observational identification, not randomized or policy DiD."
+  }
+]
+```
