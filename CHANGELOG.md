@@ -1014072,3 +1014072,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:53:06.598220+00:00 — Review F3IAL93B h65: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10365",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10365",
+    "before": null,
+    "after": "h65"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10365",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10365",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10365",
+    "before": null,
+    "after": "Figure B18A: Property compliance indicator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4416",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4416",
+    "before": null,
+    "after": "h65"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4416",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4416",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4416",
+    "before": null,
+    "after": "Cited NBER Appendix B Figure B18A: randomized collector-pair assignment effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4416",
+    "before": null,
+    "after": "No fabricated collector-by-estimate numeric grid; graph scopes and actual estimators retained. Final article Section 7.2 confirms these implementations."
+  }
+]
+```

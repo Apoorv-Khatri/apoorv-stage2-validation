@@ -44768,7 +44768,16 @@
     "L4415": "0",
     "M4415": "n/a",
     "N4415": "Cited NBER Appendix B Figure B14: empirical-Bayes collector compliance capacity and RMTR estimates.",
-    "O4415": "No fabricated collector-by-estimate numeric grid; graph scopes and actual estimators retained. Final article Section 7.2 confirms these implementations."
+    "O4415": "No fabricated collector-by-estimate numeric grid; graph scopes and actual estimators retained. Final article Section 7.2 confirms these implementations.",
+    "A4416": "F3IAL93B",
+    "B4416": "h65",
+    "I4416": "1",
+    "J4416": "RCT",
+    "K4416": "0",
+    "L4416": "0",
+    "M4416": "n/a",
+    "N4416": "Cited NBER Appendix B Figure B18A: randomized collector-pair assignment effects.",
+    "O4416": "No fabricated collector-by-estimate numeric grid; graph scopes and actual estimators retained. Final article Section 7.2 confirms these implementations."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115674,7 +115683,14 @@
     "H10364": "0",
     "I10364": "unknown",
     "J10364": "other",
-    "K10364": "Figure B14: EB collector RMTR."
+    "K10364": "Figure B14: EB collector RMTR.",
+    "A10365": "F3IAL93B",
+    "B10365": "h65",
+    "C10365": "hy1",
+    "H10365": "1",
+    "I10365": "1",
+    "J10365": "none",
+    "K10365": "Figure B18A: Property compliance indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
