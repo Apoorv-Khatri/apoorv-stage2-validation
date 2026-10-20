@@ -1027101,3 +1027101,306 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:55:35.719156+00:00 — Review F3IAL93B h68: source-audited coding and linked comparisons
+
+49 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9406",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9407",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9408",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9406",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9407",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9408",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9406",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9407",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9408",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9406",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9408",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9406",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9407",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9408",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9406",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9407",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9408",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9406",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9406",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9406",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9407",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9408",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9406",
+    "before": null,
+    "after": "Final supplement Figure A9: Rate optimization under control-message enforcement; benchmark: baseline status-quo-rate revenue on control-message curve."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9407",
+    "before": null,
+    "after": "Final supplement Figure A9: Enforcement improvement at low-enforcement optimal rate; benchmark: revenue at low-enforcement optimum on control-message curve."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9408",
+    "before": null,
+    "after": "Final supplement Figure A9: Joint enforcement improvement and rate optimization; benchmark: baseline status-quo-rate revenue on control-message curve."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9406",
+    "before": null,
+    "after": "Qualitative graphical pairing of the actual displayed policy endpoints, not digitized CF levels. Printed rate-label conflict retained; construction-only alternative requires adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9407",
+    "before": null,
+    "after": "Qualitative graphical pairing of the actual displayed policy endpoints, not digitized CF levels. Printed rate-label conflict retained; construction-only alternative requires adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9408",
+    "before": null,
+    "after": "Qualitative graphical pairing of the actual displayed policy endpoints, not digitized CF levels. Printed rate-label conflict retained; construction-only alternative requires adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10369",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10369",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10369",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10369",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10369",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10369",
+    "before": null,
+    "after": "Predicted tax revenue per property in CF as rate/enforcement policies change."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4419",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4419",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4419",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4419",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4419",
+    "before": null,
+    "after": "Final supplement Figure A9: predicted revenue under tax-rate choices in active-control versus pooled-enforcement message regimes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4419",
+    "before": null,
+    "after": "Policy counterfactual optimization using experimental compliance schedules, not pure prediction. Printed 67%/77% x labels conflict with A15 control .554 and enforcement .779; do not silently reconcile."
+  }
+]
+```
