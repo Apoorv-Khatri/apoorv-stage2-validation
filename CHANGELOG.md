@@ -981702,3 +981702,588 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T16:54:55.525122+00:00 — Review F3IAL93B h35: source-audited coding and linked comparisons
+
+96 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8783",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8784",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8785",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8786",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8787",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8788",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8783",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8784",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8785",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8786",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8787",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8788",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8783",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8784",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8785",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8786",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8787",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8788",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8783",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8784",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8785",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8786",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8787",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8788",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8783",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8784",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8785",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8786",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8787",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8788",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8783",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8784",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8785",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8786",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8787",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8788",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8783",
+    "before": null,
+    "after": "Final supplement Table A14 col 1: Local message coefficient 0.019; benchmark: table Mean 0.478. Author-linked Appendix_TableA14.do computes the Mean within e(sample) and control_flier==1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8784",
+    "before": null,
+    "after": "Final supplement Table A14 col 7: Local message coefficient -0.027; benchmark: table Mean 0.434. Author-linked Appendix_TableA14.do computes the Mean within e(sample) and control_flier==1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8785",
+    "before": null,
+    "after": "Final supplement Table A14 col 2: Local message coefficient 0.022; benchmark: table Mean 0.478. Author-linked Appendix_TableA14.do computes the Mean within e(sample) and control_flier==1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8786",
+    "before": null,
+    "after": "Final supplement Table A14 col 8: Local message coefficient 0.003; benchmark: table Mean 0.434. Author-linked Appendix_TableA14.do computes the Mean within e(sample) and control_flier==1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8787",
+    "before": null,
+    "after": "Final Table A14 col 4: perceived-state-capacity coefficient 0.001; reported Mean 0.492, N=193. Author-linked Appendix_TableA14.do lines 35-47 uses endline statecapacity1_survey_e and computes Mean among control_flier==1 within e(sample). Published baseline label preserved as conflict; no reestimated coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8788",
+    "before": null,
+    "after": "Final Table A14 col 5: perceived-state-capacity coefficient -0.052; reported Mean 0.492, N=193. Author-linked Appendix_TableA14.do lines 35-47 uses endline statecapacity1_survey_e and computes Mean among control_flier==1 within e(sample). Published baseline label preserved as conflict; no reestimated coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8783",
+    "before": null,
+    "after": "Mean is active-control observed survey-sample mean according to code; target/attrition alignment remains unverified (unknown). Code restricts house==1 and does not include i.house, contrary to printed property-band FE marks; numerical reproduction not performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8784",
+    "before": null,
+    "after": "Mean is active-control observed survey-sample mean according to code; target/attrition alignment remains unverified (unknown). Code restricts house==1 and does not include i.house, contrary to printed property-band FE marks; numerical reproduction not performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8785",
+    "before": null,
+    "after": "Mean is active-control observed survey-sample mean according to code; target/attrition alignment remains unverified (unknown). Code restricts house==1 and does not include i.house, contrary to printed property-band FE marks; numerical reproduction not performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8786",
+    "before": null,
+    "after": "Mean is active-control observed survey-sample mean according to code; target/attrition alignment remains unverified (unknown). Code restricts house==1 and does not include i.house, contrary to printed property-band FE marks; numerical reproduction not performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8787",
+    "before": null,
+    "after": "Benchmark is active-control observed endline-sample mean, not an unidentified overall mean. Survey selection/attrition and target alignment are not established here; retain unknown. Endline coding is source-provenance resolution, not empirical replication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8788",
+    "before": null,
+    "after": "Benchmark is active-control observed endline-sample mean, not an unidentified overall mean. Survey selection/attrition and target alignment are not established here; retain unknown. Endline coding is source-provenance resolution, not empirical replication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10308",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10309",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10310",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10308",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10309",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10310",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10308",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10309",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10310",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10308",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10309",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10310",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10308",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10309",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10310",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10308",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10309",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10310",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10308",
+    "before": null,
+    "after": "Indicator sanctions likely/very likely, midline (Table A14 cols 1-3)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10309",
+    "before": null,
+    "after": "Number of post-registration collector visits, Table A14 cols 7-9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10310",
+    "before": null,
+    "after": "Indicator provincial government could repair badly weather-damaged main roads within three months; Table A14 cols 4-6. Endline variable statecapacity1_survey_e in author-linked replication code/data; printed final caption/sample incorrectly or inconsistently say baseline. Both 0 and 1 occur in endline source data; exact regression sample not executed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4386",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4386",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4386",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4386",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4386",
+    "before": null,
+    "after": "Final supplement Table A14: local enforcement message versus active control on perceived sanctions, perceived state capacity (road-repair indicator), and number of visits."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4386",
+    "before": null,
+    "after": "Randomized message assignment; RCT precedence. A14 caption/sample say baseline for cols 4-6, but author-linked Zenodo 10593883 Appendix_TableA14.do lines 35-47 regress statecapacity1_survey_e, present in endline_survey.dta and absent from baseline_survey.dta; merge provenance confirms endline origin. Code supports endline implementation, not verified numerical reproduction. Preserve published caption conflict and code house==1 restriction/absence of i.house versus printed property-band FE. Endline observed-sample target/attrition alignment remains unverified."
+  }
+]
+```
