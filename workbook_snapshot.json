@@ -42176,7 +42176,16 @@
     "L4167": "0",
     "M4167": "n/a",
     "N4167": "Business tax liability pass-through sample robustness (single-owner and excluding top 0.1%) Location: Figures A.7 C/A.8 A-B; Table A.9 relevant columns",
-    "O4167": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4167": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4168": "A8LFPXLL",
+    "B4168": "h42",
+    "I4168": "1",
+    "J4168": "IV",
+    "K4168": "0",
+    "L4168": "0",
+    "M4168": "single binary",
+    "N4168": "Business tax liability pass-through sample robustness (single-owner and excluding top 0.1%) Location: Figures A.7 C/A.8 A-B; Table A.9 relevant columns",
+    "O4168": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106210,7 +106219,11 @@
     "A9333": "A8LFPXLL",
     "B9333": "h41",
     "C9333": "hy1",
-    "K9333": "Change in average employee earnings in dollars; IV only Table A.9, A.8 C first stage excluded."
+    "K9333": "Change in average employee earnings in dollars; IV only Table A.9, A.8 C first stage excluded.",
+    "A9334": "A8LFPXLL",
+    "B9334": "h42",
+    "C9334": "hy1",
+    "K9334": "Change in total wage bill in dollars; IV only Table A.9, A.8 C first stage excluded."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
