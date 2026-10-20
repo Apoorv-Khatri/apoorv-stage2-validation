@@ -844740,3 +844740,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:51:05.522074+00:00 — Review A8LFPXLL h47: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9339",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9339",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9339",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9339",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9339",
+    "before": null,
+    "after": "Log average earnings of workers at baseline-unexposed firms in high versus low exposure commuting zones."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4173",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4173",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4173",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4173",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4173",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4173",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4173",
+    "before": null,
+    "after": "Local-area exposure spillovers to unexposed firms: high versus low exposed-firm share commuting zones Location: Figure A.10, main pp.682-683"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4173",
+    "before": null,
+    "after": "Substantive general-equilibrium null, not diagnostic placebo: high versus low CZ share contrast, top/bottom quartiles and quintiles grouped routine threshold variants. Binary implemented contrast despite underlying continuous share."
+  }
+]
+```

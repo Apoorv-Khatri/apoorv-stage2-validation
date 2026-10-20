@@ -42221,7 +42221,16 @@
     "L4172": "0",
     "M4172": "n/a",
     "N4172": "Predicted average business tax rate: single-owner and excluding top 0.1% samples Location: Table A.9 epsilon_ATR ITT",
-    "O4172": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4172": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4173": "A8LFPXLL",
+    "B4173": "h47",
+    "I4173": "1",
+    "J4173": "DiD_conventional",
+    "K4173": "1",
+    "L4173": "0",
+    "M4173": "n/a",
+    "N4173": "Local-area exposure spillovers to unexposed firms: high versus low exposed-firm share commuting zones Location: Figure A.10, main pp.682-683",
+    "O4173": "Substantive general-equilibrium null, not diagnostic placebo: high versus low CZ share contrast, top/bottom quartiles and quintiles grouped routine threshold variants. Binary implemented contrast despite underlying continuous share."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106275,7 +106284,14 @@
     "A9338": "A8LFPXLL",
     "B9338": "h46",
     "C9338": "hy1",
-    "K9338": "Log average employee earnings; elasticity with respect to predicted ATR under single-owner and excluding top 0.1% samples."
+    "K9338": "Log average employee earnings; elasticity with respect to predicted ATR under single-owner and excluding top 0.1% samples.",
+    "A9339": "A8LFPXLL",
+    "B9339": "h47",
+    "C9339": "hy1",
+    "H9339": "0",
+    "I9339": "0",
+    "J9339": "log",
+    "K9339": "Log average earnings of workers at baseline-unexposed firms in high versus low exposure commuting zones."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
