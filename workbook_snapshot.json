@@ -42351,7 +42351,16 @@
     "L4181": "1",
     "M4181": "n/a",
     "N4181": "Inflation relative to zero → aggregate output lost from inefficient relative-price dispersion, equation (8), Figure X right axis and IV.F.1 pp.500–502; cost(pi)=eta/2 [sigma(pi)^2−sigma(0)^2], eta=6.",
-    "O4181": "Nonlinear square of fitted SD and difference from zero-inflation fitted SD; actual reported calculation, not just a theoretical proposition. Excludes direct menu costs. Output baseline is stated as GDP/output, not an observed untreated-complier mean."
+    "O4181": "Nonlinear square of fitted SD and difference from zero-inflation fitted SD; actual reported calculation, not just a theoretical proposition. Excludes direct menu costs. Output baseline is stated as GDP/output, not an observed untreated-complier mean.",
+    "A4182": "AG8QMNLF",
+    "B4182": "h2",
+    "I4182": "1",
+    "J4182": "Other",
+    "K4182": "0",
+    "L4182": "0",
+    "M4182": "n/a",
+    "N4182": "Industry-specific inflation → log price-change frequency and fitted implied duration; Table II p.488 and six-digit extension footnote24.",
+    "O4182": "Separate result location from Table I; estimated-threshold NLLS for each five-digit industry. Table summarizes fitted-parameter distribution; its coefficient means/SDs are not outcome benchmarks. Six-digit qualitative extension is routine aggregation sensitivity, not an invented coefficient grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106487,7 +106496,15 @@
     "A9354": "AG8QMNLF",
     "B9354": "h1",
     "C9354": "hy1",
-    "K9354": "Aggregate output loss per period due to additional relative-price dispersion, fraction or percent of aggregate output/GDP; 0.6%,1.5%,8.5% at annual continuously compounded inflation50%,100%,500%."
+    "K9354": "Aggregate output loss per period due to additional relative-price dispersion, fraction or percent of aggregate output/GDP; 0.6%,1.5%,8.5% at annual continuously compounded inflation50%,100%,500%.",
+    "A9355": "AG8QMNLF",
+    "B9355": "h2",
+    "C9355": "hy1",
+    "K9355": "Log industry price-change frequency lambda, equation(7) fitted by five-digit industry; six-digit qualitative robustness footnote24.",
+    "A9356": "AG8QMNLF",
+    "B9356": "h2",
+    "C9356": "hy2",
+    "K9356": "Fitted implied duration1/lambda in months at zero inflation by industry; Table II duration column (distribution of fitted durations)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

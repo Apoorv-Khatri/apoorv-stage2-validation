@@ -847428,3 +847428,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:57:13.008076+00:00 — Review AG8QMNLF h2: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9355",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9356",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9355",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9356",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9355",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9356",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9355",
+    "before": null,
+    "after": "Log industry price-change frequency lambda, equation(7) fitted by five-digit industry; six-digit qualitative robustness footnote24."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9356",
+    "before": null,
+    "after": "Fitted implied duration1/lambda in months at zero inflation by industry; Table II duration column (distribution of fitted durations)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4182",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4182",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4182",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4182",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4182",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4182",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4182",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4182",
+    "before": null,
+    "after": "Industry-specific inflation → log price-change frequency and fitted implied duration; Table II p.488 and six-digit extension footnote24."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4182",
+    "before": null,
+    "after": "Separate result location from Table I; estimated-threshold NLLS for each five-digit industry. Table summarizes fitted-parameter distribution; its coefficient means/SDs are not outcome benchmarks. Six-digit qualitative extension is routine aggregation sensitivity, not an invented coefficient grid."
+  }
+]
+```
