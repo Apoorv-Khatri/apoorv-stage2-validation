@@ -846192,3 +846192,450 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:54:19.191079+00:00 — Review AG8QMNLF s3: source-audited coding and linked comparisons
+
+73 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7555",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7556",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7557",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7558",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7559",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7560",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7555",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7556",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7557",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7558",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7559",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7560",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7555",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7556",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7557",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7558",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7559",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7560",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7555",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7556",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7557",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7558",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7559",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7560",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7555",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7556",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7557",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7558",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7559",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7560",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7555",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7556",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7557",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7558",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7560",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7555",
+    "before": null,
+    "after": "Table III p.489 and p.492: homogeneous-goods 90–10 duration gap 0.6months for annual inflation>=500%, versus14.0months below10%; authors say about23 times smaller. Prose calls this a gap in lambda, whereas table title and units are duration1/lambda. Preserve conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7556",
+    "before": null,
+    "after": "Table III p.489 and IV.D p.492: homogeneous-goods median of implied duration (months), 0.2 at annual inflation>=500% versus 6.3 at below10%. Deliberate low/high endpoint pairing within the same outcome column. No author-reported difference or ratio assigned to this pair."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7557",
+    "before": null,
+    "after": "Table III p.489 and IV.D p.492: homogeneous-goods 75–25 percentile gap of implied duration (months), 0.3 at annual inflation>=500% versus 6.4 at below10%. Deliberate low/high endpoint pairing within the same outcome column. No author-reported difference or ratio assigned to this pair."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7558",
+    "before": null,
+    "after": "Table III p.489 and IV.D p.492: differentiated-goods median of implied duration (months), 0.3 at annual inflation>=500% versus 9.9 at [0,10]%. Deliberate low/high endpoint pairing within the same outcome column. No author-reported difference or ratio assigned to this pair."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7559",
+    "before": null,
+    "after": "Table III p.489 and IV.D p.492: differentiated-goods 75–25 percentile gap of implied duration (months), 0.2 at annual inflation>=500% versus 12.0 at [0,10]%. Deliberate low/high endpoint pairing within the same outcome column. No author-reported difference or ratio assigned to this pair."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7560",
+    "before": null,
+    "after": "Table III p.489 and IV.D p.492: differentiated-goods 90–10 percentile gap of implied duration (months), 0.4 at annual inflation>=500% versus 27.0 at [0,10]%. Deliberate low/high endpoint pairing within the same outcome column. No author-reported difference or ratio assigned to this pair."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7555",
+    "before": null,
+    "after": "This is a comparison of the same percentile-gap outcome across inflation environments, not an outcome-SD benchmark. Do not manufacture remaining table-bin comparisons."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7556",
+    "before": null,
+    "after": "Same endpoint-level policy as Figure X; no intermediate-bin cross-product. General prose about declining dispersion does not explicitly verbalize this exact endpoint pair. Median/gap level is other_level, not a sample outcome mean. Table duration units govern; p.492 calls percentile gaps lambda, a preserved source conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7557",
+    "before": null,
+    "after": "Same endpoint-level policy as Figure X; no intermediate-bin cross-product. General prose about declining dispersion does not explicitly verbalize this exact endpoint pair. Median/gap level is other_level, not a sample outcome mean. Table duration units govern; p.492 calls percentile gaps lambda, a preserved source conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7558",
+    "before": null,
+    "after": "Same endpoint-level policy as Figure X; no intermediate-bin cross-product. General prose about declining dispersion does not explicitly verbalize this exact endpoint pair. Median/gap level is other_level, not a sample outcome mean. Table duration units govern; p.492 calls percentile gaps lambda, a preserved source conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7559",
+    "before": null,
+    "after": "Same endpoint-level policy as Figure X; no intermediate-bin cross-product. General prose about declining dispersion does not explicitly verbalize this exact endpoint pair. Median/gap level is other_level, not a sample outcome mean. Table duration units govern; p.492 calls percentile gaps lambda, a preserved source conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7560",
+    "before": null,
+    "after": "Same endpoint-level policy as Figure X; no intermediate-bin cross-product. General prose about declining dispersion does not explicitly verbalize this exact endpoint pair. Median/gap level is other_level, not a sample outcome mean. Table duration units govern; p.492 calls percentile gaps lambda, a preserved source conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J976",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M976",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N976",
+    "before": null,
+    "after": "Inflation bins → cross-industry distribution of implied duration in months: median, 75–25 gap, 90–10 gap; Table III p.489 and IV.D p.492."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O976",
+    "before": null,
+    "after": "Empirical quantiles and percentile gaps are nonlinear in underlying industry durations, not OLS mean differences. Inflation is ordered nonbinary exposure. Prose calls gaps gaps in lambda but table explicitly reports inverse-frequency duration; preserve conflict. Author-intention inclusion: pp.452–453 and 469–470 connect these empirical relationships to inflation comparative statics conditional on stable idiosyncratic-shock variance and expected inflation. Observational identification, not randomized or policy DiD."
+  }
+]
+```
