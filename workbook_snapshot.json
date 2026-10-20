@@ -43922,7 +43922,16 @@
     "L4331": "0",
     "M4331": "n/a",
     "N4331": "T1 pooled private assignment versus control, biweekly emission-concentration dynamics. Figure A4 p.5; main fn25 p.835.",
-    "O4331": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
+    "O4331": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation.",
+    "A4332": "DUE9RA4X",
+    "B4332": "h56",
+    "I4332": "1",
+    "J4332": "RCT",
+    "K4332": "1",
+    "L4332": "0",
+    "M4332": "n/a",
+    "N4332": "T2 public assignment versus control, biweekly SO2/COD concentration dynamics; both public displays in Figure A4 p.5, main fn25 p.835, consolidated at one result location.",
+    "O4332": "Both displays use T2 versus control and the same outcomes, timing and linear randomized design. Pooling versus disaggregating nuisance private-arm controls is not a separate method/treatment/estimand. Exact numerical path identity is not claimed; retain both displays under this setting without a duplicate outcome pair."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -112609,7 +112618,21 @@
     "H9969": "0",
     "I9969": "unknown",
     "J9969": "none",
-    "K9969": "COD daily pipe emission concentration, mg/L; biweekly assignment interactions."
+    "K9969": "COD daily pipe emission concentration, mg/L; biweekly assignment interactions.",
+    "A9970": "DUE9RA4X",
+    "B9970": "h56",
+    "C9970": "hy1",
+    "H9970": "0",
+    "I9970": "unknown",
+    "J9970": "none",
+    "K9970": "SO2 daily pipe emission concentration, mg/m3; biweekly assignment interactions.",
+    "A9971": "DUE9RA4X",
+    "B9971": "h56",
+    "C9971": "hy2",
+    "H9971": "0",
+    "I9971": "unknown",
+    "J9971": "none",
+    "K9971": "COD daily pipe emission concentration, mg/L; biweekly assignment interactions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
