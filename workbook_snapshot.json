@@ -42641,7 +42641,16 @@
     "L4207": "0",
     "M4207": "n/a",
     "N4207": "Market-wide advertising-stock ban in control-function re-estimation: endogenous product-price reduction, pp.431–432. Separate equilibrium-response estimand from fixed-price nutrients.",
-    "O4207": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments."
+    "O4207": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments.",
+    "A4208": "CPRH287R",
+    "B4208": "h16",
+    "I4208": "1",
+    "J4208": "Other",
+    "K4208": "1",
+    "L4208": "0",
+    "M4208": "n/a",
+    "N4208": "Previous-week food-at-home potato-chip purchase indicator: effect on food-on-the-go potato-chip demand, Section 4.2.1 p.415 and referenced Appendix B. Explicit implemented substantively interpreted null, nonlinear choice model.",
+    "O4208": "Binary prior household purchase enters inside-good utility for on-the-go individuals. Author-linked Appendix B pp.8 and D.3–D.4 give implementation and demographic utility coefficients; p.415 aggregate market-demand impact remains a substantive near-zero result. Subgroup utility coefficients are not the aggregate demand effect. No randomization or empirical replication."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -107785,7 +107794,14 @@
     "H9486": "0",
     "I9486": "unknown",
     "J9486": "unknown",
-    "K9486": "Product price after firms respond to the advertising ban; pp.431–432 report firms lower prices. Exact product aggregation and reported scale unresolved; no numerical effect/benchmark or unseen product grid."
+    "K9486": "Product price after firms respond to the advertising ban; pp.431–432 report firms lower prices. Exact product aggregation and reported scale unresolved; no numerical effect/benchmark or unseen product grid.",
+    "A9487": "CPRH287R",
+    "B9487": "h16",
+    "C9487": "hy1",
+    "H9487": "0",
+    "I9487": "unknown",
+    "J9487": "unknown",
+    "K9487": "Food-on-the-go potato-chip market demand; p.415 reports effectively zero impact of prior-week food-at-home purchase. Scale/aggregation not explicitly reported for this result."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

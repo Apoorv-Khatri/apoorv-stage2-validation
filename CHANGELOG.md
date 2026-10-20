@@ -863754,3 +863754,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T10:47:14.942545+00:00 — Review CPRH287R h16: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9487",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9487",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9487",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9487",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9487",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9487",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9487",
+    "before": null,
+    "after": "Food-on-the-go potato-chip market demand; p.415 reports effectively zero impact of prior-week food-at-home purchase. Scale/aggregation not explicitly reported for this result."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4208",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4208",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4208",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4208",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4208",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4208",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4208",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4208",
+    "before": null,
+    "after": "Previous-week food-at-home potato-chip purchase indicator: effect on food-on-the-go potato-chip demand, Section 4.2.1 p.415 and referenced Appendix B. Explicit implemented substantively interpreted null, nonlinear choice model."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4208",
+    "before": null,
+    "after": "Binary prior household purchase enters inside-good utility for on-the-go individuals. Author-linked Appendix B pp.8 and D.3–D.4 give implementation and demographic utility coefficients; p.415 aggregate market-demand impact remains a substantive near-zero result. Subgroup utility coefficients are not the aggregate demand effect. No randomization or empirical replication."
+  }
+]
+```
