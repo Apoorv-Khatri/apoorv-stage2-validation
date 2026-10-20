@@ -980058,3 +980058,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T16:52:27.860994+00:00 — Review F3IAL93B h31: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8767",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8768",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8767",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8768",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8767",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8768",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8767",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8768",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8767",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8768",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8767",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8768",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8767",
+    "before": null,
+    "after": "Final supplement Table A11 col 4: selected treated-payer contrast 0.078; benchmark: all 2016 controls mean 0.142."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8768",
+    "before": null,
+    "after": "Final supplement Table A11 col 5: selected treated-payer contrast 0.134; benchmark: all 2016 controls mean 0.142."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8767",
+    "before": null,
+    "after": "Not established untreated outcome mean for selected treated payers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8768",
+    "before": null,
+    "after": "Not established untreated outcome mean for selected treated payers."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10300",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10300",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10300",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10300",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10300",
+    "before": null,
+    "after": "Accurately reported status quo tax rate indicator at 2017 baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4382",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4382",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4382",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4382",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4382",
+    "before": null,
+    "after": "Final supplement Table A11 cols 4-5: 2016 tax-compliant households in assigned campaign neighborhoods versus all control households, self-reported versus administrative payer selection."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4382",
+    "before": null,
+    "after": "Selected treated-payer contrast, not ITT nor instrumented receipt. Author interprets exposure as affecting knowledge; selection undermines identification but does not erase author intention. Nuisance strata indicators not an identifying-FE battery. A11 title/caption explicitly calls this an assignment treatment effect and final p.1178 links cols3-5 to future-rate beliefs. Retain causal intention; selection on prior payment is not direct randomized ITT. Untreated mean for selected payers remains unknown."
+  }
+]
+```
