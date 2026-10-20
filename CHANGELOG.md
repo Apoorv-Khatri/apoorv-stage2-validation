@@ -885249,3 +885249,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:20:11.748668+00:00 — Review DRDWCKUF h7: source-audited coding and linked comparisons
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7744",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7744",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7744",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7744",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7744",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7744",
+    "before": null,
+    "after": "p.280, Table 15 col.3: 10 pp higher college share decreases annual misconduct by 0.19 pp, compared with overall annual adviser misconduct mean 0.6%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7744",
+    "before": null,
+    "after": "County-weighted target 2010–13 (>50 advisers) differs from overall adviser-year baseline."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9826",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9827",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9826",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9827",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9826",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9827",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9826",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9827",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9826",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9827",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9826",
+    "before": null,
+    "after": "County stock misconduct percentage: advisers with a past or current record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9827",
+    "before": null,
+    "after": "County annual new misconduct percentage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4247",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4247",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4247",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4247",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4247",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4247",
+    "before": null,
+    "after": "college-educated share → county stock and annual flow of misconduct; Table 15 cols.1,3, equation (12); weighted by square root adviser count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4247",
+    "before": null,
+    "after": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication."
+  }
+]
+```
