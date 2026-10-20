@@ -879672,3 +879672,2340 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T11:01:57.386256+00:00 — Review CPRH287R h52: source-audited coding and linked comparisons
+
+388 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7703",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7704",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7705",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7706",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7707",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7708",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7709",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7710",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7711",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7712",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7713",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7714",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7715",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7716",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7717",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7718",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7719",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7720",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7721",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7722",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7723",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7703",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7704",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7705",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7706",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7707",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7708",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7709",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7710",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7711",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7712",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7713",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7714",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7715",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7716",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7717",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7718",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7719",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7720",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7721",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7722",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7723",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7703",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7704",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7705",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7706",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7707",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7708",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7709",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7710",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7711",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7712",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7713",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7714",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7715",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7716",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7717",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7718",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7719",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7720",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7721",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7722",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7723",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7703",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7704",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7705",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7706",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7708",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7703",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7704",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7705",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7706",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7707",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7708",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7709",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7710",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7711",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7712",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7713",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7714",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7715",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7716",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7717",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7718",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7719",
+    "before": null,
+    "after": "hy17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7720",
+    "before": null,
+    "after": "hy18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7721",
+    "before": null,
+    "after": "hy19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7722",
+    "before": null,
+    "after": "hy20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7723",
+    "before": null,
+    "after": "hy21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7703",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7704",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7705",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7706",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7707",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7708",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7709",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7710",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7711",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7712",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7713",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7714",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7715",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7716",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7717",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7718",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7719",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7720",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7721",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7722",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7723",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7703",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7705",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7707",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7708",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7711",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7712",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7713",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7714",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7715",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7716",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7718",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7719",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7721",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7722",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7723",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7703",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7704",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7705",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7706",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7708",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7703",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7704",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7705",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7706",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7707",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7708",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7709",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7703",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Walkers price: -6.09% versus own pre-ban 1.76 £ per pack (firm weighted mean). Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7704",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Pringles price: -3.99% versus own pre-ban 1.85 £ per pack (firm weighted mean). Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7705",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, KP price: -1.90% versus own pre-ban 1.33 £ per pack (firm weighted mean). Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7706",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Golden Wonder price: 3.13% versus own pre-ban 1.47 £ per pack (firm weighted mean). Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7707",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Asda price: 1.76% versus own pre-ban 1.40 £ per pack (firm weighted mean). Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7708",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Tesco price: 1.62% versus own pre-ban 1.27 £ per pack (firm weighted mean). Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7709",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Other price: -6.35% versus own pre-ban 1.51 £ per pack (firm weighted mean). Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7710",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Walkers quantity: -3.54% versus own pre-ban 7.01 million kg per month. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7711",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Pringles quantity: -18.32% versus own pre-ban 0.85 million kg per month. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7712",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, KP quantity: -14.81% versus own pre-ban 2.74 million kg per month. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7713",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Golden Wonder quantity: -24.71% versus own pre-ban 0.27 million kg per month. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7714",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Asda quantity: -20.00% versus own pre-ban 0.42 million kg per month. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7715",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Tesco quantity: -22.05% versus own pre-ban 0.81 million kg per month. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7716",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Other quantity: -11.45% versus own pre-ban 2.70 million kg per month. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7717",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Walkers profits: -10.90% versus own pre-ban 26.94 £ million per month, net of pre-ban advertising expenditure. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7718",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Pringles profits: -14.19% versus own pre-ban 2.12 £ million per month, net of pre-ban advertising expenditure. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7719",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, KP profits: -18.27% versus own pre-ban 7.22 £ million per month, net of pre-ban advertising expenditure. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7720",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Golden Wonder profits: -24.41% versus own pre-ban 0.65 £ million per month, net of pre-ban advertising expenditure. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7721",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Asda profits: -19.08% versus own pre-ban 0.92 £ million per month, net of pre-ban advertising expenditure. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7722",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Tesco profits: -21.54% versus own pre-ban 1.77 £ million per month, net of pre-ban advertising expenditure. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7723",
+    "before": null,
+    "after": "Author-linked Appendix Table D.7 p.19, response panel, Other profits: -18.60% versus own pre-ban 8.01 £ million per month, net of pre-ban advertising expenditure. Mean across markets; percent normalization explicitly printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7703",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. Price weights change by segment/quantity; MainResults.do lines240,378,404–405 combine unweighted within-segment prices with endogenous segment weights, unlike a simple fixed-weight price index. Untreated-target alignment unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7704",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. Price weights change by segment/quantity; MainResults.do lines240,378,404–405 combine unweighted within-segment prices with endogenous segment weights, unlike a simple fixed-weight price index. Untreated-target alignment unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7705",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. Price weights change by segment/quantity; MainResults.do lines240,378,404–405 combine unweighted within-segment prices with endogenous segment weights, unlike a simple fixed-weight price index. Untreated-target alignment unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7706",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. Price weights change by segment/quantity; MainResults.do lines240,378,404–405 combine unweighted within-segment prices with endogenous segment weights, unlike a simple fixed-weight price index. Untreated-target alignment unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7707",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. Price weights change by segment/quantity; MainResults.do lines240,378,404–405 combine unweighted within-segment prices with endogenous segment weights, unlike a simple fixed-weight price index. Untreated-target alignment unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7708",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. Price weights change by segment/quantity; MainResults.do lines240,378,404–405 combine unweighted within-segment prices with endogenous segment weights, unlike a simple fixed-weight price index. Untreated-target alignment unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7709",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. Price weights change by segment/quantity; MainResults.do lines240,378,404–405 combine unweighted within-segment prices with endogenous segment weights, unlike a simple fixed-weight price index. Untreated-target alignment unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7710",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7711",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7712",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7713",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7714",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7715",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7716",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7717",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7718",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7719",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7720",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7721",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7722",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7723",
+    "before": null,
+    "after": "Own pre-policy firm outcome, same firm/month target. MainResults.do lines411–426 normalizes within firm/month before averaging. Profit denominator includes pre-ban advertising expenditure; no ratio back-calculated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9796",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9797",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9798",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9799",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9800",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9801",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9802",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9803",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9804",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9805",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9806",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9807",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9808",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9809",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9810",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9811",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9812",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9813",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9814",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9815",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9816",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9796",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9797",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9798",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9799",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9800",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9801",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9802",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9803",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9804",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9805",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9806",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9807",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9808",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9809",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9810",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9811",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9812",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9813",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9814",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9815",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9816",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9796",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9797",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9798",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9799",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9800",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9801",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9802",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9803",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9804",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9805",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9806",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9807",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9808",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9809",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9810",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9811",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9812",
+    "before": null,
+    "after": "hy17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9813",
+    "before": null,
+    "after": "hy18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9814",
+    "before": null,
+    "after": "hy19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9815",
+    "before": null,
+    "after": "hy20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9816",
+    "before": null,
+    "after": "hy21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9796",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9797",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9798",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9799",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9800",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9801",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9802",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9803",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9804",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9805",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9806",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9807",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9808",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9809",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9810",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9811",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9812",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9813",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9814",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9815",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9816",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9796",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9797",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9798",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9799",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9800",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9801",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9802",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9803",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9804",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9805",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9806",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9807",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9808",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9809",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9810",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9811",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9812",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9813",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9814",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9815",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9816",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9796",
+    "before": null,
+    "after": "Walkers: price, £ per pack (firm weighted mean). Table D.7 response panel; author-reported -6.09% change against own pre-ban 1.76."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9797",
+    "before": null,
+    "after": "Pringles: price, £ per pack (firm weighted mean). Table D.7 response panel; author-reported -3.99% change against own pre-ban 1.85."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9798",
+    "before": null,
+    "after": "KP: price, £ per pack (firm weighted mean). Table D.7 response panel; author-reported -1.90% change against own pre-ban 1.33."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9799",
+    "before": null,
+    "after": "Golden Wonder: price, £ per pack (firm weighted mean). Table D.7 response panel; author-reported 3.13% change against own pre-ban 1.47."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9800",
+    "before": null,
+    "after": "Asda: price, £ per pack (firm weighted mean). Table D.7 response panel; author-reported 1.76% change against own pre-ban 1.40."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9801",
+    "before": null,
+    "after": "Tesco: price, £ per pack (firm weighted mean). Table D.7 response panel; author-reported 1.62% change against own pre-ban 1.27."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9802",
+    "before": null,
+    "after": "Other: price, £ per pack (firm weighted mean). Table D.7 response panel; author-reported -6.35% change against own pre-ban 1.51."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9803",
+    "before": null,
+    "after": "Walkers: quantity, million kg per month. Table D.7 response panel; author-reported -3.54% change against own pre-ban 7.01."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9804",
+    "before": null,
+    "after": "Pringles: quantity, million kg per month. Table D.7 response panel; author-reported -18.32% change against own pre-ban 0.85."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9805",
+    "before": null,
+    "after": "KP: quantity, million kg per month. Table D.7 response panel; author-reported -14.81% change against own pre-ban 2.74."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9806",
+    "before": null,
+    "after": "Golden Wonder: quantity, million kg per month. Table D.7 response panel; author-reported -24.71% change against own pre-ban 0.27."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9807",
+    "before": null,
+    "after": "Asda: quantity, million kg per month. Table D.7 response panel; author-reported -20.00% change against own pre-ban 0.42."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9808",
+    "before": null,
+    "after": "Tesco: quantity, million kg per month. Table D.7 response panel; author-reported -22.05% change against own pre-ban 0.81."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9809",
+    "before": null,
+    "after": "Other: quantity, million kg per month. Table D.7 response panel; author-reported -11.45% change against own pre-ban 2.70."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9810",
+    "before": null,
+    "after": "Walkers: profits, £ million per month, net of pre-ban advertising expenditure. Table D.7 response panel; author-reported -10.90% change against own pre-ban 26.94."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9811",
+    "before": null,
+    "after": "Pringles: profits, £ million per month, net of pre-ban advertising expenditure. Table D.7 response panel; author-reported -14.19% change against own pre-ban 2.12."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9812",
+    "before": null,
+    "after": "KP: profits, £ million per month, net of pre-ban advertising expenditure. Table D.7 response panel; author-reported -18.27% change against own pre-ban 7.22."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9813",
+    "before": null,
+    "after": "Golden Wonder: profits, £ million per month, net of pre-ban advertising expenditure. Table D.7 response panel; author-reported -24.41% change against own pre-ban 0.65."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9814",
+    "before": null,
+    "after": "Asda: profits, £ million per month, net of pre-ban advertising expenditure. Table D.7 response panel; author-reported -19.08% change against own pre-ban 0.92."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9815",
+    "before": null,
+    "after": "Tesco: profits, £ million per month, net of pre-ban advertising expenditure. Table D.7 response panel; author-reported -21.54% change against own pre-ban 1.77."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9816",
+    "before": null,
+    "after": "Other: profits, £ million per month, net of pre-ban advertising expenditure. Table D.7 response panel; author-reported -18.60% change against own pre-ban 8.01."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E112",
+    "before": null,
+    "after": "DONE — Available-source review of41-page final article plus recovered20-page AppendixA–D from actual author publication-linked replicationZIP, independently read and audited. PublisherDC1 remains403; February2017 author appendix has publication provenance but publisher-final byte identity unverified. Selected README/table-generation code inspected; commercial microdata not obtained and no empirical replication. Fixed-price versus equilibrium policy effects, unilateral brand interventions, welfare standards and actual price-demand matrix outcomes separated. Household/weekFE habit slopes retained under parameter-specific effect interpretation, no-FE association alternative held; last-versus-any-purchase definition conflict preserved. D5 actual286 matrixcells included with source-assisted header mapping explicitly documented; ordinary price elasticity interpretation alone not an outcome benchmark. D7 actual35 firm-level quantity/profit/price pairs retained; purchaser/price composition weights and alignment uncertainty preserved. All six WTP/product-price comparisons rejected for different outcomes, not mistaken denial of printed division. Table12 percentage-point changes not ratios. Main/CF minimum scopes and substantive null retained without unseen grids. Source interval anomalies, Table11 rounding and D5/D6 labels preserved. Recovering author archive supersedes prior unavailable-appendix notes only as source-scoped evidence. Remaining provenance/construction and held causal-gate boundaries explicit; not omission-free certification. Original fields IDs links preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4240",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4240",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4240",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4240",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4240",
+    "before": null,
+    "after": "Market-wide advertising-stock ban: firm-specific quantity and variable profits and weighted price, Appendix Table D.7 p.19, endogenous firm price response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4240",
+    "before": null,
+    "after": "Nonlinear random-coefficients choice demand model; reported derivative is nonlinear in observed choice indicators. Author-hosted publication appendix; no data/code execution."
+  }
+]
+```
