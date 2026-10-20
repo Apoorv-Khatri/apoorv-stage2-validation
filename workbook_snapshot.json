@@ -44543,7 +44543,16 @@
     "L4390": "0",
     "M4390": "n/a",
     "N4390": "Cited NBER Appendix B Table B10 Panel B: with/without value-band and neighborhood controls; nonlinear RMTR from compliance response schedule.",
-    "O4390": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
+    "O4390": "Ratio/root of outcome-estimated coefficients; source version explicitly identified.",
+    "A4391": "F3IAL93B",
+    "B4391": "h40",
+    "I4391": "1",
+    "J4391": "RCT",
+    "K4391": "0",
+    "L4391": "0",
+    "M4391": "n/a",
+    "N4391": "Cited NBER Appendix B Table B10 Panel A: with/without value-band and neighborhood controls; randomized rate polynomial effects on compliance (underlying schedule).",
+    "O4391": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115127,7 +115136,14 @@
     "H10318": "0",
     "I10318": "unknown",
     "J10318": "other",
-    "K10318": "RMTR as fraction of status quo; with/without value-band and neighborhood controls."
+    "K10318": "RMTR as fraction of status quo; with/without value-band and neighborhood controls.",
+    "A10319": "F3IAL93B",
+    "B10319": "h40",
+    "C10319": "hy1",
+    "H10319": "1",
+    "I10319": "1",
+    "J10319": "none",
+    "K10319": "Property tax compliance indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
