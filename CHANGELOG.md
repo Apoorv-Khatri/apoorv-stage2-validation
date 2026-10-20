@@ -882009,3 +882009,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:08:36.853967+00:00 — Review DRDWCKUF s1: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K672",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K673",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R672",
+    "before": null,
+    "after": "Predictive/descriptive parent fails author-intention gate. Literal comparison exists but is outside causal inventory."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R673",
+    "before": null,
+    "after": "Predictive/descriptive parent fails author-intention gate. Literal comparison exists but is outside causal inventory."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2476",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2476",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2476",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2476",
+    "before": null,
+    "after": "Inactive: parent excluded by author-intention gate, not an incorrect dependent-variable definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O989",
+    "before": null,
+    "after": "Section III.B pp.251–256 explicitly predicts new misconduct from past misconduct; identifying controls make prediction robust, not a claim that past misconduct causes subsequent misconduct. Figure 4B also predictive. Gate is contestable under an expansive FE-only reading; retained in held ledger, not silently causal."
+  }
+]
+```
