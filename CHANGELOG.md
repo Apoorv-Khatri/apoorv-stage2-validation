@@ -847761,3 +847761,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:58:31.970675+00:00 — Review AG8QMNLF h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9361",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9361",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9361",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9361",
+    "before": null,
+    "after": "Cross-sectional residual SD of log prices from five FE constructions in more balanced homogeneous-good sample; appendix F Figure XV/Table XIV. Units are dispersion levels, not standardized effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4185",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4185",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4185",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4185",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4185",
+    "before": null,
+    "after": "Expected inflation → residual relative-price SD in more balanced store-good sample; appendix F/Table XIV/Figure XV, final p.501 establishes implementation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4185",
+    "before": null,
+    "after": "Same downstream polynomial method as s7 on reported dispersion outcome; not five FE-method settings. Author appendix pp.37–38 (PDF84–85) reports1,613,623 prices and at least190 of212 periods, while graph says>190; retain threshold conflict and alternate-version status. No new welfare computation established for balanced sample."
+  }
+]
+```

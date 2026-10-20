@@ -42378,7 +42378,16 @@
     "L4184": "0",
     "M4184": "n/a",
     "N4184": "Inflation, measured under alternative forward-looking horizons, → log aggregate price-change frequency and fitted duration; IV.C.2(iii) p.491 and appendix DG/Table XIII. Horizon is a robustness construction, not a separately estimated horizon-treatment coefficient.",
-    "O4184": "Minimum scope established by final main. Linked author November21,2018 appendix pp.35–36 (PDF82–83) supplies n=0,0.5,1,1.5,2 and equation(7). Not verified byte-identical to final publisher supplement. Printed R² maximum claim n=1 conflicts with table n=0 .959>n=1 .953; no silent correction."
+    "O4184": "Minimum scope established by final main. Linked author November21,2018 appendix pp.35–36 (PDF82–83) supplies n=0,0.5,1,1.5,2 and equation(7). Not verified byte-identical to final publisher supplement. Printed R² maximum claim n=1 conflicts with table n=0 .959>n=1 .953; no silent correction.",
+    "A4185": "AG8QMNLF",
+    "B4185": "h5",
+    "I4185": "1",
+    "J4185": "OLS",
+    "K4185": "0",
+    "L4185": "0",
+    "M4185": "n/a",
+    "N4185": "Expected inflation → residual relative-price SD in more balanced store-good sample; appendix F/Table XIV/Figure XV, final p.501 establishes implementation.",
+    "O4185": "Same downstream polynomial method as s7 on reported dispersion outcome; not five FE-method settings. Author appendix pp.37–38 (PDF84–85) reports1,613,623 prices and at least190 of212 periods, while graph says>190; retain threshold conflict and alternate-version status. No new welfare computation established for balanced sample."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106538,7 +106547,11 @@
     "A9360": "AG8QMNLF",
     "B9360": "h4",
     "C9360": "hy2",
-    "K9360": "Fitted zero-inflation implied duration1/lambda in months; appendix Table XIII reports4.4,4.4,4.5,4.6,4.7 for n=0,0.5,1,1.5,2 in linked author version."
+    "K9360": "Fitted zero-inflation implied duration1/lambda in months; appendix Table XIII reports4.4,4.4,4.5,4.6,4.7 for n=0,0.5,1,1.5,2 in linked author version.",
+    "A9361": "AG8QMNLF",
+    "B9361": "h5",
+    "C9361": "hy1",
+    "K9361": "Cross-sectional residual SD of log prices from five FE constructions in more balanced homogeneous-good sample; appendix F Figure XV/Table XIV. Units are dispersion levels, not standardized effects."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
