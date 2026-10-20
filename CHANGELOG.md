@@ -847848,3 +847848,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:58:57.760439+00:00 — Review AG8QMNLF h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9362",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9362",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9362",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9362",
+    "before": null,
+    "after": "Log of residual price SD, alternative piecewise inflation fit analogous to Figure V, p.500 footnote35; no focal numerical coefficient reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4186",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4186",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4186",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4186",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4186",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4186",
+    "before": null,
+    "after": "Expected inflation → log residual price SD under equation(7)-type alternative fit, footnote35 p.500."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4186",
+    "before": null,
+    "after": "Final text explicitly reports implemented alternative and lower high-inflation elasticity with zero low-inflation response. Replication Dispersion/Figure_10.m lines42–134 computes piecewise fits; displayed levels quadratic distinct. Threshold implementation in supplied helper is outcome-adaptive. No numerical coefficients or welfare denominator allocated to this alternative."
+  }
+]
+```

@@ -42387,7 +42387,16 @@
     "L4185": "0",
     "M4185": "n/a",
     "N4185": "Expected inflation → residual relative-price SD in more balanced store-good sample; appendix F/Table XIV/Figure XV, final p.501 establishes implementation.",
-    "O4185": "Same downstream polynomial method as s7 on reported dispersion outcome; not five FE-method settings. Author appendix pp.37–38 (PDF84–85) reports1,613,623 prices and at least190 of212 periods, while graph says>190; retain threshold conflict and alternate-version status. No new welfare computation established for balanced sample."
+    "O4185": "Same downstream polynomial method as s7 on reported dispersion outcome; not five FE-method settings. Author appendix pp.37–38 (PDF84–85) reports1,613,623 prices and at least190 of212 periods, while graph says>190; retain threshold conflict and alternate-version status. No new welfare computation established for balanced sample.",
+    "A4186": "AG8QMNLF",
+    "B4186": "h6",
+    "I4186": "1",
+    "J4186": "Other",
+    "K4186": "0",
+    "L4186": "0",
+    "M4186": "n/a",
+    "N4186": "Expected inflation → log residual price SD under equation(7)-type alternative fit, footnote35 p.500.",
+    "O4186": "Final text explicitly reports implemented alternative and lower high-inflation elasticity with zero low-inflation response. Replication Dispersion/Figure_10.m lines42–134 computes piecewise fits; displayed levels quadratic distinct. Threshold implementation in supplied helper is outcome-adaptive. No numerical coefficients or welfare denominator allocated to this alternative."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106551,7 +106560,11 @@
     "A9361": "AG8QMNLF",
     "B9361": "h5",
     "C9361": "hy1",
-    "K9361": "Cross-sectional residual SD of log prices from five FE constructions in more balanced homogeneous-good sample; appendix F Figure XV/Table XIV. Units are dispersion levels, not standardized effects."
+    "K9361": "Cross-sectional residual SD of log prices from five FE constructions in more balanced homogeneous-good sample; appendix F Figure XV/Table XIV. Units are dispersion levels, not standardized effects.",
+    "A9362": "AG8QMNLF",
+    "B9362": "h6",
+    "C9362": "hy1",
+    "K9362": "Log of residual price SD, alternative piecewise inflation fit analogous to Figure V, p.500 footnote35; no focal numerical coefficient reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
