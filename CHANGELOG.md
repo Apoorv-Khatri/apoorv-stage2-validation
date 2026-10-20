@@ -887016,3 +887016,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:25:49.526951+00:00 — Review DRDWCKUF h16: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9842",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9842",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9842",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9842",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9842",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9842",
+    "before": null,
+    "after": "Employment separation from original advisory firm following the specified disclosure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4256",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4256",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4256",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4256",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4256",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4256",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4256",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4256",
+    "before": null,
+    "after": "Customer Dispute—Settled disclosure (reference category unverified) → employment separation, Section VI.A.2 p.283; category definitions Table 2 and Appendix pp.291–292."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4256",
+    "before": null,
+    "after": "p.283 explicitly reports separation findings for the six misconduct categories (including Award/Judgment exception) and denied/closed customer disputes. Binary occurrence contrast is suggested by Table2 definitions; exact reference group/specification remains unknown. No appendix coefficient or sample inferred."
+  }
+]
+```

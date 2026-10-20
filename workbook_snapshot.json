@@ -43146,7 +43146,16 @@
     "L4255": "0",
     "M4255": "unknown",
     "N4255": "Severe Misconduct 2 versus none → job separation and one-year reemployment; Section VI.A.1 pp.282–283.",
-    "O4255": "Definition 1: settled regulatory/civil/customer fraud/forgery, unauthorized activity, churning, unregistered securities, misrepresentation/omission, plus specified final criminal cases; definition 2 excludes misrepresentation/omission. Implemented outcomes established; final appendix estimator/column allocation unavailable. No numerical range assigned to an individual severity definition."
+    "O4255": "Definition 1: settled regulatory/civil/customer fraud/forgery, unauthorized activity, churning, unregistered securities, misrepresentation/omission, plus specified final criminal cases; definition 2 excludes misrepresentation/omission. Implemented outcomes established; final appendix estimator/column allocation unavailable. No numerical range assigned to an individual severity definition.",
+    "A4256": "DRDWCKUF",
+    "B4256": "h16",
+    "I4256": "1",
+    "J4256": "unknown",
+    "K4256": "1",
+    "L4256": "0",
+    "M4256": "unknown",
+    "N4256": "Customer Dispute—Settled disclosure (reference category unverified) → employment separation, Section VI.A.2 p.283; category definitions Table 2 and Appendix pp.291–292.",
+    "O4256": "p.283 explicitly reports separation findings for the six misconduct categories (including Award/Judgment exception) and denied/closed customer disputes. Binary occurrence contrast is suggested by Table2 definitions; exact reference group/specification remains unknown. No appendix coefficient or sample inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110825,7 +110834,14 @@
     "H9841": "1",
     "I9841": "1",
     "J9841": "none",
-    "K9841": "New industry employment within one year conditional on job separation after severe misconduct."
+    "K9841": "New industry employment within one year conditional on job separation after severe misconduct.",
+    "A9842": "DRDWCKUF",
+    "B9842": "h16",
+    "C9842": "hy1",
+    "H9842": "1",
+    "I9842": "unknown",
+    "J9842": "none",
+    "K9842": "Employment separation from original advisory firm following the specified disclosure."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
