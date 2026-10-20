@@ -43056,7 +43056,16 @@
     "L4245": "1",
     "M4245": "n/a",
     "N4245": "Binary recent misconduct → separation with firm annual misconduct-rate moderator, Table 12A cols.1–2; linear OLS interaction model.",
-    "O4245": "Routine control variants grouped; observational identification, not DiD."
+    "O4245": "Routine control variants grouped; observational identification, not DiD.",
+    "A4246": "DRDWCKUF",
+    "B4246": "h6",
+    "I4246": "1",
+    "J4246": "FE",
+    "K4246": "0",
+    "L4246": "1",
+    "M4246": "n/a",
+    "N4246": "age65+ share → county stock and annual flow of misconduct; Table 15 cols.2,4, equation (12); weighted by square root adviser count.",
+    "O4246": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110609,7 +110618,21 @@
     "H9823": "1",
     "I9823": "1",
     "J9823": "none",
-    "K9823": "Next-year separation indicator from original firm."
+    "K9823": "Next-year separation indicator from original firm.",
+    "A9824": "DRDWCKUF",
+    "B9824": "h6",
+    "C9824": "hy1",
+    "H9824": "0",
+    "I9824": "unknown",
+    "J9824": "none",
+    "K9824": "County stock misconduct percentage: advisers with a past or current record.",
+    "A9825": "DRDWCKUF",
+    "B9825": "h6",
+    "C9825": "hy2",
+    "H9825": "0",
+    "I9825": "unknown",
+    "J9825": "none",
+    "K9825": "County annual new misconduct percentage."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
