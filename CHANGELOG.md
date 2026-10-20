@@ -922041,3 +922041,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:04:44.695598+00:00 — Review DUE9RA4X h58: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9974",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9975",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9974",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9975",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9974",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9975",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9974",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9975",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9974",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9975",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9974",
+    "before": null,
+    "after": "SO2 daily pipe emission concentration, mg/m3; biweekly assignment interactions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9975",
+    "before": null,
+    "after": "COD daily pipe emission concentration, mg/L; biweekly assignment interactions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4334",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4334",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4334",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4334",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4334",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4334",
+    "before": null,
+    "after": "T1B website regulator assignment versus control, biweekly emission-concentration dynamics. Figure A4 p.5; main fn25 p.835."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4334",
+    "before": null,
+    "after": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
+  }
+]
+```
