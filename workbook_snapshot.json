@@ -42369,7 +42369,16 @@
     "L4183": "0",
     "M4183": "n/a",
     "N4183": "Inflation → frequency estimates under sampling-periodicity restrictions, Figure VII B pp.489–490, fifth-degree polynomial fits; lambda=-log(1−f) and alternative f.",
-    "O4183": "Caption establishes fixed-order polynomial on reported aggregate series, not NLLS threshold. Keep both reported frequency definitions as individual outcomes and group routine inflation-range restrictions including footnote25. Monte Carlo panelA is diagnostic, not an additional empirical setting."
+    "O4183": "Caption establishes fixed-order polynomial on reported aggregate series, not NLLS threshold. Keep both reported frequency definitions as individual outcomes and group routine inflation-range restrictions including footnote25. Monte Carlo panelA is diagnostic, not an additional empirical setting.",
+    "A4184": "AG8QMNLF",
+    "B4184": "h4",
+    "I4184": "1",
+    "J4184": "Other",
+    "K4184": "0",
+    "L4184": "0",
+    "M4184": "n/a",
+    "N4184": "Inflation, measured under alternative forward-looking horizons, → log aggregate price-change frequency and fitted duration; IV.C.2(iii) p.491 and appendix DG/Table XIII. Horizon is a robustness construction, not a separately estimated horizon-treatment coefficient.",
+    "O4184": "Minimum scope established by final main. Linked author November21,2018 appendix pp.35–36 (PDF82–83) supplies n=0,0.5,1,1.5,2 and equation(7). Not verified byte-identical to final publisher supplement. Printed R² maximum claim n=1 conflicts with table n=0 .959>n=1 .953; no silent correction."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106521,7 +106530,15 @@
     "A9358": "AG8QMNLF",
     "B9358": "h3",
     "C9358": "hy2",
-    "K9358": "Biweekly fraction f of outlets changing price, used as Sheshinski-Weiss frequency estimator, homogeneous goods; Figure VII B and footnote25 windows. Rate not binary outcome."
+    "K9358": "Biweekly fraction f of outlets changing price, used as Sheshinski-Weiss frequency estimator, homogeneous goods; Figure VII B and footnote25 windows. Rate not binary outcome.",
+    "A9359": "AG8QMNLF",
+    "B9359": "h4",
+    "C9359": "hy1",
+    "K9359": "Log aggregate frequency of price changes, equation(7) under alternative expected-inflation forward-looking factors; appendix DG/Table XIII.",
+    "A9360": "AG8QMNLF",
+    "B9360": "h4",
+    "C9360": "hy2",
+    "K9360": "Fitted zero-inflation implied duration1/lambda in months; appendix Table XIII reports4.4,4.4,4.5,4.6,4.7 for n=0,0.5,1,1.5,2 in linked author version."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -847650,3 +847650,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:58:05.724285+00:00 — Review AG8QMNLF h4: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9359",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9360",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9359",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9360",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9359",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9360",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9359",
+    "before": null,
+    "after": "Log aggregate frequency of price changes, equation(7) under alternative expected-inflation forward-looking factors; appendix DG/Table XIII."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9360",
+    "before": null,
+    "after": "Fitted zero-inflation implied duration1/lambda in months; appendix Table XIII reports4.4,4.4,4.5,4.6,4.7 for n=0,0.5,1,1.5,2 in linked author version."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4184",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4184",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4184",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4184",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4184",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4184",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4184",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4184",
+    "before": null,
+    "after": "Inflation, measured under alternative forward-looking horizons, → log aggregate price-change frequency and fitted duration; IV.C.2(iii) p.491 and appendix DG/Table XIII. Horizon is a robustness construction, not a separately estimated horizon-treatment coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4184",
+    "before": null,
+    "after": "Minimum scope established by final main. Linked author November21,2018 appendix pp.35–36 (PDF82–83) supplies n=0,0.5,1,1.5,2 and equation(7). Not verified byte-identical to final publisher supplement. Printed R² maximum claim n=1 conflicts with table n=0 .959>n=1 .953; no silent correction."
+  }
+]
+```
