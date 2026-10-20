@@ -942198,3 +942198,768 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T16:22:14.620480+00:00 — Review F3IAL93B h7: source-audited coding and linked comparisons
+
+126 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8270",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8271",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8272",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8273",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8274",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8275",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8276",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8277",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8278",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8279",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8270",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8271",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8272",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8273",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8274",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8275",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8276",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8277",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8278",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8279",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8270",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8271",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8272",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8273",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8274",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8275",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8276",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8277",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8278",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8279",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8275",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8276",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8277",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8278",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8279",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8270",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8271",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8272",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8273",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8274",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8275",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8276",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8277",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8278",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8279",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8270",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8271",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8272",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8273",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8274",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8275",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8276",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8277",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8278",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8279",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8274",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8276",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8275",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8276",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8277",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8278",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8279",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8270",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8271",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8272",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8273",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8274",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8275",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8276",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8277",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8278",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8279",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8270",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 1; Eq. (3): log-rate slope -0.110; reported elasticity -1.247; benchmark: sample outcome mean 0.088."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8271",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 2; Eq. (3): log-rate slope -0.110; reported elasticity -1.247; benchmark: sample outcome mean 0.088."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8272",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 3; Eq. (3): log-rate slope -0.132; reported elasticity -1.202; benchmark: sample outcome mean 0.110."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8273",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 4; Eq. (3): log-rate slope -0.152; reported elasticity -1.117; benchmark: sample outcome mean 0.136."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8274",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 5; Eq. (3): log-rate slope -0.099; reported elasticity -1.111; benchmark: sample outcome mean 0.089."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8275",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 6; Eq. (3): log-rate slope -0.358; reported elasticity -2.286; benchmark: sample outcome mean 0.156."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8276",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 7; Eq. (3): log-rate slope -0.184; reported elasticity -1.471; benchmark: sample outcome mean 0.125."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8277",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 8; Eq. (3): log-rate slope -0.237; reported elasticity -1.507; benchmark: sample outcome mean 0.157."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8278",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 9; Eq. (3): log-rate slope -0.122; reported elasticity -1.369; benchmark: sample outcome mean 0.089."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8279",
+    "before": null,
+    "after": "Final main Table II Panels B-C col 10; Eq. (3): log-rate slope -0.103; reported elasticity -1.176; benchmark: sample outcome mean 0.088."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8270",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8271",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8272",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8273",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8274",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8275",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8276",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8277",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8278",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8279",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10210",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10210",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10210",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10210",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10210",
+    "before": null,
+    "after": "Final main Table II: Compliance on original scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4358",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4358",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4358",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4358",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4358",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4358",
+    "before": null,
+    "after": "Final main Table II Panels B-C: knowledge of others/past rates and past collection robustness; log randomized tax liability marginal response and same-outcome mean-normalized elasticities."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4358",
+    "before": null,
+    "after": "Columns 3-6 condition on midline knowledge; preserve timing/selection uncertainty. Control-mean alignment is not guaranteed for selected post-assignment subgroups."
+  }
+]
+```
