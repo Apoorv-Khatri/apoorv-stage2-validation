@@ -928032,3 +928032,834 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:58:57.839750+00:00 — Review E5YG2HPW h10: source-audited coding and linked comparisons
+
+137 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10127",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10128",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10129",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10130",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10131",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10132",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10133",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10134",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10135",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10136",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10137",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10138",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10139",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10140",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10141",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10142",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10143",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10144",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10145",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10146",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10147",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10148",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10149",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10150",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10151",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10152",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10153",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10154",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10155",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10156",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10157",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10158",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10127",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10128",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10129",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10130",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10131",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10132",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10133",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10134",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10135",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10136",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10137",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10138",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10139",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10140",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10141",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10142",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10143",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10144",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10145",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10146",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10147",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10148",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10149",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10150",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10151",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10152",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10153",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10154",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10155",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10156",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10157",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10158",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10127",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10128",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10129",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10130",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10131",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10132",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10133",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10134",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10135",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10136",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10137",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10138",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10139",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10140",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10141",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10142",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10143",
+    "before": null,
+    "after": "hy17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10144",
+    "before": null,
+    "after": "hy18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10145",
+    "before": null,
+    "after": "hy19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10146",
+    "before": null,
+    "after": "hy20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10147",
+    "before": null,
+    "after": "hy21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10148",
+    "before": null,
+    "after": "hy22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10149",
+    "before": null,
+    "after": "hy23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10150",
+    "before": null,
+    "after": "hy24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10151",
+    "before": null,
+    "after": "hy25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10152",
+    "before": null,
+    "after": "hy26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10153",
+    "before": null,
+    "after": "hy27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10154",
+    "before": null,
+    "after": "hy28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10155",
+    "before": null,
+    "after": "hy29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10156",
+    "before": null,
+    "after": "hy30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10157",
+    "before": null,
+    "after": "hy31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10158",
+    "before": null,
+    "after": "hy32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10127",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component nominal 2-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10128",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component real 2-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10129",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) nominal 2-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10130",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) real 2-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10131",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component nominal 3-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10132",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component real 3-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10133",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) nominal 3-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10134",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) real 3-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10135",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component nominal 5-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10136",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component real 5-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10137",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) nominal 5-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10138",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) real 5-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10139",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component nominal 10-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10140",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component real 10-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10141",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) nominal 10-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10142",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) real 10-year zero-coupon yield; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10143",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component nominal 2-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10144",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component real 2-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10145",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) nominal 2-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10146",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) real 2-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10147",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component nominal 3-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10148",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component real 3-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10149",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) nominal 3-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10150",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) real 3-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10151",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component nominal 5-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10152",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component real 5-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10153",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) nominal 5-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10154",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) real 5-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10155",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component nominal 10-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10156",
+    "before": null,
+    "after": "One-day change in risk-neutral expected-rate component real 10-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10157",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) nominal 10-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10158",
+    "before": null,
+    "after": "One-day change in raw-minus-risk-neutral residual (risk premium including model error) real 10-year one-year forward; Table D.2, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4348",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4348",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4348",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4348",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4348",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4348",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4348",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4348",
+    "before": null,
+    "after": "30-minute policy-news shock effect on estimated risk-neutral nominal/real yields/one-year forwards and risk-premium residuals, Online Appendix Table D.2 p.10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4348",
+    "before": null,
+    "after": "Actual downstream estimator is OLS in each reported constructed outcome, not the upstream affine term-structure model. Residual premium includes term premium, liquidity premium AND model error. Keep null premium effects. Forward definition differs from baseline instantaneous forward. Full-procedure alternative held; no mean/SD benchmark."
+  }
+]
+```
