@@ -926955,3 +926955,258 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:55:45.224668+00:00 — Review E5YG2HPW h7: source-audited coding and linked comparisons
+
+41 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10090",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10091",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10092",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10093",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10094",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10095",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10096",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10097",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10090",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10091",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10092",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10093",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10094",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10095",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10096",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10097",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10090",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10091",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10092",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10093",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10094",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10095",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10096",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10097",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10090",
+    "before": null,
+    "after": "One-day change in 2-year expected inflation measured by Treasury minus TIPS breakeven, percentage points; Table A.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10091",
+    "before": null,
+    "after": "One-day change in 2-year expected inflation measured by inflation swap rate, percentage points; Table A.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10092",
+    "before": null,
+    "after": "One-day change in 3-year expected inflation measured by Treasury minus TIPS breakeven, percentage points; Table A.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10093",
+    "before": null,
+    "after": "One-day change in 3-year expected inflation measured by inflation swap rate, percentage points; Table A.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10094",
+    "before": null,
+    "after": "One-day change in 5-year expected inflation measured by Treasury minus TIPS breakeven, percentage points; Table A.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10095",
+    "before": null,
+    "after": "One-day change in 5-year expected inflation measured by inflation swap rate, percentage points; Table A.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10096",
+    "before": null,
+    "after": "One-day change in 10-year expected inflation measured by Treasury minus TIPS breakeven, percentage points; Table A.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10097",
+    "before": null,
+    "after": "One-day change in 10-year expected inflation measured by inflation swap rate, percentage points; Table A.4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4345",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4345",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4345",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4345",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4345",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4345",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4345",
+    "before": null,
+    "after": "30-minute policy-news shock effect on 2-,3-,5-,10-year inflation expectations using breakevens and swaps, Table A.4 p.1327."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4345",
+    "before": null,
+    "after": "Shorter 2005-2012 sample; retain noisy/null substantive robustness. Both measures individually defined; no mean/SD pairing."
+  }
+]
+```
