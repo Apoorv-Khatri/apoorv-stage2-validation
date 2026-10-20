@@ -43272,7 +43272,16 @@
     "L4269": "0",
     "M4269": "n/a",
     "N4269": "Civil—Final disclosure → duration/rehiring hazard among separated advisers; Section VI.A.2 p.283, reestimated Cox equation (7).",
-    "O4269": "Six misconduct-category Cox effects explicitly established in main text; other disclosure-category Cox allocations held pending appendix. References and coefficients not supplied."
+    "O4269": "Six misconduct-category Cox effects explicitly established in main text; other disclosure-category Cox allocations held pending appendix. References and coefficients not supplied.",
+    "A4270": "DRDWCKUF",
+    "B4270": "h45",
+    "I4270": "1",
+    "J4270": "unknown",
+    "K4270": "1",
+    "L4270": "1",
+    "M4270": "unknown",
+    "N4270": "Recent misconduct → one-year new employment after original firm dissolution; Section VI.C pp.285–286, equation (5).",
+    "O4270": "Explicit 16–23 pp penalty, same dissolved-firm comparison. Equation5 supports linear-model family, but columns/FE implementation unresolved; not randomized firm dissolution."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -111049,7 +111058,14 @@
     "H9855": "0",
     "I9855": "unknown",
     "J9855": "other",
-    "K9855": "Out-of-industry duration with reemployment event/right censoring; Cox hazard ratio reported."
+    "K9855": "Out-of-industry duration with reemployment event/right censoring; Cox hazard ratio reported.",
+    "A9856": "DRDWCKUF",
+    "B9856": "h45",
+    "C9856": "hy1",
+    "H9856": "1",
+    "I9856": "1",
+    "J9856": "none",
+    "K9856": "One-year reemployment indicator following firm dissolution."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
