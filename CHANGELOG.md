@@ -1028973,3 +1028973,414 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:59:28.708334+00:00 — Review F3IAL93B h74: source-audited coding and linked comparisons
+
+67 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9421",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9422",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9423",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9424",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9421",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9422",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9423",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9424",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9421",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9422",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9423",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9424",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9421",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9422",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9423",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9424",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9421",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9422",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9423",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9424",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9421",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9422",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9423",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9424",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9421",
+    "before": null,
+    "after": "Final supplement Table A7 col 2: 5th neighbor-rate slope 0.000001; benchmark: own-status-quo control mean 0.056."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9422",
+    "before": null,
+    "after": "Final supplement Table A7 col 3: 5th neighbor-rate slope 0.000001; benchmark: own-status-quo control mean 0.056."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9423",
+    "before": null,
+    "after": "Final supplement Table A7 col 5: 5th neighbor-rate slope 0.000917; benchmark: own-status-quo control mean 216.903."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9424",
+    "before": null,
+    "after": "Final supplement Table A7 col 6: 5th neighbor-rate slope 0.000069; benchmark: own-status-quo control mean 216.903."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9421",
+    "before": null,
+    "after": "Benchmark conditions on own rate, not a demonstrated untreated neighbor-dose target."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9422",
+    "before": null,
+    "after": "Benchmark conditions on own rate, not a demonstrated untreated neighbor-dose target."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9423",
+    "before": null,
+    "after": "Benchmark conditions on own rate, not a demonstrated untreated neighbor-dose target."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9424",
+    "before": null,
+    "after": "Benchmark conditions on own rate, not a demonstrated untreated neighbor-dose target."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10381",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10382",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10381",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10382",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10381",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10382",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10381",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10382",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10381",
+    "before": null,
+    "after": "Own property compliance indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10382",
+    "before": null,
+    "after": "Own property tax revenue in CF."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4425",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4425",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4425",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4425",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4425",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4425",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4425",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4425",
+    "before": null,
+    "after": "Final supplement Table A7: assigned liability of rank 5 nearest neighbor on own compliance/revenue; actual displayed columns only (2-3/5-6 for ranks 2-5, 3/6 for ranks 6-10)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4425",
+    "before": null,
+    "after": "Distinct rank treatment, not a new sample variant. Neighbor dose randomized; preserve sparse implemented columns and null causal interpretation, p.1175."
+  }
+]
+```
