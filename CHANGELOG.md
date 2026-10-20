@@ -891516,3 +891516,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T13:20:46.669237+00:00 — Review DUE9RA4X s4: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2505",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2506",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2504",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2505",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2506",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2504",
+    "before": null,
+    "after": "Daily firm violation indicator (1 if any emission standard violated, 0 otherwise)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2505",
+    "before": null,
+    "after": "Daily pipe-level SO2 emission concentration, mg/m3 per table notes; main p.835 prose instead prints ug/m3 (unresolved units conflict)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2506",
+    "before": null,
+    "after": "Daily pipe-level COD emission concentration, mg/L per table notes; main p.835 prose instead prints ug/L (unresolved units conflict)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1004",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1004",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1004",
+    "before": null,
+    "after": "T1 assignment versus control, baseline and heterogeneous ITT by state ownership. Table 4 panel A."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1004",
+    "before": null,
+    "after": "Randomized assignment remains binary; moderator is not a randomized treatment. Include central/null heterogeneity; no same-outcome benchmark is printed in Table 4."
+  }
+]
+```
