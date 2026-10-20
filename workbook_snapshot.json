@@ -44696,7 +44696,16 @@
     "L4407": "0",
     "M4407": "n/a",
     "N4407": "Final Figure A4: collector enforcement-capacity relationship with visits (extensive/intensive) and sanctions beliefs, with/without visit controls.",
-    "O4407": "Conditional OLS relationship in the explicitly reported collector-level dependent outcome vector (RMTR, visits, beliefs or elasticities as individually defined). Higher-priority randomized assignment identifies the upstream collector effects, not random manipulation of the scalar estimated capacity. Broad author-intention gate passes via final Sections 7.2.1-7.2.3, including null mechanisms. Full micro-compliance-outcome construction is nonlinear/outcome-adaptive where both regressor and RMTR derive from compliance; the competing full-procedure Other classification is preserved for parent adjudication. Do not treat poor identification alone as exclusion."
+    "O4407": "Conditional OLS relationship in the explicitly reported collector-level dependent outcome vector (RMTR, visits, beliefs or elasticities as individually defined). Higher-priority randomized assignment identifies the upstream collector effects, not random manipulation of the scalar estimated capacity. Broad author-intention gate passes via final Sections 7.2.1-7.2.3, including null mechanisms. Full micro-compliance-outcome construction is nonlinear/outcome-adaptive where both regressor and RMTR derive from compliance; the competing full-procedure Other classification is preserved for parent adjudication. Do not treat poor identification alone as exclusion.",
+    "A4408": "F3IAL93B",
+    "B4408": "h57",
+    "I4408": "1",
+    "J4408": "Other",
+    "K4408": "1",
+    "L4408": "0",
+    "M4408": "n/a",
+    "N4408": "Final supplement Table A17: high-enforcement collector (either member estimated above median) indicator and interaction with randomized tax rate on compliance/revenue.",
+    "O4408": "High-enforcement membership is selected using estimated compliance outcomes. Full procedure outcome-adaptive; conditional-on-estimated-type linear OLS/RCT alternative held for adjudication. High indicator coefficient is at tax rate zero, not unconditional ATE. Retain Other because above-median type is selected using focal compliance outcomes (fn55). Conditional regression could be OLS for type and RCT for rate; no predetermined type or independent random high-capacity assignment is asserted."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115413,7 +115422,21 @@
     "H10337": "0",
     "I10337": "unknown",
     "J10337": "none",
-    "K10337": "Collector-level probability sanctions likely/very likely."
+    "K10337": "Collector-level probability sanctions likely/very likely.",
+    "A10338": "F3IAL93B",
+    "B10338": "h57",
+    "C10338": "hy1",
+    "H10338": "1",
+    "I10338": "1",
+    "J10338": "none",
+    "K10338": "Property compliance indicator.",
+    "A10339": "F3IAL93B",
+    "B10339": "h57",
+    "C10339": "hy2",
+    "H10339": "0",
+    "I10339": "1",
+    "J10339": "none",
+    "K10339": "Tax revenue per property, CF."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
