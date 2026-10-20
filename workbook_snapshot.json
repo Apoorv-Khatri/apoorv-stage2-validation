@@ -42239,7 +42239,16 @@
     "L4174": "0",
     "M4174": "n/a",
     "N4174": "Baseline binary owner exposure heterogeneity by state tax-rate changes Location: Table E.16 DD row, columns 1-4",
-    "O4174": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4174": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4175": "A8LFPXLL",
+    "B4175": "h49",
+    "I4175": "1",
+    "J4175": "DiD_conventional",
+    "K4175": "0",
+    "L4175": "0",
+    "M4175": "n/a",
+    "N4175": "Predicted federal MTR dose heterogeneity by state changes Location: Table E.16 epsilon_MTR columns 1-4",
+    "O4175": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106307,7 +106316,11 @@
     "H9340": "0",
     "I9340": "0",
     "J9340": "log",
-    "K9340": "Log average employee earnings; no/small state changes, increased and decreased state-rate subsamples."
+    "K9340": "Log average employee earnings; no/small state changes, increased and decreased state-rate subsamples.",
+    "A9341": "A8LFPXLL",
+    "B9341": "h49",
+    "C9341": "hy1",
+    "K9341": "Log average employee earnings, federal predicted marginal-rate elasticity by state-change group."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

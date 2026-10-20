@@ -844950,3 +844950,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:51:55.236949+00:00 — Review A8LFPXLL h49: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9341",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9341",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9341",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9341",
+    "before": null,
+    "after": "Log average employee earnings, federal predicted marginal-rate elasticity by state-change group."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4175",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4175",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4175",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4175",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4175",
+    "before": null,
+    "after": "Predicted federal MTR dose heterogeneity by state changes Location: Table E.16 epsilon_MTR columns 1-4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4175",
+    "before": null,
+    "after": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+  }
+]
+```
