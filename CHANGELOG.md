@@ -899820,3 +899820,354 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T13:29:56.649881+00:00 — Review DUE9RA4X s8: source-audited coding and linked comparisons
+
+57 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7860",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7861",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7862",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7860",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7861",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7862",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7860",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7861",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7862",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7860",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7861",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L693",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7860",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7861",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7862",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M693",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7860",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7861",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7862",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N693",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O693",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P693",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7860",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7861",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7862",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q693",
+    "before": null,
+    "after": "Table A7 panel A p.12 col 2: 0.027; outcome_mean benchmark: 0.044 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7860",
+    "before": null,
+    "after": "Table A7 panel A p.12 col 1: 0.021; outcome_mean benchmark: 0.019 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7861",
+    "before": null,
+    "after": "Table A7 panel A p.12 col 1: 0.021; outcome_sd benchmark: 0.137 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7862",
+    "before": null,
+    "after": "Table A7 panel A p.12 col 2: 0.027; outcome_sd benchmark: 0.205 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R693",
+    "before": null,
+    "after": "Main p.841 prints 67.5%, whereas A7 shows .027 and .044. Exact same-outcome table pairing retained; denominator/verbal attribution unresolved, hence unknown verbal/division/alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7860",
+    "before": null,
+    "after": "Benchmark target/period/weights not established for this conditional estimand."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9899",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9899",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9899",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2515",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9899",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2515",
+    "before": null,
+    "after": "Firm had any violation in the one-month pre-experiment window (0/1), not daily violation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9899",
+    "before": null,
+    "after": "Firm had any violation in the three-month pre-experiment window (0/1), not daily violation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1008",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1008",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1008",
+    "before": null,
+    "after": "Regulator in last three versus first two years of term; pre-experiment any-violation outcomes. Table A7 panel A p.12; main p.841."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1008",
+    "before": null,
+    "after": "Author-intention gate: main p.841 explicitly interprets career incentives as influencing enforcement. No randomized tenure or identifying-FE argument for panel A. Regression linear in reported binary outcomes; panel B assigned-appeal heterogeneity separated. Observational confounding remains."
+  }
+]
+```
