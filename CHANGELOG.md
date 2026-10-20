@@ -845895,3 +845895,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:54:15.480388+00:00 — Review A8LFPXLL h54: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9350",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9350",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9350",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9350",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9350",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9350",
+    "before": null,
+    "after": "After-tax firm-surplus share accruing to workers in each fixed earnings bin, Figure V B; each bin is a subgroup of this one share outcome, not a grouped placeholder for different dependent variables. Reported baseline/implied-post shares; detailed netting and aggregation weights unresolved."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E110",
+    "before": null,
+    "after": "DONE — Available-source review of56-page final article and62-page actual author-linked appendix, independently audited; publisher-final appendix byte identity unresolved. Main conventional DiD, continuous-dose DiD and realized-exposure/liability IV distinguished; no invented OLS/FE splits from controls. Merge continuous-MTR restrictions h27–h29 into h17 and repeated decomposition h32 into s7; unwritten ID gaps intentional. Retain separate after-tax worker-bin surplus share h54 with unknown method and held numerical comparison allocations, not pretax decomposition. A6B/C normalization unknown. Owner-share change1.9percentagepoints from33.5% to31.6%; both explicit endpoints retained, treated endpoint alignment0. Total-personal-tax pass-through -.058 retained with unknown method/aggregation. Implemented main and appendixCases2/3 welfare calibrations retained as nonlinear mappings with actual1.35 baselines; hypothetical sensitivity and conflictingCase1 duplicate held. Treatment tax dollars/rates/SDs and effect-to-effect contribution shares not outcome benchmarks. Actual null spillovers and firm outcomes retained. Printed signs, quartile/quintile descriptions, calibration numbers, sample counts and timing conflicts preserved. Graphical comparison allocations and calibration-boundary holds explicit; author linkage not publisher identity. Dataverse access blocked; no empirical replication. Source-scoped completion not omission-free certification. Original fields IDs hyperlinks preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4180",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4180",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4180",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4180",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4180",
+    "before": null,
+    "after": "Tax-induced redistribution of after-tax firm surplus across worker earnings bins, Figure V B pp.670-671: implied postreform distribution versus baseline exposed-firm distribution. Binary reform-exposure contrast inherited from the directly estimated components, not a separate continuous tax dose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4180",
+    "before": null,
+    "after": "Explicit implemented causal distribution, central in abstract and Section IV.F. Combines direct owner-share DiD with worker earnings distribution effects. Unknown method: exact tax netting, denominator and aggregation/reweighting needed to establish linearity are not fully reported. Do not assign pretax s7 DiD mechanically. No numerical worker-bin effects digitized."
+  }
+]
+```
