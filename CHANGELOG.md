@@ -846741,3 +846741,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:55:47.808340+00:00 — Review AG8QMNLF s6: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K662",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R661",
+    "before": null,
+    "after": "Symmetry of conditional increase/decrease sizes at low inflation compares two outcome components, not the inflation-induced effect with a same-outcome benchmark. The reversed pairing duplicates the same symmetry statement."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R662",
+    "before": null,
+    "after": "Symmetry of conditional increase/decrease sizes at low inflation compares two outcome components, not the inflation-induced effect with a same-outcome benchmark. The reversed pairing duplicates the same symmetry statement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9353",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9353",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9353",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2443",
+    "before": null,
+    "after": "Conditional mean log-price increase, expenditure weighted; Figure IX B. Caption both says homogeneous goods alone and refers to averaging homogeneous and differentiated goods; sample wording unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2444",
+    "before": null,
+    "after": "Conditional mean absolute magnitude of log-price decrease, expenditure weighted; Figure IX B. Caption both says homogeneous goods alone and refers to averaging homogeneous and differentiated goods; sample wording unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9353",
+    "before": null,
+    "after": "Total monthly frequency of price changes lambda, green total curve in Figure IX A p.496, homogeneous goods; not a second increase/decrease outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J979",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M979",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N979",
+    "before": null,
+    "after": "Inflation → total frequency, increase frequency, decrease frequency, conditional mean size of increases, and conditional mean magnitude of decreases; Figure IX A–B pp.495–496. Homogeneous goods; differentiated-goods qualitative extension separately h8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O979",
+    "before": null,
+    "after": "Least-squares quadratic fits on reported aggregates; caption says both panels homogeneous but also says sizes averaged over all homogeneous and differentiated goods. Keep conflict. Include central null size response near zero. Total-frequency curve omitted by model, added hy1. Author-intention inclusion: pp.452–453 and 469–470 connect these empirical relationships to inflation comparative statics conditional on stable idiosyncratic-shock variance and expected inflation. Observational identification, not randomized or policy DiD."
+  }
+]
+```
