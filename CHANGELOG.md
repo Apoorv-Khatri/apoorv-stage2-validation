@@ -882135,3 +882135,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:09:51.681097+00:00 — Review DRDWCKUF s3: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7724",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7724",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7724",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K675",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7724",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7724",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7724",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7724",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7724",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7724",
+    "before": null,
+    "after": "Table 9 panel A col.3, p.264: coefficient 24.4 pp paired with same-column average outcome rate 19.0%. All observations in that column; not a separately identified untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R675",
+    "before": null,
+    "after": "Headline 31 pp/19% belongs to no-FE Table 9A col.2 (h1), not retained FE col.3. Added separately under h1; preserve printed two-and-a-half-times wording without endorsing arithmetic."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7724",
+    "before": null,
+    "after": "Benchmark target/untreated weights not established for this observational contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2478",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2478",
+    "before": null,
+    "after": "Binary separation indicator (s3/s9) or one-year reemployment indicator conditional on leaving (s5). Both 0 and 1 occur; Table 9 rates strictly between endpoints. Corrects model zero-mass=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J991",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M991",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N991",
+    "before": null,
+    "after": "Recent adviser misconduct → next-year firm separation; Table 9A col.3 only, equation (3), firm×year×county identifying FE (one dimension). No-FE cols.1–2 in h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O991",
+    "before": null,
+    "after": "pp.262–264: same firm/location/time counterfactual argument. 24.4 pp, not headline 30.8 pp; nonrandom adviser/disclosure selection remains."
+  }
+]
+```
