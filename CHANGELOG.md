@@ -922749,3 +922749,480 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:07:30.628187+00:00 — Review DUE9RA4X h63: source-audited coding and linked comparisons
+
+78 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8103",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8104",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8105",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8103",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8104",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8105",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8103",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8104",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8105",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8103",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8104",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8105",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8103",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8104",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8105",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8103",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8104",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8105",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8103",
+    "before": null,
+    "after": "p.846 and fn33: 51,000 fewer; approximately 60% reduction; other_level benchmark: Annual baseline violation count, not printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8104",
+    "before": null,
+    "after": "p.846 and fn33: Prose 9.2% national reduction; fn33 272,826 tons using 75% share and 9.2%; other_level benchmark: 3,954,000 tons annual national industrial SO2; fn33."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8105",
+    "before": null,
+    "after": "p.846 and fn33: Prose 2.9% national reduction; fn33 16,791 tons using 75% share and 2.9%; other_level benchmark: 772,000 tons annual national industrial COD; fn33."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8103",
+    "before": null,
+    "after": "Preserve percentage/denominator inconsistency; do not repair national versus CEMS denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8104",
+    "before": null,
+    "after": "Preserve percentage/denominator inconsistency; do not repair national versus CEMS denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8105",
+    "before": null,
+    "after": "Preserve percentage/denominator inconsistency; do not repair national versus CEMS denominator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9982",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9983",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9984",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9985",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9986",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9982",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9983",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9984",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9985",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9986",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9982",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9983",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9984",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9985",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9986",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9982",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9983",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9984",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9985",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9986",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9982",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9983",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9984",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9985",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9986",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9982",
+    "before": null,
+    "after": "Annual nationwide number of violations"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9983",
+    "before": null,
+    "after": "Annual total industrial SO2 emissions, tons"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9984",
+    "before": null,
+    "after": "Annual total industrial COD emissions, tons"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9985",
+    "before": null,
+    "after": "Annual pollution-levy-valued emissions benefit (RMB): at least 360 million in prose; fn33 367,268,160. Fixed levy valuation; not health welfare estimation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9986",
+    "before": null,
+    "after": "Annual public appeal labor cost (RMB), approximately 170,000, based on appeal time and hourly wage; excludes firm abatement cost."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E114",
+    "before": null,
+    "after": "DONE — Available-final-source review of36-page final article and28-page official publisher appendix independently retrieved/hash-matched and audited. Retain75 settings150 outcomes365 comparisons plus one original rejected/moved attachment. Consolidate FigureA4 public paths underh56; unwrittenh61removed without claiming numerical identity. RCT assignment effects distinguished from joint receipt2SLS with binary assignment×post instruments; no-appeal moments not complier-aligned. A4Poisson rawcount moment pairs retained under deliberate same-outcome pairing rule but scalealignment0, no invented marginaleffects/ratios. A11 observational change-score regressions OLS, not automaticDiD from changeoutcomes. T5audit prose allocation and division unknown symmetrically acrossa/b columns. DesignatedRCTcontrol moments alignment1 conditional on maintained assignment-baseline interpretation, exactperiod/weight reconstruction unverified; saturation/interactions/A13unknown and receiptIV0. SevenA9countzeros supported by integer support/controlmean. Counterfactualmethods unknown; fn33CEMS/national denominator conflict preserved. Printedconcentrationunits, FEperiods, A7/T6percentages, A12publiclabel and A13channel conflicts retained. Fn28unreportedfirstappeal response and water-flow implementation held outsidearrays; no fabricated grids. Replication retrieval failed, no codeinspection/empiricalreplication. OriginalIDsmodelfieldslinks preserved. Source-scoped completion not omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4338",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4338",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4338",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4338",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4338",
+    "before": null,
+    "after": "Publicly appeal every violation, assuming same response as experiment; nationwide annual extrapolation versus baseline. Conclusion pp.846–847 and fn33."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4338",
+    "before": null,
+    "after": "Fixed extrapolation may be linear in estimated experimental effects, but full implemented mapping not provided. Do not invent structural nonlinearity. Footnote applies 75% CEMS share again after prose national percentage: conflicting normalization preserved. No empirical replication run."
+  }
+]
+```
