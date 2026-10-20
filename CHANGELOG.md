@@ -846639,3 +846639,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:54:46.756898+00:00 — Review AG8QMNLF s4: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J977",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M977",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O977",
+    "before": null,
+    "after": "Figure VIII p.493 caption establishes least-squares quadratic fits; polynomial in treatment does not make estimator nonlinear in reported aggregate frequency outcomes. No identifying FE. Author-intention inclusion: pp.452–453 and 469–470 connect these empirical relationships to inflation comparative statics conditional on stable idiosyncratic-shock variance and expected inflation. Observational identification, not randomized or policy DiD."
+  }
+]
+```
