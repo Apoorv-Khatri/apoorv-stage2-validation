@@ -927210,3 +927210,258 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:56:46.738224+00:00 — Review E5YG2HPW h8: source-audited coding and linked comparisons
+
+41 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10098",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10099",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10100",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10101",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10102",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10103",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10104",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10105",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10098",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10099",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10100",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10101",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10102",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10103",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10104",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10105",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10098",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10099",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10100",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10101",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10102",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10103",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10104",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10105",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10098",
+    "before": null,
+    "after": "Monthly revision in Blue Chip annualized real GDP growth forecast 0 quarters ahead, percentage points; Table A.5 and supplement F eq.(15)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10099",
+    "before": null,
+    "after": "Monthly revision in Blue Chip annualized real GDP growth forecast 1 quarters ahead, percentage points; Table A.5 and supplement F eq.(15)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10100",
+    "before": null,
+    "after": "Monthly revision in Blue Chip annualized real GDP growth forecast 2 quarters ahead, percentage points; Table A.5 and supplement F eq.(15)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10101",
+    "before": null,
+    "after": "Monthly revision in Blue Chip annualized real GDP growth forecast 3 quarters ahead, percentage points; Table A.5 and supplement F eq.(15)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10102",
+    "before": null,
+    "after": "Monthly revision in Blue Chip annualized real GDP growth forecast 4 quarters ahead, percentage points; Table A.5 and supplement F eq.(15)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10103",
+    "before": null,
+    "after": "Monthly revision in Blue Chip annualized real GDP growth forecast 5 quarters ahead, percentage points; Table A.5 and supplement F eq.(15)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10104",
+    "before": null,
+    "after": "Monthly revision in Blue Chip annualized real GDP growth forecast 6 quarters ahead, percentage points; Table A.5 and supplement F eq.(15)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10105",
+    "before": null,
+    "after": "Monthly revision in Blue Chip annualized real GDP growth forecast 7 quarters ahead, percentage points; Table A.5 and supplement F eq.(15)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4346",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4346",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4346",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4346",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4346",
+    "before": null,
+    "after": "Monthly policy-news shock effect on quarter-specific Blue Chip GDP growth forecast revisions, Table A.5 p.1327."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4346",
+    "before": null,
+    "after": "Central information-effect evidence and structural target moments, not supporting merely because appendix. Horizons current through seven quarters; annualized growth forecast revisions, not realized output."
+  }
+]
+```
