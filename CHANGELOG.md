@@ -888171,3 +888171,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:32:39.114759+00:00 — Review DRDWCKUF h42: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9853",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9853",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9853",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9853",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9853",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9853",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9853",
+    "before": null,
+    "after": "Out-of-industry duration with reemployment event/right censoring; Cox hazard ratio reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4267",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4267",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4267",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4267",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4267",
+    "before": null,
+    "after": "Customer Dispute—Award/Judgment disclosure → duration/rehiring hazard among separated advisers; Section VI.A.2 p.283, reestimated Cox equation (7)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4267",
+    "before": null,
+    "after": "Six misconduct-category Cox effects explicitly established in main text; other disclosure-category Cox allocations held pending appendix. References and coefficients not supplied."
+  }
+]
+```
