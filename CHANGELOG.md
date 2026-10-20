@@ -859677,3 +859677,1146 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T10:42:55.733366+00:00 — Review CPRH287R h11: source-audited coding and linked comparisons
+
+189 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7660",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7661",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7662",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7663",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7664",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7665",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7666",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7667",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7668",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7669",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7660",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7661",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7662",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7663",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7664",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7665",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7666",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7667",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7668",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7669",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7660",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7661",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7662",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7663",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7664",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7665",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7666",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7667",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7668",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7669",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7662",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7663",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7664",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7665",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7660",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7661",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7662",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7663",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7664",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7665",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7666",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7667",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7668",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7669",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7660",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7661",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7662",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7663",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7664",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7665",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7666",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7667",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7668",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7669",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7660",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7662",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7663",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7664",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7665",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7666",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7668",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7662",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7663",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7664",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7665",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7662",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7663",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7664",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7665",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7660",
+    "before": null,
+    "after": "Table 14 p.431, row Walkers Regular, column KP: 0.05% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7661",
+    "before": null,
+    "after": "Table 14 p.431, row Walkers Sensations, column KP: -0.21% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7662",
+    "before": null,
+    "after": "Table 14 p.431, row Walkers Doritos, column KP: -0.07% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7663",
+    "before": null,
+    "after": "Table 14 p.431, row Walkers Other, column KP: 0.13% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7664",
+    "before": null,
+    "after": "Table 14 p.431, row Pringles, column KP: 0.00% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7665",
+    "before": null,
+    "after": "Table 14 p.431, row KP, column KP: -1.40% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7666",
+    "before": null,
+    "after": "Table 14 p.431, row Golden Wonder, column KP: -0.75% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7667",
+    "before": null,
+    "after": "Table 14 p.431, row Asda, column KP: -0.39% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7668",
+    "before": null,
+    "after": "Table 14 p.431, row Tesco, column KP: -0.53% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7669",
+    "before": null,
+    "after": "Table 14 p.431, row Other, column KP: 0.21% relative to own observed-market demand. Baseline levels not printed; normalization explicitly stated in caption. Includes null/substantive spillovers."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7660",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7661",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7662",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7663",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7664",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7665",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7666",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7667",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7668",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7669",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9449",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9450",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9451",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9452",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9453",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9454",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9455",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9456",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9457",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9458",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9449",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9450",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9451",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9452",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9453",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9454",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9455",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9456",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9457",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9458",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9449",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9450",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9451",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9452",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9453",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9454",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9455",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9456",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9457",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9458",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9450",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9454",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9455",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9456",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9458",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9450",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9451",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9452",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9453",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9454",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9455",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9456",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9457",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9458",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9449",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9450",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9451",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9452",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9453",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9454",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9455",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9456",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9457",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9458",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9449",
+    "before": null,
+    "after": "Quantity demand for Walkers Regular; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9450",
+    "before": null,
+    "after": "Quantity demand for Walkers Sensations; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9451",
+    "before": null,
+    "after": "Quantity demand for Walkers Doritos; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9452",
+    "before": null,
+    "after": "Quantity demand for Walkers Other; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9453",
+    "before": null,
+    "after": "Quantity demand for Pringles; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9454",
+    "before": null,
+    "after": "Quantity demand for KP; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9455",
+    "before": null,
+    "after": "Quantity demand for Golden Wonder; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9456",
+    "before": null,
+    "after": "Quantity demand for Asda; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9457",
+    "before": null,
+    "after": "Quantity demand for Tesco; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9458",
+    "before": null,
+    "after": "Quantity demand for Other; Table 14 reports mean across markets of percentage change relative to its own observed demand when KP advertising is shut off."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4199",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4199",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4199",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4199",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4199",
+    "before": null,
+    "after": "Unilateral current-advertising shutdown of KP, other brands unchanged: individual brand quantity demands, Table 14 p.431; nonlinear demand model with advertising and price control functions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4199",
+    "before": null,
+    "after": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments."
+  }
+]
+```
