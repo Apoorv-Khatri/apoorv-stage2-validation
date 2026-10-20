@@ -43895,7 +43895,16 @@
     "L4328": "0",
     "M4328": "n/a",
     "N4328": "T1B website regulator assignment versus control, weekly violation dynamics. Figure A3 p.4.",
-    "O4328": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
+    "O4328": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation.",
+    "A4329": "DUE9RA4X",
+    "B4329": "h53",
+    "I4329": "1",
+    "J4329": "RCT",
+    "K4329": "1",
+    "L4329": "0",
+    "M4329": "n/a",
+    "N4329": "T1C call regulator assignment versus control, weekly violation dynamics. Figure A3 p.4.",
+    "O4329": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -112554,7 +112563,14 @@
     "H9965": "1",
     "I9965": "1",
     "J9965": "none",
-    "K9965": "Daily firm violation indicator, weekly post-assignment dynamic coefficients."
+    "K9965": "Daily firm violation indicator, weekly post-assignment dynamic coefficients.",
+    "A9966": "DUE9RA4X",
+    "B9966": "h53",
+    "C9966": "hy1",
+    "H9966": "1",
+    "I9966": "1",
+    "J9966": "none",
+    "K9966": "Daily firm violation indicator, weekly post-assignment dynamic coefficients."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
