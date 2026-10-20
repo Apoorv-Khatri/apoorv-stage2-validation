@@ -883326,3 +883326,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:15:36.134483+00:00 — Review DRDWCKUF s12: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K682",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K683",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L682",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M682",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N682",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O682",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P682",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q682",
+    "before": null,
+    "after": "p.280 Table 15 col.3 (no FE): 10 pp increase in age65+ share → approximately 0.34 pp higher annual misconduct, versus overall annual adviser misconduct mean 0.6%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R682",
+    "before": null,
+    "after": "Correct no-FE column. Weighted county sample 2010–13 with >50 advisers differs from overall adviser-year benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R683",
+    "before": null,
+    "after": "Education slope separated from elderly treatment; qualifying triple relocated to its OLS education setting, not dropped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1000",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1000",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1000",
+    "before": null,
+    "after": "County share aged 65+ (0–1 scale) → stock/annual flow of misconduct; Table 15 cols.1,3 only, square-root adviser-count WLS. Education, income, and identifying state/year-FE versions are distinct additions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1000",
+    "before": null,
+    "after": "pp.280–281: broad consumer-vulnerability interpretation admits focal elderly and education slopes despite predictive table heading. State/year FE explicitly address regulatory/aggregate confounds in cols.2,4. Population/rural/labor-force slopes remain controls, not automatically causal."
+  }
+]
+```
