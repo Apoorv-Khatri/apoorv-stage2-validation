@@ -1030779,3 +1030779,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T18:03:45.376568+00:00 — Review F3IAL93B h80: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10393",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10393",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10393",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10393",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10393",
+    "before": null,
+    "after": "Property-tax compliance indicator; additional-visit effect 0.03 in final footnote 34."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4431",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4431",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4431",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4431",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4431",
+    "before": null,
+    "after": "Final p.1179 footnote 34: effect of an additional collector visit on property-tax compliance, reported effect 0.03."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4431",
+    "before": null,
+    "after": "Author explicitly uses visit effect to assess mechanism magnitude. Count dose (nonbinary); method, regression controls, and precise estimation sample unreported. No invented visit randomization, IV or mean benchmark. Supporting, not a diagnostic-only visit coefficient."
+  }
+]
+```

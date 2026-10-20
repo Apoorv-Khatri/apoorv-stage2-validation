@@ -44903,7 +44903,16 @@
     "L4430": "0",
     "M4430": "n/a",
     "N4430": "Final supplement Table A7: assigned liability of rank 10 nearest neighbor on own compliance/revenue; actual displayed columns only (2-3/5-6 for ranks 2-5, 3/6 for ranks 6-10).",
-    "O4430": "Distinct rank treatment, not a new sample variant. Neighbor dose randomized; preserve sparse implemented columns and null causal interpretation, p.1175."
+    "O4430": "Distinct rank treatment, not a new sample variant. Neighbor dose randomized; preserve sparse implemented columns and null causal interpretation, p.1175.",
+    "A4431": "F3IAL93B",
+    "B4431": "h80",
+    "I4431": "1",
+    "J4431": "unknown",
+    "K4431": "0",
+    "L4431": "0",
+    "M4431": "unknown",
+    "N4431": "Final p.1179 footnote 34: effect of an additional collector visit on property-tax compliance, reported effect 0.03.",
+    "O4431": "Author explicitly uses visit effect to assess mechanism magnitude. Count dose (nonbinary); method, regression controls, and precise estimation sample unreported. No invented visit randomization, IV or mean benchmark. Supporting, not a diagnostic-only visit coefficient."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116005,7 +116014,14 @@
     "H10392": "0",
     "I10392": "1",
     "J10392": "none",
-    "K10392": "Own property tax revenue in CF."
+    "K10392": "Own property tax revenue in CF.",
+    "A10393": "F3IAL93B",
+    "B10393": "h80",
+    "C10393": "hy1",
+    "H10393": "1",
+    "I10393": "1",
+    "J10393": "none",
+    "K10393": "Property-tax compliance indicator; additional-visit effect 0.03 in final footnote 34."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
