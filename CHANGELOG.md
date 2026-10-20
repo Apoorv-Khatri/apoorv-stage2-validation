@@ -882078,3 +882078,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:09:14.467450+00:00 — Review DRDWCKUF s2: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K674",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R674",
+    "before": null,
+    "after": "Predictive/descriptive parent fails author-intention gate. Literal comparison exists but is outside causal inventory."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2477",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2477",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2477",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2477",
+    "before": null,
+    "after": "Inactive: parent excluded by author-intention gate, not an incorrect dependent-variable definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O990",
+    "before": null,
+    "after": "Section III.C pp.259–261 explicitly uses correlations to merely describe the data and allows reversed causality. Neither lagged firm misconduct nor executive misconduct is assigned a directional causal interpretation here."
+  }
+]
+```
