@@ -863649,3 +863649,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T10:46:49.080060+00:00 — Review CPRH287R h20: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9486",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9486",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9486",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9486",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9486",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9486",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9486",
+    "before": null,
+    "after": "Product price after firms respond to the advertising ban; pp.431–432 report firms lower prices. Exact product aggregation and reported scale unresolved; no numerical effect/benchmark or unseen product grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4207",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4207",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4207",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4207",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4207",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4207",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4207",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4207",
+    "before": null,
+    "after": "Market-wide advertising-stock ban in control-function re-estimation: endogenous product-price reduction, pp.431–432. Separate equilibrium-response estimand from fixed-price nutrients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4207",
+    "before": null,
+    "after": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments."
+  }
+]
+```

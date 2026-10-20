@@ -42632,7 +42632,16 @@
     "L4206": "0",
     "M4206": "n/a",
     "N4206": "Market-wide advertising-stock ban in control-function re-estimation: fixed-price nutrient reductions, pp.431–432. Minimum implemented scope; no undisplayed coefficient grid.",
-    "O4206": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments."
+    "O4206": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments.",
+    "A4207": "CPRH287R",
+    "B4207": "h20",
+    "I4207": "1",
+    "J4207": "Other",
+    "K4207": "1",
+    "L4207": "0",
+    "M4207": "n/a",
+    "N4207": "Market-wide advertising-stock ban in control-function re-estimation: endogenous product-price reduction, pp.431–432. Separate equilibrium-response estimand from fixed-price nutrients.",
+    "O4207": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -107769,7 +107778,14 @@
     "H9485": "0",
     "I9485": "unknown",
     "J9485": "unknown",
-    "K9485": "Total salt purchased as potato chips, fixed prices; Section 4.6 pp.431–432 qualitative reduction, no numerical effect/benchmark. Exact scale of undisplayed result unresolved."
+    "K9485": "Total salt purchased as potato chips, fixed prices; Section 4.6 pp.431–432 qualitative reduction, no numerical effect/benchmark. Exact scale of undisplayed result unresolved.",
+    "A9486": "CPRH287R",
+    "B9486": "h20",
+    "C9486": "hy1",
+    "H9486": "0",
+    "I9486": "unknown",
+    "J9486": "unknown",
+    "K9486": "Product price after firms respond to the advertising ban; pp.431–432 report firms lower prices. Exact product aggregation and reported scale unresolved; no numerical effect/benchmark or unseen product grid."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
