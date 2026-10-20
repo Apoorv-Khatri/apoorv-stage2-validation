@@ -844218,3 +844218,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:48:33.565143+00:00 — Review A8LFPXLL h41: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9333",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9333",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9333",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9333",
+    "before": null,
+    "after": "Change in average employee earnings in dollars; IV only Table A.9, A.8 C first stage excluded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4167",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4167",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4167",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4167",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4167",
+    "before": null,
+    "after": "Business tax liability pass-through sample robustness (single-owner and excluding top 0.1%) Location: Figures A.7 C/A.8 A-B; Table A.9 relevant columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4167",
+    "before": null,
+    "after": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+  }
+]
+```
