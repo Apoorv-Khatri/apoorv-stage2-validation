@@ -932712,3 +932712,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T16:18:52.710363+00:00 — Review F3IAL93B s5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R706",
+    "before": null,
+    "after": "Wrong corrected setting: substantive comparison retained under s6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2587",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2587",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2587",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2587",
+    "before": null,
+    "after": "Inactive in corrected parent; moved to h3/hy1 to separate implemented estimands/methods."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1025",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1025",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1025",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1025",
+    "before": null,
+    "after": "Eq. (7) / Figure B13A: randomized individual tax-collector assignment effects on property tax compliance; collector indicators identify causal enforcement capacities relative to the average collector."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1025",
+    "before": null,
+    "after": "Random collector assignment takes precedence over FE; collector capacity is multi-valued. RMTR recovery and second-stage capacity relationships are separate settings, not one FE regression."
+  }
+]
+```
