@@ -42257,7 +42257,16 @@
     "L4176": "0",
     "M4176": "n/a",
     "N4176": "Predicted combined federal-plus-state MTR change weighted by top-bracket ownership share Location: Table E.16 epsilon_MTR column 5 and footnote 63",
-    "O4176": "Printed table -0.160 (SE .0242) conflicts with prose -0.164 (SE .024); preserve both, not arithmetic repair."
+    "O4176": "Printed table -0.160 (SE .0242) conflicts with prose -0.164 (SE .024); preserve both, not arithmetic repair.",
+    "A4177": "A8LFPXLL",
+    "B4177": "h51",
+    "I4177": "1",
+    "J4177": "DiD_conventional",
+    "K4177": "1",
+    "L4177": "0",
+    "M4177": "n/a",
+    "N4177": "Baseline any-top exposure among FIRE-industry firms Location: Appendix E.7 p.90 prose",
+    "O4177": "Individually reported substantive estimate -0.0152 SE .00416; not merely announced unseen robustness."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106333,7 +106342,14 @@
     "A9342": "A8LFPXLL",
     "B9342": "h50",
     "C9342": "hy1",
-    "K9342": "Log average employee earnings; combined-rate elasticity."
+    "K9342": "Log average employee earnings; combined-rate elasticity.",
+    "A9343": "A8LFPXLL",
+    "B9343": "h51",
+    "C9343": "hy1",
+    "H9343": "0",
+    "I9343": "0",
+    "J9343": "log",
+    "K9343": "Log average employee earnings among finance/real-estate industries, Eq.(2)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
