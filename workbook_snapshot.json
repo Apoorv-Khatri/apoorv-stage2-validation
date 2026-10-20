@@ -42650,7 +42650,16 @@
     "L4208": "0",
     "M4208": "n/a",
     "N4208": "Previous-week food-at-home potato-chip purchase indicator: effect on food-on-the-go potato-chip demand, Section 4.2.1 p.415 and referenced Appendix B. Explicit implemented substantively interpreted null, nonlinear choice model.",
-    "O4208": "Binary prior household purchase enters inside-good utility for on-the-go individuals. Author-linked Appendix B pp.8 and D.3–D.4 give implementation and demographic utility coefficients; p.415 aggregate market-demand impact remains a substantive near-zero result. Subgroup utility coefficients are not the aggregate demand effect. No randomization or empirical replication."
+    "O4208": "Binary prior household purchase enters inside-good utility for on-the-go individuals. Author-linked Appendix B pp.8 and D.3–D.4 give implementation and demographic utility coefficients; p.415 aggregate market-demand impact remains a substantive near-zero result. Subgroup utility coefficients are not the aggregate demand effect. No randomization or empirical replication.",
+    "A4209": "CPRH287R",
+    "B4209": "h21",
+    "I4209": "1",
+    "J4209": "FE",
+    "K4209": "1",
+    "L4209": "0",
+    "M4209": "n/a",
+    "N4209": "Last potato-chip purchase 1 weeks ago versus no purchase in preceding two months: current household weekly quantity; Appendix A.1 equation1.1, Table A.2 p.4. Demographic regressions grouped at same location.",
+    "O4209": "Authors explicitly interpret beta as habits effect conditional on household heterogeneity and aggregate week effects (appendix p.2). Household and week FE are two dimensions, not HDFE. Supporting substantive near-zero habit response despite diagnostic motivation. Equation uses last purchase whereas captions say purchase k weeks ago: construction conflict unresolved. No causal OLS row inferred from association-only Table A.1. Outcome-linear regression in weekly quantity; not IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -107801,7 +107810,14 @@
     "H9487": "0",
     "I9487": "unknown",
     "J9487": "unknown",
-    "K9487": "Food-on-the-go potato-chip market demand; p.415 reports effectively zero impact of prior-week food-at-home purchase. Scale/aggregation not explicitly reported for this result."
+    "K9487": "Food-on-the-go potato-chip market demand; p.415 reports effectively zero impact of prior-week food-at-home purchase. Scale/aggregation not explicitly reported for this result.",
+    "A9488": "CPRH287R",
+    "B9488": "h21",
+    "C9488": "hy1",
+    "H9488": "0",
+    "I9488": "unknown",
+    "J9488": "none",
+    "K9488": "Weekly household potato-chip quantity purchased (at home and on-the-go per Table A.2 caption), level. Eleven demographic samples, eight lag indicators in same equation. Most slopes near zero, some significant; no linked outcome mean/SD. Quantity unit not explicitly stated in this appendix table."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
