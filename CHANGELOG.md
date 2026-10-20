@@ -1030884,3 +1030884,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T18:18:56.338062+00:00 — Review F3IAL93B h81: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10394",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10394",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10394",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10394",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10394",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10394",
+    "before": null,
+    "after": "Collector-pair RMTR, linear and quadratic compliance schedules, with property-characteristic adjustment; Figure B20."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4432",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4432",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4432",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4432",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4432",
+    "before": null,
+    "after": "Cited NBER Appendix B Figure B20: collector-pair enforcement-capacity relationship with pair-specific RMTR controlling property characteristics."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4432",
+    "before": null,
+    "after": "Conditional OLS relationship in the explicitly reported collector-level dependent outcome vector (RMTR, visits, beliefs or elasticities as individually defined). Higher-priority randomized assignment identifies the upstream collector effects, not random manipulation of the scalar estimated capacity. Broad author-intention gate passes via final Sections 7.2.1-7.2.3, including null mechanisms. Full micro-compliance-outcome construction is nonlinear/outcome-adaptive where both regressor and RMTR derive from compliance; the competing full-procedure Other classification is preserved for parent adjudication. Do not treat poor identification alone as exclusion."
+  }
+]
+```
