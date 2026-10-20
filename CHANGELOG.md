@@ -926244,3 +926244,714 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:54:33.412012+00:00 — Review E5YG2HPW h6: source-audited coding and linked comparisons
+
+117 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10063",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10064",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10065",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10066",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10067",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10068",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10069",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10070",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10071",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10072",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10073",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10074",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10075",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10076",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10077",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10078",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10079",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10080",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10081",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10082",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10083",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10084",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10085",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10086",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10087",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10088",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10089",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10063",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10064",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10065",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10066",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10067",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10068",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10069",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10070",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10071",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10072",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10073",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10074",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10075",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10076",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10077",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10078",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10079",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10080",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10081",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10082",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10083",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10084",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10085",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10086",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10087",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10088",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10089",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10063",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10064",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10065",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10066",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10067",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10068",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10069",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10070",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10071",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10072",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10073",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10074",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10075",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10076",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10077",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10078",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10079",
+    "before": null,
+    "after": "hy17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10080",
+    "before": null,
+    "after": "hy18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10081",
+    "before": null,
+    "after": "hy19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10082",
+    "before": null,
+    "after": "hy20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10083",
+    "before": null,
+    "after": "hy21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10084",
+    "before": null,
+    "after": "hy22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10085",
+    "before": null,
+    "after": "hy23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10086",
+    "before": null,
+    "after": "hy24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10087",
+    "before": null,
+    "after": "hy25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10088",
+    "before": null,
+    "after": "hy26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10089",
+    "before": null,
+    "after": "hy27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10063",
+    "before": null,
+    "after": "One-day change in 3-month Treasury yield, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10064",
+    "before": null,
+    "after": "One-day change in 6-month Treasury yield, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10065",
+    "before": null,
+    "after": "One-day change in 1-year Treasury yield, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10066",
+    "before": null,
+    "after": "One-day change in 2-year nominal Treasury yield, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10067",
+    "before": null,
+    "after": "One-day change in 3-year nominal Treasury yield, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10068",
+    "before": null,
+    "after": "One-day change in 5-year nominal Treasury yield, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10069",
+    "before": null,
+    "after": "One-day change in 10-year nominal Treasury yield, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10070",
+    "before": null,
+    "after": "One-day change in 2-year nominal Treasury instantaneous forward rate, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10071",
+    "before": null,
+    "after": "One-day change in 3-year nominal Treasury instantaneous forward rate, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10072",
+    "before": null,
+    "after": "One-day change in 5-year nominal Treasury instantaneous forward rate, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10073",
+    "before": null,
+    "after": "One-day change in 10-year nominal Treasury instantaneous forward rate, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10074",
+    "before": null,
+    "after": "One-day change in 2-year real Treasury yield from TIPS, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10075",
+    "before": null,
+    "after": "One-day change in 3-year real Treasury yield from TIPS, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10076",
+    "before": null,
+    "after": "One-day change in 5-year real Treasury yield from TIPS, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10077",
+    "before": null,
+    "after": "One-day change in 10-year real Treasury yield from TIPS, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10078",
+    "before": null,
+    "after": "One-day change in 2-year real Treasury instantaneous forward rate from TIPS, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10079",
+    "before": null,
+    "after": "One-day change in 3-year real Treasury instantaneous forward rate from TIPS, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10080",
+    "before": null,
+    "after": "One-day change in 5-year real Treasury instantaneous forward rate from TIPS, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10081",
+    "before": null,
+    "after": "One-day change in 10-year real Treasury instantaneous forward rate from TIPS, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10082",
+    "before": null,
+    "after": "One-day change in 2-year breakeven inflation (nominal minus real yield), percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10083",
+    "before": null,
+    "after": "One-day change in 3-year breakeven inflation, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10084",
+    "before": null,
+    "after": "One-day change in 5-year breakeven inflation, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10085",
+    "before": null,
+    "after": "One-day change in 10-year breakeven inflation, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10086",
+    "before": null,
+    "after": "One-day change in 2-year instantaneous forward breakeven inflation, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10087",
+    "before": null,
+    "after": "One-day change in 3-year instantaneous forward breakeven inflation, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10088",
+    "before": null,
+    "after": "One-day change in 5-year instantaneous forward breakeven inflation, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10089",
+    "before": null,
+    "after": "One-day change in 10-year instantaneous forward breakeven inflation, percentage-point response; printed coefficient scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4344",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4344",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4344",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4344",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4344",
+    "before": null,
+    "after": "Unexpected Fed funds rate change over remainder of meeting month measured in 30-minute window: nominal/real yields/forwards and breakeven inflation responses, Table A.2 p.1325."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4344",
+    "before": null,
+    "after": "Different treatment from principal-component news shock; 106 observations (74 for 2/3-year). No own-outcome benchmark."
+  }
+]
+```
