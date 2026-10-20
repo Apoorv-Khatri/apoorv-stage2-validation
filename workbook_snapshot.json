@@ -43359,7 +43359,16 @@
     "L4277": "1",
     "M4277": "n/a",
     "N4277": "Pooled private appeal assignment T1 versus no-appeal assignment; ITT. Table 3; Appendix A3 alternative SEs.",
-    "O4277": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
+    "O4277": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation.",
+    "A4278": "DUE9RA4X",
+    "B4278": "h2",
+    "I4278": "1",
+    "J4278": "RCT",
+    "K4278": "1",
+    "L4278": "0",
+    "M4278": "n/a",
+    "N4278": "Public T2 assignment versus control, weekly post-assignment violation dynamics. Figure 3B; Figure A3(e) repeats same scope.",
+    "O4278": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -111236,7 +111245,14 @@
     "H9867": "0",
     "I9867": "unknown",
     "J9867": "none",
-    "K9867": "Daily pipe-level COD emission concentration, mg/L per table notes; main p.835 prose instead prints ug/L (unresolved units conflict)."
+    "K9867": "Daily pipe-level COD emission concentration, mg/L per table notes; main p.835 prose instead prints ug/L (unresolved units conflict).",
+    "A9868": "DUE9RA4X",
+    "B9868": "h2",
+    "C9868": "hy1",
+    "H9868": "1",
+    "I9868": "1",
+    "J9868": "none",
+    "K9868": "Daily firm violation indicator; weekly assignment interactions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
