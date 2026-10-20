@@ -44804,7 +44804,16 @@
     "L4419": "1",
     "M4419": "n/a",
     "N4419": "Final supplement Figure A9: predicted revenue under tax-rate choices in active-control versus pooled-enforcement message regimes.",
-    "O4419": "Policy counterfactual optimization using experimental compliance schedules, not pure prediction. Printed 67%/77% x labels conflict with A15 control .554 and enforcement .779; do not silently reconcile."
+    "O4419": "Policy counterfactual optimization using experimental compliance schedules, not pure prediction. Printed 67%/77% x labels conflict with A15 control .554 and enforcement .779; do not silently reconcile.",
+    "A4420": "F3IAL93B",
+    "B4420": "h69",
+    "I4420": "1",
+    "J4420": "Other",
+    "K4420": "1",
+    "L4420": "0",
+    "M4420": "n/a",
+    "N4420": "Cited NBER Appendix B2.2 / Table B17: nonnegative reported fiscal cost max(0, signed revenue loss) and MVPF WTP/max(0, net cost), for the three abatement policies.",
+    "O4420": "Truncation at zero and MVPF ratio are nonlinear. Source calls net cost zero while acknowledging negative signed fiscal costs for 33% and 50%. WTP is separately retained as fixed-coefficient linear imputation. Revenue 216.9 is not a WTP own-outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115745,7 +115754,21 @@
     "H10369": "0",
     "I10369": "unknown",
     "J10369": "other",
-    "K10369": "Predicted tax revenue per property in CF as rate/enforcement policies change."
+    "K10369": "Predicted tax revenue per property in CF as rate/enforcement policies change.",
+    "A10370": "F3IAL93B",
+    "B10370": "h69",
+    "C10370": "hy2",
+    "H10370": "0",
+    "I10370": "unknown",
+    "J10370": "other",
+    "K10370": "Net fiscal cost in CF: 20.2, and nonpositive (reported 0) for 33%,50%.",
+    "A10371": "F3IAL93B",
+    "B10371": "h69",
+    "C10371": "hy3",
+    "H10371": "0",
+    "I10371": "unknown",
+    "J10371": "other",
+    "K10371": "Marginal value of public funds: 1.84, infinity, infinity."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

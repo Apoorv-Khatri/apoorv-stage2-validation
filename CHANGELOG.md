@@ -1027404,3 +1027404,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:56:12.772900+00:00 — Review F3IAL93B h69: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10370",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10371",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10370",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10371",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10370",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10371",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10370",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10370",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10371",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10370",
+    "before": null,
+    "after": "Net fiscal cost in CF: 20.2, and nonpositive (reported 0) for 33%,50%."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10371",
+    "before": null,
+    "after": "Marginal value of public funds: 1.84, infinity, infinity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4420",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4420",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4420",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4420",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4420",
+    "before": null,
+    "after": "Cited NBER Appendix B2.2 / Table B17: nonnegative reported fiscal cost max(0, signed revenue loss) and MVPF WTP/max(0, net cost), for the three abatement policies."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4420",
+    "before": null,
+    "after": "Truncation at zero and MVPF ratio are nonlinear. Source calls net cost zero while acknowledging negative signed fiscal costs for 33% and 50%. WTP is separately retained as fixed-coefficient linear imputation. Revenue 216.9 is not a WTP own-outcome benchmark."
+  }
+]
+```
