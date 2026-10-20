@@ -43191,7 +43191,16 @@
     "L4260": "0",
     "M4260": "unknown",
     "N4260": "Criminal—Final Disposition disclosure (reference category unverified) → employment separation, Section VI.A.2 p.283; category definitions Table 2 and Appendix pp.291–292.",
-    "O4260": "p.283 explicitly reports separation findings for the six misconduct categories (including Award/Judgment exception) and denied/closed customer disputes. Binary occurrence contrast is suggested by Table2 definitions; exact reference group/specification remains unknown. No appendix coefficient or sample inferred."
+    "O4260": "p.283 explicitly reports separation findings for the six misconduct categories (including Award/Judgment exception) and denied/closed customer disputes. Binary occurrence contrast is suggested by Table2 definitions; exact reference group/specification remains unknown. No appendix coefficient or sample inferred.",
+    "A4261": "DRDWCKUF",
+    "B4261": "h21",
+    "I4261": "1",
+    "J4261": "unknown",
+    "K4261": "1",
+    "L4261": "0",
+    "M4261": "unknown",
+    "N4261": "Civil—Final disclosure (reference category unverified) → employment separation, Section VI.A.2 p.283; category definitions Table 2 and Appendix pp.291–292.",
+    "O4261": "p.283 explicitly reports separation findings for the six misconduct categories (including Award/Judgment exception) and denied/closed customer disputes. Binary occurrence contrast is suggested by Table2 definitions; exact reference group/specification remains unknown. No appendix coefficient or sample inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110905,7 +110914,14 @@
     "H9846": "1",
     "I9846": "unknown",
     "J9846": "none",
-    "K9846": "Employment separation from original advisory firm following the specified disclosure."
+    "K9846": "Employment separation from original advisory firm following the specified disclosure.",
+    "A9847": "DRDWCKUF",
+    "B9847": "h21",
+    "C9847": "hy1",
+    "H9847": "1",
+    "I9847": "unknown",
+    "J9847": "none",
+    "K9847": "Employment separation from original advisory firm following the specified disclosure."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
