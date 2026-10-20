@@ -924675,3 +924675,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:49:59.000400+00:00 — Review E5YG2HPW s6: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8106",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8106",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8106",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8106",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8106",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8106",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8106",
+    "before": null,
+    "after": "Figure VII p.1318 paired actual and counterfactual expected OUTPUT paths; pp.1317-18 explicitly define causal difference against same underlying productivity path, later learning and policy tracking natural rate. Qualitative path comparison, no digitized coefficients or endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8106",
+    "before": null,
+    "after": "Retained under deliberate same-outcome graphical-level comparison rule. Counterfactual is a model path, not sample mean; hence other_level. Alternative: exclude as estimand construction only. Figure caption/legend say output whereas prose says output growth; do not manufacture growth triple."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10019",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10019",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10019",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2575",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2575",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2575",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10019",
+    "before": null,
+    "after": "Model-implied causal effect on natural output relative to same-productivity later-learning counterfactual, Figure VIII."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2573",
+    "before": null,
+    "after": "Model-implied net expected-output LEVEL effect: actual minus same-productivity later-learning counterfactual, Figures VII-VIII pp.1317-19. Distinct from gross expected-output belief response s5/hy2 in Figure VI. Figure VII caption/legend say output levels although nearby prose says output growth; no separate growth series inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2574",
+    "before": null,
+    "after": "Model-implied causal effect on the output gap versus same-productivity counterfactual, Figure VIII; natural-output component separately added as hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2575",
+    "before": null,
+    "after": "Duplicate of y1: Figure VII caption/legend show expected output LEVEL paths, not a separately displayed expected-growth outcome. Nearby prose says output growth; preserve source conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1019",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1019",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1019",
+    "before": null,
+    "after": "Estimated-model announcement effect on expected output versus same-productivity-path counterfactual with later learning; Figures VII-VIII pp.1317-19. Separate output-gap and natural-output net components; Figure VI gross belief responses assigned to s5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1019",
+    "before": null,
+    "after": "Figure VII caption and legend are output LEVEL paths; nearby prose calls them output growth. Preserve this conflict, do not invent separate growth outcome. Counterfactual timing is maintained, not identified from additional data. Figure IX policy-rule experiment split into h12."
+  }
+]
+```
