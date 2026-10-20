@@ -44651,7 +44651,16 @@
     "L4402": "0",
     "M4402": "n/a",
     "N4402": "Cited NBER Appendix B Table B19 Panel B: central versus local message subgroups; nonlinear RMTR from compliance response schedule.",
-    "O4402": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
+    "O4402": "Ratio/root of outcome-estimated coefficients; source version explicitly identified.",
+    "A4403": "F3IAL93B",
+    "B4403": "h52",
+    "I4403": "1",
+    "J4403": "RCT",
+    "K4403": "0",
+    "L4403": "0",
+    "M4403": "n/a",
+    "N4403": "Cited NBER Appendix B Table B19 Panel A: central versus local message subgroups; randomized rate polynomial effects on compliance (underlying schedule).",
+    "O4403": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115319,7 +115328,14 @@
     "H10330": "0",
     "I10330": "unknown",
     "J10330": "other",
-    "K10330": "RMTR as fraction of status quo; central versus local message subgroups."
+    "K10330": "RMTR as fraction of status quo; central versus local message subgroups.",
+    "A10331": "F3IAL93B",
+    "B10331": "h52",
+    "C10331": "hy1",
+    "H10331": "1",
+    "I10331": "1",
+    "J10331": "none",
+    "K10331": "Property tax compliance indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
