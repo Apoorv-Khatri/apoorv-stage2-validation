@@ -42212,7 +42212,16 @@
     "L4171": "0",
     "M4171": "n/a",
     "N4171": "Predicted average business tax rate: net business income excluding owner wages Location: Table A.9 epsilon_ATR ITT",
-    "O4171": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4171": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4172": "A8LFPXLL",
+    "B4172": "h46",
+    "I4172": "1",
+    "J4172": "DiD_conventional",
+    "K4172": "0",
+    "L4172": "0",
+    "M4172": "n/a",
+    "N4172": "Predicted average business tax rate: single-owner and excluding top 0.1% samples Location: Table A.9 epsilon_ATR ITT",
+    "O4172": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106262,7 +106271,11 @@
     "A9337": "A8LFPXLL",
     "B9337": "h45",
     "C9337": "hy1",
-    "K9337": "Log average employee earnings; elasticity with respect to predicted ATR under net business income excluding owner wages."
+    "K9337": "Log average employee earnings; elasticity with respect to predicted ATR under net business income excluding owner wages.",
+    "A9338": "A8LFPXLL",
+    "B9338": "h46",
+    "C9338": "hy1",
+    "K9338": "Log average employee earnings; elasticity with respect to predicted ATR under single-owner and excluding top 0.1% samples."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

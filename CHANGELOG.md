@@ -844653,3 +844653,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:50:41.049007+00:00 — Review A8LFPXLL h46: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9338",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9338",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9338",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9338",
+    "before": null,
+    "after": "Log average employee earnings; elasticity with respect to predicted ATR under single-owner and excluding top 0.1% samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4172",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4172",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4172",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4172",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4172",
+    "before": null,
+    "after": "Predicted average business tax rate: single-owner and excluding top 0.1% samples Location: Table A.9 epsilon_ATR ITT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4172",
+    "before": null,
+    "after": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+  }
+]
+```
