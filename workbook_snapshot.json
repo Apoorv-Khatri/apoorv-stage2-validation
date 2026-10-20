@@ -43236,7 +43236,16 @@
     "L4265": "0",
     "M4265": "n/a",
     "N4265": "Regulatory—Final disclosure → duration/rehiring hazard among separated advisers; Section VI.A.2 p.283, reestimated Cox equation (7).",
-    "O4265": "Six misconduct-category Cox effects explicitly established in main text; other disclosure-category Cox allocations held pending appendix. References and coefficients not supplied."
+    "O4265": "Six misconduct-category Cox effects explicitly established in main text; other disclosure-category Cox allocations held pending appendix. References and coefficients not supplied.",
+    "A4266": "DRDWCKUF",
+    "B4266": "h41",
+    "I4266": "1",
+    "J4266": "Other",
+    "K4266": "1",
+    "L4266": "0",
+    "M4266": "n/a",
+    "N4266": "Employment Separation after Allegations disclosure → duration/rehiring hazard among separated advisers; Section VI.A.2 p.283, reestimated Cox equation (7).",
+    "O4266": "Six misconduct-category Cox effects explicitly established in main text; other disclosure-category Cox allocations held pending appendix. References and coefficients not supplied."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110985,7 +110994,14 @@
     "H9851": "0",
     "I9851": "unknown",
     "J9851": "other",
-    "K9851": "Out-of-industry duration with reemployment event/right censoring; Cox hazard ratio reported."
+    "K9851": "Out-of-industry duration with reemployment event/right censoring; Cox hazard ratio reported.",
+    "A9852": "DRDWCKUF",
+    "B9852": "h41",
+    "C9852": "hy1",
+    "H9852": "0",
+    "I9852": "unknown",
+    "J9852": "other",
+    "K9852": "Out-of-industry duration with reemployment event/right censoring; Cox hazard ratio reported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
