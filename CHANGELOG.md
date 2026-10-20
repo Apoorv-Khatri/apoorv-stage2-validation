@@ -924024,3 +924024,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:47:51.174421+00:00 — Review E5YG2HPW s3: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2557",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2558",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2560",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2562",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2564",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2557",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2558",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2560",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2562",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2564",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2557",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2558",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2560",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2562",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2564",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2557",
+    "before": null,
+    "after": "Inactive duplicate: quarter-specific Table A.5 result moved to h8/hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2558",
+    "before": null,
+    "after": "Inactive duplicate: quarter-specific Table A.5 result moved to h8/hy2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2559",
+    "before": null,
+    "after": "Inactive duplicate: quarter-specific Table A.5 result moved to h8/hy3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2560",
+    "before": null,
+    "after": "Inactive duplicate: quarter-specific Table A.5 result moved to h8/hy4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2561",
+    "before": null,
+    "after": "Inactive duplicate: quarter-specific Table A.5 result moved to h8/hy5."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2562",
+    "before": null,
+    "after": "Inactive duplicate: quarter-specific Table A.5 result moved to h8/hy6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2563",
+    "before": null,
+    "after": "Inactive duplicate: quarter-specific Table A.5 result moved to h8/hy7."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2564",
+    "before": null,
+    "after": "Inactive duplicate: quarter-specific Table A.5 result moved to h8/hy8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1016",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1016",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1016",
+    "before": null,
+    "after": "Monthly policy-news shock effect on Blue Chip revision in average expected annualized real GDP growth over next three quarters; Table III and Figure II. Separate quarter-specific Table A.5 setting h8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1016",
+    "before": null,
+    "after": "Table III p.1304 and Online Appendix F eqs.(13)-(15). Next year is table title; actual aggregate is next THREE quarters. Monthly outcome requires stronger exogeneity than event-window yields."
+  }
+]
+```
