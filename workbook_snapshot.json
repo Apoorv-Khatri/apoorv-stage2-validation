@@ -43949,7 +43949,16 @@
     "L4334": "0",
     "M4334": "n/a",
     "N4334": "T1B website regulator assignment versus control, biweekly emission-concentration dynamics. Figure A4 p.5; main fn25 p.835.",
-    "O4334": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
+    "O4334": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation.",
+    "A4335": "DUE9RA4X",
+    "B4335": "h59",
+    "I4335": "1",
+    "J4335": "RCT",
+    "K4335": "1",
+    "L4335": "0",
+    "M4335": "n/a",
+    "N4335": "T1C call regulator assignment versus control, biweekly emission-concentration dynamics. Figure A4 p.5; main fn25 p.835.",
+    "O4335": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -112678,7 +112687,21 @@
     "H9975": "0",
     "I9975": "unknown",
     "J9975": "none",
-    "K9975": "COD daily pipe emission concentration, mg/L; biweekly assignment interactions."
+    "K9975": "COD daily pipe emission concentration, mg/L; biweekly assignment interactions.",
+    "A9976": "DUE9RA4X",
+    "B9976": "h59",
+    "C9976": "hy1",
+    "H9976": "0",
+    "I9976": "unknown",
+    "J9976": "none",
+    "K9976": "SO2 daily pipe emission concentration, mg/m3; biweekly assignment interactions.",
+    "A9977": "DUE9RA4X",
+    "B9977": "h59",
+    "C9977": "hy2",
+    "H9977": "0",
+    "I9977": "unknown",
+    "J9977": "none",
+    "K9977": "COD daily pipe emission concentration, mg/L; biweekly assignment interactions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
