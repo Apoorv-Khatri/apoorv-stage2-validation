@@ -1027551,3 +1027551,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:56:51.331178+00:00 — Review F3IAL93B h70: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10372",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10373",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10374",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10372",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10373",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10374",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10372",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10373",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10374",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10373",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10372",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10373",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10374",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10372",
+    "before": null,
+    "after": "Post-registration visit indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10373",
+    "before": null,
+    "after": "Number of post-registration visits."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10374",
+    "before": null,
+    "after": "Indicator sanctions likely/very likely."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4421",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4421",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4421",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4421",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4421",
+    "before": null,
+    "after": "Final Figure A4 / Eq. (7): randomized collector-assignment effects underlying collector-level visit frequency and perceived-sanction measures."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4421",
+    "before": null,
+    "after": "Figure A4 caption states all y-axis estimates use Eq. (7); distinguish assignment effects from the second-stage capacity correlations. No numerical collector coefficients invented."
+  }
+]
+```
