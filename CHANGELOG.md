@@ -844131,3 +844131,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:48:08.351013+00:00 — Review A8LFPXLL h40: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9332",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9332",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9332",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9332",
+    "before": null,
+    "after": "Change in total firm wage bill in dollars."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4166",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4166",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4166",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4166",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4166",
+    "before": null,
+    "after": "Business tax liability net ordinary business income only (excluding owner wages): observed total liability instrumented by baseline exposure Location: Figure A.7 and Table A.9 net ordinary business income only (excluding owner wages)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4166",
+    "before": null,
+    "after": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV."
+  }
+]
+```

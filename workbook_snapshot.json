@@ -42158,7 +42158,16 @@
     "L4165": "0",
     "M4165": "n/a",
     "N4165": "Business tax liability net ordinary business income only (excluding owner wages): predicted per-worker dose Location: Figure A.7 and Table A.9 net ordinary business income only (excluding owner wages)",
-    "O4165": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV."
+    "O4165": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV.",
+    "A4166": "A8LFPXLL",
+    "B4166": "h40",
+    "I4166": "1",
+    "J4166": "IV",
+    "K4166": "0",
+    "L4166": "0",
+    "M4166": "single binary",
+    "N4166": "Business tax liability net ordinary business income only (excluding owner wages): observed total liability instrumented by baseline exposure Location: Figure A.7 and Table A.9 net ordinary business income only (excluding owner wages)",
+    "O4166": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106184,7 +106193,11 @@
     "A9331": "A8LFPXLL",
     "B9331": "h39",
     "C9331": "hy1",
-    "K9331": "Change in average employee earnings in dollars."
+    "K9331": "Change in average employee earnings in dollars.",
+    "A9332": "A8LFPXLL",
+    "B9332": "h40",
+    "C9332": "hy1",
+    "K9332": "Change in total firm wage bill in dollars."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
