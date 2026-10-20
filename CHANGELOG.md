@@ -846852,3 +846852,294 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:56:17.144334+00:00 — Review AG8QMNLF s7: source-audited coding and linked comparisons
+
+47 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7561",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7562",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7563",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7561",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7562",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7563",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7561",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7562",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7563",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K663",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K664",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K665",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7562",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7561",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7562",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7563",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7561",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7562",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7563",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7563",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7563",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7562",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7561",
+    "before": null,
+    "after": "Figure X p.500 caption and p.502: preferred construction4 fitted SD 0.1175 at annual inflation 50% deliberately paired with zero-inflation fitted SD0.108 to compute extra dispersion. Same dispersion outcome levels, no invented difference or ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7562",
+    "before": null,
+    "after": "Figure X p.500 caption and p.502: preferred construction4 fitted SD 0.129 at annual inflation 100% deliberately paired with zero-inflation fitted SD0.108 to compute extra dispersion. Same dispersion outcome levels, no invented difference or ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7563",
+    "before": null,
+    "after": "Figure X p.500 caption and p.502: preferred construction4 fitted SD 0.2 at annual inflation 500% deliberately paired with zero-inflation fitted SD0.108 to compute extra dispersion. Same dispersion outcome levels, no invented difference or ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R663",
+    "before": null,
+    "after": "Wrong outcome/estimand: this is a structural output-loss calculation, not an inflation coefficient on price SD. Retain separate welfare setting h1 and output-denominator comparisons there; SD-level contrast evidence separately hc1–hc3."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R664",
+    "before": null,
+    "after": "Wrong outcome/estimand: this is a structural output-loss calculation, not an inflation coefficient on price SD. Retain separate welfare setting h1 and output-denominator comparisons there; SD-level contrast evidence separately hc1–hc3."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R665",
+    "before": null,
+    "after": "Wrong outcome/estimand: this is a structural output-loss calculation, not an inflation coefficient on price SD. Retain separate welfare setting h1 and output-denominator comparisons there; SD-level contrast evidence separately hc1–hc3."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7561",
+    "before": null,
+    "after": "Retain deliberate fitted same-outcome level pairing: caption lists SD endpoints and equation (8) links each to zero-inflation dispersion. Listing (pi,SD) pairs is not explicit verbal comparison of these SD values; verbal=0, divided=0. SD is the outcome, not its standardization benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7562",
+    "before": null,
+    "after": "Retain deliberate fitted same-outcome level pairing: caption lists SD endpoints and equation (8) links each to zero-inflation dispersion. Listing (pi,SD) pairs is not explicit verbal comparison of these SD values; verbal=0, divided=0. SD is the outcome, not its standardization benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7563",
+    "before": null,
+    "after": "Retain deliberate fitted same-outcome level pairing: caption lists SD endpoints and equation (8) links each to zero-inflation dispersion. Listing (pi,SD) pairs is not explicit verbal comparison of these SD values; verbal=0, divided=0. SD is the outcome, not its standardization benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2445",
+    "before": null,
+    "after": "Cross-sectional residual SD of log relative prices after each price-on-FE construction; final inflation-response fit is OLS quadratic in this reported SD in levels (Figure X). Not an outcome-SD-standardized causal coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J980",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M980",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N980",
+    "before": null,
+    "after": "Expected inflation → constructed cross-sectional residual price SD; Figure X and Table IV pp.497–500, five outcome-construction variants, downstream OLS quadratic in levels. Welfare output-loss calculation separately h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O980",
+    "before": null,
+    "after": "The inflation coefficient is not in the upstream price-on-dummies regressions. FE construct residual dispersion; final identifying time-series argument p.497 assumes only inflation changes dispersion. Therefore no FE/HDFE split in focal regression. Upstream sets are 1,3,2,2,3 (model claim all at most2 is false). Full-micro-outcome domain would be Other; chosen domain is reported dispersion series. Prose222 periods conflicts with table212; retain table counts without silently repairing prose. Author-intention inclusion: pp.452–453 and 469–470 connect these empirical relationships to inflation comparative statics conditional on stable idiosyncratic-shock variance and expected inflation. Observational identification, not randomized or policy DiD."
+  }
+]
+```
