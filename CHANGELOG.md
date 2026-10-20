@@ -928863,3 +928863,1074 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T15:00:11.643484+00:00 — Review E5YG2HPW h11: source-audited coding and linked comparisons
+
+177 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10159",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10160",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10161",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10162",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10163",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10164",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10165",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10166",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10167",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10168",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10169",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10170",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10171",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10172",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10173",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10174",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10175",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10176",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10177",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10178",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10179",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10180",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10181",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10182",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10183",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10184",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10185",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10186",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10187",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10188",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10189",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10190",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10191",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10192",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10193",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10194",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10195",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10196",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10197",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10198",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10199",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10200",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10159",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10160",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10161",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10162",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10163",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10164",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10165",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10166",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10167",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10168",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10169",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10170",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10171",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10172",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10173",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10174",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10175",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10176",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10177",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10178",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10179",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10180",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10181",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10182",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10183",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10184",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10185",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10186",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10187",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10188",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10189",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10190",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10191",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10192",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10193",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10194",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10195",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10196",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10197",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10198",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10199",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10200",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10159",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10160",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10161",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10162",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10163",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10164",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10165",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10166",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10167",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10168",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10169",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10170",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10171",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10172",
+    "before": null,
+    "after": "hy14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10173",
+    "before": null,
+    "after": "hy15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10174",
+    "before": null,
+    "after": "hy16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10175",
+    "before": null,
+    "after": "hy17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10176",
+    "before": null,
+    "after": "hy18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10177",
+    "before": null,
+    "after": "hy19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10178",
+    "before": null,
+    "after": "hy20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10179",
+    "before": null,
+    "after": "hy21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10180",
+    "before": null,
+    "after": "hy22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10181",
+    "before": null,
+    "after": "hy23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10182",
+    "before": null,
+    "after": "hy24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10183",
+    "before": null,
+    "after": "hy25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10184",
+    "before": null,
+    "after": "hy26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10185",
+    "before": null,
+    "after": "hy27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10186",
+    "before": null,
+    "after": "hy28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10187",
+    "before": null,
+    "after": "hy29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10188",
+    "before": null,
+    "after": "hy30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10189",
+    "before": null,
+    "after": "hy31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10190",
+    "before": null,
+    "after": "hy32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10191",
+    "before": null,
+    "after": "hy33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10192",
+    "before": null,
+    "after": "hy34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10193",
+    "before": null,
+    "after": "hy35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10194",
+    "before": null,
+    "after": "hy36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10195",
+    "before": null,
+    "after": "hy37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10196",
+    "before": null,
+    "after": "hy38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10197",
+    "before": null,
+    "after": "hy39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10198",
+    "before": null,
+    "after": "hy40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10199",
+    "before": null,
+    "after": "hy41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10200",
+    "before": null,
+    "after": "hy42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10159",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 1 in 2-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10160",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 1 in 3-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10161",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 1 in 5-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10162",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 1 in 2-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10163",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 1 in 3-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10164",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 1 in 5-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10165",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 5 in 2-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10166",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 5 in 3-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10167",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 5 in 5-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10168",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 5 in 2-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10169",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 5 in 3-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10170",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 5 in 5-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10171",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 10 in 2-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10172",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 10 in 3-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10173",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 10 in 5-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10174",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 10 in 2-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10175",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 10 in 3-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10176",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 10 in 5-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10177",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 20 in 2-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10178",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 20 in 3-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10179",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 20 in 5-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10180",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 20 in 2-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10181",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 20 in 3-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10182",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 20 in 5-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10183",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 60 in 2-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10184",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 60 in 3-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10185",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 60 in 5-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10186",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 60 in 2-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10187",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 60 in 3-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10188",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 60 in 5-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10189",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 125 in 2-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10190",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 125 in 3-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10191",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 125 in 5-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10192",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 125 in 2-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10193",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 125 in 3-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10194",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 125 in 5-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10195",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 250 in 2-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10196",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 250 in 3-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10197",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 250 in 5-year nominal zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10198",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 250 in 2-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10199",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 250 in 3-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10200",
+    "before": null,
+    "after": "Cumulative change from day before FOMC through trading day 250 in 5-year real zero-coupon yield; Table D.3, percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4349",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4349",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4349",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4349",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4349",
+    "before": null,
+    "after": "30-minute policy-news shock effect on cumulative nominal/real zero-coupon yield changes at longer post-announcement horizons, Online Appendix Table D.3 p.11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4349",
+    "before": null,
+    "after": "Outcomes cumulate from day before FOMC through days 1,5,10,20,60,125,250; Newey-West SEs with four lags. Day1 repeats baseline scope; keep horizons together at this location. Substantive persistence evidence despite imprecision; no mean/SD benchmark."
+  }
+]
+```
