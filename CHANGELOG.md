@@ -845229,3 +845229,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:53:10.483314+00:00 — Review A8LFPXLL h52: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7549",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7550",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7551",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7549",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7550",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7551",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7549",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7550",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7551",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7550",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7549",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7550",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7551",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7549",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7550",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7551",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7549",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7550",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7551",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7549",
+    "before": null,
+    "after": "Author-linked Appendix Table A.11 printed Case 2: observed-rate calibrated MVPF 1.42 against no-spillover level 1.35 for business income taxation. Observed rate printed 0.19, conflicting with final Table V 0.18."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7550",
+    "before": null,
+    "after": "Author-linked Appendix Table A.11 printed Case 2: observed-rate calibrated MVPF 1.37 against no-spillover level 1.35 for taxing business owners. Observed rate printed 0.19, conflicting with final Table V 0.18."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7551",
+    "before": null,
+    "after": "Author-linked Appendix Table A.11 printed Case 2: observed-rate calibrated MVPF 1.36 against no-spillover level 1.35 for top marginal rate. Observed rate printed 0.19, conflicting with final Table V 0.18."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7549",
+    "before": null,
+    "after": "Numerical calibration valid as printed author-linked supplement; publisher final-byte match unresolved. No invented subtraction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7550",
+    "before": null,
+    "after": "Numerical calibration valid as printed author-linked supplement; publisher final-byte match unresolved. No invented subtraction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7551",
+    "before": null,
+    "after": "Numerical calibration valid as printed author-linked supplement; publisher final-byte match unresolved. No invented subtraction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9344",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9345",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9346",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9344",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9345",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9346",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9344",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9345",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9346",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9344",
+    "before": null,
+    "after": "MVPF for business income taxation, Appendix G Case 2, dimensionless."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9345",
+    "before": null,
+    "after": "MVPF for taxing business owners, Appendix G Case 2, dimensionless."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9346",
+    "before": null,
+    "after": "MVPF for top marginal rate, Appendix G Case 2, dimensionless."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4178",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4178",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4178",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4178",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4178",
+    "before": null,
+    "after": "Empirical pass-through calibrated MVPF under Appendix G Case 2 mechanism Location: Table A.11 observed rate and no-spillovers rows; Appendix G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4178",
+    "before": null,
+    "after": "Nonlinear rational calibration. Printed case headers preserved. Caption says Case 2 is Table V although Eq.(6) matches G Case 1; no assertion of final-version numerical equivalence. Hypothetical sensitivity rows conceptual, not fitted effects."
+  }
+]
+```
