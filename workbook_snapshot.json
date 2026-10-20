@@ -42203,7 +42203,16 @@
     "L4170": "0",
     "M4170": "n/a",
     "N4170": "Predicted average business tax rate: business income before partnership income Location: Table A.9 epsilon_ATR ITT",
-    "O4170": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4170": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4171": "A8LFPXLL",
+    "B4171": "h45",
+    "I4171": "1",
+    "J4171": "DiD_conventional",
+    "K4171": "0",
+    "L4171": "0",
+    "M4171": "n/a",
+    "N4171": "Predicted average business tax rate: net business income excluding owner wages Location: Table A.9 epsilon_ATR ITT",
+    "O4171": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106249,7 +106258,11 @@
     "A9336": "A8LFPXLL",
     "B9336": "h44",
     "C9336": "hy1",
-    "K9336": "Log average employee earnings; elasticity with respect to predicted ATR under business income before partnership income."
+    "K9336": "Log average employee earnings; elasticity with respect to predicted ATR under business income before partnership income.",
+    "A9337": "A8LFPXLL",
+    "B9337": "h45",
+    "C9337": "hy1",
+    "K9337": "Log average employee earnings; elasticity with respect to predicted ATR under net business income excluding owner wages."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
