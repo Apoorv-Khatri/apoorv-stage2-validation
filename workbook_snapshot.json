@@ -42360,7 +42360,16 @@
     "L4182": "0",
     "M4182": "n/a",
     "N4182": "Industry-specific inflation → log price-change frequency and fitted implied duration; Table II p.488 and six-digit extension footnote24.",
-    "O4182": "Separate result location from Table I; estimated-threshold NLLS for each five-digit industry. Table summarizes fitted-parameter distribution; its coefficient means/SDs are not outcome benchmarks. Six-digit qualitative extension is routine aggregation sensitivity, not an invented coefficient grid."
+    "O4182": "Separate result location from Table I; estimated-threshold NLLS for each five-digit industry. Table summarizes fitted-parameter distribution; its coefficient means/SDs are not outcome benchmarks. Six-digit qualitative extension is routine aggregation sensitivity, not an invented coefficient grid.",
+    "A4183": "AG8QMNLF",
+    "B4183": "h3",
+    "I4183": "1",
+    "J4183": "OLS",
+    "K4183": "0",
+    "L4183": "0",
+    "M4183": "n/a",
+    "N4183": "Inflation → frequency estimates under sampling-periodicity restrictions, Figure VII B pp.489–490, fifth-degree polynomial fits; lambda=-log(1−f) and alternative f.",
+    "O4183": "Caption establishes fixed-order polynomial on reported aggregate series, not NLLS threshold. Keep both reported frequency definitions as individual outcomes and group routine inflation-range restrictions including footnote25. Monte Carlo panelA is diagnostic, not an additional empirical setting."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106504,7 +106513,15 @@
     "A9356": "AG8QMNLF",
     "B9356": "h2",
     "C9356": "hy2",
-    "K9356": "Fitted implied duration1/lambda in months at zero inflation by industry; Table II duration column (distribution of fitted durations)."
+    "K9356": "Fitted implied duration1/lambda in months at zero inflation by industry; Table II duration column (distribution of fitted durations).",
+    "A9357": "AG8QMNLF",
+    "B9357": "h3",
+    "C9357": "hy1",
+    "K9357": "Biweekly instantaneous price-adjustment frequency lambda=-log(1−f), homogeneous goods; polynomial fit excluding inflation>200%, and footnote25 windows.",
+    "A9358": "AG8QMNLF",
+    "B9358": "h3",
+    "C9358": "hy2",
+    "K9358": "Biweekly fraction f of outlets changing price, used as Sheshinski-Weiss frequency estimator, homogeneous goods; Figure VII B and footnote25 windows. Rate not binary outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

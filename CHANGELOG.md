@@ -847539,3 +847539,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:57:39.587591+00:00 — Review AG8QMNLF h3: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9357",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9358",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9357",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9358",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9357",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9358",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9357",
+    "before": null,
+    "after": "Biweekly instantaneous price-adjustment frequency lambda=-log(1−f), homogeneous goods; polynomial fit excluding inflation>200%, and footnote25 windows."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9358",
+    "before": null,
+    "after": "Biweekly fraction f of outlets changing price, used as Sheshinski-Weiss frequency estimator, homogeneous goods; Figure VII B and footnote25 windows. Rate not binary outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4183",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4183",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4183",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4183",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4183",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4183",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4183",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4183",
+    "before": null,
+    "after": "Inflation → frequency estimates under sampling-periodicity restrictions, Figure VII B pp.489–490, fifth-degree polynomial fits; lambda=-log(1−f) and alternative f."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4183",
+    "before": null,
+    "after": "Caption establishes fixed-order polynomial on reported aggregate series, not NLLS threshold. Keep both reported frequency definitions as individual outcomes and group routine inflation-range restrictions including footnote25. Monte Carlo panelA is diagnostic, not an additional empirical setting."
+  }
+]
+```
