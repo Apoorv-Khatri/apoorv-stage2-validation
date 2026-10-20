@@ -990546,3 +990546,17574 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:51:35.106870+00:00 — Review F3IAL93B h63: source-audited coding and linked comparisons
+
+2927 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8862",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8863",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8864",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8865",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8866",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8867",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8868",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8869",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8870",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8871",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8872",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8873",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8874",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8875",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8876",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8877",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8878",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8879",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8880",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8881",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8882",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8883",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8884",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8885",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8886",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8887",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8888",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8889",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8890",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8891",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8892",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8893",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8894",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8895",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8896",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8897",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8898",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8899",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8900",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8901",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8902",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8903",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8904",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8905",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8906",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8907",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8908",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8909",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8910",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8911",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8912",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8913",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8914",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8915",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8916",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8917",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8918",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8919",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8920",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8921",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8922",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8923",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8924",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8925",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8926",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8927",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8928",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8929",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8930",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8931",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8932",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8933",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8934",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8935",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8936",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8937",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8938",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8939",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8940",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8941",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8942",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8943",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8944",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8945",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8946",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8947",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8948",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8949",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8950",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8951",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8952",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8953",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8954",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8955",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8956",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8957",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8958",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8959",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8960",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8961",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8962",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8963",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8964",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8965",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8966",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8967",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8968",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8969",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8970",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8971",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8972",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8973",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8974",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8975",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8976",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8977",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8978",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8979",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8980",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8981",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8982",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8983",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8984",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8985",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8986",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8987",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8988",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8989",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8990",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8991",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8992",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8993",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8994",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8995",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8996",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8997",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8998",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8999",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9000",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9001",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9002",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9003",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9004",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9005",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9006",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9007",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9008",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9009",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9010",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9011",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9012",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9013",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9014",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9015",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9016",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9017",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9018",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9019",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9020",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9021",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9022",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9023",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9024",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9025",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9026",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9027",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9028",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9029",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9030",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9031",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9032",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9033",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9034",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9035",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9036",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9037",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9038",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9039",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9040",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9041",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9042",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9043",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9044",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9045",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9046",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9047",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9048",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9049",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9050",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9051",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9052",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9053",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9054",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9055",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9056",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9057",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9058",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9059",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9060",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9061",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9062",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9063",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9064",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9065",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9066",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9067",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9068",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9069",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9070",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9071",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9072",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9073",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9074",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9075",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9076",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9077",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9078",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9079",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9080",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9081",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9082",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9083",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9084",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9085",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9086",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9087",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9088",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9089",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9090",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9091",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9092",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9093",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9094",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9095",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9096",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9097",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9098",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9099",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9100",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9101",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9102",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9103",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9104",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9105",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9106",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9107",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9108",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9109",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9110",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9111",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9112",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9113",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9114",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9115",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9116",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9117",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9118",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9119",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9120",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9121",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9122",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9123",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9124",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9125",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8862",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8863",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8864",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8865",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8866",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8867",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8868",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8869",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8870",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8871",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8872",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8873",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8874",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8875",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8876",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8877",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8878",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8879",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8880",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8881",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8882",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8883",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8884",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8885",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8886",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8887",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8888",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8889",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8890",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8891",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8892",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8893",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8894",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8895",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8896",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8897",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8898",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8899",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8900",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8901",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8902",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8903",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8904",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8905",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8906",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8907",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8908",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8909",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8910",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8911",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8912",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8913",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8914",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8915",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8916",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8917",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8918",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8919",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8920",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8921",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8922",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8923",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8924",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8925",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8926",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8927",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8928",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8929",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8930",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8931",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8932",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8933",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8934",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8935",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8936",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8937",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8938",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8939",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8940",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8941",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8942",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8943",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8944",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8945",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8946",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8947",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8948",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8949",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8950",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8951",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8952",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8953",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8954",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8955",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8956",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8957",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8958",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8959",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8960",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8961",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8962",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8963",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8964",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8965",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8966",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8967",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8968",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8969",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8970",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8971",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8972",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8973",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8974",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8975",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8976",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8977",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8978",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8979",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8980",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8981",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8982",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8983",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8984",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8985",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8986",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8987",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8988",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8989",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8990",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8991",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8992",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8993",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8994",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8995",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8996",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8997",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8998",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8999",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9000",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9001",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9002",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9003",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9004",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9005",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9006",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9007",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9008",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9009",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9010",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9011",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9012",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9013",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9014",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9015",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9016",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9017",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9018",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9019",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9020",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9021",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9022",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9023",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9024",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9025",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9026",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9027",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9028",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9029",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9030",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9031",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9032",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9033",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9034",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9035",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9036",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9037",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9038",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9039",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9040",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9041",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9042",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9043",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9044",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9045",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9046",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9047",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9048",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9049",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9050",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9051",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9052",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9053",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9054",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9055",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9056",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9057",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9058",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9059",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9060",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9061",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9062",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9063",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9064",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9065",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9066",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9067",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9068",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9069",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9070",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9071",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9072",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9073",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9074",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9075",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9076",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9077",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9078",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9079",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9080",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9081",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9082",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9083",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9084",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9085",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9086",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9087",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9088",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9089",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9090",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9091",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9092",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9093",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9094",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9095",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9096",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9097",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9098",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9099",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9100",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9101",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9102",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9103",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9104",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9105",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9106",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9107",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9108",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9109",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9110",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9111",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9112",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9113",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9114",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9115",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9116",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9117",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9118",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9119",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9120",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9121",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9122",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9123",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9124",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9125",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8862",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8863",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8864",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8865",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8866",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8867",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8868",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8869",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8870",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8871",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8872",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8873",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8874",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8875",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8876",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8877",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8878",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8879",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8880",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8881",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8882",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8883",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8884",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8885",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8886",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8887",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8888",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8889",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8890",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8891",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8892",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8893",
+    "before": null,
+    "after": "hc32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8894",
+    "before": null,
+    "after": "hc33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8895",
+    "before": null,
+    "after": "hc34"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8896",
+    "before": null,
+    "after": "hc35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8897",
+    "before": null,
+    "after": "hc36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8898",
+    "before": null,
+    "after": "hc37"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8899",
+    "before": null,
+    "after": "hc38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8900",
+    "before": null,
+    "after": "hc39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8901",
+    "before": null,
+    "after": "hc40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8902",
+    "before": null,
+    "after": "hc41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8903",
+    "before": null,
+    "after": "hc42"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8904",
+    "before": null,
+    "after": "hc43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8905",
+    "before": null,
+    "after": "hc44"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8906",
+    "before": null,
+    "after": "hc45"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8907",
+    "before": null,
+    "after": "hc46"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8908",
+    "before": null,
+    "after": "hc47"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8909",
+    "before": null,
+    "after": "hc48"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8910",
+    "before": null,
+    "after": "hc49"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8911",
+    "before": null,
+    "after": "hc50"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8912",
+    "before": null,
+    "after": "hc51"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8913",
+    "before": null,
+    "after": "hc52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8914",
+    "before": null,
+    "after": "hc53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8915",
+    "before": null,
+    "after": "hc54"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8916",
+    "before": null,
+    "after": "hc55"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8917",
+    "before": null,
+    "after": "hc56"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8918",
+    "before": null,
+    "after": "hc57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8919",
+    "before": null,
+    "after": "hc58"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8920",
+    "before": null,
+    "after": "hc59"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8921",
+    "before": null,
+    "after": "hc60"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8922",
+    "before": null,
+    "after": "hc61"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8923",
+    "before": null,
+    "after": "hc62"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8924",
+    "before": null,
+    "after": "hc63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8925",
+    "before": null,
+    "after": "hc64"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8926",
+    "before": null,
+    "after": "hc65"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8927",
+    "before": null,
+    "after": "hc66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8928",
+    "before": null,
+    "after": "hc67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8929",
+    "before": null,
+    "after": "hc68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8930",
+    "before": null,
+    "after": "hc69"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8931",
+    "before": null,
+    "after": "hc70"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8932",
+    "before": null,
+    "after": "hc71"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8933",
+    "before": null,
+    "after": "hc72"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8934",
+    "before": null,
+    "after": "hc73"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8935",
+    "before": null,
+    "after": "hc74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8936",
+    "before": null,
+    "after": "hc75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8937",
+    "before": null,
+    "after": "hc76"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8938",
+    "before": null,
+    "after": "hc77"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8939",
+    "before": null,
+    "after": "hc78"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8940",
+    "before": null,
+    "after": "hc79"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8941",
+    "before": null,
+    "after": "hc80"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8942",
+    "before": null,
+    "after": "hc81"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8943",
+    "before": null,
+    "after": "hc82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8944",
+    "before": null,
+    "after": "hc83"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8945",
+    "before": null,
+    "after": "hc84"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8946",
+    "before": null,
+    "after": "hc85"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8947",
+    "before": null,
+    "after": "hc86"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8948",
+    "before": null,
+    "after": "hc87"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8949",
+    "before": null,
+    "after": "hc88"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8950",
+    "before": null,
+    "after": "hc89"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8951",
+    "before": null,
+    "after": "hc90"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8952",
+    "before": null,
+    "after": "hc91"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8953",
+    "before": null,
+    "after": "hc92"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8954",
+    "before": null,
+    "after": "hc93"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8955",
+    "before": null,
+    "after": "hc94"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8956",
+    "before": null,
+    "after": "hc95"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8957",
+    "before": null,
+    "after": "hc96"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8958",
+    "before": null,
+    "after": "hc97"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8959",
+    "before": null,
+    "after": "hc98"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8960",
+    "before": null,
+    "after": "hc99"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8961",
+    "before": null,
+    "after": "hc100"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8962",
+    "before": null,
+    "after": "hc101"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8963",
+    "before": null,
+    "after": "hc102"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8964",
+    "before": null,
+    "after": "hc103"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8965",
+    "before": null,
+    "after": "hc104"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8966",
+    "before": null,
+    "after": "hc105"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8967",
+    "before": null,
+    "after": "hc106"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8968",
+    "before": null,
+    "after": "hc107"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8969",
+    "before": null,
+    "after": "hc108"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8970",
+    "before": null,
+    "after": "hc109"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8971",
+    "before": null,
+    "after": "hc110"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8972",
+    "before": null,
+    "after": "hc111"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8973",
+    "before": null,
+    "after": "hc112"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8974",
+    "before": null,
+    "after": "hc113"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8975",
+    "before": null,
+    "after": "hc114"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8976",
+    "before": null,
+    "after": "hc115"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8977",
+    "before": null,
+    "after": "hc116"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8978",
+    "before": null,
+    "after": "hc117"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8979",
+    "before": null,
+    "after": "hc118"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8980",
+    "before": null,
+    "after": "hc119"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8981",
+    "before": null,
+    "after": "hc120"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8982",
+    "before": null,
+    "after": "hc121"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8983",
+    "before": null,
+    "after": "hc122"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8984",
+    "before": null,
+    "after": "hc123"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8985",
+    "before": null,
+    "after": "hc124"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8986",
+    "before": null,
+    "after": "hc125"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8987",
+    "before": null,
+    "after": "hc126"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8988",
+    "before": null,
+    "after": "hc127"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8989",
+    "before": null,
+    "after": "hc128"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8990",
+    "before": null,
+    "after": "hc129"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8991",
+    "before": null,
+    "after": "hc130"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8992",
+    "before": null,
+    "after": "hc131"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8993",
+    "before": null,
+    "after": "hc132"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8994",
+    "before": null,
+    "after": "hc133"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8995",
+    "before": null,
+    "after": "hc134"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8996",
+    "before": null,
+    "after": "hc135"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8997",
+    "before": null,
+    "after": "hc136"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8998",
+    "before": null,
+    "after": "hc137"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8999",
+    "before": null,
+    "after": "hc138"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9000",
+    "before": null,
+    "after": "hc139"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9001",
+    "before": null,
+    "after": "hc140"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9002",
+    "before": null,
+    "after": "hc141"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9003",
+    "before": null,
+    "after": "hc142"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9004",
+    "before": null,
+    "after": "hc143"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9005",
+    "before": null,
+    "after": "hc144"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9006",
+    "before": null,
+    "after": "hc145"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9007",
+    "before": null,
+    "after": "hc146"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9008",
+    "before": null,
+    "after": "hc147"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9009",
+    "before": null,
+    "after": "hc148"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9010",
+    "before": null,
+    "after": "hc149"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9011",
+    "before": null,
+    "after": "hc150"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9012",
+    "before": null,
+    "after": "hc151"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9013",
+    "before": null,
+    "after": "hc152"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9014",
+    "before": null,
+    "after": "hc153"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9015",
+    "before": null,
+    "after": "hc154"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9016",
+    "before": null,
+    "after": "hc155"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9017",
+    "before": null,
+    "after": "hc156"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9018",
+    "before": null,
+    "after": "hc157"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9019",
+    "before": null,
+    "after": "hc158"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9020",
+    "before": null,
+    "after": "hc159"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9021",
+    "before": null,
+    "after": "hc160"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9022",
+    "before": null,
+    "after": "hc161"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9023",
+    "before": null,
+    "after": "hc162"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9024",
+    "before": null,
+    "after": "hc163"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9025",
+    "before": null,
+    "after": "hc164"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9026",
+    "before": null,
+    "after": "hc165"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9027",
+    "before": null,
+    "after": "hc166"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9028",
+    "before": null,
+    "after": "hc167"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9029",
+    "before": null,
+    "after": "hc168"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9030",
+    "before": null,
+    "after": "hc169"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9031",
+    "before": null,
+    "after": "hc170"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9032",
+    "before": null,
+    "after": "hc171"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9033",
+    "before": null,
+    "after": "hc172"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9034",
+    "before": null,
+    "after": "hc173"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9035",
+    "before": null,
+    "after": "hc174"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9036",
+    "before": null,
+    "after": "hc175"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9037",
+    "before": null,
+    "after": "hc176"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9038",
+    "before": null,
+    "after": "hc177"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9039",
+    "before": null,
+    "after": "hc178"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9040",
+    "before": null,
+    "after": "hc179"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9041",
+    "before": null,
+    "after": "hc180"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9042",
+    "before": null,
+    "after": "hc181"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9043",
+    "before": null,
+    "after": "hc182"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9044",
+    "before": null,
+    "after": "hc183"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9045",
+    "before": null,
+    "after": "hc184"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9046",
+    "before": null,
+    "after": "hc185"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9047",
+    "before": null,
+    "after": "hc186"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9048",
+    "before": null,
+    "after": "hc187"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9049",
+    "before": null,
+    "after": "hc188"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9050",
+    "before": null,
+    "after": "hc189"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9051",
+    "before": null,
+    "after": "hc190"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9052",
+    "before": null,
+    "after": "hc191"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9053",
+    "before": null,
+    "after": "hc192"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9054",
+    "before": null,
+    "after": "hc193"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9055",
+    "before": null,
+    "after": "hc194"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9056",
+    "before": null,
+    "after": "hc195"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9057",
+    "before": null,
+    "after": "hc196"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9058",
+    "before": null,
+    "after": "hc197"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9059",
+    "before": null,
+    "after": "hc198"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9060",
+    "before": null,
+    "after": "hc199"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9061",
+    "before": null,
+    "after": "hc200"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9062",
+    "before": null,
+    "after": "hc201"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9063",
+    "before": null,
+    "after": "hc202"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9064",
+    "before": null,
+    "after": "hc203"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9065",
+    "before": null,
+    "after": "hc204"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9066",
+    "before": null,
+    "after": "hc205"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9067",
+    "before": null,
+    "after": "hc206"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9068",
+    "before": null,
+    "after": "hc207"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9069",
+    "before": null,
+    "after": "hc208"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9070",
+    "before": null,
+    "after": "hc209"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9071",
+    "before": null,
+    "after": "hc210"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9072",
+    "before": null,
+    "after": "hc211"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9073",
+    "before": null,
+    "after": "hc212"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9074",
+    "before": null,
+    "after": "hc213"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9075",
+    "before": null,
+    "after": "hc214"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9076",
+    "before": null,
+    "after": "hc215"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9077",
+    "before": null,
+    "after": "hc216"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9078",
+    "before": null,
+    "after": "hc217"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9079",
+    "before": null,
+    "after": "hc218"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9080",
+    "before": null,
+    "after": "hc219"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9081",
+    "before": null,
+    "after": "hc220"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9082",
+    "before": null,
+    "after": "hc221"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9083",
+    "before": null,
+    "after": "hc222"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9084",
+    "before": null,
+    "after": "hc223"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9085",
+    "before": null,
+    "after": "hc224"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9086",
+    "before": null,
+    "after": "hc225"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9087",
+    "before": null,
+    "after": "hc226"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9088",
+    "before": null,
+    "after": "hc227"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9089",
+    "before": null,
+    "after": "hc228"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9090",
+    "before": null,
+    "after": "hc229"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9091",
+    "before": null,
+    "after": "hc230"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9092",
+    "before": null,
+    "after": "hc231"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9093",
+    "before": null,
+    "after": "hc232"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9094",
+    "before": null,
+    "after": "hc233"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9095",
+    "before": null,
+    "after": "hc234"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9096",
+    "before": null,
+    "after": "hc235"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9097",
+    "before": null,
+    "after": "hc236"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9098",
+    "before": null,
+    "after": "hc237"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9099",
+    "before": null,
+    "after": "hc238"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9100",
+    "before": null,
+    "after": "hc239"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9101",
+    "before": null,
+    "after": "hc240"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9102",
+    "before": null,
+    "after": "hc241"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9103",
+    "before": null,
+    "after": "hc242"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9104",
+    "before": null,
+    "after": "hc243"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9105",
+    "before": null,
+    "after": "hc244"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9106",
+    "before": null,
+    "after": "hc245"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9107",
+    "before": null,
+    "after": "hc246"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9108",
+    "before": null,
+    "after": "hc247"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9109",
+    "before": null,
+    "after": "hc248"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9110",
+    "before": null,
+    "after": "hc249"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9111",
+    "before": null,
+    "after": "hc250"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9112",
+    "before": null,
+    "after": "hc251"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9113",
+    "before": null,
+    "after": "hc252"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9114",
+    "before": null,
+    "after": "hc253"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9115",
+    "before": null,
+    "after": "hc254"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9116",
+    "before": null,
+    "after": "hc255"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9117",
+    "before": null,
+    "after": "hc256"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9118",
+    "before": null,
+    "after": "hc257"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9119",
+    "before": null,
+    "after": "hc258"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9120",
+    "before": null,
+    "after": "hc259"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9121",
+    "before": null,
+    "after": "hc260"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9122",
+    "before": null,
+    "after": "hc261"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9123",
+    "before": null,
+    "after": "hc262"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9124",
+    "before": null,
+    "after": "hc263"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9125",
+    "before": null,
+    "after": "hc264"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8863",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8864",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8865",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8866",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8867",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8868",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8869",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8870",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8871",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8872",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8873",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8874",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8875",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8876",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8877",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8878",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8879",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8880",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8882",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8884",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8885",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8886",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8888",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8890",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8891",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8893",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8894",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8895",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8896",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8897",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8898",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8900",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8901",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8902",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8903",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8904",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8907",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8908",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8910",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8911",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8912",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8913",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8915",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8916",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8918",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8919",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8924",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8925",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8926",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8928",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8929",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8930",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8931",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8934",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8940",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8954",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8956",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8966",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8985",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8988",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8996",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8998",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9007",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9010",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9058",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9059",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9060",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9062",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9077",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9082",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9083",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9084",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9085",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9087",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9092",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9093",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9094",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9096",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9097",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9098",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9099",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9107",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9108",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9121",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8862",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8863",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8864",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8865",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8866",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8867",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8868",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8869",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8870",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8871",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8872",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8873",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8874",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8875",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8876",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8877",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8878",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8879",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8880",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8881",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8882",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8883",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8884",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8885",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8886",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8887",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8888",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8889",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8890",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8891",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8892",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8893",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8894",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8895",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8896",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8897",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8898",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8899",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8900",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8901",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8902",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8903",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8904",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8905",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8906",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8907",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8908",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8909",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8910",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8911",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8912",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8913",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8914",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8915",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8916",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8917",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8918",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8919",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8920",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8921",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8922",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8923",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8924",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8925",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8926",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8927",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8928",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8929",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8930",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8931",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8932",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8933",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8934",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8935",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8936",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8937",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8938",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8939",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8940",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8941",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8942",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8943",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8944",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8945",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8946",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8947",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8948",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8949",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8950",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8951",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8952",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8953",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8954",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8955",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8956",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8957",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8958",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8959",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8960",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8961",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8962",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8963",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8964",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8965",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8966",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8967",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8968",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8969",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8970",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8971",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8972",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8973",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8974",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8975",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8976",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8977",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8978",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8979",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8980",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8981",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8982",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8983",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8984",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8985",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8986",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8987",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8988",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8989",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8990",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8991",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8992",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8993",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8994",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8995",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8996",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8997",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8998",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8999",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9000",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9001",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9002",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9003",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9004",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9005",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9006",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9007",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9008",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9009",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9010",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9011",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9012",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9013",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9014",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9015",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9016",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9017",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9018",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9019",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9020",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9021",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9022",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9023",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9024",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9025",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9026",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9027",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9028",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9029",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9030",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9031",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9032",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9033",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9034",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9035",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9036",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9037",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9038",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9039",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9040",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9041",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9042",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9043",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9044",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9045",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9046",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9047",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9048",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9049",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9050",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9051",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9052",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9053",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9054",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9055",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9056",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9057",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9058",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9059",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9060",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9061",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9062",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9063",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9064",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9065",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9066",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9067",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9068",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9069",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9070",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9071",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9072",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9073",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9074",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9075",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9076",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9077",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9078",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9079",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9080",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9081",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9082",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9083",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9084",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9085",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9086",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9087",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9088",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9089",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9090",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9091",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9092",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9093",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9094",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9095",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9096",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9097",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9098",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9099",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9100",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9101",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9102",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9103",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9104",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9105",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9106",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9107",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9108",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9109",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9110",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9111",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9112",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9113",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9114",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9115",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9116",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9117",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9118",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9119",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9120",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9121",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9122",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9123",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9124",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9125",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8862",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8863",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8864",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8865",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8866",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8867",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8868",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8869",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8870",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8871",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8872",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8873",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8874",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8875",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8876",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8877",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8878",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8879",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8880",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8881",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8882",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8883",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8884",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8885",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8886",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8887",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8888",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8889",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8890",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8891",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8892",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8893",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8894",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8895",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8896",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8897",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8898",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8899",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8900",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8901",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8902",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8903",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8904",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8905",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8906",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8907",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8908",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8909",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8910",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8911",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8912",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8913",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8914",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8915",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8916",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8917",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8918",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8919",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8920",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8921",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8922",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8923",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8924",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8925",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8926",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8927",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8928",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8929",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8930",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8931",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8932",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8933",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8934",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8935",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8936",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8937",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8938",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8939",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8940",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8941",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8942",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8943",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8944",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8945",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8946",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8947",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8948",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8949",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8950",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8951",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8952",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8953",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8954",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8955",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8956",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8957",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8958",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8959",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8960",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8961",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8962",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8963",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8964",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8965",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8966",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8967",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8968",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8969",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8970",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8971",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8972",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8973",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8974",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8975",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8976",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8977",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8978",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8979",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8980",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8981",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8982",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8983",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8984",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8985",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8986",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8987",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8988",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8989",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8990",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8991",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8992",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8993",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8994",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8995",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8996",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8997",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8998",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8999",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9000",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9001",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9002",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9003",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9004",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9005",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9006",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9007",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9008",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9009",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9010",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9011",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9012",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9013",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9014",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9015",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9016",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9017",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9018",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9019",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9020",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9021",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9022",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9023",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9024",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9025",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9026",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9027",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9028",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9029",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9030",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9031",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9032",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9033",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9034",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9035",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9036",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9037",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9038",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9039",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9040",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9041",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9042",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9043",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9044",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9045",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9046",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9047",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9048",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9049",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9050",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9051",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9052",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9053",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9054",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9055",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9056",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9057",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9058",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9059",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9060",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9061",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9062",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9063",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9064",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9065",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9066",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9067",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9068",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9069",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9070",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9071",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9072",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9073",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9074",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9075",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9076",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9077",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9078",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9079",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9080",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9081",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9082",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9083",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9084",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9085",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9086",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9087",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9088",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9089",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9090",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9091",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9092",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9093",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9094",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9095",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9096",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9097",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9098",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9099",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9100",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9101",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9102",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9103",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9104",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9105",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9106",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9107",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9108",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9109",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9110",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9111",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9112",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9113",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9114",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9115",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9116",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9117",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9118",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9119",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9120",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9121",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9122",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9123",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9124",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9125",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8865",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8866",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8868",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8869",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8870",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8871",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8872",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8873",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8874",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8875",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8876",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8877",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8878",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8879",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8881",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8882",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8883",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8884",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8885",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8888",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8889",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8891",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8893",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8895",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8896",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8897",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8898",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8899",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8900",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8901",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8902",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8903",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8904",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8905",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8906",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8907",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8908",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8909",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8910",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8911",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8912",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8913",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8914",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8915",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8916",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8917",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8918",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8919",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8920",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8921",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8922",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8923",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8924",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8925",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8926",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8927",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8928",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8929",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8930",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8931",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8932",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8933",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8934",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8935",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8936",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8941",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8944",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8957",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8958",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8959",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8960",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8961",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8962",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8967",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8968",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8991",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8994",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9006",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9007",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9009",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9010",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9018",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9023",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9025",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9031",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9032",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9033",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9035",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9036",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9037",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9038",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9039",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9040",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9041",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9042",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9044",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9045",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9046",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9047",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9048",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9049",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9050",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9053",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9055",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9056",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9058",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9059",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9060",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9061",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9062",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9069",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9072",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9076",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9077",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9078",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9079",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9081",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9089",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9091",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9094",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9096",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9123",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9125",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8865",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8866",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8868",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8869",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8870",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8871",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8872",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8873",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8874",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8875",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8876",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8877",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8878",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8879",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8881",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8882",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8883",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8884",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8885",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8888",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8889",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8891",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8893",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8895",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8896",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8897",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8898",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8899",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8900",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8901",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8902",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8903",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8904",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8905",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8906",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8907",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8908",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8909",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8910",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8911",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8912",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8913",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8914",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8915",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8916",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8917",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8918",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8919",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8920",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8921",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8922",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8923",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8924",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8925",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8926",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8927",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8928",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8929",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8930",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8931",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8932",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8933",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8934",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8935",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8936",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8941",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8944",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8957",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8958",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8959",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8960",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8961",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8962",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8967",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8968",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8991",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8994",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9006",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9007",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9009",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9010",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9018",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9023",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9025",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9031",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9032",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9033",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9035",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9036",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9037",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9038",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9039",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9040",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9041",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9042",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9044",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9045",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9046",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9047",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9048",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9049",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9050",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9053",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9055",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9056",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9058",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9059",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9060",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9061",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9062",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9069",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9072",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9076",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9077",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9078",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9079",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9081",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9089",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9091",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9094",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9096",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9123",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9125",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8862",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8863",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8864",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8865",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8866",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8867",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8868",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8869",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8870",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8871",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8872",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8873",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8874",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8875",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8876",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8877",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8878",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8879",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8880",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8881",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8882",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8883",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8884",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8885",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8886",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8887",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8888",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8889",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8890",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8891",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8892",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8893",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8894",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8895",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8896",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8897",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8898",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8899",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8900",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8901",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8902",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8903",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8904",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8905",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8906",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8907",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8908",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8909",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8910",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8911",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8912",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8913",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8914",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8915",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8916",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8917",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8918",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8919",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8920",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8921",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8922",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8924",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8926",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8927",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8928",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8929",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8930",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8931",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8932",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8933",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8934",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8936",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8937",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8938",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8939",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8940",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8941",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8942",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8943",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8944",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8945",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8946",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8947",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8950",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8951",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8952",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8954",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8955",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8956",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8957",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8958",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8959",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8960",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8961",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8962",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8963",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8964",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8965",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8966",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8967",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8968",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8969",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8970",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8971",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8973",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8974",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8975",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8976",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8977",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8978",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8979",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8980",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8981",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8982",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8983",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8984",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8985",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8986",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8987",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8988",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8989",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8990",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8991",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8992",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8993",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8994",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8995",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8996",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8997",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8998",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8999",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9000",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9001",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9002",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9003",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9004",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9005",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9006",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9007",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9008",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9009",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9010",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9011",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9012",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9013",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9014",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9015",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9016",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9018",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9019",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9021",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9022",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9023",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9024",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9025",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9026",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9027",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9028",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9037",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9038",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9039",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9041",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9043",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9044",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9045",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9046",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9047",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9048",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9049",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9050",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9051",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9052",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9053",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9054",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9055",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9056",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9057",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9058",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9059",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9060",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9061",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9062",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9063",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9064",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9065",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9066",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9067",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9068",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9069",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9070",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9071",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9072",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9073",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9074",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9075",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9076",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9077",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9078",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9079",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9080",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9081",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9082",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9083",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9084",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9085",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9086",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9087",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9088",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9089",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9090",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9091",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9092",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9093",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9094",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9095",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9096",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9097",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9098",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9099",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9100",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9101",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9102",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9103",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9104",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9105",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9106",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9107",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9108",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9109",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9110",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9111",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9112",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9113",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9114",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9115",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9116",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9117",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9118",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9119",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9120",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9121",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9122",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9123",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9124",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9125",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8862",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 1 (row-major panel 1; native image 1, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8863",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 1 (row-major panel 1; native image 1, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8864",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 1 (row-major panel 1; native image 1, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8865",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 2 (row-major panel 2; native image 2, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8866",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 2 (row-major panel 2; native image 2, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8867",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 2 (row-major panel 2; native image 2, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8868",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 3 (row-major panel 3; native image 13, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8869",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 3 (row-major panel 3; native image 13, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8870",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 3 (row-major panel 3; native image 13, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8871",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 4 (row-major panel 4; native image 24, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8872",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 4 (row-major panel 4; native image 24, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8873",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 4 (row-major panel 4; native image 24, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8874",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 5 (row-major panel 5; native image 35, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8875",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 5 (row-major panel 5; native image 35, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8876",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 5 (row-major panel 5; native image 35, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8877",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 6 (row-major panel 6; native image 40, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8878",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 6 (row-major panel 6; native image 40, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8879",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 6 (row-major panel 6; native image 40, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8880",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 7 (row-major panel 7; native image 41, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8881",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 7 (row-major panel 7; native image 41, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8882",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 1, column 7 (row-major panel 7; native image 41, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8883",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 1 (row-major panel 8; native image 42, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8884",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 1 (row-major panel 8; native image 42, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8885",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 1 (row-major panel 8; native image 42, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8886",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 2 (row-major panel 9; native image 43, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8887",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 2 (row-major panel 9; native image 43, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8888",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 2 (row-major panel 9; native image 43, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8889",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 3 (row-major panel 10; native image 44, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8890",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 3 (row-major panel 10; native image 44, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8891",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 3 (row-major panel 10; native image 44, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8892",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 4 (row-major panel 11; native image 3, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8893",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 4 (row-major panel 11; native image 3, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8894",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 4 (row-major panel 11; native image 3, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8895",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 5 (row-major panel 12; native image 4, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8896",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 5 (row-major panel 12; native image 4, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8897",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 5 (row-major panel 12; native image 4, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8898",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 6 (row-major panel 13; native image 5, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8899",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 6 (row-major panel 13; native image 5, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8900",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 6 (row-major panel 13; native image 5, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8901",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 7 (row-major panel 14; native image 6, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8902",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 7 (row-major panel 14; native image 6, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8903",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 2, column 7 (row-major panel 14; native image 6, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8904",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 1 (row-major panel 15; native image 7, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8905",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 1 (row-major panel 15; native image 7, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8906",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 1 (row-major panel 15; native image 7, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8907",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 2 (row-major panel 16; native image 8, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8908",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 2 (row-major panel 16; native image 8, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8909",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 2 (row-major panel 16; native image 8, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8910",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 3 (row-major panel 17; native image 9, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8911",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 3 (row-major panel 17; native image 9, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8912",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 3 (row-major panel 17; native image 9, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8913",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 4 (row-major panel 18; native image 10, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8914",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 4 (row-major panel 18; native image 10, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8915",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 4 (row-major panel 18; native image 10, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8916",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 5 (row-major panel 19; native image 11, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8917",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 5 (row-major panel 19; native image 11, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8918",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 5 (row-major panel 19; native image 11, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8919",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 6 (row-major panel 20; native image 12, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8920",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 6 (row-major panel 20; native image 12, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8921",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 6 (row-major panel 20; native image 12, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8922",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 7 (row-major panel 21; native image 14, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8923",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 7 (row-major panel 21; native image 14, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8924",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 3, column 7 (row-major panel 21; native image 14, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8925",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 1 (row-major panel 22; native image 15, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8926",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 1 (row-major panel 22; native image 15, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8927",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 1 (row-major panel 22; native image 15, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8928",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 2 (row-major panel 23; native image 16, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8929",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 2 (row-major panel 23; native image 16, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8930",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 2 (row-major panel 23; native image 16, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8931",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 3 (row-major panel 24; native image 17, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8932",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 3 (row-major panel 24; native image 17, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8933",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 3 (row-major panel 24; native image 17, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8934",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 4 (row-major panel 25; native image 18, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8935",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 4 (row-major panel 25; native image 18, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8936",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 4 (row-major panel 25; native image 18, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8937",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 5 (row-major panel 26; native image 19, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8938",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 5 (row-major panel 26; native image 19, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8939",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 5 (row-major panel 26; native image 19, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8940",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 6 (row-major panel 27; native image 20, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8941",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 6 (row-major panel 27; native image 20, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8942",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 6 (row-major panel 27; native image 20, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8943",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 7 (row-major panel 28; native image 21, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8944",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 7 (row-major panel 28; native image 21, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8945",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 4, column 7 (row-major panel 28; native image 21, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8946",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 1 (row-major panel 29; native image 22, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8947",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 1 (row-major panel 29; native image 22, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8948",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 1 (row-major panel 29; native image 22, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8949",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 2 (row-major panel 30; native image 23, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8950",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 2 (row-major panel 30; native image 23, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8951",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 2 (row-major panel 30; native image 23, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8952",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 3 (row-major panel 31; native image 25, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8953",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 3 (row-major panel 31; native image 25, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8954",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 3 (row-major panel 31; native image 25, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8955",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 4 (row-major panel 32; native image 26, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8956",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 4 (row-major panel 32; native image 26, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8957",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 4 (row-major panel 32; native image 26, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8958",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 5 (row-major panel 33; native image 27, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8959",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 5 (row-major panel 33; native image 27, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8960",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 5 (row-major panel 33; native image 27, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8961",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 6 (row-major panel 34; native image 28, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8962",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 6 (row-major panel 34; native image 28, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8963",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 6 (row-major panel 34; native image 28, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8964",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 7 (row-major panel 35; native image 29, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8965",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 7 (row-major panel 35; native image 29, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8966",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 5, column 7 (row-major panel 35; native image 29, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8967",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 1 (row-major panel 36; native image 30, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8968",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 1 (row-major panel 36; native image 30, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8969",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 1 (row-major panel 36; native image 30, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8970",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 2 (row-major panel 37; native image 31, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8971",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 2 (row-major panel 37; native image 31, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8972",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 2 (row-major panel 37; native image 31, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8973",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 3 (row-major panel 38; native image 32, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8974",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 3 (row-major panel 38; native image 32, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8975",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 3 (row-major panel 38; native image 32, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8976",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 4 (row-major panel 39; native image 33, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8977",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 4 (row-major panel 39; native image 33, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8978",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 4 (row-major panel 39; native image 33, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8979",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 5 (row-major panel 40; native image 34, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8980",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 5 (row-major panel 40; native image 34, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8981",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 5 (row-major panel 40; native image 34, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8982",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 6 (row-major panel 41; native image 36, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8983",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 6 (row-major panel 41; native image 36, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8984",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 6 (row-major panel 41; native image 36, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8985",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 7 (row-major panel 42; native image 37, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8986",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 7 (row-major panel 42; native image 37, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8987",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 6, column 7 (row-major panel 42; native image 37, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8988",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 7, column 1 (row-major panel 43; native image 38, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8989",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 7, column 1 (row-major panel 43; native image 38, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8990",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 7, column 1 (row-major panel 43; native image 38, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8991",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 7, column 2 (row-major panel 44; native image 39, PDF page 108): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8992",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 7, column 2 (row-major panel 44; native image 39, PDF page 108): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8993",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B11, displayed row 7, column 2 (row-major panel 44; native image 39, PDF page 108): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8994",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 1 (row-major panel 1; native image 1, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8995",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 1 (row-major panel 1; native image 1, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8996",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 1 (row-major panel 1; native image 1, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8997",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 2 (row-major panel 2; native image 2, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8998",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 2 (row-major panel 2; native image 2, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8999",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 2 (row-major panel 2; native image 2, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9000",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 3 (row-major panel 3; native image 13, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9001",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 3 (row-major panel 3; native image 13, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9002",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 3 (row-major panel 3; native image 13, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9003",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 4 (row-major panel 4; native image 24, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9004",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 4 (row-major panel 4; native image 24, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9005",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 4 (row-major panel 4; native image 24, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9006",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 5 (row-major panel 5; native image 35, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9007",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 5 (row-major panel 5; native image 35, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9008",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 5 (row-major panel 5; native image 35, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9009",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 6 (row-major panel 6; native image 40, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9010",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 6 (row-major panel 6; native image 40, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9011",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 6 (row-major panel 6; native image 40, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9012",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 7 (row-major panel 7; native image 41, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9013",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 7 (row-major panel 7; native image 41, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9014",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 1, column 7 (row-major panel 7; native image 41, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9015",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 1 (row-major panel 8; native image 42, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9016",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 1 (row-major panel 8; native image 42, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9017",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 1 (row-major panel 8; native image 42, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9018",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 2 (row-major panel 9; native image 43, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9019",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 2 (row-major panel 9; native image 43, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9020",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 2 (row-major panel 9; native image 43, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9021",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 3 (row-major panel 10; native image 44, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9022",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 3 (row-major panel 10; native image 44, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9023",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 3 (row-major panel 10; native image 44, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9024",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 4 (row-major panel 11; native image 3, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9025",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 4 (row-major panel 11; native image 3, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9026",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 4 (row-major panel 11; native image 3, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9027",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 5 (row-major panel 12; native image 4, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9028",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 5 (row-major panel 12; native image 4, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9029",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 5 (row-major panel 12; native image 4, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9030",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 6 (row-major panel 13; native image 5, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9031",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 6 (row-major panel 13; native image 5, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9032",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 6 (row-major panel 13; native image 5, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9033",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 7 (row-major panel 14; native image 6, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9034",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 7 (row-major panel 14; native image 6, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9035",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 2, column 7 (row-major panel 14; native image 6, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9036",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 1 (row-major panel 15; native image 7, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9037",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 1 (row-major panel 15; native image 7, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9038",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 1 (row-major panel 15; native image 7, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9039",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 2 (row-major panel 16; native image 8, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9040",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 2 (row-major panel 16; native image 8, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9041",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 2 (row-major panel 16; native image 8, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9042",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 3 (row-major panel 17; native image 9, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9043",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 3 (row-major panel 17; native image 9, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9044",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 3 (row-major panel 17; native image 9, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9045",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 4 (row-major panel 18; native image 10, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9046",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 4 (row-major panel 18; native image 10, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9047",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 4 (row-major panel 18; native image 10, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9048",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 5 (row-major panel 19; native image 11, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9049",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 5 (row-major panel 19; native image 11, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9050",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 5 (row-major panel 19; native image 11, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9051",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 6 (row-major panel 20; native image 12, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9052",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 6 (row-major panel 20; native image 12, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9053",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 6 (row-major panel 20; native image 12, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9054",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 7 (row-major panel 21; native image 14, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9055",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 7 (row-major panel 21; native image 14, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9056",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 3, column 7 (row-major panel 21; native image 14, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9057",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 1 (row-major panel 22; native image 15, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9058",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 1 (row-major panel 22; native image 15, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9059",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 1 (row-major panel 22; native image 15, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control F (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9060",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 2 (row-major panel 23; native image 16, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9061",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 2 (row-major panel 23; native image 16, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9062",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 2 (row-major panel 23; native image 16, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9063",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 3 (row-major panel 24; native image 17, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9064",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 3 (row-major panel 24; native image 17, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9065",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 3 (row-major panel 24; native image 17, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9066",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 4 (row-major panel 25; native image 18, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9067",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 4 (row-major panel 25; native image 18, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9068",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 4 (row-major panel 25; native image 18, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9069",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 5 (row-major panel 26; native image 19, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9070",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 5 (row-major panel 26; native image 19, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9071",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 5 (row-major panel 26; native image 19, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9072",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 6 (row-major panel 27; native image 20, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9073",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 6 (row-major panel 27; native image 20, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9074",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 6 (row-major panel 27; native image 20, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9075",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 7 (row-major panel 28; native image 21, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9076",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 7 (row-major panel 28; native image 21, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9077",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 4, column 7 (row-major panel 28; native image 21, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9078",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 1 (row-major panel 29; native image 22, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9079",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 1 (row-major panel 29; native image 22, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9080",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 1 (row-major panel 29; native image 22, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9081",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 2 (row-major panel 30; native image 23, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9082",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 2 (row-major panel 30; native image 23, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9083",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 2 (row-major panel 30; native image 23, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9084",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 3 (row-major panel 31; native image 25, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9085",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 3 (row-major panel 31; native image 25, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9086",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 3 (row-major panel 31; native image 25, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9087",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 4 (row-major panel 32; native image 26, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9088",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 4 (row-major panel 32; native image 26, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9089",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 4 (row-major panel 32; native image 26, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9090",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 5 (row-major panel 33; native image 27, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9091",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 5 (row-major panel 33; native image 27, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9092",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 5 (row-major panel 33; native image 27, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9093",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 6 (row-major panel 34; native image 28, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9094",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 6 (row-major panel 34; native image 28, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9095",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 6 (row-major panel 34; native image 28, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9096",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 7 (row-major panel 35; native image 29, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9097",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 7 (row-major panel 35; native image 29, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9098",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 5, column 7 (row-major panel 35; native image 29, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9099",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 1 (row-major panel 36; native image 30, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9100",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 1 (row-major panel 36; native image 30, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9101",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 1 (row-major panel 36; native image 30, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9102",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 2 (row-major panel 37; native image 31, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9103",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 2 (row-major panel 37; native image 31, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9104",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 2 (row-major panel 37; native image 31, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9105",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 3 (row-major panel 38; native image 32, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9106",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 3 (row-major panel 38; native image 32, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9107",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 3 (row-major panel 38; native image 32, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9108",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 4 (row-major panel 39; native image 33, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9109",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 4 (row-major panel 39; native image 33, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9110",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 4 (row-major panel 39; native image 33, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9111",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 5 (row-major panel 40; native image 34, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9112",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 5 (row-major panel 40; native image 34, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm F, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9113",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 5 (row-major panel 40; native image 34, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9114",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 6 (row-major panel 41; native image 36, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9115",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 6 (row-major panel 41; native image 36, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9116",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 6 (row-major panel 41; native image 36, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9117",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 7 (row-major panel 42; native image 37, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9118",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 7 (row-major panel 42; native image 37, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9119",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 6, column 7 (row-major panel 42; native image 37, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9120",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 7, column 1 (row-major panel 43; native image 38, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9121",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 7, column 1 (row-major panel 43; native image 38, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9122",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 7, column 1 (row-major panel 43; native image 38, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9123",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 7, column 2 (row-major panel 44; native image 39, PDF page 109): 50% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9124",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 7, column 2 (row-major panel 44; native image 39, PDF page 109): 33% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9125",
+    "before": null,
+    "after": "Cited secondary NBER Appendix B Figure B12, displayed row 7, column 2 (row-major panel 44; native image 39, PDF page 109): 17% reduction versus gray status-quo slot in the SAME panel. Qualitative fitted-outcome contrast; coefficient and benchmark values not digitized. Code Appendix_FigureB11B12.do constructs blue=collector baseline component plus corresponding arm coefficient and gray=collector baseline component (lines 97-107 / 179-189). Native slot-height flags: arm V, control V (V resolved area; F flat/thin/unresolved, not a numerical zero)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8862",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8863",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8864",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8865",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8866",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8867",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8868",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8869",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8870",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8871",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8872",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8873",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8874",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8875",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8876",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8877",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8878",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8879",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8880",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8881",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8882",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8883",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8884",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8885",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8886",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8887",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8888",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8889",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8890",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8891",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8892",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8893",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8894",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8895",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8896",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8897",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8898",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8899",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8900",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8901",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8902",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8903",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8904",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8905",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8906",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8907",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8908",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8909",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8910",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8911",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8912",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8913",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8914",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8915",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8916",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8917",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8918",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8919",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8920",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8921",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8922",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8923",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8924",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8925",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8926",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8927",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8928",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8929",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8930",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8931",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8932",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8933",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8934",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8935",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8936",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8937",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8938",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8939",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8940",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8941",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8942",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8943",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8944",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8945",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8946",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8947",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8948",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8949",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8950",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8951",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8952",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8953",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8954",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8955",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8956",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8957",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8958",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8959",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8960",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8961",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8962",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8963",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8964",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8965",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8966",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8967",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8968",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8969",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8970",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8971",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8972",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8973",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8974",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8975",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8976",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8977",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8978",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8979",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8980",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8981",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8982",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8983",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8984",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8985",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8986",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8987",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8988",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8989",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8990",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8991",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8992",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8993",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8994",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8995",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8996",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8997",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8998",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8999",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9000",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9001",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9002",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9003",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9004",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9005",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9006",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9007",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9008",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9009",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9010",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9011",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9012",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9013",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9014",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9015",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9016",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9017",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9018",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9019",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9020",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9021",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9022",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9023",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9024",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9025",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9026",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9027",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9028",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9029",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9030",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9031",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9032",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9033",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9034",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9035",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9036",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9037",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9038",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9039",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9040",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9041",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9042",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9043",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9044",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9045",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9046",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9047",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9048",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9049",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9050",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9051",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9052",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9053",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9054",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9055",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9056",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9057",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9058",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9059",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9060",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9061",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9062",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9063",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9064",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9065",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9066",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9067",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9068",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9069",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9070",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9071",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9072",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9073",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9074",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9075",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9076",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9077",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9078",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9079",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9080",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9081",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9082",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9083",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9084",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9085",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9086",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9087",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9088",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9089",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9090",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9091",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9092",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9093",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9094",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9095",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9096",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9097",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9098",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9099",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9100",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9101",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9102",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9103",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9104",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9105",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9106",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9107",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9108",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9109",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9110",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9111",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9112",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9113",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9114",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9115",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9116",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9117",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9118",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9119",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9120",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9121",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9122",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9123",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9124",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9125",
+    "before": null,
+    "after": "Other-level benchmark is the displayed fitted collector status-quo component, not an observed unconditional outcome mean; components may be negative. Plotting code confirms named slots and removes absent-versus-zero as a reason to suppress the qualitative pairing; precise height remains unknown. No stable ID or cross-figure rank match claimed. Secondary-version plot, not final-source coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10361",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10362",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10361",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10362",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10361",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10362",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10361",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10361",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10361",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10362",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10361",
+    "before": null,
+    "after": "Figures B11/B12: Compliance indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10362",
+    "before": null,
+    "after": "Figures B11/B12: Revenue per property CF."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4414",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4414",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4414",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4414",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4414",
+    "before": null,
+    "after": "Cited NBER Appendix B Figures B11/B12: tax abatement-arm effects conditional on each of 44 collectors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4414",
+    "before": null,
+    "after": "Spatial census retains all 44 actual panels per outcome and three named arm/status-quo pairings per panel. Plot code proves blue bars are baseline collector component plus arm coefficient, gray is baseline component; not raw arm sample means. Flat marks are not digitized or labeled zero. Anonymous panel positions only; cited NBER Appendix B remains secondary-version provenance."
+  }
+]
+```
