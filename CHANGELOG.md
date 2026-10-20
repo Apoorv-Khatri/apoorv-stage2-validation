@@ -925104,3 +925104,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:51:51.031952+00:00 — Review E5YG2HPW h2: source-audited coding and linked comparisons
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10026",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10027",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10028",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10029",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10030",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10031",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10026",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10027",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10028",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10029",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10030",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10031",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10026",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10027",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10028",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10029",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10030",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10031",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10026",
+    "before": null,
+    "after": "One-day change in 2-year nominal Treasury instantaneous forward rate, percentage-point response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10027",
+    "before": null,
+    "after": "One-day change in 2-year real Treasury instantaneous forward rate, percentage-point response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10028",
+    "before": null,
+    "after": "One-day change in 5-year nominal Treasury instantaneous forward rate, percentage-point response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10029",
+    "before": null,
+    "after": "One-day change in 5-year real Treasury instantaneous forward rate, percentage-point response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10030",
+    "before": null,
+    "after": "One-day change in 10-year nominal Treasury instantaneous forward rate, percentage-point response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10031",
+    "before": null,
+    "after": "One-day change in 10-year real Treasury instantaneous forward rate, percentage-point response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4340",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4340",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4340",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4340",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4340",
+    "before": null,
+    "after": "one-day change in 2-year nominal Treasury yield: effect on 2-,5-,10-year nominal and real instantaneous forward rates, Table II bottom panel."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4340",
+    "before": null,
+    "after": "Heteroskedasticity covariance-difference estimator; Appendix B eq.(3) and C; single continuous regime-weighted indicator in equivalent IV representation. Main because introduction p.1289 makes narrow-window versus long-window inference a central methodological conclusion. No same-outcome level/mean/SD benchmark; confidence intervals are not benchmarks."
+  }
+]
+```
