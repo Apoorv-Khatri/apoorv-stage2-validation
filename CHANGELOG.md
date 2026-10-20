@@ -883980,3 +883980,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:16:54.775729+00:00 — Review DRDWCKUF h2: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7734",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7735",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7734",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7735",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7734",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7735",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7735",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7734",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7735",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7734",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7735",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7735",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7735",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7734",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7735",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7734",
+    "before": null,
+    "after": "Table 9 panel A col.4, p.264: coefficient 0.59 pp paired with same-column average outcome rate 27.4%. All observations in that column; not a separately identified untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7735",
+    "before": null,
+    "after": "Table 9 panel A col.5, p.264: coefficient 0.99 pp paired with same-column average outcome rate 27.4%. All observations in that column; not a separately identified untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7734",
+    "before": null,
+    "after": "Benchmark target/untreated weights not established for this observational contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7735",
+    "before": null,
+    "after": "Benchmark target/untreated weights not established for this observational contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9819",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9819",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9819",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9819",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9819",
+    "before": null,
+    "after": "Next-year separation indicator from original firm."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4242",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4242",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4242",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4242",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4242",
+    "before": null,
+    "after": "Log misconduct settlements → firm separation among observed settlements, Table 9A cols.4–5; OLS, not FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4242",
+    "before": null,
+    "after": "Routine control variants grouped; observational identification, not DiD."
+  }
+]
+```
