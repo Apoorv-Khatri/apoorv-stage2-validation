@@ -43101,7 +43101,16 @@
     "L4250": "1",
     "M4250": "n/a",
     "N4250": "log median household income → county stock and annual flow of misconduct; Table 15 cols.2,4, equation (12); weighted by square root adviser count.",
-    "O4250": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication. Independent audit: income explicitly called a demand control and correlation (p.280); possible profitability conjecture does not settle author-intended causal income effect. Preserve gate unknown rather than certify inclusion."
+    "O4250": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication. Independent audit: income explicitly called a demand control and correlation (p.280); possible profitability conjecture does not settle author-intended causal income effect. Preserve gate unknown rather than certify inclusion.",
+    "A4251": "DRDWCKUF",
+    "B4251": "h11",
+    "I4251": "1",
+    "J4251": "OLS",
+    "K4251": "1",
+    "L4251": "1",
+    "M4251": "n/a",
+    "N4251": "Recent misconduct → unconditional industry exit during following year; p.265 worked transition decomposition (27% vs 9%).",
+    "O4251": "Equivalent group mean of industry-exit indicator; product of nested transition rates is an accounting identity, not an unrelated nonlinear structural model. Percentages are rounded."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110724,7 +110733,14 @@
     "H9833": "0",
     "I9833": "unknown",
     "J9833": "none",
-    "K9833": "County annual new misconduct percentage."
+    "K9833": "County annual new misconduct percentage.",
+    "A9834": "DRDWCKUF",
+    "B9834": "h11",
+    "C9834": "hy1",
+    "H9834": "1",
+    "I9834": "1",
+    "J9834": "none",
+    "K9834": "Indicator of being out of industry in year following misconduct, unconditional on firm separation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -197964,7 +197980,18 @@
     "O7744": "0",
     "P7744": "0",
     "Q7744": "p.280, Table 15 col.3: 10 pp higher college share decreases annual misconduct by 0.19 pp, compared with overall annual adviser misconduct mean 0.6%.",
-    "R7744": "County-weighted target 2010–13 (>50 advisers) differs from overall adviser-year baseline."
+    "R7744": "County-weighted target 2010–13 (>50 advisers) differs from overall adviser-year baseline.",
+    "A7745": "DRDWCKUF",
+    "B7745": "h11",
+    "C7745": "hc1",
+    "K7745": "1",
+    "L7745": "hy1",
+    "M7745": "outcome_mean",
+    "N7745": "1",
+    "O7745": "0",
+    "P7745": "unknown",
+    "Q7745": "p.265: 27% exit following misconduct (48%×44% joining and 52% staying discussed), versus 9% overall industry exit (19%×48%). Authors contrast industry with firm discipline.",
+    "R7745": "Benchmark target/untreated weights not established for this observational contrast."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
