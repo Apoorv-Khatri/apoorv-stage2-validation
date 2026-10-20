@@ -849189,3 +849189,324 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T10:35:07.029806+00:00 — Review CPRH287R s3: source-audited coding and linked comparisons
+
+52 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K666",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K668",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K671",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O670",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q666",
+    "before": null,
+    "after": "Table 5 and prose p.420: mean product purchase price is not mean willingness to pay for a one-point health improvement. Common money units do not make these the same outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q667",
+    "before": null,
+    "after": "Table 5 and prose p.420: mean product purchase price is not mean willingness to pay for a one-point health improvement. Common money units do not make these the same outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q668",
+    "before": null,
+    "after": "Table 5 and prose p.420: mean product purchase price is not mean willingness to pay for a one-point health improvement. Common money units do not make these the same outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q669",
+    "before": null,
+    "after": "Table 5 and prose p.420: mean product purchase price is not mean willingness to pay for a one-point health improvement. Common money units do not make these the same outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q670",
+    "before": null,
+    "after": "Table 5 and prose p.420: mean product purchase price is not mean willingness to pay for a one-point health improvement. Common money units do not make these the same outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q671",
+    "before": null,
+    "after": "Table 5 and prose p.420: mean product purchase price is not mean willingness to pay for a one-point health improvement. Common money units do not make these the same outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R666",
+    "before": null,
+    "after": "Reject on benchmark eligibility, not absence of division. Endpoint comparisons are verbal; median comparisons are table-only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R667",
+    "before": null,
+    "after": "Reject on benchmark eligibility, not absence of division. Endpoint comparisons are verbal; median comparisons are table-only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R668",
+    "before": null,
+    "after": "Reject on benchmark eligibility, not absence of division. Endpoint comparisons are verbal; median comparisons are table-only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R669",
+    "before": null,
+    "after": "Reject on benchmark eligibility, not absence of division. Endpoint comparisons are verbal; median comparisons are table-only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R670",
+    "before": null,
+    "after": "Reject on benchmark eligibility, not absence of division. Endpoint comparisons are verbal; median comparisons are table-only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R671",
+    "before": null,
+    "after": "Reject on benchmark eligibility, not absence of division. Endpoint comparisons are verbal; median comparisons are table-only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2458",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2458",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2459",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2460",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2461",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2458",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2459",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2460",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2461",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2458",
+    "before": null,
+    "after": "Table 5 p.420: willingness to pay for a one-point improvement in nutrient profiling score, in pence; nonlinear marginal-rate-of-substitution calculation (equation 2.3). Population: food-at-home purchase occasions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2459",
+    "before": null,
+    "after": "Table 5 p.420: same willingness-to-pay contrast normalized by mean product price, not by mean willingness to pay. Retained reported scale; not a qualifying same-outcome benchmark. Population: food-at-home purchase occasions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2460",
+    "before": null,
+    "after": "Table 5 p.420: willingness to pay for a one-point improvement in nutrient profiling score, in pence; nonlinear marginal-rate-of-substitution calculation (equation 2.3). Population: food-on-the-go purchase occasions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2461",
+    "before": null,
+    "after": "Table 5 p.420: same willingness-to-pay contrast normalized by mean product price, not by mean willingness to pay. Retained reported scale; not a qualifying same-outcome benchmark. Population: food-on-the-go purchase occasions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J983",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M983",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O983",
+    "before": null,
+    "after": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments."
+  }
+]
+```
