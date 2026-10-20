@@ -42230,7 +42230,16 @@
     "L4173": "0",
     "M4173": "n/a",
     "N4173": "Local-area exposure spillovers to unexposed firms: high versus low exposed-firm share commuting zones Location: Figure A.10, main pp.682-683",
-    "O4173": "Substantive general-equilibrium null, not diagnostic placebo: high versus low CZ share contrast, top/bottom quartiles and quintiles grouped routine threshold variants. Binary implemented contrast despite underlying continuous share."
+    "O4173": "Substantive general-equilibrium null, not diagnostic placebo: high versus low CZ share contrast, top/bottom quartiles and quintiles grouped routine threshold variants. Binary implemented contrast despite underlying continuous share.",
+    "A4174": "A8LFPXLL",
+    "B4174": "h48",
+    "I4174": "1",
+    "J4174": "DiD_conventional",
+    "K4174": "1",
+    "L4174": "0",
+    "M4174": "n/a",
+    "N4174": "Baseline binary owner exposure heterogeneity by state tax-rate changes Location: Table E.16 DD row, columns 1-4",
+    "O4174": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106291,7 +106300,14 @@
     "H9339": "0",
     "I9339": "0",
     "J9339": "log",
-    "K9339": "Log average earnings of workers at baseline-unexposed firms in high versus low exposure commuting zones."
+    "K9339": "Log average earnings of workers at baseline-unexposed firms in high versus low exposure commuting zones.",
+    "A9340": "A8LFPXLL",
+    "B9340": "h48",
+    "C9340": "hy1",
+    "H9340": "0",
+    "I9340": "0",
+    "J9340": "log",
+    "K9340": "Log average employee earnings; no/small state changes, increased and decreased state-rate subsamples."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
