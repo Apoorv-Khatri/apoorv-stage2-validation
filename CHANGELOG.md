@@ -980295,3 +980295,414 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T16:53:03.845585+00:00 — Review F3IAL93B h32: source-audited coding and linked comparisons
+
+67 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8769",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8770",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8771",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8772",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8769",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8770",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8771",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8772",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8769",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8770",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8771",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8772",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8769",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8770",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8771",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8772",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8769",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8770",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8771",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8772",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8771",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8771",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8769",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8770",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8771",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8772",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8769",
+    "before": null,
+    "after": "Final supplement Table A13 cols 1,4: Central message effect 0.014; benchmark: table Mean 0.029."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8770",
+    "before": null,
+    "after": "Final supplement Table A13 cols 1,4: Central message effect 32.837; benchmark: table Mean 57.671."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8771",
+    "before": null,
+    "after": "Final supplement Table A13 cols 2,5: Central message effect 0.016; benchmark: table Mean 0.029."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8772",
+    "before": null,
+    "after": "Final supplement Table A13 cols 2,5: Central message effect 36.510; benchmark: table Mean 57.671."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8769",
+    "before": null,
+    "after": "Row is labeled Mean, not Control Mean; benchmark population not explicitly established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8770",
+    "before": null,
+    "after": "Row is labeled Mean, not Control Mean; benchmark population not explicitly established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8771",
+    "before": null,
+    "after": "Row is labeled Mean, not Control Mean; benchmark population not explicitly established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8772",
+    "before": null,
+    "after": "Row is labeled Mean, not Control Mean; benchmark population not explicitly established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10301",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10302",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10301",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10302",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10301",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10302",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10301",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10302",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10301",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10302",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10301",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10302",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10301",
+    "before": null,
+    "after": "Tax compliance indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10302",
+    "before": null,
+    "after": "Tax revenue per property, CF."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4383",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4383",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4383",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4383",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4383",
+    "before": null,
+    "after": "Final supplement Table A13: central enforcement message versus active control, tax compliance and revenue."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4383",
+    "before": null,
+    "after": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
+  }
+]
+```
