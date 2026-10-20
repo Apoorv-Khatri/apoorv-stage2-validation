@@ -847143,3 +847143,288 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:56:47.287953+00:00 — Review AG8QMNLF h1: source-audited coding and linked comparisons
+
+46 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7564",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7565",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7566",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7564",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7565",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7566",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7564",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7565",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7566",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7565",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7564",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7565",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7566",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7564",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7565",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7566",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7565",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7565",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7564",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7566",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7564",
+    "before": null,
+    "after": "Equation (8), Figure X p.500 caption and IV.F.1 p.502: annual inflation 50% versus0 implies output loss 0.6% of aggregate output/GDP per period, eta=6. Benchmark is the aggregate output level, not price SD. Normalization explicit; no numerical GDP level reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7565",
+    "before": null,
+    "after": "Equation (8), Figure X p.500 caption and IV.F.1 p.502: annual inflation 100% versus0 implies output loss 1.5% of aggregate output/GDP per period, eta=6. Benchmark is the aggregate output level, not price SD. Normalization explicit; no numerical GDP level reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7566",
+    "before": null,
+    "after": "Equation (8), Figure X p.500 caption and IV.F.1 p.502: annual inflation 500% versus0 implies output loss 8.5% of aggregate output/GDP per period, eta=6. Benchmark is the aggregate output level, not price SD. Normalization explicit; no numerical GDP level reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7564",
+    "before": null,
+    "after": "Retain explicit output-loss/output scaling: pp.501–502 identify the effect as a decrease in aggregate output and report it as a fraction of that same output. This is not generic normalization inherited from an unrelated denominator. other_level, not an untreated sample mean; no numerical GDP baseline invented. A narrower normalized-outcome-only convention would remove these three comparisons, not h1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7565",
+    "before": null,
+    "after": "Retain explicit output-loss/output scaling: pp.501–502 identify the effect as a decrease in aggregate output and report it as a fraction of that same output. This is not generic normalization inherited from an unrelated denominator. other_level, not an untreated sample mean; no numerical GDP baseline invented. A narrower normalized-outcome-only convention would remove these three comparisons, not h1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7566",
+    "before": null,
+    "after": "Retain explicit output-loss/output scaling: pp.501–502 identify the effect as a decrease in aggregate output and report it as a fraction of that same output. This is not generic normalization inherited from an unrelated denominator. other_level, not an untreated sample mean; no numerical GDP baseline invented. A narrower normalized-outcome-only convention would remove these three comparisons, not h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9354",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9354",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9354",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9354",
+    "before": null,
+    "after": "Aggregate output loss per period due to additional relative-price dispersion, fraction or percent of aggregate output/GDP; 0.6%,1.5%,8.5% at annual continuously compounded inflation50%,100%,500%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4181",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4181",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4181",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4181",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4181",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4181",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4181",
+    "before": null,
+    "after": "Inflation relative to zero → aggregate output lost from inefficient relative-price dispersion, equation (8), Figure X right axis and IV.F.1 pp.500–502; cost(pi)=eta/2 [sigma(pi)^2−sigma(0)^2], eta=6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4181",
+    "before": null,
+    "after": "Nonlinear square of fitted SD and difference from zero-inflation fitted SD; actual reported calculation, not just a theoretical proposition. Excludes direct menu costs. Output baseline is stated as GDP/output, not an observed untreated-complier mean."
+  }
+]
+```
