@@ -888738,3 +888738,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:35:50.997790+00:00 — Review DRDWCKUF h47: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9859",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9860",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9859",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9860",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9859",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9860",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9859",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9860",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9859",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9860",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9859",
+    "before": null,
+    "after": "Share of firm advisers with a customer-initiated misconduct record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9860",
+    "before": null,
+    "after": "Share of firm advisers with a noncustomer (firm/regulator)-initiated misconduct record."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4272",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4272",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4272",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4272",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4272",
+    "before": null,
+    "after": "Serving retail clients → customer-initiated and noncustomer-initiated firm stock misconduct rates; Section VI.B pp.284–285, equation (11)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4272",
+    "before": null,
+    "after": "Final main text explicitly reports adviser with a record for both initiation sources; no extra flow outcome inferred. Underlying WLS with dummy controls, no separately established identification change."
+  }
+]
+```

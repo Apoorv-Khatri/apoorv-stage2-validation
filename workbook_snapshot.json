@@ -43290,7 +43290,16 @@
     "L4271": "1",
     "M4271": "n/a",
     "N4271": "Recent misconduct → destination-firm misconduct and size after firm dissolution; Section VI.C pp.285–286, equation (8).",
-    "O4271": "Authors explicitly compare advisers from same firm and reference original-firm/time equation8; no additional unseen outcomes. Central selection robustness highlighted in introduction. Destination misconduct stock versus flow remains unresolved: equation8 table/prose conflict carries into this unshown extension."
+    "O4271": "Authors explicitly compare advisers from same firm and reference original-firm/time equation8; no additional unseen outcomes. Central selection robustness highlighted in introduction. Destination misconduct stock versus flow remains unresolved: equation8 table/prose conflict carries into this unshown extension.",
+    "A4272": "DRDWCKUF",
+    "B4272": "h47",
+    "I4272": "1",
+    "J4272": "OLS",
+    "K4272": "1",
+    "L4272": "0",
+    "M4272": "n/a",
+    "N4272": "Serving retail clients → customer-initiated and noncustomer-initiated firm stock misconduct rates; Section VI.B pp.284–285, equation (11).",
+    "O4272": "Final main text explicitly reports adviser with a record for both initiation sources; no extra flow outcome inferred. Underlying WLS with dummy controls, no separately established identification change."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -111088,7 +111097,21 @@
     "H9858": "0",
     "I9858": "0",
     "J9858": "none",
-    "K9858": "Destination firm number of advisers; text 830 fewer."
+    "K9858": "Destination firm number of advisers; text 830 fewer.",
+    "A9859": "DRDWCKUF",
+    "B9859": "h47",
+    "C9859": "hy1",
+    "H9859": "0",
+    "I9859": "unknown",
+    "J9859": "none",
+    "K9859": "Share of firm advisers with a customer-initiated misconduct record.",
+    "A9860": "DRDWCKUF",
+    "B9860": "h47",
+    "C9860": "hy2",
+    "H9860": "0",
+    "I9860": "unknown",
+    "J9860": "none",
+    "K9860": "Share of firm advisers with a noncustomer (firm/regulator)-initiated misconduct record."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
