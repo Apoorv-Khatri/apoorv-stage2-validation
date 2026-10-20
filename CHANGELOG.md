@@ -883035,3 +883035,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:13:41.676601+00:00 — Review DRDWCKUF s9: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K679",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R679",
+    "before": null,
+    "after": "Effect-to-effect comparison (24 pp vs average-firm punishment slope) and SD of moderator, not a same-outcome level/mean/SD benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2489",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2489",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2489",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2489",
+    "before": null,
+    "after": "Binary separation indicator (s3/s9) or one-year reemployment indicator conditional on leaving (s5). Both 0 and 1 occur; Table 9 rates strictly between endpoints. Corrects model zero-mass=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J997",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M997",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N997",
+    "before": null,
+    "after": "Heterogeneous effect of binary recent adviser misconduct on separation, moderated by continuous firm annual misconduct rate; Table 12A col.3/equation (9), firm×year×county FE. No-FE cols.1–2 in h5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O997",
+    "before": null,
+    "after": "Continuous moderator does not turn focal misconduct assignment contrast into a continuous treatment. Interaction −1.32 in col.3; headline −3.10 is col.2, despite prose citing col.1. Effect-to-effect ratios and moderator SD are not outcome benchmarks."
+  }
+]
+```
