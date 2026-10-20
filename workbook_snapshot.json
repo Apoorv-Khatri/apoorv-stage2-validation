@@ -43913,7 +43913,16 @@
     "L4330": "0",
     "M4330": "n/a",
     "N4330": "T1D call firm assignment versus control, weekly violation dynamics. Figure A3 p.4.",
-    "O4330": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
+    "O4330": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation.",
+    "A4331": "DUE9RA4X",
+    "B4331": "h55",
+    "I4331": "1",
+    "J4331": "RCT",
+    "K4331": "1",
+    "L4331": "0",
+    "M4331": "n/a",
+    "N4331": "T1 pooled private assignment versus control, biweekly emission-concentration dynamics. Figure A4 p.5; main fn25 p.835.",
+    "O4331": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -112586,7 +112595,21 @@
     "H9967": "1",
     "I9967": "1",
     "J9967": "none",
-    "K9967": "Daily firm violation indicator, weekly post-assignment dynamic coefficients."
+    "K9967": "Daily firm violation indicator, weekly post-assignment dynamic coefficients.",
+    "A9968": "DUE9RA4X",
+    "B9968": "h55",
+    "C9968": "hy1",
+    "H9968": "0",
+    "I9968": "unknown",
+    "J9968": "none",
+    "K9968": "SO2 daily pipe emission concentration, mg/m3; biweekly assignment interactions.",
+    "A9969": "DUE9RA4X",
+    "B9969": "h55",
+    "C9969": "hy2",
+    "H9969": "0",
+    "I9969": "unknown",
+    "J9969": "none",
+    "K9969": "COD daily pipe emission concentration, mg/L; biweekly assignment interactions."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
