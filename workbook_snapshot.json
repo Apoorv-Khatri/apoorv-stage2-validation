@@ -43317,7 +43317,16 @@
     "L4274": "0",
     "M4274": "unknown",
     "N4274": "Recent misconduct → job separation; Additional quality/productivity controls, Section VI.E.2 p.288.",
-    "O4274": "Main text establishes implemented separation result; original-firm/time/county controls discussed but precise alternate-model allocation unavailable. Routine definitions/control variants grouped in this separate robustness location; no presumed unseen estimator grid."
+    "O4274": "Main text establishes implemented separation result; original-firm/time/county controls discussed but precise alternate-model allocation unavailable. Routine definitions/control variants grouped in this separate robustness location; no presumed unseen estimator grid.",
+    "A4275": "DRDWCKUF",
+    "B4275": "h50",
+    "I4275": "1",
+    "J4275": "unknown",
+    "K4275": "1",
+    "L4275": "0",
+    "M4275": "unknown",
+    "N4275": "Recent misconduct → job separation; Investment-adviser versus broker subsamples, Section VI.D pp.286–287.",
+    "O4275": "Main text establishes implemented separation result; original-firm/time/county controls discussed but precise alternate-model allocation unavailable. Routine definitions/control variants grouped in this separate robustness location; no presumed unseen estimator grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -111143,7 +111152,14 @@
     "H9862": "1",
     "I9862": "1",
     "J9862": "none",
-    "K9862": "Next-year separation from original advisory firm."
+    "K9862": "Next-year separation from original advisory firm.",
+    "A9863": "DRDWCKUF",
+    "B9863": "h50",
+    "C9863": "hy1",
+    "H9863": "1",
+    "I9863": "1",
+    "J9863": "none",
+    "K9863": "Next-year separation from original advisory firm."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
