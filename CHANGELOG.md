@@ -932799,3 +932799,360 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T16:19:18.944762+00:00 — Review F3IAL93B s6: source-audited coding and linked comparisons
+
+58 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8139",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8140",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8141",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8139",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8140",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8141",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8139",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8140",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8141",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K708",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L707",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L708",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8139",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8140",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8141",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M707",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M708",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8139",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8140",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8141",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N708",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O708",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P707",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P708",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8139",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8140",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8141",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q707",
+    "before": null,
+    "after": "pp.1189-1191, Figure 2 and footnote 60: Naive sequential policy raises revenue by 61%; benchmark: status quo predicted revenue normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q708",
+    "before": null,
+    "after": "pp.1189-1191, Figure 2 and footnote 60: Sophisticated policy produces 10% more revenue, 1.77 versus 1.61; benchmark: naive-policy revenue level 1.61 times status quo."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8139",
+    "before": null,
+    "after": "p.1189 / Figure 2: RMTR rises to 95% of status quo, a 42% increase; benchmark: baseline RMTR 67% of status quo."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8140",
+    "before": null,
+    "after": "p.1191 / Figure 2: Rate optimization alone raises revenue 32%; benchmark: status quo predicted revenue normalized to 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8141",
+    "before": null,
+    "after": "p.1191 / Figure 2: Sophisticated joint optimization raises revenue 77%; benchmark: status quo predicted revenue normalized to 1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10203",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10203",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10203",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10203",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10203",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10203",
+    "before": null,
+    "after": "RMTR under replacement of bottom-quartile collectors with average collectors: 0.67 to 0.95 of status quo (Section 7.3)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1026",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1026",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1026",
+    "before": null,
+    "after": "Section 7.3 / Figure 2: counterfactual tax-rate optimization and replacement of bottom-quartile collectors by average collectors; predicted revenue and RMTR."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1026",
+    "before": null,
+    "after": "Optimizing rates and selecting the bottom quartile using estimated compliance capacities makes the complete reported policy calculation outcome-adaptive. Not a pure prediction exercise: authors interpret changing the policy as causing revenue gains. Footnote 60 compares revenue LEVELS 1.77/1.61, not 77/61 gains. Figure 2B prints 94% for high-enforcement RMTR whereas p.1189 prose says 95%; retained literal conflict, not silently reconciled."
+  }
+]
+```
