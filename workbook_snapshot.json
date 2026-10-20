@@ -43083,7 +43083,16 @@
     "L4248": "1",
     "M4248": "n/a",
     "N4248": "college-educated share → county stock and annual flow of misconduct; Table 15 cols.2,4, equation (12); weighted by square root adviser count.",
-    "O4248": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication."
+    "O4248": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication.",
+    "A4249": "DRDWCKUF",
+    "B4249": "h9",
+    "I4249": "unknown",
+    "J4249": "OLS",
+    "K4249": "0",
+    "L4249": "1",
+    "M4249": "n/a",
+    "N4249": "log median household income → county stock and annual flow of misconduct; Table 15 cols.1,3, equation (12); weighted by square root adviser count.",
+    "O4249": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication. Independent audit: income explicitly called a demand control and correlation (p.280); possible profitability conjecture does not settle author-intended causal income effect. Preserve gate unknown rather than certify inclusion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110678,7 +110687,21 @@
     "H9829": "0",
     "I9829": "unknown",
     "J9829": "none",
-    "K9829": "County annual new misconduct percentage."
+    "K9829": "County annual new misconduct percentage.",
+    "A9830": "DRDWCKUF",
+    "B9830": "h9",
+    "C9830": "hy1",
+    "H9830": "0",
+    "I9830": "unknown",
+    "J9830": "none",
+    "K9830": "County stock misconduct percentage: advisers with a past or current record.",
+    "A9831": "DRDWCKUF",
+    "B9831": "h9",
+    "C9831": "hy2",
+    "H9831": "0",
+    "I9831": "unknown",
+    "J9831": "none",
+    "K9831": "County annual new misconduct percentage."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
