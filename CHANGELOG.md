@@ -882288,3 +882288,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:10:28.914442+00:00 — Review DRDWCKUF s4: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7725",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7725",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7725",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K676",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L676",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7725",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M676",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7725",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P676",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7725",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q676",
+    "before": null,
+    "after": "\"Moving from the 25th to the 75th percentile of the distribution of settlements is associated with a 10 percentage point increase in job separations. This is a substantial increase relative to the unconditional mean separation rate of 19 percentage points.\" Main pp.263–266. Prose allocation across no-FE and FE columns unresolved; exact own-column pairings added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7725",
+    "before": null,
+    "after": "Table 9 panel A col.6, p.264: coefficient 0.89 pp paired with same-column average outcome rate 27.3%. All observations in that column; not a separately identified untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R676",
+    "before": null,
+    "after": "Held pooled prose contrast: do not multiply it across candidate estimators. s4 IQR 10 pp/19% has no column attribution; s5 8–10 pp/52% conflicts with col.2 −12.8 and FE mean 53.2."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7725",
+    "before": null,
+    "after": "Benchmark target/untreated weights not established for this observational contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J992",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M992",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N992",
+    "before": null,
+    "after": "Log total misconduct settlements/damages → next-year firm separation among observed settlement cases; Table 9A col.6, equation (4). Separate firm, county, year identifying FE; no-FE cols.4–5 in h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O992",
+    "before": null,
+    "after": "pp.236,263–266: severity explicitly central disciplinary mechanism. Three separate dimensions, unlike interacted FE in col.3. Printed doubling and interquartile interpretations need not equal the displayed log coefficient; preserved, not repaired."
+  }
+]
+```
