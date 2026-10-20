@@ -43128,7 +43128,16 @@
     "L4253": "1",
     "M4253": "unknown",
     "N4253": "Recent misconduct → expected duration out of industry under assumption no spell exceeds five years, p.267 fn.23.",
-    "O4253": "Calculated using empirical survival functions. Linearity depends on censoring implementation, unavailable; neither simulation nor expectation alone proves Other. Expected duration summarizes the central longer-employment-gap result (introduction p.236), not merely diagnostic robustness."
+    "O4253": "Calculated using empirical survival functions. Linearity depends on censoring implementation, unavailable; neither simulation nor expectation alone proves Other. Expected duration summarizes the central longer-employment-gap result (introduction p.236), not merely diagnostic robustness.",
+    "A4254": "DRDWCKUF",
+    "B4254": "h14",
+    "I4254": "1",
+    "J4254": "unknown",
+    "K4254": "1",
+    "L4254": "0",
+    "M4254": "unknown",
+    "N4254": "Severe Misconduct 1 versus none → job separation and one-year reemployment; Section VI.A.1 pp.282–283.",
+    "O4254": "Definition 1: settled regulatory/civil/customer fraud/forgery, unauthorized activity, churning, unregistered securities, misrepresentation/omission, plus specified final criminal cases; definition 2 excludes misrepresentation/omission. Implemented outcomes established; final appendix estimator/column allocation unavailable. No numerical range assigned to an individual severity definition."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110779,7 +110788,21 @@
     "H9837": "0",
     "I9837": "unknown",
     "J9837": "none",
-    "K9837": "Expected out-of-industry duration in months truncated by maintained five-year terminal assumption."
+    "K9837": "Expected out-of-industry duration in months truncated by maintained five-year terminal assumption.",
+    "A9838": "DRDWCKUF",
+    "B9838": "h14",
+    "C9838": "hy1",
+    "H9838": "1",
+    "I9838": "1",
+    "J9838": "none",
+    "K9838": "Job separation from original firm after severe misconduct.",
+    "A9839": "DRDWCKUF",
+    "B9839": "h14",
+    "C9839": "hy2",
+    "H9839": "1",
+    "I9839": "1",
+    "J9839": "none",
+    "K9839": "New industry employment within one year conditional on job separation after severe misconduct."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
