@@ -886485,3 +886485,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:23:57.039809+00:00 — Review DRDWCKUF h13: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7750",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7751",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7750",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7751",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7750",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7751",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7750",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7751",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7750",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7751",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7750",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7750",
+    "before": null,
+    "after": "p.267 fn.23: 30.23 months recent misconduct vs 29.21 months without; text describes more than one month of wages. Benchmark is duration, not monetary income."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7751",
+    "before": null,
+    "after": "p.267 fn23: same capped expected-duration contrast 30.23 months with recent misconduct versus 29.21 without, paired with treated endpoint mean 30.23 months. Five-year terminal assumption maintained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7750",
+    "before": null,
+    "after": "Benchmark target/untreated weights not established for this observational contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7751",
+    "before": null,
+    "after": "Symmetric endpoint policy applied consistently to Table8 and Figure6/fn23. Treated mean/path is not the untreated baseline."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9837",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9837",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9837",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9837",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9837",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9837",
+    "before": null,
+    "after": "Expected out-of-industry duration in months truncated by maintained five-year terminal assumption."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4253",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4253",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4253",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4253",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4253",
+    "before": null,
+    "after": "Recent misconduct → expected duration out of industry under assumption no spell exceeds five years, p.267 fn.23."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4253",
+    "before": null,
+    "after": "Calculated using empirical survival functions. Linearity depends on censoring implementation, unavailable; neither simulation nor expectation alone proves Other. Expected duration summarizes the central longer-employment-gap result (introduction p.236), not merely diagnostic robustness."
+  }
+]
+```
