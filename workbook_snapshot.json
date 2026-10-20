@@ -44741,7 +44741,16 @@
     "L4412": "0",
     "M4412": "n/a",
     "N4412": "Cited NBER Appendix B Figure B17: covariate-adjusted collector-capacity/RMTR relationships.",
-    "O4412": "Conditional OLS relationship in the explicitly reported collector-level dependent outcome vector (RMTR, visits, beliefs or elasticities as individually defined). Higher-priority randomized assignment identifies the upstream collector effects, not random manipulation of the scalar estimated capacity. Broad author-intention gate passes via final Sections 7.2.1-7.2.3, including null mechanisms. Full micro-compliance-outcome construction is nonlinear/outcome-adaptive where both regressor and RMTR derive from compliance; the competing full-procedure Other classification is preserved for parent adjudication. Do not treat poor identification alone as exclusion."
+    "O4412": "Conditional OLS relationship in the explicitly reported collector-level dependent outcome vector (RMTR, visits, beliefs or elasticities as individually defined). Higher-priority randomized assignment identifies the upstream collector effects, not random manipulation of the scalar estimated capacity. Broad author-intention gate passes via final Sections 7.2.1-7.2.3, including null mechanisms. Full micro-compliance-outcome construction is nonlinear/outcome-adaptive where both regressor and RMTR derive from compliance; the competing full-procedure Other classification is preserved for parent adjudication. Do not treat poor identification alone as exclusion.",
+    "A4413": "F3IAL93B",
+    "B4413": "h62",
+    "I4413": "1",
+    "J4413": "OLS",
+    "K4413": "0",
+    "L4413": "0",
+    "M4413": "n/a",
+    "N4413": "Cited NBER Appendix B Figure B19: collector-pair enforcement-capacity relationship with pair-specific RMTR, linear/quadratic schedules, without added property characteristics.",
+    "O4413": "Conditional OLS relationship in the explicitly reported collector-level dependent outcome vector (RMTR, visits, beliefs or elasticities as individually defined). Higher-priority randomized assignment identifies the upstream collector effects, not random manipulation of the scalar estimated capacity. Broad author-intention gate passes via final Sections 7.2.1-7.2.3, including null mechanisms. Full micro-compliance-outcome construction is nonlinear/outcome-adaptive where both regressor and RMTR derive from compliance; the competing full-procedure Other classification is preserved for parent adjudication. Do not treat poor identification alone as exclusion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115612,7 +115621,14 @@
     "H10359": "0",
     "I10359": "unknown",
     "J10359": "other",
-    "K10359": "Figure B17: Collector or collector-pair RMTR, linear/quadratic."
+    "K10359": "Figure B17: Collector or collector-pair RMTR, linear/quadratic.",
+    "A10360": "F3IAL93B",
+    "B10360": "h62",
+    "C10360": "hy1",
+    "H10360": "0",
+    "I10360": "unknown",
+    "J10360": "other",
+    "K10360": "Collector-pair RMTR from linear and quadratic compliance schedules without added property-characteristic adjustment; Figure B19."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
