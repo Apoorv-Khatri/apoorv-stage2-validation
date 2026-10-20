@@ -1014177,3 +1014177,11988 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:54:08.340512+00:00 — Review F3IAL93B h66: source-audited coding and linked comparisons
+
+1996 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9214",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9215",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9216",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9217",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9218",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9219",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9220",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9221",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9222",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9223",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9224",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9225",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9226",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9227",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9228",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9229",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9230",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9231",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9232",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9233",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9234",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9235",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9236",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9237",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9238",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9239",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9240",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9241",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9242",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9243",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9244",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9245",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9246",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9247",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9248",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9249",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9250",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9251",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9252",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9253",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9254",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9255",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9256",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9257",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9258",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9259",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9260",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9261",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9262",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9263",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9264",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9265",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9266",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9267",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9268",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9269",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9270",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9271",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9272",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9273",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9274",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9275",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9276",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9277",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9278",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9279",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9280",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9281",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9282",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9283",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9284",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9285",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9286",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9287",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9288",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9289",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9290",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9291",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9292",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9293",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9294",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9295",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9296",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9297",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9298",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9299",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9300",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9301",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9302",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9303",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9304",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9305",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9306",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9307",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9308",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9309",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9310",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9311",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9312",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9313",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9314",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9315",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9316",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9317",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9318",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9319",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9320",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9321",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9322",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9323",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9324",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9325",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9326",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9327",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9328",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9329",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9330",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9331",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9332",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9333",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9334",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9335",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9336",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9337",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9338",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9339",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9340",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9341",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9342",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9343",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9344",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9345",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9346",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9347",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9348",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9349",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9350",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9351",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9352",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9353",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9354",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9355",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9356",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9357",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9358",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9359",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9360",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9361",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9362",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9363",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9364",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9365",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9366",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9367",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9368",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9369",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9370",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9371",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9372",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9373",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9374",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9375",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9376",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9377",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9378",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9379",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9380",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9381",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9382",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9383",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9384",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9385",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9386",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9387",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9388",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9389",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9390",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9391",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9392",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9393",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9214",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9215",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9216",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9217",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9218",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9219",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9220",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9221",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9222",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9223",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9224",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9225",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9226",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9227",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9228",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9229",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9230",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9231",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9232",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9233",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9234",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9235",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9236",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9237",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9238",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9239",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9240",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9241",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9242",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9243",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9244",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9245",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9246",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9247",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9248",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9249",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9250",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9251",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9252",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9253",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9254",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9255",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9256",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9257",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9258",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9259",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9260",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9261",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9262",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9263",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9264",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9265",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9266",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9267",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9268",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9269",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9270",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9271",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9272",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9273",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9274",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9275",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9276",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9277",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9278",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9279",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9280",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9281",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9282",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9283",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9284",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9285",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9286",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9287",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9288",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9289",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9290",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9291",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9292",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9293",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9294",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9295",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9296",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9297",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9298",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9299",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9300",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9301",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9302",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9303",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9304",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9305",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9306",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9307",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9308",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9309",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9310",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9311",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9312",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9313",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9314",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9315",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9316",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9317",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9318",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9319",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9320",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9321",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9322",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9323",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9324",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9325",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9326",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9327",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9328",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9329",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9330",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9331",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9332",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9333",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9334",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9335",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9336",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9337",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9338",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9339",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9340",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9341",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9342",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9343",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9344",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9345",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9346",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9347",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9348",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9349",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9350",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9351",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9352",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9353",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9354",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9355",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9356",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9357",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9358",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9359",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9360",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9361",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9362",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9363",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9364",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9365",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9366",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9367",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9368",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9369",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9370",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9371",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9372",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9373",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9374",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9375",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9376",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9377",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9378",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9379",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9380",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9381",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9382",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9383",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9384",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9385",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9386",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9387",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9388",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9389",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9390",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9391",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9392",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9393",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9214",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9215",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9216",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9217",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9218",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9219",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9220",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9221",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9222",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9223",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9224",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9225",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9226",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9227",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9228",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9229",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9230",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9231",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9232",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9233",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9234",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9235",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9236",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9237",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9238",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9239",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9240",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9241",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9242",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9243",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9244",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9245",
+    "before": null,
+    "after": "hc32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9246",
+    "before": null,
+    "after": "hc33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9247",
+    "before": null,
+    "after": "hc34"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9248",
+    "before": null,
+    "after": "hc35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9249",
+    "before": null,
+    "after": "hc36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9250",
+    "before": null,
+    "after": "hc37"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9251",
+    "before": null,
+    "after": "hc38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9252",
+    "before": null,
+    "after": "hc39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9253",
+    "before": null,
+    "after": "hc40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9254",
+    "before": null,
+    "after": "hc41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9255",
+    "before": null,
+    "after": "hc42"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9256",
+    "before": null,
+    "after": "hc43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9257",
+    "before": null,
+    "after": "hc44"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9258",
+    "before": null,
+    "after": "hc45"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9259",
+    "before": null,
+    "after": "hc46"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9260",
+    "before": null,
+    "after": "hc47"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9261",
+    "before": null,
+    "after": "hc48"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9262",
+    "before": null,
+    "after": "hc49"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9263",
+    "before": null,
+    "after": "hc50"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9264",
+    "before": null,
+    "after": "hc51"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9265",
+    "before": null,
+    "after": "hc52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9266",
+    "before": null,
+    "after": "hc53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9267",
+    "before": null,
+    "after": "hc54"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9268",
+    "before": null,
+    "after": "hc55"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9269",
+    "before": null,
+    "after": "hc56"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9270",
+    "before": null,
+    "after": "hc57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9271",
+    "before": null,
+    "after": "hc58"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9272",
+    "before": null,
+    "after": "hc59"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9273",
+    "before": null,
+    "after": "hc60"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9274",
+    "before": null,
+    "after": "hc61"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9275",
+    "before": null,
+    "after": "hc62"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9276",
+    "before": null,
+    "after": "hc63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9277",
+    "before": null,
+    "after": "hc64"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9278",
+    "before": null,
+    "after": "hc65"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9279",
+    "before": null,
+    "after": "hc66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9280",
+    "before": null,
+    "after": "hc67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9281",
+    "before": null,
+    "after": "hc68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9282",
+    "before": null,
+    "after": "hc69"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9283",
+    "before": null,
+    "after": "hc70"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9284",
+    "before": null,
+    "after": "hc71"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9285",
+    "before": null,
+    "after": "hc72"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9286",
+    "before": null,
+    "after": "hc73"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9287",
+    "before": null,
+    "after": "hc74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9288",
+    "before": null,
+    "after": "hc75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9289",
+    "before": null,
+    "after": "hc76"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9290",
+    "before": null,
+    "after": "hc77"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9291",
+    "before": null,
+    "after": "hc78"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9292",
+    "before": null,
+    "after": "hc79"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9293",
+    "before": null,
+    "after": "hc80"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9294",
+    "before": null,
+    "after": "hc81"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9295",
+    "before": null,
+    "after": "hc82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9296",
+    "before": null,
+    "after": "hc83"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9297",
+    "before": null,
+    "after": "hc84"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9298",
+    "before": null,
+    "after": "hc85"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9299",
+    "before": null,
+    "after": "hc86"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9300",
+    "before": null,
+    "after": "hc87"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9301",
+    "before": null,
+    "after": "hc88"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9302",
+    "before": null,
+    "after": "hc89"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9303",
+    "before": null,
+    "after": "hc90"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9304",
+    "before": null,
+    "after": "hc91"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9305",
+    "before": null,
+    "after": "hc92"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9306",
+    "before": null,
+    "after": "hc93"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9307",
+    "before": null,
+    "after": "hc94"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9308",
+    "before": null,
+    "after": "hc95"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9309",
+    "before": null,
+    "after": "hc96"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9310",
+    "before": null,
+    "after": "hc97"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9311",
+    "before": null,
+    "after": "hc98"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9312",
+    "before": null,
+    "after": "hc99"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9313",
+    "before": null,
+    "after": "hc100"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9314",
+    "before": null,
+    "after": "hc101"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9315",
+    "before": null,
+    "after": "hc102"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9316",
+    "before": null,
+    "after": "hc103"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9317",
+    "before": null,
+    "after": "hc104"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9318",
+    "before": null,
+    "after": "hc105"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9319",
+    "before": null,
+    "after": "hc106"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9320",
+    "before": null,
+    "after": "hc107"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9321",
+    "before": null,
+    "after": "hc108"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9322",
+    "before": null,
+    "after": "hc109"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9323",
+    "before": null,
+    "after": "hc110"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9324",
+    "before": null,
+    "after": "hc111"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9325",
+    "before": null,
+    "after": "hc112"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9326",
+    "before": null,
+    "after": "hc113"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9327",
+    "before": null,
+    "after": "hc114"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9328",
+    "before": null,
+    "after": "hc115"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9329",
+    "before": null,
+    "after": "hc116"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9330",
+    "before": null,
+    "after": "hc117"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9331",
+    "before": null,
+    "after": "hc118"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9332",
+    "before": null,
+    "after": "hc119"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9333",
+    "before": null,
+    "after": "hc120"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9334",
+    "before": null,
+    "after": "hc121"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9335",
+    "before": null,
+    "after": "hc122"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9336",
+    "before": null,
+    "after": "hc123"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9337",
+    "before": null,
+    "after": "hc124"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9338",
+    "before": null,
+    "after": "hc125"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9339",
+    "before": null,
+    "after": "hc126"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9340",
+    "before": null,
+    "after": "hc127"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9341",
+    "before": null,
+    "after": "hc128"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9342",
+    "before": null,
+    "after": "hc129"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9343",
+    "before": null,
+    "after": "hc130"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9344",
+    "before": null,
+    "after": "hc131"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9345",
+    "before": null,
+    "after": "hc132"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9346",
+    "before": null,
+    "after": "hc133"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9347",
+    "before": null,
+    "after": "hc134"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9348",
+    "before": null,
+    "after": "hc135"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9349",
+    "before": null,
+    "after": "hc136"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9350",
+    "before": null,
+    "after": "hc137"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9351",
+    "before": null,
+    "after": "hc138"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9352",
+    "before": null,
+    "after": "hc139"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9353",
+    "before": null,
+    "after": "hc140"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9354",
+    "before": null,
+    "after": "hc141"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9355",
+    "before": null,
+    "after": "hc142"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9356",
+    "before": null,
+    "after": "hc143"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9357",
+    "before": null,
+    "after": "hc144"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9358",
+    "before": null,
+    "after": "hc145"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9359",
+    "before": null,
+    "after": "hc146"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9360",
+    "before": null,
+    "after": "hc147"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9361",
+    "before": null,
+    "after": "hc148"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9362",
+    "before": null,
+    "after": "hc149"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9363",
+    "before": null,
+    "after": "hc150"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9364",
+    "before": null,
+    "after": "hc151"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9365",
+    "before": null,
+    "after": "hc152"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9366",
+    "before": null,
+    "after": "hc153"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9367",
+    "before": null,
+    "after": "hc154"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9368",
+    "before": null,
+    "after": "hc155"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9369",
+    "before": null,
+    "after": "hc156"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9370",
+    "before": null,
+    "after": "hc157"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9371",
+    "before": null,
+    "after": "hc158"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9372",
+    "before": null,
+    "after": "hc159"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9373",
+    "before": null,
+    "after": "hc160"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9374",
+    "before": null,
+    "after": "hc161"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9375",
+    "before": null,
+    "after": "hc162"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9376",
+    "before": null,
+    "after": "hc163"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9377",
+    "before": null,
+    "after": "hc164"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9378",
+    "before": null,
+    "after": "hc165"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9379",
+    "before": null,
+    "after": "hc166"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9380",
+    "before": null,
+    "after": "hc167"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9381",
+    "before": null,
+    "after": "hc168"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9382",
+    "before": null,
+    "after": "hc169"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9383",
+    "before": null,
+    "after": "hc170"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9384",
+    "before": null,
+    "after": "hc171"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9385",
+    "before": null,
+    "after": "hc172"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9386",
+    "before": null,
+    "after": "hc173"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9387",
+    "before": null,
+    "after": "hc174"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9388",
+    "before": null,
+    "after": "hc175"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9389",
+    "before": null,
+    "after": "hc176"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9390",
+    "before": null,
+    "after": "hc177"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9391",
+    "before": null,
+    "after": "hc178"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9392",
+    "before": null,
+    "after": "hc179"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9393",
+    "before": null,
+    "after": "hc180"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9225",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9233",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9237",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9238",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9239",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9244",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9245",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9248",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9254",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9255",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9256",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9257",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9258",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9259",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9260",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9261",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9262",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9268",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9275",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9276",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9277",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9278",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9279",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9280",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9281",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9282",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9283",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9285",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9287",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9288",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9289",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9298",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9299",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9301",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9302",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9303",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9304",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9305",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9306",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9307",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9308",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9309",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9310",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9311",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9313",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9315",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9316",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9318",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9319",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9322",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9339",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9341",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9348",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9350",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9352",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9353",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9354",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9355",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9357",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9358",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9359",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9360",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9361",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9385",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9390",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9214",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9215",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9216",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9217",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9218",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9219",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9220",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9221",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9222",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9223",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9224",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9225",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9226",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9227",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9228",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9229",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9230",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9231",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9232",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9233",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9234",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9235",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9236",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9237",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9238",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9239",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9240",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9241",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9242",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9243",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9244",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9245",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9246",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9247",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9248",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9249",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9250",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9251",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9252",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9253",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9254",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9255",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9256",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9257",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9258",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9259",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9260",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9261",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9262",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9263",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9264",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9265",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9266",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9267",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9268",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9269",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9270",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9271",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9272",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9273",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9274",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9275",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9276",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9277",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9278",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9279",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9280",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9281",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9282",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9283",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9284",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9285",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9286",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9287",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9288",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9289",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9290",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9291",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9292",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9293",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9294",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9295",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9296",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9297",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9298",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9299",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9300",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9301",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9302",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9303",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9304",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9305",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9306",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9307",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9308",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9309",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9310",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9311",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9312",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9313",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9314",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9315",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9316",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9317",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9318",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9319",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9320",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9321",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9322",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9323",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9324",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9325",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9326",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9327",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9328",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9329",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9330",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9331",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9332",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9333",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9334",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9335",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9336",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9337",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9338",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9339",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9340",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9341",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9342",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9343",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9344",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9345",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9346",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9347",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9348",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9349",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9350",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9351",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9352",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9353",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9354",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9355",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9356",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9357",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9358",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9359",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9360",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9361",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9362",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9363",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9364",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9365",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9366",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9367",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9368",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9369",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9370",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9371",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9372",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9373",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9374",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9375",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9376",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9377",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9378",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9379",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9380",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9381",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9382",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9383",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9384",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9385",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9386",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9387",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9388",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9389",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9390",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9391",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9392",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9393",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9214",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9215",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9216",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9217",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9218",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9219",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9220",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9221",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9222",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9223",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9224",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9225",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9226",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9227",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9228",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9229",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9230",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9231",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9232",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9233",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9234",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9235",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9236",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9237",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9238",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9239",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9240",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9241",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9242",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9243",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9244",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9245",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9246",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9247",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9248",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9249",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9250",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9251",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9252",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9253",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9254",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9255",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9256",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9257",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9258",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9259",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9260",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9261",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9262",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9263",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9264",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9265",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9266",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9267",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9268",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9269",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9270",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9271",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9272",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9273",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9274",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9275",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9276",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9277",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9278",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9279",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9280",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9281",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9282",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9283",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9284",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9285",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9286",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9287",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9288",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9289",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9290",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9291",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9292",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9293",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9294",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9295",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9296",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9297",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9298",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9299",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9300",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9301",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9302",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9303",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9304",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9305",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9306",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9307",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9308",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9309",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9310",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9311",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9312",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9313",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9314",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9315",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9316",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9317",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9318",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9319",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9320",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9321",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9322",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9323",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9324",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9325",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9326",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9327",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9328",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9329",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9330",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9331",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9332",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9333",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9334",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9335",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9336",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9337",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9338",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9339",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9340",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9341",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9342",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9343",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9344",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9345",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9346",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9347",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9348",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9349",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9350",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9351",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9352",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9353",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9354",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9355",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9356",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9357",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9358",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9359",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9360",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9361",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9362",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9363",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9364",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9365",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9366",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9367",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9368",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9369",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9370",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9371",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9372",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9373",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9374",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9375",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9376",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9377",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9378",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9379",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9380",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9381",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9382",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9383",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9384",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9385",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9386",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9387",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9388",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9389",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9390",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9391",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9392",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9393",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9225",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9233",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9237",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9238",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9239",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9244",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9245",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9248",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9254",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9255",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9256",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9257",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9258",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9259",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9260",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9261",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9262",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9268",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9275",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9276",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9277",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9278",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9279",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9280",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9281",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9282",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9283",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9285",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9287",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9288",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9289",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9298",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9299",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9301",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9302",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9303",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9304",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9305",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9306",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9307",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9308",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9309",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9310",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9311",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9313",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9315",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9316",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9318",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9319",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9322",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9339",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9341",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9348",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9350",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9352",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9353",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9354",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9355",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9357",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9358",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9359",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9360",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9361",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9385",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9390",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9225",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9233",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9237",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9238",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9239",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9244",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9245",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9248",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9254",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9255",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9256",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9257",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9258",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9259",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9260",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9261",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9262",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9268",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9272",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9273",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9274",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9275",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9276",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9277",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9278",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9279",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9280",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9281",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9282",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9283",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9284",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9285",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9286",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9287",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9288",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9289",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9298",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9299",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9301",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9302",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9303",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9304",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9305",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9306",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9307",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9308",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9309",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9310",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9311",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9313",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9315",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9316",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9318",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9319",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9322",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9339",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9341",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9348",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9350",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9352",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9353",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9354",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9355",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9357",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9358",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9359",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9360",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9361",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9385",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9390",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9214",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9215",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9216",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9217",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9218",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9219",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9220",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9221",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9222",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9223",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9224",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9225",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9226",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9227",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9228",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9229",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9230",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9231",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9232",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9233",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9234",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9235",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9236",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9237",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9238",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9239",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9240",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9241",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9242",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9243",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9244",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9245",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9246",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9247",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9248",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9249",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9250",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9251",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9252",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9253",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9254",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9255",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9256",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9257",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9258",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9259",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9260",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9261",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9262",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9263",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9264",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9265",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9266",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9267",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9268",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9269",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9270",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9271",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9272",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9273",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9274",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9275",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9276",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9277",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9278",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9279",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9280",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9281",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9282",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9283",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9284",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9285",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9286",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9287",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9288",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9289",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9290",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9291",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9292",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9293",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9294",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9295",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9296",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9297",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9298",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9299",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9300",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9301",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9302",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9303",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9304",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9305",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9306",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9307",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9308",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9309",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9310",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9311",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9312",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9313",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9314",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9315",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9316",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9317",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9318",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9319",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9320",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9321",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9322",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9323",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9324",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9325",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9326",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9327",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9328",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9329",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9330",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9331",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9332",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9333",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9334",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9335",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9336",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9337",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9338",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9339",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9340",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9341",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9342",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9343",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9344",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9345",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9346",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9347",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9348",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9349",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9350",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9351",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9352",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9353",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9354",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9355",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9356",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9357",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9358",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9359",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9360",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9361",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9362",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9363",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9364",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9365",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9366",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9367",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9368",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9369",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9370",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9371",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9372",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9373",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9374",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9375",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9376",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9377",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9378",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9379",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9380",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9381",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9382",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9383",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9384",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9385",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9386",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9387",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9388",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9389",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9390",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9391",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9392",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9393",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9214",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 1 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9215",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 2 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9216",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 3 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9217",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 4 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9218",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 5 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9219",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 6 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9220",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 7 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9221",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 8 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9222",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 9 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9223",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 10 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9224",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 11 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9225",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 12 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9226",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 13 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9227",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 14 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9228",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 15 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9229",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 16 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9230",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 17 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9231",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 18 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9232",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 19 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9233",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 20 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9234",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 21 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9235",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 22 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9236",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 23 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9237",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 24 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9238",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 25 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9239",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 26 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9240",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 27 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9241",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 28 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9242",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 29 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9243",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 30 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9244",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 31 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9245",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 32 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9246",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 33 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9247",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 34 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9248",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 35 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9249",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 36 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9250",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 37 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9251",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 38 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9252",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 39 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9253",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 40 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9254",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 41 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9255",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 42 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9256",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 43 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9257",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 44 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9258",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 45 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9259",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 46 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9260",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 47 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9261",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 48 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9262",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 49 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9263",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 50 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9264",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 51 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9265",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 52 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9266",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 53 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9267",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 54 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9268",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 55 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9269",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 56 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9270",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 57 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9271",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 58 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9272",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 59 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9273",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 60 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9274",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 61 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9275",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 62 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9276",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 63 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9277",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 64 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9278",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 65 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9279",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 66 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9280",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 67 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9281",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 68 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9282",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 69 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9283",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 70 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9284",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 71 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9285",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 72 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9286",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 73 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9287",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 74 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9288",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 75 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9289",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 76 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9290",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 77 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9291",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 78 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9292",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 79 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9293",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 80 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9294",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 81 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9295",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 82 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9296",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 83 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9297",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 84 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9298",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 85 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9299",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 86 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9300",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 87 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9301",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 88 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9302",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel B, linear collector-pair RMTR, within-panel rank 89 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-89; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9303",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 1 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9304",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 2 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9305",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 3 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9306",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 4 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9307",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 5 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9308",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 6 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9309",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 7 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9310",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 8 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9311",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 9 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9312",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 10 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9313",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 11 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9314",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 12 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9315",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 13 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9316",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 14 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9317",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 15 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9318",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 16 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9319",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 17 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9320",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 18 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9321",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 19 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9322",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 20 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9323",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 21 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9324",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 22 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9325",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 23 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9326",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 24 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9327",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 25 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9328",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 26 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9329",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 27 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9330",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 28 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9331",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 29 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9332",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 30 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9333",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 31 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9334",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 32 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9335",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 33 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9336",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 34 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9337",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 35 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9338",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 36 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9339",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 37 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9340",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 38 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9341",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 39 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9342",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 40 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9343",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 41 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9344",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 42 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9345",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 43 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9346",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 44 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9347",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 45 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9348",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 46 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9349",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 47 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9350",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 48 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9351",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 49 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9352",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 50 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9353",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 51 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9354",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 52 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9355",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 53 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9356",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 54 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9357",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 55 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9358",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 56 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9359",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 57 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9360",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 58 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9361",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 59 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9362",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 60 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9363",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 61 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9364",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 62 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9365",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 63 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9366",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 64 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9367",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 65 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9368",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 66 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9369",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 67 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9370",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 68 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9371",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 69 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9372",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 70 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9373",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 71 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9374",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 72 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9375",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 73 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9376",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 74 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9377",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 75 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9378",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 76 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9379",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 77 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9380",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 78 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9381",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 79 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9382",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 80 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9383",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 81 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9384",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 82 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9385",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 83 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9386",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 84 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9387",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 85 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9388",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 86 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9389",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 87 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9390",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 88 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9391",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 89 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9392",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 90 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9393",
+    "before": null,
+    "after": "Cited secondary NBER Figure B18 panel C, quadratic collector-pair RMTR, within-panel rank 91 from left: qualitative RMTR normalized to status-quo tax rate = 1 on fractional axis. Bar support established within ranks 1-91; no numeric height or pair identity assigned."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9214",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9215",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9216",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9217",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9218",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9219",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9220",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9221",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9222",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9223",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9224",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9225",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9226",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9227",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9228",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9229",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9230",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9231",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9232",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9233",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9234",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9235",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9236",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9237",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9238",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9239",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9240",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9241",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9242",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9243",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9244",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9245",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9246",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9247",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9248",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9249",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9250",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9251",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9252",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9253",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9254",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9255",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9256",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9257",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9258",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9259",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9260",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9261",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9262",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9263",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9264",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9265",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9266",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9267",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9268",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9269",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9270",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9271",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9272",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9273",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9274",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9275",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9276",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9277",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9278",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9279",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9280",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9281",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9282",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9283",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9284",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9285",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9286",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9287",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9288",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9289",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9290",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9291",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9292",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9293",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9294",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9295",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9296",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9297",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9298",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9299",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9300",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9301",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9302",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9303",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9304",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9305",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9306",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9307",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9308",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9309",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9310",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9311",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9312",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9313",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9314",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9315",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9316",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9317",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9318",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9319",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9320",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9321",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9322",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9323",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9324",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9325",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9326",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9327",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9328",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9329",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9330",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9331",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9332",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9333",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9334",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9335",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9336",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9337",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9338",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9339",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9340",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9341",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9342",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9343",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9344",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9345",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9346",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9347",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9348",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9349",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9350",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9351",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9352",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9353",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9354",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9355",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9356",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9357",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9358",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9359",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9360",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9361",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9362",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9363",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9364",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9365",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9366",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9367",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9368",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9369",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9370",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9371",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9372",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9373",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9374",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9375",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9376",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9377",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9378",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9379",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9380",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9381",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9382",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9383",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9384",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9385",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9386",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9387",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9388",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9389",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9390",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9391",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9392",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9393",
+    "before": null,
+    "after": "Public Appendix_FigureB18B19.do independently sorts each RMTR series, creates rank=_n, and replaces zero with 0.005 only for visibility. Construction uses captured nonlinear failures and outlier missinging; unavailable generated plot-input DTA prevents certifying the full terminal pair count. No cross-panel identity assumed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10366",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10366",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10366",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10366",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10366",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10366",
+    "before": null,
+    "after": "Figure B18B-C: Collector-pair RMTR."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4417",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4417",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4417",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4417",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4417",
+    "before": null,
+    "after": "Cited NBER Appendix B Figure B18B-C: nonlinear collector-pair RMTR recovery."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4417",
+    "before": null,
+    "after": "B18B/C rank-local qualitative RMTR normalization comparisons retained for visibly established ranks 1-89 in B and 1-91 in C. B ranks90+ / C ranks92+ terminal allocation remains held; not an exhaustive pair census. Plot code sorts panels separately and raises exact zero to 0.005 for visibility; no pair identity matches or numerical graph coefficients inferred."
+  }
+]
+```
