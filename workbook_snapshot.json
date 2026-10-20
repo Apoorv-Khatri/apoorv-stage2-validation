@@ -44192,7 +44192,16 @@
     "L4351": "0",
     "M4351": "n/a",
     "N4351": "Estimated-model stock-price response to monetary shock with information (baseline) and without information, Table V p.1322.",
-    "O4351": "Unlevered claim to consumption stream (footnote30). Printed baseline -6.8 percent, no-information -11.1 percent (prose rounds to 11). Distinct from empirical OLS s7. Model and data estimates compared to one another are not outcome-level benchmarks."
+    "O4351": "Unlevered claim to consumption stream (footnote30). Printed baseline -6.8 percent, no-information -11.1 percent (prose rounds to 11). Distinct from empirical OLS s7. Model and data estimates compared to one another are not outcome-level benchmarks.",
+    "A4352": "F3IAL93B",
+    "B4352": "h1",
+    "I4352": "1",
+    "J4352": "RCT",
+    "K4352": "0",
+    "L4352": "1",
+    "M4352": "n/a",
+    "N4352": "Table III Panel A / Eq. (6): randomized tax rate (fraction of status quo), linear and quadratic compliance-response coefficients; same outcome, routine polynomial/control variants.",
+    "O4352": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -113971,7 +113980,14 @@
     "H10203": "0",
     "I10203": "unknown",
     "J10203": "other",
-    "K10203": "RMTR under replacement of bottom-quartile collectors with average collectors: 0.67 to 0.95 of status quo (Section 7.3)."
+    "K10203": "RMTR under replacement of bottom-quartile collectors with average collectors: 0.67 to 0.95 of status quo (Section 7.3).",
+    "A10204": "F3IAL93B",
+    "B10204": "h1",
+    "C10204": "hy1",
+    "H10204": "1",
+    "I10204": "1",
+    "J10204": "none",
+    "K10204": "Property tax compliance indicator, Table III Panel A."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
