@@ -905319,3 +905319,372 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T13:37:19.779781+00:00 — Review DUE9RA4X h18: source-audited coding and linked comparisons
+
+60 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7921",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7922",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7923",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7924",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7921",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7922",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7923",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7924",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7921",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7922",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7923",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7924",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7924",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7921",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7922",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7923",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7924",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7921",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7922",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7923",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7924",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7921",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7922",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7923",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7924",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7921",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7922",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7923",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7924",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7924",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7921",
+    "before": null,
+    "after": "Table A2 p.7 T1A message regulator col 1a: -0.002; outcome_mean benchmark: 0.007 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7922",
+    "before": null,
+    "after": "Table A2 p.7 T1A message regulator col 1a: -0.002; outcome_sd benchmark: 0.083 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7923",
+    "before": null,
+    "after": "Table A2 p.7 T1A message regulator col 1b: -0.002; outcome_mean benchmark: 0.007 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7924",
+    "before": null,
+    "after": "Table A2 p.7 T1A message regulator col 1b: -0.002; outcome_sd benchmark: 0.083 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7921",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7922",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7923",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7924",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9915",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9915",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9915",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9915",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9915",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9915",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9915",
+    "before": null,
+    "after": "Daily verified firm violation indicator excluding minimal-airflow cases (0/1)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4294",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4294",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4294",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4294",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4294",
+    "before": null,
+    "after": "T1A message regulator assignment effect on verified violations excluding minimal airflow. Table A2 panel B p.7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4294",
+    "before": null,
+    "after": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
+  }
+]
+```
