@@ -848106,3 +848106,168 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:59:52.103742+00:00 — Review AG8QMNLF h8: source-audited coding and linked comparisons
+
+26 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9364",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9365",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9366",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9367",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9364",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9365",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9366",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9367",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9364",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9365",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9366",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9367",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9364",
+    "before": null,
+    "after": "Frequency of price increases for differentiated goods; implemented similar results stated p.495. Frequency/size scale inferred from immediate paragraph, exact fitted implementation unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9365",
+    "before": null,
+    "after": "Frequency of price decreases for differentiated goods; implemented similar results stated p.495. Frequency/size scale inferred from immediate paragraph, exact fitted implementation unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9366",
+    "before": null,
+    "after": "Conditional average size of price increases for differentiated goods; implemented similar results stated p.495. Frequency/size scale inferred from immediate paragraph, exact fitted implementation unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9367",
+    "before": null,
+    "after": "Conditional average magnitude of price decreases for differentiated goods; implemented similar results stated p.495. Frequency/size scale inferred from immediate paragraph, exact fitted implementation unknown."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E111",
+    "before": null,
+    "after": "DONE — Available-source review of55-page final article and entire90-page author-linked November21,2018 manuscript including appendix, independently audited. Author appendix not verified final publisher supplement. Retain15 settings and13 qualifying comparisons; seven original comparison attachments/eligibility rejected individually. Estimated-threshold/outcome-selected restrictions Other; fixed-polynomial downstream aggregate-outcome fits OLS, not upstream FE/HDFE. s5 retained as author-interpreted accounting/projection conditional on inflation, not assertion of a separately implemented regression or independent frequency intervention. Full micro-pipeline versus reported-aggregate linearity domain disclosed. Five additional TableIII endpoint pairs retained consistently with FigureX level pairings; FigureX verbal flags0, no invented ratios or intermediate grids. Output-loss normalization in equation8 retained as explicit output benchmark, with narrower construction-only alternative disclosed; sales-rule duration contrast retained as measurement counterfactual. Calibrated theoretical illustrations excluded from empirical-estimator inventory on stated illustrative purpose; competing inclusion boundary and individually enumerated outcomes retained in held evidence. Four differentiated outcomes retained with unknown estimator; differentiated total-frequency scope held. Source conflicts including lambda/duration, FigureIX sample,212/222 periods, balanced threshold, TableXIII R2 and TableXIV labeling preserved. Selected Matlab source/archive integrity inspected, no empirical replication. Original IDs/model fields/links preserved. Source-scoped completion not omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4188",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4188",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4188",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4188",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4188",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4188",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4188",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4188",
+    "before": null,
+    "after": "Inflation → differentiated-goods intensive/extensive price-adjustment margins, qualitative undisplayed results described as similar at p.495."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4188",
+    "before": null,
+    "after": "Individually defined outcomes from immediate Figure IX paragraph; no coefficients or duplicate homogeneous comparison added. Actual differentiated-goods fit is not displayed, so do not infer OLS solely from neighboring homogeneous caption. Main rationale same central increase/decrease predictions, not downgraded because undisplayed."
+  }
+]
+```
