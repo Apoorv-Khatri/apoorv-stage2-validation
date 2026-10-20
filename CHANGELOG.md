@@ -913485,3 +913485,372 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T13:51:45.705006+00:00 — Review DUE9RA4X h40: source-audited coding and linked comparisons
+
+60 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8009",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8010",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8011",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8012",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8009",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8010",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8011",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8012",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8009",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8010",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8011",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8012",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8010",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8009",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8010",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8011",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8012",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8009",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8010",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8011",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8012",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8009",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8010",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8009",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8010",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8010",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8009",
+    "before": null,
+    "after": "Table A10 p.15 col 1a: -0.011; outcome_mean benchmark: 0.041 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8010",
+    "before": null,
+    "after": "Table A10 p.15 col 1a: -0.011; outcome_sd benchmark: 0.2 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8011",
+    "before": null,
+    "after": "Table A10 p.15 col 1b: -0.007; outcome_mean benchmark: 0.041 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8012",
+    "before": null,
+    "after": "Table A10 p.15 col 1b: -0.007; outcome_sd benchmark: 0.2 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8009",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8010",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8011",
+    "before": null,
+    "after": "Randomized control group supplies assignment-baseline comparison under the maintained design. Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8012",
+    "before": null,
+    "after": "Alignment uses the designated randomized-control reference for this assignment contrast on the reported outcome scale; exact period/weights are not independently reconstructed. This is the maintained-design reading, not a claim that randomization repairs arbitrary timing or conditioning."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9939",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9939",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9939",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9939",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9939",
+    "before": null,
+    "after": "Any subsequent appeal by other citizens after this Weibo appeal (0/1)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4316",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4316",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4316",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4316",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4316",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4316",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4316",
+    "before": null,
+    "after": "Random visibility promotion T2B versus T2A, crowding-in other private citizen appeals. Table A10 p.15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4316",
+    "before": null,
+    "after": "Substantive null. Row says Day FE; notes say month FE. Both include province FE in b. RCT unchanged; exact timing controls unresolved."
+  }
+]
+```
