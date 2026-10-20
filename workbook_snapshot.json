@@ -43281,7 +43281,16 @@
     "L4270": "1",
     "M4270": "unknown",
     "N4270": "Recent misconduct → one-year new employment after original firm dissolution; Section VI.C pp.285–286, equation (5).",
-    "O4270": "Explicit 16–23 pp penalty, same dissolved-firm comparison. Equation5 supports linear-model family, but columns/FE implementation unresolved; not randomized firm dissolution."
+    "O4270": "Explicit 16–23 pp penalty, same dissolved-firm comparison. Equation5 supports linear-model family, but columns/FE implementation unresolved; not randomized firm dissolution.",
+    "A4271": "DRDWCKUF",
+    "B4271": "h46",
+    "I4271": "1",
+    "J4271": "FE",
+    "K4271": "1",
+    "L4271": "1",
+    "M4271": "n/a",
+    "N4271": "Recent misconduct → destination-firm misconduct and size after firm dissolution; Section VI.C pp.285–286, equation (8).",
+    "O4271": "Authors explicitly compare advisers from same firm and reference original-firm/time equation8; no additional unseen outcomes. Central selection robustness highlighted in introduction. Destination misconduct stock versus flow remains unresolved: equation8 table/prose conflict carries into this unshown extension."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -111065,7 +111074,21 @@
     "H9856": "1",
     "I9856": "1",
     "J9856": "none",
-    "K9856": "One-year reemployment indicator following firm dissolution."
+    "K9856": "One-year reemployment indicator following firm dissolution.",
+    "A9857": "DRDWCKUF",
+    "B9857": "h46",
+    "C9857": "hy1",
+    "H9857": "0",
+    "I9857": "unknown",
+    "J9857": "none",
+    "K9857": "Destination firm misconduct percentage; 0.34 pp higher (pp.285–286). Stock versus annual flow unresolved because referenced equation8 has conflicting table/prose definitions.",
+    "A9858": "DRDWCKUF",
+    "B9858": "h46",
+    "C9858": "hy2",
+    "H9858": "0",
+    "I9858": "0",
+    "J9858": "none",
+    "K9858": "Destination firm number of advisers; text 830 fewer."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
