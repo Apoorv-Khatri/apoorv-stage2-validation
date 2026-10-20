@@ -1026162,3 +1026162,942 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:54:48.223939+00:00 — Review F3IAL93B h67: source-audited coding and linked comparisons
+
+155 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9394",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9395",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9396",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9397",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9398",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9399",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9400",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9401",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9402",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9403",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9404",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9405",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9394",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9395",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9396",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9397",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9398",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9399",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9400",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9401",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9402",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9403",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9404",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9405",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9394",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9395",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9396",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9397",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9398",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9399",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9400",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9401",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9402",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9403",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9404",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9405",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9395",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9397",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9398",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9399",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9400",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9401",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9402",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9403",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9404",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9405",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9394",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9395",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9396",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9397",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9398",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9399",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9400",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9401",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9402",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9403",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9404",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9405",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9394",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9395",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9396",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9397",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9398",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9399",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9400",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9401",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9402",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9403",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9404",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9405",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9399",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9400",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9401",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9402",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9403",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9405",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9399",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9400",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9401",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9402",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9403",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9405",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9395",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9397",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9398",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9399",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9400",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9401",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9402",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9403",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9404",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9405",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9394",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel A: 17% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9395",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel A: 33% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9396",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel A: 50% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9397",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel B: 17% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9398",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel B: 33% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9399",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel B: 50% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9400",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel C: 17% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9401",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel C: 33% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9402",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel C: 50% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9403",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel D: 17% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9404",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel D: 33% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9405",
+    "before": null,
+    "after": "Cited NBER Figure B9 panel D: 50% abatement contrast, displayed blue outcome bar relative to gray status quo (no digitized coefficient); benchmark: same-panel status quo mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9394",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9395",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9396",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9397",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9398",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9399",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9400",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9401",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9402",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9403",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9404",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9405",
+    "before": null,
+    "after": "One qualitative graphical comparison for this actually displayed arm/panel, not an invented numerical estimate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10367",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10368",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10367",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10368",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10367",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10368",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10367",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10368",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10367",
+    "before": null,
+    "after": "Tax compliance indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10368",
+    "before": null,
+    "after": "Revenue per property CF."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4418",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4418",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4418",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4418",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4418",
+    "before": null,
+    "after": "Cited NBER Appendix B Figure B9: randomized abatement effects on compliance/revenue separately in control-message and pooled-enforcement-message samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4418",
+    "before": null,
+    "after": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
+  }
+]
+```
