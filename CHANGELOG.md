@@ -922482,3 +922482,270 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:06:46.991346+00:00 — Review DUE9RA4X h62: source-audited coding and linked comparisons
+
+43 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8101",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8102",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8101",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8102",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8101",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8102",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8101",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8102",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8101",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8102",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8101",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8102",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8101",
+    "before": null,
+    "after": "p.823: 279,000 tons reduction; 7% of aggregate industrial SO2; other_level benchmark: Observed 2019 aggregate industrial emissions, implicit total level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8102",
+    "before": null,
+    "after": "p.823: 31,000 tons reduction; 4% of aggregate industrial COD; other_level benchmark: Observed 2019 aggregate industrial emissions, implicit total level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9980",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9981",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9980",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9981",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9980",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9981",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9980",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9981",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9980",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9981",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9980",
+    "before": null,
+    "after": "Annual aggregate industrial SO2 emissions (tons)"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9981",
+    "before": null,
+    "after": "Annual aggregate industrial COD effluents (tons)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4337",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4337",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4337",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4337",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4337",
+    "before": null,
+    "after": "Bring all violating firms just below emission standards, fixed emission flows, versus observed 2019 baseline. Main p.823."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4337",
+    "before": null,
+    "after": "Author-attributed implemented policy counterfactual. Capping rule is nonlinear in raw concentrations; exact aggregation and reported-outcome linearity mapping not documented, so unknown rather than invented OLS/Other."
+  }
+]
+```
