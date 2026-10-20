@@ -868353,3 +868353,612 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T10:53:55.643109+00:00 — Review CPRH287R h35: source-audited coding and linked comparisons
+
+100 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9574",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9575",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9576",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9577",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9578",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9579",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9580",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9581",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9582",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9583",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9584",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9585",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9586",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9574",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9575",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9576",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9577",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9578",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9579",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9580",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9581",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9582",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9583",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9584",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9585",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9586",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9574",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9575",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9576",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9577",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9578",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9579",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9580",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9581",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9582",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9583",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9584",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9585",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9586",
+    "before": null,
+    "after": "hy13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9575",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9576",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9578",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9579",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9580",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9582",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9583",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9584",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9585",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9574",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9575",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9576",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9577",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9578",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9579",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9580",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9581",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9582",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9583",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9584",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9585",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9586",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9574",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9575",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9576",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9577",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9578",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9579",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9580",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9581",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9582",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9583",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9584",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9585",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9586",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9574",
+    "before": null,
+    "after": "Walkers Regular:150-300g demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0512. Table D.5 p.16 column7, row1; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9575",
+    "before": null,
+    "after": "Walkers Regular:300g+ demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0348. Table D.5 p.16 column7, row2; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9576",
+    "before": null,
+    "after": "Walkers Sensations:150-300g demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0486. Table D.5 p.16 column7, row3; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9577",
+    "before": null,
+    "after": "Walkers Sensations:300g+ demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0357. Table D.5 p.16 column7, row4; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9578",
+    "before": null,
+    "after": "Walkers Doritos:150-300g demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0494. Table D.5 p.16 column7, row5; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9579",
+    "before": null,
+    "after": "Walkers Doritos:300g+ demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0360. Table D.5 p.16 column7, row6; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9580",
+    "before": null,
+    "after": "Walkers Other:<150g demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: -1.6400. Table D.5 p.16 column7, row7; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9581",
+    "before": null,
+    "after": "Walkers Other:150-300g demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0481. Table D.5 p.16 column7, row8; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9582",
+    "before": null,
+    "after": "Walkers Other:300g+ demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0347. Table D.5 p.16 column7, row9; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9583",
+    "before": null,
+    "after": "Pringles:150-300g demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0305. Table D.5 p.16 column7, row10; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9584",
+    "before": null,
+    "after": "Pringles:300g+ demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0223. Table D.5 p.16 column7, row11; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9585",
+    "before": null,
+    "after": "Unhealthy outside option demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0196. Table D.5 p.16 column7, row12; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9586",
+    "before": null,
+    "after": "Healthy outside option demand in food-at-home; elasticity with respect to price of Walkers Other:<150g: 0.0179. Table D.5 p.16 column7, row13; mean across markets. Demand response is the outcome, elasticity is its reported scale, not effect of advertising on elasticity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4223",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4223",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4223",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4223",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4223",
+    "before": null,
+    "after": "Continuous price of Walkers Other:<150g, food-at-home: own/cross demand elasticities for the thirteen individually displayed row outcomes; Appendix Table D.5 p.16, column 7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4223",
+    "before": null,
+    "after": "Nonlinear model-implied price derivative, not linear IV. Table D.5 reports elasticity, not an effect divided by a separately stated outcome mean/SD; ordinary log-percent elasticity alone excluded from comparison arrays. Columns 7–9 printed pack headings are rotated/misordered; Results/Appendix.do lines20,35–44 specify elas9,10,11 for Walkers Other <150g,150–300g,300g+, confirmed by own-price diagonal. Literal header conflict retained, mapping source-assisted not silent repair. "
+  }
+]
+```
