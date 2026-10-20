@@ -42396,7 +42396,16 @@
     "L4186": "0",
     "M4186": "n/a",
     "N4186": "Expected inflation → log residual price SD under equation(7)-type alternative fit, footnote35 p.500.",
-    "O4186": "Final text explicitly reports implemented alternative and lower high-inflation elasticity with zero low-inflation response. Replication Dispersion/Figure_10.m lines42–134 computes piecewise fits; displayed levels quadratic distinct. Threshold implementation in supplied helper is outcome-adaptive. No numerical coefficients or welfare denominator allocated to this alternative."
+    "O4186": "Final text explicitly reports implemented alternative and lower high-inflation elasticity with zero low-inflation response. Replication Dispersion/Figure_10.m lines42–134 computes piecewise fits; displayed levels quadratic distinct. Threshold implementation in supplied helper is outcome-adaptive. No numerical coefficients or welfare denominator allocated to this alternative.",
+    "A4187": "AG8QMNLF",
+    "B4187": "h7",
+    "I4187": "1",
+    "J4187": "Other",
+    "K4187": "1",
+    "L4187": "0",
+    "M4187": "n/a",
+    "N4187": "Replacing sales quotes by preceding regular prices versus retaining sales → estimated aggregate implied duration at low inflation, Table I PanelA and p.487.",
+    "O4187": "Explicit measurement-rule attribution: durations increase4.5 to5.7months when sales quotes replaced. This is a binary measurement counterfactual, not an intervention in economic inflation. Full pipeline includes nonlinear frequency construction, estimated threshold, inverse fitted frequency. Retain only this explicitly interpreted contrast, not every table specification pair."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106564,7 +106573,14 @@
     "A9362": "AG8QMNLF",
     "B9362": "h6",
     "C9362": "hy1",
-    "K9362": "Log of residual price SD, alternative piecewise inflation fit analogous to Figure V, p.500 footnote35; no focal numerical coefficient reported."
+    "K9362": "Log of residual price SD, alternative piecewise inflation fit analogous to Figure V, p.500 footnote35; no focal numerical coefficient reported.",
+    "A9363": "AG8QMNLF",
+    "B9363": "h7",
+    "C9363": "hy1",
+    "H9363": "0",
+    "I9363": "0",
+    "J9363": "other",
+    "K9363": "Estimated aggregate expected duration of price spells at low inflation, months,4.5 retaining sales versus5.7 replacing sale quotes with prior regular price; Table I and p.487."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -191762,7 +191778,18 @@
     "O7566": "1",
     "P7566": "n/a",
     "Q7566": "Equation (8), Figure X p.500 caption and IV.F.1 p.502: annual inflation 500% versus0 implies output loss 8.5% of aggregate output/GDP per period, eta=6. Benchmark is the aggregate output level, not price SD. Normalization explicit; no numerical GDP level reported.",
-    "R7566": "Retain explicit output-loss/output scaling: pp.501–502 identify the effect as a decrease in aggregate output and report it as a fraction of that same output. This is not generic normalization inherited from an unrelated denominator. other_level, not an untreated sample mean; no numerical GDP baseline invented. A narrower normalized-outcome-only convention would remove these three comparisons, not h1."
+    "R7566": "Retain explicit output-loss/output scaling: pp.501–502 identify the effect as a decrease in aggregate output and report it as a fraction of that same output. This is not generic normalization inherited from an unrelated denominator. other_level, not an untreated sample mean; no numerical GDP baseline invented. A narrower normalized-outcome-only convention would remove these three comparisons, not h1.",
+    "A7567": "AG8QMNLF",
+    "B7567": "h7",
+    "C7567": "hc1",
+    "K7567": "1",
+    "L7567": "hy1",
+    "M7567": "other_level",
+    "N7567": "1",
+    "O7567": "0",
+    "P7567": "n/a",
+    "Q7567": "Table I p.486 and p.487: durations increase from4.5months to5.7months when sales price quotes are replaced by the previous regular price. Baseline is the4.5-month fitted duration with sales retained; no author-computed ratio.",
+    "R7567": "Retain explicit two-rule measurement counterfactual and fitted-duration baseline; p.487 attributes 4.5→5.7 months to replacing sales quotes. other_level, not an observed sample mean. No division is reported."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

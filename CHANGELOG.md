@@ -847935,3 +847935,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T09:59:25.987710+00:00 — Review AG8QMNLF h7: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7567",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7567",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7567",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7567",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7567",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7567",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7567",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7567",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7567",
+    "before": null,
+    "after": "Table I p.486 and p.487: durations increase from4.5months to5.7months when sales price quotes are replaced by the previous regular price. Baseline is the4.5-month fitted duration with sales retained; no author-computed ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7567",
+    "before": null,
+    "after": "Retain explicit two-rule measurement counterfactual and fitted-duration baseline; p.487 attributes 4.5→5.7 months to replacing sales quotes. other_level, not an observed sample mean. No division is reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9363",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9363",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9363",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9363",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9363",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9363",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9363",
+    "before": null,
+    "after": "Estimated aggregate expected duration of price spells at low inflation, months,4.5 retaining sales versus5.7 replacing sale quotes with prior regular price; Table I and p.487."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4187",
+    "before": null,
+    "after": "AG8QMNLF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4187",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4187",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4187",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4187",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4187",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4187",
+    "before": null,
+    "after": "Replacing sales quotes by preceding regular prices versus retaining sales → estimated aggregate implied duration at low inflation, Table I PanelA and p.487."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4187",
+    "before": null,
+    "after": "Explicit measurement-rule attribution: durations increase4.5 to5.7months when sales quotes replaced. This is a binary measurement counterfactual, not an intervention in economic inflation. Full pipeline includes nonlinear frequency construction, estimated threshold, inverse fitted frequency. Retain only this explicitly interpreted contrast, not every table specification pair."
+  }
+]
+```
