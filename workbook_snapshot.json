@@ -43877,7 +43877,16 @@
     "L4326": "0",
     "M4326": "multiple binary",
     "N4326": "Receipt of first public appeal by date t (binary), instrumented within joint private/public receipt model. Appendix D p.28 and A14 panel B p.19.",
-    "O4326": "Excluded instruments used together: T1×Post and T2×Post, two binary assignment interactions. Joint system is established by equation and both second-stage treatments; blank cross-first-stage cells in a-specification are reporting omissions, not proof of different single-instrument models. First-stage diagnostics not new causal outcomes. No-appeal control moments are not complier-specific. Full 2SLS linear in reported outcomes conditional on design/instruments; outcome-triggered receipt does not turn 2SLS into Other."
+    "O4326": "Excluded instruments used together: T1×Post and T2×Post, two binary assignment interactions. Joint system is established by equation and both second-stage treatments; blank cross-first-stage cells in a-specification are reporting omissions, not proof of different single-instrument models. First-stage diagnostics not new causal outcomes. No-appeal control moments are not complier-specific. Full 2SLS linear in reported outcomes conditional on design/instruments; outcome-triggered receipt does not turn 2SLS into Other.",
+    "A4327": "DUE9RA4X",
+    "B4327": "h51",
+    "I4327": "1",
+    "J4327": "RCT",
+    "K4327": "1",
+    "L4327": "0",
+    "M4327": "n/a",
+    "N4327": "T1A message regulator assignment versus control, weekly violation dynamics. Figure A3 p.4.",
+    "O4327": "Direct randomized-assignment contrast; linear in the reported dependent outcome. RCT precedes treated/post and FE implementation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -112522,7 +112531,14 @@
     "H9963": "0",
     "I9963": "unknown",
     "J9963": "none",
-    "K9963": "Daily pipe-level COD emission concentration, mg/L per table notes; main p.835 prose instead prints ug/L (unresolved units conflict)."
+    "K9963": "Daily pipe-level COD emission concentration, mg/L per table notes; main p.835 prose instead prints ug/L (unresolved units conflict).",
+    "A9964": "DUE9RA4X",
+    "B9964": "h51",
+    "C9964": "hy1",
+    "H9964": "1",
+    "I9964": "1",
+    "J9964": "none",
+    "K9964": "Daily firm violation indicator, weekly post-assignment dynamic coefficients."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
