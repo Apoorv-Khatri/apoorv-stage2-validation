@@ -42113,7 +42113,16 @@
     "L4160": "1",
     "M4160": "n/a",
     "N4160": "Baseline exposure earnings-bin heterogeneity conditional on firm having workers in bin Location: Figure A.6 C",
-    "O4160": "Figure A.6 C and main footnote25: substantive conditional-bin heterogeneity, not a decomposition of aggregate response. Exact denominator unresolved; no benchmark manufactured from bin cutpoints."
+    "O4160": "Figure A.6 C and main footnote25: substantive conditional-bin heterogeneity, not a decomposition of aggregate response. Exact denominator unresolved; no benchmark manufactured from bin cutpoints.",
+    "A4161": "A8LFPXLL",
+    "B4161": "h35",
+    "I4161": "1",
+    "J4161": "DiD_conventional",
+    "K4161": "0",
+    "L4161": "0",
+    "M4161": "n/a",
+    "N4161": "Business tax liability average 2011-2012 incomes: predicted per-worker dose Location: Figure A.7 and Table A.9 average 2011-2012 incomes",
+    "O4161": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106119,7 +106128,11 @@
     "H9326": "0",
     "I9326": "unknown",
     "J9326": "unknown",
-    "K9326": "Differential change in total earnings within earnings bin, conditional on some workers in that bin; Figure A.6 C, main footnote25. Exact normalization denominator not restated for this conditional-sample result; not certified as total-baseline-wage-bill normalization."
+    "K9326": "Differential change in total earnings within earnings bin, conditional on some workers in that bin; Figure A.6 C, main footnote25. Exact normalization denominator not restated for this conditional-sample result; not certified as total-baseline-wage-bill normalization.",
+    "A9327": "A8LFPXLL",
+    "B9327": "h35",
+    "C9327": "hy1",
+    "K9327": "Change in average employee earnings in dollars."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

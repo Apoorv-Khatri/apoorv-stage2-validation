@@ -843696,3 +843696,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:45:59.061822+00:00 — Review A8LFPXLL h35: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9327",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9327",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9327",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9327",
+    "before": null,
+    "after": "Change in average employee earnings in dollars."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4161",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4161",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4161",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4161",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4161",
+    "before": null,
+    "after": "Business tax liability average 2011-2012 incomes: predicted per-worker dose Location: Figure A.7 and Table A.9 average 2011-2012 incomes"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4161",
+    "before": null,
+    "after": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV."
+  }
+]
+```
