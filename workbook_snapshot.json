@@ -43047,7 +43047,16 @@
     "L4244": "0",
     "M4244": "n/a",
     "N4244": "Log misconduct settlements → one-year reemployment among firm leavers with observed settlements, Table 9B cols.4–5; OLS.",
-    "O4244": "Routine control variants grouped; observational identification, not DiD."
+    "O4244": "Routine control variants grouped; observational identification, not DiD.",
+    "A4245": "DRDWCKUF",
+    "B4245": "h5",
+    "I4245": "1",
+    "J4245": "OLS",
+    "K4245": "1",
+    "L4245": "1",
+    "M4245": "n/a",
+    "N4245": "Binary recent misconduct → separation with firm annual misconduct-rate moderator, Table 12A cols.1–2; linear OLS interaction model.",
+    "O4245": "Routine control variants grouped; observational identification, not DiD."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110593,7 +110602,14 @@
     "H9822": "1",
     "I9822": "1",
     "J9822": "none",
-    "K9822": "One-year reemployment indicator conditional on leaving prior firm."
+    "K9822": "One-year reemployment indicator conditional on leaving prior firm.",
+    "A9823": "DRDWCKUF",
+    "B9823": "h5",
+    "C9823": "hy1",
+    "H9823": "1",
+    "I9823": "1",
+    "J9823": "none",
+    "K9823": "Next-year separation indicator from original firm."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
