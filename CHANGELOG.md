@@ -923226,3 +923226,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:45:09.003983+00:00 — Review E5YG2HPW s1: source-audited coding and linked comparisons
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2523",
+    "before": null,
+    "after": "One-day change in 3-month Treasury yield, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2524",
+    "before": null,
+    "after": "One-day change in 6-month Treasury yield, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2525",
+    "before": null,
+    "after": "One-day change in 1-year Treasury yield, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2526",
+    "before": null,
+    "after": "One-day change in 2-year nominal Treasury yield, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2527",
+    "before": null,
+    "after": "One-day change in 3-year nominal Treasury yield, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2528",
+    "before": null,
+    "after": "One-day change in 5-year nominal Treasury yield, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2529",
+    "before": null,
+    "after": "One-day change in 10-year nominal Treasury yield, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2530",
+    "before": null,
+    "after": "One-day change in 2-year nominal Treasury instantaneous forward rate, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2531",
+    "before": null,
+    "after": "One-day change in 3-year nominal Treasury instantaneous forward rate, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2532",
+    "before": null,
+    "after": "One-day change in 5-year nominal Treasury instantaneous forward rate, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2533",
+    "before": null,
+    "after": "One-day change in 10-year nominal Treasury instantaneous forward rate, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2534",
+    "before": null,
+    "after": "One-day change in 2-year real Treasury yield from TIPS, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2535",
+    "before": null,
+    "after": "One-day change in 3-year real Treasury yield from TIPS, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2536",
+    "before": null,
+    "after": "One-day change in 5-year real Treasury yield from TIPS, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2537",
+    "before": null,
+    "after": "One-day change in 10-year real Treasury yield from TIPS, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2538",
+    "before": null,
+    "after": "One-day change in 2-year real Treasury instantaneous forward rate from TIPS, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2539",
+    "before": null,
+    "after": "One-day change in 3-year real Treasury instantaneous forward rate from TIPS, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2540",
+    "before": null,
+    "after": "One-day change in 5-year real Treasury instantaneous forward rate from TIPS, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2541",
+    "before": null,
+    "after": "One-day change in 10-year real Treasury instantaneous forward rate from TIPS, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2542",
+    "before": null,
+    "after": "One-day change in 2-year breakeven inflation (nominal minus real yield), percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2543",
+    "before": null,
+    "after": "One-day change in 3-year breakeven inflation, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2544",
+    "before": null,
+    "after": "One-day change in 5-year breakeven inflation, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2545",
+    "before": null,
+    "after": "One-day change in 10-year breakeven inflation, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2546",
+    "before": null,
+    "after": "One-day change in 2-year instantaneous forward breakeven inflation, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2547",
+    "before": null,
+    "after": "One-day change in 3-year instantaneous forward breakeven inflation, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2548",
+    "before": null,
+    "after": "One-day change in 5-year instantaneous forward breakeven inflation, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2549",
+    "before": null,
+    "after": "One-day change in 10-year instantaneous forward breakeven inflation, percentage points in printed interest-rate coefficients (multiply by 100 for basis points)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1014",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1014",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1014",
+    "before": null,
+    "after": "Table I pp.1295-97 and Figure I. Shock is continuous, not RD: no implemented cutoff discontinuity. Yield coefficients are percentage-point responses (e.g. 1.06 = 106 bp), not 1.06 bp. The normalizing 1-year response and treatment SD are not outcome benchmarks."
+  }
+]
+```
