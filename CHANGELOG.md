@@ -924540,3 +924540,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:49:12.235898+00:00 — Review E5YG2HPW s5: source-audited coding and linked comparisons
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10016",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10017",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10018",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10016",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10017",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10018",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10016",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10017",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10018",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10016",
+    "before": null,
+    "after": "Model-implied natural real interest-rate response, Figure V; distinct from real-rate gap y6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10017",
+    "before": null,
+    "after": "Model-implied response of private-sector beliefs about the LEVEL of actual output to the monetary announcement, Figure VI p.1316, percent-deviation coordinates. Gross belief response before subtracting the same-productivity later-learning counterfactual; not the net causal-output effect in s6/y1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10018",
+    "before": null,
+    "after": "Model-implied response of private-sector beliefs about the LEVEL of natural (flexible-price) output to the monetary announcement, Figure VI p.1316, percent-deviation coordinates. Gross belief response, not the natural-output net causal component in s6/hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2571",
+    "before": null,
+    "after": "Model-implied output-gap response to the monetary shock, Figure IV; repeated gross response in Figure VI. Gap is actual minus natural output in percentage-deviation coordinates, not a percent change divided by a zero steady-state gap."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2572",
+    "before": null,
+    "after": "Model-implied real interest-rate GAP response (real rate minus natural rate), Figure V. Natural-rate response separately added as hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1018",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1018",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1018",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1018",
+    "before": null,
+    "after": "Estimated New Keynesian model response of rates, inflation, growth, output gap and beliefs about actual/natural output to a continuous monetary announcement shock; SMM, Table IV and Figures III-VI. Gross belief responses in Figure VI are distinct from same-productivity net causal-output effects in s6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1018",
+    "before": null,
+    "after": "SMM recovery uses outcome moments and remains Other despite log-linear equilibrium. Table IV calibration variants retained. Figure VI p.1316 explicitly plots private-sector beliefs about output and natural output, not the net causal effect relative to later learning. Added hy2/hy3 retain these distinct level-belief outcomes; gap line repeats y5. Steady-state percent units alone are not a separate magnitude comparison under the log-percentage exclusion. Parameter CIs and information-share decomposition are not outcome benchmarks. Printed Phillips-curve heading preserved."
+  }
+]
+```
