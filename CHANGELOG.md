@@ -960780,3 +960780,1206 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T16:44:17.395028+00:00 — Review F3IAL93B h19: source-audited coding and linked comparisons
+
+199 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8528",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8529",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8530",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8531",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8532",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8533",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8534",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8535",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8536",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8537",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8538",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8539",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8540",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8541",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8542",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8543",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8528",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8529",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8530",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8531",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8532",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8533",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8534",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8535",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8536",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8537",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8538",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8539",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8540",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8541",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8542",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8543",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8528",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8529",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8530",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8531",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8532",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8533",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8534",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8535",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8536",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8537",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8538",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8539",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8540",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8541",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8542",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8543",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8533",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8540",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8528",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8529",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8530",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8531",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8532",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8533",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8534",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8535",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8536",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8537",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8538",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8539",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8540",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8541",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8542",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8543",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8528",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8529",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8530",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8531",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8532",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8533",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8534",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8535",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8536",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8537",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8538",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8539",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8540",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8541",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8542",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8543",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8536",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8537",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8539",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8540",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8541",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8542",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8533",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8540",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8528",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8529",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8530",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8531",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8532",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8533",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8534",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8535",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8536",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8537",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8538",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8539",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8540",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8541",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8542",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8543",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8528",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 1; Eq. (3): log-rate slope -0.188; reported elasticity -1.502; benchmark: sample outcome mean 0.125."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8529",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 2; Eq. (3): log-rate slope -0.237; reported elasticity -1.499; benchmark: sample outcome mean 0.158."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8530",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 3; Eq. (3): log-rate slope -0.187; reported elasticity -1.48; benchmark: sample outcome mean 0.127."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8531",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 4; Eq. (3): log-rate slope -0.191; reported elasticity -1.301; benchmark: sample outcome mean 0.147."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8532",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 5; Eq. (3): log-rate slope -0.172; reported elasticity -1.392; benchmark: sample outcome mean 0.123."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8533",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 6; Eq. (3): log-rate slope -0.191; reported elasticity -1.236; benchmark: sample outcome mean 0.154."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8534",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 7; Eq. (3): log-rate slope -0.171; reported elasticity -1.388; benchmark: sample outcome mean 0.123."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8535",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 8; Eq. (3): log-rate slope -0.212; reported elasticity -1.379; benchmark: sample outcome mean 0.154."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8536",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 9; Eq. (3): log-rate slope -158.794; reported elasticity -0.492; benchmark: sample outcome mean 322.809."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8537",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 10; Eq. (3): log-rate slope -195.964; reported elasticity -0.547; benchmark: sample outcome mean 358.519."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8538",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 11; Eq. (3): log-rate slope -160.368; reported elasticity -0.488; benchmark: sample outcome mean 328.912."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8539",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 12; Eq. (3): log-rate slope -127.775; reported elasticity -0.39; benchmark: sample outcome mean 327.571."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8540",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 13; Eq. (3): log-rate slope -121.252; reported elasticity -0.374; benchmark: sample outcome mean 324.621."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8541",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 14; Eq. (3): log-rate slope -14.628; reported elasticity -0.043; benchmark: sample outcome mean 342.549."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8542",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 15; Eq. (3): log-rate slope -123.297; reported elasticity -0.379; benchmark: sample outcome mean 325.342."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8543",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C col 16; Eq. (3): log-rate slope -66.512; reported elasticity -0.196; benchmark: sample outcome mean 339.685."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8528",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8529",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8530",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8531",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8532",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8533",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8534",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8535",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8536",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8537",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8538",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8539",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8540",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8541",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8542",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8543",
+    "before": null,
+    "after": "Pooled realized outcome mean across assigned rates, not established untreated-dose target mean. February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10229",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10230",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10229",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10230",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10229",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10230",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10230",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10229",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10230",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10229",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6: Compliance on original scale."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10230",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6: Revenue on original scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4370",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4370",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4370",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4370",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4370",
+    "before": null,
+    "after": "Cited February 2024 NBER Appendix B Table B6 Panels B-C: imperfect recall of past rates; log randomized tax liability marginal response and same-outcome mean-normalized elasticities."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4370",
+    "before": null,
+    "after": "February 2024 NBER Appendix B explicitly cited in final article footnote 1; not represented as publisher-final bytes. Preserve table/caption conflicts in coverage audit."
+  }
+]
+```
