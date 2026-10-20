@@ -855366,3 +855366,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T10:40:28.066175+00:00 — Review CPRH287R h3: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7623",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7624",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7623",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7624",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7623",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7624",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7623",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7623",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7624",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7623",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7624",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7623",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7624",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7623",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7623",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7623",
+    "before": null,
+    "after": "Table 6 p.421: Pringles 150–300g, pre-shutdown mean elasticity -1.45; author-reported mean percentage reduction 1.74% (positive denotes increased absolute elasticity). Same elasticity as outcome of advertising intervention, not unrelated effect-to-effect comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7624",
+    "before": null,
+    "after": "Table 6 p.421: Pringles 300g+, pre-shutdown mean elasticity -2.66; author-reported mean percentage reduction 2.48% (positive denotes increased absolute elasticity). Same elasticity as outcome of advertising intervention, not unrelated effect-to-effect comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7623",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7624",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9412",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9413",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9412",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9413",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9412",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9413",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9413",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9412",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9413",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9412",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9413",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9412",
+    "before": null,
+    "after": "Pringles 150–300g market own-price elasticity of demand; signed elasticity, Table 6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9413",
+    "before": null,
+    "after": "Pringles 300g+ market own-price elasticity of demand; signed elasticity, Table 6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4194",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4194",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4194",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4194",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4194",
+    "before": null,
+    "after": "Unilateral cessation of current Pringles advertising: own-price elasticities of its food-at-home products, Table 6 p.421; repeated Table 15 main-specification elasticities not counted twice."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4194",
+    "before": null,
+    "after": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments."
+  }
+]
+```
