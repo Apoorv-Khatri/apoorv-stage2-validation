@@ -882453,3 +882453,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:11:07.008596+00:00 — Review DRDWCKUF s5: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7726",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7726",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7726",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K677",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L677",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7726",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M677",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7726",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O677",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P677",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7726",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q677",
+    "before": null,
+    "after": "\"Our results imply that, relative to other advisers looking for jobs, advisers who are reprimanded for misconduct at time t are 8–10 percentage points less likely to find a new job in the next year. Given that the average probability that an adviser will be reemployed is 52 percent, the results suggest that roughly 44 percent of advisers with recent misconduct are reemployed in the industry.\" [ … ] Table 8: \"Join a different firm (within 1 year) 52.3\" for \"No Misconduct\" Main pp.263–266. Prose allocation across no-FE and FE columns unresolved; exact own-column pairings added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7726",
+    "before": null,
+    "after": "Table 9 panel B col.3, p.264: coefficient −9.59 pp paired with same-column average outcome rate 53.2%. All observations in that column; not a separately identified untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R677",
+    "before": null,
+    "after": "Held pooled prose contrast: do not multiply it across candidate estimators. s4 IQR 10 pp/19% has no column attribution; s5 8–10 pp/52% conflicts with col.2 −12.8 and FE mean 53.2."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7726",
+    "before": null,
+    "after": "Benchmark target/untreated weights not established for this observational contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2480",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2480",
+    "before": null,
+    "after": "Binary separation indicator (s3/s9) or one-year reemployment indicator conditional on leaving (s5). Both 0 and 1 occur; Table 9 rates strictly between endpoints. Corrects model zero-mass=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J993",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M993",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N993",
+    "before": null,
+    "after": "Recent misconduct → new employment within one year among advisers leaving their firm; Table 9B col.3, equation (5), firm×year×county FE. No-FE cols.1–2 in h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O993",
+    "before": null,
+    "after": "Table coefficient −9.59 pp, mean 53.2%; prose says 8–10 pp and 52%, although col.2 is −12.8. Do not overwrite either."
+  }
+]
+```
