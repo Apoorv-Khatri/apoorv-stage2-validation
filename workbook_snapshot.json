@@ -42185,7 +42185,16 @@
     "L4168": "0",
     "M4168": "single binary",
     "N4168": "Business tax liability pass-through sample robustness (single-owner and excluding top 0.1%) Location: Figures A.7 C/A.8 A-B; Table A.9 relevant columns",
-    "O4168": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4168": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4169": "A8LFPXLL",
+    "B4169": "h43",
+    "I4169": "1",
+    "J4169": "DiD_conventional",
+    "K4169": "0",
+    "L4169": "0",
+    "M4169": "n/a",
+    "N4169": "Predicted average business tax rate: average 2011-2012 incomes Location: Table A.9 epsilon_ATR ITT",
+    "O4169": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106223,7 +106232,11 @@
     "A9334": "A8LFPXLL",
     "B9334": "h42",
     "C9334": "hy1",
-    "K9334": "Change in total wage bill in dollars; IV only Table A.9, A.8 C first stage excluded."
+    "K9334": "Change in total wage bill in dollars; IV only Table A.9, A.8 C first stage excluded.",
+    "A9335": "A8LFPXLL",
+    "B9335": "h43",
+    "C9335": "hy1",
+    "K9335": "Log average employee earnings; elasticity with respect to predicted ATR under average 2011-2012 incomes."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
