@@ -44597,7 +44597,16 @@
     "L4396": "0",
     "M4396": "n/a",
     "N4396": "Cited NBER Appendix B Table B14 Panel B: neighbors-rate controls and knowledge/past campaign subsets; nonlinear RMTR from compliance response schedule.",
-    "O4396": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
+    "O4396": "Ratio/root of outcome-estimated coefficients; source version explicitly identified.",
+    "A4397": "F3IAL93B",
+    "B4397": "h46",
+    "I4397": "1",
+    "J4397": "RCT",
+    "K4397": "0",
+    "L4397": "0",
+    "M4397": "n/a",
+    "N4397": "Cited NBER Appendix B Table B14 Panel A: neighbors-rate controls and knowledge/past campaign subsets; randomized rate polynomial effects on compliance (underlying schedule).",
+    "O4397": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115223,7 +115232,14 @@
     "H10324": "0",
     "I10324": "unknown",
     "J10324": "other",
-    "K10324": "RMTR as fraction of status quo; neighbors-rate controls and knowledge/past campaign subsets."
+    "K10324": "RMTR as fraction of status quo; neighbors-rate controls and knowledge/past campaign subsets.",
+    "A10325": "F3IAL93B",
+    "B10325": "h46",
+    "C10325": "hy1",
+    "H10325": "1",
+    "I10325": "1",
+    "J10325": "none",
+    "K10325": "Property tax compliance indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
