@@ -44678,7 +44678,16 @@
     "L4405": "0",
     "M4405": "n/a",
     "N4405": "Cited NBER Appendix B Table B20 Panel A: control/enforcement messages adding imbalanced covariates; randomized rate polynomial effects on compliance (underlying schedule).",
-    "O4405": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
+    "O4405": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls.",
+    "A4406": "F3IAL93B",
+    "B4406": "h55",
+    "I4406": "1",
+    "J4406": "RCT",
+    "K4406": "0",
+    "L4406": "1",
+    "M4406": "n/a",
+    "N4406": "Final supplement Table A15 Panel A: randomized rate linear/quadratic compliance response by control versus enforcement message groups.",
+    "O4406": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115367,7 +115376,14 @@
     "H10333": "1",
     "I10333": "1",
     "J10333": "none",
-    "K10333": "Property tax compliance indicator."
+    "K10333": "Property tax compliance indicator.",
+    "A10334": "F3IAL93B",
+    "B10334": "h55",
+    "C10334": "hy1",
+    "H10334": "1",
+    "I10334": "1",
+    "J10334": "none",
+    "K10334": "Property compliance indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
