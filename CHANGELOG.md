@@ -848526,3 +848526,666 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T10:34:40.636275+00:00 — Review CPRH287R s2: source-audited coding and linked comparisons
+
+109 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A7570",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7571",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7572",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7573",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7574",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A7575",
+    "before": null,
+    "after": "CPRH287R"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7570",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7571",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7572",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7573",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7574",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B7575",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7570",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7571",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7572",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7573",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7574",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C7575",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K7575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7570",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7571",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7572",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7573",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7574",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L7575",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7570",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7571",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7572",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7573",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7574",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M7575",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N7575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O7575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7574",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P7575",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7570",
+    "before": null,
+    "after": "Table 11 p.425 with price response: energy, baseline 313.70, counterfactual 283.23 billions kJ; printed change -9.71%. Nearby pp.424–425 prose interprets this reduction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7571",
+    "before": null,
+    "after": "Table 11 p.425 with price response: saturated fat, baseline 584.79, counterfactual 515.24 thousand kg; printed change -11.89%. Nearby pp.424–425 prose interprets this reduction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7572",
+    "before": null,
+    "after": "Table 11 p.425 with price response: salt, baseline 264.94, counterfactual 237.67 thousand kg; printed change -10.29%. Nearby pp.424–425 prose interprets this reduction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7573",
+    "before": null,
+    "after": "Table 11 p.425 with price response: mean nutrient profiling score, baseline 13.78, counterfactual 13.62 score points; printed change -1.19%. Nearby pp.424–425 prose interprets this reduction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7574",
+    "before": null,
+    "after": "Table 11 p.425 with price response: saturated-fat intensity, baseline 3.95, counterfactual 3.85 g per 100g; printed change -2.41%. Nearby pp.424–425 prose interprets this reduction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q7575",
+    "before": null,
+    "after": "Table 11 p.425 with price response: salt intensity, baseline 1.79, counterfactual 1.78 g per 100g; printed change -0.63%. Nearby pp.424–425 prose interprets this reduction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7570",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7571",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7572",
+    "before": null,
+    "after": "Own pre-intervention outcome baseline under maintained model, same market and averaging target. Percentage normalization is author reported, not a newly calculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7573",
+    "before": null,
+    "after": "Composition-weighted outcome among purchasers; intervention changes purchaser/product mix, so untreated-target/weight equality unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7574",
+    "before": null,
+    "after": "Composition-weighted outcome among purchasers; intervention changes purchaser/product mix, so untreated-target/weight equality unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R7575",
+    "before": null,
+    "after": "Composition-weighted outcome among purchasers; intervention changes purchaser/product mix, so untreated-target/weight equality unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2450",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2454",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2455",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2456",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2450",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2451",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2452",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2453",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2454",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2455",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2456",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2449",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2450",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2451",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2452",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2453",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2454",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2455",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2456",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2449",
+    "before": null,
+    "after": "Potato-chip purchases: energy (billions kJ), mean across markets, Table 11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2450",
+    "before": null,
+    "after": "Potato-chip purchases: saturated fat (thousand kg), mean across markets, Table 11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2451",
+    "before": null,
+    "after": "Potato-chip purchases: salt (thousand kg), mean across markets, Table 11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2452",
+    "before": null,
+    "after": "Potato-chip purchases: mean nutrient profiling score (score points), mean across markets, Table 11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2453",
+    "before": null,
+    "after": "Potato-chip purchases: saturated-fat intensity (g per 100g), mean across markets, Table 11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2454",
+    "before": null,
+    "after": "Potato-chip purchases: salt intensity (g per 100g), mean across markets, Table 11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2455",
+    "before": null,
+    "after": "Inactive: Table 12 outcome y7 moved to h18 (price response) and h19 (fixed prices)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2456",
+    "before": null,
+    "after": "Inactive: Table 12 outcome y8 moved to h18 (price response) and h19 (fixed prices)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2457",
+    "before": null,
+    "after": "Inactive: Table 12 outcome y9 moved to h18 (price response) and h19 (fixed prices)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J982",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M982",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N982",
+    "before": null,
+    "after": "Market-wide advertising-stock ban with price response: nutrient quantities and composition of potato-chip purchases, Table 11 p.425. Table 12 choice outcomes separately h18/h19."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O982",
+    "before": null,
+    "after": "Nonlinear random-coefficients logit estimated by maximum simulated likelihood; counterfactual demand/equilibrium or welfare mapping is not linear in observed choices or reported aggregate outcomes. Sections 2–3, 4.3; not FE or linear IV despite demand controls/instruments."
+  }
+]
+```
