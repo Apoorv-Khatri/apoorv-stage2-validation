@@ -885756,3 +885756,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:22:03.411787+00:00 — Review DRDWCKUF h10: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9832",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9833",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9832",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9833",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9832",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9833",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9832",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9832",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9833",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9832",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9833",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9832",
+    "before": null,
+    "after": "County stock misconduct percentage: advisers with a past or current record."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9833",
+    "before": null,
+    "after": "County annual new misconduct percentage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4250",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4250",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4250",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4250",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4250",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4250",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4250",
+    "before": null,
+    "after": "log median household income → county stock and annual flow of misconduct; Table 15 cols.2,4, equation (12); weighted by square root adviser count."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4250",
+    "before": null,
+    "after": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication. Independent audit: income explicitly called a demand control and correlation (p.280); possible profitability conjecture does not settle author-intended causal income effect. Preserve gate unknown rather than certify inclusion."
+  }
+]
+```

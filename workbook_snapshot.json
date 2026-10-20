@@ -43092,7 +43092,16 @@
     "L4249": "1",
     "M4249": "n/a",
     "N4249": "log median household income → county stock and annual flow of misconduct; Table 15 cols.1,3, equation (12); weighted by square root adviser count.",
-    "O4249": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication. Independent audit: income explicitly called a demand control and correlation (p.280); possible profitability conjecture does not settle author-intended causal income effect. Preserve gate unknown rather than certify inclusion."
+    "O4249": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication. Independent audit: income explicitly called a demand control and correlation (p.280); possible profitability conjecture does not settle author-intended causal income effect. Preserve gate unknown rather than certify inclusion.",
+    "A4250": "DRDWCKUF",
+    "B4250": "h10",
+    "I4250": "unknown",
+    "J4250": "FE",
+    "K4250": "0",
+    "L4250": "1",
+    "M4250": "n/a",
+    "N4250": "log median household income → county stock and annual flow of misconduct; Table 15 cols.2,4, equation (12); weighted by square root adviser count.",
+    "O4250": "p.280: state/year FE in cols.2,4 explicitly absorb regulatory and aggregate confounds; two dimensions. Broad intended consumer sophistication/profitability mechanism, not a policy experiment. Income interpretation is weaker than education and elderly, flagged for adjudication. Independent audit: income explicitly called a demand control and correlation (p.280); possible profitability conjecture does not settle author-intended causal income effect. Preserve gate unknown rather than certify inclusion."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -110701,7 +110710,21 @@
     "H9831": "0",
     "I9831": "unknown",
     "J9831": "none",
-    "K9831": "County annual new misconduct percentage."
+    "K9831": "County annual new misconduct percentage.",
+    "A9832": "DRDWCKUF",
+    "B9832": "h10",
+    "C9832": "hy1",
+    "H9832": "0",
+    "I9832": "unknown",
+    "J9832": "none",
+    "K9832": "County stock misconduct percentage: advisers with a past or current record.",
+    "A9833": "DRDWCKUF",
+    "B9833": "h10",
+    "C9833": "hy2",
+    "H9833": "0",
+    "I9833": "unknown",
+    "J9833": "none",
+    "K9833": "County annual new misconduct percentage."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
