@@ -42704,7 +42704,16 @@
     "L4214": "0",
     "M4214": "n/a",
     "N4214": "Last potato-chip purchase 6 weeks ago versus no purchase in preceding two months: current household weekly quantity; Appendix A.1 equation1.1, Table A.2 p.4. Demographic regressions grouped at same location.",
-    "O4214": "Authors explicitly interpret beta as habits effect conditional on household heterogeneity and aggregate week effects (appendix p.2). Household and week FE are two dimensions, not HDFE. Supporting substantive near-zero habit response despite diagnostic motivation. Equation uses last purchase whereas captions say purchase k weeks ago: construction conflict unresolved. No causal OLS row inferred from association-only Table A.1. Outcome-linear regression in weekly quantity; not IV."
+    "O4214": "Authors explicitly interpret beta as habits effect conditional on household heterogeneity and aggregate week effects (appendix p.2). Household and week FE are two dimensions, not HDFE. Supporting substantive near-zero habit response despite diagnostic motivation. Equation uses last purchase whereas captions say purchase k weeks ago: construction conflict unresolved. No causal OLS row inferred from association-only Table A.1. Outcome-linear regression in weekly quantity; not IV.",
+    "A4215": "CPRH287R",
+    "B4215": "h27",
+    "I4215": "1",
+    "J4215": "FE",
+    "K4215": "1",
+    "L4215": "0",
+    "M4215": "n/a",
+    "N4215": "Last potato-chip purchase 7 weeks ago versus no purchase in preceding two months: current household weekly quantity; Appendix A.1 equation1.1, Table A.2 p.4. Demographic regressions grouped at same location.",
+    "O4215": "Authors explicitly interpret beta as habits effect conditional on household heterogeneity and aggregate week effects (appendix p.2). Household and week FE are two dimensions, not HDFE. Supporting substantive near-zero habit response despite diagnostic motivation. Equation uses last purchase whereas captions say purchase k weeks ago: construction conflict unresolved. No causal OLS row inferred from association-only Table A.1. Outcome-linear regression in weekly quantity; not IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -107897,7 +107906,14 @@
     "H9493": "0",
     "I9493": "unknown",
     "J9493": "none",
-    "K9493": "Weekly household potato-chip quantity purchased (at home and on-the-go per Table A.2 caption), level. Eleven demographic samples, eight lag indicators in same equation. Most slopes near zero, some significant; no linked outcome mean/SD. Quantity unit not explicitly stated in this appendix table."
+    "K9493": "Weekly household potato-chip quantity purchased (at home and on-the-go per Table A.2 caption), level. Eleven demographic samples, eight lag indicators in same equation. Most slopes near zero, some significant; no linked outcome mean/SD. Quantity unit not explicitly stated in this appendix table.",
+    "A9494": "CPRH287R",
+    "B9494": "h27",
+    "C9494": "hy1",
+    "H9494": "0",
+    "I9494": "unknown",
+    "J9494": "none",
+    "K9494": "Weekly household potato-chip quantity purchased (at home and on-the-go per Table A.2 caption), level. Eleven demographic samples, eight lag indicators in same equation. Most slopes near zero, some significant; no linked outcome mean/SD. Quantity unit not explicitly stated in this appendix table."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
