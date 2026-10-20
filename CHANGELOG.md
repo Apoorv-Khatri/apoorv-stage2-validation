@@ -913854,3 +913854,738 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T13:52:25.817041+00:00 — Review DUE9RA4X h41: source-audited coding and linked comparisons
+
+121 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A8013",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8014",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8015",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8016",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8017",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8018",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8019",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A8020",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8013",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8014",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8015",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8016",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8017",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8018",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8019",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B8020",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8013",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8014",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8015",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8016",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8017",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8018",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8019",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C8020",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K8020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8013",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8014",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8015",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8016",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8017",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8018",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8019",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L8020",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8013",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8014",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8015",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8016",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8017",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8018",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8019",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M8020",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8018",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N8020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8018",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O8020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8013",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8014",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8015",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8016",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8017",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8018",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8019",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P8020",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8013",
+    "before": null,
+    "after": "Table A11 p.16 col 1: 4.8; outcome_mean benchmark: -1.4 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8014",
+    "before": null,
+    "after": "Table A11 p.16 col 1: 4.8; outcome_sd benchmark: 62.8 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8015",
+    "before": null,
+    "after": "Table A11 p.16 col 2: -0.001; outcome_mean benchmark: -0.005 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8016",
+    "before": null,
+    "after": "Table A11 p.16 col 2: -0.001; outcome_sd benchmark: 0.093 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8017",
+    "before": null,
+    "after": "Table A11 p.16 col 3: 1.1; outcome_mean benchmark: -1.3 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8018",
+    "before": null,
+    "after": "Table A11 p.16 col 3: 1.1; outcome_sd benchmark: 27.8 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8019",
+    "before": null,
+    "after": "Table A11 p.16 col 4: -0.002; outcome_mean benchmark: -0.022 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q8020",
+    "before": null,
+    "after": "Table A11 p.16 col 4: -0.002; outcome_sd benchmark: 0.11 (table control group)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8013",
+    "before": null,
+    "after": "Benchmark target/period/weights not established for this conditional estimand."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8015",
+    "before": null,
+    "after": "Benchmark target/period/weights not established for this conditional estimand."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8017",
+    "before": null,
+    "after": "Benchmark target/period/weights not established for this conditional estimand."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R8019",
+    "before": null,
+    "after": "Benchmark target/period/weights not established for this conditional estimand."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9940",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9941",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9942",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A9943",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9940",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9941",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9942",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9943",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9940",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9941",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9942",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9943",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9941",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9940",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9941",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9942",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9943",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9940",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9941",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9942",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9943",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9940",
+    "before": null,
+    "after": "Change in SO2 concentration (mg/m3), after minus before appeal; averaging windows unspecified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9941",
+    "before": null,
+    "after": "Change in SO2 violation probability, not binary individual violation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9942",
+    "before": null,
+    "after": "Change in COD concentration (mg/L), after minus before appeal; averaging windows unspecified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9943",
+    "before": null,
+    "after": "Change in COD violation probability, not binary individual violation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4317",
+    "before": null,
+    "after": "DUE9RA4X"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4317",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4317",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4317",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4317",
+    "before": null,
+    "after": "More than one citizen appealing versus one citizen appealing about a violation; subsequent change in pollution outcomes. Table A11 p.16; main p.842."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4317",
+    "before": null,
+    "after": "Broad author-intention gate retains substantive observational null: authors test whether increasing private appeals affects behavior, conditioning on severity. Implemented regression of change outcomes on multiple-appeal indicator and baseline concentration, with day/province controls; no identifying-FE or explicit parallel-trends argument established. DiD interpretation of between-group changes is an adjudication alternative, not an additional implementation. Exact averaging windows unspecified. Linear in reported change outcomes. Independent adjudication: retain OLS. Differencing the reported outcome does not by itself establish a parallel-trends design; the actual argument on p.842 conditions on violation severity and explicitly describes observational findings. No extra DiD or identifying-FE model is established."
+  }
+]
+```
