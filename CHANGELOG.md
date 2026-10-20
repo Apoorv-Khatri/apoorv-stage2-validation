@@ -889200,3 +889200,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T12:38:23.038503+00:00 — Review DRDWCKUF h51: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9864",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9864",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9864",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H9864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I9864",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J9864",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9864",
+    "before": null,
+    "after": "Expected misconduct-related settlement costs avoided in first year, dollars."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E113",
+    "before": null,
+    "after": "DONE — Available-main-source review only: all63 final article pages including printed appendix independently reviewed; separate final Online Appendix/Stata supplement unavailable despite bounded publisher/author/institution/archive attempts. Supplementary omissions NOT certified resolved. Original predictive/descriptive scopes rejected on explicit interpretation, not weak identification alone; hiring-tolerance and county-income gates unknown. Actual Table9 and Table12A OLS/identifyingFE splits preserved, severity three-set HDFE distinguished from one interacted FE set. Misconduct remains binary with continuous moderators. Retain eight individually supported category separation scopes and six explicit categoryCox scopes;15 insufficiently allocated category settings/outcomes held outside application, not asserted absent. All12 actualTable9 coefficient/mean pairs retained with local-target alignment unknown; pooled prose allocations remain unknown. Symmetric Table8/Figure6 endpoint policy applied without digitized grids; treated endpoints alignment0. Duration prominence corrected; dissolved-firm misconduct stock/flow uncertainty retained. Firing-cost calculation distinct from recidivism prediction; treatmentSD and effect/effect claims not outcome benchmarks. Printed -12.8 versus8–10 and fn26literal58percentagepoints preserved. Held county-detection construction and unseen supplementary/robustness allocations explicit. No older draft substitution or empirical replication. Original IDs/model fields/links preserved; source-scoped completion not full-supplement or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4276",
+    "before": null,
+    "after": "DRDWCKUF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4276",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4276",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4276",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4276",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4276",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4276",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4276",
+    "before": null,
+    "after": "Firing an adviser with recent misconduct versus retaining that adviser → expected first-year misconduct costs avoided; conclusion pp.289–290."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4276",
+    "before": null,
+    "after": "Authors explicitly calculate $55,000 prevented costs from 10 pp excess misconduct risk and $550,000 settlement mean. Complete replacement/counterfactual rule not specified; method unknown rather than assuming nonlinear Other. Revenue comparison concerns a different outcome."
+  }
+]
+```
