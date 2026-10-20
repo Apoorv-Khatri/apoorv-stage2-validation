@@ -924267,3 +924267,276 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T14:48:32.301740+00:00 — Review E5YG2HPW s4: source-audited coding and linked comparisons
+
+44 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10008",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10009",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10010",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10011",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10012",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10013",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10014",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10015",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10008",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10009",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10010",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10011",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10012",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10013",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10014",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10015",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10008",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10009",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10010",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10011",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10012",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10013",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10014",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10015",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10008",
+    "before": null,
+    "after": "Change in Greenbook minus Blue Chip annualized GDP-growth forecast gap for q=-1, current to next FOMC-meeting month; Table G.1 lower panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10009",
+    "before": null,
+    "after": "Change in Greenbook minus Blue Chip annualized GDP-growth forecast gap for q=1, current to next FOMC-meeting month; Table G.1 lower panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10010",
+    "before": null,
+    "after": "Change in Greenbook minus Blue Chip annualized GDP-growth forecast gap for q=2, current to next FOMC-meeting month; Table G.1 lower panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10011",
+    "before": null,
+    "after": "Change in Greenbook minus Blue Chip annualized GDP-growth forecast gap for q=3, current to next FOMC-meeting month; Table G.1 lower panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10012",
+    "before": null,
+    "after": "Change in Greenbook minus Blue Chip annualized GDP-growth forecast gap for q=4, current to next FOMC-meeting month; Table G.1 lower panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10013",
+    "before": null,
+    "after": "Change in Greenbook minus Blue Chip annualized GDP-growth forecast gap for q=5, current to next FOMC-meeting month; Table G.1 lower panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10014",
+    "before": null,
+    "after": "Change in Greenbook minus Blue Chip annualized GDP-growth forecast gap for q=6, current to next FOMC-meeting month; Table G.1 lower panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10015",
+    "before": null,
+    "after": "Change in Greenbook minus Blue Chip annualized GDP-growth forecast gap for q=7, current to next FOMC-meeting month; Table G.1 lower panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2565",
+    "before": null,
+    "after": "Spurious within retained s4: upper-panel dependent policy shock belongs to excluded contemporaneous forecast-gap association; causal gate held for independent adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2566",
+    "before": null,
+    "after": "Change in Greenbook minus Blue Chip annualized real GDP-growth forecast gap for q=0 (nowcast), current to next FOMC month; Table G.1 lower panel coefficient -4.07 (1.80). Other horizons added separately."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1017",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1017",
+    "before": null,
+    "after": "Policy-news shock effect on change in Greenbook minus Blue Chip real GDP growth forecast gap from current to next FOMC-meeting month, horizons q=-1,...,7; Online Appendix G Table G.1 lower panel, eq.(17)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1017",
+    "before": null,
+    "after": "Retain updating-effect interpretation in main p.1306 and supplement pp.16-17 despite predictive wording. Upper panel eq.(16) is contemporaneous optimism/shock association, excluded under parameter-specific gate; contrary broad mechanism-inclusion reading is held for adjudication, not silently pooled."
+  }
+]
+```
