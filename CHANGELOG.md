@@ -845037,3 +845037,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:52:20.491746+00:00 — Review A8LFPXLL h50: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9342",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9342",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9342",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9342",
+    "before": null,
+    "after": "Log average employee earnings; combined-rate elasticity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4176",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4176",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4176",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4176",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4176",
+    "before": null,
+    "after": "Predicted combined federal-plus-state MTR change weighted by top-bracket ownership share Location: Table E.16 epsilon_MTR column 5 and footnote 63"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4176",
+    "before": null,
+    "after": "Printed table -0.160 (SE .0242) conflicts with prose -0.164 (SE .024); preserve both, not arithmetic repair."
+  }
+]
+```

@@ -42248,7 +42248,16 @@
     "L4175": "0",
     "M4175": "n/a",
     "N4175": "Predicted federal MTR dose heterogeneity by state changes Location: Table E.16 epsilon_MTR columns 1-4",
-    "O4175": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location."
+    "O4175": "Author-interpreted tax effect; conventional conditional parallel-trends design. No qualifying same-outcome benchmark at this location.",
+    "A4176": "A8LFPXLL",
+    "B4176": "h50",
+    "I4176": "1",
+    "J4176": "DiD_conventional",
+    "K4176": "0",
+    "L4176": "0",
+    "M4176": "n/a",
+    "N4176": "Predicted combined federal-plus-state MTR change weighted by top-bracket ownership share Location: Table E.16 epsilon_MTR column 5 and footnote 63",
+    "O4176": "Printed table -0.160 (SE .0242) conflicts with prose -0.164 (SE .024); preserve both, not arithmetic repair."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -106320,7 +106329,11 @@
     "A9341": "A8LFPXLL",
     "B9341": "h49",
     "C9341": "hy1",
-    "K9341": "Log average employee earnings, federal predicted marginal-rate elasticity by state-change group."
+    "K9341": "Log average employee earnings, federal predicted marginal-rate elasticity by state-change group.",
+    "A9342": "A8LFPXLL",
+    "B9342": "h50",
+    "C9342": "hy1",
+    "K9342": "Log average employee earnings; combined-rate elasticity."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
