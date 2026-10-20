@@ -843957,3 +843957,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T08:47:18.562805+00:00 — Review A8LFPXLL h38: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A9330",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B9330",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C9330",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K9330",
+    "before": null,
+    "after": "Change in total firm wage bill in dollars."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4164",
+    "before": null,
+    "after": "A8LFPXLL"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4164",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4164",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4164",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4164",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4164",
+    "before": null,
+    "after": "Business tax liability business income earned before other partnership income: observed total liability instrumented by baseline exposure Location: Figure A.7 and Table A.9 business income earned before other partnership income"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4164",
+    "before": null,
+    "after": "Different constructed tax-liability treatment. Do not conflate income aggregation changes with routine sample restrictions. A.7 reports only ITT dynamics; A.9 supplies IV."
+  }
+]
+```
