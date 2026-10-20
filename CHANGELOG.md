@@ -989013,3 +989013,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T17:46:29.238695+00:00 — Review F3IAL93B h56: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10335",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10336",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10337",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10335",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10336",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10337",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10335",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10336",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10337",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10335",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10336",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10335",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10336",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10337",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10335",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10336",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10337",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10335",
+    "before": null,
+    "after": "Collector-level visit probability."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10336",
+    "before": null,
+    "after": "Collector-level number of visits."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10337",
+    "before": null,
+    "after": "Collector-level probability sanctions likely/very likely."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4407",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4407",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4407",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4407",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4407",
+    "before": null,
+    "after": "Final Figure A4: collector enforcement-capacity relationship with visits (extensive/intensive) and sanctions beliefs, with/without visit controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4407",
+    "before": null,
+    "after": "Conditional OLS relationship in the explicitly reported collector-level dependent outcome vector (RMTR, visits, beliefs or elasticities as individually defined). Higher-priority randomized assignment identifies the upstream collector effects, not random manipulation of the scalar estimated capacity. Broad author-intention gate passes via final Sections 7.2.1-7.2.3, including null mechanisms. Full micro-compliance-outcome construction is nonlinear/outcome-adaptive where both regressor and RMTR derive from compliance; the competing full-procedure Other classification is preserved for parent adjudication. Do not treat poor identification alone as exclusion."
+  }
+]
+```
