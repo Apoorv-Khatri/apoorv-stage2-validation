@@ -44669,7 +44669,16 @@
     "L4404": "0",
     "M4404": "n/a",
     "N4404": "Cited NBER Appendix B Table B20 Panel B: control/enforcement messages adding imbalanced covariates; nonlinear RMTR from compliance response schedule.",
-    "O4404": "Ratio/root of outcome-estimated coefficients; source version explicitly identified."
+    "O4404": "Ratio/root of outcome-estimated coefficients; source version explicitly identified.",
+    "A4405": "F3IAL93B",
+    "B4405": "h54",
+    "I4405": "1",
+    "J4405": "RCT",
+    "K4405": "0",
+    "L4405": "0",
+    "M4405": "n/a",
+    "N4405": "Cited NBER Appendix B Table B20 Panel A: control/enforcement messages adding imbalanced covariates; randomized rate polynomial effects on compliance (underlying schedule).",
+    "O4405": "Randomized assigned tax liabilities identify direct assignment responses; RCT precedes OLS and stratum FE. No artificial OLS/FE split for nuisance controls."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115351,7 +115360,14 @@
     "H10332": "0",
     "I10332": "unknown",
     "J10332": "other",
-    "K10332": "RMTR as fraction of status quo; control/enforcement messages adding imbalanced covariates."
+    "K10332": "RMTR as fraction of status quo; control/enforcement messages adding imbalanced covariates.",
+    "A10333": "F3IAL93B",
+    "B10333": "h54",
+    "C10333": "hy1",
+    "H10333": "1",
+    "I10333": "1",
+    "J10333": "none",
+    "K10333": "Property tax compliance indicator."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
