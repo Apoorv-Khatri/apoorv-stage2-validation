@@ -930021,3 +930021,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-20T15:02:15.307301+00:00 — Review E5YG2HPW h13: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10202",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10202",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10202",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10202",
+    "before": null,
+    "after": "Model-implied percentage change in stock prices as value of an unlevered consumption claim, Table V."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E115",
+    "before": null,
+    "after": "DONE — Source-scoped review of the full 48-page final article and 29-page author-publication-linked supplement, independently audited. Author and institutional supplement downloads match; publisher access returned 403, so publisher-byte identity remains unverified. Distinct Table II indicators and OLS versus Rigobon implementations retained; Rigobon IV/single continuous is based on the printed covariance-difference formula and explicit IV equivalence, not a binary meeting instrument or executed first stage. Greenbook lower-panel updating effects retained; upper-panel associations excluded with broader causal-gate interpretation held. Figure VI gross actual/natural-output belief responses separately recorded under s5, distinct from Figure VIII net counterfactual effects. One Figure VII qualitative same-productivity path comparison retained without digitized endpoints; construction-only alternative disclosed. Structural steady-state coordinates excluded as transformations, not an invented outcome-benchmark grid; broader normalization interpretation held. D.2 classified as downstream OLS in reported constructed outcomes, with upstream-model taxonomy alternative explicit. A.1 sample-specific shock reconstruction preserved. Table V SE3.9 versus prose3.3 and Figure VII output-level caption versus growth prose retained. Null/supporting effects and actual reported horizons covered; ten original outcome duplicates inactive. Original IDs/model fields/links preserved. No empirical replication or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4351",
+    "before": null,
+    "after": "E5YG2HPW"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4351",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4351",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4351",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4351",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4351",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4351",
+    "before": null,
+    "after": "Estimated-model stock-price response to monetary shock with information (baseline) and without information, Table V p.1322."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4351",
+    "before": null,
+    "after": "Unlevered claim to consumption stream (footnote30). Printed baseline -6.8 percent, no-information -11.1 percent (prose rounds to 11). Distinct from empirical OLS s7. Model and data estimates compared to one another are not outcome-level benchmarks."
+  }
+]
+```

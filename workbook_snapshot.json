@@ -552,6 +552,7 @@
     "B115": "High-Frequency Identification of Monetary Non-Neutrality: The Information Effect*",
     "C115": "econ",
     "D115": 7,
+    "E115": "DONE — Source-scoped review of the full 48-page final article and 29-page author-publication-linked supplement, independently audited. Author and institutional supplement downloads match; publisher access returned 403, so publisher-byte identity remains unverified. Distinct Table II indicators and OLS versus Rigobon implementations retained; Rigobon IV/single continuous is based on the printed covariance-difference formula and explicit IV equivalence, not a binary meeting instrument or executed first stage. Greenbook lower-panel updating effects retained; upper-panel associations excluded with broader causal-gate interpretation held. Figure VI gross actual/natural-output belief responses separately recorded under s5, distinct from Figure VIII net counterfactual effects. One Figure VII qualitative same-productivity path comparison retained without digitized endpoints; construction-only alternative disclosed. Structural steady-state coordinates excluded as transformations, not an invented outcome-benchmark grid; broader normalization interpretation held. D.2 classified as downstream OLS in reported constructed outcomes, with upstream-model taxonomy alternative explicit. A.1 sample-specific shock reconstruction preserved. Table V SE3.9 versus prose3.3 and Figure VII output-level caption versus growth prose retained. Null/supporting effects and actual reported horizons covered; ten original outcome duplicates inactive. Original IDs/model fields/links preserved. No empirical replication or omission-free certification.",
     "A116": "F3IAL93B",
     "B116": "The State Capacity Ceiling on Tax Rates: Evidence From Randomized Tax Abatements in the DRC",
     "C116": "econ",
@@ -44141,7 +44142,16 @@
     "L4350": "1",
     "M4350": "n/a",
     "N4350": "Estimated-model comparison of unexpected monetary shock with information versus similarly sized systematic policy-rate change without information; Figure IX pp.1320-21.",
-    "O4350": "Causal structural policy counterfactual, not prediction. Continuous interest-rate change in both cases; information-model regimes are not a randomized binary treatment. Figure IX retains same estimated structural parameters. Effect-to-effect contrast is not an outcome mean/SD benchmark."
+    "O4350": "Causal structural policy counterfactual, not prediction. Continuous interest-rate change in both cases; information-model regimes are not a randomized binary treatment. Figure IX retains same estimated structural parameters. Effect-to-effect contrast is not an outcome mean/SD benchmark.",
+    "A4351": "E5YG2HPW",
+    "B4351": "h13",
+    "I4351": "1",
+    "J4351": "Other",
+    "K4351": "0",
+    "L4351": "0",
+    "M4351": "n/a",
+    "N4351": "Estimated-model stock-price response to monetary shock with information (baseline) and without information, Table V p.1322.",
+    "O4351": "Unlevered claim to consumption stream (footnote30). Printed baseline -6.8 percent, no-information -11.1 percent (prose rounds to 11). Distinct from empirical OLS s7. Model and data estimates compared to one another are not outcome-level benchmarks."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -113885,7 +113895,11 @@
     "A10201": "E5YG2HPW",
     "B10201": "h12",
     "C10201": "hy1",
-    "K10201": "Model-implied expected output-growth response path with versus without the information effect; Figure IX (quarterly horizon)."
+    "K10201": "Model-implied expected output-growth response path with versus without the information effect; Figure IX (quarterly horizon).",
+    "A10202": "E5YG2HPW",
+    "B10202": "h13",
+    "C10202": "hy1",
+    "K10202": "Model-implied percentage change in stock prices as value of an unlevered consumption claim, Table V."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
