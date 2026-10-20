@@ -44525,7 +44525,16 @@
     "L4388": "0",
     "M4388": "multiple binary",
     "N4388": "Final main p.1173 / NBER Appendix B Table B4: log tax liability as fraction of predicted property value instrumented by 17%,33%,50% randomized abatement indicators, effects on compliance/revenue.",
-    "O4388": "Three mutually exclusive binary excluded assignment indicators, jointly used in first stage. Final main confirms implementation; B4 supplies exact columns. Predicted property-value construction does not change downstream linear IV code."
+    "O4388": "Three mutually exclusive binary excluded assignment indicators, jointly used in first stage. Final main confirms implementation; B4 supplies exact columns. Predicted property-value construction does not change downstream linear IV code.",
+    "A4389": "F3IAL93B",
+    "B4389": "h38",
+    "I4389": "1",
+    "J4389": "RCT",
+    "K4389": "0",
+    "L4389": "0",
+    "M4389": "n/a",
+    "N4389": "NBER Appendix B Table B5: randomized log tax rate interacted with knowledge of neighbors rates, reductions, past rates, or 2016 assignment; compliance/revenue slopes.",
+    "O4389": "Final main cites implemented heterogeneity. Knowledge moderators partly post-assignment; do not promote their lower-order descriptive slopes to causal effects. No deliberately paired outcome mean in B5."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -115088,7 +115097,21 @@
     "H10315": "0",
     "I10315": "1",
     "J10315": "none",
-    "K10315": "Revenue per property, CF."
+    "K10315": "Revenue per property, CF.",
+    "A10316": "F3IAL93B",
+    "B10316": "h38",
+    "C10316": "hy1",
+    "H10316": "1",
+    "I10316": "1",
+    "J10316": "none",
+    "K10316": "Compliance indicator.",
+    "A10317": "F3IAL93B",
+    "B10317": "h38",
+    "C10317": "hy2",
+    "H10317": "0",
+    "I10317": "1",
+    "J10317": "none",
+    "K10317": "Tax revenue per property, CF."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
