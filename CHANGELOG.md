@@ -1042827,3 +1042827,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:52:18.188709+00:00 — Review IJCHBNI5 s5: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2609",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2609",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2609",
+    "before": null,
+    "after": "Territory-decade construction count, not town-year count. p.2077 establishes many zero town-years and zero-total cells but does not unambiguously locate observed zeros in every retained territory-decade outcome/sample; zero mass conservatively unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1041",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1041",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1041",
+    "before": null,
+    "after": "Figure IX Panel A, BOTH left baseline and right pretreatment-control frames, pp. 2077–2083: eventual Protestant territorial exposure × decade/period conventional DiD on territory-decade church construction counts. Territory and decade FE; 35 territories; territory-clustered SE. Include equations (5)/(6), decadal post dynamics and pooled 1520–1549 and 1550–1599 effects. Routine pretreatment-stock/flow interactions do not create a second setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1041",
+    "before": null,
+    "after": "Linear conventional DiD, not modern DiD, FE or OLS despite OLS implementation. Dynamic post-treatment estimates and pooled post periods retained; diagnostic leads are not separate settings. Author causal interpretation in pp. 2040–2044 and 2087; remaining endogeneity is not an exclusion criterion."
+  }
+]
+```
