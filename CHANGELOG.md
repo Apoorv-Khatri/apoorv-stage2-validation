@@ -1047690,3 +1047690,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:39:50.383211+00:00 — Review J83HLRWH s8: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2628",
+    "before": null,
+    "after": "CU is inverted confidence (outside, not inside, +/-1 point band); p.2037. Table 6 implementation unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2629",
+    "before": null,
+    "after": "Held outcome allocation, not a definite spurious/duplicate finding: p.2053 explicitly establishes CU effect and explains belief responsiveness; a separate implemented belief-outcome estimate in Table 6 is not established. No active comparison attached."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1055",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1055",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1055",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1055",
+    "before": null,
+    "after": "Beliefs A randomized sample size M in {1,3,5}; effect on CU conditional on sample difference and Bayesian posterior, p.2053/Online Appendix Table 6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1055",
+    "before": null,
+    "after": "Sample size M={1,3,5} randomized across trials, p.2035. P.2053 confirms effect on CU conditional on sample difference and Bayesian posterior, but not an implemented linear estimator; method unknown, not observational OLS by default. Sample-size effects are explicitly part of the abstract/introduction synthesis. Separate belief-response outcome allocation remains held."
+  }
+]
+```
