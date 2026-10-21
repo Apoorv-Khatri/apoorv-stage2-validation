@@ -45161,7 +45161,16 @@
     "L4452": "1",
     "M4452": "n/a",
     "N4452": "Raw occupation-level/binned exposure relationship with displaced workers’ mean log earnings change, including zero-versus-high exposure discussion; unadjusted trend distinct from Table 3. Figure A11 is the unbinned companion, not a new effect. Location: Figure 2, pp.293–294; Appendix C.11.1/Figure A11, pp.43–44",
-    "O4452": "Retained broad author-intention graphical effect. Main footnote 37 describes regressing requirements on earnings (reversed relative to plotted axes); keep literal direction conflict. OLS linear-contrast interpretation is provisional pending graph code; no numeric slope inferred."
+    "O4452": "Retained broad author-intention graphical effect. Main footnote 37 describes regressing requirements on earnings (reversed relative to plotted axes); keep literal direction conflict. OLS linear-contrast interpretation is provisional pending graph code; no numeric slope inferred.",
+    "A4453": "F9IA5GIP",
+    "B4453": "h2",
+    "I4453": "1",
+    "J4453": "OLS",
+    "K4453": "0",
+    "L4453": "1",
+    "M4453": "n/a",
+    "N4453": "Binned technological-change exposure relationship with probability of switching occupations after displacement. Figure 3A pp.296–297; adjustment status unresolved, distinct displayed location from Table 4.",
+    "O4453": "Separately displayed Figure 3A binned probability relationship retained under result-location rule. Main p.296 calls it a graphical representation of equation (1); caption describes bins but does not establish whether controls were partialled out. Raw/unadjusted status is unverified, not a fact. Alternative: group with s2; no numerical estimate duplicated or bin grid inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116439,7 +116448,11 @@
     "A10425": "F9IA5GIP",
     "B10425": "h1",
     "C10425": "hy1",
-    "K10425": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+    "K10425": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome.",
+    "A10426": "F9IA5GIP",
+    "B10426": "h2",
+    "C10426": "hy1",
+    "K10426": "Share/mean of switching indicator among displaced workers by exposure bin."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -1037721,3 +1037721,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:05:11.266787+00:00 — Review F9IA5GIP h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10426",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10426",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10426",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10426",
+    "before": null,
+    "after": "Share/mean of switching indicator among displaced workers by exposure bin."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4453",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4453",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4453",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4453",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4453",
+    "before": null,
+    "after": "Binned technological-change exposure relationship with probability of switching occupations after displacement. Figure 3A pp.296–297; adjustment status unresolved, distinct displayed location from Table 4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4453",
+    "before": null,
+    "after": "Separately displayed Figure 3A binned probability relationship retained under result-location rule. Main p.296 calls it a graphical representation of equation (1); caption describes bins but does not establish whether controls were partialled out. Raw/unadjusted status is unverified, not a fact. Alternative: group with s2; no numerical estimate duplicated or bin grid inferred."
+  }
+]
+```
