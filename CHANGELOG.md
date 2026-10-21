@@ -1052325,3 +1052325,534 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:45:11.833982+00:00 — Review K8LUIIMP h19: source-audited coding and linked comparisons
+
+87 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9534",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9535",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9536",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9537",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9538",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9539",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9534",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9535",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9536",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9537",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9538",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9539",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9534",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9535",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9536",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9537",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9538",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9539",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9534",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9535",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9536",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9537",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9538",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9539",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9534",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9535",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9536",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9537",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9538",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9539",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9534",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9535",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9536",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9537",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9538",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9539",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9534",
+    "before": null,
+    "after": "Table7 row2, Aggregate real GDP column, p.1304 and sectionVII: counterfactual/actual1914 = 0.338. Actual1914 same aggregate outcome is the explicitly used denominator, not a population mean. Baseline units normalized1; no invented absolute baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9535",
+    "before": null,
+    "after": "Table7 row2, Total population column, p.1304 and sectionVII: counterfactual/actual1914 = 0.437. Actual1914 same aggregate outcome is the explicitly used denominator, not a population mean. Baseline units normalized1; no invented absolute baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9536",
+    "before": null,
+    "after": "Table7 row2, Expected utility in Argentina (welfare) column, p.1304 and sectionVII: counterfactual/actual1914 = 0.663. Actual1914 same aggregate outcome is the explicitly used denominator, not a population mean. Baseline units normalized1; no invented absolute baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9537",
+    "before": null,
+    "after": "p.1305 fn39: adjusted-productivity-induced change in Aggregate real GDP makes up 77% of overall observed1869–1914 change; formula (1−0.338)/(1−0.136). Benchmark is observed same-outcome historical change, not another isolated-treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9538",
+    "before": null,
+    "after": "p.1305 fn39: adjusted-productivity-induced change in Total population makes up 77% of overall observed1869–1914 change; formula (1−0.437)/(1−0.267). Benchmark is observed same-outcome historical change, not another isolated-treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9539",
+    "before": null,
+    "after": "p.1305 fn39: adjusted-productivity-induced change in Expected utility in Argentina (welfare) makes up 70% of overall observed1869–1914 change; formula (1−0.663)/(1−0.517). Benchmark is observed same-outcome historical change, not another isolated-treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9534",
+    "before": null,
+    "after": "Aggregate level benchmark other_level; no mean/SD alignment question. Level-ratio interpretation rather than a standalone log-percent interpretation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9535",
+    "before": null,
+    "after": "Aggregate level benchmark other_level; no mean/SD alignment question. Level-ratio interpretation rather than a standalone log-percent interpretation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9536",
+    "before": null,
+    "after": "Aggregate level benchmark other_level; no mean/SD alignment question. Level-ratio interpretation rather than a standalone log-percent interpretation."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9537",
+    "before": null,
+    "after": "Retain own observed-change comparison as other_level, separate from1914-level normalization. Alternative treating this historical accounting decomposition outside comparison scope held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9538",
+    "before": null,
+    "after": "Retain own observed-change comparison as other_level, separate from1914-level normalization. Alternative treating this historical accounting decomposition outside comparison scope held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9539",
+    "before": null,
+    "after": "Retain own observed-change comparison as other_level, separate from1914-level normalization. Alternative treating this historical accounting decomposition outside comparison scope held for adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10566",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10567",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10568",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10566",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10567",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10568",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10566",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10567",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10568",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10566",
+    "before": null,
+    "after": "Aggregate real GDP; reported counterfactual level as fraction of actual1914 level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10567",
+    "before": null,
+    "after": "Total population; reported counterfactual level as fraction of actual1914 level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10568",
+    "before": null,
+    "after": "Expected utility in Argentina (welfare); reported counterfactual level as fraction of actual1914 level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4538",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4538",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4538",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4538",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4538",
+    "before": null,
+    "after": "Table7 row2, pp.1303–1310: Adjusted agricultural productivity back to1869, other sufficient statistics held1914 → real GDP, population and expected utility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4538",
+    "before": null,
+    "after": "Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast."
+  }
+]
+```
