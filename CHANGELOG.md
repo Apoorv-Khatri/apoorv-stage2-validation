@@ -1052238,3 +1052238,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:44:44.257342+00:00 — Review K8LUIIMP h18: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10565",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10565",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10565",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10565",
+    "before": null,
+    "after": "Log population growth1869–1914, difference of logs; AppendixTableA2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4537",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4537",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4537",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4537",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4537",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4537",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4537",
+    "before": null,
+    "after": "Appendix TableA2 p.21 col5: rail length instrumented by colonial postal length → log population growth1869–1914; model sample, coefficient0.525."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4537",
+    "before": null,
+    "after": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Differenced district level heterogeneity/common time shock, eqA66; same method hierarchy as Table2."
+  }
+]
+```
