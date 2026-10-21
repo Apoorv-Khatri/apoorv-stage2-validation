@@ -45756,7 +45756,16 @@
     "L4503": "1",
     "M4503": "n/a",
     "N4503": "Figure V bottom right, p.2058: Beliefs B randomized compound updating versus baseline, difference in median posterior beliefs across displayed probability values/bins.",
-    "O4503": "Median is nonlinear in underlying reported decision outcomes. Assignment remains randomized, but Other takes precedence over RCT for the nonlinear statistic. No digitized estimates or bin grid. Figure V is not a mean-difference estimator; keep separate from s4."
+    "O4503": "Median is nonlinear in underlying reported decision outcomes. Assignment remains randomized, but Other takes precedence over RCT for the nonlinear statistic. No digitized estimates or bin grid. Figure V is not a mean-difference estimator; keep separate from s4.",
+    "A4504": "J83HLRWH",
+    "B4504": "h5",
+    "I4504": "1",
+    "J4504": "unknown",
+    "K4504": "1",
+    "L4504": "0",
+    "M4504": "unknown",
+    "N4504": "Partition manipulation, 2 versus 10 states in risky choice, without changing normative problem features; implemented additional experiment with mixed results, footnote 15 pp.2057/2059, Online Appendix F.",
+    "O4504": "The null/mixed result remains eligible. Final main establishes implemented two-state-count contrast but not exact randomization, estimator, or model interactions. Unknown is not Other; do not infer an RCT merely from experiment wording."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117599,7 +117608,14 @@
     "A10514": "J83HLRWH",
     "B10514": "s11",
     "C10514": "hy1",
-    "K10514": "Log posterior odds: log-odds portion of Table IV replicated in Online Appendix Table 8 per p.2056. Exact instrument-set splits held pending supplement."
+    "K10514": "Log posterior odds: log-odds portion of Table IV replicated in Online Appendix Table 8 per p.2056. Exact instrument-set splits held pending supplement.",
+    "A10515": "J83HLRWH",
+    "B10515": "h5",
+    "C10515": "hy1",
+    "H10515": "0",
+    "I10515": "unknown",
+    "J10515": "unknown",
+    "K10515": "Certainty equivalent in partition experiment (2 versus 10 states), footnote 15 pp.2057/2059; exact scale/normalization not specified. Do not infer normalization from neighboring baseline equation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

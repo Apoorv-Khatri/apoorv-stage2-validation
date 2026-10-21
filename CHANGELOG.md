@@ -1047936,3 +1047936,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:41:50.076299+00:00 — Review J83HLRWH h5: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10515",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10515",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10515",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10515",
+    "before": null,
+    "after": "Certainty equivalent in partition experiment (2 versus 10 states), footnote 15 pp.2057/2059; exact scale/normalization not specified. Do not infer normalization from neighboring baseline equation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4504",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4504",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4504",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4504",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4504",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4504",
+    "before": null,
+    "after": "Partition manipulation, 2 versus 10 states in risky choice, without changing normative problem features; implemented additional experiment with mixed results, footnote 15 pp.2057/2059, Online Appendix F."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4504",
+    "before": null,
+    "after": "The null/mixed result remains eligible. Final main establishes implemented two-state-count contrast but not exact randomization, estimator, or model interactions. Unknown is not Other; do not infer an RCT merely from experiment wording."
+  }
+]
+```
