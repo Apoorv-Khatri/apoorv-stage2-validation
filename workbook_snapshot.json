@@ -46550,7 +46550,16 @@
     "L4572": "0",
     "M4572": "n/a",
     "N4572": "EA spending-shock local projections excluding Greece; Fig.D3, final p.1671.",
-    "O4572": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held."
+    "O4572": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held.",
+    "A4573": "MCIJCXNF",
+    "B4573": "h4",
+    "I4573": "1",
+    "J4573": "Other",
+    "K4573": "0",
+    "L4573": "0",
+    "M4573": "n/a",
+    "N4573": "EA spending-shock effects on alternative broad real effective exchange rate; Fig.D4, final p.1671 fn27.",
+    "O4573": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119318,7 +119327,11 @@
     "A10675": "MCIJCXNF",
     "B10675": "h3",
     "C10675": "hy2",
-    "K10675": "Real exchange rate response to positive/negative spending shocks, Fig.D3."
+    "K10675": "Real exchange rate response to positive/negative spending shocks, Fig.D3.",
+    "A10676": "MCIJCXNF",
+    "B10676": "h4",
+    "C10676": "hy1",
+    "K10676": "Broad real effective exchange rate response to positive/negative government-spending shocks; Fig.D4."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -1066422,3 +1066422,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:22:29.652967+00:00 — Review MCIJCXNF h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10676",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10676",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10676",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10676",
+    "before": null,
+    "after": "Broad real effective exchange rate response to positive/negative government-spending shocks; Fig.D4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4573",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4573",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4573",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4573",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4573",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4573",
+    "before": null,
+    "after": "EA spending-shock effects on alternative broad real effective exchange rate; Fig.D4, final p.1671 fn27."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4573",
+    "before": null,
+    "after": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held."
+  }
+]
+```
