@@ -46444,7 +46444,16 @@
     "L4566": "0",
     "M4566": "n/a",
     "N4566": "Distance effect on winning bid, appendix Table15/eqs.(7)–(8): three separate food-bank×type, food-bank×bimonth, type×bimonth identifying FE sets.",
-    "O4566": "Homogeneous sample slope -.085; all-food homogeneous total -.132, not unrestricted .827 selection slope. Distinct HDFE implementation, supporting main FE result. Conditional reported-outcome linearity; full selected-food adaptation caveat as s7. No qualifying mean/SD paired. Independent adjudication: classify the complete reported bid procedure, not a regression conditional on an outcome-selected food list. Homogeneity is selected using winning-bid SD, the focal outcome. Thus Other (outcome-adaptive sample/classification followed by linear regression). Conditional alternatives remain FE for one joint set in main Table4 and HDFE for three pairwise sets in appendix Table15; dimension correction is certain, method domain is a substantive coding dispute."
+    "O4566": "Homogeneous sample slope -.085; all-food homogeneous total -.132, not unrestricted .827 selection slope. Distinct HDFE implementation, supporting main FE result. Conditional reported-outcome linearity; full selected-food adaptation caveat as s7. No qualifying mean/SD paired. Independent adjudication: classify the complete reported bid procedure, not a regression conditional on an outcome-selected food list. Homogeneity is selected using winning-bid SD, the focal outcome. Thus Other (outcome-adaptive sample/classification followed by linear regression). Conditional alternatives remain FE for one joint set in main Table4 and HDFE for three pairwise sets in appendix Table15; dimension correction is certain, method domain is a substantive coding dispute.",
+    "A4567": "KRMMS6YI",
+    "B4567": "h7",
+    "I4567": "1",
+    "J4567": "unknown",
+    "K4567": "1",
+    "L4567": "0",
+    "M4567": "n/a",
+    "N4567": "Observed food choice versus sourcing nearby loads: distance/cost counterfactual, pp.2009–10 and appendix Table12.",
+    "O4567": "Implemented illustration: at least1500km stated one-way travel reduction and $34.3m lower bound value of food choice. Actual feasible allocation mapping and competing-demand constraints not given, so unknown, not Other merely because counterfactual. Preserve apparent one-way/roundtrip inconsistency without repairing."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118990,7 +118999,21 @@
     "H10640": "0",
     "I10640": "unknown",
     "J10640": "none",
-    "K10640": "Total winning bid in shares; appendix Table15."
+    "K10640": "Total winning bid in shares; appendix Table15.",
+    "A10641": "KRMMS6YI",
+    "B10641": "h7",
+    "C10641": "hy1",
+    "H10641": "0",
+    "I10641": "unknown",
+    "J10641": "none",
+    "K10641": "Travel distance saving under nearby sourcing, at least1500km as printed p.2010.",
+    "A10642": "KRMMS6YI",
+    "B10642": "h7",
+    "C10642": "hy2",
+    "H10642": "0",
+    "I10642": "unknown",
+    "J10642": "none",
+    "K10642": "Annual transport cost saving forgone by choosing desired rather than nearby food: $34.3m lower bound."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

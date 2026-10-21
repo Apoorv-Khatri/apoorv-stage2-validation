@@ -1061940,3 +1061940,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:46:50.110978+00:00 — Review KRMMS6YI h7: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10641",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10642",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10641",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10642",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10641",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10642",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10641",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10642",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10641",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10642",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10641",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10642",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10641",
+    "before": null,
+    "after": "Travel distance saving under nearby sourcing, at least1500km as printed p.2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10642",
+    "before": null,
+    "after": "Annual transport cost saving forgone by choosing desired rather than nearby food: $34.3m lower bound."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4567",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4567",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4567",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4567",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4567",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4567",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4567",
+    "before": null,
+    "after": "Observed food choice versus sourcing nearby loads: distance/cost counterfactual, pp.2009–10 and appendix Table12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4567",
+    "before": null,
+    "after": "Implemented illustration: at least1500km stated one-way travel reduction and $34.3m lower bound value of food choice. Actual feasible allocation mapping and competing-demand constraints not given, so unknown, not Other merely because counterfactual. Preserve apparent one-way/roundtrip inconsistency without repairing."
+  }
+]
+```
