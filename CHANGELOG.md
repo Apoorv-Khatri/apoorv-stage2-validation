@@ -1050171,3 +1050171,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:34:49.416606+00:00 — Review K8LUIIMP s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2643",
+    "before": null,
+    "after": "Observed log population density in 1895; Table4 col2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1064",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1064",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1064",
+    "before": null,
+    "after": "Model-based log real income → log population density; Table4 col2 eq41; coefficient 0.826, implied epsilon4.733."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1064",
+    "before": null,
+    "after": "pp.1290–1291. Excluded log colonial-route lowest-cost travel time to top-four port. Regression slope linear in reported log density; implied epsilon is a nonlinear reparameterization, not a second IV outcome. First stage diagnostic only."
+  }
+]
+```
