@@ -1044894,3 +1044894,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:58:46.152193+00:00 — Review IJCHBNI5 h7: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10496",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10497",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10496",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10497",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10496",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10497",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10496",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10497",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10496",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10497",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10496",
+    "before": null,
+    "after": "Church starts per town/city-year, shown separately by size and denomination"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10497",
+    "before": null,
+    "after": "Secular starts per town/city-year, shown separately by size and denomination"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4493",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4493",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4493",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4493",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4493",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4493",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4493",
+    "before": null,
+    "after": "Figure XII, pp.2087–2088: church/secular construction-rate shifts around Reformation separately in small towns and cities, and by denomination. Same-location size sample variants; city membership is Bairoch population-data availability, not invented population threshold."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4493",
+    "before": null,
+    "after": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Substantive robustness to large-city confounding; no formal small-town DiD coefficient shown. Independent audit: Final pp.2087–2088 use the four size-by-denomination paths to challenge urban confounding. No explicit difference-of-changes statistic is printed; the two size samples are routine variants. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator."
+  }
+]
+```

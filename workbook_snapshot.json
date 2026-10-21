@@ -45579,7 +45579,16 @@
     "L4492": "1",
     "M4492": "n/a",
     "N4492": "Figure XI, pp.2085–2086: Reformation-associated change in cumulative secular construction by specific purpose in 983 eventually Protestant towns; substantive null welfare/military shifts as well as ruler-favored increases.",
-    "O4492": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Introduction p.2043 makes absence of welfare/military reallocation central to excluding relabeling and religious-war explanations. Not a diagnostic pretrend-only exclusion. Independent audit: Final pp.2085–2086 use Protestant-only cumulative purpose paths to rule out military/welfare relabeling; no Catholic group is displayed here. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator."
+    "O4492": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Introduction p.2043 makes absence of welfare/military reallocation central to excluding relabeling and religious-war explanations. Not a diagnostic pretrend-only exclusion. Independent audit: Final pp.2085–2086 use Protestant-only cumulative purpose paths to rule out military/welfare relabeling; no Catholic group is displayed here. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator.",
+    "A4493": "IJCHBNI5",
+    "B4493": "h7",
+    "I4493": "1",
+    "J4493": "OLS",
+    "K4493": "1",
+    "L4493": "0",
+    "M4493": "n/a",
+    "N4493": "Figure XII, pp.2087–2088: church/secular construction-rate shifts around Reformation separately in small towns and cities, and by denomination. Same-location size sample variants; city membership is Bairoch population-data availability, not invented population threshold.",
+    "O4493": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Substantive robustness to large-city confounding; no formal small-town DiD coefficient shown. Independent audit: Final pp.2087–2088 use the four size-by-denomination paths to challenge urban confounding. No explicit difference-of-changes statistic is printed; the two size samples are routine variants. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117257,7 +117266,21 @@
     "H10495": "0",
     "I10495": "unknown",
     "J10495": "none",
-    "K10495": "Cumulative other secular construction"
+    "K10495": "Cumulative other secular construction",
+    "A10496": "IJCHBNI5",
+    "B10496": "h7",
+    "C10496": "hy1",
+    "H10496": "0",
+    "I10496": "unknown",
+    "J10496": "none",
+    "K10496": "Church starts per town/city-year, shown separately by size and denomination",
+    "A10497": "IJCHBNI5",
+    "B10497": "h7",
+    "C10497": "hy2",
+    "H10497": "0",
+    "I10497": "unknown",
+    "J10497": "none",
+    "K10497": "Secular starts per town/city-year, shown separately by size and denomination"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
