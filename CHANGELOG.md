@@ -1065249,3 +1065249,954 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:20:59.357645+00:00 — Review MCIJCXNF h1: source-audited coding and linked comparisons
+
+157 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9630",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9631",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9632",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9633",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9634",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9635",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9636",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9637",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9638",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9639",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9640",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9641",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9630",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9631",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9632",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9633",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9634",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9635",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9636",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9637",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9638",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9639",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9640",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9641",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9630",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9631",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9632",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9633",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9634",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9635",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9636",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9637",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9638",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9639",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9640",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9641",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9630",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9631",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9632",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9633",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9634",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9635",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9636",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9637",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9638",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9639",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9640",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9641",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9630",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9631",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9632",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9633",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9634",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9635",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9636",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9637",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9638",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9639",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9640",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9641",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9630",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9631",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9632",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9633",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9634",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9635",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9636",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9637",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9638",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9640",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9641",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9630",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: float, positive one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Full-employment nontraded-output reference level, not a reported unconditional mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9631",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: float, positive one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Own ergodic exchange-rate mean; exact no-shock horizon/state weights relative to the generalized-IRF target are not established by the final main text."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9632",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: float, negative one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Full-employment nontraded-output reference level, not a reported unconditional mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9633",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: float, negative one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Own ergodic exchange-rate mean; exact no-shock horizon/state weights relative to the generalized-IRF target are not established by the final main text."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9634",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: peg initially full employment, positive one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Full-employment nontraded-output reference level, not a reported unconditional mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9635",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: peg initially full employment, positive one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Own ergodic exchange-rate mean. Initial full-employment peg state differs from the ergodic distribution including unemployment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9636",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: peg initially full employment, negative one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Full-employment nontraded-output reference level, not a reported unconditional mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9637",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: peg initially full employment, negative one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Own ergodic exchange-rate mean. Initial full-employment peg state differs from the ergodic distribution including unemployment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9638",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: peg with slack, positive one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Full-employment nontraded-output reference level, not a reported unconditional mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9639",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: peg with slack, positive one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Own ergodic exchange-rate mean; exact no-shock horizon/state weights relative to the generalized-IRF target are not established by the final main text."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9640",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: peg with slack, negative one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Full-employment nontraded-output reference level, not a reported unconditional mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9641",
+    "before": null,
+    "after": "Final Fig.2 and fn12, pp.1660-61: peg with slack, negative one-SD spending shock, displayed eight-quarter response path; no digitized coefficients. Own ergodic exchange-rate mean; exact no-shock horizon/state weights relative to the generalized-IRF target are not established by the final main text."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9630",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9631",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9632",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9633",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9634",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9635",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9636",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9637",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9638",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9639",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9640",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9641",
+    "before": null,
+    "after": "Caption and footnote explicitly state the effect denominator; retain one qualitative normalized path, not an invented point grid. Construction-only exclusion alternative held for adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10668",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10669",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10670",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10671",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10668",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10669",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10670",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10671",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10668",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10669",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10670",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10671",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10668",
+    "before": null,
+    "after": "Government spending path, percent of full-employment nontraded output (not its own-outcome benchmark)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10669",
+    "before": null,
+    "after": "Nontraded output response, percent of full-employment nontraded output; Fig.2 second row. Includes null response under float."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10670",
+    "before": null,
+    "after": "Real exchange rate response, percent of its ergodic mean; Fig.2 third row. Decline means appreciation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10671",
+    "before": null,
+    "after": "Net exports response, percent of traded output; Fig.2 fourth row. Denominator is a different outcome, not own mean."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4570",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4570",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4570",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4570",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4570",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4570",
+    "before": null,
+    "after": "Calibrated nonlinear small-open-economy model generalized impulse responses to continuous government-spending shocks; Fig.2, pp.1659-61. Float, peg initially full employment, and peg with slack; positive and negative one-SD innovations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4570",
+    "before": null,
+    "after": "Nonlinear equilibrium with occasionally binding downward wage and debt constraints; calibrated Greek economy, one-million generalized-IRF replications. Not a randomized experiment. Numerical calibrated counterfactual is distinct from purely analytical proofs."
+  }
+]
+```
