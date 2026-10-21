@@ -44985,7 +44985,16 @@
     "L4437": "0",
     "M4437": "n/a",
     "N4437": "Table A1 p.1: new wording asymmetry (-1,0,+1); means of overbid, overbid >5%, and percentage price-gap outcomes, excluding shipping.",
-    "O4437": "Supplemental separately located robustness of causal wording argument; no-FE group means. Outcome construction separated from estimator. N=1691 versus Table3 N=1411; not identical sample."
+    "O4437": "Supplemental separately located robustness of causal wording argument; no-FE group means. Outcome construction separated from estimator. N=1691 versus Table3 N=1411; not identical sample.",
+    "A4438": "F64LTKPN",
+    "B4438": "h3",
+    "I4438": "1",
+    "J4438": "Other",
+    "K4438": "0",
+    "L4438": "0",
+    "M4438": "n/a",
+    "N4438": "Table A1 p.1: new wording asymmetry (-1,0,+1), median percentage price gap excluding shipping.",
+    "O4438": "Nonlinear median, separate from h2 mean columns."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116163,7 +116172,11 @@
     "A10401": "F64LTKPN",
     "B10401": "h2",
     "C10401": "hy3",
-    "K10401": "Percentage auction-BIN price gap relative to BIN; Table A1, excluding shipping."
+    "K10401": "Percentage auction-BIN price gap relative to BIN; Table A1, excluding shipping.",
+    "A10402": "F64LTKPN",
+    "B10402": "h3",
+    "C10402": "hy1",
+    "K10402": "Auction-BIN percentage price gap excluding shipping; Table A1 median column, +1/0/-1 = 5.11/-2.56/-4.60%."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -222119,7 +222132,29 @@
     "O9448": "0",
     "P9448": "unknown",
     "Q9448": "Table A1 p.1: new wording +1 versus -1 contrast in percentage price gap, endpoint levels 9.50% versus 0.01%; benchmark -1 BIN-only group mean 0.01%. Neutral group is not a separate endpoint benchmark. Difference not invented as a printed coefficient.",
-    "R9448": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment."
+    "R9448": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment.",
+    "A9449": "F64LTKPN",
+    "B9449": "h3",
+    "C9449": "hc1",
+    "K9449": "1",
+    "L9449": "hy1",
+    "M9449": "other_level",
+    "N9449": "0",
+    "O9449": "0",
+    "P9449": "n/a",
+    "Q9449": "Table A1 p.1: new wording endpoint median contrast 5.11% versus -4.60%; benchmark +1 median 5.11%.",
+    "R9449": "Median same-outcome endpoint; alignment n/a.",
+    "A9450": "F64LTKPN",
+    "B9450": "h3",
+    "C9450": "hc2",
+    "K9450": "1",
+    "L9450": "hy1",
+    "M9450": "other_level",
+    "N9450": "0",
+    "O9450": "0",
+    "P9450": "n/a",
+    "Q9450": "Table A1 p.1: new wording endpoint median contrast 5.11% versus -4.60%; benchmark -1 median -4.60%.",
+    "R9450": "Median same-outcome endpoint; alignment n/a."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
