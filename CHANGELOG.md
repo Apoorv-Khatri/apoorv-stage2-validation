@@ -1047753,3 +1047753,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:40:18.023289+00:00 — Review J83HLRWH s9: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1056",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1056",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1056",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1056",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1056",
+    "before": null,
+    "after": "Excluded predictive stock-forecast CU interaction scope (Online Appendix Table 9; Figure III bottom context), pp.2047,2053."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1056",
+    "before": null,
+    "after": "Parameter-specific author-intention adjudication: forecast text says predictive, whereas risk and controlled beliefs explicitly attribute biases to cognitive noise on pp.2047/2052. Shared theory and randomized threshold questions do not alone turn the CU interaction into a causal parameter. Exclusion is not based on weak identification. Broad common-mechanism inclusion remains an alternative for parent review."
+  }
+]
+```
