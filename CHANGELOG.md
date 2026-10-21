@@ -1050228,3 +1050228,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:35:16.081572+00:00 — Review K8LUIIMP s7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2644",
+    "before": null,
+    "after": "Share of agricultural land area allocated to cereal cultivation in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2645",
+    "before": null,
+    "after": "Share of agricultural land area allocated to other crop cultivation in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2646",
+    "before": null,
+    "after": "Share of agricultural land area allocated to purebred/mixed-breed cattle grazing in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2647",
+    "before": null,
+    "after": "Share of agricultural land area allocated to native-breed cattle grazing in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2648",
+    "before": null,
+    "after": "Share of agricultural land area allocated to purebred/mixed-breed sheep grazing in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2649",
+    "before": null,
+    "after": "Share of agricultural land area allocated to native-breed sheep grazing in 1914."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1065",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1065",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1065",
+    "before": null,
+    "after": "Log travel time to nearest top-four port using 1914 network → six agricultural land shares, Table5 col1 eq48. PPML, latitude and longitude controls; retain insignificant other crops and pure/mixed sheep."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1065",
+    "before": null,
+    "after": "pp.1294–1297. Nonlinear PPML rather than OLS; travel-time exponent corresponds to log travel time. Original row split from instrumented PPML col2; both Other, but distinct identifying implementation."
+  }
+]
+```
