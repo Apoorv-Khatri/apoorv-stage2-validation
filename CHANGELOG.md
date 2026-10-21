@@ -1066200,3 +1066200,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:21:26.317136+00:00 — Review MCIJCXNF h2: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10672",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10673",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10672",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10673",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10672",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10673",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10672",
+    "before": null,
+    "after": "Real output response to positive/negative spending shocks, Fig.D2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10673",
+    "before": null,
+    "after": "Real exchange rate response to positive/negative spending shocks, Fig.D2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4571",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4571",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4571",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4571",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4571",
+    "before": null,
+    "after": "EA spending-shock local projections excluding France, Germany and Italy; Fig.D2, final p.1671."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4571",
+    "before": null,
+    "after": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held."
+  }
+]
+```

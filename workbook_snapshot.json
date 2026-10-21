@@ -46532,7 +46532,16 @@
     "L4570": "1",
     "M4570": "n/a",
     "N4570": "Calibrated nonlinear small-open-economy model generalized impulse responses to continuous government-spending shocks; Fig.2, pp.1659-61. Float, peg initially full employment, and peg with slack; positive and negative one-SD innovations.",
-    "O4570": "Nonlinear equilibrium with occasionally binding downward wage and debt constraints; calibrated Greek economy, one-million generalized-IRF replications. Not a randomized experiment. Numerical calibrated counterfactual is distinct from purely analytical proofs."
+    "O4570": "Nonlinear equilibrium with occasionally binding downward wage and debt constraints; calibrated Greek economy, one-million generalized-IRF replications. Not a randomized experiment. Numerical calibrated counterfactual is distinct from purely analytical proofs.",
+    "A4571": "MCIJCXNF",
+    "B4571": "h2",
+    "I4571": "1",
+    "J4571": "Other",
+    "K4571": "0",
+    "L4571": "0",
+    "M4571": "n/a",
+    "N4571": "EA spending-shock local projections excluding France, Germany and Italy; Fig.D2, final p.1671.",
+    "O4571": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119284,7 +119293,15 @@
     "A10671": "MCIJCXNF",
     "B10671": "h1",
     "C10671": "hy4",
-    "K10671": "Net exports response, percent of traded output; Fig.2 fourth row. Denominator is a different outcome, not own mean."
+    "K10671": "Net exports response, percent of traded output; Fig.2 fourth row. Denominator is a different outcome, not own mean.",
+    "A10672": "MCIJCXNF",
+    "B10672": "h2",
+    "C10672": "hy1",
+    "K10672": "Real output response to positive/negative spending shocks, Fig.D2.",
+    "A10673": "MCIJCXNF",
+    "B10673": "h2",
+    "C10673": "hy2",
+    "K10673": "Real exchange rate response to positive/negative spending shocks, Fig.D2."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
