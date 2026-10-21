@@ -45260,7 +45260,16 @@
     "L4463": "0",
     "M4463": "n/a",
     "N4463": "Manual skill requirements effect on displaced-worker log earnings change; normalized dose, coefficient 0.0124. Location: Appendix C.2/Table A4 cols2–5 respectively, pp.20–22",
-    "O4463": "Distinct focal skill regressor; retain substantive nulls for social/manual. Computer column1 repeats Table3(2), not added. DN construction prose says 2007–2019, generic formula says 2007–2017: preserve timing conflict. No qualifying outcome benchmark."
+    "O4463": "Distinct focal skill regressor; retain substantive nulls for social/manual. Computer column1 repeats Table3(2), not added. DN construction prose says 2007–2019, generic formula says 2007–2017: preserve timing conflict. No qualifying outcome benchmark.",
+    "A4464": "F9IA5GIP",
+    "B4464": "h13",
+    "I4464": "1",
+    "J4464": "OLS",
+    "K4464": "0",
+    "L4464": "1",
+    "M4464": "n/a",
+    "N4464": "Exposure effect on switching to an occupation with lower computer/software requirements (2007 levels), among occupation switchers; 0.0661, 0.0665, 0.0429. Location: Appendix C.3.1/Table A5, pp.23–24",
+    "O4464": "Table note restricts to switchers despite prose defining an indicator for switch AND lower requirements. Preserve conditional sample; N=4310/4494 differs from simple 63.1% of main sample. Not an unconditional transition probability. No linked table mean."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116589,7 +116598,11 @@
     "A10437": "F9IA5GIP",
     "B10437": "h12",
     "C10437": "hy1",
-    "K10437": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+    "K10437": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome.",
+    "A10438": "F9IA5GIP",
+    "B10438": "h13",
+    "C10438": "hy1",
+    "K10438": "Indicator for new occupation having lower 2007 computer/software requirement share than prior occupation, conditional on switching."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

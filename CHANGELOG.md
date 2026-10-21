@@ -1038972,3 +1038972,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:10:38.331077+00:00 — Review F9IA5GIP h13: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10438",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10438",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10438",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10438",
+    "before": null,
+    "after": "Indicator for new occupation having lower 2007 computer/software requirement share than prior occupation, conditional on switching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4464",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4464",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4464",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4464",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4464",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4464",
+    "before": null,
+    "after": "Exposure effect on switching to an occupation with lower computer/software requirements (2007 levels), among occupation switchers; 0.0661, 0.0665, 0.0429. Location: Appendix C.3.1/Table A5, pp.23–24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4464",
+    "before": null,
+    "after": "Table note restricts to switchers despite prose defining an indicator for switch AND lower requirements. Preserve conditional sample; N=4310/4494 differs from simple 63.1% of main sample. Not an unconditional transition probability. No linked table mean."
+  }
+]
+```
