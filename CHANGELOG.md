@@ -1051158,3 +1051158,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:40:12.216735+00:00 — Review K8LUIIMP h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10547",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10547",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10547",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10547",
+    "before": null,
+    "after": "Constructed log growth of adjusted agricultural productivity scaled by the tradeables price index; left side eq54."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4527",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4527",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4527",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4527",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4527",
+    "before": null,
+    "after": "Table6 col3 eq54, pp.1300–1302: predicted agricultural productivity from land shares → constructed log adjusted-productivity growth scaled by tradeables-price change; slope0.315 implies dispersion3.176."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4527",
+    "before": null,
+    "after": "Retain structurally interpreted slope1/theta, not a pure fit diagnostic. Conditional linearity in the reported constructed outcome; full generated-outcome calibration is nonlinear and remains an explicit taxonomy alternative. Inverting0.315 to theta is not another outcome benchmark."
+  }
+]
+```

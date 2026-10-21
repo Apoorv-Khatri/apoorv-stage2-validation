@@ -46027,7 +46027,16 @@
     "L4526": "1",
     "M4526": "n/a",
     "N4526": "Table5 col2: instrumented PPML of six agricultural land shares on log actual travel time; colonial-route log travel time excluded, latitude/longitude controls.",
-    "O4526": "All specifications explicitly PPML in table note, hence nonlinear method Other despite IV designation. IV-type field n/a follows method taxonomy; actual excluded variable documented here. Exact IV-PPML implementation not claimed to be linear2SLS."
+    "O4526": "All specifications explicitly PPML in table note, hence nonlinear method Other despite IV designation. IV-type field n/a follows method taxonomy; actual excluded variable documented here. Exact IV-PPML implementation not claimed to be linear2SLS.",
+    "A4527": "K8LUIIMP",
+    "B4527": "h8",
+    "I4527": "1",
+    "J4527": "OLS",
+    "K4527": "0",
+    "L4527": "1",
+    "M4527": "n/a",
+    "N4527": "Table6 col3 eq54, pp.1300–1302: predicted agricultural productivity from land shares → constructed log adjusted-productivity growth scaled by tradeables-price change; slope0.315 implies dispersion3.176.",
+    "O4527": "Retain structurally interpreted slope1/theta, not a pure fit diagnostic. Conditional linearity in the reported constructed outcome; full generated-outcome calibration is nonlinear and remains an explicit taxonomy alternative. Inverting0.315 to theta is not another outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118044,7 +118053,11 @@
     "A10546": "K8LUIIMP",
     "B10546": "h7",
     "C10546": "hy6",
-    "K10546": "Share of agricultural land area allocated to native-breed sheep grazing in 1914."
+    "K10546": "Share of agricultural land area allocated to native-breed sheep grazing in 1914.",
+    "A10547": "K8LUIIMP",
+    "B10547": "h8",
+    "C10547": "hy1",
+    "K10547": "Constructed log growth of adjusted agricultural productivity scaled by the tradeables price index; left side eq54."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
