@@ -44967,7 +44967,16 @@
     "L4435": "0",
     "M4435": "n/a",
     "N4435": "Randomized continuous tax-rate effects on compliance, interacted with collector-pair assignment: cited Figure B18 caption / Eq. (8) replacing collector by collector-pair indicators. Underlying linear/quadratic compliance-response schedule, separated from nonlinear RMTR recovery.",
-    "O4435": "Direct randomized rate-response coefficients are linear in compliance even with quadratic regressors. No coefficient values or mean benchmarks invented. Distinct from discrete abatement-arm contrasts in B11/B12 and from ratio/root recovery."
+    "O4435": "Direct randomized rate-response coefficients are linear in compliance even with quadratic regressors. No coefficient values or mean benchmarks invented. Distinct from discrete abatement-arm contrasts in B11/B12 and from ratio/root recovery.",
+    "A4436": "F64LTKPN",
+    "B4436": "h1",
+    "I4436": "1",
+    "J4436": "Other",
+    "K4436": "0",
+    "L4436": "1",
+    "M4436": "n/a",
+    "N4436": "Table3 p.1189: new wording asymmetry (-1,0,+1) and median auction-BIN percentage price gap including shipping.",
+    "O4436": "Same mechanism as s1, distinct nonlinear median estimator. Conditional on reported auction-level gaps, medians remain nonlinear; not a new median dependent-variable mean regression."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116129,7 +116138,11 @@
     "H10397": "1",
     "I10397": "1",
     "J10397": "none",
-    "K10397": "Property-level compliance indicator in the collector-pair-specific continuous randomized tax-rate schedule."
+    "K10397": "Property-level compliance indicator in the collector-pair-specific continuous randomized tax-rate schedule.",
+    "A10398": "F64LTKPN",
+    "B10398": "h1",
+    "C10398": "hy1",
+    "K10398": "Auction-BIN percentage price gap; median contrast in Table3, not mean. +1/0/-1 medians 5.88/-3.74/-4.36 percent."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -221997,7 +222010,29 @@
     "O9440": "0",
     "P9440": "unknown",
     "Q9440": "Table3 p.1189: new wording +1 versus -1 contrast in percentage price gap, endpoint levels 11.81% versus -3.17%; benchmark -1 BIN-only group mean -3.17%. Neutral group is not a separate endpoint benchmark. Difference not invented as a printed coefficient.",
-    "R9440": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment."
+    "R9440": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment.",
+    "A9441": "F64LTKPN",
+    "B9441": "h1",
+    "C9441": "hc1",
+    "K9441": "1",
+    "L9441": "hy1",
+    "M9441": "other_level",
+    "N9441": "0",
+    "O9441": "0",
+    "P9441": "n/a",
+    "Q9441": "Table3 p.1189: new wording endpoint median contrast 5.88% versus -4.36%; benchmark +1 median 5.88%.",
+    "R9441": "Median same-outcome endpoint; alignment n/a.",
+    "A9442": "F64LTKPN",
+    "B9442": "h1",
+    "C9442": "hc2",
+    "K9442": "1",
+    "L9442": "hy1",
+    "M9442": "other_level",
+    "N9442": "0",
+    "O9442": "0",
+    "P9442": "n/a",
+    "Q9442": "Table3 p.1189: new wording endpoint median contrast 5.88% versus -4.36%; benchmark -1 median -4.36%.",
+    "R9442": "Median same-outcome endpoint; alignment n/a."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

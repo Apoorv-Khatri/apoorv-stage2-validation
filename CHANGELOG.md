@@ -1032036,3 +1032036,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:24:39.609686+00:00 — Review F64LTKPN h1: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9441",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9442",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9441",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9442",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9441",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9442",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9442",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9441",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9442",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9441",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9442",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9441",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9442",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9441",
+    "before": null,
+    "after": "Table3 p.1189: new wording endpoint median contrast 5.88% versus -4.36%; benchmark +1 median 5.88%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9442",
+    "before": null,
+    "after": "Table3 p.1189: new wording endpoint median contrast 5.88% versus -4.36%; benchmark -1 median -4.36%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9441",
+    "before": null,
+    "after": "Median same-outcome endpoint; alignment n/a."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9442",
+    "before": null,
+    "after": "Median same-outcome endpoint; alignment n/a."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10398",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10398",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10398",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10398",
+    "before": null,
+    "after": "Auction-BIN percentage price gap; median contrast in Table3, not mean. +1/0/-1 medians 5.88/-3.74/-4.36 percent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4436",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4436",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4436",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4436",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4436",
+    "before": null,
+    "after": "Table3 p.1189: new wording asymmetry (-1,0,+1) and median auction-BIN percentage price gap including shipping."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4436",
+    "before": null,
+    "after": "Same mechanism as s1, distinct nonlinear median estimator. Conditional on reported auction-level gaps, medians remain nonlinear; not a new median dependent-variable mean regression."
+  }
+]
+```
