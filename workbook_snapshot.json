@@ -45395,7 +45395,16 @@
     "L4478": "0",
     "M4478": "n/a",
     "N4478": "Exposure effect on losing full-time work after displacement among previously full-time and currently employed workers; -0.0357,-0.0374,-0.0160. Location: Appendix C.11.3/Table A19 pp.45–47",
-    "O4478": "Table occupation row AD/AD/AD conflicts with notes SOC-4/SOC-4/AD; visually verified and retained literally. Supporting wages-versus-hours mechanism. No qualifying benchmark."
+    "O4478": "Table occupation row AD/AD/AD conflicts with notes SOC-4/SOC-4/AD; visually verified and retained literally. Supporting wages-versus-hours mechanism. No qualifying benchmark.",
+    "A4479": "F9IA5GIP",
+    "B4479": "h28",
+    "I4479": "1",
+    "J4479": "OLS",
+    "K4479": "0",
+    "L4479": "0",
+    "M4479": "n/a",
+    "N4479": "Exposure effect on log earnings losses under alternative weights (DWS, occupation ACS employment, CPS final person, unweighted). Location: Appendix C.11.4/Table A20 pp.46–48",
+    "O4479": "Column1 repeats Table3(2); cols2–4 substantive separately located weighting robustness, same OLS method. Coefficients -0.0373,-0.0343,-0.0425; no linked outcome mean/SD. Weights do not turn regression into causal matching."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116840,7 +116849,11 @@
     "A10466": "F9IA5GIP",
     "B10466": "h27",
     "C10466": "hy1",
-    "K10466": "Indicator losing full-time work after displacement."
+    "K10466": "Indicator losing full-time work after displacement.",
+    "A10467": "F9IA5GIP",
+    "B10467": "h28",
+    "C10467": "hy1",
+    "K10467": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
