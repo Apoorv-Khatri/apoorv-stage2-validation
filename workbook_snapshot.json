@@ -567,6 +567,7 @@
     "B118": "Technological Change and the Consequences of Job Loss",
     "C118": "econ",
     "D118": 6,
+    "E118": "DONE — Source-scoped review of full 38-page final article and official 65-page appendix, independently audited. Technology exposure slopes retained under parameter-specific author-intention gate, substantive nulls and stayer gains included. Main OLS uses reported outcomes; state/year dummy counts alone do not establish identifying HDFE. Conditional versus full raw-outcome procedure alternatives explicit. Figure3 adjustment not established: separate locations retained without claiming verified raw versus adjusted estimators. Figure2/A9 endpoint pairings symmetric; exposed endpoints alignment0, lower targets unknown, regression-direction conflicts retained. Nine sequential structural endpoint comparisons added consistently with graphical policy; no all-bars grid, joint-removal or ladder-off simulation invented. Residual ladder attribution distinct from simulated interventions; equilibrium counterfactuals Other, SSA–ASEC event-time effects conventional DiD and fixed-discount PDV retains linear DiD classification. PDV first-five-years prose versus j=0..5 formula conflict preserved. Switching-regressor causal intent, diagnostic-fit/data-bar alternatives and unnamed upon-request outcomes remain held. Printed occupation-code, calibration, exposure-period and regression-direction conflicts retained, outcome-inappropriate preprocessing notes corrected. Code landing remained403/security-verification; no code inspection or empirical replication. Original model fields/IDs/links preserved; source-scoped completion not omission-free certification.",
     "A119": "IJCHBNI5",
     "B119": "Religious Competition and Reallocation: the Political Economy of Secularization in the Protestant Reformation*",
     "C119": "econ",
@@ -45458,7 +45459,16 @@
     "L4485": "1",
     "M4485": "n/a",
     "N4485": "Continuous technological-change exposure interaction with layoff event time; differential annual earnings path among all laid-off workers, occupation switchers and stayers; retain stayer null. Location: Appendix E eq7/Figure A13B–D pp.60–63",
-    "O4485": "Same equation/result figure and routine subgroup estimates grouped. Source reports mean-dose versus zero-dose layoff-effect paths, average $3k/year differential; graph Y-axis Earnings Loss and caption coefficient estimates. These are effect-to-effect comparisons, not same-outcome level benchmarks. Post-displacement switching selection retained, not randomized. No fabricated annual coefficients."
+    "O4485": "Same equation/result figure and routine subgroup estimates grouped. Source reports mean-dose versus zero-dose layoff-effect paths, average $3k/year differential; graph Y-axis Earnings Loss and caption coefficient estimates. These are effect-to-effect comparisons, not same-outcome level benchmarks. Post-displacement switching selection retained, not randomized. No fabricated annual coefficients.",
+    "A4486": "F9IA5GIP",
+    "B4486": "h35",
+    "I4486": "1",
+    "J4486": "DiD_conventional",
+    "K4486": "0",
+    "L4486": "1",
+    "M4486": "n/a",
+    "N4486": "Present-discounted loss differential by continuous technological exposure, aggregating eq7 years0–5 with fixed r=5%; zero-dose PDV $24,733.57 versus mean-dose $40,892.10. Location: Appendix E pp.61–62 PDV formula",
+    "O4486": "Fixed linear combination of conventional DiD coefficients remains linear in reported annual earnings; not Other simply because PDV or formula. Both stated dollar values are estimated layoff losses, not untreated earnings levels; exclude effect-to-effect benchmark. Parent exposure nonbinary despite two doses illustrated. Literal horizon conflict: prose says first 5-years after layoff but formula sums j=0 through 5; preserve formula scope without silently relabeling it as five observations."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116940,7 +116950,11 @@
     "A10473": "F9IA5GIP",
     "B10473": "h34",
     "C10473": "hy1",
-    "K10473": "Annual W2 earnings, 2019 dollars; exposure-dependent layoff effects through year5, all laid-off and switching strata."
+    "K10473": "Annual W2 earnings, 2019 dollars; exposure-dependent layoff effects through year5, all laid-off and switching strata.",
+    "A10474": "F9IA5GIP",
+    "B10474": "h35",
+    "C10474": "hy1",
+    "K10474": "Present-discounted sum of annual earnings effects, years0–5, 2019 dollars, r=5%."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -1042332,3 +1042332,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:22:36.231478+00:00 — Review F9IA5GIP h35: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10474",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10474",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10474",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10474",
+    "before": null,
+    "after": "Present-discounted sum of annual earnings effects, years0–5, 2019 dollars, r=5%."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E118",
+    "before": null,
+    "after": "DONE — Source-scoped review of full 38-page final article and official 65-page appendix, independently audited. Technology exposure slopes retained under parameter-specific author-intention gate, substantive nulls and stayer gains included. Main OLS uses reported outcomes; state/year dummy counts alone do not establish identifying HDFE. Conditional versus full raw-outcome procedure alternatives explicit. Figure3 adjustment not established: separate locations retained without claiming verified raw versus adjusted estimators. Figure2/A9 endpoint pairings symmetric; exposed endpoints alignment0, lower targets unknown, regression-direction conflicts retained. Nine sequential structural endpoint comparisons added consistently with graphical policy; no all-bars grid, joint-removal or ladder-off simulation invented. Residual ladder attribution distinct from simulated interventions; equilibrium counterfactuals Other, SSA–ASEC event-time effects conventional DiD and fixed-discount PDV retains linear DiD classification. PDV first-five-years prose versus j=0..5 formula conflict preserved. Switching-regressor causal intent, diagnostic-fit/data-bar alternatives and unnamed upon-request outcomes remain held. Printed occupation-code, calibration, exposure-period and regression-direction conflicts retained, outcome-inappropriate preprocessing notes corrected. Code landing remained403/security-verification; no code inspection or empirical replication. Original model fields/IDs/links preserved; source-scoped completion not omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4486",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4486",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4486",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4486",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4486",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4486",
+    "before": null,
+    "after": "Present-discounted loss differential by continuous technological exposure, aggregating eq7 years0–5 with fixed r=5%; zero-dose PDV $24,733.57 versus mean-dose $40,892.10. Location: Appendix E pp.61–62 PDV formula"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4486",
+    "before": null,
+    "after": "Fixed linear combination of conventional DiD coefficients remains linear in reported annual earnings; not Other simply because PDV or formula. Both stated dollar values are estimated layoff losses, not untreated earnings levels; exclude effect-to-effect benchmark. Parent exposure nonbinary despite two doses illustrated. Literal horizon conflict: prose says first 5-years after layoff but formula sums j=0 through 5; preserve formula scope without silently relabeling it as five observations."
+  }
+]
+```
