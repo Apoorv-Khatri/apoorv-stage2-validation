@@ -44994,7 +44994,16 @@
     "L4438": "0",
     "M4438": "n/a",
     "N4438": "Table A1 p.1: new wording asymmetry (-1,0,+1), median percentage price gap excluding shipping.",
-    "O4438": "Nonlinear median, separate from h2 mean columns."
+    "O4438": "Nonlinear median, separate from h2 mean columns.",
+    "A4439": "F64LTKPN",
+    "B4439": "h4",
+    "I4439": "1",
+    "J4439": "Other",
+    "K4439": "0",
+    "L4439": "0",
+    "M4439": "n/a",
+    "N4439": "Table A1 p.1: new wording asymmetry (-1,0,+1), mean percentage gap after excluding top/bottom 1% outcome outliers.",
+    "O4439": "Full reported procedure selects observations by realized percentage price gaps, so outcome-adaptive trimmed mean is Other. Conditional-on-selected-sample OLS is the explicit alternative. Caption says products; A3/A4 say auction-BIN pairs and A1 points to A3 despite excluding fees; preserve conflict."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116176,7 +116185,11 @@
     "A10402": "F64LTKPN",
     "B10402": "h3",
     "C10402": "hy1",
-    "K10402": "Auction-BIN percentage price gap excluding shipping; Table A1 median column, +1/0/-1 = 5.11/-2.56/-4.60%."
+    "K10402": "Auction-BIN percentage price gap excluding shipping; Table A1 median column, +1/0/-1 = 5.11/-2.56/-4.60%.",
+    "A10403": "F64LTKPN",
+    "B10403": "h4",
+    "C10403": "hy1",
+    "K10403": "Percentage auction-BIN price gap excluding shipping, trimmed on realized gaps; +1/0/-1 means 10.07/4.10/1.49%."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -222154,7 +222167,29 @@
     "O9450": "0",
     "P9450": "n/a",
     "Q9450": "Table A1 p.1: new wording endpoint median contrast 5.11% versus -4.60%; benchmark -1 median -4.60%.",
-    "R9450": "Median same-outcome endpoint; alignment n/a."
+    "R9450": "Median same-outcome endpoint; alignment n/a.",
+    "A9451": "F64LTKPN",
+    "B9451": "h4",
+    "C9451": "hc1",
+    "K9451": "1",
+    "L9451": "hy1",
+    "M9451": "outcome_mean",
+    "N9451": "0",
+    "O9451": "0",
+    "P9451": "0",
+    "Q9451": "Table A1 p.1 trimmed mean new wording contrast 10.07% versus 1.49%; benchmark +1 trimmed mean 10.07%.",
+    "R9451": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed.",
+    "A9452": "F64LTKPN",
+    "B9452": "h4",
+    "C9452": "hc2",
+    "K9452": "1",
+    "L9452": "hy1",
+    "M9452": "outcome_mean",
+    "N9452": "0",
+    "O9452": "0",
+    "P9452": "unknown",
+    "Q9452": "Table A1 p.1 trimmed mean new wording contrast 10.07% versus 1.49%; benchmark -1 trimmed mean 1.49%.",
+    "R9452": "Outcome-selected trimming: target/weights unresolved; unknown alignment. Eligibility follows the same endpoint-pairing rule as untrimmed columns, method Other."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

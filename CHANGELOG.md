@@ -1033005,3 +1033005,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:26:06.825234+00:00 — Review F64LTKPN h4: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9451",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9452",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9451",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9452",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9451",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9452",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9451",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9452",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9451",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9452",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9452",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9451",
+    "before": null,
+    "after": "Table A1 p.1 trimmed mean new wording contrast 10.07% versus 1.49%; benchmark +1 trimmed mean 10.07%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9452",
+    "before": null,
+    "after": "Table A1 p.1 trimmed mean new wording contrast 10.07% versus 1.49%; benchmark -1 trimmed mean 1.49%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9451",
+    "before": null,
+    "after": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9452",
+    "before": null,
+    "after": "Outcome-selected trimming: target/weights unresolved; unknown alignment. Eligibility follows the same endpoint-pairing rule as untrimmed columns, method Other."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10403",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10403",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10403",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10403",
+    "before": null,
+    "after": "Percentage auction-BIN price gap excluding shipping, trimmed on realized gaps; +1/0/-1 means 10.07/4.10/1.49%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4439",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4439",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4439",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4439",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4439",
+    "before": null,
+    "after": "Table A1 p.1: new wording asymmetry (-1,0,+1), mean percentage gap after excluding top/bottom 1% outcome outliers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4439",
+    "before": null,
+    "after": "Full reported procedure selects observations by realized percentage price gaps, so outcome-adaptive trimmed mean is Other. Conditional-on-selected-sample OLS is the explicit alternative. Caption says products; A3/A4 say auction-BIN pairs and A1 points to A3 despite excluding fees; preserve conflict."
+  }
+]
+```
