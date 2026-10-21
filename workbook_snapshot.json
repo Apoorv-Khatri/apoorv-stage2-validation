@@ -45233,7 +45233,16 @@
     "L4460": "0",
     "M4460": "n/a",
     "N4460": "Broad Deming–Noray skill turnover effect on displaced-worker log earnings change; normalized dose, coefficient -0.0490. Location: Appendix C.2/Table A4 cols2–5 respectively, pp.20–22",
-    "O4460": "Distinct focal skill regressor; retain substantive nulls for social/manual. Computer column1 repeats Table3(2), not added. DN construction prose says 2007–2019, generic formula says 2007–2017: preserve timing conflict. No qualifying outcome benchmark."
+    "O4460": "Distinct focal skill regressor; retain substantive nulls for social/manual. Computer column1 repeats Table3(2), not added. DN construction prose says 2007–2019, generic formula says 2007–2017: preserve timing conflict. No qualifying outcome benchmark.",
+    "A4461": "F9IA5GIP",
+    "B4461": "h10",
+    "I4461": "1",
+    "J4461": "OLS",
+    "K4461": "0",
+    "L4461": "0",
+    "M4461": "n/a",
+    "N4461": "Cognitive skill requirements effect on displaced-worker log earnings change; normalized dose, coefficient -0.0228. Location: Appendix C.2/Table A4 cols2–5 respectively, pp.20–22",
+    "O4461": "Distinct focal skill regressor; retain substantive nulls for social/manual. Computer column1 repeats Table3(2), not added. DN construction prose says 2007–2019, generic formula says 2007–2017: preserve timing conflict. No qualifying outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116550,7 +116559,11 @@
     "A10434": "F9IA5GIP",
     "B10434": "h9",
     "C10434": "hy1",
-    "K10434": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+    "K10434": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome.",
+    "A10435": "F9IA5GIP",
+    "B10435": "h10",
+    "C10435": "hy1",
+    "K10435": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
