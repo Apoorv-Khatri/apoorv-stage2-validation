@@ -1061328,3 +1061328,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:45:05.983404+00:00 — Review KRMMS6YI h3: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10634",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10635",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10636",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10634",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10635",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10636",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10634",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10635",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10636",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10635",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10636",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10634",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10635",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10636",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10634",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10635",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10636",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10634",
+    "before": null,
+    "after": "Ex-ante weighted absolute proportional deviation from old-rule food/client allocation: average 1.26; appendix periodic At series."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10635",
+    "before": null,
+    "after": "Permanent-component absolute proportional allocation deviation: ex-ante .87 (69% of total), ex-post actual-allocation-weighted 7.28 and 1.9 excluding four outlier banks; main p.2005 and appendix PDF11. Explicitly implemented variants of this same permanent outcome, not held as missing or invented additional outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10636",
+    "before": null,
+    "after": "Ex-post actual-allocation weighted absolute proportional deviation: 7.93, 2.63 excluding four outliers; appendix pp.9–11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4563",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4563",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4563",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4563",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4563",
+    "before": null,
+    "after": "Choice allocation versus old equal-pounds-per-client rule: absolute proportional allocation dispersion; main eq.(1)/Section V, appendix pp.9–11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4563",
+    "before": null,
+    "after": "Actual minus old-rule allocation is explicitly attributed to Choice (p.2005). Absolute values, own-rule denominators and ex-post weights yield nonlinear full statistic. Not merely descriptive variance. Overall 1.26, permanent .87; ex-post 7.93/7.28 and outlier exclusion 2.63/1.9. No manufactured period comparison grid; normalization eligibility held separately."
+  }
+]
+```
