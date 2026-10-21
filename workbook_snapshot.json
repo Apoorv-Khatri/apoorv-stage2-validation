@@ -45359,7 +45359,16 @@
     "L4474": "0",
     "M4474": "n/a",
     "N4474": "1982–2000 standardized newspaper computer/software exposure effect on probability of displacement; retain null in cols1–4. Location: Appendix C.9/Table A15 pp.40–41",
-    "O4474": "Year dummies are routine controls for calendar variation, not an independently argued identifying-FE design. OLS across columns; no automatic FE split. Table A13 descriptive statistics not linked comparison."
+    "O4474": "Year dummies are routine controls for calendar variation, not an independently argued identifying-FE design. OLS across columns; no automatic FE split. Table A13 descriptive statistics not linked comparison.",
+    "A4475": "F9IA5GIP",
+    "B4475": "h24",
+    "I4475": "1",
+    "J4475": "OLS",
+    "K4475": "0",
+    "L4475": "0",
+    "M4475": "n/a",
+    "N4475": "Technological-change exposure effect on being employed after displacement; null, full displaced sample. Location: Appendix C.10/Table A16 p.42",
+    "O4475": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116776,7 +116785,11 @@
     "A10459": "F9IA5GIP",
     "B10459": "h23",
     "C10459": "hy1",
-    "K10459": "Indicator displaced worker in 1982–2000 DWS."
+    "K10459": "Indicator displaced worker in 1982–2000 DWS.",
+    "A10460": "F9IA5GIP",
+    "B10460": "h24",
+    "C10460": "hy1",
+    "K10460": "Indicator employed at DWS survey after displacement."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
