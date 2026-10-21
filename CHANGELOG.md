@@ -1064961,3 +1064961,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:18:17.723647+00:00 — Review MCIJCXNF s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1078",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1078",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1078",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1078",
+    "before": null,
+    "after": "Annual military-spending changes, percent of prior-year output, entered directly into an annual version of Eq.(4.2); Fig.5, pp.1671-72. Source dataset covers 125 countries (1989-2013); estimation focuses on its fixed-exchange-rate observations, not necessarily all 125 countries."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1078",
+    "before": null,
+    "after": "FE retained on explicit annual version of Eq.(4.2), which includes country and time effects; no separate no-FE implementation is established. No generated VAR shocks here. The common-shock rationale is explicit for EA, less explicit for this wider annual sample; OLS is the alternative if inherited effects are judged incidental. Main=1: introduction p.1645 explicitly makes this one-step, broader-country corroboration central. Continuous signed dose, not binary; no excluded instrument. Exact pegged-country count not reported here."
+  }
+]
+```
