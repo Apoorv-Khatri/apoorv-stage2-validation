@@ -45431,7 +45431,16 @@
     "L4482": "0",
     "M4482": "n/a",
     "N4482": "Additional removal of occupation-specific human capital after removing technology in 15- and20-occupation calibrated models; baseline10 repeats main decomposition. Location: Appendix D.7/Table A24 cols2–3 p.57",
-    "O4482": "Nonlinear structural equilibrium procedure. Distinct mechanism; number-of-occupation variants grouped. Full-model denominator is exposed to technology and experience; mismatched regime for component counterfactual. No fabricated ladder-off simulation."
+    "O4482": "Nonlinear structural equilibrium procedure. Distinct mechanism; number-of-occupation variants grouped. Full-model denominator is exposed to technology and experience; mismatched regime for component counterfactual. No fabricated ladder-off simulation.",
+    "A4483": "F9IA5GIP",
+    "B4483": "h32",
+    "I4483": "1",
+    "J4483": "Other",
+    "K4483": "unknown",
+    "L4483": "0",
+    "M4483": "n/a",
+    "N4483": "Residual wage-ladder attribution in no-technology/no-experience model in 15- and20-occupation calibrated models; baseline10 repeats main decomposition. Location: Appendix D.7/Table A24 cols2–3 p.57",
+    "O4483": "Nonlinear structural equilibrium procedure. Distinct mechanism; number-of-occupation variants grouped. Full-model denominator is exposed to technology and experience; mismatched regime for component counterfactual. No fabricated ladder-off simulation."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116898,7 +116907,11 @@
     "H10470": "0",
     "I10470": "unknown",
     "J10470": "other",
-    "K10470": "Model average percentage earnings loss two years after layoff among re-employed agents."
+    "K10470": "Model average percentage earnings loss two years after layoff among re-employed agents.",
+    "A10471": "F9IA5GIP",
+    "B10471": "h32",
+    "C10471": "hy1",
+    "K10471": "Model residual average percentage earnings loss two years after layoff."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -223565,7 +223578,29 @@
     "O9510": "0",
     "P9510": "unknown",
     "Q9510": "Appendix A24 panel A col3, printed p.57, 20 occupations: experience-presence contrast in no-technology regime between -4.31% and -1.70% earnings change, paired with experience-absent model mean -1.70%. Separate from normalization by full-model -7.54%; no endpoint ratio printed.",
-    "R9510": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+    "R9510": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known.",
+    "A9511": "F9IA5GIP",
+    "B9511": "h32",
+    "C9511": "hc1",
+    "K9511": "1",
+    "L9511": "hy1",
+    "M9511": "outcome_mean",
+    "N9511": "0",
+    "O9511": "1",
+    "P9511": "0",
+    "Q9511": "Appendix Table A24 col2, 15 occupations: full loss 7.69%, no-technology 4.36%, no-technology/no-experience 1.53%; printed ladder contribution 19.9% of full-model average loss.",
+    "R9511": "Technology contributions explicitly verbalized p.57; other components paired/normalized in panel B only.",
+    "A9512": "F9IA5GIP",
+    "B9512": "h32",
+    "C9512": "hc2",
+    "K9512": "1",
+    "L9512": "hy1",
+    "M9512": "outcome_mean",
+    "N9512": "0",
+    "O9512": "1",
+    "P9512": "0",
+    "Q9512": "Appendix Table A24 col3, 20 occupations: full loss 7.54%, no-technology 4.31%, no-technology/no-experience 1.70%; printed ladder contribution 22.5% of full-model average loss.",
+    "R9512": "Technology contributions explicitly verbalized p.57; other components paired/normalized in panel B only."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

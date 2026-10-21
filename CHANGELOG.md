@@ -1041921,3 +1041921,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:21:09.661678+00:00 — Review F9IA5GIP h32: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9511",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9512",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9511",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9512",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9511",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9512",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9511",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9512",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9511",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9512",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9511",
+    "before": null,
+    "after": "Appendix Table A24 col2, 15 occupations: full loss 7.69%, no-technology 4.36%, no-technology/no-experience 1.53%; printed ladder contribution 19.9% of full-model average loss."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9512",
+    "before": null,
+    "after": "Appendix Table A24 col3, 20 occupations: full loss 7.54%, no-technology 4.31%, no-technology/no-experience 1.70%; printed ladder contribution 22.5% of full-model average loss."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9511",
+    "before": null,
+    "after": "Technology contributions explicitly verbalized p.57; other components paired/normalized in panel B only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9512",
+    "before": null,
+    "after": "Technology contributions explicitly verbalized p.57; other components paired/normalized in panel B only."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10471",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10471",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10471",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10471",
+    "before": null,
+    "after": "Model residual average percentage earnings loss two years after layoff."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4483",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4483",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4483",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4483",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4483",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4483",
+    "before": null,
+    "after": "Residual wage-ladder attribution in no-technology/no-experience model in 15- and20-occupation calibrated models; baseline10 repeats main decomposition. Location: Appendix D.7/Table A24 cols2–3 p.57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4483",
+    "before": null,
+    "after": "Nonlinear structural equilibrium procedure. Distinct mechanism; number-of-occupation variants grouped. Full-model denominator is exposed to technology and experience; mismatched regime for component counterfactual. No fabricated ladder-off simulation."
+  }
+]
+```
