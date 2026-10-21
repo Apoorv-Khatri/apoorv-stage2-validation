@@ -1047855,3 +1047855,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:41:18.613680+00:00 — Review J83HLRWH s11: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10514",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10514",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10514",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10514",
+    "before": null,
+    "after": "Log posterior odds: log-odds portion of Table IV replicated in Online Appendix Table 8 per p.2056. Exact instrument-set splits held pending supplement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2632",
+    "before": null,
+    "after": "Posterior belief in percent: level-outcome portion of Table IV replicated in Online Appendix Table 8 per p.2056; log-odds outcome separated as hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1058",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1058",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1058",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1058",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1058",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1058",
+    "before": null,
+    "after": "Beliefs A: repeated-elicitation CU interactions instrument main-elicitation CU interactions to address attenuation; p.2056, Online Appendix Table 8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1058",
+    "before": null,
+    "after": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Main text names interaction instruments but does not settle the complete excluded-instrument set by column; full Grether may use multiple nonbinary interactions. Do not infer a single instrument from a fitted index."
+  }
+]
+```
