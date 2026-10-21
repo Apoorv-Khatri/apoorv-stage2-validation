@@ -1042140,3 +1042140,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:21:38.318306+00:00 — Review F9IA5GIP h33: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10472",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10472",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10472",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10472",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10472",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10472",
+    "before": null,
+    "after": "Real annual W2 earnings, 2019 dollars; event-time coefficients in dollars, not log earnings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4484",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4484",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4484",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4484",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4484",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4484",
+    "before": null,
+    "after": "Direct effect of layoff on annual earnings path, individual/year FE event-time regression with non-laid-off controls and parallel-trends check; post years0–5 substantive, leads diagnostic. Location: Appendix E eq6/Figure A13A pp.60,63"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4484",
+    "before": null,
+    "after": "Conventional event study, no named heterogeneity-robust estimator. Earnings threshold applies to some pre/post years, not every observation; zero mass unknown, not0. Full non-laid-off sample controls. No deliberately linked level benchmark: A25 earnings mean is separate descriptive statistic."
+  }
+]
+```

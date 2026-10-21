@@ -45440,7 +45440,16 @@
     "L4483": "0",
     "M4483": "n/a",
     "N4483": "Residual wage-ladder attribution in no-technology/no-experience model in 15- and20-occupation calibrated models; baseline10 repeats main decomposition. Location: Appendix D.7/Table A24 cols2–3 p.57",
-    "O4483": "Nonlinear structural equilibrium procedure. Distinct mechanism; number-of-occupation variants grouped. Full-model denominator is exposed to technology and experience; mismatched regime for component counterfactual. No fabricated ladder-off simulation."
+    "O4483": "Nonlinear structural equilibrium procedure. Distinct mechanism; number-of-occupation variants grouped. Full-model denominator is exposed to technology and experience; mismatched regime for component counterfactual. No fabricated ladder-off simulation.",
+    "A4484": "F9IA5GIP",
+    "B4484": "h33",
+    "I4484": "1",
+    "J4484": "DiD_conventional",
+    "K4484": "1",
+    "L4484": "0",
+    "M4484": "n/a",
+    "N4484": "Direct effect of layoff on annual earnings path, individual/year FE event-time regression with non-laid-off controls and parallel-trends check; post years0–5 substantive, leads diagnostic. Location: Appendix E eq6/Figure A13A pp.60,63",
+    "O4484": "Conventional event study, no named heterogeneity-robust estimator. Earnings threshold applies to some pre/post years, not every observation; zero mass unknown, not0. Full non-laid-off sample controls. No deliberately linked level benchmark: A25 earnings mean is separate descriptive statistic."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116911,7 +116920,14 @@
     "A10471": "F9IA5GIP",
     "B10471": "h32",
     "C10471": "hy1",
-    "K10471": "Model residual average percentage earnings loss two years after layoff."
+    "K10471": "Model residual average percentage earnings loss two years after layoff.",
+    "A10472": "F9IA5GIP",
+    "B10472": "h33",
+    "C10472": "hy1",
+    "H10472": "0",
+    "I10472": "unknown",
+    "J10472": "none",
+    "K10472": "Real annual W2 earnings, 2019 dollars; event-time coefficients in dollars, not log earnings."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
