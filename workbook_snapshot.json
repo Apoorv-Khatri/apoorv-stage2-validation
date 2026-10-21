@@ -45837,7 +45837,16 @@
     "L4512": "1",
     "M4512": "n/a",
     "N4512": "Figure III right middle, pp.2046,2048: objective-probability OLS slopes across four CU quartiles in Beliefs A; monotonic noise-related sensitivity contrast.",
-    "O4512": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Caption explicitly OLS. Quartiles are selected on measured CU; randomized task parameters do not randomize CU-quartile membership. Slope differences remain linear conditional on regressors; no invented interaction-regression implementation. Quartile averages are treatment summaries, not outcome benchmarks."
+    "O4512": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Caption explicitly OLS. Quartiles are selected on measured CU; randomized task parameters do not randomize CU-quartile membership. Slope differences remain linear conditional on regressors; no invented interaction-regression implementation. Quartile averages are treatment summaries, not outcome benchmarks.",
+    "A4513": "J83HLRWH",
+    "B4513": "h16",
+    "I4513": "1",
+    "J4513": "unknown",
+    "K4513": "0",
+    "L4513": "1",
+    "M4513": "unknown",
+    "N4513": "Figure IV left, pp.2054–2055: CU/noise-related increase in absolute decision distance in Risk A, substantive additional prediction.",
+    "O4513": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. P.2054 explicitly tests noise-produced distance, not merely validation of measurement. Binscatter implementation/smoother not named; do not infer OLS from a straight red line. CU winsorized at 90th percentile. Spearman coefficients are accompanying rank associations, not separate causal slopes or magnitude benchmarks."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117731,7 +117740,11 @@
     "A10523": "J83HLRWH",
     "B10523": "h15",
     "C10523": "hy1",
-    "K10523": "Stated posterior probability in percent; plotted coefficients are slopes on Bayesian posterior, not a new slope-valued dependent variable."
+    "K10523": "Stated posterior probability in percent; plotted coefficients are slopes on Bayesian posterior, not a new slope-valued dependent variable.",
+    "A10524": "J83HLRWH",
+    "B10524": "h16",
+    "C10524": "hy1",
+    "K10524": "Absolute distance of normalized CE from expected-value-maximizing normalized choice, in plotted percentage-point scale."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

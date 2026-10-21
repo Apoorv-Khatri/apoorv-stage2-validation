@@ -1049073,3 +1049073,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:00:16.766089+00:00 — Review J83HLRWH h16: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10524",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10524",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10524",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10524",
+    "before": null,
+    "after": "Absolute distance of normalized CE from expected-value-maximizing normalized choice, in plotted percentage-point scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4513",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4513",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4513",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4513",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4513",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4513",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4513",
+    "before": null,
+    "after": "Figure IV left, pp.2054–2055: CU/noise-related increase in absolute decision distance in Risk A, substantive additional prediction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4513",
+    "before": null,
+    "after": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. P.2054 explicitly tests noise-produced distance, not merely validation of measurement. Binscatter implementation/smoother not named; do not infer OLS from a straight red line. CU winsorized at 90th percentile. Spearman coefficients are accompanying rank associations, not separate causal slopes or magnitude benchmarks."
+  }
+]
+```
