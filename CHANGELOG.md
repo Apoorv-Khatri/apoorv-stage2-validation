@@ -1066620,3 +1066620,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:23:22.813913+00:00 — Review MCIJCXNF h6: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10679",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10679",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10679",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10679",
+    "before": null,
+    "after": "US real exchange rate response under symmetric specification; Fig.7 bottom dashed lines."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E123",
+    "before": null,
+    "after": "DONE — Source-scoped review of all42 final-article pages and author-linked July2023 alternate appendix, independently audited. Final publisher supplement identity unverified; Dataverse retrieval403; alternate-only additions held. Parent accepts full generated-shock structural-procedure Other for VAR recovery/rotation/sign-split LPs, not a claim that conditional LP equations are nonlinear; conditional identifying FE/panel and OLS/US alternatives explicitly preserved. Military annual Eq4.2 FE retained;125 countries denotes source-dataset coverage, not established fixed-rate estimation count. US dashed responses attributed to VAR, not invented symmetric LP. Response-dependent balanced-budget weights Other. Main flags follow introduction including military corroboration and US depreciation bias. Calibrated Figure2 counterfactuals retained, not independent validation;12 qualitative own-outcome normalizations with no invented horizon values; government-consumption/GDP share rejected as wrong-outcome output benchmark. Full-employment peg/ergodic-mean mismatch0; other mean-conditioning matches unknown; full-employment output other_level. Distinct D2/D3 displayed robustness retained without unseen grids. Negative shock orientation, Table1 cut/positive wording and h1/period3 significance conflicts preserved; net-export scale unresolved. Alternate B6 substantive regime moments/distributions and additional D-panel outcomes, discrete/smooth allocations remain held, not dismissed as diagnostics. Original model fields/IDs/links preserved. No empirical replication or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4575",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4575",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4575",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4575",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4575",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4575",
+    "before": null,
+    "after": "US symmetric real-exchange-rate response to government-spending shocks; Fig.7 bottom dashed lines, final pp.1676-77."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4575",
+    "before": null,
+    "after": "Final p.1677 explicitly estimates a parsimonious sign-restricted US VAR and assigns its response to dashed Fig.7 bottom lines, then contrasts baseline asymmetric LP solid lines. Other for structural VAR impulse response, not an inferred symmetric LP and not IV. Exact implementation/code unavailable, but estimator family established by final prose; unknown remains a fallback only if figure/prose attribution is disputed. Main=1 from introduction p.1646."
+  }
+]
+```

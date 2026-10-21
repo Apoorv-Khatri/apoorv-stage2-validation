@@ -592,6 +592,7 @@
     "B123": "Mr. Keynes Meets the Classics: Government Spending and the Real Exchange Rate",
     "C123": "econ",
     "D123": 8,
+    "E123": "DONE — Source-scoped review of all42 final-article pages and author-linked July2023 alternate appendix, independently audited. Final publisher supplement identity unverified; Dataverse retrieval403; alternate-only additions held. Parent accepts full generated-shock structural-procedure Other for VAR recovery/rotation/sign-split LPs, not a claim that conditional LP equations are nonlinear; conditional identifying FE/panel and OLS/US alternatives explicitly preserved. Military annual Eq4.2 FE retained;125 countries denotes source-dataset coverage, not established fixed-rate estimation count. US dashed responses attributed to VAR, not invented symmetric LP. Response-dependent balanced-budget weights Other. Main flags follow introduction including military corroboration and US depreciation bias. Calibrated Figure2 counterfactuals retained, not independent validation;12 qualitative own-outcome normalizations with no invented horizon values; government-consumption/GDP share rejected as wrong-outcome output benchmark. Full-employment peg/ergodic-mean mismatch0; other mean-conditioning matches unknown; full-employment output other_level. Distinct D2/D3 displayed robustness retained without unseen grids. Negative shock orientation, Table1 cut/positive wording and h1/period3 significance conflicts preserved; net-export scale unresolved. Alternate B6 substantive regime moments/distributions and additional D-panel outcomes, discrete/smooth allocations remain held, not dismissed as diagnostics. Original model fields/IDs/links preserved. No empirical replication or omission-free certification.",
     "A124": "MWF8TE4P",
     "B124": "The Career Costs of Children",
     "C124": "econ",
@@ -46568,7 +46569,16 @@
     "L4574": "0",
     "M4574": "n/a",
     "N4574": "State-dependent spending-shock responses with alternative Bachmann-Sims cyclical slack indicator; Fig.D6, final p.1674 fn28.",
-    "O4574": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held."
+    "O4574": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held.",
+    "A4575": "MCIJCXNF",
+    "B4575": "h6",
+    "I4575": "1",
+    "J4575": "Other",
+    "K4575": "0",
+    "L4575": "1",
+    "M4575": "n/a",
+    "N4575": "US symmetric real-exchange-rate response to government-spending shocks; Fig.7 bottom dashed lines, final pp.1676-77.",
+    "O4575": "Final p.1677 explicitly estimates a parsimonious sign-restricted US VAR and assigns its response to dashed Fig.7 bottom lines, then contrasts baseline asymmetric LP solid lines. Other for structural VAR impulse response, not an inferred symmetric LP and not IV. Exact implementation/code unavailable, but estimator family established by final prose; unknown remains a fallback only if figure/prose attribution is disputed. Main=1 from introduction p.1646."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119348,7 +119358,11 @@
     "A10678": "MCIJCXNF",
     "B10678": "h5",
     "C10678": "hy2",
-    "K10678": "Real exchange rate response under alternative slack definition, Fig.D6."
+    "K10678": "Real exchange rate response under alternative slack definition, Fig.D6.",
+    "A10679": "MCIJCXNF",
+    "B10679": "h6",
+    "C10679": "hy1",
+    "K10679": "US real exchange rate response under symmetric specification; Fig.7 bottom dashed lines."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
