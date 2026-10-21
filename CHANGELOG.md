@@ -1051332,3 +1051332,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:41:05.975197+00:00 — Review K8LUIIMP h10: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10549",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10549",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10549",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10549",
+    "before": null,
+    "after": "Log traded/exported-good prices Pglt, fn42; individual good allocation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4529",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4529",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4529",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4529",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4529",
+    "before": null,
+    "after": "p.1309 fn42: regress log traded-goods prices Pglt on log actual travel times; intercept for international good prices; instrument using colonial-route travel times. Input fX to absolute export-price adjustment on removing railroad."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4529",
+    "before": null,
+    "after": "Explicit implemented substantive price response, distinct from aggregate consumer price index in s9. Good pooling versus separate-good fits and coefficient values not established; retain one minimum scope, not a fabricated good-by-model grid."
+  }
+]
+```

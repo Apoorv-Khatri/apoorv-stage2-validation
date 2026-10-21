@@ -46045,7 +46045,16 @@
     "L4528": "1",
     "M4528": "n/a",
     "N4528": "SectionVI.C p.1291 eq6: change in relative expected utility (proxied by relative GDP per capita) → Argentina share of world population,1870–1913. Structural calibration epsilonINT2.02.",
-    "O4528": "Choose parameter to match two-date population-share change under nonlinear mobility equation6; not an implemented IV, no invented OLS. Proxy and historical-data caveats stated by authors."
+    "O4528": "Choose parameter to match two-date population-share change under nonlinear mobility equation6; not an implemented IV, no invented OLS. Proxy and historical-data caveats stated by authors.",
+    "A4529": "K8LUIIMP",
+    "B4529": "h10",
+    "I4529": "1",
+    "J4529": "IV",
+    "K4529": "0",
+    "L4529": "0",
+    "M4529": "single continuous",
+    "N4529": "p.1309 fn42: regress log traded-goods prices Pglt on log actual travel times; intercept for international good prices; instrument using colonial-route travel times. Input fX to absolute export-price adjustment on removing railroad.",
+    "O4529": "Explicit implemented substantive price response, distinct from aggregate consumer price index in s9. Good pooling versus separate-good fits and coefficient values not established; retain one minimum scope, not a fabricated good-by-model grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118070,7 +118079,11 @@
     "A10548": "K8LUIIMP",
     "B10548": "h9",
     "C10548": "hy1",
-    "K10548": "Argentina share of world population; international mobility response calibrated from1870 and1913."
+    "K10548": "Argentina share of world population; international mobility response calibrated from1870 and1913.",
+    "A10549": "K8LUIIMP",
+    "B10549": "h10",
+    "C10549": "hy1",
+    "K10549": "Log traded/exported-good prices Pglt, fn42; individual good allocation unresolved."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
