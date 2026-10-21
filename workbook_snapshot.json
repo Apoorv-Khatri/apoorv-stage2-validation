@@ -44930,7 +44930,16 @@
     "L4433": "0",
     "M4433": "n/a",
     "N4433": "Cited NBER Appendix B2.2 / Table B17: WTP of 17%,33%,50% abatement policies, fixed abatement share times status-quo mean tax revenue (216.9 CF).",
-    "O4433": "Implemented linear welfare imputation, not directly randomized WTP measurement and not nonlinear merely because labeled welfare. Envelope-theorem assumption excludes marginal payers. 0.17/0.33/0.50 times control mean gives printed 37/72/108 CF. Conditional linear-imputation OLS taxonomy; structural-welfare Other alternative remains for adjudication."
+    "O4433": "Implemented linear welfare imputation, not directly randomized WTP measurement and not nonlinear merely because labeled welfare. Envelope-theorem assumption excludes marginal payers. 0.17/0.33/0.50 times control mean gives printed 37/72/108 CF. Conditional linear-imputation OLS taxonomy; structural-welfare Other alternative remains for adjudication.",
+    "A4434": "F3IAL93B",
+    "B4434": "h83",
+    "I4434": "1",
+    "J4434": "RCT",
+    "K4434": "0",
+    "L4434": "1",
+    "M4434": "n/a",
+    "N4434": "Randomized continuous tax-rate effects on compliance, interacted with collector assignment: final Eq. (8), p.1187-1188 / cited Appendix B3. Underlying linear/quadratic compliance-response schedule, separated from nonlinear RMTR recovery.",
+    "O4434": "Direct randomized rate-response coefficients are linear in compliance even with quadratic regressors. No coefficient values or mean benchmarks invented. Distinct from discrete abatement-arm contrasts in B11/B12 and from ratio/root recovery."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116053,7 +116062,14 @@
     "H10395": "0",
     "I10395": "unknown",
     "J10395": "none",
-    "K10395": "Imputed willingness to pay per property in CF, printed 37, 72 and 108 for 17%,33%,50% abatements; fixed share times 216.9 CF control revenue under envelope-theorem assumption."
+    "K10395": "Imputed willingness to pay per property in CF, printed 37, 72 and 108 for 17%,33%,50% abatements; fixed share times 216.9 CF control revenue under envelope-theorem assumption.",
+    "A10396": "F3IAL93B",
+    "B10396": "h83",
+    "C10396": "hy1",
+    "H10396": "1",
+    "I10396": "1",
+    "J10396": "none",
+    "K10396": "Property-level compliance indicator in the collector-specific continuous randomized tax-rate schedule."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

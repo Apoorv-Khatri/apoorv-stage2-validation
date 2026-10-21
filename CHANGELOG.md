@@ -1031094,3 +1031094,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T03:59:24.284684+00:00 — Review F3IAL93B h83: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10396",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10396",
+    "before": null,
+    "after": "h83"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10396",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10396",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10396",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10396",
+    "before": null,
+    "after": "Property-level compliance indicator in the collector-specific continuous randomized tax-rate schedule."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4434",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4434",
+    "before": null,
+    "after": "h83"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4434",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4434",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4434",
+    "before": null,
+    "after": "Randomized continuous tax-rate effects on compliance, interacted with collector assignment: final Eq. (8), p.1187-1188 / cited Appendix B3. Underlying linear/quadratic compliance-response schedule, separated from nonlinear RMTR recovery."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4434",
+    "before": null,
+    "after": "Direct randomized rate-response coefficients are linear in compliance even with quadratic regressors. No coefficient values or mean benchmarks invented. Distinct from discrete abatement-arm contrasts in B11/B12 and from ratio/root recovery."
+  }
+]
+```
