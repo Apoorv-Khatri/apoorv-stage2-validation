@@ -45855,7 +45855,16 @@
     "L4514": "1",
     "M4514": "unknown",
     "N4514": "Figure IV middle, pp.2054–2055: CU/noise-related increase in absolute decision distance in Beliefs A, substantive additional prediction.",
-    "O4514": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. P.2054 explicitly tests noise-produced distance, not merely validation of measurement. Binscatter implementation/smoother not named; do not infer OLS from a straight red line. CU winsorized at 90th percentile. Spearman coefficients are accompanying rank associations, not separate causal slopes or magnitude benchmarks."
+    "O4514": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. P.2054 explicitly tests noise-produced distance, not merely validation of measurement. Binscatter implementation/smoother not named; do not infer OLS from a straight red line. CU winsorized at 90th percentile. Spearman coefficients are accompanying rank associations, not separate causal slopes or magnitude benchmarks.",
+    "A4515": "J83HLRWH",
+    "B4515": "h18",
+    "I4515": "1",
+    "J4515": "unknown",
+    "K4515": "0",
+    "L4515": "0",
+    "M4515": "unknown",
+    "N4515": "P.2054 Risk A CRRA-distance robustness: CU/noise-related distance using fitted population CRRA optimum rather than expected-value optimum.",
+    "O4515": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Explicitly implemented similar-results robustness, individually defined outcome. Population CRRA fitting is outcome-dependent, but exact full distance-response estimator is unavailable; unknown rather than automatic OLS/Other. No estimated curvature or coefficients invented."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117757,7 +117766,11 @@
     "A10525": "J83HLRWH",
     "B10525": "h17",
     "C10525": "hy1",
-    "K10525": "Absolute distance of stated posterior from Bayesian posterior, in plotted percentage-point scale."
+    "K10525": "Absolute distance of stated posterior from Bayesian posterior, in plotted percentage-point scale.",
+    "A10526": "J83HLRWH",
+    "B10526": "h18",
+    "C10526": "hy1",
+    "K10526": "Absolute distance between risky decision and inferred utility-maximizing decision from estimated population-level CRRA; exact normalization/fit implementation unreported."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -1049247,3 +1049247,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:01:16.230170+00:00 — Review J83HLRWH h18: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10526",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10526",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10526",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10526",
+    "before": null,
+    "after": "Absolute distance between risky decision and inferred utility-maximizing decision from estimated population-level CRRA; exact normalization/fit implementation unreported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4515",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4515",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4515",
+    "before": null,
+    "after": "P.2054 Risk A CRRA-distance robustness: CU/noise-related distance using fitted population CRRA optimum rather than expected-value optimum."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4515",
+    "before": null,
+    "after": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Explicitly implemented similar-results robustness, individually defined outcome. Population CRRA fitting is outcome-dependent, but exact full distance-response estimator is unavailable; unknown rather than automatic OLS/Other. No estimated curvature or coefficients invented."
+  }
+]
+```
