@@ -1060293,3 +1060293,432 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:42:52.577297+00:00 — Review KRMMS6YI s6: source-audited coding and linked comparisons
+
+70 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9600",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9601",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9602",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9603",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9600",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9601",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9602",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9603",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9600",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9601",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9602",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9603",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9600",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9601",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9600",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9601",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9602",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9603",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9600",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9601",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9602",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9603",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9600",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9601",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9601",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9600",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9601",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9602",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9600",
+    "before": null,
+    "after": "Introduction p.1996: all-bank annual supply rose from average210m pounds to over330m soon after adoption; SectionVIII p.2010 describes pre200–225m versus immediately post320–350m and about100m increase. Benchmark pre-adoption annual mean210m, with range description preserved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9601",
+    "before": null,
+    "after": "Introduction p.1996 same supply contrast: over330m annual pounds after adoption versus average210m before. SectionVIII p.2010 describes post320–350m; exposed annual-supply endpoint is benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9602",
+    "before": null,
+    "after": "p.2010 fn13: matched107 banks annual aggregate supply average126m(2000–04) versus183m(2006–11); pre-period annual mean as benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9603",
+    "before": null,
+    "after": "p.2010 fn13 same matched107-bank contrast paired with exposed-period annual mean183m pounds."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R726",
+    "before": null,
+    "after": "Maroon product premium is not an adoption causal effect; different outcome from donated supply."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9600",
+    "before": null,
+    "after": "Repeated aggregate supply narrative deduplicated, not an added annual grid. Explicit average210m supports outcome_mean like matched-bank annual averages; untreated target/period and secular trends unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9601",
+    "before": null,
+    "after": "Symmetric endpoint eligibility; exposed annual mean not untreated baseline. Preserve over330m and later range rather than claim a precise330m estimate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9602",
+    "before": null,
+    "after": "Before/after target under secular trends unresolved; no difference calculated and attributed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9603",
+    "before": null,
+    "after": "Exposed-period mean is not untreated baseline."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10630",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10630",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10630",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10630",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2660",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2662",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10630",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2660",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2661",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2662",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10630",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2660",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2661",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2662",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10630",
+    "before": null,
+    "after": "Additional people supplied full daily nutrition:55,000 reported main p.2010/appendix PDF21. Appendix uses110m pounds versus main about100m, fixed4lb/day and20% spoilage; no exact reconstruction certified. Preserve reported figure, not a newly calculated replacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2662",
+    "before": null,
+    "after": "spurious as adoption outcome: 30.5% premium describes maroon-versus-average food composition; not estimated adoption effect on a price outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1073",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1073",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1073",
+    "before": null,
+    "after": "Choice adoption versus pre-adoption aggregate supply, Figure 1/Section VIII; all-bank and matched-107-bank variants; maroon supply contribution and nutrition-equivalent people."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1073",
+    "before": null,
+    "after": "Linear before/after contrast under broad author-intention gate, not DiD or randomized design. Explicit time-series causality caution p.2010 is not exclusion. Maroon price premium is product composition, not adoption effect; original y3 inactive. Nutrition equivalent uses fixed consumption/spoilage conversion, not separate nonlinear estimator."
+  }
+]
+```
