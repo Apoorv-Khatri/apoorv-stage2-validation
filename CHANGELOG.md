@@ -1044153,3 +1044153,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:57:08.172927+00:00 — Review IJCHBNI5 h4: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9516",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9517",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9516",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9517",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9516",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9517",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9516",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9517",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9516",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9517",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9516",
+    "before": null,
+    "after": "p.2072 Figure VI: theology degrees fall from around 10% before Reformation to below 2% at Protestant universities afterward; focal within-Protestant decline paired with pre-Reformation theology-degree share about 10%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9517",
+    "before": null,
+    "after": "p.2072 Figure VI: same decline from around 10% to below 2%; Protestant post-Reformation theology-degree share below 2% is the exposed endpoint mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9516",
+    "before": null,
+    "after": "Prose before-state mean covers universities generally and target weights not established; unknown alignment. Do not invent an 8-percentage-point estimate from rounded bounds."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9517",
+    "before": null,
+    "after": "Symmetric endpoint eligibility; exposed endpoint is a known mismatch to untreated target mean. No exact decline invented."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10486",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10487",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10486",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10487",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10486",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10487",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10486",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10487",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10486",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10487",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10486",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10487",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10486",
+    "before": null,
+    "after": "Theology share of degrees, 11-year moving average"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10487",
+    "before": null,
+    "after": "Secular (arts, law, medicine) share of degrees, 11-year moving average"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4490",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4490",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4490",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4490",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4490",
+    "before": null,
+    "after": "Figure VI and footnote45, p.2072: Reformation-associated change in theology versus secular degree shares, by eventual university denomination, through 1600. Include reported bachelor-only, advanced-only and excluding-Cologne routine variants; no unseen coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4490",
+    "before": null,
+    "after": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Degree-share 10% is not the individual-student 6% baseline of Figure VII. Independent audit: Final pp.2072–2073 interpret denomination divergence before proceeding to formal tests. The 10%/below2% pairing is the within-Protestant decline, not the individual DiD coefficient. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator."
+  }
+]
+```
