@@ -1050429,3 +1050429,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:36:44.400222+00:00 — Review K8LUIIMP h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10535",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10535",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10535",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10535",
+    "before": null,
+    "after": "Log population growth1869–1914, first difference of logs."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4520",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4520",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4520",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4520",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4520",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4520",
+    "before": null,
+    "after": "Rail length within district in1914; Table2 col2 coefficient0.514. Outcome log population growth1869–1914; eq2 controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4520",
+    "before": null,
+    "after": "Separate treatment or instrument-set scope; original s3/s4 retained for other columns. No qualifying outcome benchmark."
+  }
+]
+```

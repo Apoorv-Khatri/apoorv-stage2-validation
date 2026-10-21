@@ -45964,7 +45964,16 @@
     "L4519": "0",
     "M4519": "unknown",
     "N4519": "Appendix D minimum model-estimation scope explicitly established on p.2060: hump-shaped CU translates objective probability variation into inverse-S decision responses in belief updating.",
-    "O4519": "P.2060 reports implemented model estimations, not just a future hypothesis. Retain domain-specific minimum under causal-noise interpretation; do not invent a switch-off intervention, table/column grid, A/B allocation, or carry NLS from Table V into unseen Appendix D. Exact estimator and response scale held. Table V default levels/AIC alone are not treatment effects."
+    "O4519": "P.2060 reports implemented model estimations, not just a future hypothesis. Retain domain-specific minimum under causal-noise interpretation; do not invent a switch-off intervention, table/column grid, A/B allocation, or carry NLS from Table V into unseen Appendix D. Exact estimator and response scale held. Table V default levels/AIC alone are not treatment effects.",
+    "A4520": "K8LUIIMP",
+    "B4520": "h1",
+    "I4520": "1",
+    "J4520": "DiD_conventional",
+    "K4520": "0",
+    "L4520": "0",
+    "M4520": "n/a",
+    "N4520": "Rail length within district in1914; Table2 col2 coefficient0.514. Outcome log population growth1869–1914; eq2 controls.",
+    "O4520": "Separate treatment or instrument-set scope; original s3/s4 retained for other columns. No qualifying outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117933,7 +117942,11 @@
     "A10534": "K8LUIIMP",
     "B10534": "s1",
     "C10534": "hy4",
-    "K10534": "Log tradeables consumption price index (not relative to overall index); positive significant distance gradient, p.1265 footnote18; coefficient not reported."
+    "K10534": "Log tradeables consumption price index (not relative to overall index); positive significant distance gradient, p.1265 footnote18; coefficient not reported.",
+    "A10535": "K8LUIIMP",
+    "B10535": "h1",
+    "C10535": "hy1",
+    "K10535": "Log population growth1869–1914, first difference of logs."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
