@@ -1050777,3 +1050777,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:38:50.390386+00:00 — Review K8LUIIMP h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10539",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10539",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10539",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10539",
+    "before": null,
+    "after": "Constructed log share of tradeables in expenditure, equation40."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4524",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4524",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4524",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4524",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4524",
+    "before": null,
+    "after": "Table3 col1 eq40: log relative tradeables price → constructed log expenditure share; OLS0.350, implied substitution elasticity0.650."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4524",
+    "before": null,
+    "after": "Authors give these structural parameters an economic interpretation and discuss measurement/preference endogeneity; weak identification alone not exclusion. Linear on reported outcome conditional on upstream constructs."
+  }
+]
+```

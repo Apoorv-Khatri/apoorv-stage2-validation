@@ -46000,7 +46000,16 @@
     "L4523": "1",
     "M4523": "single continuous",
     "N4523": "Rail length; Table2 col5 coefficient0.608; excluded instrument colonial postal-route length. Outcome log population growth1869–1914; eq2 controls.",
-    "O4523": "Separate treatment or instrument-set scope; original s3/s4 retained for other columns. No qualifying outcome benchmark."
+    "O4523": "Separate treatment or instrument-set scope; original s3/s4 retained for other columns. No qualifying outcome benchmark.",
+    "A4524": "K8LUIIMP",
+    "B4524": "h5",
+    "I4524": "1",
+    "J4524": "OLS",
+    "K4524": "0",
+    "L4524": "0",
+    "M4524": "n/a",
+    "N4524": "Table3 col1 eq40: log relative tradeables price → constructed log expenditure share; OLS0.350, implied substitution elasticity0.650.",
+    "O4524": "Authors give these structural parameters an economic interpretation and discuss measurement/preference endogeneity; weak identification alone not exclusion. Linear on reported outcome conditional on upstream constructs."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117985,7 +117994,11 @@
     "A10538": "K8LUIIMP",
     "B10538": "h4",
     "C10538": "hy1",
-    "K10538": "Log population growth1869–1914, first difference of logs."
+    "K10538": "Log population growth1869–1914, first difference of logs.",
+    "A10539": "K8LUIIMP",
+    "B10539": "h5",
+    "C10539": "hy1",
+    "K10539": "Constructed log share of tradeables in expenditure, equation40."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
