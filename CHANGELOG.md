@@ -1066809,3 +1066809,672 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:58:57.845742+00:00 — Review MWF8TE4P s3: source-audited coding and linked comparisons
+
+110 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9642",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9643",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9644",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9645",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9646",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9647",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9648",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9649",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9650",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9642",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9643",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9644",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9645",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9646",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9647",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9648",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9649",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9650",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9642",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9643",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9644",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9645",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9646",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9647",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9648",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9649",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9650",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9650",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9642",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9643",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9644",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9645",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9646",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9647",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9648",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9649",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9650",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9642",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9643",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9644",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9645",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9646",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9647",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9648",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9649",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9650",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9642",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9645",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9648",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9649",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9650",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9650",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9642",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9643",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9644",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9645",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9646",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9649",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9650",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9642",
+    "before": null,
+    "after": "Table3A p.312: routine, pre-interruption skill 3 uninterrupted-work-year units, annual skill loss -0.06% of own prior skills. Benchmark prior skill stock 3, not a sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9643",
+    "before": null,
+    "after": "Table3A p.312: abstract, pre-interruption skill 3 uninterrupted-work-year units, annual skill loss -0.11% of own prior skills. Benchmark prior skill stock 3, not a sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9644",
+    "before": null,
+    "after": "Table3A p.312: manual, pre-interruption skill 3 uninterrupted-work-year units, annual skill loss -0.03% of own prior skills. Benchmark prior skill stock 3, not a sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9645",
+    "before": null,
+    "after": "Table3A p.312: routine, pre-interruption skill 6 uninterrupted-work-year units, annual skill loss -0.50% of own prior skills. Benchmark prior skill stock 6, not a sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9646",
+    "before": null,
+    "after": "Table3A p.312: abstract, pre-interruption skill 6 uninterrupted-work-year units, annual skill loss -6.90% of own prior skills. Benchmark prior skill stock 6, not a sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9647",
+    "before": null,
+    "after": "Table3A p.312: manual, pre-interruption skill 6 uninterrupted-work-year units, annual skill loss -3.45% of own prior skills. Benchmark prior skill stock 6, not a sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9648",
+    "before": null,
+    "after": "Table3A p.312: routine, pre-interruption skill 10 uninterrupted-work-year units, annual skill loss -0.61% of own prior skills. Benchmark prior skill stock 10, not a sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9649",
+    "before": null,
+    "after": "Table3A p.312: abstract, pre-interruption skill 10 uninterrupted-work-year units, annual skill loss -2.65% of own prior skills. Benchmark prior skill stock 10, not a sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9650",
+    "before": null,
+    "after": "Table3A p.312: manual, pre-interruption skill 10 uninterrupted-work-year units, annual skill loss -3.08% of own prior skills. Benchmark prior skill stock 10, not a sample mean/SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9642",
+    "before": null,
+    "after": "Rate parameter interpreted as own-skill normalization per equation2; alternative construction-only exclusion held for adjudication. No SD inference from standard errors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9643",
+    "before": null,
+    "after": "Rate parameter interpreted as own-skill normalization per equation2; alternative construction-only exclusion held for adjudication. No SD inference from standard errors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9644",
+    "before": null,
+    "after": "Rate parameter interpreted as own-skill normalization per equation2; alternative construction-only exclusion held for adjudication. No SD inference from standard errors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9645",
+    "before": null,
+    "after": "Rate parameter interpreted as own-skill normalization per equation2; alternative construction-only exclusion held for adjudication. No SD inference from standard errors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9646",
+    "before": null,
+    "after": "Rate parameter interpreted as own-skill normalization per equation2; alternative construction-only exclusion held for adjudication. No SD inference from standard errors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9647",
+    "before": null,
+    "after": "Rate parameter interpreted as own-skill normalization per equation2; alternative construction-only exclusion held for adjudication. No SD inference from standard errors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9648",
+    "before": null,
+    "after": "Rate parameter interpreted as own-skill normalization per equation2; alternative construction-only exclusion held for adjudication. No SD inference from standard errors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9649",
+    "before": null,
+    "after": "Rate parameter interpreted as own-skill normalization per equation2; alternative construction-only exclusion held for adjudication. No SD inference from standard errors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9650",
+    "before": null,
+    "after": "Rate parameter interpreted as own-skill normalization per equation2; alternative construction-only exclusion held for adjudication. No SD inference from standard errors."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2693",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2693",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2693",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2693",
+    "before": null,
+    "after": "Skill stock response to one-year interruption, reported as annual proportional loss of pre-interruption skills at3/6/10 uninterrupted-work-year units; Table3A/equation2. Own-stock normalization is retained, not an independent regression of a rate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1086",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1086",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1086",
+    "before": null,
+    "after": "Table 3A pp.312–313: one-year interruption versus continued skill retention, occupation/career-stage-specific skill depreciation. Structural atrophy parameters, not OLS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1086",
+    "before": null,
+    "after": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator. Table rows are 3, 6, 10 years; nearby prose says 3, 5, 10. Printed routine 10-year SE is 14.2%; preserve as printed, not repaired."
+  }
+]
+```
