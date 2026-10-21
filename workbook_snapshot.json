@@ -557,6 +557,7 @@
     "B116": "The State Capacity Ceiling on Tax Rates: Evidence From Randomized Tax Abatements in the DRC",
     "C116": "econ",
     "D116": 6,
+    "E116": "DONE — Available-source coding review completed with an explicit unresolved graphical tail, not exhaustive comparison certification. Final article and official supplement reviewed; cited NBER Appendix B remains separately attributed secondary-version evidence. Independent audit and targeted author-linked code/data inspection completed; no regressions or empirical replication executed. Randomized dose and collector assignment coded RCT; nonlinear RMTR recovery separate from randomized polynomial schedules. Three abatement instruments coded multiple binary IV. Collector mechanism regressions use conditional reported-outcome OLS with full-micro-outcome nonlinear alternative explicit; outcome-adaptive A17 grouping remains Other. Distinct neighbor ranks and fn34 visit effect retained, latter method unknown. WTP conditional linear imputation separated from clipped fiscal cost/MVPF. A14 endline implementation established by actual code and survey variable provenance; baseline caption and property-band code/table conflict preserved, benchmark alignment unknown. B11/B12 spatial census supports qualitative named-arm/status-quo comparisons without graph heights, inferred zeros or cross-figure collector identity. B13/B14 raw versus empirical-Bayes rank-local normalization kept distinct. B18 only panel B ranks1–89 and C ranks1–91 allocated: B ranks90 onward and C ranks92 onward remain HELD because native raster and absent generated plot inputs cannot establish terminal count or zero/missing status. No unseen pair grid inferred. Zero-to-0.005 plotting substitution documented. A5 scale, A9 rate labels, 94/95 optimum and other publication conflicts retained. Targeted ZIP retrieval covered selected members only, not whole archive inspection. Original IDs/model fields/links preserved. Source-scoped DONE does not resolve the B18 tail or certify omission-free coverage.",
     "A117": "F64LTKPN",
     "B117": "The Bidder's Curse: Comment",
     "C117": "econ",
@@ -44939,7 +44940,16 @@
     "L4434": "1",
     "M4434": "n/a",
     "N4434": "Randomized continuous tax-rate effects on compliance, interacted with collector assignment: final Eq. (8), p.1187-1188 / cited Appendix B3. Underlying linear/quadratic compliance-response schedule, separated from nonlinear RMTR recovery.",
-    "O4434": "Direct randomized rate-response coefficients are linear in compliance even with quadratic regressors. No coefficient values or mean benchmarks invented. Distinct from discrete abatement-arm contrasts in B11/B12 and from ratio/root recovery."
+    "O4434": "Direct randomized rate-response coefficients are linear in compliance even with quadratic regressors. No coefficient values or mean benchmarks invented. Distinct from discrete abatement-arm contrasts in B11/B12 and from ratio/root recovery.",
+    "A4435": "F3IAL93B",
+    "B4435": "h84",
+    "I4435": "1",
+    "J4435": "RCT",
+    "K4435": "0",
+    "L4435": "0",
+    "M4435": "n/a",
+    "N4435": "Randomized continuous tax-rate effects on compliance, interacted with collector-pair assignment: cited Figure B18 caption / Eq. (8) replacing collector by collector-pair indicators. Underlying linear/quadratic compliance-response schedule, separated from nonlinear RMTR recovery.",
+    "O4435": "Direct randomized rate-response coefficients are linear in compliance even with quadratic regressors. No coefficient values or mean benchmarks invented. Distinct from discrete abatement-arm contrasts in B11/B12 and from ratio/root recovery."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116069,7 +116079,14 @@
     "H10396": "1",
     "I10396": "1",
     "J10396": "none",
-    "K10396": "Property-level compliance indicator in the collector-specific continuous randomized tax-rate schedule."
+    "K10396": "Property-level compliance indicator in the collector-specific continuous randomized tax-rate schedule.",
+    "A10397": "F3IAL93B",
+    "B10397": "h84",
+    "C10397": "hy1",
+    "H10397": "1",
+    "I10397": "1",
+    "J10397": "none",
+    "K10397": "Property-level compliance indicator in the collector-pair-specific continuous randomized tax-rate schedule."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

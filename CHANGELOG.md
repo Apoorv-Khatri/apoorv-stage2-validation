@@ -1031199,3 +1031199,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T03:59:47.287563+00:00 — Review F3IAL93B h84: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10397",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10397",
+    "before": null,
+    "after": "h84"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10397",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10397",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10397",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10397",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10397",
+    "before": null,
+    "after": "Property-level compliance indicator in the collector-pair-specific continuous randomized tax-rate schedule."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E116",
+    "before": null,
+    "after": "DONE — Available-source coding review completed with an explicit unresolved graphical tail, not exhaustive comparison certification. Final article and official supplement reviewed; cited NBER Appendix B remains separately attributed secondary-version evidence. Independent audit and targeted author-linked code/data inspection completed; no regressions or empirical replication executed. Randomized dose and collector assignment coded RCT; nonlinear RMTR recovery separate from randomized polynomial schedules. Three abatement instruments coded multiple binary IV. Collector mechanism regressions use conditional reported-outcome OLS with full-micro-outcome nonlinear alternative explicit; outcome-adaptive A17 grouping remains Other. Distinct neighbor ranks and fn34 visit effect retained, latter method unknown. WTP conditional linear imputation separated from clipped fiscal cost/MVPF. A14 endline implementation established by actual code and survey variable provenance; baseline caption and property-band code/table conflict preserved, benchmark alignment unknown. B11/B12 spatial census supports qualitative named-arm/status-quo comparisons without graph heights, inferred zeros or cross-figure collector identity. B13/B14 raw versus empirical-Bayes rank-local normalization kept distinct. B18 only panel B ranks1–89 and C ranks1–91 allocated: B ranks90 onward and C ranks92 onward remain HELD because native raster and absent generated plot inputs cannot establish terminal count or zero/missing status. No unseen pair grid inferred. Zero-to-0.005 plotting substitution documented. A5 scale, A9 rate labels, 94/95 optimum and other publication conflicts retained. Targeted ZIP retrieval covered selected members only, not whole archive inspection. Original IDs/model fields/links preserved. Source-scoped DONE does not resolve the B18 tail or certify omission-free coverage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4435",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4435",
+    "before": null,
+    "after": "h84"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4435",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4435",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4435",
+    "before": null,
+    "after": "Randomized continuous tax-rate effects on compliance, interacted with collector-pair assignment: cited Figure B18 caption / Eq. (8) replacing collector by collector-pair indicators. Underlying linear/quadratic compliance-response schedule, separated from nonlinear RMTR recovery."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4435",
+    "before": null,
+    "after": "Direct randomized rate-response coefficients are linear in compliance even with quadratic regressors. No coefficient values or mean benchmarks invented. Distinct from discrete abatement-arm contrasts in B11/B12 and from ratio/root recovery."
+  }
+]
+```
