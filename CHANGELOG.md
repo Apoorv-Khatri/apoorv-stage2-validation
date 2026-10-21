@@ -1036866,3 +1036866,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:01:37.346057+00:00 — Review F9IA5GIP s1: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K712",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R712",
+    "before": null,
+    "after": "Separate Table 2 descriptive mean is not deliberately linked to the Table 3/4 focal coefficient. One-treatment-SD contrast and percentage-point interpretation do not themselves supply an outcome benchmark. Retain original model evidence unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1031",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1031",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1031",
+    "before": null,
+    "after": "Technological-change exposure effect on displaced workers’ log weekly earnings change; Table 3 cols 1–5. Figure 2 raw binned relationship separately recorded under h1; routine full-time/control/occupation-code variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1031",
+    "before": null,
+    "after": "Occupation exposure is normalized change in computer/software vacancy share, 2007–2017; weighted linear regression adjustment with occupation-clustered SEs. Dummy controls alone do not establish identifying FE. Author-intention inclusion does not assert exogeneity. Conditional on the reported winsorized log-change outcome, estimator is linear; full raw-outcome winsorization is outcome-adaptive."
+  }
+]
+```
