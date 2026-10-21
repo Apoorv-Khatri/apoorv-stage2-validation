@@ -45251,7 +45251,16 @@
     "L4462": "0",
     "M4462": "n/a",
     "N4462": "Social skill requirements effect on displaced-worker log earnings change; normalized dose, coefficient 0.0103. Location: Appendix C.2/Table A4 cols2–5 respectively, pp.20–22",
-    "O4462": "Distinct focal skill regressor; retain substantive nulls for social/manual. Computer column1 repeats Table3(2), not added. DN construction prose says 2007–2019, generic formula says 2007–2017: preserve timing conflict. No qualifying outcome benchmark."
+    "O4462": "Distinct focal skill regressor; retain substantive nulls for social/manual. Computer column1 repeats Table3(2), not added. DN construction prose says 2007–2019, generic formula says 2007–2017: preserve timing conflict. No qualifying outcome benchmark.",
+    "A4463": "F9IA5GIP",
+    "B4463": "h12",
+    "I4463": "1",
+    "J4463": "OLS",
+    "K4463": "0",
+    "L4463": "0",
+    "M4463": "n/a",
+    "N4463": "Manual skill requirements effect on displaced-worker log earnings change; normalized dose, coefficient 0.0124. Location: Appendix C.2/Table A4 cols2–5 respectively, pp.20–22",
+    "O4463": "Distinct focal skill regressor; retain substantive nulls for social/manual. Computer column1 repeats Table3(2), not added. DN construction prose says 2007–2019, generic formula says 2007–2017: preserve timing conflict. No qualifying outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116576,7 +116585,11 @@
     "A10436": "F9IA5GIP",
     "B10436": "h11",
     "C10436": "hy1",
-    "K10436": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+    "K10436": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome.",
+    "A10437": "F9IA5GIP",
+    "B10437": "h12",
+    "C10437": "hy1",
+    "K10437": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
