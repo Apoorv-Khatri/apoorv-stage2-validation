@@ -1047804,3 +1047804,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:40:48.654309+00:00 — Review J83HLRWH s10: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1057",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1057",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1057",
+    "before": null,
+    "after": "Risk A: repeated-elicitation CU interactions instrument main-elicitation CU interactions to address attenuation; p.2056, Online Appendix Table 7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1057",
+    "before": null,
+    "after": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Main text names interaction instruments but does not settle the complete excluded-instrument set by column; full Grether may use multiple nonbinary interactions. Do not infer a single instrument from a fitted index."
+  }
+]
+```
