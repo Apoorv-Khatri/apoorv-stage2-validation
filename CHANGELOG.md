@@ -1065057,3 +1065057,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:19:11.551462+00:00 — Review MCIJCXNF s5: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1080",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1080",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1080",
+    "before": null,
+    "after": "EA continuous spending-shock responses interacted with high/low slack and inflation; Table1 rows2-5 and Fig.D5. Table coefficients retain negative-shock sign orientation; do not read a negative coefficient difference as a negative response to a cut."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1080",
+    "before": null,
+    "after": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held. Table1 note: a decline after a negative shock requires a positive coefficient. Last-row RER differences are negative (-.21,-.25,-.24,-.23,-.34); multiplying by a common negative innovation reverses their sign, implying more depreciation/less appreciation under high inflation, contrary to p.1674 prose saying appreciates more. Preserve source conflict, not silently repair prose. Row3 is cut/slack despite prose saying positive. Output .40** is at h=1, not prose period3. State timing is not certified predetermined by these definitions."
+  }
+]
+```
