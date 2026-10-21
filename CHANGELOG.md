@@ -1054242,3 +1054242,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:47:29.423009+00:00 — Review K8LUIIMP h24: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9552",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9552",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9552",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9552",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9552",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9552",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9552",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9552",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9552",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9552",
+    "before": null,
+    "after": "Figure3 pp.1306–1307: counterfactual1869–1914 district relative log-population-growth path changing only adjusted agricultural productivity, compared with actual1869–1914 relative log-growth path (solid black). Same model-sample districts, each series demeaned separately; local-linear fitted profiles over port distance. Qualitative similar negative gradient explicitly discussed; no digitized points or ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9552",
+    "before": null,
+    "after": "Observed same-outcome historical-growth profile, other_level rather than an outcome mean. Separate demeaning is not division. Actual1869–2001 predictive path allocation remains held; fit-only exclusion is the documented alternative."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10581",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10581",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10581",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10581",
+    "before": null,
+    "after": "District log population growth1869–1914, demeaned, plotted fitted path. No fabricated point grid; comparisons with actual growth paths are held as effect-versus-observed-growth interpretation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4543",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4543",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4543",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4543",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4543",
+    "before": null,
+    "after": "Figure3, pp.1306–1307: Adjusted agricultural productivity back to1869, other sufficient statistics held1914 → district relative log population-growth path against port distance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4543",
+    "before": null,
+    "after": "Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Counterfactual path is substantive geographic incidence, not excluded merely because plot also tests fit. Locally weighted display does not replace underlying nonlinear equilibrium estimator."
+  }
+]
+```

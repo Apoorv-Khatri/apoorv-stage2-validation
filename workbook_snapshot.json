@@ -46171,7 +46171,16 @@
     "L4542": "1",
     "M4542": "n/a",
     "N4542": "Table7 row6, pp.1303–1310: Joint transatlantic freight and railroad reversal back to1869 → real GDP, population and expected utility.",
-    "O4542": "Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast."
+    "O4542": "Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast.",
+    "A4543": "K8LUIIMP",
+    "B4543": "h24",
+    "I4543": "1",
+    "J4543": "Other",
+    "K4543": "0",
+    "L4543": "1",
+    "M4543": "n/a",
+    "N4543": "Figure3, pp.1306–1307: Adjusted agricultural productivity back to1869, other sufficient statistics held1914 → district relative log population-growth path against port distance.",
+    "O4543": "Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Counterfactual path is substantive geographic incidence, not excluded merely because plot also tests fit. Locally weighted display does not replace underlying nonlinear equilibrium estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118336,7 +118345,11 @@
     "A10580": "K8LUIIMP",
     "B10580": "h23",
     "C10580": "hy3",
-    "K10580": "Expected utility in Argentina (welfare); reported counterfactual level as fraction of actual1914 level."
+    "K10580": "Expected utility in Argentina (welfare); reported counterfactual level as fraction of actual1914 level.",
+    "A10581": "K8LUIIMP",
+    "B10581": "h24",
+    "C10581": "hy1",
+    "K10581": "District log population growth1869–1914, demeaned, plotted fitted path. No fabricated point grid; comparisons with actual growth paths are held as effect-versus-observed-growth interpretation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -225482,7 +225495,18 @@
     "O9551": "1",
     "P9551": "n/a",
     "Q9551": "Table7 row6, Expected utility in Argentina (welfare) column, p.1304 and sectionVII: counterfactual/actual1914 = 0.885. Actual1914 same aggregate outcome is the explicitly used denominator, not a population mean. Baseline units normalized1; no invented absolute baseline.",
-    "R9551": "Aggregate level benchmark other_level; no mean/SD alignment question. Level-ratio interpretation rather than a standalone log-percent interpretation."
+    "R9551": "Aggregate level benchmark other_level; no mean/SD alignment question. Level-ratio interpretation rather than a standalone log-percent interpretation.",
+    "A9552": "K8LUIIMP",
+    "B9552": "h24",
+    "C9552": "hc1",
+    "K9552": "1",
+    "L9552": "hy1",
+    "M9552": "other_level",
+    "N9552": "1",
+    "O9552": "0",
+    "P9552": "n/a",
+    "Q9552": "Figure3 pp.1306–1307: counterfactual1869–1914 district relative log-population-growth path changing only adjusted agricultural productivity, compared with actual1869–1914 relative log-growth path (solid black). Same model-sample districts, each series demeaned separately; local-linear fitted profiles over port distance. Qualitative similar negative gradient explicitly discussed; no digitized points or ratio.",
+    "R9552": "Observed same-outcome historical-growth profile, other_level rather than an outcome mean. Separate demeaning is not division. Actual1869–2001 predictive path allocation remains held; fit-only exclusion is the documented alternative."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
