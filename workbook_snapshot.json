@@ -45774,7 +45774,16 @@
     "L4505": "0",
     "M4505": "unknown",
     "N4505": "Partition manipulation, 2 versus 10 states in belief updating, without changing normative problem features; implemented additional experiment with mixed results, footnote 15 pp.2057/2059, Online Appendix F.",
-    "O4505": "The null/mixed result remains eligible. Final main establishes implemented two-state-count contrast but not exact randomization, estimator, or model interactions. Unknown is not Other; do not infer an RCT merely from experiment wording."
+    "O4505": "The null/mixed result remains eligible. Final main establishes implemented two-state-count contrast but not exact randomization, estimator, or model interactions. Unknown is not Other; do not infer an RCT merely from experiment wording.",
+    "A4506": "J83HLRWH",
+    "B4506": "h7",
+    "I4506": "1",
+    "J4506": "unknown",
+    "K4506": "0",
+    "L4506": "1",
+    "M4506": "unknown",
+    "N4506": "CU/noise-proxy compression in Risk B baseline gain/loss lotteries; p.2050 explicitly reports similar results in Online Appendix E. Individually named outcome: normalized certainty equivalent.",
+    "O4506": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Final text establishes result, not its exact implemented estimator. Unknown prevents copying unseen OLS/median methods. The location-level minimum can require splits after appendix retrieval."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117631,7 +117640,11 @@
     "H10516": "0",
     "I10516": "unknown",
     "J10516": "unknown",
-    "K10516": "Stated belief in partition experiment (2 versus 10 states), footnote 15 pp.2057/2059; probability versus log-odds implementation not specified."
+    "K10516": "Stated belief in partition experiment (2 versus 10 states), footnote 15 pp.2057/2059; probability versus log-odds implementation not specified.",
+    "A10517": "J83HLRWH",
+    "B10517": "h7",
+    "C10517": "hy1",
+    "K10517": "Normalized certainty equivalent in Risk B baseline gain/loss lotteries; p.2050/Online Appendix E. No unseen table estimates or invented normalizations."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
