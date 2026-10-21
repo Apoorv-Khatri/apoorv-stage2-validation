@@ -1038798,3 +1038798,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:09:43.704358+00:00 — Review F9IA5GIP h11: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10436",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10436",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10436",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10436",
+    "before": null,
+    "after": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4462",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4462",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4462",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4462",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4462",
+    "before": null,
+    "after": "Social skill requirements effect on displaced-worker log earnings change; normalized dose, coefficient 0.0103. Location: Appendix C.2/Table A4 cols2–5 respectively, pp.20–22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4462",
+    "before": null,
+    "after": "Distinct focal skill regressor; retain substantive nulls for social/manual. Computer column1 repeats Table3(2), not added. DN construction prose says 2007–2019, generic formula says 2007–2017: preserve timing conflict. No qualifying outcome benchmark."
+  }
+]
+```
