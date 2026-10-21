@@ -46009,7 +46009,16 @@
     "L4524": "0",
     "M4524": "n/a",
     "N4524": "Table3 col1 eq40: log relative tradeables price → constructed log expenditure share; OLS0.350, implied substitution elasticity0.650.",
-    "O4524": "Authors give these structural parameters an economic interpretation and discuss measurement/preference endogeneity; weak identification alone not exclusion. Linear on reported outcome conditional on upstream constructs."
+    "O4524": "Authors give these structural parameters an economic interpretation and discuss measurement/preference endogeneity; weak identification alone not exclusion. Linear on reported outcome conditional on upstream constructs.",
+    "A4525": "K8LUIIMP",
+    "B4525": "h6",
+    "I4525": "1",
+    "J4525": "OLS",
+    "K4525": "0",
+    "L4525": "0",
+    "M4525": "n/a",
+    "N4525": "Table4 col1 eq41: model-based log real income → log population density; OLS0.738, implied mobility2.811.",
+    "O4525": "Authors give these structural parameters an economic interpretation and discuss measurement/preference endogeneity; weak identification alone not exclusion. Linear on reported outcome conditional on upstream constructs."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117998,7 +118007,11 @@
     "A10539": "K8LUIIMP",
     "B10539": "h5",
     "C10539": "hy1",
-    "K10539": "Constructed log share of tradeables in expenditure, equation40."
+    "K10539": "Constructed log share of tradeables in expenditure, equation40.",
+    "A10540": "K8LUIIMP",
+    "B10540": "h6",
+    "C10540": "hy1",
+    "K10540": "Observed log population density in1895."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

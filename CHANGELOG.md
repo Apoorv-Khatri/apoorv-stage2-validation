@@ -1050864,3 +1050864,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:39:16.982889+00:00 — Review K8LUIIMP h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10540",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10540",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10540",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10540",
+    "before": null,
+    "after": "Observed log population density in1895."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4525",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4525",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4525",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4525",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4525",
+    "before": null,
+    "after": "Table4 col1 eq41: model-based log real income → log population density; OLS0.738, implied mobility2.811."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4525",
+    "before": null,
+    "after": "Authors give these structural parameters an economic interpretation and discuss measurement/preference endogeneity; weak identification alone not exclusion. Linear on reported outcome conditional on upstream constructs."
+  }
+]
+```
