@@ -1059741,3 +1059741,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:41:57.639106+00:00 — Review KRMMS6YI s4: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L724",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M724",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P724",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q724",
+    "before": null,
+    "after": "Main p.2008; appendix pp.17–18: score .899 small, .883 large, printed .016/.883=.018. Higher score means less healthy; main nutrition1.8% lower is quality language. Benchmark is weighted large-bank basket score."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R724",
+    "before": null,
+    "after": "Keep the explicitly reported .016/.883 normalization, not independently validated score construction. Printed basket shares and score weights do not reproduce .899/.883; intermediate fraction arithmetic also conflicts. Population/weight match unresolved, method unknown. This is not an empirical replication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R725",
+    "before": null,
+    "after": "Wrong setting after separating nutritional computation from linear small/large pounds contrast; retain at h8/hc1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2656",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2657",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2656",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2657",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2656",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2657",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2656",
+    "before": null,
+    "after": "Published weighted WeightWatchers score: small .899, large .883, higher less healthy; main nutritional-value1.8% lower does not mean lower points. Appendix PDF18–19 Tables9–10 construction does not reproduce these scores from printed inputs; no repaired score substituted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2657",
+    "before": null,
+    "after": "duplicate of h8/hy1; quantitative small/large pounds contrast separated from nutrition implementation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1071",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1071",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1071",
+    "before": null,
+    "after": "Small versus large client-weighted food-bank groups: nutritional score of purchased food baskets, main p.2008; appendix Tables 9–10. Cutoff splits cumulative goal factor into equal client halves, NOT the median bank."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1071",
+    "before": null,
+    "after": "Published scores .899 small/.883 large imply higher (less healthy) points for small banks; client-weighted group cutoff. Retain unknown method: group basket ratios versus conditional score contrast not reconciled. Independent arithmetic check of printed Table9 shares and Table10 scores gives1.00551/1.01414, not published scores; printed pasta122/73=1.89, vegetables43/79=.396 and meal960/315=2.91 are also inconsistent. These are source conflicts, NOT replacement estimates. Nutrition remains separate from quantity h8."
+  }
+]
+```
