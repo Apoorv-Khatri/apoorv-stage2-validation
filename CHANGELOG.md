@@ -1042425,3 +1042425,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:50:23.769033+00:00 — Review IJCHBNI5 s1: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L719",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M719",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O719",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P719",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q719",
+    "before": null,
+    "after": "pp.2068–2069; Figure V A: -11.8 percentage points versus pre-Reformation student church-first-job mean about 57%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R719",
+    "before": null,
+    "after": "Deliberate verbal magnitude comparison, not an author-computed ratio. Pre-Reformation mean population/weights not specified enough to identify untreated target outcome for this differential post-period effect. Parallel trends alone does not establish level equality."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2605",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1037",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1037",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1037",
+    "before": null,
+    "after": "Linear conventional DiD, not modern DiD, FE or OLS despite OLS implementation. Dynamic post-treatment estimates and pooled post periods retained; diagnostic leads are not separate settings. Author causal interpretation in pp. 2040–2044 and 2087; remaining endogeneity is not an exclusion criterion."
+  }
+]
+```
