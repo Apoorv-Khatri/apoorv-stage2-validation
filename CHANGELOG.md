@@ -1058106,3 +1058106,384 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:53:12.217974+00:00 — Review K8LUIIMP h36: source-audited coding and linked comparisons
+
+62 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9590",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9590",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9590",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9590",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9590",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9590",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9590",
+    "before": null,
+    "after": "AppendixA.5.5 p.44, TableA6 col1: Real land-income flow declines 126.85 million1914 pesos (prose rounds to 127); described as 12.7% reduction in that same aggregate outcome. Denominator absolute level not printed. Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9590",
+    "before": null,
+    "after": "other_level aggregate baseline. For col2 percentage denominator is ambiguous (original1914 versus reduced-integration baseline); do not invent it or infer mean alignment. Col1 GDP12.8% duplicates Table7 row5 GDP normalization and is not added twice."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10609",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10610",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10611",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10612",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10613",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10614",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10609",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10610",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10611",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10612",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10613",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10614",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10609",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10610",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10611",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10612",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10613",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10614",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10610",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10611",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10612",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10614",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10610",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10611",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10612",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10614",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10609",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10610",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10611",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10612",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10613",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10614",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10609",
+    "before": null,
+    "after": "Real GDP flow, millions of1914 pesos; TableA6 row1 col1: reduction magnitude 248.79."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10610",
+    "before": null,
+    "after": "Real land-income flow, millions of1914 pesos; TableA6 row2 col1: reduction magnitude 126.85."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10611",
+    "before": null,
+    "after": "NPV real GDP,3%, millions of1914 pesos; TableA6 row3 col1: reduction magnitude 8292.93."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10612",
+    "before": null,
+    "after": "NPV real GDP,5%, millions of1914 pesos; TableA6 row4 col1: reduction magnitude 4975.76."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10613",
+    "before": null,
+    "after": "NPV real land income,3%, millions of1914 pesos; TableA6 row5 col1: reduction magnitude 4228.39."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10614",
+    "before": null,
+    "after": "NPV real land income,5%, millions of1914 pesos; TableA6 row6 col1: reduction magnitude 2537.04."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4555",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4555",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4555",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4555",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4555",
+    "before": null,
+    "after": "AppendixTableA6 pp.43–45 / main pp.1311–1312: remove1869–1914 railroad network starting from 1914 external integration; real GDP and land-income flows and NPVs at3%/5%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4555",
+    "before": null,
+    "after": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Fixed discounting is linear scaling, but underlying equilibrium effect is nonlinear. Table cost ratios have different-outcome denominators and are ineligible. Positive table entries are magnitudes of reductions, not sign-reversed gains."
+  }
+]
+```
