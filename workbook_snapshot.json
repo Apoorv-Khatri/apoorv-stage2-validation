@@ -46081,7 +46081,16 @@
     "L4532": "0",
     "M4532": "n/a",
     "N4532": "Appendix TableA1 p.18: log distance to top-four port; model-sample results for seven Table1 outcomes. OLS; separately reported robustness location.",
-    "O4532": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Include reported capital-exclusion nuisance sample variants at this location. Prose says greater specialization farther inland, while cereal coefficient is negative; retain conflict."
+    "O4532": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Include reported capital-exclusion nuisance sample variants at this location. Prose says greater specialization farther inland, while cereal coefficient is negative; retain conflict.",
+    "A4533": "K8LUIIMP",
+    "B4533": "h14",
+    "I4533": "1",
+    "J4533": "DiD_conventional",
+    "K4533": "1",
+    "L4533": "0",
+    "M4533": "n/a",
+    "N4533": "Appendix TableA2 p.21 col1: binary railroad connection → log population growth1869–1914; model sample, coefficient0.534.",
+    "O4533": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Differenced district level heterogeneity/common time shock, eqA66; same method hierarchy as Table2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118154,7 +118163,14 @@
     "A10560": "K8LUIIMP",
     "B10560": "h13",
     "C10560": "hy7",
-    "K10560": "Share of cereals cultivated area in 1914; share of agricultural land used for cereals in each district."
+    "K10560": "Share of cereals cultivated area in 1914; share of agricultural land used for cereals in each district.",
+    "A10561": "K8LUIIMP",
+    "B10561": "h14",
+    "C10561": "hy1",
+    "H10561": "0",
+    "I10561": "unknown",
+    "J10561": "other",
+    "K10561": "Log population growth1869–1914, difference of logs; AppendixTableA2."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
