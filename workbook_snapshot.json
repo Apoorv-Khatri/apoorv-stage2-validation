@@ -46036,7 +46036,16 @@
     "L4527": "1",
     "M4527": "n/a",
     "N4527": "Table6 col3 eq54, pp.1300–1302: predicted agricultural productivity from land shares → constructed log adjusted-productivity growth scaled by tradeables-price change; slope0.315 implies dispersion3.176.",
-    "O4527": "Retain structurally interpreted slope1/theta, not a pure fit diagnostic. Conditional linearity in the reported constructed outcome; full generated-outcome calibration is nonlinear and remains an explicit taxonomy alternative. Inverting0.315 to theta is not another outcome benchmark."
+    "O4527": "Retain structurally interpreted slope1/theta, not a pure fit diagnostic. Conditional linearity in the reported constructed outcome; full generated-outcome calibration is nonlinear and remains an explicit taxonomy alternative. Inverting0.315 to theta is not another outcome benchmark.",
+    "A4528": "K8LUIIMP",
+    "B4528": "h9",
+    "I4528": "1",
+    "J4528": "Other",
+    "K4528": "0",
+    "L4528": "1",
+    "M4528": "n/a",
+    "N4528": "SectionVI.C p.1291 eq6: change in relative expected utility (proxied by relative GDP per capita) → Argentina share of world population,1870–1913. Structural calibration epsilonINT2.02.",
+    "O4528": "Choose parameter to match two-date population-share change under nonlinear mobility equation6; not an implemented IV, no invented OLS. Proxy and historical-data caveats stated by authors."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118057,7 +118066,11 @@
     "A10547": "K8LUIIMP",
     "B10547": "h8",
     "C10547": "hy1",
-    "K10547": "Constructed log growth of adjusted agricultural productivity scaled by the tradeables price index; left side eq54."
+    "K10547": "Constructed log growth of adjusted agricultural productivity scaled by the tradeables price index; left side eq54.",
+    "A10548": "K8LUIIMP",
+    "B10548": "h9",
+    "C10548": "hy1",
+    "K10548": "Argentina share of world population; international mobility response calibrated from1870 and1913."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

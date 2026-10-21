@@ -1051245,3 +1051245,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:40:39.206572+00:00 — Review K8LUIIMP h9: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10548",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10548",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10548",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10548",
+    "before": null,
+    "after": "Argentina share of world population; international mobility response calibrated from1870 and1913."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4528",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4528",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4528",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4528",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4528",
+    "before": null,
+    "after": "SectionVI.C p.1291 eq6: change in relative expected utility (proxied by relative GDP per capita) → Argentina share of world population,1870–1913. Structural calibration epsilonINT2.02."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4528",
+    "before": null,
+    "after": "Choose parameter to match two-date population-share change under nonlinear mobility equation6; not an implemented IV, no invented OLS. Proxy and historical-data caveats stated by authors."
+  }
+]
+```
