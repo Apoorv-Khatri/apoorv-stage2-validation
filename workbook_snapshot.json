@@ -46054,7 +46054,16 @@
     "L4529": "0",
     "M4529": "single continuous",
     "N4529": "p.1309 fn42: regress log traded-goods prices Pglt on log actual travel times; intercept for international good prices; instrument using colonial-route travel times. Input fX to absolute export-price adjustment on removing railroad.",
-    "O4529": "Explicit implemented substantive price response, distinct from aggregate consumer price index in s9. Good pooling versus separate-good fits and coefficient values not established; retain one minimum scope, not a fabricated good-by-model grid."
+    "O4529": "Explicit implemented substantive price response, distinct from aggregate consumer price index in s9. Good pooling versus separate-good fits and coefficient values not established; retain one minimum scope, not a fabricated good-by-model grid.",
+    "A4530": "K8LUIIMP",
+    "B4530": "h11",
+    "I4530": "1",
+    "J4530": "OLS",
+    "K4530": "0",
+    "L4530": "0",
+    "M4530": "n/a",
+    "N4530": "AppendixA.4.2.2 pp.17–18: log distance to nearest port on coast or navigable rivers → log population density and urban population share1869; OLS -0.329 and -0.048 (full sample); -0.232 and -0.024 (model sample).",
+    "O4530": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Different distance treatment, not just sample variants."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118083,7 +118092,15 @@
     "A10549": "K8LUIIMP",
     "B10549": "h10",
     "C10549": "hy1",
-    "K10549": "Log traded/exported-good prices Pglt, fn42; individual good allocation unresolved."
+    "K10549": "Log traded/exported-good prices Pglt, fn42; individual good allocation unresolved.",
+    "A10550": "K8LUIIMP",
+    "B10550": "h11",
+    "C10550": "hy1",
+    "K10550": "Log population density1869.",
+    "A10551": "K8LUIIMP",
+    "B10551": "h11",
+    "C10551": "hy2",
+    "K10551": "Urban population share1869."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

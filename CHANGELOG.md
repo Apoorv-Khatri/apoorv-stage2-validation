@@ -1051419,3 +1051419,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:41:33.461702+00:00 — Review K8LUIIMP h11: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10550",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10551",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10550",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10551",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10550",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10551",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10550",
+    "before": null,
+    "after": "Log population density1869."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10551",
+    "before": null,
+    "after": "Urban population share1869."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4530",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4530",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4530",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4530",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4530",
+    "before": null,
+    "after": "AppendixA.4.2.2 pp.17–18: log distance to nearest port on coast or navigable rivers → log population density and urban population share1869; OLS -0.329 and -0.048 (full sample); -0.232 and -0.024 (model sample)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4530",
+    "before": null,
+    "after": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Different distance treatment, not just sample variants."
+  }
+]
+```
