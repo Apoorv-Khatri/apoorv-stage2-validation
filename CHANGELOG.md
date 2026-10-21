@@ -1040124,3 +1040124,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:14:42.316972+00:00 — Review F9IA5GIP h21: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10454",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10455",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10456",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10457",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10454",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10455",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10456",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10457",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10454",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10455",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10456",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10457",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10454",
+    "before": null,
+    "after": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10455",
+    "before": null,
+    "after": "Indicator switches occupation after displacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10456",
+    "before": null,
+    "after": "Unemployment duration in weeks."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10457",
+    "before": null,
+    "after": "Indicator employed at DWS survey."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4472",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4472",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4472",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4472",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4472",
+    "before": null,
+    "after": "Computer/software exposure change during individual’s prior employment spell rather than full 2007–2017 window; standardized dose. Location: Appendix C.8/Table A12 pp.36–37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4472",
+    "before": null,
+    "after": "Timing uses hire/layoff dates; pre2007 hires use2007 level; 2008/2009 interpolated from2007/2010. Distinct exposure construction; controls/sample variants grouped. No qualifying benchmark."
+  }
+]
+```

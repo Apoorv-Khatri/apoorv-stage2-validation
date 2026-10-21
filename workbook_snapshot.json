@@ -45332,7 +45332,16 @@
     "L4471": "0",
     "M4471": "n/a",
     "N4471": "O*NET computer-knowledge change between vintages5 and23, standardized dose, effects on displaced-worker outcomes; includes substantive nulls. Location: Appendix C.7/Table A11 pp.34–36",
-    "O4471": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
+    "O4471": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located.",
+    "A4472": "F9IA5GIP",
+    "B4472": "h21",
+    "I4472": "1",
+    "J4472": "OLS",
+    "K4472": "0",
+    "L4472": "0",
+    "M4472": "n/a",
+    "N4472": "Computer/software exposure change during individual’s prior employment spell rather than full 2007–2017 window; standardized dose. Location: Appendix C.8/Table A12 pp.36–37",
+    "O4472": "Timing uses hire/layoff dates; pre2007 hires use2007 level; 2008/2009 interpolated from2007/2010. Distinct exposure construction; controls/sample variants grouped. No qualifying benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116725,7 +116734,23 @@
     "A10453": "F9IA5GIP",
     "B10453": "h20",
     "C10453": "hy4",
-    "K10453": "Indicator employed at DWS survey."
+    "K10453": "Indicator employed at DWS survey.",
+    "A10454": "F9IA5GIP",
+    "B10454": "h21",
+    "C10454": "hy1",
+    "K10454": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome.",
+    "A10455": "F9IA5GIP",
+    "B10455": "h21",
+    "C10455": "hy2",
+    "K10455": "Indicator switches occupation after displacement.",
+    "A10456": "F9IA5GIP",
+    "B10456": "h21",
+    "C10456": "hy3",
+    "K10456": "Unemployment duration in weeks.",
+    "A10457": "F9IA5GIP",
+    "B10457": "h21",
+    "C10457": "hy4",
+    "K10457": "Indicator employed at DWS survey."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
