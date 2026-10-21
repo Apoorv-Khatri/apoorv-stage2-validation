@@ -46435,7 +46435,16 @@
     "L4565": "1",
     "M4565": "n/a",
     "N4565": "Negative-price auction contribution through financed additional purchases and combined direct-plus-financed food gap; main p.2007, appendix Table8. Direct component separated at h9.",
-    "O4565": "Shares received divided by each group average positive price produce 12.27m additional pounds; combined with direct84m gives about96m. Outcome-dependent price/quantity ratios make the full financed/combined calculation Other. Direct quantity contrast is h9 OLS, not counted again here. The20.6% share of the466.5m gap is effect-to-effect, not a qualifying outcome benchmark."
+    "O4565": "Shares received divided by each group average positive price produce 12.27m additional pounds; combined with direct84m gives about96m. Outcome-dependent price/quantity ratios make the full financed/combined calculation Other. Direct quantity contrast is h9 OLS, not counted again here. The20.6% share of the466.5m gap is effect-to-effect, not a qualifying outcome benchmark.",
+    "A4566": "KRMMS6YI",
+    "B4566": "h6",
+    "I4566": "1",
+    "J4566": "Other",
+    "K4566": "0",
+    "L4566": "0",
+    "M4566": "n/a",
+    "N4566": "Distance effect on winning bid, appendix Table15/eqs.(7)–(8): three separate food-bank×type, food-bank×bimonth, type×bimonth identifying FE sets.",
+    "O4566": "Homogeneous sample slope -.085; all-food homogeneous total -.132, not unrestricted .827 selection slope. Distinct HDFE implementation, supporting main FE result. Conditional reported-outcome linearity; full selected-food adaptation caveat as s7. No qualifying mean/SD paired. Independent adjudication: classify the complete reported bid procedure, not a regression conditional on an outcome-selected food list. Homogeneity is selected using winning-bid SD, the focal outcome. Thus Other (outcome-adaptive sample/classification followed by linear regression). Conditional alternatives remain FE for one joint set in main Table4 and HDFE for three pairwise sets in appendix Table15; dimension correction is certain, method domain is a substantive coding dispute."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118974,7 +118983,14 @@
     "H10639": "0",
     "I10639": "unknown",
     "J10639": "other",
-    "K10639": "Combined negative-price contribution to small-minus-large total food gap: about96m; main p.2007."
+    "K10639": "Combined negative-price contribution to small-minus-large total food gap: about96m; main p.2007.",
+    "A10640": "KRMMS6YI",
+    "B10640": "h6",
+    "C10640": "hy1",
+    "H10640": "0",
+    "I10640": "unknown",
+    "J10640": "none",
+    "K10640": "Total winning bid in shares; appendix Table15."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

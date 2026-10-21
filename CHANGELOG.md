@@ -1061835,3 +1061835,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:46:23.525011+00:00 — Review KRMMS6YI h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10640",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10640",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10640",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10640",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10640",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10640",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10640",
+    "before": null,
+    "after": "Total winning bid in shares; appendix Table15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4566",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4566",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4566",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4566",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4566",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4566",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4566",
+    "before": null,
+    "after": "Distance effect on winning bid, appendix Table15/eqs.(7)–(8): three separate food-bank×type, food-bank×bimonth, type×bimonth identifying FE sets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4566",
+    "before": null,
+    "after": "Homogeneous sample slope -.085; all-food homogeneous total -.132, not unrestricted .827 selection slope. Distinct HDFE implementation, supporting main FE result. Conditional reported-outcome linearity; full selected-food adaptation caveat as s7. No qualifying mean/SD paired. Independent adjudication: classify the complete reported bid procedure, not a regression conditional on an outcome-selected food list. Homogeneity is selected using winning-bid SD, the focal outcome. Thus Other (outcome-adaptive sample/classification followed by linear regression). Conditional alternatives remain FE for one joint set in main Table4 and HDFE for three pairwise sets in appendix Table15; dimension correction is certain, method domain is a substantive coding dispute."
+  }
+]
+```
