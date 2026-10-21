@@ -1031799,3 +1031799,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:23:10.497475+00:00 — Review F64LTKPN s2: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2594",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2594",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2594",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2593",
+    "before": null,
+    "after": "Spurious causal outcome allocation under rejected descriptive auction-format parent; retain original model text."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2594",
+    "before": null,
+    "after": "Spurious causal outcome allocation under rejected descriptive auction-format parent; retain original model text."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1028",
+    "before": null,
+    "after": "Table4 pp.1190-91 is product-level descriptive heterogeneity/perspective, not an estimated causal effect of auction format. Reject the invented auction-mechanism treatment; this does not reject the causal wording tests. See coverage audit for broader gate alternative."
+  }
+]
+```
