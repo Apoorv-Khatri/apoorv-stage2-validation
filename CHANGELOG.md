@@ -1039542,3 +1039542,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:12:34.832288+00:00 — Review F9IA5GIP h17: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10443",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10444",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10443",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10444",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10443",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10444",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10443",
+    "before": null,
+    "after": "Weeks unemployed including inferred ongoing duration for never-re-employed workers."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10444",
+    "before": null,
+    "after": "Log of the duration including inferred ongoing spells."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4468",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4468",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4468",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4468",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4468",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4468",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4468",
+    "before": null,
+    "after": "Exposure effect on unemployment duration including never-re-employed workers with duration inferred from layoff and survey dates; levels/log null effects. Location: Appendix C.4.1/Table A8 pp.27–28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4468",
+    "before": null,
+    "after": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
+  }
+]
+```

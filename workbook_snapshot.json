@@ -45296,7 +45296,16 @@
     "L4467": "0",
     "M4467": "n/a",
     "N4467": "Exposure effect on unemployment duration among displaced workers who regained employment; levels and log duration, including nulls and 50-week censoring robustness stated in footnote15. Location: Appendix C.4/Table A7 pp.25–27",
-    "O4467": "Linear regressions on reported level/log scales; censoring robustness not a different identifying method. Coefficients 0.104/0.0844/0.0860 weeks; 0.0220/0.0220/0.0327 log. 0.21-week two-SD contrast is not itself a benchmark comparison; Table2 mean elsewhere unlinked."
+    "O4467": "Linear regressions on reported level/log scales; censoring robustness not a different identifying method. Coefficients 0.104/0.0844/0.0860 weeks; 0.0220/0.0220/0.0327 log. 0.21-week two-SD contrast is not itself a benchmark comparison; Table2 mean elsewhere unlinked.",
+    "A4468": "F9IA5GIP",
+    "B4468": "h17",
+    "I4468": "1",
+    "J4468": "OLS",
+    "K4468": "0",
+    "L4468": "0",
+    "M4468": "n/a",
+    "N4468": "Exposure effect on unemployment duration including never-re-employed workers with duration inferred from layoff and survey dates; levels/log null effects. Location: Appendix C.4.1/Table A8 pp.27–28",
+    "O4468": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116645,7 +116654,15 @@
     "A10442": "F9IA5GIP",
     "B10442": "h16",
     "C10442": "hy2",
-    "K10442": "Log unemployment duration after displacement."
+    "K10442": "Log unemployment duration after displacement.",
+    "A10443": "F9IA5GIP",
+    "B10443": "h17",
+    "C10443": "hy1",
+    "K10443": "Weeks unemployed including inferred ongoing duration for never-re-employed workers.",
+    "A10444": "F9IA5GIP",
+    "B10444": "h17",
+    "C10444": "hy2",
+    "K10444": "Log of the duration including inferred ongoing spells."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
