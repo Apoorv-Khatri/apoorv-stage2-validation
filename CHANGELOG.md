@@ -1067577,3 +1067577,960 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T15:21:18.182177+00:00 — Review MWF8TE4P s5: source-audited coding and linked comparisons
+
+158 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9651",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9652",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9653",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9654",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9655",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9656",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9657",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9658",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9651",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9652",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9653",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9654",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9655",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9656",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9657",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9658",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9651",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9652",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9653",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9654",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9655",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9656",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9657",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9658",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9653",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9655",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9657",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9658",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9651",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9652",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9653",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9654",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9655",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9656",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9657",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9658",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9651",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9652",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9653",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9654",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9655",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9656",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9657",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9658",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9651",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9652",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9653",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9655",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9657",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9658",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9653",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9655",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9657",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9658",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9651",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9652",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9653",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9654",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9655",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9656",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9657",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9658",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9651",
+    "before": null,
+    "after": "Figure3a p.318: routine choice at15, axis \"% Deviation From Baseline\" for no-fertility versus fertility. One qualitative normalized displayed contrast, no digitized coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9652",
+    "before": null,
+    "after": "Figure3a p.318: abstract choice at15, axis \"% Deviation From Baseline\" for no-fertility versus fertility. One qualitative normalized displayed contrast, no digitized coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9653",
+    "before": null,
+    "after": "Figure3a p.318: manual choice at15, axis \"% Deviation From Baseline\" for no-fertility versus fertility. One qualitative normalized displayed contrast, no digitized coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9654",
+    "before": null,
+    "after": "p.319: mothers have on average22% less work experience per child at retirement60, compared with no-fertility scenario."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9655",
+    "before": null,
+    "after": "p.319: full-time wage at40 in no-fertility scenario averages10% above baseline fertility scenario."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9656",
+    "before": null,
+    "after": "p.320 equation8 and Table6 total p.321: relative career cost -35.3%; printed formula1-NPV^NF/NPV^F, discount0.95. Denominator is baseline fertility NPV^F."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9657",
+    "before": null,
+    "after": "Figure3e pp.318–319: effect of fertility on low/high working-ability ratio paired with fertility path. Prose gives fertility0.42 at20,0.37 at35 and no-fertility approximately0.43; graph dashed path nearer0.42. Qualitative path pairing, not annual grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9658",
+    "before": null,
+    "after": "Figure3e pp.318–319: effect of fertility on low/high working-ability ratio paired with no fertility path. Prose gives fertility0.42 at20,0.37 at35 and no-fertility approximately0.43; graph dashed path nearer0.42. Qualitative path pairing, not annual grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9651",
+    "before": null,
+    "after": "Graph label says percent deviation; prose says percent, while original model recasts percentage points. Division retained from literal axis, denominator/scale conflict held; no reconstructed baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9652",
+    "before": null,
+    "after": "Graph label says percent deviation; prose says percent, while original model recasts percentage points. Division retained from literal axis, denominator/scale conflict held; no reconstructed baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9653",
+    "before": null,
+    "after": "Graph label says percent deviation; prose says percent, while original model recasts percentage points. Division retained from literal axis, denominator/scale conflict held; no reconstructed baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9654",
+    "before": null,
+    "after": "Per-child/mother weighting versus simulated-population baseline aggregation not fully specified."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9655",
+    "before": null,
+    "after": "Fertility is focal exposure; denominator explicitly fertility-exposed rather than no-fertility counterfactual. Conditional worker composition also changes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9656",
+    "before": null,
+    "after": "Known exposed endpoint under fertility-versus-no-fertility orientation. Printed formula conflicts with usual loss-relative-no-fertility reading; preserve formula, not silently invert. Mean-of-ratios vs ratio-of-means unspecified. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9657",
+    "before": null,
+    "after": "Symmetric displayed endpoint policy. Ratio of counts is same-outcome level, not an outcome SD; graph/prose precision retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9658",
+    "before": null,
+    "after": "Symmetric displayed endpoint policy. Ratio of counts is same-outcome level, not an outcome SD; graph/prose precision retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10680",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10681",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10682",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10683",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10684",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10685",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10680",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10681",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10682",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10683",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10684",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10685",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10680",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10681",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10682",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10683",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10684",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10685",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10682",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10683",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10685",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2698",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2699",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2700",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2701",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2702",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2703",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10680",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10681",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10682",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10683",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10684",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10685",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2698",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2699",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2700",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2701",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2702",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2703",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10680",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10681",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10682",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10683",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10684",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10685",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2698",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2699",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2700",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2701",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2702",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2703",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10680",
+    "before": null,
+    "after": "Initial proportion choosing abstract occupations, Figure3a."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10681",
+    "before": null,
+    "after": "Initial proportion choosing manual occupations, Figure3a."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10682",
+    "before": null,
+    "after": "Ratio of low-ability to high-ability working women by age under fertility/no-fertility, Figure3e and p.319; aggregate composition ratio, not person binary."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10683",
+    "before": null,
+    "after": "Average full-time wage at age40, no-fertility 10% higher than baseline; p.319; level-wage proportional comparison, separate from daily log-wage path."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10684",
+    "before": null,
+    "after": "Probability of marriage: small indirect response to fertility removal; footnote36 p.317; no coefficient reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10685",
+    "before": null,
+    "after": "Type of husband: small indirect response to fertility removal via occupation/skills; footnote36 p.317. Exact type statistic unspecified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2698",
+    "before": null,
+    "after": "Initial proportion choosing routine occupations at age15; Figure3a. Abstract/manual shares separately added."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2701",
+    "before": null,
+    "after": "Conditional mean log daily wage profile, Figure3d; log difference no-fertility minus baseline. Separate full-time wage discussion is added as hy4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2703",
+    "before": null,
+    "after": "NPV female lifetime income at age15: wages, unemployment and maternity benefits; equation8/Table6 total. Printed relative cost is 1-NPV^NF/NPV^F, not silently inverted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1088",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1088",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1088",
+    "before": null,
+    "after": "Section IV.E Figure 3a–e and Table 6 total: baseline fertility versus ex ante known zero conception probability. Career paths, work experience, workforce ability composition, lifetime-income NPV and small marital/spousal responses. No actual randomized assignment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1088",
+    "before": null,
+    "after": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
+  }
+]
+```
