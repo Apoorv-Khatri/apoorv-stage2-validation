@@ -1037502,3 +1037502,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:04:41.490977+00:00 — Review F9IA5GIP h1: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9491",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9492",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9491",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9492",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9491",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9492",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9491",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9492",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9491",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9492",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9491",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9491",
+    "before": null,
+    "after": "Main p.293/Figure2: workers with no change in computer/software requirements have earnings decline just over5%, while most exposed decline over20%; low/zero-exposure endpoint mean is paired with the qualitative high-minus-low contrast."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9492",
+    "before": null,
+    "after": "Main p.293/Figure2: same exposure contrast paired with high-exposure mean earnings decline over20%, versus just over5% at zero exposure."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9491",
+    "before": null,
+    "after": "Same qualitative endpoint policy as FigureA9. No exact contrast or missing bins invented; low-exposure group does not establish untreated outcomes for high-exposure target. Footnote37 regression-direction conflict retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9492",
+    "before": null,
+    "after": "Symmetric endpoint eligibility; high-exposure outcome mean is known exposed state, so not aligned untreated baseline. No ratio asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10425",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10425",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10425",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10425",
+    "before": null,
+    "after": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4452",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4452",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4452",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4452",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4452",
+    "before": null,
+    "after": "Raw occupation-level/binned exposure relationship with displaced workers’ mean log earnings change, including zero-versus-high exposure discussion; unadjusted trend distinct from Table 3. Figure A11 is the unbinned companion, not a new effect. Location: Figure 2, pp.293–294; Appendix C.11.1/Figure A11, pp.43–44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4452",
+    "before": null,
+    "after": "Retained broad author-intention graphical effect. Main footnote 37 describes regressing requirements on earnings (reversed relative to plotted axes); keep literal direction conflict. OLS linear-contrast interpretation is provisional pending graph code; no numeric slope inferred."
+  }
+]
+```

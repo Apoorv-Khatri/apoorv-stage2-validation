@@ -45152,7 +45152,16 @@
     "L4451": "0",
     "M4451": "n/a",
     "N4451": "SectionII p.1192 and footnote20: buyer experience in six feedback-score categories, on DVD overbid indicator including shipping.",
-    "O4451": "Substantive null retained: author reproduces absence of learning, interpreting it as consistent with frictions applying to users of all experiences. Observational bin means, not randomized experience. Rates 0.23,0.22,0.22,0.27,0.19,0.25 for 0-9,10-29,30-129,130-499,500-999,>=1000. Causal-intention gate is less explicit than wording; held alternate exclusion in audit."
+    "O4451": "Substantive null retained: author reproduces absence of learning, interpreting it as consistent with frictions applying to users of all experiences. Observational bin means, not randomized experience. Rates 0.23,0.22,0.22,0.27,0.19,0.25 for 0-9,10-29,30-129,130-499,500-999,>=1000. Causal-intention gate is less explicit than wording; held alternate exclusion in audit.",
+    "A4452": "F9IA5GIP",
+    "B4452": "h1",
+    "I4452": "1",
+    "J4452": "OLS",
+    "K4452": "0",
+    "L4452": "1",
+    "M4452": "n/a",
+    "N4452": "Raw occupation-level/binned exposure relationship with displaced workers’ mean log earnings change, including zero-versus-high exposure discussion; unadjusted trend distinct from Table 3. Figure A11 is the unbinned companion, not a new effect. Location: Figure 2, pp.293–294; Appendix C.11.1/Figure A11, pp.43–44",
+    "O4452": "Retained broad author-intention graphical effect. Main footnote 37 describes regressing requirements on earnings (reversed relative to plotted axes); keep literal direction conflict. OLS linear-contrast interpretation is provisional pending graph code; no numeric slope inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116426,7 +116435,11 @@
     "A10424": "F64LTKPN",
     "B10424": "h16",
     "C10424": "hy1",
-    "K10424": "DVD auction-level indicator price exceeds low BIN including shipping, grouped by buyer feedback experience; footnote20."
+    "K10424": "DVD auction-level indicator price exceeds low BIN including shipping, grouped by buyer feedback experience; footnote20.",
+    "A10425": "F9IA5GIP",
+    "B10425": "h1",
+    "C10425": "hy1",
+    "K10425": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -222875,7 +222888,29 @@
     "O9490": "0",
     "P9490": "unknown",
     "Q9490": "Figure 5/main p.312 and A24 col1, 10 occupations: technology-presence contrast between full-model earnings change -7.63% and no-technology -4.16%, paired with no-technology mean -4.16%. Full-model denominator triple already retained; no division by this endpoint reported.",
-    "R9490": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+    "R9490": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known.",
+    "A9491": "F9IA5GIP",
+    "B9491": "h1",
+    "C9491": "hc1",
+    "K9491": "1",
+    "L9491": "hy1",
+    "M9491": "outcome_mean",
+    "N9491": "1",
+    "O9491": "0",
+    "P9491": "unknown",
+    "Q9491": "Main p.293/Figure2: workers with no change in computer/software requirements have earnings decline just over5%, while most exposed decline over20%; low/zero-exposure endpoint mean is paired with the qualitative high-minus-low contrast.",
+    "R9491": "Same qualitative endpoint policy as FigureA9. No exact contrast or missing bins invented; low-exposure group does not establish untreated outcomes for high-exposure target. Footnote37 regression-direction conflict retained.",
+    "A9492": "F9IA5GIP",
+    "B9492": "h1",
+    "C9492": "hc2",
+    "K9492": "1",
+    "L9492": "hy1",
+    "M9492": "outcome_mean",
+    "N9492": "1",
+    "O9492": "0",
+    "P9492": "0",
+    "Q9492": "Main p.293/Figure2: same exposure contrast paired with high-exposure mean earnings decline over20%, versus just over5% at zero exposure.",
+    "R9492": "Symmetric endpoint eligibility; high-exposure outcome mean is known exposed state, so not aligned untreated baseline. No ratio asserted."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
