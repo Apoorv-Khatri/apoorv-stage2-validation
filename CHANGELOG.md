@@ -1043286,3 +1043286,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:54:44.305094+00:00 — Review IJCHBNI5 s10: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K723",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R723",
+    "before": null,
+    "after": "Wrong parent after routine-control consolidation. Re-enter the qualifying own-outcome mean comparison under s9/hc1. Total-construction mean 4.7 is a different outcome and excluded."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2614",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2614",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2614",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2614",
+    "before": null,
+    "after": "duplicate of s9/y1; both control variants retained under that parent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1046",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1046",
+    "before": null,
+    "after": "Duplicate routine-control variant of s9 at the same Figure IX panel; retain baseline and pretreatment-control frames together, not as a distinct method. Original model fields preserved."
+  }
+]
+```
