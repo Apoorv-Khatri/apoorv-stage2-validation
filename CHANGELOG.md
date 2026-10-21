@@ -1048041,3 +1048041,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:42:18.690847+00:00 — Review J83HLRWH h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10516",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10516",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10516",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10516",
+    "before": null,
+    "after": "Stated belief in partition experiment (2 versus 10 states), footnote 15 pp.2057/2059; probability versus log-odds implementation not specified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4505",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4505",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4505",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4505",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4505",
+    "before": null,
+    "after": "Partition manipulation, 2 versus 10 states in belief updating, without changing normative problem features; implemented additional experiment with mixed results, footnote 15 pp.2057/2059, Online Appendix F."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4505",
+    "before": null,
+    "after": "The null/mixed result remains eligible. Final main establishes implemented two-state-count contrast but not exact randomization, estimator, or model interactions. Unknown is not Other; do not infer an RCT merely from experiment wording."
+  }
+]
+```
