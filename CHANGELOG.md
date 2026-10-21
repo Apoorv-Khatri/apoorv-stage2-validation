@@ -1032255,3 +1032255,534 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:25:09.941402+00:00 — Review F64LTKPN h2: source-audited coding and linked comparisons
+
+87 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9443",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9444",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9445",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9446",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9447",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9448",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9443",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9444",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9445",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9446",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9447",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9448",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9443",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9444",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9445",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9446",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9447",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9448",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9443",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9443",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9444",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9445",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9446",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9447",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9448",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9443",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9444",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9445",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9446",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9447",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9448",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9443",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9444",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9448",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9443",
+    "before": null,
+    "after": "Table A1 p.1: new wording +1 versus -1 contrast in overbid, endpoint levels 0.62 versus 0.43; benchmark +1 auction-only group mean 0.62. Neutral group is not a separate endpoint benchmark. Difference not invented as a printed coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9444",
+    "before": null,
+    "after": "Table A1 p.1: new wording +1 versus -1 contrast in overbid, endpoint levels 0.62 versus 0.43; benchmark -1 BIN-only group mean 0.43. Neutral group is not a separate endpoint benchmark. Difference not invented as a printed coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9445",
+    "before": null,
+    "after": "Table A1 p.1: new wording +1 versus -1 contrast in overbid >5%, endpoint levels 0.51 versus 0.34; benchmark +1 auction-only group mean 0.51. Neutral group is not a separate endpoint benchmark. Difference not invented as a printed coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9446",
+    "before": null,
+    "after": "Table A1 p.1: new wording +1 versus -1 contrast in overbid >5%, endpoint levels 0.51 versus 0.34; benchmark -1 BIN-only group mean 0.34. Neutral group is not a separate endpoint benchmark. Difference not invented as a printed coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9447",
+    "before": null,
+    "after": "Table A1 p.1: new wording +1 versus -1 contrast in percentage price gap, endpoint levels 9.50% versus 0.01%; benchmark +1 auction-only group mean 9.50%. Neutral group is not a separate endpoint benchmark. Difference not invented as a printed coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9448",
+    "before": null,
+    "after": "Table A1 p.1: new wording +1 versus -1 contrast in percentage price gap, endpoint levels 9.50% versus 0.01%; benchmark -1 BIN-only group mean 0.01%. Neutral group is not a separate endpoint benchmark. Difference not invented as a printed coefficient."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9443",
+    "before": null,
+    "after": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9444",
+    "before": null,
+    "after": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9445",
+    "before": null,
+    "after": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9446",
+    "before": null,
+    "after": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9447",
+    "before": null,
+    "after": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9448",
+    "before": null,
+    "after": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10399",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10400",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10401",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10399",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10400",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10401",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10399",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10400",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10401",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10399",
+    "before": null,
+    "after": "Indicator auction price exceeds low BIN price; Table A1, excluding shipping."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10400",
+    "before": null,
+    "after": "Indicator auction price exceeds low BIN price by >5%; Table A1, excluding shipping."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10401",
+    "before": null,
+    "after": "Percentage auction-BIN price gap relative to BIN; Table A1, excluding shipping."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4437",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4437",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4437",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4437",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4437",
+    "before": null,
+    "after": "Table A1 p.1: new wording asymmetry (-1,0,+1); means of overbid, overbid >5%, and percentage price-gap outcomes, excluding shipping."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4437",
+    "before": null,
+    "after": "Supplemental separately located robustness of causal wording argument; no-FE group means. Outcome construction separated from estimator. N=1691 versus Table3 N=1411; not identical sample."
+  }
+]
+```
