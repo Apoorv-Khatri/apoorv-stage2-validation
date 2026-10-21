@@ -1060785,3 +1060785,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:43:47.202436+00:00 — Review KRMMS6YI s8: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9604",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9604",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9604",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L728",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9604",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M728",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9604",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P728",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9604",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q728",
+    "before": null,
+    "after": "p.2014:68.9m food-equivalent welfare gain compared with330m annual pounds allocated,20.8%. Same fixed supply under old and new mechanisms; aggregate level, not per-unit mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9604",
+    "before": null,
+    "after": "p.2014: same food-equivalent gain provides roughly2% benefits on entire stock of food, because Choice allocates10% and rebalances other90%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R728",
+    "before": null,
+    "after": "Own food-equivalent outcome interpretation retained; alternative welfare-versus-physical-food scale objection for adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R729",
+    "before": null,
+    "after": "Duplicate normalization of s8/c1; percent representation does not create another estimate-outcome-benchmark triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R730",
+    "before": null,
+    "after": "Permanent gain divided by total gain is effect-to-effect, not baseline outcome level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9604",
+    "before": null,
+    "after": "Distinct sector-wide aggregate denominator, not separately printed numerical stock; no inferred precise total."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10631",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10631",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10631",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10631",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2664",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2665",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2666",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2668",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10631",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2664",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2665",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2666",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2667",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2668",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10631",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2664",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2665",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2666",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2667",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2668",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10631",
+    "before": null,
+    "after": "Combined annual structural reallocation and geography welfare gain:$130.8m; p.2014, excludes increased donations."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2667",
+    "before": null,
+    "after": "Same structural gain expressed as fraction of annual Choice food supply; not independent of s8/y2. Comparison c2 duplicates c1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2668",
+    "before": null,
+    "after": "Permanent structural welfare gains,19.28m total versus9.79m permanent shares, or $58.4m permanent; appendix Table20 extends calibrations/years."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1075",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1075",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1075",
+    "before": null,
+    "after": "Structural fixed-supply reallocation welfare, eq.(2), pp.2013–15 and appendix Tables19–20; annual total and permanent-component gains across elasticity calibrations and 1/2/3-month horizons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1075",
+    "before": null,
+    "after": "Squared quantity deviations and data-dependent curvature recovery make full calculation nonlinear; external fixed dollar conversion alone does not. Preserve $115.1m reallocation, $130.8m with geography, $58.4m permanent, and $161m/$98m horizon checks. Effect/effect shares do not qualify as outcome benchmarks. Annual/calibration variants remain grouped at same welfare location."
+  }
+]
+```
