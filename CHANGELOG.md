@@ -1036992,3 +1036992,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:02:39.701849+00:00 — Review F9IA5GIP s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1033",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1033",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1033",
+    "before": null,
+    "after": "Continuous technological-change exposure effect on log earnings losses, including stayer null and exposure × post-displacement switching interaction; Table 5 cols 2–4. Switcher status is an endogenous moderator, not randomized treatment. Figure 3B separately under h3; switching regressor’s own causal gate held separately."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1033",
+    "before": null,
+    "after": "Occupation exposure is normalized change in computer/software vacancy share, 2007–2017; weighted linear regression adjustment with occupation-clustered SEs. Dummy controls alone do not establish identifying FE. Author-intention inclusion does not assert exogeneity. Conditional on the reported winsorized log-change outcome, estimator is linear; full raw-outcome winsorization is outcome-adaptive."
+  }
+]
+```
