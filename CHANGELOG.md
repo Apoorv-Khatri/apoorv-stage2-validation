@@ -1030989,3 +1030989,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T03:58:59.931668+00:00 — Review F3IAL93B h82: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10395",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10395",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10395",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10395",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10395",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10395",
+    "before": null,
+    "after": "Imputed willingness to pay per property in CF, printed 37, 72 and 108 for 17%,33%,50% abatements; fixed share times 216.9 CF control revenue under envelope-theorem assumption."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4433",
+    "before": null,
+    "after": "F3IAL93B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4433",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4433",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4433",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4433",
+    "before": null,
+    "after": "Cited NBER Appendix B2.2 / Table B17: WTP of 17%,33%,50% abatement policies, fixed abatement share times status-quo mean tax revenue (216.9 CF)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4433",
+    "before": null,
+    "after": "Implemented linear welfare imputation, not directly randomized WTP measurement and not nonlinear merely because labeled welfare. Envelope-theorem assumption excludes marginal payers. 0.17/0.33/0.50 times control mean gives printed 37/72/108 CF. Conditional linear-imputation OLS taxonomy; structural-welfare Other alternative remains for adjudication."
+  }
+]
+```
