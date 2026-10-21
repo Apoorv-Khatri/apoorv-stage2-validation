@@ -1038450,3 +1038450,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:07:37.600260+00:00 — Review F9IA5GIP h7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10432",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10432",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10432",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10432",
+    "before": null,
+    "after": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4458",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4458",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4458",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4458",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4458",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4458",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4458",
+    "before": null,
+    "after": "Exposure effect on displaced-worker earnings losses by age, education, gender; routine subgroup variants grouped. Location: Appendix C.1/Table A1, p.18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4458",
+    "before": null,
+    "after": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
+  }
+]
+```
