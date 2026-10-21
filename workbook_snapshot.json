@@ -46270,7 +46270,16 @@
     "L4553": "0",
     "M4553": "n/a",
     "N4553": "AppendixFigureA17 pp.41–43: Remove railroad lines constructed1869–1914, retaining pre1869 network, nonhomothetic CES benchmark and doubled nonhomotheticity; population and welfare.",
-    "O4553": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Graph reports percent differences between effect predictions of homothetic and nonhomothetic models. These are not own-outcome level benchmarks; no invented bar values. Main text less-than1pp vs appendix up-to3.5percent wording is retained as a scale conflict."
+    "O4553": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Graph reports percent differences between effect predictions of homothetic and nonhomothetic models. These are not own-outcome level benchmarks; no invented bar values. Main text less-than1pp vs appendix up-to3.5percent wording is retained as a scale conflict.",
+    "A4554": "K8LUIIMP",
+    "B4554": "h35",
+    "I4554": "1",
+    "J4554": "Other",
+    "K4554": "0",
+    "L4554": "0",
+    "M4554": "n/a",
+    "N4554": "AppendixFigureA17 pp.41–43: Joint transatlantic freight and railroad reversal back to1869, nonhomothetic CES benchmark and doubled nonhomotheticity; population and welfare.",
+    "O4554": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Graph reports percent differences between effect predictions of homothetic and nonhomothetic models. These are not own-outcome level benchmarks; no invented bar values. Main text less-than1pp vs appendix up-to3.5percent wording is retained as a scale conflict."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118563,7 +118572,15 @@
     "H10606": "0",
     "I10606": "unknown",
     "J10606": "other",
-    "K10606": "Expected utility (welfare) counterfactual response; figure displays relative difference from homothetic-model effect, not the absolute response."
+    "K10606": "Expected utility (welfare) counterfactual response; figure displays relative difference from homothetic-model effect, not the absolute response.",
+    "A10607": "K8LUIIMP",
+    "B10607": "h35",
+    "C10607": "hy1",
+    "K10607": "Total population counterfactual response; figure displays relative difference from homothetic-model effect, not the absolute response.",
+    "A10608": "K8LUIIMP",
+    "B10608": "h35",
+    "C10608": "hy2",
+    "K10608": "Expected utility (welfare) counterfactual response; figure displays relative difference from homothetic-model effect, not the absolute response."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

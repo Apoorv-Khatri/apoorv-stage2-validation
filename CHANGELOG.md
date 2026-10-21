@@ -1057995,3 +1057995,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:52:46.253018+00:00 — Review K8LUIIMP h35: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10607",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10608",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10607",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10608",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10607",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10608",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10607",
+    "before": null,
+    "after": "Total population counterfactual response; figure displays relative difference from homothetic-model effect, not the absolute response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10608",
+    "before": null,
+    "after": "Expected utility (welfare) counterfactual response; figure displays relative difference from homothetic-model effect, not the absolute response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4554",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4554",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4554",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4554",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4554",
+    "before": null,
+    "after": "AppendixFigureA17 pp.41–43: Joint transatlantic freight and railroad reversal back to1869, nonhomothetic CES benchmark and doubled nonhomotheticity; population and welfare."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4554",
+    "before": null,
+    "after": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Graph reports percent differences between effect predictions of homothetic and nonhomothetic models. These are not own-outcome level benchmarks; no invented bar values. Main text less-than1pp vs appendix up-to3.5percent wording is retained as a scale conflict."
+  }
+]
+```
