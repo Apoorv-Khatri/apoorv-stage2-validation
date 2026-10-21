@@ -45278,7 +45278,16 @@
     "L4465": "1",
     "M4465": "n/a",
     "N4465": "Raw binned exposure contrast for probability of moving to lower computer-requirement occupation, among switchers; least-exposed about 30%, most-exposed nearly 80%. Location: Appendix C.3.1/Figure A9, pp.22–23",
-    "O4465": "Deliberate endpoint pairing in prose, not an invented bin grid. OLS/unadjusted linear contrast conditional on bins. Lower-exposure endpoint target equivalence unresolved; high-exposure endpoint known exposed-state mean."
+    "O4465": "Deliberate endpoint pairing in prose, not an invented bin grid. OLS/unadjusted linear contrast conditional on bins. Lower-exposure endpoint target equivalence unresolved; high-exposure endpoint known exposed-state mean.",
+    "A4466": "F9IA5GIP",
+    "B4466": "h15",
+    "I4466": "1",
+    "J4466": "OLS",
+    "K4466": "0",
+    "L4466": "1",
+    "M4466": "n/a",
+    "N4466": "Exposure effect on switching to a lower-paying occupation after displacement; occupation pay ranked by average earnings in 2010 ACS; 0.146, 0.148, 0.105. Location: Appendix C.3.2/Table A6, pp.24–25",
+    "O4466": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. Appendix C.3.2 fn13 deliberately links .146 to pooled transition mean 33.6%; see hc1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116615,7 +116624,11 @@
     "A10439": "F9IA5GIP",
     "B10439": "h14",
     "C10439": "hy1",
-    "K10439": "Share of occupation switchers moving to lower 2007 computer/software requirements."
+    "K10439": "Share of occupation switchers moving to lower 2007 computer/software requirements.",
+    "A10440": "F9IA5GIP",
+    "B10440": "h15",
+    "C10440": "hy1",
+    "K10440": "Indicator for switching to occupation with lower average 2010 ACS earnings."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -223150,7 +223163,18 @@
     "O9498": "0",
     "P9498": "0",
     "Q9498": "Appendix C.3.1 p.23/Figure A9: same high-minus-low exposure contrast paired with high-exposure endpoint nearly 80% among switchers, versus low endpoint 30%.",
-    "R9498": "Symmetric endpoint eligibility; high endpoint is exposed state, not untreated baseline, despite multivalued parent exposure."
+    "R9498": "Symmetric endpoint eligibility; high endpoint is exposed state, not untreated baseline, despite multivalued parent exposure.",
+    "A9499": "F9IA5GIP",
+    "B9499": "h15",
+    "C9499": "hc1",
+    "K9499": "1",
+    "L9499": "hy1",
+    "M9499": "outcome_mean",
+    "N9499": "1",
+    "O9499": "0",
+    "P9499": "unknown",
+    "Q9499": "Appendix p.25/Table A6(1), footnote13: one exposure-SD effect 14.6 percentage points; sample mean 33.6% transition to lower-paying occupations.",
+    "R9499": "Pooled sample mean; no established dose-specific untreated target."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
