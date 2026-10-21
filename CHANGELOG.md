@@ -1057626,3 +1057626,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:51:27.427763+00:00 — Review K8LUIIMP h32: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10601",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10602",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10601",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10602",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10601",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10602",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10601",
+    "before": null,
+    "after": "Total population counterfactual response; figure displays relative difference from homothetic-model effect, not the absolute response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10602",
+    "before": null,
+    "after": "Expected utility (welfare) counterfactual response; figure displays relative difference from homothetic-model effect, not the absolute response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4551",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4551",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4551",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4551",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4551",
+    "before": null,
+    "after": "AppendixFigureA17 pp.41–43: Agricultural productivity from land-share estimates back to1869, other statistics held1914, nonhomothetic CES benchmark and doubled nonhomotheticity; population and welfare."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4551",
+    "before": null,
+    "after": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Graph reports percent differences between effect predictions of homothetic and nonhomothetic models. These are not own-outcome level benchmarks; no invented bar values. Main text less-than1pp vs appendix up-to3.5percent wording is retained as a scale conflict."
+  }
+]
+```
