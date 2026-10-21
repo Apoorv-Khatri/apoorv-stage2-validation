@@ -1046193,3 +1046193,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:34:24.684763+00:00 — Review J83HLRWH s1: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2618",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2617",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2618",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2617",
+    "before": null,
+    "after": "Normalized certainty equivalent (CE divided by assigned lottery upside), corroborating-regression scope, implementation unverified; Figure V median belongs to h1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2618",
+    "before": null,
+    "after": "Cognitive uncertainty = 100 minus confidence that true valuation lies within $0.50 on each side of stated CE (total $1 window), p.2037; NOT probability of lying within the window."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1048",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1048",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1048",
+    "before": null,
+    "after": "Risk A: randomized complex numbers versus baseline; implemented response and cognitive-uncertainty effects in Section VI (pp.2056–2057), corroborating regressions in Online Appendix Tables 10–13. Figure V top left MEDIAN contrast is separately h1; do not label the median estimator RCT under the linear-method taxonomy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1048",
+    "before": null,
+    "after": "Random assignment is explicit p.2040. P.2057 establishes implemented corroborating regressions but does not name their functional form; no unseen OLS/linear estimator is certified. Method unknown pending supplement; RCT would apply to a verified linear direct-assignment estimator. Figure V medians separately Other. P.2056 CU changes are relative percentages; denominator aggregation and exact allocation remain held."
+  }
+]
+```
