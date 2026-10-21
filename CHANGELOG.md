@@ -1066713,3 +1066713,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:58:00.382637+00:00 — Review MWF8TE4P s1: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2691",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2691",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2691",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2691",
+    "before": null,
+    "after": "spurious identification-only outcome under rejected s1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1084",
+    "before": null,
+    "after": "Table 2 p.309 is a list of auxiliary identification moments, not a separately interpreted final causal fertility result. The IV occupation regression is implemented, but no substantive coefficient or causal interpretation of this auxiliary coefficient is reported; p.310 describes conditional moments among endogenous variables. Exclude as identification-only, not because instruments lack credibility. Held ledger preserves alternative inclusion and unresolved instrument coding."
+  }
+]
+```
