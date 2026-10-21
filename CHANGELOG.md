@@ -1059423,3 +1059423,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:55:38.468593+00:00 — Review K8LUIIMP h41: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10626",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10627",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10626",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10627",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10626",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10627",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10626",
+    "before": null,
+    "after": "Agricultural output per unit land q_g, equation10: estimated employment-density elasticity1-alpha_A=0.39 (VI.A p.1286), conditional on productivity; common agricultural exponent, no invented good-specific fits."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10627",
+    "before": null,
+    "after": "Nontraded output per unit land q_N, equation10: estimated employment-density elasticity1-alpha_N=0.58 (VI.A p.1286), conditional on productivity. Minimum-distance structural estimate, not directly observed output regression."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E121",
+    "before": null,
+    "after": "DONE — Source-scoped review of full70-page final article and55-page publication-linked author appendix, independently audited; publisher-byte identity unverified. Retain non-IV railroad long differences as conventional DiD under conditional common-growth argument, IV precedence where instrumented; PPML/IV-PPML Other. Reported-constructed-outcome OLS/IV domain explicit, full-procedure alternative disclosed. Minimum province-services unknown-method and BA-only population-growth IV scopes retained without unseen allocations. Joint-primitives Table7row1 included as implemented counterfactual but exact1869 reproduction is calibration identity, not independent validation; exclusion alternative documented. Estimated production exponents included under broad structural-response gate, not fitted wage-rental density effects; calibration-only exclusion alternative explicit. Two contemporaneous Figure3 historical-growth comparisons added;2001 allocations held. No ladder/all-bars or other fabricated grids. Aggregate1914-normalized levels other_level, not assumed district means; observed historical changes distinct from effect-to-effect ratios. A6 same-outcome reductions retained with exact baseline denominator identity unresolved, no reconstructed absolute denominator. Urban-threshold allocation, further BA-IV details and ambiguous comparison allocations held. Printed13.6percent/0.136, date, map, coefficient-sign, nonhomothetic scales and expenditure-weight population conflicts preserved. Original model fields/IDs/links retained; no empirical replication or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4560",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4560",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4560",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4560",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4560",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4560",
+    "before": null,
+    "after": "Estimated production technology: employment per unit of land → output per unit of land in agriculture and nontraded sector; equation10 p.1273, minimum-distance estimates VI.A p.1286."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4560",
+    "before": null,
+    "after": "Estimated labor exponents0.39 agriculture and0.58 nontradeables give parameter-specific technological output responses in the maintained Cobb-Douglas functions. Estimated jointly by minimizing squared log wage-rental prediction errors, not an OLS output regression. Broad structural-elasticity gate; alternative excludes calibration inputs without separately stated empirical response. Do not reinterpret endogenous wage-rental equilibrium slopes as additional causal effects."
+  }
+]
+```

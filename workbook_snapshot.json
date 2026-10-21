@@ -582,6 +582,7 @@
     "B121": "Trade, Structural Transformation, and Development: Evidence from Argentina 1869–1914",
     "C121": "econ",
     "D121": 9,
+    "E121": "DONE — Source-scoped review of full70-page final article and55-page publication-linked author appendix, independently audited; publisher-byte identity unverified. Retain non-IV railroad long differences as conventional DiD under conditional common-growth argument, IV precedence where instrumented; PPML/IV-PPML Other. Reported-constructed-outcome OLS/IV domain explicit, full-procedure alternative disclosed. Minimum province-services unknown-method and BA-only population-growth IV scopes retained without unseen allocations. Joint-primitives Table7row1 included as implemented counterfactual but exact1869 reproduction is calibration identity, not independent validation; exclusion alternative documented. Estimated production exponents included under broad structural-response gate, not fitted wage-rental density effects; calibration-only exclusion alternative explicit. Two contemporaneous Figure3 historical-growth comparisons added;2001 allocations held. No ladder/all-bars or other fabricated grids. Aggregate1914-normalized levels other_level, not assumed district means; observed historical changes distinct from effect-to-effect ratios. A6 same-outcome reductions retained with exact baseline denominator identity unresolved, no reconstructed absolute denominator. Urban-threshold allocation, further BA-IV details and ambiguous comparison allocations held. Printed13.6percent/0.136, date, map, coefficient-sign, nonhomothetic scales and expenditure-weight population conflicts preserved. Original model fields/IDs/links retained; no empirical replication or omission-free certification.",
     "A122": "KRMMS6YI",
     "B122": "The Allocation of Food to Food Banks",
     "C122": "econ",
@@ -46324,7 +46325,16 @@
     "L4559": "0",
     "M4559": "n/a",
     "N4559": "Table7 row1, pp.1303–1304: jointly reset adjusted agricultural productivity, nontraded productivity, world population and outside expected utility from1914 to1869; GDP, population and welfare.",
-    "O4559": "Authors explicitly implement and call this a counterfactual changing all sufficient statistics. Broad author-intention inclusion; exact reproduction of1869 is by construction, not independent causal validation. Competing calibration-identity exclusion is retained in independent report. Nonlinear equilibrium bundle, not isolated trade effect."
+    "O4559": "Authors explicitly implement and call this a counterfactual changing all sufficient statistics. Broad author-intention inclusion; exact reproduction of1869 is by construction, not independent causal validation. Competing calibration-identity exclusion is retained in independent report. Nonlinear equilibrium bundle, not isolated trade effect.",
+    "A4560": "K8LUIIMP",
+    "B4560": "h41",
+    "I4560": "1",
+    "J4560": "Other",
+    "K4560": "0",
+    "L4560": "0",
+    "M4560": "n/a",
+    "N4560": "Estimated production technology: employment per unit of land → output per unit of land in agriculture and nontraded sector; equation10 p.1273, minimum-distance estimates VI.A p.1286.",
+    "O4560": "Estimated labor exponents0.39 agriculture and0.58 nontradeables give parameter-specific technological output responses in the maintained Cobb-Douglas functions. Estimated jointly by minimizing squared log wage-rental prediction errors, not an OLS output regression. Broad structural-elasticity gate; alternative excludes calibration inputs without separately stated empirical response. Do not reinterpret endogenous wage-rental equilibrium slopes as additional causal effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118729,7 +118739,15 @@
     "A10625": "K8LUIIMP",
     "B10625": "h40",
     "C10625": "hy3",
-    "K10625": "Expected utility in Argentina; Table7 row1 joint-primitive equilibrium, counterfactual1869 relative to actual1914."
+    "K10625": "Expected utility in Argentina; Table7 row1 joint-primitive equilibrium, counterfactual1869 relative to actual1914.",
+    "A10626": "K8LUIIMP",
+    "B10626": "h41",
+    "C10626": "hy1",
+    "K10626": "Agricultural output per unit land q_g, equation10: estimated employment-density elasticity1-alpha_A=0.39 (VI.A p.1286), conditional on productivity; common agricultural exponent, no invented good-specific fits.",
+    "A10627": "K8LUIIMP",
+    "B10627": "h41",
+    "C10627": "hy2",
+    "K10627": "Nontraded output per unit land q_N, equation10: estimated employment-density elasticity1-alpha_N=0.58 (VI.A p.1286), conditional on productivity. Minimum-distance structural estimate, not directly observed output regression."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
