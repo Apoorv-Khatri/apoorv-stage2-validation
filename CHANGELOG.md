@@ -1060722,3 +1060722,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:43:19.182704+00:00 — Review KRMMS6YI s7: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R727",
+    "before": null,
+    "after": "Distance coefficient is in winning-bid shares; .28shares/pound and $5.97/share are conversion quantities, not benchmark level of total winning bid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1074",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1074",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1074",
+    "before": null,
+    "after": "Distance effect on winning bid, Table 4 and repeated appendix Table 14: apples/homogeneous goods/all-goods interacted variants, one joint food-bank×food-type×time FE set."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1074",
+    "before": null,
+    "after": "One joint interaction is ONE effective absorbed dimension, not HDFE. Identifying role explicit pp.2011–12. Three separate pairwise sets belong to h6. Conditional on chosen foods, regression linear in reported bids; low-bid-SD food selection makes full-procedure outcome adaptation an adjudication issue. Table14 swaps col4/5 time-FE marks relative to final Table4; final main mapping governs, conflict retained. Positive unrestricted distance slope reflects selection, not separately causally interpreted effect. No qualifying bid benchmark in c1. Independent adjudication: classify the complete reported bid procedure, not a regression conditional on an outcome-selected food list. Homogeneity is selected using winning-bid SD, the focal outcome. Thus Other (outcome-adaptive sample/classification followed by linear regression). Conditional alternatives remain FE for one joint set in main Table4 and HDFE for three pairwise sets in appendix Table15; dimension correction is certain, method domain is a substantive coding dispute."
+  }
+]
+```
