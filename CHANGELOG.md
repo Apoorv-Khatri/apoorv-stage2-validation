@@ -1061118,3 +1061118,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:44:14.092391+00:00 — Review KRMMS6YI h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10632",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10632",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10632",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10632",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10632",
+    "before": null,
+    "after": "Indicator food bank wins a given auction conditional on having bid, 2005–11; appendix Table3 col2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4561",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4561",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4561",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4561",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4561",
+    "before": null,
+    "after": "Goal factor effect on winning conditional on bidding, appendix Table3 col2; .057 linear probability slope, food-type/year controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4561",
+    "before": null,
+    "after": "Main p.2003 explicitly uses small winning differences to argue weak benefits; central corroboration under intro p.1994. Controls routine, not identifying FE. Goal factor continuous. No outcome mean supplied; 5.7% wording does not establish normalization."
+  }
+]
+```

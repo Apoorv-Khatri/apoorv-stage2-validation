@@ -46390,7 +46390,16 @@
     "L4560": "0",
     "M4560": "n/a",
     "N4560": "Estimated production technology: employment per unit of land → output per unit of land in agriculture and nontraded sector; equation10 p.1273, minimum-distance estimates VI.A p.1286.",
-    "O4560": "Estimated labor exponents0.39 agriculture and0.58 nontradeables give parameter-specific technological output responses in the maintained Cobb-Douglas functions. Estimated jointly by minimizing squared log wage-rental prediction errors, not an OLS output regression. Broad structural-elasticity gate; alternative excludes calibration inputs without separately stated empirical response. Do not reinterpret endogenous wage-rental equilibrium slopes as additional causal effects."
+    "O4560": "Estimated labor exponents0.39 agriculture and0.58 nontradeables give parameter-specific technological output responses in the maintained Cobb-Douglas functions. Estimated jointly by minimizing squared log wage-rental prediction errors, not an OLS output regression. Broad structural-elasticity gate; alternative excludes calibration inputs without separately stated empirical response. Do not reinterpret endogenous wage-rental equilibrium slopes as additional causal effects.",
+    "A4561": "KRMMS6YI",
+    "B4561": "h1",
+    "I4561": "1",
+    "J4561": "OLS",
+    "K4561": "0",
+    "L4561": "1",
+    "M4561": "n/a",
+    "N4561": "Goal factor effect on winning conditional on bidding, appendix Table3 col2; .057 linear probability slope, food-type/year controls.",
+    "O4561": "Main p.2003 explicitly uses small winning differences to argue weak benefits; central corroboration under intro p.1994. Controls routine, not identifying FE. Goal factor continuous. No outcome mean supplied; 5.7% wording does not establish normalization."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118873,7 +118882,14 @@
     "H10631": "0",
     "I10631": "unknown",
     "J10631": "none",
-    "K10631": "Combined annual structural reallocation and geography welfare gain:$130.8m; p.2014, excludes increased donations."
+    "K10631": "Combined annual structural reallocation and geography welfare gain:$130.8m; p.2014, excludes increased donations.",
+    "A10632": "KRMMS6YI",
+    "B10632": "h1",
+    "C10632": "hy1",
+    "H10632": "1",
+    "I10632": "1",
+    "J10632": "none",
+    "K10632": "Indicator food bank wins a given auction conditional on having bid, 2005–11; appendix Table3 col2."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
