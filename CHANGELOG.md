@@ -1061517,3 +1061517,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:45:31.727454+00:00 — Review KRMMS6YI h4: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9605",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9605",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9605",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9605",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9605",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9605",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9605",
+    "before": null,
+    "after": "Figure4/pp.2005–06: old-rule common 3–4 pounds/share; a quarter below half, almost 30% twice, 10% at least three times. One qualitative distribution-to-baseline comparison, no bin grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9605",
+    "before": null,
+    "after": "Adjudicate distributional policy interpretation and qualifying normalization; not a new precise endpoint estimate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10637",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10637",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10637",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10637",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10637",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10637",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10637",
+    "before": null,
+    "after": "Food-bank average pounds per share distribution, 2005–11; graph axis is pounds/share despite caption price per pound."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4564",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4564",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4564",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4564",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4564",
+    "before": null,
+    "after": "Choice versus old allocation pounds-per-share distribution across food banks, Figure4 and pp.2005–06."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4564",
+    "before": null,
+    "after": "Graph and prose explicitly contrast choices with old-rule common 3–4 pounds/share. Reported ratio outcome vs full recomputation domain unresolved; do not label a distribution histogram an OLS regression. No fabricated bin coefficients."
+  }
+]
+```

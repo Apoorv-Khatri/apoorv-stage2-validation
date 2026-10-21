@@ -46417,7 +46417,16 @@
     "L4563": "1",
     "M4563": "n/a",
     "N4563": "Choice allocation versus old equal-pounds-per-client rule: absolute proportional allocation dispersion; main eq.(1)/Section V, appendix pp.9–11.",
-    "O4563": "Actual minus old-rule allocation is explicitly attributed to Choice (p.2005). Absolute values, own-rule denominators and ex-post weights yield nonlinear full statistic. Not merely descriptive variance. Overall 1.26, permanent .87; ex-post 7.93/7.28 and outlier exclusion 2.63/1.9. No manufactured period comparison grid; normalization eligibility held separately."
+    "O4563": "Actual minus old-rule allocation is explicitly attributed to Choice (p.2005). Absolute values, own-rule denominators and ex-post weights yield nonlinear full statistic. Not merely descriptive variance. Overall 1.26, permanent .87; ex-post 7.93/7.28 and outlier exclusion 2.63/1.9. No manufactured period comparison grid; normalization eligibility held separately.",
+    "A4564": "KRMMS6YI",
+    "B4564": "h4",
+    "I4564": "1",
+    "J4564": "unknown",
+    "K4564": "1",
+    "L4564": "1",
+    "M4564": "n/a",
+    "N4564": "Choice versus old allocation pounds-per-share distribution across food banks, Figure4 and pp.2005–06.",
+    "O4564": "Graph and prose explicitly contrast choices with old-rule common 3–4 pounds/share. Reported ratio outcome vs full recomputation domain unresolved; do not label a distribution histogram an OLS regression. No fabricated bin coefficients."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118935,7 +118944,14 @@
     "H10636": "0",
     "I10636": "unknown",
     "J10636": "other",
-    "K10636": "Ex-post actual-allocation weighted absolute proportional deviation: 7.93, 2.63 excluding four outliers; appendix pp.9–11."
+    "K10636": "Ex-post actual-allocation weighted absolute proportional deviation: 7.93, 2.63 excluding four outliers; appendix pp.9–11.",
+    "A10637": "KRMMS6YI",
+    "B10637": "h4",
+    "C10637": "hy1",
+    "H10637": "0",
+    "I10637": "unknown",
+    "J10637": "other",
+    "K10637": "Food-bank average pounds per share distribution, 2005–11; graph axis is pounds/share despite caption price per pound."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -226651,7 +226667,18 @@
     "O9604": "1",
     "P9604": "n/a",
     "Q9604": "p.2014: same food-equivalent gain provides roughly2% benefits on entire stock of food, because Choice allocates10% and rebalances other90%.",
-    "R9604": "Distinct sector-wide aggregate denominator, not separately printed numerical stock; no inferred precise total."
+    "R9604": "Distinct sector-wide aggregate denominator, not separately printed numerical stock; no inferred precise total.",
+    "A9605": "KRMMS6YI",
+    "B9605": "h4",
+    "C9605": "hc1",
+    "K9605": "1",
+    "L9605": "hy1",
+    "M9605": "other_level",
+    "N9605": "1",
+    "O9605": "1",
+    "P9605": "n/a",
+    "Q9605": "Figure4/pp.2005–06: old-rule common 3–4 pounds/share; a quarter below half, almost 30% twice, 10% at least three times. One qualitative distribution-to-baseline comparison, no bin grid.",
+    "R9605": "Adjudicate distributional policy interpretation and qualifying normalization; not a new precise endpoint estimate."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
