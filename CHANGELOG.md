@@ -1035912,3 +1035912,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:30:19.567921+00:00 — Review F64LTKPN h13: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10418",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10419",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10418",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10419",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10418",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10419",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10418",
+    "before": null,
+    "after": "Indicator auction price exceeds low BIN by more than zero, excluding shipping; Fig.A1 disc."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10419",
+    "before": null,
+    "after": "Indicator auction price exceeds low BIN by more than $1, excluding shipping; Fig.A1 disc."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4448",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4448",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4448",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4448",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4448",
+    "before": null,
+    "after": "Figure A1 p.6: disc, auction-minus-BIN title presence, on overbid and >$1-overbid indicators excluding shipping."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4448",
+    "before": null,
+    "after": "Sum is grouped < -1,-1,0,1,>1; individual words are -1,0,+1. Distinct supplemental result location. A1 caption refers to Section3, while final definition is SectionII. Group means linear in reported indicators; not nonlinear merely because indicators were constructed from prices."
+  }
+]
+```

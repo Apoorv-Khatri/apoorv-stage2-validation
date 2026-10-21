@@ -45075,7 +45075,16 @@
     "L4447": "0",
     "M4447": "n/a",
     "N4447": "Figure A1 p.6: new, auction-minus-BIN title presence, on overbid and >$1-overbid indicators excluding shipping.",
-    "O4447": "Sum is grouped < -1,-1,0,1,>1; individual words are -1,0,+1. Distinct supplemental result location. A1 caption refers to Section3, while final definition is SectionII. Group means linear in reported indicators; not nonlinear merely because indicators were constructed from prices."
+    "O4447": "Sum is grouped < -1,-1,0,1,>1; individual words are -1,0,+1. Distinct supplemental result location. A1 caption refers to Section3, while final definition is SectionII. Group means linear in reported indicators; not nonlinear merely because indicators were constructed from prices.",
+    "A4448": "F64LTKPN",
+    "B4448": "h13",
+    "I4448": "1",
+    "J4448": "OLS",
+    "K4448": "0",
+    "L4448": "0",
+    "M4448": "n/a",
+    "N4448": "Figure A1 p.6: disc, auction-minus-BIN title presence, on overbid and >$1-overbid indicators excluding shipping.",
+    "O4448": "Sum is grouped < -1,-1,0,1,>1; individual words are -1,0,+1. Distinct supplemental result location. A1 caption refers to Section3, while final definition is SectionII. Group means linear in reported indicators; not nonlinear merely because indicators were constructed from prices."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116317,7 +116326,15 @@
     "A10417": "F64LTKPN",
     "B10417": "h12",
     "C10417": "hy2",
-    "K10417": "Indicator auction price exceeds low BIN by more than $1, excluding shipping; Fig.A1 new."
+    "K10417": "Indicator auction price exceeds low BIN by more than $1, excluding shipping; Fig.A1 new.",
+    "A10418": "F64LTKPN",
+    "B10418": "h13",
+    "C10418": "hy1",
+    "K10418": "Indicator auction price exceeds low BIN by more than zero, excluding shipping; Fig.A1 disc.",
+    "A10419": "F64LTKPN",
+    "B10419": "h13",
+    "C10419": "hy2",
+    "K10419": "Indicator auction price exceeds low BIN by more than $1, excluding shipping; Fig.A1 disc."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
