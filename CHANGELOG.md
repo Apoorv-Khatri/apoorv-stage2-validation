@@ -1042536,3 +1042536,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:50:54.003521+00:00 — Review IJCHBNI5 s2: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L720",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M720",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P720",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q720",
+    "before": null,
+    "after": "p.2070; Figure V B: +5 percentage points versus pre-Reformation administration-first-job mean about 10%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R720",
+    "before": null,
+    "after": "Deliberate verbal magnitude comparison, not an author-computed ratio. Pre-Reformation mean population/weights not specified enough to identify untreated target outcome for this differential post-period effect. Parallel trends alone does not establish level equality."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2606",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2606",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2606",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2606",
+    "before": null,
+    "after": "First-job administrative indicator includes the very small number of military occupations (final footnote42, pp.2069–2070); excludes education and health occupations. Binary indicator, not administrative employment share."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1038",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1038",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1038",
+    "before": null,
+    "after": "Linear conventional DiD, not modern DiD, FE or OLS despite OLS implementation. Dynamic post-treatment estimates and pooled post periods retained; diagnostic leads are not separate settings. Author causal interpretation in pp. 2040–2044 and 2087; remaining endogeneity is not an exclusion criterion. Printed p-value conflict: Figure V caption .10, text p.2070 .126. Preserve rather than resolve from significance."
+  }
+]
+```
