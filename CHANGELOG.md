@@ -1042245,3 +1042245,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:22:07.205684+00:00 — Review F9IA5GIP h34: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10473",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10473",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10473",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10473",
+    "before": null,
+    "after": "Annual W2 earnings, 2019 dollars; exposure-dependent layoff effects through year5, all laid-off and switching strata."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4485",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4485",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4485",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4485",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4485",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4485",
+    "before": null,
+    "after": "Continuous technological-change exposure interaction with layoff event time; differential annual earnings path among all laid-off workers, occupation switchers and stayers; retain stayer null. Location: Appendix E eq7/Figure A13B–D pp.60–63"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4485",
+    "before": null,
+    "after": "Same equation/result figure and routine subgroup estimates grouped. Source reports mean-dose versus zero-dose layoff-effect paths, average $3k/year differential; graph Y-axis Earnings Loss and caption coefficient estimates. These are effect-to-effect comparisons, not same-outcome level benchmarks. Post-displacement switching selection retained, not randomized. No fabricated annual coefficients."
+  }
+]
+```

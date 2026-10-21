@@ -45449,7 +45449,16 @@
     "L4484": "0",
     "M4484": "n/a",
     "N4484": "Direct effect of layoff on annual earnings path, individual/year FE event-time regression with non-laid-off controls and parallel-trends check; post years0–5 substantive, leads diagnostic. Location: Appendix E eq6/Figure A13A pp.60,63",
-    "O4484": "Conventional event study, no named heterogeneity-robust estimator. Earnings threshold applies to some pre/post years, not every observation; zero mass unknown, not0. Full non-laid-off sample controls. No deliberately linked level benchmark: A25 earnings mean is separate descriptive statistic."
+    "O4484": "Conventional event study, no named heterogeneity-robust estimator. Earnings threshold applies to some pre/post years, not every observation; zero mass unknown, not0. Full non-laid-off sample controls. No deliberately linked level benchmark: A25 earnings mean is separate descriptive statistic.",
+    "A4485": "F9IA5GIP",
+    "B4485": "h34",
+    "I4485": "1",
+    "J4485": "DiD_conventional",
+    "K4485": "0",
+    "L4485": "1",
+    "M4485": "n/a",
+    "N4485": "Continuous technological-change exposure interaction with layoff event time; differential annual earnings path among all laid-off workers, occupation switchers and stayers; retain stayer null. Location: Appendix E eq7/Figure A13B–D pp.60–63",
+    "O4485": "Same equation/result figure and routine subgroup estimates grouped. Source reports mean-dose versus zero-dose layoff-effect paths, average $3k/year differential; graph Y-axis Earnings Loss and caption coefficient estimates. These are effect-to-effect comparisons, not same-outcome level benchmarks. Post-displacement switching selection retained, not randomized. No fabricated annual coefficients."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116927,7 +116936,11 @@
     "H10472": "0",
     "I10472": "unknown",
     "J10472": "none",
-    "K10472": "Real annual W2 earnings, 2019 dollars; event-time coefficients in dollars, not log earnings."
+    "K10472": "Real annual W2 earnings, 2019 dollars; event-time coefficients in dollars, not log earnings.",
+    "A10473": "F9IA5GIP",
+    "B10473": "h34",
+    "C10473": "hy1",
+    "K10473": "Annual W2 earnings, 2019 dollars; exposure-dependent layoff effects through year5, all laid-off and switching strata."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
