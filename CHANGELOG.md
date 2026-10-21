@@ -1037289,3 +1037289,216 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:04:12.275794+00:00 — Review F9IA5GIP s6: source-audited coding and linked comparisons
+
+34 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9490",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9490",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9490",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K718",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L716",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9490",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M716",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9490",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9490",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P716",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q716",
+    "before": null,
+    "after": "Main p.312/Figure 5: full-model average loss 7.63%, no-technology loss 4.16%; technological change accounts for printed 45.5% of full-model loss among re-employed agents two years after job loss."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9490",
+    "before": null,
+    "after": "Figure 5/main p.312 and A24 col1, 10 occupations: technology-presence contrast between full-model earnings change -7.63% and no-technology -4.16%, paired with no-technology mean -4.16%. Full-model denominator triple already retained; no division by this endpoint reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R716",
+    "before": null,
+    "after": "Technology-presence effect is normalized by the exposed/full-model mean, not the untreated no-technology mean. Eligibility and normalization do not imply alignment. Appendix A24 baseline repeats this triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R717",
+    "before": null,
+    "after": "Real decomposition comparison, but different focal mechanism than narrowed s6. Relocated once under h4; original model evidence preserved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R718",
+    "before": null,
+    "after": "Real decomposition comparison, but different focal mechanism than narrowed s6. Relocated once under h5; original model evidence preserved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9490",
+    "before": null,
+    "after": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2604",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2604",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2604",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2604",
+    "before": null,
+    "after": "Model average percent earnings change two years after layoff among re-employed agents. Percent change relative to pre-layoff earnings; not a binary outcome and not outcome-SD units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1036",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1036",
+    "before": null,
+    "after": "Presence versus removal of technological change (g=0) in calibrated dynamic search model: two-years-after-displacement average earnings loss among re-employed agents, 7.63% full model vs 4.16% without technology; Section V.E/Figure 5. Separate removal of experience and residual job-ladder attribution under h4/h5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1036",
+    "before": null,
+    "after": "Nonlinear dynamic search/equilibrium counterfactual: Bellman maximization and endogenous occupation/wage search, not merely a linear average. Technology-presence effect uses no-technology model as reference; full-model loss is exposed-state benchmark. Appendix D.6.3 changes entrants’ human-capital draws to the baseline stationary distribution."
+  }
+]
+```
