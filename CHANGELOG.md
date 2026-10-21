@@ -1059639,3 +1059639,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:41:04.920740+00:00 — Review KRMMS6YI s2: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1069",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1069",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1069",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1069",
+    "before": null,
+    "after": "Goal-factor elasticity of total pounds by year, main Figure 5; appendix Table 4. Year interactions and year controls, not a separately established parallel-trends DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1069",
+    "before": null,
+    "after": "Appendix baseline 2005 coefficient .567 conflicts with main claim every post-2005 elasticity below .5. Preserve source conflict; no coefficient replacement. Elasticity comparisons to other elasticities are effect-to-effect, not outcome benchmarks."
+  }
+]
+```
