@@ -1048425,3 +1048425,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:44:20.190459+00:00 — Review J83HLRWH h12: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9530",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9531",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9530",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9531",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9530",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9531",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9530",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9531",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9530",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9531",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9530",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9531",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9530",
+    "before": null,
+    "after": "Figure III left top, p.2046; p.2047 compares high-CU compression with low CU. Qualitative median-path contrast paired with displayed low-CU median path in Risk A; no numerical endpoints or bin grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9531",
+    "before": null,
+    "after": "Figure III left top, p.2046; p.2047 compares high-CU compression with low CU. Qualitative median-path contrast paired with displayed high-CU median path in Risk A; no numerical endpoints or bin grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9530",
+    "before": null,
+    "after": "Same deliberate graphical endpoint-pairing rule as Figure V, applied symmetrically. Medians are other_level. No separate theoretical 45-degree-line benchmark is added."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9531",
+    "before": null,
+    "after": "Same deliberate graphical endpoint-pairing rule as Figure V, applied symmetrically. Medians are other_level. No separate theoretical 45-degree-line benchmark is added."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10520",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10520",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10520",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10520",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10520",
+    "before": null,
+    "after": "Normalized certainty equivalent (CE divided by lottery upside), shown as median in percent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4509",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4509",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4509",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4509",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4509",
+    "before": null,
+    "after": "Figure III left top, pp.2046–2047: below-median versus high CU decisions in Risk A; median response/compression contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4509",
+    "before": null,
+    "after": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Implemented binary CU split, not randomized CU; median nonlinear in decisions. This is a separate estimator/location from Tables III/IV. No numerical curve values inferred."
+  }
+]
+```
