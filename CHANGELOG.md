@@ -1046964,3 +1046964,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:37:01.565587+00:00 — Review J83HLRWH h3: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9526",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9527",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9526",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9527",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9526",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9527",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9526",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9527",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9526",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9527",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9526",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9527",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9526",
+    "before": null,
+    "after": "Figure V top right, p.2058, with p.2057: complexity responses are more compressed than baseline. Qualitative median-path contrast paired with the displayed baseline median path; no numeric graph endpoints asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9527",
+    "before": null,
+    "after": "Figure V top right, p.2058, with p.2057: complexity responses are more compressed than baseline. Qualitative median-path contrast paired with the displayed complexity-treated median path; no numeric graph endpoints asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9526",
+    "before": null,
+    "after": "One qualitative path comparison, not an invented probability-by-coefficient grid. Both endpoints audited symmetrically. Medians are other_level, not outcome_mean; graphical-pairing eligibility requires adjudication if a numerical-effect-only policy is preferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9527",
+    "before": null,
+    "after": "One qualitative path comparison, not an invented probability-by-coefficient grid. Both endpoints audited symmetrically. Medians are other_level, not outcome_mean; graphical-pairing eligibility requires adjudication if a numerical-effect-only policy is preferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10512",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10512",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10512",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10512",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10512",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10512",
+    "before": null,
+    "after": "Median normalized certainty equivalent (CE / lottery upside) in Figure V top right; outcome is not binary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4502",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4502",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4502",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4502",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4502",
+    "before": null,
+    "after": "Figure V top right, p.2058: Risk B gains randomized compound lotteries versus baseline, difference in median normalized certainty equivalents across displayed probability values/bins."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4502",
+    "before": null,
+    "after": "Median is nonlinear in underlying reported decision outcomes. Assignment remains randomized, but Other takes precedence over RCT for the nonlinear statistic. No digitized estimates or bin grid. Figure V is not a mean-difference estimator; keep separate from s3."
+  }
+]
+```
