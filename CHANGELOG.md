@@ -1033599,3 +1033599,378 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:27:04.036431+00:00 — Review F64LTKPN h6: source-audited coding and linked comparisons
+
+61 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9457",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9458",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9459",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9460",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9457",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9458",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9459",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9460",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9457",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9458",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9459",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9460",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9457",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9458",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9459",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9460",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9457",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9458",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9459",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9460",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9458",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9458",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9458",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9460",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9457",
+    "before": null,
+    "after": "Figure1 p.1193, disc, overbid: qualitative high-versus-low wording endpoint contrast; benchmark higher-wording endpoint mean. Individual endpoints +1/-1; summed endpoints >1/<-1. No exact numeric heights transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9458",
+    "before": null,
+    "after": "Figure1 p.1193, disc, overbid: qualitative high-versus-low wording endpoint contrast; benchmark lower-wording endpoint mean. Individual endpoints +1/-1; summed endpoints >1/<-1. No exact numeric heights transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9459",
+    "before": null,
+    "after": "Figure1 p.1193, disc, overbid >$1: qualitative high-versus-low wording endpoint contrast; benchmark higher-wording endpoint mean. Individual endpoints +1/-1; summed endpoints >1/<-1. No exact numeric heights transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9460",
+    "before": null,
+    "after": "Figure1 p.1193, disc, overbid >$1: qualitative high-versus-low wording endpoint contrast; benchmark lower-wording endpoint mean. Individual endpoints +1/-1; summed endpoints >1/<-1. No exact numeric heights transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9457",
+    "before": null,
+    "after": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9458",
+    "before": null,
+    "after": "Deliberate graphical endpoint pairing; no coefficient grid or digitized values. Eligibility is provisional policy judgment, not a printed regression estimate. Observational group means do not establish target alignment. Neutral/intermediate bins not separately counted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9459",
+    "before": null,
+    "after": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9460",
+    "before": null,
+    "after": "Deliberate graphical endpoint pairing; no coefficient grid or digitized values. Eligibility is provisional policy judgment, not a printed regression estimate. Observational group means do not establish target alignment. Neutral/intermediate bins not separately counted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10406",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10407",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10406",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10407",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10406",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10407",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10406",
+    "before": null,
+    "after": "Indicator auction price exceeds low BIN price by more than zero, including shipping; Figure1 bottom disc group."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10407",
+    "before": null,
+    "after": "Indicator auction price exceeds low BIN price by more than $1, including shipping; Figure1 bottom disc group."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4441",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4441",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4441",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4441",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4441",
+    "before": null,
+    "after": "Figure1 bottom panels p.1193: disc auction-minus-BIN title presence (-1,0,+1), on overbid and >$1-overbid indicators including shipping."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4441",
+    "before": null,
+    "after": "Author-intention inclusion: pp.1185,1188 and Fig.1 interpret wording as generating search frictions/overbidding, not merely a predictive exercise. Observational cell means, no identifying FE or IV; confounding by title clarity and seller quality acknowledged. Treatment is the reported -1/0/+1 wording asymmetry, not a binary word-presence indicator. Endpoint-only binary interpretation remains an adjudication alternative."
+  }
+]
+```
