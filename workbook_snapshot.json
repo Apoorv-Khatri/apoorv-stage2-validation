@@ -45197,7 +45197,16 @@
     "L4456": "1",
     "M4456": "n/a",
     "N4456": "Residual attribution of 1.53% loss to moving down the wage/job ladder in the no-technology/no-experience model; 20% of baseline 7.63% loss. No additional simulated switch-off of the ladder is reported. Location: Main V.E p.312/Figure 5; A24 baseline col1",
-    "O4456": "Implemented structural accounting attribution, not a fabricated ladder-removal simulation. Binary coding unresolved because source reports residual rather than an implemented two-state toggle. Full-model denominator is a different mechanism regime, alignment=0."
+    "O4456": "Implemented structural accounting attribution, not a fabricated ladder-removal simulation. Binary coding unresolved because source reports residual rather than an implemented two-state toggle. Full-model denominator is a different mechanism regime, alignment=0.",
+    "A4457": "F9IA5GIP",
+    "B4457": "h6",
+    "I4457": "1",
+    "J4457": "OLS",
+    "K4457": "0",
+    "L4457": "0",
+    "M4457": "n/a",
+    "N4457": "Technological-change exposure and occupation earnings growth/dispersion, employment-weighted binned regressions; authors explicitly conclude greater exposure increases within-occupation inequality. Location: Appendix B.3/Figure A5, pp.9–10",
+    "O4457": "Broad gate includes both implications for wage structure; explicit causal sentence strongest for dispersion. OLS conditional on reported occupation aggregates, not assertion that SD is linear in worker-level raw earnings. Treatment-based bins/weights; underlying earnings winsorized 1%. No same-outcome mean/SD benchmark: SD here is outcome, not denominator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116494,7 +116503,15 @@
     "A10429": "F9IA5GIP",
     "B10429": "h5",
     "C10429": "hy1",
-    "K10429": "Model residual average percentage earnings loss two years after layoff among re-employed agents."
+    "K10429": "Model residual average percentage earnings loss two years after layoff among re-employed agents.",
+    "A10430": "F9IA5GIP",
+    "B10430": "h6",
+    "C10430": "hy1",
+    "K10430": "Change in log average real earnings by occupation, 2007–2017 ACS.",
+    "A10431": "F9IA5GIP",
+    "B10431": "h6",
+    "C10431": "hy2",
+    "K10431": "Change in within-occupation SD of log real earnings, 2007–2017 ACS."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

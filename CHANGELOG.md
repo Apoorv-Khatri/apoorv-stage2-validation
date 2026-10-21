@@ -1038339,3 +1038339,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:07:08.716907+00:00 — Review F9IA5GIP h6: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10430",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10431",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10430",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10431",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10430",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10431",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10430",
+    "before": null,
+    "after": "Change in log average real earnings by occupation, 2007–2017 ACS."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10431",
+    "before": null,
+    "after": "Change in within-occupation SD of log real earnings, 2007–2017 ACS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4457",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4457",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4457",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4457",
+    "before": null,
+    "after": "Technological-change exposure and occupation earnings growth/dispersion, employment-weighted binned regressions; authors explicitly conclude greater exposure increases within-occupation inequality. Location: Appendix B.3/Figure A5, pp.9–10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4457",
+    "before": null,
+    "after": "Broad gate includes both implications for wage structure; explicit causal sentence strongest for dispersion. OLS conditional on reported occupation aggregates, not assertion that SD is linear in worker-level raw earnings. Treatment-based bins/weights; underlying earnings winsorized 1%. No same-outcome mean/SD benchmark: SD here is outcome, not denominator."
+  }
+]
+```
