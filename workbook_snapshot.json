@@ -587,6 +587,7 @@
     "B122": "The Allocation of Food to Food Banks",
     "C122": "econ",
     "D122": 8,
+    "E122": "DONE — Source-scoped review of25-page final article and29-page publication-linked author appendix, independently audited; publisher-byte identity unverified. Broad goal-factor author-intention gate retained with predictive-only alternative explicit; engagement central. Client-weighted equal-size groups corrected, not median bank. Distance s7/h6 classified Other for complete outcome-adaptive homogeneity selection using winning-bid SD; conditional FE/HDFE alternatives preserved: one joint set in main, three identifying pairwise sets in appendix. Direct negative-price quantity component separated h9 OLS; financed/combined ratios h5 Other. Ex-post permanent dispersion7.28/1.9 covered once. Nutrition higher score less healthy; reported .899/.883 and comparison preserved although printed fractions and basket weights fail reconstruction. Supply100m/110m/55,000-person construction conflict retained without replacing estimates. All-bank supply210m/330m treated as annual means; matched107-bank means separate, exposed alignment0 and earlier unknown. Table7 all23 category triples retained under broad reallocation gate, duplicateBreakfast and below-one ratios explicit. Duplicate20.8percent, wrong-outcome premium/.28 and effect-to-effect51percent rejected. Own-dispersion denominators, extra distance scenarios, Table9/credit composition, failed matching results and nearby-assignment/benchmark allocations held. Printed elasticity, FE-column, clipping, unit and nutrition/conversion conflicts retained. Original fields/IDs/links preserved. No empirical replication or omission-free certification.",
     "A123": "MCIJCXNF",
     "B123": "Mr. Keynes Meets the Classics: Government Spending and the Real Exchange Rate",
     "C123": "econ",
@@ -46462,7 +46463,16 @@
     "L4568": "1",
     "M4568": "n/a",
     "N4568": "Small versus large equal-client halves: total and category pounds received under Choice, main pp.2006–08 and appendix Table7.",
-    "O4568": "Linear aggregate/mean contrasts conditional on goal-factor grouping; not randomized or DiD. Broad author-intention reallocation interpretation; size association alternative held. Cutoff uses cumulative client weight, not unweighted median. Category Breakfast appears twice: preserve distinct printed rows, do not relabel."
+    "O4568": "Linear aggregate/mean contrasts conditional on goal-factor grouping; not randomized or DiD. Broad author-intention reallocation interpretation; size association alternative held. Cutoff uses cumulative client weight, not unweighted median. Category Breakfast appears twice: preserve distinct printed rows, do not relabel.",
+    "A4569": "KRMMS6YI",
+    "B4569": "h9",
+    "I4569": "1",
+    "J4569": "OLS",
+    "K4569": "1",
+    "L4569": "1",
+    "M4569": "n/a",
+    "N4569": "Direct negative-price auction channel contribution to small-minus-large pounds:84m, appendix Table8/main p.2007. Same channel contrast as h5, separately linear direct component.",
+    "O4569": "Linear aggregate quantity contrast123.59m minus39.58m, with price-based classification and goal-factor grouping rather than quantity-selected weights. Author directly attributes redistribution to negative auctions; no randomized permission effect asserted. Distinct from ratio-based financed and combined outcomes h5. Introduction p.1995 centrally attributes one-fifth of extra food to this channel. Endpoint benchmark allocation held: these are size-group channel levels, not identified permission/no-permission baselines."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119190,7 +119200,14 @@
     "H10666": "0",
     "I10666": "unknown",
     "J10666": "none",
-    "K10666": "Total Dairy received, million pounds 2005–11, appendix Table7."
+    "K10666": "Total Dairy received, million pounds 2005–11, appendix Table7.",
+    "A10667": "KRMMS6YI",
+    "B10667": "h9",
+    "C10667": "hy1",
+    "H10667": "0",
+    "I10667": "unknown",
+    "J10667": "none",
+    "K10667": "Direct negative-price channel: small-minus-large pounds purchased at negative prices, printed84m from123.59m versus39.58m; main p.2007 and appendix Table8. Category defined using price, not focal pounds; linear aggregate contrast conditional on price classification."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

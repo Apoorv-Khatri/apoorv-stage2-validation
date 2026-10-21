@@ -1064742,3 +1064742,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:47:45.484471+00:00 — Review KRMMS6YI h9: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10667",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10667",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10667",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10667",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10667",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10667",
+    "before": null,
+    "after": "Direct negative-price channel: small-minus-large pounds purchased at negative prices, printed84m from123.59m versus39.58m; main p.2007 and appendix Table8. Category defined using price, not focal pounds; linear aggregate contrast conditional on price classification."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E122",
+    "before": null,
+    "after": "DONE — Source-scoped review of25-page final article and29-page publication-linked author appendix, independently audited; publisher-byte identity unverified. Broad goal-factor author-intention gate retained with predictive-only alternative explicit; engagement central. Client-weighted equal-size groups corrected, not median bank. Distance s7/h6 classified Other for complete outcome-adaptive homogeneity selection using winning-bid SD; conditional FE/HDFE alternatives preserved: one joint set in main, three identifying pairwise sets in appendix. Direct negative-price quantity component separated h9 OLS; financed/combined ratios h5 Other. Ex-post permanent dispersion7.28/1.9 covered once. Nutrition higher score less healthy; reported .899/.883 and comparison preserved although printed fractions and basket weights fail reconstruction. Supply100m/110m/55,000-person construction conflict retained without replacing estimates. All-bank supply210m/330m treated as annual means; matched107-bank means separate, exposed alignment0 and earlier unknown. Table7 all23 category triples retained under broad reallocation gate, duplicateBreakfast and below-one ratios explicit. Duplicate20.8percent, wrong-outcome premium/.28 and effect-to-effect51percent rejected. Own-dispersion denominators, extra distance scenarios, Table9/credit composition, failed matching results and nearby-assignment/benchmark allocations held. Printed elasticity, FE-column, clipping, unit and nutrition/conversion conflicts retained. Original fields/IDs/links preserved. No empirical replication or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4569",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4569",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4569",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4569",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4569",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4569",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4569",
+    "before": null,
+    "after": "Direct negative-price auction channel contribution to small-minus-large pounds:84m, appendix Table8/main p.2007. Same channel contrast as h5, separately linear direct component."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4569",
+    "before": null,
+    "after": "Linear aggregate quantity contrast123.59m minus39.58m, with price-based classification and goal-factor grouping rather than quantity-selected weights. Author directly attributes redistribution to negative auctions; no randomized permission effect asserted. Distinct from ratio-based financed and combined outcomes h5. Introduction p.1995 centrally attributes one-fifth of extra food to this channel. Endpoint benchmark allocation held: these are size-group channel levels, not identified permission/no-permission baselines."
+  }
+]
+```
