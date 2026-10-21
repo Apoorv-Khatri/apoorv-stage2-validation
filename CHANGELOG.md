@@ -1039059,3 +1039059,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:11:06.127727+00:00 — Review F9IA5GIP h14: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9497",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9498",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9497",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9498",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9497",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9498",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9497",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9498",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9497",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9498",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9497",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9497",
+    "before": null,
+    "after": "Appendix C.3.1 p.23/Figure A9: most exposed nearly 80% versus least exposed 30% moving to lower-requirement occupation among switchers; 30% is low-exposure endpoint benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9498",
+    "before": null,
+    "after": "Appendix C.3.1 p.23/Figure A9: same high-minus-low exposure contrast paired with high-exposure endpoint nearly 80% among switchers, versus low endpoint 30%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9497",
+    "before": null,
+    "after": "Broad qualitative endpoint-comparison reading; no exact contrast calculated. Different selected switcher populations; untreated target equivalence not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9498",
+    "before": null,
+    "after": "Symmetric endpoint eligibility; high endpoint is exposed state, not untreated baseline, despite multivalued parent exposure."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10439",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10439",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10439",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10439",
+    "before": null,
+    "after": "Share of occupation switchers moving to lower 2007 computer/software requirements."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4465",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4465",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4465",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4465",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4465",
+    "before": null,
+    "after": "Raw binned exposure contrast for probability of moving to lower computer-requirement occupation, among switchers; least-exposed about 30%, most-exposed nearly 80%. Location: Appendix C.3.1/Figure A9, pp.22–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4465",
+    "before": null,
+    "after": "Deliberate endpoint pairing in prose, not an invented bin grid. OLS/unadjusted linear contrast conditional on bins. Lower-exposure endpoint target equivalence unresolved; high-exposure endpoint known exposed-state mean."
+  }
+]
+```

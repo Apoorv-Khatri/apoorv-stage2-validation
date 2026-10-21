@@ -45269,7 +45269,16 @@
     "L4464": "1",
     "M4464": "n/a",
     "N4464": "Exposure effect on switching to an occupation with lower computer/software requirements (2007 levels), among occupation switchers; 0.0661, 0.0665, 0.0429. Location: Appendix C.3.1/Table A5, pp.23–24",
-    "O4464": "Table note restricts to switchers despite prose defining an indicator for switch AND lower requirements. Preserve conditional sample; N=4310/4494 differs from simple 63.1% of main sample. Not an unconditional transition probability. No linked table mean."
+    "O4464": "Table note restricts to switchers despite prose defining an indicator for switch AND lower requirements. Preserve conditional sample; N=4310/4494 differs from simple 63.1% of main sample. Not an unconditional transition probability. No linked table mean.",
+    "A4465": "F9IA5GIP",
+    "B4465": "h14",
+    "I4465": "1",
+    "J4465": "OLS",
+    "K4465": "0",
+    "L4465": "1",
+    "M4465": "n/a",
+    "N4465": "Raw binned exposure contrast for probability of moving to lower computer-requirement occupation, among switchers; least-exposed about 30%, most-exposed nearly 80%. Location: Appendix C.3.1/Figure A9, pp.22–23",
+    "O4465": "Deliberate endpoint pairing in prose, not an invented bin grid. OLS/unadjusted linear contrast conditional on bins. Lower-exposure endpoint target equivalence unresolved; high-exposure endpoint known exposed-state mean."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116602,7 +116611,11 @@
     "A10438": "F9IA5GIP",
     "B10438": "h13",
     "C10438": "hy1",
-    "K10438": "Indicator for new occupation having lower 2007 computer/software requirement share than prior occupation, conditional on switching."
+    "K10438": "Indicator for new occupation having lower 2007 computer/software requirement share than prior occupation, conditional on switching.",
+    "A10439": "F9IA5GIP",
+    "B10439": "h14",
+    "C10439": "hy1",
+    "K10439": "Share of occupation switchers moving to lower 2007 computer/software requirements."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -223115,7 +223128,29 @@
     "N9496": "1",
     "O9496": "1",
     "P9496": "0",
-    "Q9496": "Main p.312: residual loss 1.53% attributed to lower wage piece rate, printed 20% of baseline full-model loss 7.63%."
+    "Q9496": "Main p.312: residual loss 1.53% attributed to lower wage piece rate, printed 20% of baseline full-model loss 7.63%.",
+    "A9497": "F9IA5GIP",
+    "B9497": "h14",
+    "C9497": "hc1",
+    "K9497": "1",
+    "L9497": "hy1",
+    "M9497": "outcome_mean",
+    "N9497": "1",
+    "O9497": "0",
+    "P9497": "unknown",
+    "Q9497": "Appendix C.3.1 p.23/Figure A9: most exposed nearly 80% versus least exposed 30% moving to lower-requirement occupation among switchers; 30% is low-exposure endpoint benchmark.",
+    "R9497": "Broad qualitative endpoint-comparison reading; no exact contrast calculated. Different selected switcher populations; untreated target equivalence not established.",
+    "A9498": "F9IA5GIP",
+    "B9498": "h14",
+    "C9498": "hc2",
+    "K9498": "1",
+    "L9498": "hy1",
+    "M9498": "outcome_mean",
+    "N9498": "1",
+    "O9498": "0",
+    "P9498": "0",
+    "Q9498": "Appendix C.3.1 p.23/Figure A9: same high-minus-low exposure contrast paired with high-exposure endpoint nearly 80% among switchers, versus low endpoint 30%.",
+    "R9498": "Symmetric endpoint eligibility; high endpoint is exposed state, not untreated baseline, despite multivalued parent exposure."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
