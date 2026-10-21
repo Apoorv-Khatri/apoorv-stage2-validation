@@ -1066509,3 +1066509,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:22:55.443687+00:00 — Review MCIJCXNF h5: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10677",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10678",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10677",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10678",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10677",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10678",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10677",
+    "before": null,
+    "after": "Real output response under alternative slack definition, Fig.D6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10678",
+    "before": null,
+    "after": "Real exchange rate response under alternative slack definition, Fig.D6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4574",
+    "before": null,
+    "after": "MCIJCXNF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4574",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4574",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4574",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4574",
+    "before": null,
+    "after": "State-dependent spending-shock responses with alternative Bachmann-Sims cyclical slack indicator; Fig.D6, final p.1674 fn28."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4574",
+    "before": null,
+    "after": "Full-procedure classification: reported shock-response statistic reestimates VAR coefficients/covariance and structural shock recovery on the underlying macro panel before sign selection and LP. This outcome-adaptive structural procedure is Other, not IV. Conditional on fixed shock and control series Eq.(4.2) is linear; its conditional classification would be FE for the panel and OLS for US. Country/time effects (two dimensions, not HDFE); EA time effects remove common monetary shocks (p.1666). This is an explicit taxonomy-domain choice, not evidence of nonlinear LP regression or invalid causal intention. Retain the separately established result location and minimum outcome scope; unverified alternate-appendix allocations remain held."
+  }
+]
+```
