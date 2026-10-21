@@ -1059021,3 +1059021,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:54:44.759613+00:00 — Review K8LUIIMP h39: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10622",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10622",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10622",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10622",
+    "before": null,
+    "after": "District log population growth1869–1914 in railroad-access IV robustness; Appendix p.19 fn3 read with section A.4.2.3 and equations A66–A67. Exact receipt and sample allocation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4558",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4558",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4558",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4558",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4558",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4558",
+    "before": null,
+    "after": "Alternative Buenos-Aires-only least-cost-path instrument for railroad access effect on district log population growth1869–1914; publication-linked Appendix p.19 fn3, section A.4.2.3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4558",
+    "before": null,
+    "after": "Footnote explicitly constructs and implements alternative port instrument with similar results. Minimum implemented IV scope only: whether used alone or jointly with colonial-post length, rail receipt coding, full/model sample and Table2/A2 allocation remain unknown. Do not fabricate instrument-set or sample grids."
+  }
+]
+```
