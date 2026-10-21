@@ -1043835,3 +1043835,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:56:11.109498+00:00 — Review IJCHBNI5 h2: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9515",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9515",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9515",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9515",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9515",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9515",
+    "before": null,
+    "after": "p.2056 / Figure III: towns whose lords adopted Protestantism saw a reduction in nearby monasteries of over two-thirds by 1600, relative to their pre-Reformation level (numeric baseline not printed)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9515",
+    "before": null,
+    "after": "Author divides within-Protestant decline by pre-Reformation mean. Unknown untreated year-1600 counterfactual level; not a numeric baseline extracted from the plot."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10483",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10483",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10483",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10483",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10483",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10483",
+    "before": null,
+    "after": "Mean open monasteries within 25km of town, plotted annually by eventual denomination."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4488",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4488",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4488",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4488",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4488",
+    "before": null,
+    "after": "Figure III, pp.2054–2056: Reformation-era change in mean number of open monasteries within 25km of towns, by eventual territorial religion; 983 Protestant and 558 Catholic towns. Include footnote29 alternative directly town-coded religion variant as scope-only reported robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4488",
+    "before": null,
+    "after": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Two denominational paths establish differential pattern, but a numerical pooled DiD is not reported. Independent audit: Final p.2056 compares similar pretrends with denomination-specific declines; pp.2043–2044 supply the causal role. The over-two-thirds comparison is within-Protestant change, not a difference-in-differences coefficient. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator."
+  }
+]
+```
