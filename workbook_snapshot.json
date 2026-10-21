@@ -46063,7 +46063,16 @@
     "L4530": "0",
     "M4530": "n/a",
     "N4530": "AppendixA.4.2.2 pp.17–18: log distance to nearest port on coast or navigable rivers → log population density and urban population share1869; OLS -0.329 and -0.048 (full sample); -0.232 and -0.024 (model sample).",
-    "O4530": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Different distance treatment, not just sample variants."
+    "O4530": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Different distance treatment, not just sample variants.",
+    "A4531": "K8LUIIMP",
+    "B4531": "h12",
+    "I4531": "1",
+    "J4531": "OLS",
+    "K4531": "0",
+    "L4531": "0",
+    "M4531": "n/a",
+    "N4531": "AppendixA.4.2.2 pp.17–18: log distance to Buenos Aires alone → log population density and urban population share1869; OLS -0.483 and -0.042 (full sample); -0.436 and -0.022 (model sample).",
+    "O4531": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Different distance treatment, not just sample variants."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118100,7 +118109,15 @@
     "A10551": "K8LUIIMP",
     "B10551": "h11",
     "C10551": "hy2",
-    "K10551": "Urban population share1869."
+    "K10551": "Urban population share1869.",
+    "A10552": "K8LUIIMP",
+    "B10552": "h12",
+    "C10552": "hy1",
+    "K10552": "Log population density1869.",
+    "A10553": "K8LUIIMP",
+    "B10553": "h12",
+    "C10553": "hy2",
+    "K10553": "Urban population share1869."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
