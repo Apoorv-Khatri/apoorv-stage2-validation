@@ -1050057,3 +1050057,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:33:54.765748+00:00 — Review K8LUIIMP s4: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2641",
+    "before": null,
+    "after": "Log population growth 1869–1914; Table2 col3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1062",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1062",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1062",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1062",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1062",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1062",
+    "before": null,
+    "after": "Rail length within district in 1914 → log population growth 1869–1914; Table2 col3, 2SLS coefficient 0.633. Joint excluded instruments: fraction of district surface on least-cost paths to top-four ports AND colonial-post-route length."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1062",
+    "before": null,
+    "after": "pp.1266–1270 eqs2–3. Two nonbinary instruments, not mixed. Conditional exclusion argued using geography, land area and initial population. Separate exact-identification columns below."
+  }
+]
+```
