@@ -1040370,3 +1040370,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:16:04.904850+00:00 — Review F9IA5GIP h23: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10459",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10459",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10459",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10459",
+    "before": null,
+    "after": "Indicator displaced worker in 1982–2000 DWS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4474",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4474",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4474",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4474",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4474",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4474",
+    "before": null,
+    "after": "1982–2000 standardized newspaper computer/software exposure effect on probability of displacement; retain null in cols1–4. Location: Appendix C.9/Table A15 pp.40–41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4474",
+    "before": null,
+    "after": "Year dummies are routine controls for calendar variation, not an independently argued identifying-FE design. OLS across columns; no automatic FE split. Table A13 descriptive statistics not linked comparison."
+  }
+]
+```
