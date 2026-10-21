@@ -1040790,3 +1040790,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:18:23.197700+00:00 — Review F9IA5GIP h27: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10466",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10466",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10466",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10466",
+    "before": null,
+    "after": "Indicator losing full-time work after displacement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4478",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4478",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4478",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4478",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4478",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4478",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4478",
+    "before": null,
+    "after": "Exposure effect on losing full-time work after displacement among previously full-time and currently employed workers; -0.0357,-0.0374,-0.0160. Location: Appendix C.11.3/Table A19 pp.45–47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4478",
+    "before": null,
+    "after": "Table occupation row AD/AD/AD conflicts with notes SOC-4/SOC-4/AD; visually verified and retained literally. Supporting wages-versus-hours mechanism. No qualifying benchmark."
+  }
+]
+```

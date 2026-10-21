@@ -45386,7 +45386,16 @@
     "L4477": "0",
     "M4477": "n/a",
     "N4477": "State-by-occupation technological-change exposure effects among workers not moving since layoff; includes state FE and demographic/timing controls. Location: Appendix C.11.2/Table A18 pp.44–46",
-    "O4477": "Proposed OLS: state, survey-year and displacement-year dummy sets are listed, but no explicit identification argument for the battery against unobserved heterogeneity. Alternative HDFE interpretation requires adjudication; do not infer HDFE merely by counting sets. State-specific exposure and nonmover restriction established. No separate no-state-FE implementation reported here."
+    "O4477": "Proposed OLS: state, survey-year and displacement-year dummy sets are listed, but no explicit identification argument for the battery against unobserved heterogeneity. Alternative HDFE interpretation requires adjudication; do not infer HDFE merely by counting sets. State-specific exposure and nonmover restriction established. No separate no-state-FE implementation reported here.",
+    "A4478": "F9IA5GIP",
+    "B4478": "h27",
+    "I4478": "1",
+    "J4478": "OLS",
+    "K4478": "0",
+    "L4478": "0",
+    "M4478": "n/a",
+    "N4478": "Exposure effect on losing full-time work after displacement among previously full-time and currently employed workers; -0.0357,-0.0374,-0.0160. Location: Appendix C.11.3/Table A19 pp.45–47",
+    "O4478": "Table occupation row AD/AD/AD conflicts with notes SOC-4/SOC-4/AD; visually verified and retained literally. Supporting wages-versus-hours mechanism. No qualifying benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116827,7 +116836,11 @@
     "A10465": "F9IA5GIP",
     "B10465": "h26",
     "C10465": "hy4",
-    "K10465": "Indicator employed at DWS survey."
+    "K10465": "Indicator employed at DWS survey.",
+    "A10466": "F9IA5GIP",
+    "B10466": "h27",
+    "C10466": "hy1",
+    "K10466": "Indicator losing full-time work after displacement."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
