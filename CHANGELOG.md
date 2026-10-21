@@ -1043343,3 +1043343,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:55:13.615076+00:00 — Review IJCHBNI5 s11: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2615",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2615",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2616",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2615",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2616",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2615",
+    "before": null,
+    "after": "Territory-decade construction count, not town-year count. p.2077 establishes many zero town-years and zero-total cells but does not unambiguously locate observed zeros in every retained territory-decade outcome/sample; zero mass conservatively unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2616",
+    "before": null,
+    "after": "Territory-decade construction count, not town-year count. p.2077 establishes many zero town-years and zero-total cells but does not unambiguously locate observed zeros in every retained territory-decade outcome/sample; zero mass conservatively unknown."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1047",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1047",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1047",
+    "before": null,
+    "after": "Linear conventional DiD, not modern DiD, FE or OLS despite OLS implementation. Dynamic post-treatment estimates and pooled post periods retained; diagnostic leads are not separate settings. Author causal interpretation in pp. 2040–2044 and 2087; remaining endogeneity is not an exclusion criterion. Figure X A/B retain high/low-competition Catholic comparator sample variants, including substantive near-null church and high-competition secular results. Main=1: this mechanism is explicitly highlighted in introduction p.2042, not merely supporting because model says 0. Town-neighbor classification, not a directly randomized competition treatment."
+  }
+]
+```
