@@ -1043145,3 +1043145,144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:54:12.977367+00:00 — Review IJCHBNI5 s9: source-audited coding and linked comparisons
+
+22 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9514",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9514",
+    "before": null,
+    "after": "s9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9514",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9514",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9514",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9514",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9514",
+    "before": null,
+    "after": "Figure IX C right frame pp.2080,2082–2083: caption effect 0.72, prose 0.75 palace/administrative construction per territory-decade; linked pre-Reformation own-outcome mean 1.4. Preserve printed military-inclusion conflict; exclude total-construction 4.7."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9514",
+    "before": null,
+    "after": "Unknown alignment due unspecified mean weights/target and published category conflict. Do not reconcile 0.72 versus 0.75 by recalculation; same attributed result, not two effects."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2613",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2613",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2613",
+    "before": null,
+    "after": "Territory-decade construction count, not town-year count. p.2077 establishes many zero town-years and zero-total cells but does not unambiguously locate observed zeros in every retained territory-decade outcome/sample; zero mass conservatively unknown. Figure IX C heading includes palace, administrative AND military construction; caption/footnote 47 omit military, while p.2085 includes it. Keep composition conflict unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1045",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1045",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1045",
+    "before": null,
+    "after": "Figure IX Panel C, BOTH left baseline and right pretreatment-control frames, pp. 2077–2083: eventual Protestant territorial exposure × decade/period conventional DiD on territory-decade ruler-favored (palace/administrative; military inclusion conflict) construction counts. Territory and decade FE; 35 territories; territory-clustered SE. Include equations (5)/(6), decadal post dynamics and pooled 1520–1549 and 1550–1599 effects. Routine pretreatment-stock/flow interactions do not create a second setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1045",
+    "before": null,
+    "after": "Linear conventional DiD, not modern DiD, FE or OLS despite OLS implementation. Dynamic post-treatment estimates and pooled post periods retained; diagnostic leads are not separate settings. Author causal interpretation in pp. 2040–2044 and 2087; remaining endogeneity is not an exclusion criterion. Printed conflict: Figure IX C heading includes Military; continued caption/footnote 47 say palaces or administrative buildings; p.2085 says military contributes to ruler-favored count. Preserve uncertain composition. Caption right post-1550 coefficient 0.72, prose p.2082 says 0.75; no silent repair."
+  }
+]
+```
