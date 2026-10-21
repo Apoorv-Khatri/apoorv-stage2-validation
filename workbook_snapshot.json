@@ -45882,7 +45882,16 @@
     "L4517": "0",
     "M4517": "n/a",
     "N4517": "Table II column 4, pp.2044–2045: extremity of normative decision (absolute distance to 50%) and CU in Beliefs A; printed slope -0.31.",
-    "O4517": "P.2045 interprets the focal problem-parameter relation as ease of valuation/updating; retained under broad author-intention rule. Table caption explicitly OLS. Derived extremity index is not independently randomized CU or a named direct-assignment arm; OLS labels the displayed index regression, with randomized underlying task parameters noted separately. Demographic coefficients remain correlates/validation and are not included. Alternative descriptive-only reading remains an adjudication issue. No same-outcome mean/SD is deliberately paired."
+    "O4517": "P.2045 interprets the focal problem-parameter relation as ease of valuation/updating; retained under broad author-intention rule. Table caption explicitly OLS. Derived extremity index is not independently randomized CU or a named direct-assignment arm; OLS labels the displayed index regression, with randomized underlying task parameters noted separately. Demographic coefficients remain correlates/validation and are not included. Alternative descriptive-only reading remains an adjudication issue. No same-outcome mean/SD is deliberately paired.",
+    "A4518": "J83HLRWH",
+    "B4518": "h21",
+    "I4518": "1",
+    "J4518": "unknown",
+    "K4518": "0",
+    "L4518": "0",
+    "M4518": "unknown",
+    "N4518": "Appendix D minimum model-estimation scope explicitly established on p.2060: hump-shaped CU translates objective probability variation into inverse-S decision responses in risky choice.",
+    "O4518": "P.2060 reports implemented model estimations, not just a future hypothesis. Retain domain-specific minimum under causal-noise interpretation; do not invent a switch-off intervention, table/column grid, A/B allocation, or carry NLS from Table V into unseen Appendix D. Exact estimator and response scale held. Table V default levels/AIC alone are not treatment effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117796,7 +117805,11 @@
     "A10528": "J83HLRWH",
     "B10528": "h20",
     "C10528": "hy1",
-    "K10528": "A-study CU, reversed confidence/probability outside elicitation window; Table II reports fractional CU scale (not percentage points for printed coefficient)."
+    "K10528": "A-study CU, reversed confidence/probability outside elicitation window; Table II reports fractional CU scale (not percentage points for printed coefficient).",
+    "A10529": "J83HLRWH",
+    "B10529": "h21",
+    "C10529": "hy1",
+    "K10529": "Certainty-equivalent response to objective payout probability, including inverse-S shape; exact normalization and empirical variant allocation unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

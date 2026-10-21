@@ -1049508,3 +1049508,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:02:39.190113+00:00 — Review J83HLRWH h21: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10529",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10529",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10529",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10529",
+    "before": null,
+    "after": "Certainty-equivalent response to objective payout probability, including inverse-S shape; exact normalization and empirical variant allocation unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4518",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4518",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4518",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4518",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4518",
+    "before": null,
+    "after": "Appendix D minimum model-estimation scope explicitly established on p.2060: hump-shaped CU translates objective probability variation into inverse-S decision responses in risky choice."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4518",
+    "before": null,
+    "after": "P.2060 reports implemented model estimations, not just a future hypothesis. Retain domain-specific minimum under causal-noise interpretation; do not invent a switch-off intervention, table/column grid, A/B allocation, or carry NLS from Table V into unseen Appendix D. Exact estimator and response scale held. Table V default levels/AIC alone are not treatment effects."
+  }
+]
+```
