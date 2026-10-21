@@ -1049982,3 +1049982,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:33:28.486522+00:00 — Review K8LUIIMP s3: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2640",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2640",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2640",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2640",
+    "before": null,
+    "after": "Log population growth ln(pop1914)−ln(pop1869); Table2 col1. This is a difference of logs, not log of a growth rate. Zero mass is not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1061",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1061",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1061",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1061",
+    "before": null,
+    "after": "Rail connection in 1914 (one or more stations versus none), Table 2 col1; log population growth 1869–1914, coefficient 0.650. Long-difference treated/unconnected comparison with district level heterogeneity differenced out, common growth intercept and geographic/initial-population controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1061",
+    "before": null,
+    "after": "pp.1266–1269 eq2 and fn20 explicitly treat negligible 1869 network as expansion; conventional long-difference coding takes precedence over differenced FE/OLS. No modern estimator. Restrict original pooled row to binary column; length and station counts split."
+  }
+]
+```
