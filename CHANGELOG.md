@@ -1047201,3 +1047201,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:37:29.511785+00:00 — Review J83HLRWH s4: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2623",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2624",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2623",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2624",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2623",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2624",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2623",
+    "before": null,
+    "after": "Posterior belief in percent, corroborating-regression scope, implementation unverified; Figure V median belongs to h4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2624",
+    "before": null,
+    "after": "B-study cognitive uncertainty: heuristic confidence-interval width around stated optimal belief; each slider tick expands each endpoint by 1 percentage point, p.2038. Exact reporting normalization pending Appendix E."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1051",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1051",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1051",
+    "before": null,
+    "after": "Beliefs B: randomized compound updating versus baseline; implemented response and cognitive-uncertainty effects in Section VI (pp.2056–2057), corroborating regressions in Online Appendix Tables 10–13. Figure V bottom right MEDIAN contrast is separately h4; do not label the median estimator RCT under the linear-method taxonomy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1051",
+    "before": null,
+    "after": "Random assignment is explicit p.2040. P.2057 establishes implemented corroborating regressions but does not name their functional form; no unseen OLS/linear estimator is certified. Method unknown pending supplement; RCT would apply to a verified linear direct-assignment estimator. Figure V medians separately Other. P.2056 CU changes are relative percentages; denominator aggregation and exact allocation remain held."
+  }
+]
+```
