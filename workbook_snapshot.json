@@ -45792,7 +45792,16 @@
     "L4507": "1",
     "M4507": "unknown",
     "N4507": "CU/noise-proxy compression in Beliefs B baseline updating; p.2053 explicitly reports similar results in Online Appendix E. Individually named outcome: stated posterior belief.",
-    "O4507": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Final text establishes result, not its exact implemented estimator. Unknown prevents copying unseen OLS/median methods. The location-level minimum can require splits after appendix retrieval."
+    "O4507": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Final text establishes result, not its exact implemented estimator. Unknown prevents copying unseen OLS/median methods. The location-level minimum can require splits after appendix retrieval.",
+    "A4508": "J83HLRWH",
+    "B4508": "h11",
+    "I4508": "1",
+    "J4508": "unknown",
+    "K4508": "1",
+    "L4508": "1",
+    "M4508": "unknown",
+    "N4508": "Risk B compound loss gambles versus simple losses: substantive complexity response, footnote 14 p.2057; results reported very similar, Appendix E.",
+    "O4508": "Distinct loss-outcome scope explicitly implemented. Exact median/mean/regression mapping unavailable; unknown method, not assumed RCT/Other. Separate from verified Figure V gain medians; may merge with original s3 regression scope after appendix adjudication."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117657,7 +117666,14 @@
     "A10518": "J83HLRWH",
     "B10518": "h8",
     "C10518": "hy1",
-    "K10518": "Stated posterior belief in Beliefs B baseline updating; p.2053/Online Appendix E. No unseen table estimates or invented normalizations."
+    "K10518": "Stated posterior belief in Beliefs B baseline updating; p.2053/Online Appendix E. No unseen table estimates or invented normalizations.",
+    "A10519": "J83HLRWH",
+    "B10519": "h11",
+    "C10519": "hy1",
+    "H10519": "0",
+    "I10519": "unknown",
+    "J10519": "unknown",
+    "K10519": "Certainty equivalent for loss gambles under compound versus baseline representation; exact normalization/sign convention unresolved without Appendix E."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -1048320,3 +1048320,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:43:51.463258+00:00 — Review J83HLRWH h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10519",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10519",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10519",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10519",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10519",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10519",
+    "before": null,
+    "after": "Certainty equivalent for loss gambles under compound versus baseline representation; exact normalization/sign convention unresolved without Appendix E."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4508",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4508",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4508",
+    "before": null,
+    "after": "Risk B compound loss gambles versus simple losses: substantive complexity response, footnote 14 p.2057; results reported very similar, Appendix E."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4508",
+    "before": null,
+    "after": "Distinct loss-outcome scope explicitly implemented. Exact median/mean/regression mapping unavailable; unknown method, not assumed RCT/Other. Separate from verified Figure V gain medians; may merge with original s3 regression scope after appendix adjudication."
+  }
+]
+```
