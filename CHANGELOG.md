@@ -1059540,3 +1059540,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:40:37.774674+00:00 — Review KRMMS6YI s1: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10628",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10628",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10628",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10628",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10628",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10628",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10628",
+    "before": null,
+    "after": "Total2005–11 bids/goal factor in levels; appendix Table2 col1: goal factor and squared goal factor."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2652",
+    "before": null,
+    "after": "log(total bids/goal factor), pooled2005–11, appendix Table2 col2; level version added hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1068",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1068",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1068",
+    "before": null,
+    "after": "Goal factor (level and square, or log) and bidding intensity; appendix Table 2/Figure 3, main p.2003. Total 2005–11 bids/goal factor in levels and logs."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1068",
+    "before": null,
+    "after": "Broad author-intention inclusion: increases bids per client and smaller-bank disadvantage are substantively interpreted, not a credibility test. Introduction p.1994 includes engagement centrally. No identifying FE. No qualifying same-outcome benchmark; intercepts are not automatically means."
+  }
+]
+```
