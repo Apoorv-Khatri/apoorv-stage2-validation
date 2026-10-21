@@ -1047639,3 +1047639,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:39:22.958132+00:00 — Review J83HLRWH s7: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1054",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1054",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1054",
+    "before": null,
+    "after": "Table IV cols.3–6, p.2051: CU proxy in restricted/full Grether regressions; outcome log posterior odds; separate interactions with log prior odds and log likelihood ratio."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1054",
+    "before": null,
+    "after": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Slopes 0.69 and 0.43 at differing CU are effect-to-effect quantities, not levels of the dependent log-odds outcome; no comparison added."
+  }
+]
+```
