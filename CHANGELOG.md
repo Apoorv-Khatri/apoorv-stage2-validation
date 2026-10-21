@@ -1045608,3 +1045608,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:00:33.182541+00:00 — Review IJCHBNI5 h11: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9518",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9519",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9518",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9519",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9518",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9519",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9519",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9518",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9519",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9518",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9519",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9519",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9518",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9518",
+    "before": null,
+    "after": "Final p.2086 footnote49: church sizes increased from around 450 square meters pre-Reformation to around 495 afterward in the sample with size data. Focal small/insignificant increase paired with pre mean around 450."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9519",
+    "before": null,
+    "after": "Final p.2086 footnote49: same church-size increase from around 450 to around 495 square meters; post-Reformation size mean around 495 is exposed endpoint."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9518",
+    "before": null,
+    "after": "Before-state sample composition and untreated post-period target equality not established; alignment unknown. Do not substitute draft precision for final rounded values."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9519",
+    "before": null,
+    "after": "Same-outcome endpoint eligibility symmetric; known exposed-state mean not untreated baseline. No author ratio claimed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10507",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10507",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10507",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10507",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10507",
+    "before": null,
+    "after": "Mean church area, square meters, for churches with recorded size; no imputation for unrecorded sizes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4497",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4497",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4497",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4497",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4497",
+    "before": null,
+    "after": "Footnote49 p.2086 and cited Appendix Table A3: pre-/post-Reformation comparison of mean floor area of newly built churches in eventually Protestant territories, roughly 450 to 495 square meters; substantive small, statistically insignificant increase considered against falling construction counts."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4497",
+    "before": null,
+    "after": "Linear pre/post mean comparison (OLS category), not DiD absent Catholic comparator. Retain substantive null despite selection and small sample. Final footnote establishes result; February2018 LSE appendix gives corroborating values 453.24/494.93 but final-supplement identity unverified. No exact difference or final SD benchmark certified."
+  }
+]
+```
