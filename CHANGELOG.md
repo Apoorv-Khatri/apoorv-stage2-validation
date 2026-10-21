@@ -1031868,3 +1031868,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:23:40.398842+00:00 — Review F64LTKPN s3: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R709",
+    "before": null,
+    "after": "Different outcomes: overbidding probability versus auction-price discount; no same-outcome benchmark. Also not a wording-effect comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2595",
+    "before": null,
+    "after": "Auction-level indicator; table/figure reports its cell mean (a fraction), not a binary aggregate. Fig.1 includes shipping fees; the two thresholds are >0 and >$1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2596",
+    "before": null,
+    "after": "Auction-level indicator; table/figure reports its cell mean (a fraction), not a binary aggregate. Fig.1 includes shipping fees; the two thresholds are >0 and >$1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1029",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1029",
+    "before": null,
+    "after": "Figure1 top panels, p.1193: sum of auction-minus-BIN presence differences for new/disc/special/dvd, grouped < -1,-1,0,1,>1; overbid and overbid by >$1 indicators including shipping. Individual words are h5-h8; movie-specific words h9-h10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1029",
+    "before": null,
+    "after": "Causal gate: Fig.1 explicitly titled Effect, with mechanism pp.1185,1188. Group-mean linear contrasts in reported binary indicators; not Matching merely because products are matched. No actual regression implementation asserted."
+  }
+]
+```
