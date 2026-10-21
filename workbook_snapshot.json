@@ -577,6 +577,7 @@
     "B120": "Cognitive Uncertainty",
     "C120": "econ",
     "D120": 11,
+    "E120": "DONE — Available-final-main-source review of all47 pages, independently audited; actual Online Appendix unavailable and supplementary coverage unresolved. CU definition corrected to probability outside elicitation window; A/B elicitation scales distinct. Randomized complexity and sample-size assignment established, but s1–s4/s8 implemented estimator remains unknown without supplemental forms; FigureV medians Other. Risk/controlled-belief latent-noise proxy gate retained, not awareness randomization; forecast relations excluded on parameter-specific predictive wording, broader common-mechanism alternative explicit. Main-source FigureIII median/quartile OLS, FigureIV distance/CRRA, TableII extremity and AppendixD minimum response-model scopes added. TableV default levels/AIC excluded as causal effects. Exact repeated-elicitation IV instrument set remains unknown; level/logodds outcomes distinct. Twelve symmetric qualitative median-path comparisons retained without digitization; four verbal CU relative increases45/48/23/33 percent held outside arrays because denominator type/weighting and B-risk allocation unresolved. Mixed/null partition and named B-study/loss scopes retained without invented appendix grid. Unverified s8 outcome left unresolved, not certified spurious. Zero-CU and sample-count conflicts preserved. Supplemental models/instruments/transformations/allocations and unavailable AppendixA–G content remain held; no refused-target bypass, draft substitution, code inspection or empirical replication. Original IDs/model fields/links preserved. Source-scoped DONE is not complete-appendix or omission-free certification.",
     "A121": "K8LUIIMP",
     "B121": "Trade, Structural Transformation, and Development: Evidence from Argentina 1869–1914",
     "C121": "econ",
@@ -45891,7 +45892,16 @@
     "L4518": "0",
     "M4518": "unknown",
     "N4518": "Appendix D minimum model-estimation scope explicitly established on p.2060: hump-shaped CU translates objective probability variation into inverse-S decision responses in risky choice.",
-    "O4518": "P.2060 reports implemented model estimations, not just a future hypothesis. Retain domain-specific minimum under causal-noise interpretation; do not invent a switch-off intervention, table/column grid, A/B allocation, or carry NLS from Table V into unseen Appendix D. Exact estimator and response scale held. Table V default levels/AIC alone are not treatment effects."
+    "O4518": "P.2060 reports implemented model estimations, not just a future hypothesis. Retain domain-specific minimum under causal-noise interpretation; do not invent a switch-off intervention, table/column grid, A/B allocation, or carry NLS from Table V into unseen Appendix D. Exact estimator and response scale held. Table V default levels/AIC alone are not treatment effects.",
+    "A4519": "J83HLRWH",
+    "B4519": "h22",
+    "I4519": "1",
+    "J4519": "unknown",
+    "K4519": "0",
+    "L4519": "0",
+    "M4519": "unknown",
+    "N4519": "Appendix D minimum model-estimation scope explicitly established on p.2060: hump-shaped CU translates objective probability variation into inverse-S decision responses in belief updating.",
+    "O4519": "P.2060 reports implemented model estimations, not just a future hypothesis. Retain domain-specific minimum under causal-noise interpretation; do not invent a switch-off intervention, table/column grid, A/B allocation, or carry NLS from Table V into unseen Appendix D. Exact estimator and response scale held. Table V default levels/AIC alone are not treatment effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117809,7 +117819,11 @@
     "A10529": "J83HLRWH",
     "B10529": "h21",
     "C10529": "hy1",
-    "K10529": "Certainty-equivalent response to objective payout probability, including inverse-S shape; exact normalization and empirical variant allocation unavailable."
+    "K10529": "Certainty-equivalent response to objective payout probability, including inverse-S shape; exact normalization and empirical variant allocation unavailable.",
+    "A10530": "J83HLRWH",
+    "B10530": "h22",
+    "C10530": "hy1",
+    "K10530": "Stated belief response to Bayesian posterior, including inverse-S shape; exact probability/log-odds implementation unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

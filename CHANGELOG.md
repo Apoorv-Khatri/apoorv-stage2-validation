@@ -1049595,3 +1049595,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:03:05.782752+00:00 — Review J83HLRWH h22: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10530",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10530",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10530",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10530",
+    "before": null,
+    "after": "Stated belief response to Bayesian posterior, including inverse-S shape; exact probability/log-odds implementation unavailable."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E120",
+    "before": null,
+    "after": "DONE — Available-final-main-source review of all47 pages, independently audited; actual Online Appendix unavailable and supplementary coverage unresolved. CU definition corrected to probability outside elicitation window; A/B elicitation scales distinct. Randomized complexity and sample-size assignment established, but s1–s4/s8 implemented estimator remains unknown without supplemental forms; FigureV medians Other. Risk/controlled-belief latent-noise proxy gate retained, not awareness randomization; forecast relations excluded on parameter-specific predictive wording, broader common-mechanism alternative explicit. Main-source FigureIII median/quartile OLS, FigureIV distance/CRRA, TableII extremity and AppendixD minimum response-model scopes added. TableV default levels/AIC excluded as causal effects. Exact repeated-elicitation IV instrument set remains unknown; level/logodds outcomes distinct. Twelve symmetric qualitative median-path comparisons retained without digitization; four verbal CU relative increases45/48/23/33 percent held outside arrays because denominator type/weighting and B-risk allocation unresolved. Mixed/null partition and named B-study/loss scopes retained without invented appendix grid. Unverified s8 outcome left unresolved, not certified spurious. Zero-CU and sample-count conflicts preserved. Supplemental models/instruments/transformations/allocations and unavailable AppendixA–G content remain held; no refused-target bypass, draft substitution, code inspection or empirical replication. Original IDs/model fields/links preserved. Source-scoped DONE is not complete-appendix or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4519",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4519",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4519",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4519",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4519",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4519",
+    "before": null,
+    "after": "Appendix D minimum model-estimation scope explicitly established on p.2060: hump-shaped CU translates objective probability variation into inverse-S decision responses in belief updating."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4519",
+    "before": null,
+    "after": "P.2060 reports implemented model estimations, not just a future hypothesis. Retain domain-specific minimum under causal-noise interpretation; do not invent a switch-off intervention, table/column grid, A/B allocation, or carry NLS from Table V into unseen Appendix D. Exact estimator and response scale held. Table V default levels/AIC alone are not treatment effects."
+  }
+]
+```
