@@ -45341,7 +45341,16 @@
     "L4472": "0",
     "M4472": "n/a",
     "N4472": "Computer/software exposure change during individual’s prior employment spell rather than full 2007–2017 window; standardized dose. Location: Appendix C.8/Table A12 pp.36–37",
-    "O4472": "Timing uses hire/layoff dates; pre2007 hires use2007 level; 2008/2009 interpolated from2007/2010. Distinct exposure construction; controls/sample variants grouped. No qualifying benchmark."
+    "O4472": "Timing uses hire/layoff dates; pre2007 hires use2007 level; 2008/2009 interpolated from2007/2010. Distinct exposure construction; controls/sample variants grouped. No qualifying benchmark.",
+    "A4473": "F9IA5GIP",
+    "B4473": "h22",
+    "I4473": "1",
+    "J4473": "OLS",
+    "K4473": "0",
+    "L4473": "0",
+    "M4473": "n/a",
+    "N4473": "1982–2000 technological change measured from newspaper vacancy words for computer/software/spreadsheets per1000 words; standardized dose effect on log earnings losses. Location: Appendix C.9/Table A14 pp.39–40",
+    "O4473": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116750,7 +116759,11 @@
     "A10457": "F9IA5GIP",
     "B10457": "h21",
     "C10457": "hy4",
-    "K10457": "Indicator employed at DWS survey."
+    "K10457": "Indicator employed at DWS survey.",
+    "A10458": "F9IA5GIP",
+    "B10458": "h22",
+    "C10458": "hy1",
+    "K10458": "Change in log real weekly earnings after displacement, 2012 dollars, 1982–2000 DWS."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
