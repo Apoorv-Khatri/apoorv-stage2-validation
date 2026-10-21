@@ -1039965,3 +1039965,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:14:11.016566+00:00 — Review F9IA5GIP h20: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10450",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10451",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10452",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10453",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10450",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10451",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10452",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10453",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10450",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10451",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10452",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10453",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10450",
+    "before": null,
+    "after": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10451",
+    "before": null,
+    "after": "Indicator switches occupation after displacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10452",
+    "before": null,
+    "after": "Unemployment duration in weeks."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10453",
+    "before": null,
+    "after": "Indicator employed at DWS survey."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4471",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4471",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4471",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4471",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4471",
+    "before": null,
+    "after": "O*NET computer-knowledge change between vintages5 and23, standardized dose, effects on displaced-worker outcomes; includes substantive nulls. Location: Appendix C.7/Table A11 pp.34–36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4471",
+    "before": null,
+    "after": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
+  }
+]
+```

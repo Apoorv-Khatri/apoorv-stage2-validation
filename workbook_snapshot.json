@@ -45323,7 +45323,16 @@
     "L4470": "1",
     "M4470": "n/a",
     "N4470": "Exposure effect on occupation switching over 12 months in broader CPS-ORG sample; coefficients 0.0710,0.0689,0.0512. Location: Appendix C.6/Table A10 p.33",
-    "O4470": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. Appendix C.6 fn19 deliberately links the over14pp two-SD contrast to pooled switching mean 36.4%; see hc1."
+    "O4470": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. Appendix C.6 fn19 deliberately links the over14pp two-SD contrast to pooled switching mean 36.4%; see hc1.",
+    "A4471": "F9IA5GIP",
+    "B4471": "h20",
+    "I4471": "1",
+    "J4471": "OLS",
+    "K4471": "0",
+    "L4471": "0",
+    "M4471": "n/a",
+    "N4471": "O*NET computer-knowledge change between vintages5 and23, standardized dose, effects on displaced-worker outcomes; includes substantive nulls. Location: Appendix C.7/Table A11 pp.34–36",
+    "O4471": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116700,7 +116709,23 @@
     "A10449": "F9IA5GIP",
     "B10449": "h19",
     "C10449": "hy1",
-    "K10449": "Indicator switching occupation between CPS-ORG interviews 12 months apart."
+    "K10449": "Indicator switching occupation between CPS-ORG interviews 12 months apart.",
+    "A10450": "F9IA5GIP",
+    "B10450": "h20",
+    "C10450": "hy1",
+    "K10450": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome.",
+    "A10451": "F9IA5GIP",
+    "B10451": "h20",
+    "C10451": "hy2",
+    "K10451": "Indicator switches occupation after displacement.",
+    "A10452": "F9IA5GIP",
+    "B10452": "h20",
+    "C10452": "hy3",
+    "K10452": "Unemployment duration in weeks.",
+    "A10453": "F9IA5GIP",
+    "B10453": "h20",
+    "C10453": "hy4",
+    "K10453": "Indicator employed at DWS survey."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
