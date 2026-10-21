@@ -1059108,3 +1059108,318 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:55:11.824327+00:00 — Review K8LUIIMP h40: source-audited coding and linked comparisons
+
+51 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9593",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9594",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9595",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9593",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9594",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9595",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9593",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9594",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9595",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9594",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9595",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9593",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9594",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9595",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9593",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9594",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9595",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9594",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9595",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9594",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9595",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9594",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9595",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9593",
+    "before": null,
+    "after": "Table7 row1 p.1304; Aggregate real GDP falls to 0.136 times its actual1914 level after all sufficient statistics are reset to1869. Benchmark actual1914 same outcome, normalized1. Exact historical reproduction by construction. Printed fn38 direction/percentage wording conflicts with table and is not repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9594",
+    "before": null,
+    "after": "Table7 row1 p.1304; Total population falls to 0.267 times its actual1914 level after all sufficient statistics are reset to1869. Benchmark actual1914 same outcome, normalized1. Exact historical reproduction by construction. Printed fn38 direction/percentage wording conflicts with table and is not repaired."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9595",
+    "before": null,
+    "after": "Table7 row1 p.1304; Expected utility in Argentina falls to 0.517 times its actual1914 level after all sufficient statistics are reset to1869. Benchmark actual1914 same outcome, normalized1. Exact historical reproduction by construction. Printed fn38 direction/percentage wording conflicts with table and is not repaired."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10623",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10624",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10625",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10623",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10624",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10625",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10623",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10624",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10625",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10623",
+    "before": null,
+    "after": "Aggregate real GDP; Table7 row1 joint-primitive equilibrium, counterfactual1869 relative to actual1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10624",
+    "before": null,
+    "after": "Total population; Table7 row1 joint-primitive equilibrium, counterfactual1869 relative to actual1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10625",
+    "before": null,
+    "after": "Expected utility in Argentina; Table7 row1 joint-primitive equilibrium, counterfactual1869 relative to actual1914."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4559",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4559",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4559",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4559",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4559",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4559",
+    "before": null,
+    "after": "Table7 row1, pp.1303–1304: jointly reset adjusted agricultural productivity, nontraded productivity, world population and outside expected utility from1914 to1869; GDP, population and welfare."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4559",
+    "before": null,
+    "after": "Authors explicitly implement and call this a counterfactual changing all sufficient statistics. Broad author-intention inclusion; exact reproduction of1869 is by construction, not independent causal validation. Competing calibration-identity exclusion is retained in independent report. Nonlinear equilibrium bundle, not isolated trade effect."
+  }
+]
+```
