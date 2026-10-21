@@ -45783,7 +45783,16 @@
     "L4506": "1",
     "M4506": "unknown",
     "N4506": "CU/noise-proxy compression in Risk B baseline gain/loss lotteries; p.2050 explicitly reports similar results in Online Appendix E. Individually named outcome: normalized certainty equivalent.",
-    "O4506": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Final text establishes result, not its exact implemented estimator. Unknown prevents copying unseen OLS/median methods. The location-level minimum can require splits after appendix retrieval."
+    "O4506": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Final text establishes result, not its exact implemented estimator. Unknown prevents copying unseen OLS/median methods. The location-level minimum can require splits after appendix retrieval.",
+    "A4507": "J83HLRWH",
+    "B4507": "h8",
+    "I4507": "1",
+    "J4507": "unknown",
+    "K4507": "0",
+    "L4507": "1",
+    "M4507": "unknown",
+    "N4507": "CU/noise-proxy compression in Beliefs B baseline updating; p.2053 explicitly reports similar results in Online Appendix E. Individually named outcome: stated posterior belief.",
+    "O4507": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Final text establishes result, not its exact implemented estimator. Unknown prevents copying unseen OLS/median methods. The location-level minimum can require splits after appendix retrieval."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117644,7 +117653,11 @@
     "A10517": "J83HLRWH",
     "B10517": "h7",
     "C10517": "hy1",
-    "K10517": "Normalized certainty equivalent in Risk B baseline gain/loss lotteries; p.2050/Online Appendix E. No unseen table estimates or invented normalizations."
+    "K10517": "Normalized certainty equivalent in Risk B baseline gain/loss lotteries; p.2050/Online Appendix E. No unseen table estimates or invented normalizations.",
+    "A10518": "J83HLRWH",
+    "B10518": "h8",
+    "C10518": "hy1",
+    "K10518": "Stated posterior belief in Beliefs B baseline updating; p.2053/Online Appendix E. No unseen table estimates or invented normalizations."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

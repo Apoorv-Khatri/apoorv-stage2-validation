@@ -1048233,3 +1048233,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:43:20.412714+00:00 — Review J83HLRWH h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10518",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10518",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10518",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10518",
+    "before": null,
+    "after": "Stated posterior belief in Beliefs B baseline updating; p.2053/Online Appendix E. No unseen table estimates or invented normalizations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4507",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4507",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4507",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4507",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4507",
+    "before": null,
+    "after": "CU/noise-proxy compression in Beliefs B baseline updating; p.2053 explicitly reports similar results in Online Appendix E. Individually named outcome: stated posterior belief."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4507",
+    "before": null,
+    "after": "Author-intention gate: p.2033 says CU proxies unobserved cognitive noise and does not necessarily itself cause behavior; pp.2047/2052 attribute the biases to noise. Retained under a broad proxy-for-causal-noise reading, not as randomized awareness effects. Alternative predictive-only exclusion is held for independent adjudication; not an identification-credibility exclusion. Final text establishes result, not its exact implemented estimator. Unknown prevents copying unseen OLS/median methods. The location-level minimum can require splits after appendix retrieval."
+  }
+]
+```
