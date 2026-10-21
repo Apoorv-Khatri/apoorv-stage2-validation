@@ -45864,7 +45864,16 @@
     "L4515": "0",
     "M4515": "unknown",
     "N4515": "P.2054 Risk A CRRA-distance robustness: CU/noise-related distance using fitted population CRRA optimum rather than expected-value optimum.",
-    "O4515": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Explicitly implemented similar-results robustness, individually defined outcome. Population CRRA fitting is outcome-dependent, but exact full distance-response estimator is unavailable; unknown rather than automatic OLS/Other. No estimated curvature or coefficients invented."
+    "O4515": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Explicitly implemented similar-results robustness, individually defined outcome. Population CRRA fitting is outcome-dependent, but exact full distance-response estimator is unavailable; unknown rather than automatic OLS/Other. No estimated curvature or coefficients invented.",
+    "A4516": "J83HLRWH",
+    "B4516": "h19",
+    "I4516": "1",
+    "J4516": "OLS",
+    "K4516": "0",
+    "L4516": "0",
+    "M4516": "n/a",
+    "N4516": "Table II column 2, pp.2044–2045: extremity of normative decision (absolute distance to 50%) and CU in Risk A; printed slope -0.19.",
+    "O4516": "P.2045 interprets the focal problem-parameter relation as ease of valuation/updating; retained under broad author-intention rule. Table caption explicitly OLS. Derived extremity index is not independently randomized CU or a named direct-assignment arm; OLS labels the displayed index regression, with randomized underlying task parameters noted separately. Demographic coefficients remain correlates/validation and are not included. Alternative descriptive-only reading remains an adjudication issue. No same-outcome mean/SD is deliberately paired."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117770,7 +117779,11 @@
     "A10526": "J83HLRWH",
     "B10526": "h18",
     "C10526": "hy1",
-    "K10526": "Absolute distance between risky decision and inferred utility-maximizing decision from estimated population-level CRRA; exact normalization/fit implementation unreported."
+    "K10526": "Absolute distance between risky decision and inferred utility-maximizing decision from estimated population-level CRRA; exact normalization/fit implementation unreported.",
+    "A10527": "J83HLRWH",
+    "B10527": "h19",
+    "C10527": "hy1",
+    "K10527": "A-study CU, reversed confidence/probability outside elicitation window; Table II reports fractional CU scale (not percentage points for printed coefficient)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -1049334,3 +1049334,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:01:43.578967+00:00 — Review J83HLRWH h19: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10527",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10527",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10527",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10527",
+    "before": null,
+    "after": "A-study CU, reversed confidence/probability outside elicitation window; Table II reports fractional CU scale (not percentage points for printed coefficient)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4516",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4516",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4516",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4516",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4516",
+    "before": null,
+    "after": "Table II column 2, pp.2044–2045: extremity of normative decision (absolute distance to 50%) and CU in Risk A; printed slope -0.19."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4516",
+    "before": null,
+    "after": "P.2045 interprets the focal problem-parameter relation as ease of valuation/updating; retained under broad author-intention rule. Table caption explicitly OLS. Derived extremity index is not independently randomized CU or a named direct-assignment arm; OLS labels the displayed index regression, with randomized underlying task parameters noted separately. Demographic coefficients remain correlates/validation and are not included. Alternative descriptive-only reading remains an adjudication issue. No same-outcome mean/SD is deliberately paired."
+  }
+]
+```
