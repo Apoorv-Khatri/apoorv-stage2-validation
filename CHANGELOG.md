@@ -1037808,3 +1037808,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:05:43.798458+00:00 — Review F9IA5GIP h3: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10427",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10427",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10427",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10427",
+    "before": null,
+    "after": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome. Graphical subgroup means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4454",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4454",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4454",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4454",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4454",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4454",
+    "before": null,
+    "after": "Binned technological-change exposure relationship with earnings losses separately among occupation switchers and stayers, retaining the stayer null. Figure 3B pp.297–298; adjustment status unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4454",
+    "before": null,
+    "after": "Separately displayed Figure 3B subgroup relationship retained under result-location rule; p.298 then formalizes the finding in equation (2). Caption does not document control residualization. Raw/unadjusted status is unverified. Alternative: group with s3. Retain substantive stayer null; no numeric graph slope inferred."
+  }
+]
+```

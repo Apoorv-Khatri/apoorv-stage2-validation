@@ -45170,7 +45170,16 @@
     "L4453": "1",
     "M4453": "n/a",
     "N4453": "Binned technological-change exposure relationship with probability of switching occupations after displacement. Figure 3A pp.296–297; adjustment status unresolved, distinct displayed location from Table 4.",
-    "O4453": "Separately displayed Figure 3A binned probability relationship retained under result-location rule. Main p.296 calls it a graphical representation of equation (1); caption describes bins but does not establish whether controls were partialled out. Raw/unadjusted status is unverified, not a fact. Alternative: group with s2; no numerical estimate duplicated or bin grid inferred."
+    "O4453": "Separately displayed Figure 3A binned probability relationship retained under result-location rule. Main p.296 calls it a graphical representation of equation (1); caption describes bins but does not establish whether controls were partialled out. Raw/unadjusted status is unverified, not a fact. Alternative: group with s2; no numerical estimate duplicated or bin grid inferred.",
+    "A4454": "F9IA5GIP",
+    "B4454": "h3",
+    "I4454": "1",
+    "J4454": "OLS",
+    "K4454": "0",
+    "L4454": "1",
+    "M4454": "n/a",
+    "N4454": "Binned technological-change exposure relationship with earnings losses separately among occupation switchers and stayers, retaining the stayer null. Figure 3B pp.297–298; adjustment status unresolved.",
+    "O4454": "Separately displayed Figure 3B subgroup relationship retained under result-location rule; p.298 then formalizes the finding in equation (2). Caption does not document control residualization. Raw/unadjusted status is unverified. Alternative: group with s3. Retain substantive stayer null; no numeric graph slope inferred."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116452,7 +116461,11 @@
     "A10426": "F9IA5GIP",
     "B10426": "h2",
     "C10426": "hy1",
-    "K10426": "Share/mean of switching indicator among displaced workers by exposure bin."
+    "K10426": "Share/mean of switching indicator among displaced workers by exposure bin.",
+    "A10427": "F9IA5GIP",
+    "B10427": "h3",
+    "C10427": "hy1",
+    "K10427": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome. Graphical subgroup means."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
