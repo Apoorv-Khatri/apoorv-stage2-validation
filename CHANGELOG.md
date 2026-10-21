@@ -1051641,3 +1051641,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:42:26.139421+00:00 — Review K8LUIIMP h13: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10554",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10555",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10556",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10557",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10558",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10559",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10560",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10554",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10555",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10556",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10557",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10558",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10559",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10560",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10554",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10555",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10556",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10557",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10558",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10559",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10560",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10554",
+    "before": null,
+    "after": "Log population density in 1869; log of population per unit of land area for each district."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10555",
+    "before": null,
+    "after": "Urban population share in 1869; share of district population living in cities and towns."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10556",
+    "before": null,
+    "after": "Log growth in population density from 1869 to 1914, equal to log population growth over the period."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10557",
+    "before": null,
+    "after": "Change in urban population share from 1869 to 1914, in share points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10558",
+    "before": null,
+    "after": "Log wage-rental ratio in 1895; log agricultural labor wage minus log land value per hectare."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10559",
+    "before": null,
+    "after": "Log relative price of tradeables in 1895; log tradeables consumption price index minus log overall consumption price index, i.e. relative price of traded to overall consumption goods."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10560",
+    "before": null,
+    "after": "Share of cereals cultivated area in 1914; share of agricultural land used for cereals in each district."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4532",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4532",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4532",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4532",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4532",
+    "before": null,
+    "after": "Appendix TableA1 p.18: log distance to top-four port; model-sample results for seven Table1 outcomes. OLS; separately reported robustness location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4532",
+    "before": null,
+    "after": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Include reported capital-exclusion nuisance sample variants at this location. Prose says greater specialization farther inland, while cereal coefficient is negative; retain conflict."
+  }
+]
+```
