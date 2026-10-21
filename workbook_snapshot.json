@@ -46090,7 +46090,16 @@
     "L4533": "0",
     "M4533": "n/a",
     "N4533": "Appendix TableA2 p.21 col1: binary railroad connection → log population growth1869–1914; model sample, coefficient0.534.",
-    "O4533": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Differenced district level heterogeneity/common time shock, eqA66; same method hierarchy as Table2."
+    "O4533": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Differenced district level heterogeneity/common time shock, eqA66; same method hierarchy as Table2.",
+    "A4534": "K8LUIIMP",
+    "B4534": "h15",
+    "I4534": "1",
+    "J4534": "DiD_conventional",
+    "K4534": "0",
+    "L4534": "0",
+    "M4534": "n/a",
+    "N4534": "Appendix TableA2 p.21 col2: rail length → log population growth1869–1914; model sample, coefficient0.386.",
+    "O4534": "Author publication-linked Appendix (October2021), identical to Princeton copy; title, section cross-references and repeated Table7 baseline agree. Publisher byte identity unverified. Differenced district level heterogeneity/common time shock, eqA66; same method hierarchy as Table2."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118170,7 +118179,11 @@
     "H10561": "0",
     "I10561": "unknown",
     "J10561": "other",
-    "K10561": "Log population growth1869–1914, difference of logs; AppendixTableA2."
+    "K10561": "Log population growth1869–1914, difference of logs; AppendixTableA2.",
+    "A10562": "K8LUIIMP",
+    "B10562": "h15",
+    "C10562": "hy1",
+    "K10562": "Log population growth1869–1914, difference of logs; AppendixTableA2."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
