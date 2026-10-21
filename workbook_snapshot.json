@@ -46426,7 +46426,16 @@
     "L4564": "1",
     "M4564": "n/a",
     "N4564": "Choice versus old allocation pounds-per-share distribution across food banks, Figure4 and pp.2005–06.",
-    "O4564": "Graph and prose explicitly contrast choices with old-rule common 3–4 pounds/share. Reported ratio outcome vs full recomputation domain unresolved; do not label a distribution histogram an OLS regression. No fabricated bin coefficients."
+    "O4564": "Graph and prose explicitly contrast choices with old-rule common 3–4 pounds/share. Reported ratio outcome vs full recomputation domain unresolved; do not label a distribution histogram an OLS regression. No fabricated bin coefficients.",
+    "A4565": "KRMMS6YI",
+    "B4565": "h5",
+    "I4565": "1",
+    "J4565": "Other",
+    "K4565": "1",
+    "L4565": "1",
+    "M4565": "n/a",
+    "N4565": "Negative-price auction contribution through financed additional purchases and combined direct-plus-financed food gap; main p.2007, appendix Table8. Direct component separated at h9.",
+    "O4565": "Shares received divided by each group average positive price produce 12.27m additional pounds; combined with direct84m gives about96m. Outcome-dependent price/quantity ratios make the full financed/combined calculation Other. Direct quantity contrast is h9 OLS, not counted again here. The20.6% share of the466.5m gap is effect-to-effect, not a qualifying outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118951,7 +118960,21 @@
     "H10637": "0",
     "I10637": "unknown",
     "J10637": "other",
-    "K10637": "Food-bank average pounds per share distribution, 2005–11; graph axis is pounds/share despite caption price per pound."
+    "K10637": "Food-bank average pounds per share distribution, 2005–11; graph axis is pounds/share despite caption price per pound.",
+    "A10638": "KRMMS6YI",
+    "B10638": "h5",
+    "C10638": "hy2",
+    "H10638": "0",
+    "I10638": "unknown",
+    "J10638": "other",
+    "K10638": "Small-minus-large additional pounds from shares received: 12.27m (16.017m versus3.748m).",
+    "A10639": "KRMMS6YI",
+    "B10639": "h5",
+    "C10639": "hy3",
+    "H10639": "0",
+    "I10639": "unknown",
+    "J10639": "other",
+    "K10639": "Combined negative-price contribution to small-minus-large total food gap: about96m; main p.2007."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

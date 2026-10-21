@@ -1061688,3 +1061688,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:45:58.073165+00:00 — Review KRMMS6YI h5: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10638",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10639",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10638",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10639",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10638",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10639",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10638",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10639",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10638",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10638",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10639",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10638",
+    "before": null,
+    "after": "Small-minus-large additional pounds from shares received: 12.27m (16.017m versus3.748m)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10639",
+    "before": null,
+    "after": "Combined negative-price contribution to small-minus-large total food gap: about96m; main p.2007."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4565",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4565",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4565",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4565",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4565",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4565",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4565",
+    "before": null,
+    "after": "Negative-price auction contribution through financed additional purchases and combined direct-plus-financed food gap; main p.2007, appendix Table8. Direct component separated at h9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4565",
+    "before": null,
+    "after": "Shares received divided by each group average positive price produce 12.27m additional pounds; combined with direct84m gives about96m. Outcome-dependent price/quantity ratios make the full financed/combined calculation Other. Direct quantity contrast is h9 OLS, not counted again here. The20.6% share of the466.5m gap is effect-to-effect, not a qualifying outcome benchmark."
+  }
+]
+```
