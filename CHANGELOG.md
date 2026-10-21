@@ -1039653,3 +1039653,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:13:06.474589+00:00 — Review F9IA5GIP h18: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10445",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10446",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10447",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10448",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10445",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10446",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10447",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10448",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10445",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10446",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10447",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10448",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10445",
+    "before": null,
+    "after": "Indicator unemployment spell at least 3 months."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10446",
+    "before": null,
+    "after": "Indicator unemployment spell at least 6 months."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10447",
+    "before": null,
+    "after": "Indicator unemployment spell at least 9 months."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10448",
+    "before": null,
+    "after": "Indicator unemployment spell at least 12 months."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4469",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4469",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4469",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4469",
+    "before": null,
+    "after": "Exposure effects on indicators for unemployment spells lasting at least 3,6,9,12 months; re-employed and all-displaced samples. Location: Appendix C.4.1/Table A9 pp.28–30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4469",
+    "before": null,
+    "after": "Threshold interpretation established by prose p.28, despite abbreviated table label duration. Retain nulls. Broader sample imputes incomplete duration from dates. No qualifying benchmark; do not turn duration thresholds into outcome levels for magnitude comparisons."
+  }
+]
+```

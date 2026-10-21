@@ -45305,7 +45305,16 @@
     "L4468": "0",
     "M4468": "n/a",
     "N4468": "Exposure effect on unemployment duration including never-re-employed workers with duration inferred from layoff and survey dates; levels/log null effects. Location: Appendix C.4.1/Table A8 pp.27–28",
-    "O4468": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
+    "O4468": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located.",
+    "A4469": "F9IA5GIP",
+    "B4469": "h18",
+    "I4469": "1",
+    "J4469": "OLS",
+    "K4469": "0",
+    "L4469": "0",
+    "M4469": "n/a",
+    "N4469": "Exposure effects on indicators for unemployment spells lasting at least 3,6,9,12 months; re-employed and all-displaced samples. Location: Appendix C.4.1/Table A9 pp.28–30",
+    "O4469": "Threshold interpretation established by prose p.28, despite abbreviated table label duration. Retain nulls. Broader sample imputes incomplete duration from dates. No qualifying benchmark; do not turn duration thresholds into outcome levels for magnitude comparisons."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116662,7 +116671,23 @@
     "A10444": "F9IA5GIP",
     "B10444": "h17",
     "C10444": "hy2",
-    "K10444": "Log of the duration including inferred ongoing spells."
+    "K10444": "Log of the duration including inferred ongoing spells.",
+    "A10445": "F9IA5GIP",
+    "B10445": "h18",
+    "C10445": "hy1",
+    "K10445": "Indicator unemployment spell at least 3 months.",
+    "A10446": "F9IA5GIP",
+    "B10446": "h18",
+    "C10446": "hy2",
+    "K10446": "Indicator unemployment spell at least 6 months.",
+    "A10447": "F9IA5GIP",
+    "B10447": "h18",
+    "C10447": "hy3",
+    "K10447": "Indicator unemployment spell at least 9 months.",
+    "A10448": "F9IA5GIP",
+    "B10448": "h18",
+    "C10448": "hy4",
+    "K10448": "Indicator unemployment spell at least 12 months."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
