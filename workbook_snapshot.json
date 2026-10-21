@@ -45404,7 +45404,16 @@
     "L4479": "0",
     "M4479": "n/a",
     "N4479": "Exposure effect on log earnings losses under alternative weights (DWS, occupation ACS employment, CPS final person, unweighted). Location: Appendix C.11.4/Table A20 pp.46–48",
-    "O4479": "Column1 repeats Table3(2); cols2–4 substantive separately located weighting robustness, same OLS method. Coefficients -0.0373,-0.0343,-0.0425; no linked outcome mean/SD. Weights do not turn regression into causal matching."
+    "O4479": "Column1 repeats Table3(2); cols2–4 substantive separately located weighting robustness, same OLS method. Coefficients -0.0373,-0.0343,-0.0425; no linked outcome mean/SD. Weights do not turn regression into causal matching.",
+    "A4480": "F9IA5GIP",
+    "B4480": "h29",
+    "I4480": "1",
+    "J4480": "OLS",
+    "K4480": "0",
+    "L4480": "0",
+    "M4480": "n/a",
+    "N4480": "Exposure effect on occupation switching under alternative sampling weights, explicitly reported similar results available upon request. Location: Appendix C.11.4 p.47",
+    "O4480": "Minimum individually named implemented outcome only. Same equation1 regression context; no unpublished numeric coefficients or weight-by-outcome grid. Other unnamed outcomes held outside operations."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116853,7 +116862,11 @@
     "A10467": "F9IA5GIP",
     "B10467": "h28",
     "C10467": "hy1",
-    "K10467": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+    "K10467": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome.",
+    "A10468": "F9IA5GIP",
+    "B10468": "h29",
+    "C10468": "hy1",
+    "K10468": "Indicator switching occupation after displacement."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

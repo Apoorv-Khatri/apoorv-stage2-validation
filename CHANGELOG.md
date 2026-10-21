@@ -1040964,3 +1040964,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:19:38.629695+00:00 — Review F9IA5GIP h29: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10468",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10468",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10468",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10468",
+    "before": null,
+    "after": "Indicator switching occupation after displacement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4480",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4480",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4480",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4480",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4480",
+    "before": null,
+    "after": "Exposure effect on occupation switching under alternative sampling weights, explicitly reported similar results available upon request. Location: Appendix C.11.4 p.47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4480",
+    "before": null,
+    "after": "Minimum individually named implemented outcome only. Same equation1 regression context; no unpublished numeric coefficients or weight-by-outcome grid. Other unnamed outcomes held outside operations."
+  }
+]
+```
