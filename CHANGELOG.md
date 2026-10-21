@@ -1058934,3 +1058934,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:54:18.881186+00:00 — Review K8LUIIMP h38: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10621",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10621",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10621",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10621",
+    "before": null,
+    "after": "Province share of employment in service occupations, p.1263 fn17; larger nearer the trade hub. Year, exact share construction and estimation scale not specified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4557",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4557",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4557",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4557",
+    "before": null,
+    "after": "Province access to Argentina's trade hub and service-occupation employment share; p.1263 fn17. Provinces closer to the trade hub have larger service-employment shares."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4557",
+    "before": null,
+    "after": "Author-intention gate accepted consistently with Table1 spatial mechanism. Province aggregation, exact distance coding, year and estimator are not established; do not transfer district OLS or assert a binary contrast. No coefficient or benchmark reported."
+  }
+]
+```
