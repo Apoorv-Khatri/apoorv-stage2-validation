@@ -1034724,3 +1034724,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:28:29.266342+00:00 — Review F64LTKPN h9: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9469",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9470",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9469",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9470",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9469",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9470",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9469",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9470",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9469",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9470",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9470",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9469",
+    "before": null,
+    "after": "p.1193 Camp Rock Jonas: +1 versus -1 endpoint rates 56% versus 19%; benchmark +1 group rate 56%. Neutral rates 25%/24% are not additional endpoint benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9470",
+    "before": null,
+    "after": "p.1193 Camp Rock Jonas: +1 versus -1 endpoint rates 56% versus 19%; benchmark -1 group rate 19%. Neutral rates 25%/24% are not additional endpoint benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9469",
+    "before": null,
+    "after": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9470",
+    "before": null,
+    "after": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10412",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10412",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10412",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10412",
+    "before": null,
+    "after": "Indicator auction price exceeds low BIN price for Camp Rock; Jonas title groups p.1193; reported cell means 56%,25%,19% in +1/0/-1 order."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4444",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4444",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4444",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4444",
+    "before": null,
+    "after": "SectionIII p.1193 prose: Camp Rock Jonas title asymmetry (-1,0,+1), on overbid indicator including shipping."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4444",
+    "before": null,
+    "after": "Author: other words may also generate overbidding. Reported +1/0/-1 rates 56%,25%,19%; distinct focal word, not a routine sample variant of another word."
+  }
+]
+```

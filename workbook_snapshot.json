@@ -45039,7 +45039,16 @@
     "L4443": "1",
     "M4443": "n/a",
     "N4443": "Figure1 bottom panels p.1193: dvd auction-minus-BIN title presence (-1,0,+1), on overbid and >$1-overbid indicators including shipping.",
-    "O4443": "Author-intention inclusion: pp.1185,1188 and Fig.1 interpret wording as generating search frictions/overbidding, not merely a predictive exercise. Observational cell means, no identifying FE or IV; confounding by title clarity and seller quality acknowledged. Treatment is the reported -1/0/+1 wording asymmetry, not a binary word-presence indicator. Endpoint-only binary interpretation remains an adjudication alternative."
+    "O4443": "Author-intention inclusion: pp.1185,1188 and Fig.1 interpret wording as generating search frictions/overbidding, not merely a predictive exercise. Observational cell means, no identifying FE or IV; confounding by title clarity and seller quality acknowledged. Treatment is the reported -1/0/+1 wording asymmetry, not a binary word-presence indicator. Endpoint-only binary interpretation remains an adjudication alternative.",
+    "A4444": "F64LTKPN",
+    "B4444": "h9",
+    "I4444": "1",
+    "J4444": "OLS",
+    "K4444": "0",
+    "L4444": "0",
+    "M4444": "n/a",
+    "N4444": "SectionIII p.1193 prose: Camp Rock Jonas title asymmetry (-1,0,+1), on overbid indicator including shipping.",
+    "O4444": "Author: other words may also generate overbidding. Reported +1/0/-1 rates 56%,25%,19%; distinct focal word, not a routine sample variant of another word."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116257,7 +116266,11 @@
     "A10411": "F64LTKPN",
     "B10411": "h8",
     "C10411": "hy2",
-    "K10411": "Indicator auction price exceeds low BIN price by more than $1, including shipping; Figure1 bottom dvd group."
+    "K10411": "Indicator auction price exceeds low BIN price by more than $1, including shipping; Figure1 bottom dvd group.",
+    "A10412": "F64LTKPN",
+    "B10412": "h9",
+    "C10412": "hy1",
+    "K10412": "Indicator auction price exceeds low BIN price for Camp Rock; Jonas title groups p.1193; reported cell means 56%,25%,19% in +1/0/-1 order."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -222433,7 +222446,29 @@
     "O9468": "0",
     "P9468": "unknown",
     "Q9468": "Figure1 p.1193, dvd, overbid >$1: qualitative high-versus-low wording endpoint contrast; benchmark lower-wording endpoint mean. Individual endpoints +1/-1; summed endpoints >1/<-1. No exact numeric heights transcribed.",
-    "R9468": "Deliberate graphical endpoint pairing; no coefficient grid or digitized values. Eligibility is provisional policy judgment, not a printed regression estimate. Observational group means do not establish target alignment. Neutral/intermediate bins not separately counted."
+    "R9468": "Deliberate graphical endpoint pairing; no coefficient grid or digitized values. Eligibility is provisional policy judgment, not a printed regression estimate. Observational group means do not establish target alignment. Neutral/intermediate bins not separately counted.",
+    "A9469": "F64LTKPN",
+    "B9469": "h9",
+    "C9469": "hc1",
+    "K9469": "1",
+    "L9469": "hy1",
+    "M9469": "outcome_mean",
+    "N9469": "1",
+    "O9469": "0",
+    "P9469": "0",
+    "Q9469": "p.1193 Camp Rock Jonas: +1 versus -1 endpoint rates 56% versus 19%; benchmark +1 group rate 56%. Neutral rates 25%/24% are not additional endpoint benchmarks.",
+    "R9469": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed.",
+    "A9470": "F64LTKPN",
+    "B9470": "h9",
+    "C9470": "hc2",
+    "K9470": "1",
+    "L9470": "hy1",
+    "M9470": "outcome_mean",
+    "N9470": "1",
+    "O9470": "0",
+    "P9470": "unknown",
+    "Q9470": "p.1193 Camp Rock Jonas: +1 versus -1 endpoint rates 56% versus 19%; benchmark -1 group rate 19%. Neutral rates 25%/24% are not additional endpoint benchmarks.",
+    "R9470": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
