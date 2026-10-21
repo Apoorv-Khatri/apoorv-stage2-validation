@@ -1041051,3 +1041051,372 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:20:09.016759+00:00 — Review F9IA5GIP h30: source-audited coding and linked comparisons
+
+60 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9501",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9502",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9503",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9504",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9501",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9502",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9503",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9504",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9501",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9502",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9503",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9504",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9501",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9502",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9503",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9504",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9501",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9502",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9503",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9504",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9503",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9504",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9503",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9504",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9503",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9504",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9501",
+    "before": null,
+    "after": "Appendix Table A24 col2, 15 occupations: full loss 7.69%, no-technology 4.36%, no-technology/no-experience 1.53%; printed technology contribution 43.3% of full-model average loss."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9502",
+    "before": null,
+    "after": "Appendix Table A24 col3, 20 occupations: full loss 7.54%, no-technology 4.31%, no-technology/no-experience 1.70%; printed technology contribution 42.8% of full-model average loss."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9503",
+    "before": null,
+    "after": "Appendix A24 panel A col2, printed p.57, 15 occupations: technology-presence contrast between full-model earnings change -7.69% and no-technology -4.36%, paired with no-technology mean -4.36%. Full-model denominator triple already retained; no division by this endpoint reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9504",
+    "before": null,
+    "after": "Appendix A24 panel A col3, printed p.57, 20 occupations: technology-presence contrast between full-model earnings change -7.54% and no-technology -4.31%, paired with no-technology mean -4.31%. Full-model denominator triple already retained; no division by this endpoint reported."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9501",
+    "before": null,
+    "after": "Technology contributions explicitly verbalized p.57; other components paired/normalized in panel B only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9502",
+    "before": null,
+    "after": "Technology contributions explicitly verbalized p.57; other components paired/normalized in panel B only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9503",
+    "before": null,
+    "after": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9504",
+    "before": null,
+    "after": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10469",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10469",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10469",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10469",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10469",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10469",
+    "before": null,
+    "after": "Model average percentage earnings loss two years after layoff among re-employed agents."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4481",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4481",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4481",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4481",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4481",
+    "before": null,
+    "after": "Presence versus removal of technological change in 15- and20-occupation calibrated models; baseline10 repeats main decomposition. Location: Appendix D.7/Table A24 cols2–3 p.57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4481",
+    "before": null,
+    "after": "Nonlinear structural equilibrium procedure. Distinct mechanism; number-of-occupation variants grouped. Full-model denominator is exposed to technology and experience; mismatched regime for component counterfactual. No fabricated ladder-off simulation."
+  }
+]
+```
