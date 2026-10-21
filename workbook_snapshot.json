@@ -45982,7 +45982,16 @@
     "L4521": "0",
     "M4521": "n/a",
     "N4521": "Number of railroad stations within district; p.1269 fn22 alternative to Table2 col2, coefficient0.075 (SE0.005). Outcome log population growth1869–1914; eq2 controls.",
-    "O4521": "Separate treatment or instrument-set scope; original s3/s4 retained for other columns. No qualifying outcome benchmark."
+    "O4521": "Separate treatment or instrument-set scope; original s3/s4 retained for other columns. No qualifying outcome benchmark.",
+    "A4522": "K8LUIIMP",
+    "B4522": "h3",
+    "I4522": "1",
+    "J4522": "IV",
+    "K4522": "0",
+    "L4522": "1",
+    "M4522": "single continuous",
+    "N4522": "Rail length; Table2 col4 coefficient0.717; excluded instrument fraction of district surface on least-cost paths to top-four ports. Outcome log population growth1869–1914; eq2 controls.",
+    "O4522": "Separate treatment or instrument-set scope; original s3/s4 retained for other columns. No qualifying outcome benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117959,7 +117968,11 @@
     "A10536": "K8LUIIMP",
     "B10536": "h2",
     "C10536": "hy1",
-    "K10536": "Log population growth1869–1914, first difference of logs."
+    "K10536": "Log population growth1869–1914, first difference of logs.",
+    "A10537": "K8LUIIMP",
+    "B10537": "h3",
+    "C10537": "hy1",
+    "K10537": "Log population growth1869–1914, first difference of logs."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
