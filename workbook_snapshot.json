@@ -562,6 +562,7 @@
     "B117": "The Bidder's Curse: Comment",
     "C117": "econ",
     "D117": 4,
+    "E117": "DONE — Source-scoped review of full 13-page final article and actual AEA-linked 12-page appendix, with independent audit. Retain full multivalued wording scopes rather than duplicate binary endpoints; word-specific and sum effects separate, ordinary means OLS conditional on reported outcomes, medians and outcome-ranked trimmed means Other. Conditional-selected-sample trimming alternative explicit. Wording author-intention gate accepted despite confounding; invented auction-format treatments rejected, broader purchase-option counterfactual alternative held. Experience no-learning null retained as supporting with weaker descriptive-bin alternative disclosed. Deliberate endpoint pairings retained symmetrically: 25 exposed-state means alignment0 for their specific high-minus-low contrasts; 25 lower-state means unknown, four medians n/a. No fabricated regression coefficients, graph heights or numerical zero effects. Figure1 summed lower endpoints and FigureA1 disc lower endpoints remain HELD because flat/absent bars do not establish zero or allocation. Measurement corrections/query illustrations remain construction/diagnostic scopes, alternative measurement-counterfactual ontology held. Printed36/37, shipping direction, trimming product/pair, aggregation and appendix-date/cross-reference conflicts preserved. Original IDs/model fields/links and inactive records preserved. Available-source completion is not empirical replication or omission-free certification.",
     "A118": "F9IA5GIP",
     "B118": "Technological Change and the Consequences of Job Loss",
     "C118": "econ",
@@ -45102,7 +45103,16 @@
     "L4450": "0",
     "M4450": "n/a",
     "N4450": "Figure A1 p.6: dvd, auction-minus-BIN title presence, on overbid and >$1-overbid indicators excluding shipping.",
-    "O4450": "Sum is grouped < -1,-1,0,1,>1; individual words are -1,0,+1. Distinct supplemental result location. A1 caption refers to Section3, while final definition is SectionII. Group means linear in reported indicators; not nonlinear merely because indicators were constructed from prices."
+    "O4450": "Sum is grouped < -1,-1,0,1,>1; individual words are -1,0,+1. Distinct supplemental result location. A1 caption refers to Section3, while final definition is SectionII. Group means linear in reported indicators; not nonlinear merely because indicators were constructed from prices.",
+    "A4451": "F64LTKPN",
+    "B4451": "h16",
+    "I4451": "1",
+    "J4451": "OLS",
+    "K4451": "0",
+    "L4451": "0",
+    "M4451": "n/a",
+    "N4451": "SectionII p.1192 and footnote20: buyer experience in six feedback-score categories, on DVD overbid indicator including shipping.",
+    "O4451": "Substantive null retained: author reproduces absence of learning, interpreting it as consistent with frictions applying to users of all experiences. Observational bin means, not randomized experience. Rates 0.23,0.22,0.22,0.27,0.19,0.25 for 0-9,10-29,30-129,130-499,500-999,>=1000. Causal-intention gate is less explicit than wording; held alternate exclusion in audit."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116368,7 +116378,11 @@
     "A10423": "F64LTKPN",
     "B10423": "h15",
     "C10423": "hy2",
-    "K10423": "Indicator auction price exceeds low BIN by more than $1, excluding shipping; Fig.A1 dvd."
+    "K10423": "Indicator auction price exceeds low BIN by more than $1, excluding shipping; Fig.A1 dvd.",
+    "A10424": "F64LTKPN",
+    "B10424": "h16",
+    "C10424": "hy1",
+    "K10424": "DVD auction-level indicator price exceeds low BIN including shipping, grouped by buyer feedback experience; footnote20."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

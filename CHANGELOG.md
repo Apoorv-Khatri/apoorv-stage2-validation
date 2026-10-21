@@ -1036773,3 +1036773,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:31:44.413820+00:00 — Review F64LTKPN h16: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10424",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10424",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10424",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10424",
+    "before": null,
+    "after": "DVD auction-level indicator price exceeds low BIN including shipping, grouped by buyer feedback experience; footnote20."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E117",
+    "before": null,
+    "after": "DONE — Source-scoped review of full 13-page final article and actual AEA-linked 12-page appendix, with independent audit. Retain full multivalued wording scopes rather than duplicate binary endpoints; word-specific and sum effects separate, ordinary means OLS conditional on reported outcomes, medians and outcome-ranked trimmed means Other. Conditional-selected-sample trimming alternative explicit. Wording author-intention gate accepted despite confounding; invented auction-format treatments rejected, broader purchase-option counterfactual alternative held. Experience no-learning null retained as supporting with weaker descriptive-bin alternative disclosed. Deliberate endpoint pairings retained symmetrically: 25 exposed-state means alignment0 for their specific high-minus-low contrasts; 25 lower-state means unknown, four medians n/a. No fabricated regression coefficients, graph heights or numerical zero effects. Figure1 summed lower endpoints and FigureA1 disc lower endpoints remain HELD because flat/absent bars do not establish zero or allocation. Measurement corrections/query illustrations remain construction/diagnostic scopes, alternative measurement-counterfactual ontology held. Printed36/37, shipping direction, trimming product/pair, aggregation and appendix-date/cross-reference conflicts preserved. Original IDs/model fields/links and inactive records preserved. Available-source completion is not empirical replication or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4451",
+    "before": null,
+    "after": "F64LTKPN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4451",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4451",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4451",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4451",
+    "before": null,
+    "after": "SectionII p.1192 and footnote20: buyer experience in six feedback-score categories, on DVD overbid indicator including shipping."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4451",
+    "before": null,
+    "after": "Substantive null retained: author reproduces absence of learning, interpreting it as consistent with frictions applying to users of all experiences. Observational bin means, not randomized experience. Rates 0.23,0.22,0.22,0.27,0.19,0.25 for 0-9,10-29,30-129,130-499,500-999,>=1000. Causal-intention gate is less explicit than wording; held alternate exclusion in audit."
+  }
+]
+```
