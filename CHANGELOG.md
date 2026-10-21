@@ -1049859,3 +1049859,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:33:00.649803+00:00 — Review K8LUIIMP s2: source-audited coding and linked comparisons
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2637",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2638",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2639",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2637",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2638",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2639",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2637",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2638",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2639",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2637",
+    "before": null,
+    "after": "duplicate of s1 hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2638",
+    "before": null,
+    "after": "duplicate of s1 hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2639",
+    "before": null,
+    "after": "duplicate of s1 hy3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1060",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1060",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1060",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1060",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1060",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1060",
+    "before": null,
+    "after": "Duplicate outcome-set split of Table 1; all cols 1–7 retained in s1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1060",
+    "before": null,
+    "after": "Original model fields/IDs preserved. Original s2 outcomes inactive; copied under s1."
+  }
+]
+```
