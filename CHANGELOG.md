@@ -1039812,3 +1039812,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:13:39.848207+00:00 — Review F9IA5GIP h19: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9500",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9500",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9500",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9500",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9500",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9500",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9500",
+    "before": null,
+    "after": "Appendix p.33 Table A10(1)/footnote19: two-SD contrast over 14 percentage points; 36.4% of CPS-ORG individuals switch occupations over 12 months."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9500",
+    "before": null,
+    "after": "Pooled mean rather than established dose-specific untreated benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10449",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10449",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10449",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10449",
+    "before": null,
+    "after": "Indicator switching occupation between CPS-ORG interviews 12 months apart."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4470",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4470",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4470",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4470",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4470",
+    "before": null,
+    "after": "Exposure effect on occupation switching over 12 months in broader CPS-ORG sample; coefficients 0.0710,0.0689,0.0512. Location: Appendix C.6/Table A10 p.33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4470",
+    "before": null,
+    "after": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. Appendix C.6 fn19 deliberately links the over14pp two-SD contrast to pooled switching mean 36.4%; see hc1."
+  }
+]
+```

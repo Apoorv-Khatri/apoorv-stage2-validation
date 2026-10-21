@@ -45314,7 +45314,16 @@
     "L4469": "0",
     "M4469": "n/a",
     "N4469": "Exposure effects on indicators for unemployment spells lasting at least 3,6,9,12 months; re-employed and all-displaced samples. Location: Appendix C.4.1/Table A9 pp.28–30",
-    "O4469": "Threshold interpretation established by prose p.28, despite abbreviated table label duration. Retain nulls. Broader sample imputes incomplete duration from dates. No qualifying benchmark; do not turn duration thresholds into outcome levels for magnitude comparisons."
+    "O4469": "Threshold interpretation established by prose p.28, despite abbreviated table label duration. Retain nulls. Broader sample imputes incomplete duration from dates. No qualifying benchmark; do not turn duration thresholds into outcome levels for magnitude comparisons.",
+    "A4470": "F9IA5GIP",
+    "B4470": "h19",
+    "I4470": "1",
+    "J4470": "OLS",
+    "K4470": "0",
+    "L4470": "1",
+    "M4470": "n/a",
+    "N4470": "Exposure effect on occupation switching over 12 months in broader CPS-ORG sample; coefficients 0.0710,0.0689,0.0512. Location: Appendix C.6/Table A10 p.33",
+    "O4470": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. Appendix C.6 fn19 deliberately links the over14pp two-SD contrast to pooled switching mean 36.4%; see hc1."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116687,7 +116696,11 @@
     "A10448": "F9IA5GIP",
     "B10448": "h18",
     "C10448": "hy4",
-    "K10448": "Indicator unemployment spell at least 12 months."
+    "K10448": "Indicator unemployment spell at least 12 months.",
+    "A10449": "F9IA5GIP",
+    "B10449": "h19",
+    "C10449": "hy1",
+    "K10449": "Indicator switching occupation between CPS-ORG interviews 12 months apart."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -223233,7 +223246,18 @@
     "O9499": "0",
     "P9499": "unknown",
     "Q9499": "Appendix p.25/Table A6(1), footnote13: one exposure-SD effect 14.6 percentage points; sample mean 33.6% transition to lower-paying occupations.",
-    "R9499": "Pooled sample mean; no established dose-specific untreated target."
+    "R9499": "Pooled sample mean; no established dose-specific untreated target.",
+    "A9500": "F9IA5GIP",
+    "B9500": "h19",
+    "C9500": "hc1",
+    "K9500": "1",
+    "L9500": "hy1",
+    "M9500": "outcome_mean",
+    "N9500": "1",
+    "O9500": "0",
+    "P9500": "unknown",
+    "Q9500": "Appendix p.33 Table A10(1)/footnote19: two-SD contrast over 14 percentage points; 36.4% of CPS-ORG individuals switch occupations over 12 months.",
+    "R9500": "Pooled mean rather than established dose-specific untreated benchmark."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
