@@ -45215,7 +45215,16 @@
     "L4458": "0",
     "M4458": "n/a",
     "N4458": "Exposure effect on displaced-worker earnings losses by age, education, gender; routine subgroup variants grouped. Location: Appendix C.1/Table A1, p.18",
-    "O4458": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
+    "O4458": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located.",
+    "A4459": "F9IA5GIP",
+    "B4459": "h8",
+    "I4459": "1",
+    "J4459": "OLS",
+    "K4459": "0",
+    "L4459": "0",
+    "M4459": "n/a",
+    "N4459": "Exposure effect on displaced-worker earnings losses by pre-displacement earnings relative to occupation median and unemployment duration <=7 versus >7 weeks. Location: Appendix C.1/Table A2, p.19",
+    "O4459": "Prior-earnings stratification is established; unemployment-duration stratum is post-displacement. No randomized subgroup assignment or new binary exposure. No linked benchmark for effect magnitude."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116524,7 +116533,11 @@
     "A10432": "F9IA5GIP",
     "B10432": "h7",
     "C10432": "hy1",
-    "K10432": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+    "K10432": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome.",
+    "A10433": "F9IA5GIP",
+    "B10433": "h8",
+    "C10433": "hy1",
+    "K10433": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
