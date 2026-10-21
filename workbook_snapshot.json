@@ -45819,7 +45819,16 @@
     "L4510": "1",
     "M4510": "n/a",
     "N4510": "Figure III left middle, pp.2046–2047: below-median versus high CU decisions in Beliefs A; median response/compression contrast.",
-    "O4510": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Implemented binary CU split, not randomized CU; median nonlinear in decisions. This is a separate estimator/location from Tables III/IV. No numerical curve values inferred."
+    "O4510": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Implemented binary CU split, not randomized CU; median nonlinear in decisions. This is a separate estimator/location from Tables III/IV. No numerical curve values inferred.",
+    "A4511": "J83HLRWH",
+    "B4511": "h14",
+    "I4511": "1",
+    "J4511": "OLS",
+    "K4511": "0",
+    "L4511": "1",
+    "M4511": "n/a",
+    "N4511": "Figure III right top, pp.2046,2048: objective-probability OLS slopes across four CU quartiles in Risk A; monotonic noise-related sensitivity contrast.",
+    "O4511": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Caption explicitly OLS. Quartiles are selected on measured CU; randomized task parameters do not randomize CU-quartile membership. Slope differences remain linear conditional on regressors; no invented interaction-regression implementation. Quartile averages are treatment summaries, not outcome benchmarks."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117705,7 +117714,11 @@
     "H10521": "0",
     "I10521": "unknown",
     "J10521": "none",
-    "K10521": "Stated posterior probability, shown as median in percent."
+    "K10521": "Stated posterior probability, shown as median in percent.",
+    "A10522": "J83HLRWH",
+    "B10522": "h14",
+    "C10522": "hy1",
+    "K10522": "Normalized certainty equivalent in percent; plotted coefficients are slopes on payout probability, not a new slope-valued dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
