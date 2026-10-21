@@ -1049688,3 +1049688,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:32:31.850968+00:00 — Review K8LUIIMP s1: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10531",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10532",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10533",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10534",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10531",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10532",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10533",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10534",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10531",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10532",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10533",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10534",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10531",
+    "before": null,
+    "after": "Log wage-rental ratio in 1895; log agricultural labor wage minus log land value per hectare."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10532",
+    "before": null,
+    "after": "Log relative price of tradeables in 1895; log tradeables consumption price index minus log overall consumption price index, i.e. relative price of traded to overall consumption goods."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10533",
+    "before": null,
+    "after": "Share of cereals cultivated area in 1914; share of agricultural land used for cereals in each district."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10534",
+    "before": null,
+    "after": "Log tradeables consumption price index (not relative to overall index); positive significant distance gradient, p.1265 footnote18; coefficient not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2633",
+    "before": null,
+    "after": "Log population density in 1869; log of population per unit of land area for each district."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2634",
+    "before": null,
+    "after": "Urban population share in 1869; share of district population living in cities and towns."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2635",
+    "before": null,
+    "after": "Log growth in population density from 1869 to 1914, equal to log population growth over the period."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2636",
+    "before": null,
+    "after": "Change in urban population share from 1869 to 1914, in share points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1059",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1059",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1059",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1059",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1059",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1059",
+    "before": null,
+    "after": "Log geographic distance to nearest top-four port; Table 1 cols 1–7, equation (1), pp.1263–1265. Cross-sectional OLS levels and long-run gradients, plus footnote 18 log tradeables price-index outcome. No identifying FE or DiD for the time-invariant distance gradient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1059",
+    "before": null,
+    "after": "Broad author-intention gate: section IV calls these reduced-form evidence for the spatial Balassa-Samuelson mechanism; descriptive-gradient exclusion is a contested alternative, not rejection for weak identification. Combine former s2 outcomes at the same location. Printed doubling/percentage wording is approximate; do not convert log coefficients into exact doubling effects. Footnote17 province result retained separately as h38 with unknown method and treatment coding."
+  }
+]
+```
