@@ -1040544,3 +1040544,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:17:05.095638+00:00 — Review F9IA5GIP h25: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10461",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10461",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10461",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10461",
+    "before": null,
+    "after": "Indicator not in labor force at DWS survey."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4476",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4476",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4476",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4476",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4476",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4476",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4476",
+    "before": null,
+    "after": "Technological-change exposure effect on exiting labor force after displacement; null. Location: Appendix C.10/Table A17 p.43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4476",
+    "before": null,
+    "after": "Source conflict: occupation-definition row says SOC-4 in all columns, note/prose says col3 Autor–Dorn. Preserve both; not a reason to omit null effect or fabricate two implementations."
+  }
+]
+```

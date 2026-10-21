@@ -45368,7 +45368,16 @@
     "L4475": "0",
     "M4475": "n/a",
     "N4475": "Technological-change exposure effect on being employed after displacement; null, full displaced sample. Location: Appendix C.10/Table A16 p.42",
-    "O4475": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located."
+    "O4475": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. No qualifying same-outcome benchmark located.",
+    "A4476": "F9IA5GIP",
+    "B4476": "h25",
+    "I4476": "1",
+    "J4476": "OLS",
+    "K4476": "0",
+    "L4476": "0",
+    "M4476": "n/a",
+    "N4476": "Technological-change exposure effect on exiting labor force after displacement; null. Location: Appendix C.10/Table A17 p.43",
+    "O4476": "Source conflict: occupation-definition row says SOC-4 in all columns, note/prose says col3 Autor–Dorn. Preserve both; not a reason to omit null effect or fabricate two implementations."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116789,7 +116798,11 @@
     "A10460": "F9IA5GIP",
     "B10460": "h24",
     "C10460": "hy1",
-    "K10460": "Indicator employed at DWS survey after displacement."
+    "K10460": "Indicator employed at DWS survey after displacement.",
+    "A10461": "F9IA5GIP",
+    "B10461": "h25",
+    "C10461": "hy1",
+    "K10461": "Indicator not in labor force at DWS survey."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
