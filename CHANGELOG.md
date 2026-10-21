@@ -1036929,3 +1036929,66 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:02:07.502312+00:00 — Review F9IA5GIP s2: source-audited coding and linked comparisons
+
+9 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K713",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R713",
+    "before": null,
+    "after": "Separate Table 2 descriptive mean is not deliberately linked to the Table 3/4 focal coefficient. One-treatment-SD contrast and percentage-point interpretation do not themselves supply an outcome benchmark. Retain original model evidence unchanged."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1032",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1032",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1032",
+    "before": null,
+    "after": "Technological-change exposure effect on occupation switching after displacement, weighted linear probability regression Table 4 cols 1–3. Figure 3A separately recorded under h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1032",
+    "before": null,
+    "after": "Occupation exposure is normalized change in computer/software vacancy share, 2007–2017; weighted linear regression adjustment with occupation-clustered SEs. Dummy controls alone do not establish identifying FE. Author-intention inclusion does not assert exogeneity. The reported dependent variable is an indicator; weighted linear probability regression, not a winsorized log-change outcome."
+  }
+]
+```
