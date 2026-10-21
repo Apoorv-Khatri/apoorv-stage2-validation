@@ -1068534,3 +1068534,678 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T19:29:59.711009+00:00 — Review MWF8TE4P s6: source-audited coding and linked comparisons
+
+111 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9659",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9660",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9661",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9662",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9663",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9664",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9659",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9660",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9661",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9662",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9663",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9664",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9659",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9660",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9661",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9662",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9663",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9664",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K735",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9659",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9662",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9663",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9664",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9659",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9660",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9661",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9662",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9663",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9664",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9659",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9660",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9661",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9662",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9663",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9664",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9659",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9662",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9663",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9664",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9659",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9662",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9663",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9664",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9659",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9660",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9661",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9662",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9663",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9664",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9659",
+    "before": null,
+    "after": "Table6 p.321: component -27% NPV income loss compared to baseline; same lifetime-income NPV denominator, not the total-cost effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9660",
+    "before": null,
+    "after": "Table6 p.321: component -8.5% NPV income loss compared to baseline; same lifetime-income NPV denominator, not the total-cost effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9661",
+    "before": null,
+    "after": "Table6 p.321: component -1.8% NPV income loss compared to baseline; same lifetime-income NPV denominator, not the total-cost effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9662",
+    "before": null,
+    "after": "Table6 p.321: component -1.6% NPV income loss compared to baseline; same lifetime-income NPV denominator, not the total-cost effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9663",
+    "before": null,
+    "after": "Table6 p.321: component -6.7% NPV income loss compared to baseline; same lifetime-income NPV denominator, not the total-cost effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9664",
+    "before": null,
+    "after": "Table6 p.321: component -7% NPV income loss compared to baseline; same lifetime-income NPV denominator, not the total-cost effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R732",
+    "before": null,
+    "after": "Focal decomposition component compared to total career-cost/wage-component effect, not a mean/SD/level of the same outcome. Reject this effect-to-effect triple only; underlying Table6 baseline-normalized NPV contributions added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R733",
+    "before": null,
+    "after": "Focal decomposition component compared to total career-cost/wage-component effect, not a mean/SD/level of the same outcome. Reject this effect-to-effect triple only; underlying Table6 baseline-normalized NPV contributions added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R734",
+    "before": null,
+    "after": "Focal decomposition component compared to total career-cost/wage-component effect, not a mean/SD/level of the same outcome. Reject this effect-to-effect triple only; underlying Table6 baseline-normalized NPV contributions added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R735",
+    "before": null,
+    "after": "Focal decomposition component compared to total career-cost/wage-component effect, not a mean/SD/level of the same outcome. Reject this effect-to-effect triple only; underlying Table6 baseline-normalized NPV contributions added separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9659",
+    "before": null,
+    "after": "Uses SectionIV.E printed fertility-NPV denominator (exposed baseline); averaged Oaxaca reference choices do not establish no-fertility baseline alignment. Rounding:27+8.5 differs from35.3; preserve reported values. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9660",
+    "before": null,
+    "after": "Uses SectionIV.E printed fertility-NPV denominator (exposed baseline); averaged Oaxaca reference choices do not establish no-fertility baseline alignment. Rounding:27+8.5 differs from35.3; preserve reported values. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9661",
+    "before": null,
+    "after": "Uses SectionIV.E printed fertility-NPV denominator (exposed baseline); averaged Oaxaca reference choices do not establish no-fertility baseline alignment. Rounding:27+8.5 differs from35.3; preserve reported values. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9662",
+    "before": null,
+    "after": "Uses SectionIV.E printed fertility-NPV denominator (exposed baseline); averaged Oaxaca reference choices do not establish no-fertility baseline alignment. Rounding:27+8.5 differs from35.3; preserve reported values. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9663",
+    "before": null,
+    "after": "Uses SectionIV.E printed fertility-NPV denominator (exposed baseline); averaged Oaxaca reference choices do not establish no-fertility baseline alignment. Rounding:27+8.5 differs from35.3; preserve reported values. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9664",
+    "before": null,
+    "after": "Uses SectionIV.E printed fertility-NPV denominator (exposed baseline); averaged Oaxaca reference choices do not establish no-fertility baseline alignment. Rounding:27+8.5 differs from35.3; preserve reported values. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10686",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10687",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10686",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10687",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10686",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10687",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2705",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2707",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10686",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10687",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2704",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2705",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2706",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2707",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10686",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10687",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2704",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2705",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2706",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2707",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10686",
+    "before": null,
+    "after": "Residual other-factor NPV contribution in atrophy decomposition, -6.7%, Table6B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10687",
+    "before": null,
+    "after": "Residual other-factor NPV contribution in occupation decomposition, -7%, Table6B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2704",
+    "before": null,
+    "after": "Labor-supply component of lifetime-income NPV change, -27% of baseline in Table6A; not a standalone dependent percentage variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2705",
+    "before": null,
+    "after": "Wage component of lifetime-income NPV change, -8.5% of baseline in Table6A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2706",
+    "before": null,
+    "after": "Atrophy component of lifetime-income NPV change, -1.8% of baseline in Table6B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2707",
+    "before": null,
+    "after": "Occupation component of lifetime-income NPV change, -1.6% of baseline in Table6B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1089",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1089",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1089",
+    "before": null,
+    "after": "Table 6A/B pp.320–321: structural fertility/no-fertility NPV decomposition into labor supply, wages, atrophy/other and occupation/other components. Retains two different residual components; total is in s5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1089",
+    "before": null,
+    "after": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator. Fixed discounting and Oaxaca algebra alone are linear conditional on paths, but paths and wages are endogenous structural counterfactuals. Component/total-effect shares are not same-outcome level benchmarks."
+  }
+]
+```
