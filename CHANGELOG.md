@@ -1050951,3 +1050951,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:39:45.576332+00:00 — Review K8LUIIMP h7: source-audited coding and linked comparisons
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10541",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10542",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10543",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10544",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10545",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10546",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10541",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10542",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10543",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10544",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10545",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10546",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10541",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10542",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10543",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10544",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10545",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10546",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10541",
+    "before": null,
+    "after": "Share of agricultural land area allocated to cereal cultivation in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10542",
+    "before": null,
+    "after": "Share of agricultural land area allocated to other crop cultivation in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10543",
+    "before": null,
+    "after": "Share of agricultural land area allocated to purebred/mixed-breed cattle grazing in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10544",
+    "before": null,
+    "after": "Share of agricultural land area allocated to native-breed cattle grazing in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10545",
+    "before": null,
+    "after": "Share of agricultural land area allocated to purebred/mixed-breed sheep grazing in 1914."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10546",
+    "before": null,
+    "after": "Share of agricultural land area allocated to native-breed sheep grazing in 1914."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4526",
+    "before": null,
+    "after": "K8LUIIMP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4526",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4526",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4526",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4526",
+    "before": null,
+    "after": "Table5 col2: instrumented PPML of six agricultural land shares on log actual travel time; colonial-route log travel time excluded, latitude/longitude controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4526",
+    "before": null,
+    "after": "All specifications explicitly PPML in table note, hence nonlinear method Other despite IV designation. IV-type field n/a follows method taxonomy; actual excluded variable documented here. Exact IV-PPML implementation not claimed to be linear2SLS."
+  }
+]
+```
