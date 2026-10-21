@@ -45873,7 +45873,16 @@
     "L4516": "0",
     "M4516": "n/a",
     "N4516": "Table II column 2, pp.2044–2045: extremity of normative decision (absolute distance to 50%) and CU in Risk A; printed slope -0.19.",
-    "O4516": "P.2045 interprets the focal problem-parameter relation as ease of valuation/updating; retained under broad author-intention rule. Table caption explicitly OLS. Derived extremity index is not independently randomized CU or a named direct-assignment arm; OLS labels the displayed index regression, with randomized underlying task parameters noted separately. Demographic coefficients remain correlates/validation and are not included. Alternative descriptive-only reading remains an adjudication issue. No same-outcome mean/SD is deliberately paired."
+    "O4516": "P.2045 interprets the focal problem-parameter relation as ease of valuation/updating; retained under broad author-intention rule. Table caption explicitly OLS. Derived extremity index is not independently randomized CU or a named direct-assignment arm; OLS labels the displayed index regression, with randomized underlying task parameters noted separately. Demographic coefficients remain correlates/validation and are not included. Alternative descriptive-only reading remains an adjudication issue. No same-outcome mean/SD is deliberately paired.",
+    "A4517": "J83HLRWH",
+    "B4517": "h20",
+    "I4517": "1",
+    "J4517": "OLS",
+    "K4517": "0",
+    "L4517": "0",
+    "M4517": "n/a",
+    "N4517": "Table II column 4, pp.2044–2045: extremity of normative decision (absolute distance to 50%) and CU in Beliefs A; printed slope -0.31.",
+    "O4517": "P.2045 interprets the focal problem-parameter relation as ease of valuation/updating; retained under broad author-intention rule. Table caption explicitly OLS. Derived extremity index is not independently randomized CU or a named direct-assignment arm; OLS labels the displayed index regression, with randomized underlying task parameters noted separately. Demographic coefficients remain correlates/validation and are not included. Alternative descriptive-only reading remains an adjudication issue. No same-outcome mean/SD is deliberately paired."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117783,7 +117792,11 @@
     "A10527": "J83HLRWH",
     "B10527": "h19",
     "C10527": "hy1",
-    "K10527": "A-study CU, reversed confidence/probability outside elicitation window; Table II reports fractional CU scale (not percentage points for printed coefficient)."
+    "K10527": "A-study CU, reversed confidence/probability outside elicitation window; Table II reports fractional CU scale (not percentage points for printed coefficient).",
+    "A10528": "J83HLRWH",
+    "B10528": "h20",
+    "C10528": "hy1",
+    "K10528": "A-study CU, reversed confidence/probability outside elicitation window; Table II reports fractional CU scale (not percentage points for printed coefficient)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
