@@ -1050315,3 +1050315,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:35:46.383702+00:00 — Review K8LUIIMP s8: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2650",
+    "before": null,
+    "after": "Log tradeables price index in district cross section around1895; Table6 col1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1066",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1066",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1066",
+    "before": null,
+    "after": "Log travel time to nearest top-four port → log tradeables price index; Table6 col1 eq51, OLS coefficient0.063, latitude/longitude controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1066",
+    "before": null,
+    "after": "pp.1299–1300. Retain as causal structural input in author mechanism, not identifying FE; no own-outcome mean/SD benchmark."
+  }
+]
+```
