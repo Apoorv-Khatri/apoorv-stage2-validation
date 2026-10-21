@@ -45377,7 +45377,16 @@
     "L4476": "0",
     "M4476": "n/a",
     "N4476": "Technological-change exposure effect on exiting labor force after displacement; null. Location: Appendix C.10/Table A17 p.43",
-    "O4476": "Source conflict: occupation-definition row says SOC-4 in all columns, note/prose says col3 Autor–Dorn. Preserve both; not a reason to omit null effect or fabricate two implementations."
+    "O4476": "Source conflict: occupation-definition row says SOC-4 in all columns, note/prose says col3 Autor–Dorn. Preserve both; not a reason to omit null effect or fabricate two implementations.",
+    "A4477": "F9IA5GIP",
+    "B4477": "h26",
+    "I4477": "1",
+    "J4477": "OLS",
+    "K4477": "0",
+    "L4477": "0",
+    "M4477": "n/a",
+    "N4477": "State-by-occupation technological-change exposure effects among workers not moving since layoff; includes state FE and demographic/timing controls. Location: Appendix C.11.2/Table A18 pp.44–46",
+    "O4477": "Proposed OLS: state, survey-year and displacement-year dummy sets are listed, but no explicit identification argument for the battery against unobserved heterogeneity. Alternative HDFE interpretation requires adjudication; do not infer HDFE merely by counting sets. State-specific exposure and nonmover restriction established. No separate no-state-FE implementation reported here."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116802,7 +116811,23 @@
     "A10461": "F9IA5GIP",
     "B10461": "h25",
     "C10461": "hy1",
-    "K10461": "Indicator not in labor force at DWS survey."
+    "K10461": "Indicator not in labor force at DWS survey.",
+    "A10462": "F9IA5GIP",
+    "B10462": "h26",
+    "C10462": "hy1",
+    "K10462": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome.",
+    "A10463": "F9IA5GIP",
+    "B10463": "h26",
+    "C10463": "hy2",
+    "K10463": "Indicator switches occupation after displacement.",
+    "A10464": "F9IA5GIP",
+    "B10464": "h26",
+    "C10464": "hy3",
+    "K10464": "Weeks unemployed after displacement.",
+    "A10465": "F9IA5GIP",
+    "B10465": "h26",
+    "C10465": "hy4",
+    "K10465": "Indicator employed at DWS survey."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -1040631,3 +1040631,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:17:35.087338+00:00 — Review F9IA5GIP h26: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10462",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10463",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10464",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10465",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10462",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10463",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10464",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10465",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10462",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10463",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10464",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10465",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10462",
+    "before": null,
+    "after": "Change in log real weekly earnings, current job minus displaced job, 2012 dollars; winsorized at 2.5% in baseline. Not a log-level outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10463",
+    "before": null,
+    "after": "Indicator switches occupation after displacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10464",
+    "before": null,
+    "after": "Weeks unemployed after displacement."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10465",
+    "before": null,
+    "after": "Indicator employed at DWS survey."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4477",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4477",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4477",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4477",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4477",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4477",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4477",
+    "before": null,
+    "after": "State-by-occupation technological-change exposure effects among workers not moving since layoff; includes state FE and demographic/timing controls. Location: Appendix C.11.2/Table A18 pp.44–46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4477",
+    "before": null,
+    "after": "Proposed OLS: state, survey-year and displacement-year dummy sets are listed, but no explicit identification argument for the battery against unobserved heterogeneity. Alternative HDFE interpretation requires adjudication; do not infer HDFE merely by counting sets. State-specific exposure and nonmover restriction established. No separate no-state-FE implementation reported here."
+  }
+]
+```
