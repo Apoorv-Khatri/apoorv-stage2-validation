@@ -1065204,3 +1065204,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T11:20:31.641617+00:00 — Review MCIJCXNF s8: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1083",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1083",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1083",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1083",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1083",
+    "before": null,
+    "after": "Final pp.1677-79, Fig.8 and fn32: balanced-budget spending/tax package over four quarters. Weights solve budget constraints using estimated fiscal responses; near-zero estimated tax responses yield arbitrarily large required tax changes. Full procedure is outcome-adaptive/nonlinear, so Other, despite conditional linear combination of responses. Not IV. All four displayed outcomes retained."
+  }
+]
+```
