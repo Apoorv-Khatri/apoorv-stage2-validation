@@ -1059690,3 +1059690,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:41:31.434692+00:00 — Review KRMMS6YI s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1070",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1070",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1070",
+    "before": null,
+    "after": "Log(goal factor) slopes in log average annual price and log annual shares spent/goal factor; main Table 3 and appendix Tables 5–6, including interactions and pooled expenditure null."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1070",
+    "before": null,
+    "after": "Routine year controls do not establish identifying FE. Broad causal-mechanism reading supported by pp.1995,2006–08; contrary predicting wording retained for adjudication. Treatment-percent elasticities are not outcome benchmarks."
+  }
+]
+```
