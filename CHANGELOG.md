@@ -1042902,3 +1042902,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:52:45.174816+00:00 — Review IJCHBNI5 s6: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2610",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2610",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2610",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2610",
+    "before": null,
+    "after": "duplicate of s5/y1; both control variants retained under that parent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1042",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1042",
+    "before": null,
+    "after": "Duplicate routine-control variant of s5 at the same Figure IX panel; retain baseline and pretreatment-control frames together, not as a distinct method. Original model fields preserved."
+  }
+]
+```
