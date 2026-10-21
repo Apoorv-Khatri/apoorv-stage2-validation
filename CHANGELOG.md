@@ -1037043,3 +1037043,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:03:08.578686+00:00 — Review F9IA5GIP s4: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L714",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M714",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O714",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P714",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q714",
+    "before": null,
+    "after": "Main p.300/Table 6(1): -0.00125 per exposure SD; printed two-SD contrast is 0.25 percentage points lower displacement probability, explicitly compared with sample mean nearly 6.7%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R714",
+    "before": null,
+    "after": "Mean is pooled analysis-sample probability, not a specified zero-exposure/low-exposure counterfactual mean; regression target/weights needed for alignment. Relative to does not itself report a numerical normalization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1034",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1034",
+    "before": null,
+    "after": "Occupation exposure is normalized change in computer/software vacancy share, 2007–2017; weighted linear regression adjustment with occupation-clustered SEs. Dummy controls alone do not establish identifying FE. Author-intention inclusion does not assert exogeneity. The reported dependent variable is an indicator; weighted linear probability regression, not a winsorized log-change outcome."
+  }
+]
+```
