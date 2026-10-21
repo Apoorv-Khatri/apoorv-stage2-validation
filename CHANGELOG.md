@@ -1045041,3 +1045041,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:59:13.769962+00:00 — Review IJCHBNI5 h8: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10498",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10499",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10500",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10498",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10499",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10500",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10498",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10499",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10500",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10499",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10498",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10499",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10500",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10498",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10499",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10500",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10498",
+    "before": null,
+    "after": "Fraction of monasteries closed"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10499",
+    "before": null,
+    "after": "Church construction events (11-year moving average)"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10500",
+    "before": null,
+    "after": "Secular construction events (11-year moving average)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4494",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4494",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4494",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4494",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4494",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4494",
+    "before": null,
+    "after": "Figure XIII Brandenburg case, pp.2087–2091: transition to Protestant rule following ruler change in 1535; before/after local monastery closure and church/secular construction paths. No cross-territory control estimator or IV receipt regression is reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4494",
+    "before": null,
+    "after": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Authors explicitly attribute pattern to political shock; claimed exogenous timing does not itself make the implemented calculation IV or RD. Dates of ruler change and official religious adoption need not match (Brandenburg 1535 vs 1539). Independent audit: Final p.2089 says the political shock produced closure and resource shifts after1535. The single-territory path has no control group; no first stage/Wald or cutoff fit. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator."
+  }
+]
+```
