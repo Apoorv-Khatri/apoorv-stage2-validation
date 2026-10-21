@@ -1050114,3 +1050114,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:34:22.276542+00:00 — Review K8LUIIMP s5: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2642",
+    "before": null,
+    "after": "Constructed log tradeables expenditure share, equation40; not directly observed district expenditure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1063",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1063",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1063",
+    "before": null,
+    "after": "Log relative tradeables price index → constructed log tradeables expenditure share; Table3 col2 eq40; coefficient 0.506, implied substitution elasticity 0.494."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1063",
+    "before": null,
+    "after": "pp.1287–1289: excluded log lowest-cost travel time to nearest top-four port using colonial routes (weight1), coast/rivers(3), land(4.5). Classify estimator linear in the reported constructed log share, not the full upstream calibration. First stage col3 diagnostic only."
+  }
+]
+```
