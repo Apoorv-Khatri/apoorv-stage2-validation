@@ -1046082,3 +1046082,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:01:28.236505+00:00 — Review IJCHBNI5 h13: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10509",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10509",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10509",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10509",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10509",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10509",
+    "before": null,
+    "after": "Secular degrees granted in eventually Protestant universities described in footnote45"
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E119",
+    "before": null,
+    "after": "DONE — Available-source review of all 60 final-article pages and 8-page alternate LSE appendix, independently audited; final publisher supplement identity remains unverified. Formal post-Reformation contrasts retain conventional DiD; routine pretreatment-control variants consolidated without overwriting model IDs. Graphical h1–h10 retained under explicit broad author-interpreted linear-contrast policy, not claims of additional fitted regressions; two-group DiD/narrower inclusion alternatives disclosed. Administrative outcome includes military occupations per fn42, separately from unresolved construction military-category conflict. h13 limited to finalfn45 secular Protestant degree counts; total/theology and unseen supplementary allocations held. Ruppin historical appropriation h12 and its two comparisons have unknown eligibility, not retained or rejected effects. Comparable historical monetary/land transfers remain held under the same unresolved historical-estimator gate; no benchmark-driven selective inclusion or pooled outcome grid. Main construction-zero evidence admits competing town versus territory reading, uncertainty preserved without transfer to restricted samples. Endpoint eligibility symmetric, exposed alignment0/earlier unknown. Finalfn49 rounded area comparison retained; exact alternate-draft A3 means/SDs held. FigureIXC military inclusion,0.72/0.75, p-values, dates/names and pre-period conflicts preserved. Publisher/Dataverse/archive retrieval limits explicit, no code inspection or empirical replication. Original fields/IDs/links preserved. Source-scoped DONE is not final-supplement or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4499",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4499",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4499",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4499",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4499",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4499",
+    "before": null,
+    "after": "Final footnote45 p.2072, cited Online Appendix Figure A1 C: secular degree counts increase markedly at eventually Protestant universities. Retain only that individually established count outcome; total-degree decline/recovery in footnote33 and additional appendix allocations are held, not included in this setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4499",
+    "before": null,
+    "after": "Final footnote45 independently establishes secular degree counts. Method remains unknown pending final implementation; alternate February2018 A1 is corroborating provenance only. No total-degree outcome, theology-count grid, or additional panel allocations asserted. Final footnotes33/35 describe broader degree coverage but do not establish an individually allocated causal outcome grid."
+  }
+]
+```

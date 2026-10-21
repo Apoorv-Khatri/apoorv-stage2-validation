@@ -572,6 +572,7 @@
     "B119": "Religious Competition and Reallocation: the Political Economy of Secularization in the Protestant Reformation*",
     "C119": "econ",
     "D119": 11,
+    "E119": "DONE — Available-source review of all 60 final-article pages and 8-page alternate LSE appendix, independently audited; final publisher supplement identity remains unverified. Formal post-Reformation contrasts retain conventional DiD; routine pretreatment-control variants consolidated without overwriting model IDs. Graphical h1–h10 retained under explicit broad author-interpreted linear-contrast policy, not claims of additional fitted regressions; two-group DiD/narrower inclusion alternatives disclosed. Administrative outcome includes military occupations per fn42, separately from unresolved construction military-category conflict. h13 limited to finalfn45 secular Protestant degree counts; total/theology and unseen supplementary allocations held. Ruppin historical appropriation h12 and its two comparisons have unknown eligibility, not retained or rejected effects. Comparable historical monetary/land transfers remain held under the same unresolved historical-estimator gate; no benchmark-driven selective inclusion or pooled outcome grid. Main construction-zero evidence admits competing town versus territory reading, uncertainty preserved without transfer to restricted samples. Endpoint eligibility symmetric, exposed alignment0/earlier unknown. Finalfn49 rounded area comparison retained; exact alternate-draft A3 means/SDs held. FigureIXC military inclusion,0.72/0.75, p-values, dates/names and pre-period conflicts preserved. Publisher/Dataverse/archive retrieval limits explicit, no code inspection or empirical replication. Original fields/IDs/links preserved. Source-scoped DONE is not final-supplement or omission-free certification.",
     "A120": "J83HLRWH",
     "B120": "Cognitive Uncertainty",
     "C120": "econ",
@@ -45633,7 +45634,16 @@
     "L4498": "0",
     "M4498": "unknown",
     "N4498": "Table II note, p.2059: appropriation of church lands raises ruler share of territorial land in Ruppin from 21% in 1500 to 39% in 1600 (table says doubles). Historical accounting effect explicitly attributed to appropriation; not estimated coefficient.",
-    "O4498": "Table II note p.2059 explicitly attributes 21% to39% land ownership increase to church-land appropriation, so author-intention evidence is real. Retention is unknown because the paper cites a third-party historical accounting illustration without establishing an implemented estimator. Method/IV type remain unknown, not Other. The same historical-effect gate must also assess Hesse income/wealth transfers (p.2057), Table II monetary transfers, and Württemberg farmland transfer (p.2091); none is certified covered by this single Ruppin row. Binary describes the proposed appropriation-versus-prior-state contrast, not established randomized assignment."
+    "O4498": "Table II note p.2059 explicitly attributes 21% to39% land ownership increase to church-land appropriation, so author-intention evidence is real. Retention is unknown because the paper cites a third-party historical accounting illustration without establishing an implemented estimator. Method/IV type remain unknown, not Other. The same historical-effect gate must also assess Hesse income/wealth transfers (p.2057), Table II monetary transfers, and Württemberg farmland transfer (p.2091); none is certified covered by this single Ruppin row. Binary describes the proposed appropriation-versus-prior-state contrast, not established randomized assignment.",
+    "A4499": "IJCHBNI5",
+    "B4499": "h13",
+    "I4499": "1",
+    "J4499": "unknown",
+    "K4499": "1",
+    "L4499": "0",
+    "M4499": "unknown",
+    "N4499": "Final footnote45 p.2072, cited Online Appendix Figure A1 C: secular degree counts increase markedly at eventually Protestant universities. Retain only that individually established count outcome; total-degree decline/recovery in footnote33 and additional appendix allocations are held, not included in this setting.",
+    "O4499": "Final footnote45 independently establishes secular degree counts. Method remains unknown pending final implementation; alternate February2018 A1 is corroborating provenance only. No total-degree outcome, theology-count grid, or additional panel allocations asserted. Final footnotes33/35 describe broader degree coverage but do not establish an individually allocated causal outcome grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117402,7 +117412,14 @@
     "H10508": "0",
     "I10508": "unknown",
     "J10508": "none",
-    "K10508": "Ruler-owned share of territorial land, percent in Ruppin."
+    "K10508": "Ruler-owned share of territorial land, percent in Ruppin.",
+    "A10509": "IJCHBNI5",
+    "B10509": "h13",
+    "C10509": "hy1",
+    "H10509": "0",
+    "I10509": "unknown",
+    "J10509": "none",
+    "K10509": "Secular degrees granted in eventually Protestant universities described in footnote45"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
