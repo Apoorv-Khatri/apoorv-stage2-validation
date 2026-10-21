@@ -1059900,3 +1059900,396 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T10:42:25.383582+00:00 — Review KRMMS6YI s5: source-audited coding and linked comparisons
+
+64 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9596",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9597",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9598",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9599",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9596",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9597",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9598",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9599",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9596",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9597",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9598",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9599",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9596",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9597",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9598",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9599",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9596",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9597",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9598",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9599",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9596",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9597",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9598",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9599",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9596",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9597",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9598",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9599",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9596",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9597",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9596",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9597",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9598",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9596",
+    "before": null,
+    "after": "p.2009: observed1034km one-way versus simulated old-rule1720km with10% distant-offer rejection; printed roundtrip reduction1373km."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9597",
+    "before": null,
+    "after": "p.2009 same contrast; observed Choice mean1034km is exposed endpoint."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9598",
+    "before": null,
+    "after": "p.2009 no-rejection old-rule counterfactual mean1921km versus observed1034km. Authors reject1921 as preferred baseline because actual refusals occurred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9599",
+    "before": null,
+    "after": "p.2009 no-rejection1921km contrast paired with observed Choice mean1034km."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9596",
+    "before": null,
+    "after": "Same donor stream, but rejections/discards can change load weights. Random initial queue not direct RCT. No recalculated difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9597",
+    "before": null,
+    "after": "Symmetric endpoint eligibility; exposed endpoint cannot be untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9598",
+    "before": null,
+    "after": "Nonpreferred implemented scenario retained; matched-load/target weighting unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9599",
+    "before": null,
+    "after": "Exposed endpoint; separate focal rejection-rule scenario."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10629",
+    "before": null,
+    "after": "KRMMS6YI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10629",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10629",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10629",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2658",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2659",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10629",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2658",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2659",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10629",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2658",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2659",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10629",
+    "before": null,
+    "after": "Travel-time counterpart to geography outcomes: appendix p.12 says time-needed results computed with no change. Unit/estimator detail unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1072",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1072",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1072",
+    "before": null,
+    "after": "Choice versus simulated old queue, holding observed donation stream fixed; pp.2009–10 and appendix Table 11: distance and annual transport costs, including rejection-rule variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1072",
+    "before": null,
+    "after": "Sequential allocation and distance-dependent rejection/discarding recompute the allocation; not a randomized-assignment estimator despite randomized initial simulated queue. Main 1034 versus 1720 km, roundtrip reduction printed 1373, $15.7m savings. Intro rounds actual distance to 1030. Appendix says multiply miles by .625 to obtain km, an apparent reversed conversion; preserve conflict. Weights may change with discards."
+  }
+]
+```
