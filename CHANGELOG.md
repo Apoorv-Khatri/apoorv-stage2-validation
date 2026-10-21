@@ -1045845,3 +1045845,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:01:01.172237+00:00 — Review IJCHBNI5 h12: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9520",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9521",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9520",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9521",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9520",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9521",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9520",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9521",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9520",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9521",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9520",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9520",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9520",
+    "before": null,
+    "after": "Table II p.2059 Ruppin: ruler doubles land ownership appropriating monastery lands; note says share rises from 21% to 39% between 1500 and1600 due to appropriation. Pre endpoint 21%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9521",
+    "before": null,
+    "after": "Table II p.2059 Ruppin: same attributed rise from21% to39%; post endpoint39% is exposed outcome level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9520",
+    "before": null,
+    "after": "Preserve printed doubles versus 21→39 discrepancy; no recalculated ratio attributed. Unknown untreated1600 counterfactual mean. Eligibility held with parent historical-estimator gate; endpoint alignment and divided labels are conditional proposals, not retained-triple certification."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9521",
+    "before": null,
+    "after": "Post endpoint eligible symmetrically as same-outcome pairing, known exposed mismatch; doubling wording uses pre rather than post denominator, so divided=0 for this endpoint. Eligibility held with parent historical-estimator gate; endpoint alignment and divided labels are conditional proposals, not retained-triple certification."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10508",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10508",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10508",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10508",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10508",
+    "before": null,
+    "after": "Ruler-owned share of territorial land, percent in Ruppin."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4498",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4498",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4498",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4498",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4498",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4498",
+    "before": null,
+    "after": "Table II note, p.2059: appropriation of church lands raises ruler share of territorial land in Ruppin from 21% in 1500 to 39% in 1600 (table says doubles). Historical accounting effect explicitly attributed to appropriation; not estimated coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4498",
+    "before": null,
+    "after": "Table II note p.2059 explicitly attributes 21% to39% land ownership increase to church-land appropriation, so author-intention evidence is real. Retention is unknown because the paper cites a third-party historical accounting illustration without establishing an implemented estimator. Method/IV type remain unknown, not Other. The same historical-effect gate must also assess Hesse income/wealth transfers (p.2057), Table II monetary transfers, and Württemberg farmland transfer (p.2091); none is certified covered by this single Ruppin row. Binary describes the proposed appropriation-versus-prior-state contrast, not established randomized assignment."
+  }
+]
+```
