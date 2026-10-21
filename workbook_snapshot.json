@@ -45828,7 +45828,16 @@
     "L4511": "1",
     "M4511": "n/a",
     "N4511": "Figure III right top, pp.2046,2048: objective-probability OLS slopes across four CU quartiles in Risk A; monotonic noise-related sensitivity contrast.",
-    "O4511": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Caption explicitly OLS. Quartiles are selected on measured CU; randomized task parameters do not randomize CU-quartile membership. Slope differences remain linear conditional on regressors; no invented interaction-regression implementation. Quartile averages are treatment summaries, not outcome benchmarks."
+    "O4511": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Caption explicitly OLS. Quartiles are selected on measured CU; randomized task parameters do not randomize CU-quartile membership. Slope differences remain linear conditional on regressors; no invented interaction-regression implementation. Quartile averages are treatment summaries, not outcome benchmarks.",
+    "A4512": "J83HLRWH",
+    "B4512": "h15",
+    "I4512": "1",
+    "J4512": "OLS",
+    "K4512": "0",
+    "L4512": "1",
+    "M4512": "n/a",
+    "N4512": "Figure III right middle, pp.2046,2048: objective-probability OLS slopes across four CU quartiles in Beliefs A; monotonic noise-related sensitivity contrast.",
+    "O4512": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Caption explicitly OLS. Quartiles are selected on measured CU; randomized task parameters do not randomize CU-quartile membership. Slope differences remain linear conditional on regressors; no invented interaction-regression implementation. Quartile averages are treatment summaries, not outcome benchmarks."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117718,7 +117727,11 @@
     "A10522": "J83HLRWH",
     "B10522": "h14",
     "C10522": "hy1",
-    "K10522": "Normalized certainty equivalent in percent; plotted coefficients are slopes on payout probability, not a new slope-valued dependent variable."
+    "K10522": "Normalized certainty equivalent in percent; plotted coefficients are slopes on payout probability, not a new slope-valued dependent variable.",
+    "A10523": "J83HLRWH",
+    "B10523": "h15",
+    "C10523": "hy1",
+    "K10523": "Stated posterior probability in percent; plotted coefficients are slopes on Bayesian posterior, not a new slope-valued dependent variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

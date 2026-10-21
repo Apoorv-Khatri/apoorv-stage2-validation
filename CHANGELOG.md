@@ -1048986,3 +1048986,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:45:50.753355+00:00 — Review J83HLRWH h15: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10523",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10523",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10523",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10523",
+    "before": null,
+    "after": "Stated posterior probability in percent; plotted coefficients are slopes on Bayesian posterior, not a new slope-valued dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4512",
+    "before": null,
+    "after": "J83HLRWH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4512",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4512",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4512",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4512",
+    "before": null,
+    "after": "Figure III right middle, pp.2046,2048: objective-probability OLS slopes across four CU quartiles in Beliefs A; monotonic noise-related sensitivity contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4512",
+    "before": null,
+    "after": "Author-intention inclusion concerns latent cognitive noise proxied by CU, not an intervention assigning awareness. P.2033 disclaimer does not erase pp.2047/2052 parameter-specific noise attribution. Caption explicitly OLS. Quartiles are selected on measured CU; randomized task parameters do not randomize CU-quartile membership. Slope differences remain linear conditional on regressors; no invented interaction-regression implementation. Quartile averages are treatment summaries, not outcome benchmarks."
+  }
+]
+```
