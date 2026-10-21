@@ -1050372,3 +1050372,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T09:36:14.847547+00:00 — Review K8LUIIMP s9: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2651",
+    "before": null,
+    "after": "Log tradeables price index; Table6 col2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1067",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1067",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1067",
+    "before": null,
+    "after": "Log actual travel time to nearest top-four port → log tradeables price index; Table6 col2, IV coefficient0.061."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1067",
+    "before": null,
+    "after": "pp.1299–1300. Excluded colonial-route travel time (same log travel-time construction as prior steps); latitude/longitude included controls, not instruments. First-stage F129.83 diagnostic."
+  }
+]
+```
