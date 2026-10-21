@@ -1037136,3 +1037136,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:03:42.421594+00:00 — Review F9IA5GIP s5: source-audited coding and linked comparisons
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9489",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9489",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9489",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9489",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L715",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9489",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M715",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9489",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9489",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O715",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P715",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9489",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q715",
+    "before": null,
+    "after": "Main p.302 and footnote 52/Table 7(1): 0.00270 per SD, printed two-SD effect over 0.5 percentage points. Footnote deliberately gives occupation-stayer average earnings increase 1.58%; median 0.57% recorded separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9489",
+    "before": null,
+    "after": "Main p.302 footnote 52 tied to Table 7(1) two-SD earnings-growth contrast over 0.5 percentage points: median earnings increase among CPS-ORG occupation stayers 0.57%, separately from mean 1.58%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R715",
+    "before": null,
+    "after": "Pooled occupation-stayer growth mean; untreated dose-specific regression target not established. Log-change growth scale accepted as paper-reported approximation, not levels of dollars."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1035",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1035",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1035",
+    "before": null,
+    "after": "Occupation exposure is normalized change in computer/software vacancy share, 2007–2017; weighted linear regression adjustment with occupation-clustered SEs. Dummy controls alone do not establish identifying FE. Author-intention inclusion does not assert exogeneity. Linear in the reported log-earnings change conditional on the selected CPS-ORG sample. Appendix C.6 fn18 restricts changes to [-0.50,0.50] log points; this is sample trimming, not the DWS 2.5% winsorization. Full raw-outcome selection procedure is not asserted linear. Main=1: introduction p.280, p.281 and conclusion p.313 explicitly emphasize gains for stayers alongside losses for displaced workers; not supporting-only merely because absent from abstract headline."
+  }
+]
+```
