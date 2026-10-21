@@ -1031943,3 +1031943,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T06:24:09.263686+00:00 — Review F64LTKPN s4: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K711",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R710",
+    "before": null,
+    "after": "Rejected descriptive auction-format parent s4. If that causal gate is reversed, correct outcome to price level, reassess duplicate overall triple and code BIN mean as outcome_mean, not other_level. Printed -$2.12 and means $10.04/$12.17 are preserved, not silently recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R711",
+    "before": null,
+    "after": "Rejected descriptive auction-format parent s4. If that causal gate is reversed, correct outcome to price level, reassess duplicate overall triple and code BIN mean as outcome_mean, not other_level. Printed -$2.12 and means $10.04/$12.17 are preserved, not silently recomputed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2597",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2598",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2597",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2598",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2597",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2598",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2597",
+    "before": null,
+    "after": "Spurious causal outcome allocation under rejected descriptive auction-format parent; retain original model text."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2598",
+    "before": null,
+    "after": "Spurious causal outcome allocation under rejected descriptive auction-format parent; retain original model text."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1030",
+    "before": null,
+    "after": "Table1 and p.1192 compare observed auction prices with lowest available BIN prices as descriptive evidence about the nonstandard-behavior test. No actual purchase-format intervention or estimated format effect is claimed; model invents that causal treatment. Alternate broad gate is held for adjudication, not identification-quality rejection."
+  }
+]
+```
