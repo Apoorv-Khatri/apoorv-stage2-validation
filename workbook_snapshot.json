@@ -46180,7 +46180,16 @@
     "L4543": "1",
     "M4543": "n/a",
     "N4543": "Figure3, pp.1306–1307: Adjusted agricultural productivity back to1869, other sufficient statistics held1914 → district relative log population-growth path against port distance.",
-    "O4543": "Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Counterfactual path is substantive geographic incidence, not excluded merely because plot also tests fit. Locally weighted display does not replace underlying nonlinear equilibrium estimator."
+    "O4543": "Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Counterfactual path is substantive geographic incidence, not excluded merely because plot also tests fit. Locally weighted display does not replace underlying nonlinear equilibrium estimator.",
+    "A4544": "K8LUIIMP",
+    "B4544": "h25",
+    "I4544": "1",
+    "J4544": "Other",
+    "K4544": "0",
+    "L4544": "1",
+    "M4544": "n/a",
+    "N4544": "Figure3, pp.1306–1307: Agricultural productivity from land-share estimates back to1869, other statistics held1914 → district relative log population-growth path against port distance.",
+    "O4544": "Nonlinear calibrated equilibrium: eqs6–8,20,42 and AppendixA80–A87 jointly solve wages, migration and income. Not linear outcome imputation; changes in primitives alter equilibrium weights and powers. Continuous/vector changes are nonbinary; railroad post1869 network removal is a two-regime contrast. Counterfactual path is substantive geographic incidence, not excluded merely because plot also tests fit. Locally weighted display does not replace underlying nonlinear equilibrium estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118349,7 +118358,11 @@
     "A10581": "K8LUIIMP",
     "B10581": "h24",
     "C10581": "hy1",
-    "K10581": "District log population growth1869–1914, demeaned, plotted fitted path. No fabricated point grid; comparisons with actual growth paths are held as effect-versus-observed-growth interpretation."
+    "K10581": "District log population growth1869–1914, demeaned, plotted fitted path. No fabricated point grid; comparisons with actual growth paths are held as effect-versus-observed-growth interpretation.",
+    "A10582": "K8LUIIMP",
+    "B10582": "h25",
+    "C10582": "hy1",
+    "K10582": "District log population growth1869–1914, demeaned, plotted fitted path. No fabricated point grid; comparisons with actual growth paths are held as effect-versus-observed-growth interpretation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -225506,7 +225519,18 @@
     "O9552": "0",
     "P9552": "n/a",
     "Q9552": "Figure3 pp.1306–1307: counterfactual1869–1914 district relative log-population-growth path changing only adjusted agricultural productivity, compared with actual1869–1914 relative log-growth path (solid black). Same model-sample districts, each series demeaned separately; local-linear fitted profiles over port distance. Qualitative similar negative gradient explicitly discussed; no digitized points or ratio.",
-    "R9552": "Observed same-outcome historical-growth profile, other_level rather than an outcome mean. Separate demeaning is not division. Actual1869–2001 predictive path allocation remains held; fit-only exclusion is the documented alternative."
+    "R9552": "Observed same-outcome historical-growth profile, other_level rather than an outcome mean. Separate demeaning is not division. Actual1869–2001 predictive path allocation remains held; fit-only exclusion is the documented alternative.",
+    "A9553": "K8LUIIMP",
+    "B9553": "h25",
+    "C9553": "hc1",
+    "K9553": "1",
+    "L9553": "hy1",
+    "M9553": "other_level",
+    "N9553": "1",
+    "O9553": "0",
+    "P9553": "n/a",
+    "Q9553": "Figure3 pp.1306–1307: counterfactual1869–1914 district relative log-population-growth path changing only agricultural productivity from land shares, compared with actual1869–1914 relative log-growth path (solid black). Same model-sample districts, each series demeaned separately; local-linear fitted profiles over port distance. Qualitative similar negative gradient explicitly discussed; no digitized points or ratio.",
+    "R9553": "Observed same-outcome historical-growth profile, other_level rather than an outcome mean. Separate demeaning is not division. Actual1869–2001 predictive path allocation remains held; fit-only exclusion is the documented alternative."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
