@@ -1046865,3 +1046865,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T08:36:16.533575+00:00 — Review J83HLRWH s3: source-audited coding and linked comparisons
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2622",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2621",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2622",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2621",
+    "before": null,
+    "after": "Normalized certainty equivalent (CE divided by assigned lottery upside), corroborating-regression scope, implementation unverified; Figure V median belongs to h3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2622",
+    "before": null,
+    "after": "B-study cognitive uncertainty: heuristic confidence-interval width around stated CE; each slider tick expands each endpoint by $0.25, p.2038. Exact reporting normalization pending Appendix E."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1050",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1050",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1050",
+    "before": null,
+    "after": "Risk B gains: randomized compound lotteries versus baseline; implemented response and cognitive-uncertainty effects in Section VI (pp.2056–2057), corroborating regressions in Online Appendix Tables 10–13. Figure V top right MEDIAN contrast is separately h3; do not label the median estimator RCT under the linear-method taxonomy."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1050",
+    "before": null,
+    "after": "Random assignment is explicit p.2040. P.2057 establishes implemented corroborating regressions but does not name their functional form; no unseen OLS/linear estimator is certified. Method unknown pending supplement; RCT would apply to a verified linear direct-assignment estimator. Figure V medians separately Other. P.2056 CU changes are relative percentages; denominator aggregation and exact allocation remain held."
+  }
+]
+```
