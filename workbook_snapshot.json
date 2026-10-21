@@ -45048,7 +45048,16 @@
     "L4444": "0",
     "M4444": "n/a",
     "N4444": "SectionIII p.1193 prose: Camp Rock Jonas title asymmetry (-1,0,+1), on overbid indicator including shipping.",
-    "O4444": "Author: other words may also generate overbidding. Reported +1/0/-1 rates 56%,25%,19%; distinct focal word, not a routine sample variant of another word."
+    "O4444": "Author: other words may also generate overbidding. Reported +1/0/-1 rates 56%,25%,19%; distinct focal word, not a routine sample variant of another word.",
+    "A4445": "F64LTKPN",
+    "B4445": "h10",
+    "I4445": "1",
+    "J4445": "OLS",
+    "K4445": "0",
+    "L4445": "0",
+    "M4445": "n/a",
+    "N4445": "SectionIII p.1193 prose: Camp Rock Disney title asymmetry (-1,0,+1), on overbid indicator including shipping.",
+    "O4445": "Author: other words may also generate overbidding. Reported +1/0/-1 rates 38%,24%,0%; distinct focal word, not a routine sample variant of another word."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116270,7 +116279,11 @@
     "A10412": "F64LTKPN",
     "B10412": "h9",
     "C10412": "hy1",
-    "K10412": "Indicator auction price exceeds low BIN price for Camp Rock; Jonas title groups p.1193; reported cell means 56%,25%,19% in +1/0/-1 order."
+    "K10412": "Indicator auction price exceeds low BIN price for Camp Rock; Jonas title groups p.1193; reported cell means 56%,25%,19% in +1/0/-1 order.",
+    "A10413": "F64LTKPN",
+    "B10413": "h10",
+    "C10413": "hy1",
+    "K10413": "Indicator auction price exceeds low BIN price for Camp Rock; Disney title groups p.1193; reported cell means 38%,24%,0% in +1/0/-1 order."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -222468,7 +222481,29 @@
     "O9470": "0",
     "P9470": "unknown",
     "Q9470": "p.1193 Camp Rock Jonas: +1 versus -1 endpoint rates 56% versus 19%; benchmark -1 group rate 19%. Neutral rates 25%/24% are not additional endpoint benchmarks.",
-    "R9470": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment."
+    "R9470": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment.",
+    "A9471": "F64LTKPN",
+    "B9471": "h10",
+    "C9471": "hc1",
+    "K9471": "1",
+    "L9471": "hy1",
+    "M9471": "outcome_mean",
+    "N9471": "1",
+    "O9471": "0",
+    "P9471": "0",
+    "Q9471": "p.1193 Camp Rock Disney: +1 versus -1 endpoint rates 38% versus 0%; benchmark +1 group rate 38%. Neutral rates 25%/24% are not additional endpoint benchmarks.",
+    "R9471": "For this explicitly oriented higher-minus-lower endpoint contrast, the higher-wording mean is the exposed endpoint, not the untreated/lower-wording baseline. Thus unaligned=0 even though the parent includes all wording states. Eligibility retained symmetrically; no random assignment or target-weight equality assumed.",
+    "A9472": "F64LTKPN",
+    "B9472": "h10",
+    "C9472": "hc2",
+    "K9472": "1",
+    "L9472": "hy1",
+    "M9472": "outcome_mean",
+    "N9472": "1",
+    "O9472": "0",
+    "P9472": "unknown",
+    "Q9472": "p.1193 Camp Rock Disney: +1 versus -1 endpoint rates 38% versus 0%; benchmark -1 group rate 0%. Neutral rates 25%/24% are not additional endpoint benchmarks.",
+    "R9472": "Observational wording-group benchmark; source does not establish untreated target population/weights. Outcome means are eligible independently of alignment."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
