@@ -46399,7 +46399,16 @@
     "L4561": "1",
     "M4561": "n/a",
     "N4561": "Goal factor effect on winning conditional on bidding, appendix Table3 col2; .057 linear probability slope, food-type/year controls.",
-    "O4561": "Main p.2003 explicitly uses small winning differences to argue weak benefits; central corroboration under intro p.1994. Controls routine, not identifying FE. Goal factor continuous. No outcome mean supplied; 5.7% wording does not establish normalization."
+    "O4561": "Main p.2003 explicitly uses small winning differences to argue weak benefits; central corroboration under intro p.1994. Controls routine, not identifying FE. Goal factor continuous. No outcome mean supplied; 5.7% wording does not establish normalization.",
+    "A4562": "KRMMS6YI",
+    "B4562": "h2",
+    "I4562": "1",
+    "J4562": "Other",
+    "K4562": "0",
+    "L4562": "1",
+    "M4562": "n/a",
+    "N4562": "Same goal-factor winning response estimated by logit, appendix Table3 col1 (.361).",
+    "O4562": "Logit nonlinear in reported win indicator; not OLS/RCT. Same author-intention and main-role rationale as h1. Do not treat .361 as probability effect."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -118889,7 +118898,14 @@
     "H10632": "1",
     "I10632": "1",
     "J10632": "none",
-    "K10632": "Indicator food bank wins a given auction conditional on having bid, 2005–11; appendix Table3 col2."
+    "K10632": "Indicator food bank wins a given auction conditional on having bid, 2005–11; appendix Table3 col2.",
+    "A10633": "KRMMS6YI",
+    "B10633": "h2",
+    "C10633": "hy1",
+    "H10633": "1",
+    "I10633": "1",
+    "J10633": "none",
+    "K10633": "Auction win indicator conditional on bidding; appendix Table3 logit."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
