@@ -1044579,3 +1044579,318 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:58:18.435130+00:00 — Review IJCHBNI5 h6: source-audited coding and linked comparisons
+
+51 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10490",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10491",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10492",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10493",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10494",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10495",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10490",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10491",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10492",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10493",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10494",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10495",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10490",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10491",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10492",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10493",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10494",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10495",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10490",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10491",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10494",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10495",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10492",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10493",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10494",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10495",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10490",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10491",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10492",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10493",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10494",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10495",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10490",
+    "before": null,
+    "after": "Cumulative administrative construction"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10491",
+    "before": null,
+    "after": "Cumulative palace construction"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10492",
+    "before": null,
+    "after": "Cumulative welfare construction"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10493",
+    "before": null,
+    "after": "Cumulative economic construction"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10494",
+    "before": null,
+    "after": "Cumulative military construction"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10495",
+    "before": null,
+    "after": "Cumulative other secular construction"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4492",
+    "before": null,
+    "after": "IJCHBNI5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4492",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4492",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4492",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4492",
+    "before": null,
+    "after": "Figure XI, pp.2085–2086: Reformation-associated change in cumulative secular construction by specific purpose in 983 eventually Protestant towns; substantive null welfare/military shifts as well as ruler-favored increases."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4492",
+    "before": null,
+    "after": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Introduction p.2043 makes absence of welfare/military reallocation central to excluding relabeling and religious-war explanations. Not a diagnostic pretrend-only exclusion. Independent audit: Final pp.2085–2086 use Protestant-only cumulative purpose paths to rule out military/welfare relabeling; no Catholic group is displayed here. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator."
+  }
+]
+```
