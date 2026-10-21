@@ -45543,7 +45543,16 @@
     "L4488": "1",
     "M4488": "n/a",
     "N4488": "Figure III, pp.2054–2056: Reformation-era change in mean number of open monasteries within 25km of towns, by eventual territorial religion; 983 Protestant and 558 Catholic towns. Include footnote29 alternative directly town-coded religion variant as scope-only reported robustness.",
-    "O4488": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Two denominational paths establish differential pattern, but a numerical pooled DiD is not reported. Independent audit: Final p.2056 compares similar pretrends with denomination-specific declines; pp.2043–2044 supply the causal role. The over-two-thirds comparison is within-Protestant change, not a difference-in-differences coefficient. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator."
+    "O4488": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Two denominational paths establish differential pattern, but a numerical pooled DiD is not reported. Independent audit: Final p.2056 compares similar pretrends with denomination-specific declines; pp.2043–2044 supply the causal role. The over-two-thirds comparison is within-Protestant change, not a difference-in-differences coefficient. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator.",
+    "A4489": "IJCHBNI5",
+    "B4489": "h3",
+    "I4489": "1",
+    "J4489": "OLS",
+    "K4489": "1",
+    "L4489": "1",
+    "M4489": "n/a",
+    "N4489": "Figure IV, pp.2065–2066: Reformation-associated shift in church/secular shares of first jobs among graduates, by eventual university denomination, 11-year moving averages. Raw share paths, distinct aggregation from individual DiD Figure V.",
+    "O4489": "Broad author-intention inclusion: authors interpret displayed changes as Reformation effects, not pure prediction. OLS code denotes linear group/time mean or cumulative-count contrasts conditional on fixed sample/time weights; no fitted OLS regression is claimed. No cutoff-local fit, randomized assignment, implemented IV, or formal DiD coefficient is inferred from a historical date. Reported-outcome and full-procedure linearity agree for fixed moving averages/count aggregation; group membership is not selected by focal outcome. Graph-only-effect exclusion is a competing gate interpretation for adjudication; no graph values digitized or zeros invented. Raw paths make causal preliminary evidence in text; no separate comparison from the 50–50 cross-sector composition statement. Independent audit: Final pp.2065–2066 explicitly contrast a break in Protestant job shares with smooth Catholic continuation. This supports a graphical causal contrast, not a fitted additional regression. For two-denomination plots, equivalent DiD is an alternative only if the focal estimand is defined as the difference of changes; displaying two paths alone does not establish that implemented estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -117137,7 +117146,21 @@
     "H10483": "0",
     "I10483": "unknown",
     "J10483": "none",
-    "K10483": "Mean open monasteries within 25km of town, plotted annually by eventual denomination."
+    "K10483": "Mean open monasteries within 25km of town, plotted annually by eventual denomination.",
+    "A10484": "IJCHBNI5",
+    "B10484": "h3",
+    "C10484": "hy1",
+    "H10484": "0",
+    "I10484": "unknown",
+    "J10484": "none",
+    "K10484": "Share of first jobs in church sector",
+    "A10485": "IJCHBNI5",
+    "B10485": "h3",
+    "C10485": "hy2",
+    "H10485": "0",
+    "I10485": "unknown",
+    "J10485": "none",
+    "K10485": "Share of first jobs in secular sector"
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
