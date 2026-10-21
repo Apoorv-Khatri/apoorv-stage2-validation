@@ -45287,7 +45287,16 @@
     "L4466": "1",
     "M4466": "n/a",
     "N4466": "Exposure effect on switching to a lower-paying occupation after displacement; occupation pay ranked by average earnings in 2010 ACS; 0.146, 0.148, 0.105. Location: Appendix C.3.2/Table A6, pp.24–25",
-    "O4466": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. Appendix C.3.2 fn13 deliberately links .146 to pooled transition mean 33.6%; see hc1."
+    "O4466": "Author-interpreted effect, not a prediction-only result. Linear on the reported outcome scale; routine controls and sample variants grouped. Appendix C.3.2 fn13 deliberately links .146 to pooled transition mean 33.6%; see hc1.",
+    "A4467": "F9IA5GIP",
+    "B4467": "h16",
+    "I4467": "1",
+    "J4467": "OLS",
+    "K4467": "0",
+    "L4467": "0",
+    "M4467": "n/a",
+    "N4467": "Exposure effect on unemployment duration among displaced workers who regained employment; levels and log duration, including nulls and 50-week censoring robustness stated in footnote15. Location: Appendix C.4/Table A7 pp.25–27",
+    "O4467": "Linear regressions on reported level/log scales; censoring robustness not a different identifying method. Coefficients 0.104/0.0844/0.0860 weeks; 0.0220/0.0220/0.0327 log. 0.21-week two-SD contrast is not itself a benchmark comparison; Table2 mean elsewhere unlinked."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116628,7 +116637,15 @@
     "A10440": "F9IA5GIP",
     "B10440": "h15",
     "C10440": "hy1",
-    "K10440": "Indicator for switching to occupation with lower average 2010 ACS earnings."
+    "K10440": "Indicator for switching to occupation with lower average 2010 ACS earnings.",
+    "A10441": "F9IA5GIP",
+    "B10441": "h16",
+    "C10441": "hy1",
+    "K10441": "Weeks of unemployment from displacement to first subsequent job.",
+    "A10442": "F9IA5GIP",
+    "B10442": "h16",
+    "C10442": "hy2",
+    "K10442": "Log unemployment duration after displacement."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

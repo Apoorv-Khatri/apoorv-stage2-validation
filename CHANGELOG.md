@@ -1039431,3 +1039431,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:12:03.909058+00:00 — Review F9IA5GIP h16: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10441",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10442",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10441",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10442",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10441",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10442",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10441",
+    "before": null,
+    "after": "Weeks of unemployment from displacement to first subsequent job."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10442",
+    "before": null,
+    "after": "Log unemployment duration after displacement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4467",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4467",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4467",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4467",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4467",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4467",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4467",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4467",
+    "before": null,
+    "after": "Exposure effect on unemployment duration among displaced workers who regained employment; levels and log duration, including nulls and 50-week censoring robustness stated in footnote15. Location: Appendix C.4/Table A7 pp.25–27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4467",
+    "before": null,
+    "after": "Linear regressions on reported level/log scales; censoring robustness not a different identifying method. Coefficients 0.104/0.0844/0.0860 weeks; 0.0220/0.0220/0.0327 log. 0.21-week two-SD contrast is not itself a benchmark comparison; Table2 mean elsewhere unlinked."
+  }
+]
+```
