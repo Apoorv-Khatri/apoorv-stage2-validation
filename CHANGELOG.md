@@ -1041420,3 +1041420,504 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-21T07:20:38.669619+00:00 — Review F9IA5GIP h31: source-audited coding and linked comparisons
+
+82 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9505",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9506",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9507",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9508",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9509",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9510",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9505",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9506",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9507",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9508",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9509",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9510",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9505",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9506",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9507",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9508",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9509",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9510",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9505",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9506",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9507",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9508",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9509",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9510",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9505",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9506",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9507",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9508",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9509",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9510",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9510",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9510",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9510",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9505",
+    "before": null,
+    "after": "Appendix Table A24 col2, 15 occupations: full loss 7.69%, no-technology 4.36%, no-technology/no-experience 1.53%; printed experience contribution 36.8% of full-model average loss."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9506",
+    "before": null,
+    "after": "Appendix Table A24 col3, 20 occupations: full loss 7.54%, no-technology 4.31%, no-technology/no-experience 1.70%; printed experience contribution 34.7% of full-model average loss."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9507",
+    "before": null,
+    "after": "Appendix A24 panel A col2, printed p.57, 15 occupations: experience-presence contrast in no-technology regime between -4.36% and -1.53% earnings change, paired with experience-present model mean -4.36%. Separate from normalization by full-model -7.69%; no endpoint ratio printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9508",
+    "before": null,
+    "after": "Appendix A24 panel A col2, printed p.57, 15 occupations: experience-presence contrast in no-technology regime between -4.36% and -1.53% earnings change, paired with experience-absent model mean -1.53%. Separate from normalization by full-model -7.69%; no endpoint ratio printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9509",
+    "before": null,
+    "after": "Appendix A24 panel A col3, printed p.57, 20 occupations: experience-presence contrast in no-technology regime between -4.31% and -1.70% earnings change, paired with experience-present model mean -4.31%. Separate from normalization by full-model -7.54%; no endpoint ratio printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9510",
+    "before": null,
+    "after": "Appendix A24 panel A col3, printed p.57, 20 occupations: experience-presence contrast in no-technology regime between -4.31% and -1.70% earnings change, paired with experience-absent model mean -1.70%. Separate from normalization by full-model -7.54%; no endpoint ratio printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9505",
+    "before": null,
+    "after": "Technology contributions explicitly verbalized p.57; other components paired/normalized in panel B only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9506",
+    "before": null,
+    "after": "Technology contributions explicitly verbalized p.57; other components paired/normalized in panel B only."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9507",
+    "before": null,
+    "after": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9508",
+    "before": null,
+    "after": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9509",
+    "before": null,
+    "after": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9510",
+    "before": null,
+    "after": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10470",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10470",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10470",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10470",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10470",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10470",
+    "before": null,
+    "after": "Model average percentage earnings loss two years after layoff among re-employed agents."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4482",
+    "before": null,
+    "after": "F9IA5GIP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4482",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4482",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4482",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4482",
+    "before": null,
+    "after": "Additional removal of occupation-specific human capital after removing technology in 15- and20-occupation calibrated models; baseline10 repeats main decomposition. Location: Appendix D.7/Table A24 cols2–3 p.57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4482",
+    "before": null,
+    "after": "Nonlinear structural equilibrium procedure. Distinct mechanism; number-of-occupation variants grouped. Full-model denominator is exposed to technology and experience; mismatched regime for component counterfactual. No fabricated ladder-off simulation."
+  }
+]
+```
