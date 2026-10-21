@@ -45188,7 +45188,16 @@
     "L4455": "1",
     "M4455": "n/a",
     "N4455": "Removing occupation-specific human capital (A_E=A_N=1) after removing technological change: model loss 4.16% to 1.53%; contribution 34.5% of full-model loss 7.63%. Location: Main V.E p.312/Figure 5; A24 baseline col1",
-    "O4455": "Dynamic search/equilibrium structural counterfactual. Experience effect is conditional on no technological change. Benchmark full model differs in technology regime as well as being exposed to experience; alignment=0."
+    "O4455": "Dynamic search/equilibrium structural counterfactual. Experience effect is conditional on no technological change. Benchmark full model differs in technology regime as well as being exposed to experience; alignment=0.",
+    "A4456": "F9IA5GIP",
+    "B4456": "h5",
+    "I4456": "1",
+    "J4456": "Other",
+    "K4456": "unknown",
+    "L4456": "1",
+    "M4456": "n/a",
+    "N4456": "Residual attribution of 1.53% loss to moving down the wage/job ladder in the no-technology/no-experience model; 20% of baseline 7.63% loss. No additional simulated switch-off of the ladder is reported. Location: Main V.E p.312/Figure 5; A24 baseline col1",
+    "O4456": "Implemented structural accounting attribution, not a fabricated ladder-removal simulation. Binary coding unresolved because source reports residual rather than an implemented two-state toggle. Full-model denominator is a different mechanism regime, alignment=0."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -116481,7 +116490,11 @@
     "H10428": "0",
     "I10428": "unknown",
     "J10428": "other",
-    "K10428": "Model average percentage earnings change two years after layoff among re-employed agents."
+    "K10428": "Model average percentage earnings change two years after layoff among re-employed agents.",
+    "A10429": "F9IA5GIP",
+    "B10429": "h5",
+    "C10429": "hy1",
+    "K10429": "Model residual average percentage earnings loss two years after layoff among re-employed agents."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -222984,7 +222997,17 @@
     "O9495": "0",
     "P9495": "unknown",
     "Q9495": "Figure 5/main p.312 and A24 col1, 10 occupations: experience-presence contrast in no-technology regime between -4.16% and -1.53% earnings change, paired with experience-absent model mean -1.53%. Separate from normalization by full-model -7.63%; no endpoint ratio printed.",
-    "R9495": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known."
+    "R9495": "Broad endpoint-pairing policy applied consistently with Figures 2/A9. No new ratio calculated. Presence orientation; counterfactual re-employment selection/target weights not established for alignment unless exposed-state mismatch is known.",
+    "A9496": "F9IA5GIP",
+    "B9496": "h5",
+    "C9496": "hc1",
+    "K9496": "1",
+    "L9496": "hy1",
+    "M9496": "outcome_mean",
+    "N9496": "1",
+    "O9496": "1",
+    "P9496": "0",
+    "Q9496": "Main p.312: residual loss 1.53% attributed to lower wage piece rate, printed 20% of baseline full-model loss 7.63%."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
