@@ -1110228,3 +1110228,1206 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:04:37.481919+00:00 — Review N2QYQYIJ h11: source-audited coding and linked comparisons
+
+199 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10151",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10152",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10153",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10154",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10155",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10156",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10157",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10158",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10159",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10160",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10161",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10162",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10163",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10164",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10165",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10166",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10151",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10152",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10153",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10154",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10155",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10156",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10157",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10158",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10159",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10160",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10161",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10162",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10163",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10164",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10165",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10166",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10151",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10152",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10153",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10154",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10155",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10156",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10157",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10158",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10159",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10160",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10161",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10162",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10163",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10164",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10165",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10166",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10161",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10162",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10163",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10164",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10151",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10152",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10153",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10154",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10155",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10156",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10157",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10158",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10159",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10160",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10161",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10162",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10163",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10164",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10165",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10166",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10151",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10152",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10153",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10154",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10155",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10156",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10157",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10158",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10159",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10160",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10161",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10162",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10163",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10164",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10165",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10166",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10153",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10154",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10155",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10156",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10157",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10158",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10159",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10160",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10157",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10159",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10160",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10160",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10161",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10163",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10151",
+    "before": null,
+    "after": "Appendix Table A7 price columns, 1948-1963: modified 1.6 versus KLEMS 2.6, mean annual percent growth. Benchmark KLEMS mean 2.6, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10152",
+    "before": null,
+    "after": "Appendix Table A7 price columns, 1948-1963: modified 1.6 versus KLEMS 2.6, mean annual percent growth. Benchmark modified mean 1.6, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10153",
+    "before": null,
+    "after": "Appendix Table A7 price columns, 1964-1985: modified 4.6 versus KLEMS 5.6, mean annual percent growth. Benchmark KLEMS mean 5.6, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10154",
+    "before": null,
+    "after": "Appendix Table A7 price columns, 1964-1985: modified 4.6 versus KLEMS 5.6, mean annual percent growth. Benchmark modified mean 4.6, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10155",
+    "before": null,
+    "after": "Appendix Table A7 price columns, 1986-2000: modified 2.2 versus KLEMS 3.4, mean annual percent growth. Benchmark KLEMS mean 3.4, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10156",
+    "before": null,
+    "after": "Appendix Table A7 price columns, 1986-2000: modified 2.2 versus KLEMS 3.4, mean annual percent growth. Benchmark modified mean 2.2, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10157",
+    "before": null,
+    "after": "Appendix Table A7 price columns, 2001-2018: modified 0.8 versus KLEMS 1.8, mean annual percent growth. Benchmark KLEMS mean 1.8, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10158",
+    "before": null,
+    "after": "Appendix Table A7 price columns, 2001-2018: modified 0.8 versus KLEMS 1.8, mean annual percent growth. Benchmark modified mean 0.8, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10159",
+    "before": null,
+    "after": "Appendix Table A7 VA TFP columns, 1948-1963: modified 2.9 versus KLEMS 1.8, mean annual percent growth. Benchmark KLEMS mean 1.8, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10160",
+    "before": null,
+    "after": "Appendix Table A7 VA TFP columns, 1948-1963: modified 2.9 versus KLEMS 1.8, mean annual percent growth. Benchmark modified mean 2.9, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10161",
+    "before": null,
+    "after": "Appendix Table A7 VA TFP columns, 1964-1985: modified 1.6 versus KLEMS 0.1, mean annual percent growth. Benchmark KLEMS mean 0.1, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10162",
+    "before": null,
+    "after": "Appendix Table A7 VA TFP columns, 1964-1985: modified 1.6 versus KLEMS 0.1, mean annual percent growth. Benchmark modified mean 1.6, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10163",
+    "before": null,
+    "after": "Appendix Table A7 VA TFP columns, 1986-2000: modified 1.0 versus KLEMS -0.9, mean annual percent growth. Benchmark KLEMS mean -0.9, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10164",
+    "before": null,
+    "after": "Appendix Table A7 VA TFP columns, 1986-2000: modified 1.0 versus KLEMS -0.9, mean annual percent growth. Benchmark modified mean 1.0, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10165",
+    "before": null,
+    "after": "Appendix Table A7 VA TFP columns, 2001-2018: modified 1.9 versus KLEMS 0.4, mean annual percent growth. Benchmark KLEMS mean 0.4, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10166",
+    "before": null,
+    "after": "Appendix Table A7 VA TFP columns, 2001-2018: modified 1.9 versus KLEMS 0.4, mean annual percent growth. Benchmark modified mean 1.9, same industry/period. Focal contrast is published rule endpoints; no separately printed difference imputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10151",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held. Appendix p67 describes one-point lower growth post1964; A7 1986-2000 displays 3.4 versus 2.2. Preserve table endpoints; exact period-specific prose attribution unresolved, not confidently table-only. Pre1964 one-point assumption is explicit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10152",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held. Appendix p67 describes one-point lower growth post1964; A7 1986-2000 displays 3.4 versus 2.2. Preserve table endpoints; exact period-specific prose attribution unresolved, not confidently table-only. Pre1964 one-point assumption is explicit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10153",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held. Appendix p67 describes one-point lower growth post1964; A7 1986-2000 displays 3.4 versus 2.2. Preserve table endpoints; exact period-specific prose attribution unresolved, not confidently table-only. Pre1964 one-point assumption is explicit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10154",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held. Appendix p67 describes one-point lower growth post1964; A7 1986-2000 displays 3.4 versus 2.2. Preserve table endpoints; exact period-specific prose attribution unresolved, not confidently table-only. Pre1964 one-point assumption is explicit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10155",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held. Appendix p67 describes one-point lower growth post1964; A7 1986-2000 displays 3.4 versus 2.2. Preserve table endpoints; exact period-specific prose attribution unresolved, not confidently table-only. Pre1964 one-point assumption is explicit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10156",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held. Appendix p67 describes one-point lower growth post1964; A7 1986-2000 displays 3.4 versus 2.2. Preserve table endpoints; exact period-specific prose attribution unresolved, not confidently table-only. Pre1964 one-point assumption is explicit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10157",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held. Appendix p67 describes one-point lower growth post1964; A7 1986-2000 displays 3.4 versus 2.2. Preserve table endpoints; exact period-specific prose attribution unresolved, not confidently table-only. Pre1964 one-point assumption is explicit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10158",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held. Appendix p67 describes one-point lower growth post1964; A7 1986-2000 displays 3.4 versus 2.2. Preserve table endpoints; exact period-specific prose attribution unresolved, not confidently table-only. Pre1964 one-point assumption is explicit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10159",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10160",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10161",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10162",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10163",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10164",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10165",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10166",
+    "before": null,
+    "after": "Fixed underlying industry-period target under measurement-rule interpretation. KLEMS is untreated construction; modified is treated endpoint and thus not untreated mean. Symmetric eligibility is separate from alignment. Exclusion-as-input-construction alternative held."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10791",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10792",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10791",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10792",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10791",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10792",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10791",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10792",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10791",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10792",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10791",
+    "before": null,
+    "after": "PBS mean price growth, percent per year, Table A7 periods 1948-63,1964-85,1986-2000,2001-18."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10792",
+    "before": null,
+    "after": "PBS mean value-added TFP growth, percent per year, Table A7 same periods; simplified recomputation without induced capital-growth correction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4627",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4627",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4627",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4627",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4627",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4627",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4627",
+    "before": null,
+    "after": "Modified versus KLEMS PBS price and value-added TFP measurement; Table A7, appendix pp.67-68."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4627",
+    "before": null,
+    "after": "Mean price and TFP growth under fixed published measurement rules. TFP table ignores induced capital-growth correction (p.67), unlike Fig.13; keep separate. No experimental assignment; full index/TFP construction not demonstrated linear outcome regression."
+  }
+]
+```
