@@ -1080114,3 +1080114,6876 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:02:52.350667+00:00 — Review MZW7RGVA h6: source-audited coding and linked comparisons
+
+1144 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9773",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9774",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9775",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9776",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9777",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9778",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9779",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9780",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9781",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9782",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9783",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9784",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9785",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9786",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9787",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9788",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9789",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9790",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9791",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9792",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9793",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9794",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9795",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9796",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9797",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9798",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9799",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9800",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9801",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9802",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9803",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9804",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9805",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9806",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9807",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9808",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9809",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9810",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9811",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9812",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9813",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9814",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9815",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9816",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9817",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9818",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9819",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9820",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9821",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9822",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9823",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9824",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9825",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9826",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9827",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9828",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9829",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9830",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9831",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9832",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9833",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9834",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9835",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9836",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9837",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9838",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9839",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9840",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9841",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9842",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9843",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9844",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9845",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9846",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9847",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9848",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9849",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9850",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9851",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9852",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9853",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9854",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9855",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9856",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9857",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9858",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9859",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9860",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9861",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9862",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9863",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9864",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9865",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9866",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9867",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9868",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9869",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9870",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9871",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9872",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9773",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9774",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9775",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9776",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9777",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9778",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9779",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9780",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9781",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9782",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9783",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9784",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9785",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9786",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9787",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9788",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9789",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9790",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9791",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9792",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9793",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9794",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9795",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9796",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9797",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9798",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9799",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9800",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9801",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9802",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9803",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9804",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9805",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9806",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9807",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9808",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9809",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9810",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9811",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9812",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9813",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9814",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9815",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9816",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9817",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9818",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9819",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9820",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9821",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9822",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9823",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9824",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9825",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9826",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9827",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9828",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9829",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9830",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9831",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9832",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9833",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9834",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9835",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9836",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9837",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9838",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9839",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9840",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9841",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9842",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9843",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9844",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9845",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9846",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9847",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9848",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9849",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9850",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9851",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9852",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9853",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9854",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9855",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9856",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9857",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9858",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9859",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9860",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9861",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9862",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9863",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9864",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9865",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9866",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9867",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9868",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9869",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9870",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9871",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9872",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9773",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9774",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9775",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9776",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9777",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9778",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9779",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9780",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9781",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9782",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9783",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9784",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9785",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9786",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9787",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9788",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9789",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9790",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9791",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9792",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9793",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9794",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9795",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9796",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9797",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9798",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9799",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9800",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9801",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9802",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9803",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9804",
+    "before": null,
+    "after": "hc32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9805",
+    "before": null,
+    "after": "hc33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9806",
+    "before": null,
+    "after": "hc34"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9807",
+    "before": null,
+    "after": "hc35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9808",
+    "before": null,
+    "after": "hc36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9809",
+    "before": null,
+    "after": "hc37"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9810",
+    "before": null,
+    "after": "hc38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9811",
+    "before": null,
+    "after": "hc39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9812",
+    "before": null,
+    "after": "hc40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9813",
+    "before": null,
+    "after": "hc41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9814",
+    "before": null,
+    "after": "hc42"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9815",
+    "before": null,
+    "after": "hc43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9816",
+    "before": null,
+    "after": "hc44"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9817",
+    "before": null,
+    "after": "hc45"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9818",
+    "before": null,
+    "after": "hc46"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9819",
+    "before": null,
+    "after": "hc47"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9820",
+    "before": null,
+    "after": "hc48"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9821",
+    "before": null,
+    "after": "hc49"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9822",
+    "before": null,
+    "after": "hc50"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9823",
+    "before": null,
+    "after": "hc51"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9824",
+    "before": null,
+    "after": "hc52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9825",
+    "before": null,
+    "after": "hc53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9826",
+    "before": null,
+    "after": "hc54"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9827",
+    "before": null,
+    "after": "hc55"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9828",
+    "before": null,
+    "after": "hc56"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9829",
+    "before": null,
+    "after": "hc57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9830",
+    "before": null,
+    "after": "hc58"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9831",
+    "before": null,
+    "after": "hc59"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9832",
+    "before": null,
+    "after": "hc60"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9833",
+    "before": null,
+    "after": "hc61"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9834",
+    "before": null,
+    "after": "hc62"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9835",
+    "before": null,
+    "after": "hc63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9836",
+    "before": null,
+    "after": "hc64"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9837",
+    "before": null,
+    "after": "hc65"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9838",
+    "before": null,
+    "after": "hc66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9839",
+    "before": null,
+    "after": "hc67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9840",
+    "before": null,
+    "after": "hc68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9841",
+    "before": null,
+    "after": "hc69"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9842",
+    "before": null,
+    "after": "hc70"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9843",
+    "before": null,
+    "after": "hc71"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9844",
+    "before": null,
+    "after": "hc72"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9845",
+    "before": null,
+    "after": "hc73"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9846",
+    "before": null,
+    "after": "hc74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9847",
+    "before": null,
+    "after": "hc75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9848",
+    "before": null,
+    "after": "hc76"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9849",
+    "before": null,
+    "after": "hc77"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9850",
+    "before": null,
+    "after": "hc78"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9851",
+    "before": null,
+    "after": "hc79"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9852",
+    "before": null,
+    "after": "hc80"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9853",
+    "before": null,
+    "after": "hc81"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9854",
+    "before": null,
+    "after": "hc82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9855",
+    "before": null,
+    "after": "hc83"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9856",
+    "before": null,
+    "after": "hc84"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9857",
+    "before": null,
+    "after": "hc85"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9858",
+    "before": null,
+    "after": "hc86"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9859",
+    "before": null,
+    "after": "hc87"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9860",
+    "before": null,
+    "after": "hc88"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9861",
+    "before": null,
+    "after": "hc89"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9862",
+    "before": null,
+    "after": "hc90"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9863",
+    "before": null,
+    "after": "hc91"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9864",
+    "before": null,
+    "after": "hc92"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9865",
+    "before": null,
+    "after": "hc93"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9866",
+    "before": null,
+    "after": "hc94"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9867",
+    "before": null,
+    "after": "hc95"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9868",
+    "before": null,
+    "after": "hc96"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9869",
+    "before": null,
+    "after": "hc97"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9870",
+    "before": null,
+    "after": "hc98"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9871",
+    "before": null,
+    "after": "hc99"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9872",
+    "before": null,
+    "after": "hc100"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9824",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9826",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9827",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9831",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9833",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9835",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9841",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9845",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9848",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9849",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9852",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9853",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9854",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9855",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9856",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9857",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9858",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9859",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9860",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9861",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9863",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9864",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9865",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9866",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9867",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9868",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9869",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9870",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9871",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9872",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9773",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9774",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9775",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9776",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9777",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9778",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9779",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9780",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9781",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9782",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9783",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9784",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9785",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9786",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9787",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9788",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9789",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9790",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9791",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9792",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9793",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9794",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9795",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9796",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9797",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9798",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9799",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9800",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9801",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9802",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9803",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9804",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9805",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9806",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9807",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9808",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9809",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9810",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9811",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9812",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9813",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9814",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9815",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9816",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9817",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9818",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9819",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9820",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9821",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9822",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9823",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9824",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9825",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9826",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9827",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9828",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9829",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9830",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9831",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9832",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9833",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9834",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9835",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9836",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9837",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9838",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9839",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9840",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9841",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9842",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9843",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9844",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9845",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9846",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9847",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9848",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9849",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9850",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9851",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9852",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9853",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9854",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9855",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9856",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9857",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9858",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9859",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9860",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9861",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9862",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9863",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9864",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9865",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9866",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9867",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9868",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9869",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9870",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9871",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9872",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9773",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9774",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9775",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9776",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9777",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9778",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9779",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9780",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9781",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9782",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9783",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9784",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9785",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9786",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9787",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9788",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9789",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9790",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9791",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9792",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9793",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9794",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9795",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9796",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9797",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9798",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9799",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9800",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9801",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9802",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9803",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9804",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9805",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9806",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9807",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9808",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9809",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9810",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9811",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9812",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9813",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9814",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9815",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9816",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9817",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9818",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9819",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9820",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9821",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9822",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9823",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9824",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9825",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9826",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9827",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9828",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9829",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9830",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9831",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9832",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9833",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9834",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9835",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9836",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9837",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9838",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9839",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9840",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9841",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9842",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9843",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9844",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9845",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9846",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9847",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9848",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9849",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9850",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9851",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9852",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9853",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9854",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9855",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9856",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9857",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9858",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9859",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9860",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9861",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9862",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9863",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9864",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9865",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9866",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9867",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9868",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9869",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9870",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9871",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9872",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9821",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9823",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9824",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9825",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9829",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9831",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9832",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9836",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9838",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9842",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9853",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9854",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9856",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9857",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9858",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9865",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9866",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9868",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9869",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9870",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9871",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9872",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9820",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9821",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9823",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9824",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9825",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9829",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9831",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9832",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9836",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9838",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9842",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9853",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9854",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9856",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9857",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9858",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9865",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9866",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9868",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9869",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9870",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9871",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9872",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9776",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9781",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9786",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9791",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9796",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9801",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9806",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9811",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9816",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9821",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9823",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9824",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9825",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9827",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9829",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9831",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9832",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9836",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9838",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9842",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9846",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9853",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9854",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9856",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9857",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9858",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9865",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9866",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9868",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9869",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9870",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9871",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9872",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9773",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 3, outcome column 1: policy level 37.08%, current mean 36.66%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9774",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 3, outcome column 2: policy level 35.49%, current mean 34.59%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9775",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 3, outcome column 3: policy level 1.59%, current mean 2.08%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9776",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 3, outcome column 4: policy level 38.83, current mean 54.29; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9777",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 3, outcome column 5: policy level 14.40, current mean 19.91; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9778",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 4, outcome column 1: policy level 41.58%, current mean 40.68%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9779",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 4, outcome column 2: policy level 38.21%, current mean 36.64%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9780",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 4, outcome column 3: policy level 3.37%, current mean 4.04%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9781",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 4, outcome column 4: policy level 38.79, current mean 51.98; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9782",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 4, outcome column 5: policy level 16.13, current mean 21.14; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9783",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 5, outcome column 1: policy level 36.08%, current mean 35.55%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9784",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 5, outcome column 2: policy level 35.43%, current mean 34.44%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9785",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 5, outcome column 3: policy level 0.65%, current mean 1.10%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9786",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 5, outcome column 4: policy level 34.47, current mean 52.76; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9787",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 5, outcome column 5: policy level 12.44, current mean 18.75; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9788",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 6, outcome column 1: policy level 40.00%, current mean 39.68%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9789",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 6, outcome column 2: policy level 37.95%, current mean 37.64%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9790",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 6, outcome column 3: policy level 2.05%, current mean 2.04%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9791",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 6, outcome column 4: policy level 33.85, current mean 42.93; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9792",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 6, outcome column 5: policy level 13.54, current mean 17.03; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9793",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 7, outcome column 1: policy level 37.44%, current mean 37.53%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9794",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 7, outcome column 2: policy level 36.18%, current mean 36.10%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9795",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 7, outcome column 3: policy level 1.26%, current mean 1.43%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9796",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 7, outcome column 4: policy level 33.71, current mean 43.43; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9797",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 7, outcome column 5: policy level 12.62, current mean 16.30; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9798",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 8, outcome column 1: policy level 39.46%, current mean 38.62%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9799",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 8, outcome column 2: policy level 38.81%, current mean 37.60%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9800",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 8, outcome column 3: policy level 0.65%, current mean 1.01%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9801",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 8, outcome column 4: policy level 31.42, current mean 47.07; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9802",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 8, outcome column 5: policy level 12.40, current mean 18.18; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9803",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 9, outcome column 1: policy level 21.57%, current mean 21.59%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9804",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 9, outcome column 2: policy level 19.56%, current mean 19.51%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9805",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 9, outcome column 3: policy level 2.01%, current mean 2.08%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9806",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 9, outcome column 4: policy level 36.41, current mean 46.15; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9807",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 9, outcome column 5: policy level 7.85, current mean 9.96; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9808",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 10, outcome column 1: policy level 29.44%, current mean 29.09%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9809",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 10, outcome column 2: policy level 26.64%, current mean 25.83%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9810",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 10, outcome column 3: policy level 2.80%, current mean 3.26%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9811",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 10, outcome column 4: policy level 33.45, current mean 43.55; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9812",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 10, outcome column 5: policy level 9.85, current mean 12.67; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9813",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 11, outcome column 1: policy level 21.52%, current mean 20.91%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9814",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 11, outcome column 2: policy level 20.55%, current mean 19.33%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9815",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 11, outcome column 3: policy level 0.97%, current mean 1.58%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9816",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 11, outcome column 4: policy level 36.73, current mean 55.21; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9817",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 11, outcome column 5: policy level 7.90, current mean 11.54; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9818",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 12, outcome column 1: policy level 28.98%, current mean 28.61%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9819",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 12, outcome column 2: policy level 25.92%, current mean 25.02%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9820",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 12, outcome column 3: policy level 3.06%, current mean 3.59%; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9821",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 12, outcome column 4: policy level 38.57, current mean 50.59; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9822",
+    "before": null,
+    "after": "Appendix Tables 20–21 pp.30–31, group 12, outcome column 5: policy level 11.18, current mean 14.47; oriented policy-minus-current contrast, percentages for probabilities and months for sentences. No reviewer-computed difference attributed to author."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9823",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 3, outcome column 1 (lines 1838/1842): same policy-minus-current contrast 37.08% versus 36.66%, now paired with the displayed POLICY endpoint mean 37.08%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9824",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 3, outcome column 2 (lines 1839/1843): same policy-minus-current contrast 35.49% versus 34.59%, now paired with the displayed POLICY endpoint mean 35.49%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9825",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 3, outcome column 3 (lines 1840/1844): same policy-minus-current contrast 1.59% versus 2.08%, now paired with the displayed POLICY endpoint mean 1.59%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9826",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 3, outcome column 4 (lines 1981/1984): same policy-minus-current contrast 38.83 versus 54.29, now paired with the displayed POLICY endpoint mean 38.83. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9827",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 3, outcome column 5 (lines 1982/1985): same policy-minus-current contrast 14.40 versus 19.91, now paired with the displayed POLICY endpoint mean 14.40. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9828",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 4, outcome column 1 (lines 1851/1855): same policy-minus-current contrast 41.58% versus 40.68%, now paired with the displayed POLICY endpoint mean 41.58%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9829",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 4, outcome column 2 (lines 1852/1856): same policy-minus-current contrast 38.21% versus 36.64%, now paired with the displayed POLICY endpoint mean 38.21%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9830",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 4, outcome column 3 (lines 1853/1857): same policy-minus-current contrast 3.37% versus 4.04%, now paired with the displayed POLICY endpoint mean 3.37%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9831",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 4, outcome column 4 (lines 1991/1994): same policy-minus-current contrast 38.79 versus 51.98, now paired with the displayed POLICY endpoint mean 38.79. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9832",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 4, outcome column 5 (lines 1992/1995): same policy-minus-current contrast 16.13 versus 21.14, now paired with the displayed POLICY endpoint mean 16.13. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9833",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 5, outcome column 1 (lines 1864/1868): same policy-minus-current contrast 36.08% versus 35.55%, now paired with the displayed POLICY endpoint mean 36.08%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9834",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 5, outcome column 2 (lines 1865/1869): same policy-minus-current contrast 35.43% versus 34.44%, now paired with the displayed POLICY endpoint mean 35.43%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9835",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 5, outcome column 3 (lines 1866/1870): same policy-minus-current contrast 0.65% versus 1.10%, now paired with the displayed POLICY endpoint mean 0.65%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9836",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 5, outcome column 4 (lines 2001/2004): same policy-minus-current contrast 34.47 versus 52.76, now paired with the displayed POLICY endpoint mean 34.47. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9837",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 5, outcome column 5 (lines 2002/2005): same policy-minus-current contrast 12.44 versus 18.75, now paired with the displayed POLICY endpoint mean 12.44. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9838",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 6, outcome column 1 (lines 1877/1881): same policy-minus-current contrast 40.00% versus 39.68%, now paired with the displayed POLICY endpoint mean 40.00%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9839",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 6, outcome column 2 (lines 1878/1882): same policy-minus-current contrast 37.95% versus 37.64%, now paired with the displayed POLICY endpoint mean 37.95%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9840",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 6, outcome column 3 (lines 1879/1883): same policy-minus-current contrast 2.05% versus 2.04%, now paired with the displayed POLICY endpoint mean 2.05%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9841",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 6, outcome column 4 (lines 2011/2014): same policy-minus-current contrast 33.85 versus 42.93, now paired with the displayed POLICY endpoint mean 33.85. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9842",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 6, outcome column 5 (lines 2012/2015): same policy-minus-current contrast 13.54 versus 17.03, now paired with the displayed POLICY endpoint mean 13.54. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9843",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 7, outcome column 1 (lines 1890/1894): same policy-minus-current contrast 37.44% versus 37.53%, now paired with the displayed POLICY endpoint mean 37.44%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9844",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 7, outcome column 2 (lines 1891/1895): same policy-minus-current contrast 36.18% versus 36.10%, now paired with the displayed POLICY endpoint mean 36.18%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9845",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 7, outcome column 3 (lines 1892/1896): same policy-minus-current contrast 1.26% versus 1.43%, now paired with the displayed POLICY endpoint mean 1.26%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9846",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 7, outcome column 4 (lines 2021/2024): same policy-minus-current contrast 33.71 versus 43.43, now paired with the displayed POLICY endpoint mean 33.71. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9847",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 7, outcome column 5 (lines 2022/2025): same policy-minus-current contrast 12.62 versus 16.30, now paired with the displayed POLICY endpoint mean 12.62. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9848",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 8, outcome column 1 (lines 1903/1907): same policy-minus-current contrast 39.46% versus 38.62%, now paired with the displayed POLICY endpoint mean 39.46%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9849",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 8, outcome column 2 (lines 1904/1908): same policy-minus-current contrast 38.81% versus 37.60%, now paired with the displayed POLICY endpoint mean 38.81%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9850",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 8, outcome column 3 (lines 1905/1909): same policy-minus-current contrast 0.65% versus 1.01%, now paired with the displayed POLICY endpoint mean 0.65%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9851",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 8, outcome column 4 (lines 2031/2034): same policy-minus-current contrast 31.42 versus 47.07, now paired with the displayed POLICY endpoint mean 31.42. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9852",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 8, outcome column 5 (lines 2032/2035): same policy-minus-current contrast 12.40 versus 18.18, now paired with the displayed POLICY endpoint mean 12.40. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9853",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 9, outcome column 1 (lines 1916/1920): same policy-minus-current contrast 21.57% versus 21.59%, now paired with the displayed POLICY endpoint mean 21.57%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9854",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 9, outcome column 2 (lines 1917/1921): same policy-minus-current contrast 19.56% versus 19.51%, now paired with the displayed POLICY endpoint mean 19.56%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9855",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 9, outcome column 3 (lines 1918/1922): same policy-minus-current contrast 2.01% versus 2.08%, now paired with the displayed POLICY endpoint mean 2.01%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9856",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 9, outcome column 4 (lines 2041/2044): same policy-minus-current contrast 36.41 versus 46.15, now paired with the displayed POLICY endpoint mean 36.41. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9857",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 9, outcome column 5 (lines 2042/2045): same policy-minus-current contrast 7.85 versus 9.96, now paired with the displayed POLICY endpoint mean 7.85. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9858",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 10, outcome column 1 (lines 1929/1933): same policy-minus-current contrast 29.44% versus 29.09%, now paired with the displayed POLICY endpoint mean 29.44%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9859",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 10, outcome column 2 (lines 1930/1934): same policy-minus-current contrast 26.64% versus 25.83%, now paired with the displayed POLICY endpoint mean 26.64%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9860",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 10, outcome column 3 (lines 1931/1935): same policy-minus-current contrast 2.80% versus 3.26%, now paired with the displayed POLICY endpoint mean 2.80%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9861",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 10, outcome column 4 (lines 2051/2054): same policy-minus-current contrast 33.45 versus 43.55, now paired with the displayed POLICY endpoint mean 33.45. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9862",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 10, outcome column 5 (lines 2052/2055): same policy-minus-current contrast 9.85 versus 12.67, now paired with the displayed POLICY endpoint mean 9.85. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9863",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 11, outcome column 1 (lines 1942/1946): same policy-minus-current contrast 21.52% versus 20.91%, now paired with the displayed POLICY endpoint mean 21.52%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9864",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 11, outcome column 2 (lines 1943/1947): same policy-minus-current contrast 20.55% versus 19.33%, now paired with the displayed POLICY endpoint mean 20.55%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9865",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 11, outcome column 3 (lines 1944/1948): same policy-minus-current contrast 0.97% versus 1.58%, now paired with the displayed POLICY endpoint mean 0.97%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9866",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 11, outcome column 4 (lines 2061/2064): same policy-minus-current contrast 36.73 versus 55.21, now paired with the displayed POLICY endpoint mean 36.73. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9867",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 11, outcome column 5 (lines 2062/2065): same policy-minus-current contrast 7.90 versus 11.54, now paired with the displayed POLICY endpoint mean 7.90. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9868",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 12, outcome column 1 (lines 1955/1959): same policy-minus-current contrast 28.98% versus 28.61%, now paired with the displayed POLICY endpoint mean 28.98%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9869",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 12, outcome column 2 (lines 1956/1960): same policy-minus-current contrast 25.92% versus 25.02%, now paired with the displayed POLICY endpoint mean 25.92%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9870",
+    "before": null,
+    "after": "appendix.txt PDF p.30, group 12, outcome column 3 (lines 1957/1961): same policy-minus-current contrast 3.06% versus 3.59%, now paired with the displayed POLICY endpoint mean 3.06%. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9871",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 12, outcome column 4 (lines 2071/2074): same policy-minus-current contrast 38.57 versus 50.59, now paired with the displayed POLICY endpoint mean 38.57. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9872",
+    "before": null,
+    "after": "appendix.txt PDF p.31, group 12, outcome column 5 (lines 2072/2075): same policy-minus-current contrast 11.18 versus 14.47, now paired with the displayed POLICY endpoint mean 11.18. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9773",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9774",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9775",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9776",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9777",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9778",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9779",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9780",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9781",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9782",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9783",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9784",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9785",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9786",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9787",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9788",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9789",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9790",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9791",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9792",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9793",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9794",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9795",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9796",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9797",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9798",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9799",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9800",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9801",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9802",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9803",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9804",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9805",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9806",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9807",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9808",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9809",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9810",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9811",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9812",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9813",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9814",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9815",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9816",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9817",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9818",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9819",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9820",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9821",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. Conviction conditioning changes with policy; a common selected population is not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9822",
+    "before": null,
+    "after": "Current fitted mean for the same covariate group and model. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9823",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9824",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9825",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9826",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9827",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9828",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9829",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9830",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9831",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9832",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9833",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9834",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9835",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9836",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9837",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9838",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9839",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9840",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9841",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9842",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9843",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9844",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9845",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9846",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9847",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9848",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9849",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9850",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9851",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9852",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9853",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9854",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9855",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9856",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9857",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9858",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9859",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9860",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9861",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9862",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9863",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9864",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9865",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9866",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9867",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9868",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9869",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9870",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9871",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9872",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10723",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10724",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10725",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10726",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10727",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10723",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10724",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10725",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10726",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10727",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10723",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10724",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10725",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10726",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10727",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10723",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10724",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10723",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10724",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10725",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10726",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10727",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10723",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10724",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10725",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10726",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10727",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10723",
+    "before": null,
+    "after": "Probability of any conviction; percent or months as appropriate"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10724",
+    "before": null,
+    "after": "Probability of conviction by settlement; percent or months as appropriate"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10725",
+    "before": null,
+    "after": "Probability of conviction at trial; percent or months as appropriate"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10726",
+    "before": null,
+    "after": "Expected sentence conditional on conviction; percent or months as appropriate"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10727",
+    "before": null,
+    "after": "Unconditional expected sentence; percent or months as appropriate"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4594",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4594",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4594",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4594",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4594",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4594",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4594",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4594",
+    "before": null,
+    "after": "Uniform 20% sentence reduction, groups 3–12; current-versus-policy structural regime contrast. Appendix Tables 20–21 pp.30–31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4594",
+    "before": null,
+    "after": "Nonlinear structural recovery and counterfactual mapping; not IV. Supporting robustness of central policy claims. "
+  }
+]
+```
