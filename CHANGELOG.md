@@ -1107060,3 +1107060,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:57:23.270909+00:00 — Review N2QYQYIJ s6: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R745",
+    "before": null,
+    "after": "Variance explained/R-squared is not a focal growth effect divided by a same-outcome mean, SD or level. Retain the underlying factor/decomposition setting separately; do not turn total variance into other_level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1104",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1104",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1104",
+    "before": null,
+    "after": "Fig.10 pp.3320-3322: Bayesian factor estimates propagated through network. Retain substantive attribution, not an identified labor-supply intervention. Appendix sec.4 explicitly refrains from counterfactual labor speculation. R-squared variance fractions are not outcome-level/SD benchmarks."
+  }
+]
+```
