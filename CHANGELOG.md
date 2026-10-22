@@ -1106325,3 +1106325,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:11:58.477169+00:00 — Review MZW7RGVA h25: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10769",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10770",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10769",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10770",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10769",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10770",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10769",
+    "before": null,
+    "after": "Defendant trial cost as a function of potential trial sentence. Both costs in sentence-equivalent months; slopes dimensionless. Main Table VI p.442 and Eq.5.3.2 p.438."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10770",
+    "before": null,
+    "after": "Prosecutor trial cost as a function of potential trial sentence. Both costs in sentence-equivalent months; slopes dimensionless. Main Table VI p.442 and Eq.5.3.2 p.438."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4613",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4613",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4613",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4613",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4613",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4613",
+    "before": null,
+    "after": "Potential trial sentence t → defendant and prosecutor trial costs c(t)=alpha+beta*t; groups1–2; Main Table VI p.442 and Eq.5.3.2 p.438."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4613",
+    "before": null,
+    "after": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Both costs in sentence-equivalent months; slopes dimensionless."
+  }
+]
+```

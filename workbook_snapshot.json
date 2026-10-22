@@ -47006,7 +47006,16 @@
     "L4612": "0",
     "M4612": "n/a",
     "N4612": "Race-associated structural type/profile contrast → settlement offer at a common trial sentence; groups 1–2 with scaled non-incarceration sentences. Appendix C.6 pp.33–35, Figures 18–19.",
-    "O4612": "Broad author-intention inclusion: author attributes longer offers to different latent type distributions. This is NOT a separately simulated pure-race switch or experimental discrimination effect. Model profiles bundle type distributions and estimated costs. No formal curve test does not erase the interpretation. Narrow heterogeneity-only exclusion remains an adjudicable alternative."
+    "O4612": "Broad author-intention inclusion: author attributes longer offers to different latent type distributions. This is NOT a separately simulated pure-race switch or experimental discrimination effect. Model profiles bundle type distributions and estimated costs. No formal curve test does not erase the interpretation. Narrow heterogeneity-only exclusion remains an adjudicable alternative.",
+    "A4613": "MZW7RGVA",
+    "B4613": "h25",
+    "I4613": "1",
+    "J4613": "Other",
+    "K4613": "0",
+    "L4613": "0",
+    "M4613": "n/a",
+    "N4613": "Potential trial sentence t → defendant and prosecutor trial costs c(t)=alpha+beta*t; groups1–2; Main Table VI p.442 and Eq.5.3.2 p.438.",
+    "O4613": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Both costs in sentence-equivalent months; slopes dimensionless."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120545,7 +120554,15 @@
     "H10768": "0",
     "I10768": "unknown",
     "J10768": "other",
-    "K10768": "Equilibrium settlement offer at a common potential trial sentence, in incarceration-equivalent months including scaled probation/community service."
+    "K10768": "Equilibrium settlement offer at a common potential trial sentence, in incarceration-equivalent months including scaled probation/community service.",
+    "A10769": "MZW7RGVA",
+    "B10769": "h25",
+    "C10769": "hy1",
+    "K10769": "Defendant trial cost as a function of potential trial sentence. Both costs in sentence-equivalent months; slopes dimensionless. Main Table VI p.442 and Eq.5.3.2 p.438.",
+    "A10770": "MZW7RGVA",
+    "B10770": "h25",
+    "C10770": "hy2",
+    "K10770": "Prosecutor trial cost as a function of potential trial sentence. Both costs in sentence-equivalent months; slopes dimensionless. Main Table VI p.442 and Eq.5.3.2 p.438."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
