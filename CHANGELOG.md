@@ -1111431,3 +1111431,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:05:06.980075+00:00 — Review N2QYQYIJ h12: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10793",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10794",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10793",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10794",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10793",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10794",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10793",
+    "before": null,
+    "after": "Sectoral and aggregate labor trend growth attributable to common/sector-specific sources under A2-A4 sensitivity; annual percentage-point growth scale. Loadings are response parameters, not a separate dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10794",
+    "before": null,
+    "after": "Sectoral and aggregate TFP trend growth attributable to common/sector-specific sources under A2-A4 sensitivity; annual percentage-point growth scale. Auxiliary R-squared is not own-outcome normalization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4628",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4628",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4628",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4628",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4628",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4628",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4628",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4628",
+    "before": null,
+    "after": "Common-factor and sector-specific contributions to sectoral and aggregate labor/TFP trends under alternative priors eta=0.5,2 (q=8) and q=6 (eta=1): Appendix Tables A2-A4 pp10-12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4628",
+    "before": null,
+    "after": "Distinct labor/TFP sensitivity outcomes, not GDP h2. Group routine prior/bandwidth variants in the separately reported sensitivity family. Same author-intention rationale as s3/s4; loadings/components retained, auxiliary covariance/persistence and correlations not new causal outcomes. Bayesian outcome-adaptive recovery, not latent-factor IV."
+  }
+]
+```
