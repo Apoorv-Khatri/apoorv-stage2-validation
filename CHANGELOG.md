@@ -1107117,3 +1107117,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:58:09.662005+00:00 — Review N2QYQYIJ s7: source-audited coding and linked comparisons
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R746",
+    "before": null,
+    "after": "Direct-effect value-added share and total multiplier are effect-to-effect derivatives, not a GDP outcome-level benchmark. PBS almost triple and Wholesale double are verbal division if eligibility were accepted, unlike original divided=0; conditional alternative held, not applied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R747",
+    "before": null,
+    "after": "Direct-effect value-added share and total multiplier are effect-to-effect derivatives, not a GDP outcome-level benchmark. PBS almost triple and Wholesale double are verbal division if eligibility were accepted, unlike original divided=0; conditional alternative held, not applied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R748",
+    "before": null,
+    "after": "Direct-effect value-added share and total multiplier are effect-to-effect derivatives, not a GDP outcome-level benchmark. PBS almost triple and Wholesale double are verbal division if eligibility were accepted, unlike original divided=0; conditional alternative held, not applied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1105",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1105",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1105",
+    "before": null,
+    "after": "Table 4 pp.3318-3319: calibrated inverse matrix and estimated share functions determine derivatives, not a regression estimator of GDP outcomes. Includes all sectors and near-zero indirect effects, not just significant hubs. Direct and total effects are distinct derivatives, not untreated GDP levels."
+  }
+]
+```
