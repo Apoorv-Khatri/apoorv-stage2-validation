@@ -1073151,3 +1073151,1290 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:23:06.905917+00:00 — Review MWF8TE4P h10: source-audited coding and linked comparisons
+
+213 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9697",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9698",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9699",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9700",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9701",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9702",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9703",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9704",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9705",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9706",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9707",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9708",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9709",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9710",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9711",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9712",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9697",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9698",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9699",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9700",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9701",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9702",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9703",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9704",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9705",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9706",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9707",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9708",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9709",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9710",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9711",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9712",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9697",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9698",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9699",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9700",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9701",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9702",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9703",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9704",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9705",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9706",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9707",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9708",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9709",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9710",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9711",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9712",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9700",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9701",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9703",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9704",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9705",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9706",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9707",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9708",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9697",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9698",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9699",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9700",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9701",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9702",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9703",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9704",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9705",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9706",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9707",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9708",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9709",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9710",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9711",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9712",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9697",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9698",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9699",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9700",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9701",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9702",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9703",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9704",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9705",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9706",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9707",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9708",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9709",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9710",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9711",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9712",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9700",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9701",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9702",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9703",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9705",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9707",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9708",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9711",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9712",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9697",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9698",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9699",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9700",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9701",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9702",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9703",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9705",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9707",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9708",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9711",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9712",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9697",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9698",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9699",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9700",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9701",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9702",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9703",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9705",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9707",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9708",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9709",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9711",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9712",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9697",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied completed fertility contrast within high child taste, paired with low focal type benchmark level 1.88; actual column LA/HC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9698",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied completed fertility contrast within high child taste, paired with high focal type benchmark level 1.88; actual column HA/HC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9699",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied completed fertility contrast within low child taste, paired with low focal type benchmark level 0.953; actual column LA/LC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9700",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied completed fertility contrast within low child taste, paired with high focal type benchmark level 0.951; actual column HA/LC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9701",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied routine share contrast within high child taste, paired with low focal type benchmark level 0.3; actual column LA/HC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9702",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied routine share contrast within high child taste, paired with high focal type benchmark level 0.301; actual column HA/HC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9703",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied routine share contrast within low child taste, paired with low focal type benchmark level 0.231; actual column LA/LC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9704",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied routine share contrast within low child taste, paired with high focal type benchmark level 0.232; actual column HA/LC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9705",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied abstract share contrast within high child taste, paired with low focal type benchmark level 0.404; actual column LA/HC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9706",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied abstract share contrast within high child taste, paired with high focal type benchmark level 0.407; actual column HA/HC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9707",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied abstract share contrast within low child taste, paired with low focal type benchmark level 0.509; actual column LA/LC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9708",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied abstract share contrast within low child taste, paired with high focal type benchmark level 0.508; actual column HA/LC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9709",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied manual share contrast within high child taste, paired with low focal type benchmark level 0.296; actual column LA/HC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9710",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied manual share contrast within high child taste, paired with high focal type benchmark level 0.292; actual column HA/HC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9711",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied manual share contrast within low child taste, paired with low focal type benchmark level 0.26; actual column LA/LC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9712",
+    "before": null,
+    "after": "Table5B p.316 and pp.316–317: model-implied manual share contrast within low child taste, paired with high focal type benchmark level 0.26; actual column HA/LC. No numerical difference is printed or reconstructed here."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9697",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9698",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9699",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9700",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9701",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9702",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9703",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9704",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9705",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9706",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9707",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9708",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9709",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9710",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9711",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9712",
+    "before": null,
+    "after": "Contested broad structural-type causal gate. Symmetric endpoint policy, not a new simulated intervention. High focal type is exposed under high-versus-low orientation; low-type target weights/counterfactual match not established. Alternative descriptive-type interpretation rejects the setting and both endpoints together."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10708",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10709",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10710",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10711",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10708",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10709",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10710",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10711",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10708",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10709",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10710",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10711",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10708",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10711",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10708",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10709",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10710",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10711",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10708",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10709",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10710",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10711",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10708",
+    "before": null,
+    "after": "Completed fertility, Table5B: LA/HC1.88; LA/LC.953; HA/HC1.88; HA/LC.951. Model-implied type contrast; not a pure ability switch holding leisure fixed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10709",
+    "before": null,
+    "after": "Initial routine-occupation proportion, Table5B: .300/.231/.301/.232 in LA/HC,LA/LC,HA/HC,HA/LC order. Model-implied type contrast; not a pure ability switch holding leisure fixed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10710",
+    "before": null,
+    "after": "Initial abstract-occupation proportion, Table5B: .404/.509/.407/.508 in same order. Model-implied type contrast; not a pure ability switch holding leisure fixed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10711",
+    "before": null,
+    "after": "Initial manual-occupation proportion, Table5B: .296/.260/.292/.260 in same order. Model-implied type contrast; not a pure ability switch holding leisure fixed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4585",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4585",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4585",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4585",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4585",
+    "before": null,
+    "after": "Table5B pp.316–317: high versus low joint ability/leisure type, within desired-fertility type; completed fertility and three initial occupational proportions, including near-null fertility response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4585",
+    "before": null,
+    "after": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Authors explicitly assess fertility with respect to ability and sorting. Retain this substantive null under the broad interpretation gate; not proof of an independently simulated pure ability switch."
+  }
+]
+```
