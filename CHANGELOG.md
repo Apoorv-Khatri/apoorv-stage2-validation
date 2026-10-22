@@ -1108269,3 +1108269,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:00:08.854255+00:00 — Review N2QYQYIJ h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10779",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10779",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10779",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10779",
+    "before": null,
+    "after": "Trend aggregate GDP growth decomposed into common and sector-specific contributions, percentage points per year, Fig.11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4618",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4618",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4618",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4618",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4618",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4618",
+    "before": null,
+    "after": "Common and sector-specific input-trend contributions to aggregate GDP growth under alternative factor priors eta=0.5,2 and q=6; Fig.11 and sec.V.D p.3322. Benchmark eta=1,q=8 repeats s6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4618",
+    "before": null,
+    "after": "Fig11: GDP sensitivity with alternative eta/q, full posterior recovery Other. h12 separately covers labor/TFP posterior outputs A2-A4. Routine parameter choices grouped within this sensitivity result family; no R-squared-as-level benchmark."
+  }
+]
+```

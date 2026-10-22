@@ -47099,7 +47099,16 @@
     "L4617": "0",
     "M4617": "n/a",
     "N4617": "Price-only correction of PBS IPP deflators versus baseline rules; Construction, Durable Goods and PBS GDP-trend contribution paths, Fig.13 dashed black versus red, pp.3327-3328.",
-    "O4617": "Distinct from combined s9. Source reports near-null contributions in Construction and Durable Goods; retain them. Posterior contribution path plus calibrated correction; see held code/equation conflict."
+    "O4617": "Distinct from combined s9. Source reports near-null contributions in Construction and Durable Goods; retain them. Posterior contribution path plus calibrated correction; see held code/equation conflict.",
+    "A4618": "N2QYQYIJ",
+    "B4618": "h2",
+    "I4618": "1",
+    "J4618": "Other",
+    "K4618": "0",
+    "L4618": "0",
+    "M4618": "n/a",
+    "N4618": "Common and sector-specific input-trend contributions to aggregate GDP growth under alternative factor priors eta=0.5,2 and q=6; Fig.11 and sec.V.D p.3322. Benchmark eta=1,q=8 repeats s6.",
+    "O4618": "Fig11: GDP sensitivity with alternative eta/q, full posterior recovery Other. h12 separately covers labor/TFP posterior outputs A2-A4. Routine parameter choices grouped within this sensitivity result family; no R-squared-as-level benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120700,7 +120709,11 @@
     "H10778": "0",
     "I10778": "unknown",
     "J10778": "other",
-    "K10778": "Sector-specific contribution to trend GDP growth for Construction, Durable Goods and PBS, percentage points at annual rate; Fig.13; levels of posterior contribution paths."
+    "K10778": "Sector-specific contribution to trend GDP growth for Construction, Durable Goods and PBS, percentage points at annual rate; Fig.13; levels of posterior contribution paths.",
+    "A10779": "N2QYQYIJ",
+    "B10779": "h2",
+    "C10779": "hy1",
+    "K10779": "Trend aggregate GDP growth decomposed into common and sector-specific contributions, percentage points per year, Fig.11."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
