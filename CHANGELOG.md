@@ -1075986,3 +1075986,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:58:12.267288+00:00 — Review MZW7RGVA s2: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2719",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2719",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2719",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2719",
+    "before": null,
+    "after": "spurious as a distinct effect outcome here: diagnostic assignment check"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1094",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1094",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1094",
+    "before": null,
+    "after": "Diagnostic assignment/balance regression only: Eq.(3.2), Table III(2), p.428 and fn.16. Excluded under the diagnostic rule, irrespective of significance."
+  }
+]
+```
