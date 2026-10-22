@@ -46636,7 +46636,16 @@
     "L4575": "1",
     "M4575": "n/a",
     "N4575": "US symmetric real-exchange-rate response to government-spending shocks; Fig.7 bottom dashed lines, final pp.1676-77.",
-    "O4575": "Final p.1677 explicitly estimates a parsimonious sign-restricted US VAR and assigns its response to dashed Fig.7 bottom lines, then contrasts baseline asymmetric LP solid lines. Other for structural VAR impulse response, not an inferred symmetric LP and not IV. Exact implementation/code unavailable, but estimator family established by final prose; unknown remains a fallback only if figure/prose attribution is disputed. Main=1 from introduction p.1646."
+    "O4575": "Final p.1677 explicitly estimates a parsimonious sign-restricted US VAR and assigns its response to dashed Fig.7 bottom lines, then contrasts baseline asymmetric LP solid lines. Other for structural VAR impulse response, not an inferred symmetric LP and not IV. Exact implementation/code unavailable, but estimator family established by final prose; unknown remains a fallback only if figure/prose attribution is disputed. Main=1 from introduction p.1646.",
+    "A4576": "MWF8TE4P",
+    "B4576": "h1",
+    "I4576": "1",
+    "J4576": "Other",
+    "K4576": "1",
+    "L4576": "1",
+    "M4576": "n/a",
+    "N4576": "pp.313–314: equalize child-related work amenities in abstract/manual jobs to routine-job amenities versus fitted amenities; combined proportion choosing abstract/manual jobs rises 5%. Structural counterfactual.",
+    "O4576": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119573,7 +119582,14 @@
     "H10688": "0",
     "I10688": "unknown",
     "J10688": "other",
-    "K10688": "Gender gap in conditional mean daily log wages, comparable male minus female profiles. Fertility removal closes gap by about0.2 log points, one-third overall gap, pp.322–323."
+    "K10688": "Gender gap in conditional mean daily log wages, comparable male minus female profiles. Fertility removal closes gap by about0.2 log points, one-third overall gap, pp.322–323.",
+    "A10689": "MWF8TE4P",
+    "B10689": "h1",
+    "C10689": "hy1",
+    "H10689": "0",
+    "I10689": "unknown",
+    "J10689": "none",
+    "K10689": "Combined proportion choosing abstract/manual occupations; p.314, +5% under amenity equalization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -228209,7 +228225,18 @@
     "O9686": "0",
     "P9686": "unknown",
     "Q9686": "Figure3f p.318 and pp.322–323: structural fertility contrast paired with predicted no-fertility conditional mean log-daily-wage profile; qualitative graph pairing, no invented age grid.",
-    "R9686": "Symmetric endpoints. Fertility endpoint is exposed; no-fertility conditioning on workers may select different target composition."
+    "R9686": "Symmetric endpoints. Fertility endpoint is exposed; no-fertility conditioning on workers may select different target composition.",
+    "A9687": "MWF8TE4P",
+    "B9687": "h1",
+    "C9687": "hc1",
+    "K9687": "1",
+    "L9687": "hy1",
+    "M9687": "outcome_mean",
+    "N9687": "1",
+    "O9687": "1",
+    "P9687": "1",
+    "Q9687": "p.314: combined abstract/manual occupational-choice proportion increases by5% if their work amenity equals routine. Benchmark fitted-model occupational-choice proportion.",
+    "R9687": "Under maintained structural same-population counterfactual, baseline is no equalization. No numerical baseline supplied."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",

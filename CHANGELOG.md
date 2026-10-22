@@ -1071126,3 +1071126,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:19:05.408814+00:00 — Review MWF8TE4P h1: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9687",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9687",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9687",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9687",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9687",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9687",
+    "before": null,
+    "after": "p.314: combined abstract/manual occupational-choice proportion increases by5% if their work amenity equals routine. Benchmark fitted-model occupational-choice proportion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9687",
+    "before": null,
+    "after": "Under maintained structural same-population counterfactual, baseline is no equalization. No numerical baseline supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10689",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10689",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10689",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10689",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10689",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10689",
+    "before": null,
+    "after": "Combined proportion choosing abstract/manual occupations; p.314, +5% under amenity equalization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4576",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4576",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4576",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4576",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4576",
+    "before": null,
+    "after": "pp.313–314: equalize child-related work amenities in abstract/manual jobs to routine-job amenities versus fitted amenities; combined proportion choosing abstract/manual jobs rises 5%. Structural counterfactual."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4576",
+    "before": null,
+    "after": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
+  }
+]
+```
