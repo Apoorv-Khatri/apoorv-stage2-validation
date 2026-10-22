@@ -46970,7 +46970,16 @@
     "L4608": "0",
     "M4608": "n/a",
     "N4608": "Private attorney versus court-appointed → incarceration sentence months; Table III(1), Eq.(3.1). Printed coefficient(s): -3.7823.",
-    "O4608": "p.426 explicitly interprets a reduction relative to court-assigned counsel. Same jointly estimated OLS Eq.(3.1), Table III(1), pp.425–427; code line678. Judge, county, year, offense and record dummies are controls. No separate OLS model is invented, no IV is implemented. Included-regressor causal reading relies on conditional comparability, not judge rotation alone. Supporting result; Table II descriptive mean elsewhere is not linked."
+    "O4608": "p.426 explicitly interprets a reduction relative to court-assigned counsel. Same jointly estimated OLS Eq.(3.1), Table III(1), pp.425–427; code line678. Judge, county, year, offense and record dummies are controls. No separate OLS model is invented, no IV is implemented. Included-regressor causal reading relies on conditional comparability, not judge rotation alone. Supporting result; Table II descriptive mean elsewhere is not linked.",
+    "A4609": "MZW7RGVA",
+    "B4609": "h21",
+    "I4609": "1",
+    "J4609": "OLS",
+    "K4609": "1",
+    "L4609": "0",
+    "M4609": "n/a",
+    "N4609": "Public defender versus court-appointed → incarceration sentence months; Table III(1), Eq.(3.1). Printed coefficient(s): -3.5356.",
+    "O4609": "p.426 explicitly interprets a reduction relative to court-assigned counsel. Same jointly estimated OLS Eq.(3.1), Table III(1), pp.425–427; code line678. Judge, county, year, offense and record dummies are controls. No separate OLS model is invented, no IV is implemented. Included-regressor causal reading relies on conditional comparability, not judge rotation alone. Supporting result; Table II descriptive mean elsewhere is not linked."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120481,7 +120490,14 @@
     "H10764": "0",
     "I10764": "unknown",
     "J10764": "none",
-    "K10764": "Assigned incarceration sentence, months, among observed active-incarceration cases. Code line678 restricts active==A; no imputed zero acquittal sentences in this regression."
+    "K10764": "Assigned incarceration sentence, months, among observed active-incarceration cases. Code line678 restricts active==A; no imputed zero acquittal sentences in this regression.",
+    "A10765": "MZW7RGVA",
+    "B10765": "h21",
+    "C10765": "hy1",
+    "H10765": "0",
+    "I10765": "unknown",
+    "J10765": "none",
+    "K10765": "Assigned incarceration sentence, months, among observed active-incarceration cases. Code line678 restricts active==A; no imputed zero acquittal sentences in this regression."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
