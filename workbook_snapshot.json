@@ -46681,7 +46681,16 @@
     "L4580": "1",
     "M4580": "n/a",
     "N4580": "Table8 p.326: EUR6000 birth transfer versus no transfer, cohorts aged15,25,35,45 at implementation; fertility/skills/work at age60 and initial occupational shares. Includes displayed zero/small responses for older cohorts.",
-    "O4580": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
+    "O4580": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator.",
+    "A4581": "MWF8TE4P",
+    "B4581": "h6",
+    "I4581": "1",
+    "J4581": "FE",
+    "K4581": "0",
+    "L4581": "0",
+    "M4581": "n/a",
+    "N4581": "Footnote29 p.313: illustrative identifying fixed-effects wage-interruption regressions on model-simulated careers, changes in log wages on time out by occupation allowing nonlinearities. Estimates understate atrophy while preserving occupational ranking; no numeric coefficients given.",
+    "O4581": "Actual auxiliary FE regression implementation is explicitly described and causally interpreted as atrophy estimation, unlike generic Table2 moment fitting. Selection back into work remains; that caveat does not erase inclusion. Outcome is simulated log wage change; conditional linear regression in that reported outcome, not the upstream SMM data generator. No separately estimated no-FE variant established."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119716,7 +119725,14 @@
     "H10702": "0",
     "I10702": "unknown",
     "J10702": "none",
-    "K10702": "Initial proportion in manual occupation; Table8 cohorts15,25,35,45. Literal percentage notation retained; shares versus relative percent changes unresolved for share rows."
+    "K10702": "Initial proportion in manual occupation; Table8 cohorts15,25,35,45. Literal percentage notation retained; shares versus relative percent changes unresolved for share rows.",
+    "A10703": "MWF8TE4P",
+    "B10703": "h6",
+    "C10703": "hy1",
+    "H10703": "0",
+    "I10703": "unknown",
+    "J10703": "other",
+    "K10703": "Change in simulated log wages following interruptions, footnote29 p.313; regressed on interruption duration by occupation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

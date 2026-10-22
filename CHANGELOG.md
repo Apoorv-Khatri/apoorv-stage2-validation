@@ -1072689,3 +1072689,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:21:26.794576+00:00 — Review MWF8TE4P h6: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10703",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10703",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10703",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10703",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10703",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10703",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10703",
+    "before": null,
+    "after": "Change in simulated log wages following interruptions, footnote29 p.313; regressed on interruption duration by occupation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4581",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4581",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4581",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4581",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4581",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4581",
+    "before": null,
+    "after": "Footnote29 p.313: illustrative identifying fixed-effects wage-interruption regressions on model-simulated careers, changes in log wages on time out by occupation allowing nonlinearities. Estimates understate atrophy while preserving occupational ranking; no numeric coefficients given."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4581",
+    "before": null,
+    "after": "Actual auxiliary FE regression implementation is explicitly described and causally interpreted as atrophy estimation, unlike generic Table2 moment fitting. Selection back into work remains; that caveat does not erase inclusion. Outcome is simulated log wage change; conditional linear regression in that reported outcome, not the upstream SMM data generator. No separately estimated no-FE variant established."
+  }
+]
+```
