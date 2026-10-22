@@ -1106946,3 +1106946,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:56:21.342124+00:00 — Review N2QYQYIJ s4: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R743",
+    "before": null,
+    "after": "Variance explained/R-squared is not a focal growth effect divided by a same-outcome mean, SD or level. Retain the underlying factor/decomposition setting separately; do not turn total variance into other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R744",
+    "before": null,
+    "after": "Variance explained/R-squared is not a focal growth effect divided by a same-outcome mean, SD or level. Retain the underlying factor/decomposition setting separately; do not turn total variance into other_level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1102",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1102",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1102",
+    "before": null,
+    "after": "Table3/Figs6-7: retain common-factor loadings and attributed components under explicit driver interpretation, including small/null effects, not correlations as labor-to-TFP slopes. Appendix A1 repeats benchmark; A2-A4 labor/TFP sensitivity is separately retained in h12, not GDP h2. Full posterior recovery Other."
+  }
+]
+```
