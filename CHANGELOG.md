@@ -1104561,3 +1104561,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:08:04.943631+00:00 — Review MZW7RGVA h17: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10761",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10761",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10761",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10761",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10761",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10761",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10761",
+    "before": null,
+    "after": "Assigned incarceration sentence, months, among observed active-incarceration cases. Code line678 restricts active==A; no imputed zero acquittal sentences in this regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4605",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4605",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4605",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4605",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4605",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4605",
+    "before": null,
+    "after": "Female versus male defendant → incarceration sentence months; Table III(1), Eq.(3.1). Printed coefficient(s): -4.3054."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4605",
+    "before": null,
+    "after": "p.426 explicitly interprets about four months shorter sentences. Same jointly estimated OLS Eq.(3.1), Table III(1), pp.425–427; code line678. Judge, county, year, offense and record dummies are controls. No separate OLS model is invented, no IV is implemented. Included-regressor causal reading relies on conditional comparability, not judge rotation alone. Supporting result; Table II descriptive mean elsewhere is not linked."
+  }
+]
+```

@@ -46934,7 +46934,16 @@
     "L4604": "0",
     "M4604": "n/a",
     "N4604": "Age, jointly with age squared → incarceration sentence months; Table III(1), Eq.(3.1). Printed coefficient(s): age -0.0492; age-squared 0.0012.",
-    "O4604": "p.426 explicitly interprets the age and squared-age nulls. One polynomial age treatment, not two distinct models. Same jointly estimated OLS Eq.(3.1), Table III(1), pp.425–427; code line678. Judge, county, year, offense and record dummies are controls. No separate OLS model is invented, no IV is implemented. Included-regressor causal reading relies on conditional comparability, not judge rotation alone. Supporting result; Table II descriptive mean elsewhere is not linked."
+    "O4604": "p.426 explicitly interprets the age and squared-age nulls. One polynomial age treatment, not two distinct models. Same jointly estimated OLS Eq.(3.1), Table III(1), pp.425–427; code line678. Judge, county, year, offense and record dummies are controls. No separate OLS model is invented, no IV is implemented. Included-regressor causal reading relies on conditional comparability, not judge rotation alone. Supporting result; Table II descriptive mean elsewhere is not linked.",
+    "A4605": "MZW7RGVA",
+    "B4605": "h17",
+    "I4605": "1",
+    "J4605": "OLS",
+    "K4605": "1",
+    "L4605": "0",
+    "M4605": "n/a",
+    "N4605": "Female versus male defendant → incarceration sentence months; Table III(1), Eq.(3.1). Printed coefficient(s): -4.3054.",
+    "O4605": "p.426 explicitly interprets about four months shorter sentences. Same jointly estimated OLS Eq.(3.1), Table III(1), pp.425–427; code line678. Judge, county, year, offense and record dummies are controls. No separate OLS model is invented, no IV is implemented. Included-regressor causal reading relies on conditional comparability, not judge rotation alone. Supporting result; Table II descriptive mean elsewhere is not linked."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120417,7 +120426,14 @@
     "A10760": "MZW7RGVA",
     "B10760": "h16",
     "C10760": "hy1",
-    "K10760": "Assigned incarceration sentence, months, among observed active-incarceration cases. Code line678 restricts active==A; no imputed zero acquittal sentences in this regression."
+    "K10760": "Assigned incarceration sentence, months, among observed active-incarceration cases. Code line678 restricts active==A; no imputed zero acquittal sentences in this regression.",
+    "A10761": "MZW7RGVA",
+    "B10761": "h17",
+    "C10761": "hy1",
+    "H10761": "0",
+    "I10761": "unknown",
+    "J10761": "none",
+    "K10761": "Assigned incarceration sentence, months, among observed active-incarceration cases. Code line678 restricts active==A; no imputed zero acquittal sentences in this regression."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
