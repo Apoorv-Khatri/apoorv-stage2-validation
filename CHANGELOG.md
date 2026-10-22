@@ -1106901,3 +1106901,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:55:50.228674+00:00 — Review N2QYQYIJ s3: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1101",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1101",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1101",
+    "before": null,
+    "after": "Table3/Fig5; main fn10 p.3300 explicitly says common factors affect sectors; conclusion p.3331 attributes secular changes. Retain broad author-intention gate despite descriptive section heading. Correlations are not directional effects. Full posterior recovery (appendix sec1.3) is outcome-adaptive Other; deterministic cosine OLS is preprocessing, not IV."
+  }
+]
+```
