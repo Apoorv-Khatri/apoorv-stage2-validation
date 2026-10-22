@@ -46826,7 +46826,16 @@
     "L4592": "0",
     "M4592": "n/a",
     "N4592": "Trial sentence → prosecutor expected equilibrium payoff, appendix Figures 16–17 pp.26–27; groups 1–12.",
-    "O4592": "Payoff net of trial costs, unconditional on bargaining success, from optimization (4.2). Retained substantive response curve; group 9 negative rather than imposing a positive graph zero."
+    "O4592": "Payoff net of trial costs, unconditional on bargaining success, from optimization (4.2). Retained substantive response curve; group 9 negative rather than imposing a positive graph zero.",
+    "A4593": "MZW7RGVA",
+    "B4593": "h5",
+    "I4593": "1",
+    "J4593": "Other",
+    "K4593": "0",
+    "L4593": "0",
+    "M4593": "n/a",
+    "N4593": "Trial sentence → settlement offer incorporating scaled probation/community service, appendix C.6 Figure 18 pp.33–34.",
+    "O4593": "Non-incarceration sample maximum normalized to fifth percentile of incarceration lengths (third-percentile robustness fn.57); nonlinear reconstruction. At t=200, offers 42.97/47.48 versus basic-model 72.18/115.00; those are estimator-to-estimator comparisons, not qualifying own-outcome baselines."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120042,7 +120051,11 @@
     "A10721": "MZW7RGVA",
     "B10721": "h4",
     "C10721": "hy1",
-    "K10721": "Prosecutor expected payoff in sentence-equivalent months conditional on trial sentence."
+    "K10721": "Prosecutor expected payoff in sentence-equivalent months conditional on trial sentence.",
+    "A10722": "MZW7RGVA",
+    "B10722": "h5",
+    "C10722": "hy1",
+    "K10722": "Offer in incarceration-equivalent months, including normalized non-incarceration sentences."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

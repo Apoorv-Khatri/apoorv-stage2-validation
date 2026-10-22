@@ -1080027,3 +1080027,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:02:17.118774+00:00 — Review MZW7RGVA h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10722",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10722",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10722",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10722",
+    "before": null,
+    "after": "Offer in incarceration-equivalent months, including normalized non-incarceration sentences."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4593",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4593",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4593",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4593",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4593",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4593",
+    "before": null,
+    "after": "Trial sentence → settlement offer incorporating scaled probation/community service, appendix C.6 Figure 18 pp.33–34."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4593",
+    "before": null,
+    "after": "Non-incarceration sample maximum normalized to fifth percentile of incarceration lengths (third-percentile robustness fn.57); nonlinear reconstruction. At t=200, offers 42.97/47.48 versus basic-model 72.18/115.00; those are estimator-to-estimator comparisons, not qualifying own-outcome baselines."
+  }
+]
+```
