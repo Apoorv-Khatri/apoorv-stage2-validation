@@ -1071639,3 +1071639,306 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:20:33.024150+00:00 — Review MWF8TE4P h4: source-audited coding and linked comparisons
+
+49 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9690",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9691",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9692",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9690",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9691",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9692",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9690",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9691",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9692",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9690",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9691",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9692",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9690",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9691",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9692",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9690",
+    "before": null,
+    "after": "Figure4c pp.325–326: assets-by-age percent deviation from no-policy assets, cohort age15 at implementation; graph path only, no point grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9691",
+    "before": null,
+    "after": "Figure4c pp.325–326: assets-by-age percent deviation from no-policy assets, cohort age20 at implementation; graph path only, no point grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9692",
+    "before": null,
+    "after": "Figure4c pp.325–326: assets-by-age percent deviation from no-policy assets, cohort age25 at implementation; graph path only, no point grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9690",
+    "before": null,
+    "after": "Same modeled cohort and age under policy/no-policy; uncertainty about empirical credibility separate from maintained-model population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9691",
+    "before": null,
+    "after": "Same modeled cohort and age under policy/no-policy; uncertainty about empirical credibility separate from maintained-model population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9692",
+    "before": null,
+    "after": "Same modeled cohort and age under policy/no-policy; uncertainty about empirical credibility separate from maintained-model population match."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10692",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10692",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10692",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10692",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10692",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10692",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10692",
+    "before": null,
+    "after": "Assets by age and initial cohort (15,20,25), Figure4c, plotted percent deviations from no-policy assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4579",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4579",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4579",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4579",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4579",
+    "before": null,
+    "after": "Figure4c pp.325–326: EUR6000 birth transfer versus no policy, assets by age for cohorts aged15,20,25 at implementation; younger cohort can anticipate from age15, older cohorts cannot anticipate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4579",
+    "before": null,
+    "after": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
+  }
+]
+```
