@@ -47135,7 +47135,16 @@
     "L4621": "0",
     "M4621": "n/a",
     "N4621": "Sectoral source-growth effects on GDP under alternative value-added share windows and IO matrices; Table A13 pp.78-79.",
-    "O4621": "Calibrated structural multipliers for all listed sectors and FIRE+Housing combined addendum. Do not turn alternative multiplier estimates into level benchmarks. PBS benchmark printed 0.24 vs main Table4 0.25; prose last15 2002-2016 conflicts with 1950-2018 sample. Code uses last15 observations, but no execution resolves numeric conflict."
+    "O4621": "Calibrated structural multipliers for all listed sectors and FIRE+Housing combined addendum. Do not turn alternative multiplier estimates into level benchmarks. PBS benchmark printed 0.24 vs main Table4 0.25; prose last15 2002-2016 conflicts with 1950-2018 sample. Code uses last15 observations, but no execution resolves numeric conflict.",
+    "A4622": "N2QYQYIJ",
+    "B4622": "h6",
+    "I4622": "1",
+    "J4622": "Other",
+    "K4622": "0",
+    "L4622": "0",
+    "M4622": "n/a",
+    "N4622": "Common versus sector-specific TFP-only drivers of trend per-capita GDP growth, with no exogenous hours/population growth and endogenous labor; Fig.A6, appendix sec.9.4 pp.81-84.",
+    "O4622": "Distinct outcome/estimand from aggregate labor-plus-TFP decomposition. Full posterior factor recovery; >80% is variance explained, not level benchmark."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120766,7 +120775,11 @@
     "A10784": "N2QYQYIJ",
     "B10784": "h5",
     "C10784": "hy1",
-    "K10784": "GDP growth derivative with respect to sectoral composite input growth; sectoral multipliers, including FIRE+Housing aggregate, Table A13."
+    "K10784": "GDP growth derivative with respect to sectoral composite input growth; sectoral multipliers, including FIRE+Housing aggregate, Table A13.",
+    "A10785": "N2QYQYIJ",
+    "B10785": "h6",
+    "C10785": "hy1",
+    "K10785": "Trend per-capita GDP growth and common/sector-specific TFP contributions, percentage points per year, Fig.A6."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

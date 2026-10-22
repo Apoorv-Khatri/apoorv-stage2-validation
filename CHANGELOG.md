@@ -1108941,3 +1108941,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:02:05.754263+00:00 — Review N2QYQYIJ h6: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10785",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10785",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10785",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10785",
+    "before": null,
+    "after": "Trend per-capita GDP growth and common/sector-specific TFP contributions, percentage points per year, Fig.A6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4622",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4622",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4622",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4622",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4622",
+    "before": null,
+    "after": "Common versus sector-specific TFP-only drivers of trend per-capita GDP growth, with no exogenous hours/population growth and endogenous labor; Fig.A6, appendix sec.9.4 pp.81-84."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4622",
+    "before": null,
+    "after": "Distinct outcome/estimand from aggregate labor-plus-TFP decomposition. Full posterior factor recovery; >80% is variance explained, not level benchmark."
+  }
+]
+```
