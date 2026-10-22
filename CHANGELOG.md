@@ -1070586,3 +1070586,300 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:18:13.770548+00:00 — Review MWF8TE4P s8: source-audited coding and linked comparisons
+
+48 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9685",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9686",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9685",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9686",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9685",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9686",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9685",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L736",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9685",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9686",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M736",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9685",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9686",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P736",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9686",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q736",
+    "before": null,
+    "after": "pp.322–323 Figure3f: fertility removal closes male-female daily log-wage gap by about0.2 log points, about one-third of overall gap. Benchmark is observed gender-gap level, not an individual female wage."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9685",
+    "before": null,
+    "after": "Figure3f p.318 and pp.322–323: structural fertility contrast paired with fitted fertility conditional mean log-daily-wage profile; qualitative graph pairing, no invented age grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9686",
+    "before": null,
+    "after": "Figure3f p.318 and pp.322–323: structural fertility contrast paired with predicted no-fertility conditional mean log-daily-wage profile; qualitative graph pairing, no invented age grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R736",
+    "before": null,
+    "after": "Correct outcome from y1 daily wage to hy1 gender log-wage gap. Gap is a stated same-outcome level, not an estimated treatment effect denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9685",
+    "before": null,
+    "after": "Symmetric endpoints. Fertility endpoint is exposed; no-fertility conditioning on workers may select different target composition."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9686",
+    "before": null,
+    "after": "Symmetric endpoints. Fertility endpoint is exposed; no-fertility conditioning on workers may select different target composition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10688",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10688",
+    "before": null,
+    "after": "s8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10688",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10688",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2709",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10688",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2709",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10688",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2709",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10688",
+    "before": null,
+    "after": "Gender gap in conditional mean daily log wages, comparable male minus female profiles. Fertility removal closes gap by about0.2 log points, one-third overall gap, pp.322–323."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2709",
+    "before": null,
+    "after": "Conditional mean daily log wage, Figure3f. Gender log-wage gap is separately added as hy1; c1 links to that gap."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1091",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1091",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1091",
+    "before": null,
+    "after": "Section IV.F Figure 3f pp.318,322–323: removing fertility affects conditional daily log wage profiles and gender daily-log-wage gap versus comparable men. Same no-fertility intervention but separately reported gender-gap outcome/location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1091",
+    "before": null,
+    "after": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
+  }
+]
+```
