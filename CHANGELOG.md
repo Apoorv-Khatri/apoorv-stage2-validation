@@ -1075941,3 +1075941,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:57:44.602184+00:00 — Review MZW7RGVA s1: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1093",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1093",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1093",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1093",
+    "before": null,
+    "after": "Eq. (3.1), pp.425–428: judge-identity effects interpreted through rotation. Judge dummies are focal coefficients; county/year/offense controls are not a separately argued identifying FE design. Table IV summarizes estimated coefficients, not a sentence-outcome benchmark."
+  }
+]
+```
