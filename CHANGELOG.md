@@ -1079679,3 +1079679,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:00:32.094068+00:00 — Review MZW7RGVA h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10718",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10718",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10718",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10718",
+    "before": null,
+    "after": "Indicator for incarceration by plea bargain (bargain2); Table 13 note/code, versus broader prose definition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4589",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4589",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4589",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4589",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4589",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4589",
+    "before": null,
+    "after": "Judge identity → incarceration-by-plea indicator, appendix Eq.(C.1), Table 13 (p.3). OLS with county/year/offense/criminal-history and personal controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4589",
+    "before": null,
+    "after": "C.1 prose says any plea; Table 13 note and actual Stata lines 433–437,683 establish bargain2=plea AND active A. Preserve this source conflict; no randomized-assignment RCT claim."
+  }
+]
+```

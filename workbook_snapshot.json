@@ -46790,7 +46790,16 @@
     "L4588": "0",
     "M4588": "n/a",
     "N4588": "Table4 p.315, p.314 and footnote9 p.303: additional children raise household consumption requirements relative to woman-own consumption through estimated child equivalence weight .392.",
-    "O4588": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Estimated marginal child weight in household-consumption scaling, not a policy experiment in the weight itself. OECD .3 is another convention/parameter, not a stated outcome mean/SD; no benchmark comparison added."
+    "O4588": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Estimated marginal child weight in household-consumption scaling, not a policy experiment in the weight itself. OECD .3 is another convention/parameter, not a stated outcome mean/SD; no benchmark comparison added.",
+    "A4589": "MZW7RGVA",
+    "B4589": "h1",
+    "I4589": "1",
+    "J4589": "OLS",
+    "K4589": "0",
+    "L4589": "0",
+    "M4589": "n/a",
+    "N4589": "Judge identity → incarceration-by-plea indicator, appendix Eq.(C.1), Table 13 (p.3). OLS with county/year/offense/criminal-history and personal controls.",
+    "O4589": "C.1 prose says any plea; Table 13 note and actual Stata lines 433–437,683 establish bargain2=plea AND active A. Preserve this source conflict; no randomized-assignment RCT claim."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119990,7 +119999,11 @@
     "H10717": "0",
     "I10717": "unknown",
     "J10717": "none",
-    "K10717": "Household consumption requirements at fixed woman-own consumption, scaled by adult-equivalent household size; marginal weight per child .392, Table4 and footnote9. Not a reported change in savings or fertility from changing that parameter."
+    "K10717": "Household consumption requirements at fixed woman-own consumption, scaled by adult-equivalent household size; marginal weight per child .392, Table4 and footnote9. Not a reported change in savings or fertility from changing that parameter.",
+    "A10718": "MZW7RGVA",
+    "B10718": "h1",
+    "C10718": "hy1",
+    "K10718": "Indicator for incarceration by plea bargain (bargain2); Table 13 note/code, versus broader prose definition."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
