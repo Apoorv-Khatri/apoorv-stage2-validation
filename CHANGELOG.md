@@ -1069209,3 +1069209,1380 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:17:48.191850+00:00 — Review MWF8TE4P s7: source-audited coding and linked comparisons
+
+228 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A9665",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9666",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9667",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9668",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9669",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9670",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9671",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9672",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9673",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9674",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9675",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9676",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9677",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9678",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9679",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9680",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9681",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9682",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9683",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A9684",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9665",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9666",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9667",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9668",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9669",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9670",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9671",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9672",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9673",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9674",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9675",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9676",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9677",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9678",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9679",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9680",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9681",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9682",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9683",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B9684",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9665",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9666",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9667",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9668",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9669",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9670",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9671",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9672",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9673",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9674",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9675",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9676",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9677",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9678",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9679",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9680",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9681",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9682",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9683",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C9684",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9665",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9670",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9681",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9682",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9683",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K9684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9665",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9666",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9667",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9668",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9669",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9670",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9671",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9672",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9673",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9674",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9675",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9676",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9677",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9678",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9679",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9680",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9681",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9682",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9683",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L9684",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9665",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9666",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9667",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9668",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9669",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9670",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9671",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9672",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9673",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9674",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9675",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9676",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9677",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9678",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9679",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9680",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9681",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9682",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9683",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M9684",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9665",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9668",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9671",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9672",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9673",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9674",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9675",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9677",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9679",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9682",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9683",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N9684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9665",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9670",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9681",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9682",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9683",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O9684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9665",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9666",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9667",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9668",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9669",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9670",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9671",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9672",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9673",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9674",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9675",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9676",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9677",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9678",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9679",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9680",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9681",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9682",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9683",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P9684",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9665",
+    "before": null,
+    "after": "Table7 p.322: first birth20, one child only, NPV cost -31.4% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9666",
+    "before": null,
+    "after": "Table7 p.322: first birth20, second birth22, NPV cost -36.4% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9667",
+    "before": null,
+    "after": "Table7 p.322: first birth20, second birth24, NPV cost -36.6% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9668",
+    "before": null,
+    "after": "Table7 p.322: first birth20, second birth26, NPV cost -36.6% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9669",
+    "before": null,
+    "after": "Table7 p.322: first birth20, second birth28, NPV cost -37% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9670",
+    "before": null,
+    "after": "Table7 p.322: first birth20, second birth30, NPV cost -36.9% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9671",
+    "before": null,
+    "after": "Table7 p.322: first birth22, one child only, NPV cost -30.2% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9672",
+    "before": null,
+    "after": "Table7 p.322: first birth22, second birth24, NPV cost -34.6% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9673",
+    "before": null,
+    "after": "Table7 p.322: first birth22, second birth26, NPV cost -34.8% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9674",
+    "before": null,
+    "after": "Table7 p.322: first birth22, second birth28, NPV cost -34.8% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9675",
+    "before": null,
+    "after": "Table7 p.322: first birth22, second birth30, NPV cost -35.2% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9676",
+    "before": null,
+    "after": "Table7 p.322: first birth24, one child only, NPV cost -28.1% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9677",
+    "before": null,
+    "after": "Table7 p.322: first birth24, second birth26, NPV cost -32.2% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9678",
+    "before": null,
+    "after": "Table7 p.322: first birth24, second birth28, NPV cost -32.3% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9679",
+    "before": null,
+    "after": "Table7 p.322: first birth24, second birth30, NPV cost -32.3% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9680",
+    "before": null,
+    "after": "Table7 p.322: first birth26, one child only, NPV cost -26% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9681",
+    "before": null,
+    "after": "Table7 p.322: first birth26, second birth28, NPV cost -29.8% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9682",
+    "before": null,
+    "after": "Table7 p.322: first birth26, second birth30, NPV cost -29.8% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9683",
+    "before": null,
+    "after": "Table7 p.322: first birth28, one child only, NPV cost -24% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q9684",
+    "before": null,
+    "after": "Table7 p.322: first birth28, second birth30, NPV cost -27% versus no-children scenario, discounted to age15 at0.95."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9665",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9666",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9667",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9668",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9669",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9670",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9671",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9672",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9673",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9674",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9675",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9676",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9677",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9678",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9679",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9680",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9681",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9682",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9683",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R9684",
+    "before": null,
+    "after": "Table7 explicitly compares no-children with birth schedules but does not print denominator formula. SectionIV.E formula uses fertility denominator, so do not infer alignment or transplant that formula without qualification. Independent adjudication: stated scenario NPV level; publication does not resolve mean-of-individual-ratios versus ratio of mean/aggregate NPVs. Do not assert outcome_mean. Under alternative mean classification, Table6 fertility denominator is exposed (0 under fertility orientation); Table7 denominator/weights remain unknown. Formula is preserved literally, never inverted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2708",
+    "before": null,
+    "after": "NPV lifetime income at age15, displayed as percentage cost relative to comparison scenario; Table7 timing/spacing. Source denominator conflict with SectionIV.E formula retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1090",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1090",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1090",
+    "before": null,
+    "after": "Table 7 pp.321–322: imposed one/two births at displayed ages and spacings versus no children; NPV income costs at age 15. Multivalued timing/number treatment, not a single binary contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1090",
+    "before": null,
+    "after": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
+  }
+]
+```
