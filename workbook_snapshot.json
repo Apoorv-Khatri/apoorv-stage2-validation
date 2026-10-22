@@ -47162,7 +47162,16 @@
     "L4624": "0",
     "M4624": "n/a",
     "N4624": "Sectoral labor/TFP trends propagated to endogenous capital-growth trends; Figs.A3-A4, appendix sec.9.2 pp.79-82, q=8 and q=6.",
-    "O4624": "appendix sec9.2 FigsA3-A4: known calibrated balanced-growth accounting map, not an estimated regression of the reported dependent outcome. Conditional linearity in input-growth series is acknowledged; no IV/RCT/RD/DiD/identifying-FE/matching/OLS implementation of this effect is established. Other as remaining known structural accounting estimator, NOT a claim that fixed-matrix multiplication is nonlinear. h8/h9 retain substantive capital/price mechanism independently of fit checks; h3 retains explicitly assessed muted imported-capital effect, not just theory."
+    "O4624": "appendix sec9.2 FigsA3-A4: known calibrated balanced-growth accounting map, not an estimated regression of the reported dependent outcome. Conditional linearity in input-growth series is acknowledged; no IV/RCT/RD/DiD/identifying-FE/matching/OLS implementation of this effect is established. Other as remaining known structural accounting estimator, NOT a claim that fixed-matrix multiplication is nonlinear. h8/h9 retain substantive capital/price mechanism independently of fit checks; h3 retains explicitly assessed muted imported-capital effect, not just theory.",
+    "A4625": "N2QYQYIJ",
+    "B4625": "h9",
+    "I4625": "1",
+    "J4625": "Other",
+    "K4625": "0",
+    "L4625": "0",
+    "M4625": "n/a",
+    "N4625": "Sectoral input-growth trends propagated through production networks to producer-price growth; Fig.A5, appendix sec.9.3 pp.80,83.",
+    "O4625": "appendix sec9.3 FigA5: known calibrated balanced-growth accounting map, not an estimated regression of the reported dependent outcome. Conditional linearity in input-growth series is acknowledged; no IV/RCT/RD/DiD/identifying-FE/matching/OLS implementation of this effect is established. Other as remaining known structural accounting estimator, NOT a claim that fixed-matrix multiplication is nonlinear. h8/h9 retain substantive capital/price mechanism independently of fit checks; h3 retains explicitly assessed muted imported-capital effect, not just theory."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120805,7 +120814,11 @@
     "A10787": "N2QYQYIJ",
     "B10787": "h8",
     "C10787": "hy1",
-    "K10787": "Sectoral capital-growth trends across all 16 sectors, annual growth-rate scale; Figs.A3-A4. Model-versus-data level adjustment disclosed."
+    "K10787": "Sectoral capital-growth trends across all 16 sectors, annual growth-rate scale; Figs.A3-A4. Model-versus-data level adjustment disclosed.",
+    "A10788": "N2QYQYIJ",
+    "B10788": "h9",
+    "C10788": "hy1",
+    "K10788": "Sectoral producer-price trend growth relative to consumption numeraire, all 16 sectors, Fig.A5."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

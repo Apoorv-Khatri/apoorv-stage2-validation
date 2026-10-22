@@ -1109202,3 +1109202,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:03:35.681204+00:00 — Review N2QYQYIJ h9: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10788",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10788",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10788",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10788",
+    "before": null,
+    "after": "Sectoral producer-price trend growth relative to consumption numeraire, all 16 sectors, Fig.A5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4625",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4625",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4625",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4625",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4625",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4625",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4625",
+    "before": null,
+    "after": "Sectoral input-growth trends propagated through production networks to producer-price growth; Fig.A5, appendix sec.9.3 pp.80,83."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4625",
+    "before": null,
+    "after": "appendix sec9.3 FigA5: known calibrated balanced-growth accounting map, not an estimated regression of the reported dependent outcome. Conditional linearity in input-growth series is acknowledged; no IV/RCT/RD/DiD/identifying-FE/matching/OLS implementation of this effect is established. Other as remaining known structural accounting estimator, NOT a claim that fixed-matrix multiplication is nonlinear. h8/h9 retain substantive capital/price mechanism independently of fit checks; h3 retains explicitly assessed muted imported-capital effect, not just theory."
+  }
+]
+```
