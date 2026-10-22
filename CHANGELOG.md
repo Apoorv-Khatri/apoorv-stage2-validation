@@ -1106832,3 +1106832,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:55:21.117101+00:00 — Review N2QYQYIJ s2: source-audited coding and linked comparisons
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2739",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2740",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2739",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2740",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2739",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2740",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2739",
+    "before": null,
+    "after": "Spurious parent: cyclical-adjustment preprocessing, not a substantive unemployment effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2740",
+    "before": null,
+    "after": "Spurious parent: cyclical-adjustment preprocessing, not a substantive unemployment effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1100",
+    "before": null,
+    "after": "Sec. III.B.1 p.3295: OLS removes cyclical variability. No substantive causal unemployment slope is interpreted. No identifying FE or IV implementation."
+  }
+]
+```
