@@ -46808,7 +46808,16 @@
     "L4590": "0",
     "M4590": "n/a",
     "N4590": "Judge sentencing harshness → settlement propensity: Pearson correlation of estimated judge coefficients from sentence and settlement regressions, appendix C.1 p.2/fn.53; -0.23 non-homicide violent crimes, -0.18 all crimes.",
-    "O4590": "Author attributes variation to judges via rotation. Full statistic includes estimated-outcome SD normalization and two sets of estimated coefficients, not a linear OLS treatment slope. Supporting substantive model prediction, not assignment diagnostic."
+    "O4590": "Author attributes variation to judges via rotation. Full statistic includes estimated-outcome SD normalization and two sets of estimated coefficients, not a linear OLS treatment slope. Supporting substantive model prediction, not assignment diagnostic.",
+    "A4591": "MZW7RGVA",
+    "B4591": "h3",
+    "I4591": "1",
+    "J4591": "Other",
+    "K4591": "0",
+    "L4591": "0",
+    "M4591": "n/a",
+    "N4591": "Trial sentence → settlement offer function for covariate groups 3–12, appendix Figures 10–11 pp.20–21; same nonlinear estimator as main Figure 3.",
+    "O4591": "Separate reported appendix location; routine group variants retained together. No digitized point grid."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120016,7 +120025,11 @@
     "A10719": "MZW7RGVA",
     "B10719": "h2",
     "C10719": "hy1",
-    "K10719": "Settlement propensity (incarceration plea indicator in code); reported statistic is cross-judge correlation of settlement and sentence coefficients."
+    "K10719": "Settlement propensity (incarceration plea indicator in code); reported statistic is cross-judge correlation of settlement and sentence coefficients.",
+    "A10720": "MZW7RGVA",
+    "B10720": "h3",
+    "C10720": "hy1",
+    "K10720": "Equilibrium settlement offer, months; groups 3–12."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
