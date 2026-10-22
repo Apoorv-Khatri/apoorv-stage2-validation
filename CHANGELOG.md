@@ -1106658,3 +1106658,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:13:27.196783+00:00 — Review MZW7RGVA h28: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10775",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10776",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10775",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10776",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10775",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10776",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10775",
+    "before": null,
+    "after": "Defendant trial cost as a function of potential trial sentence. Defendant costs in utils; prosecutor costs in months, as explicitly stated p.44. Appendix Table27 p.44 and C.8.1 p.41."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10776",
+    "before": null,
+    "after": "Prosecutor trial cost as a function of potential trial sentence. Defendant costs in utils; prosecutor costs in months, as explicitly stated p.44. Appendix Table27 p.44 and C.8.1 p.41."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E125",
+    "before": null,
+    "after": "DONE — Source-scoped full review of34-page final article,5-page official supplement and50-page appendix recovered from publisher-linked replicationZIP; independently audited. Archive appendix and selected Stata bytes verified; static code inspection only, not empirical replication. Parent accepts broad parameter-specific TableIII slope/null gate, including weaker settlement-coefficient inclusion with association/selection-only alternative explicit; actual joint OLS, not invented separate estimation. Race-associated offer profiles are bundled estimated profiles, not experimental race or independent pure-race switches; reused C8 offer function deduplicated. Trial-sentence-to-cost responses retain negligible defendant responses; other latent-distribution primitives not automatically causal. Structural recovery Other, not IV solely from exclusion restriction; assignment diagnostics rejected. Two-regime policy binary convention applied consistently; continuous-dose alternative preserved. Parent accepts symmetric displayed same-outcome endpoint policy:192 additional policy endpoints and14 qualitative race-profile endpoints, not reversed effects or fabricated graph grids; narrower current-only benchmark alternative explicit. Policy means exposed alignment0; current unconditional model means aligned under maintained model; conviction-conditioned target match unknown. Each partial-identification interval one estimand, not extra bound grid. Sentence prose allocations unknown symmetrically where elasticity/roughly20percent/almost400percent do not identify a unique outcome/group/bound. Table13 bargain2 means incarceration plea despite broader prose; expanded punishment-scale conflicts and Tables25/26 printed figures preserved. Table12 offense-versus-sentence estimand and separate latent-type probability effects remain held; unavailable-upon-request nuisance slopes not invented. Current-source access complete for reviewed documents, but no omission-free certification. Original model fields/IDs/links preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4616",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4616",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4616",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4616",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4616",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4616",
+    "before": null,
+    "after": "Potential trial sentence t → defendant and prosecutor trial costs c(t)=alpha+beta*t; nonlinear-utility groups1–2; Appendix Table27 p.44 and C.8.1 p.41."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4616",
+    "before": null,
+    "after": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Defendant costs in utils; prosecutor costs in months, as explicitly stated p.44."
+  }
+]
+```

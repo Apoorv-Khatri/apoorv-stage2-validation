@@ -602,6 +602,7 @@
     "B125": "Bargaining With Asymmetric Information: An Empirical Study of Plea Negotiations",
     "C125": "econ",
     "D125": 6,
+    "E125": "DONE — Source-scoped full review of34-page final article,5-page official supplement and50-page appendix recovered from publisher-linked replicationZIP; independently audited. Archive appendix and selected Stata bytes verified; static code inspection only, not empirical replication. Parent accepts broad parameter-specific TableIII slope/null gate, including weaker settlement-coefficient inclusion with association/selection-only alternative explicit; actual joint OLS, not invented separate estimation. Race-associated offer profiles are bundled estimated profiles, not experimental race or independent pure-race switches; reused C8 offer function deduplicated. Trial-sentence-to-cost responses retain negligible defendant responses; other latent-distribution primitives not automatically causal. Structural recovery Other, not IV solely from exclusion restriction; assignment diagnostics rejected. Two-regime policy binary convention applied consistently; continuous-dose alternative preserved. Parent accepts symmetric displayed same-outcome endpoint policy:192 additional policy endpoints and14 qualitative race-profile endpoints, not reversed effects or fabricated graph grids; narrower current-only benchmark alternative explicit. Policy means exposed alignment0; current unconditional model means aligned under maintained model; conviction-conditioned target match unknown. Each partial-identification interval one estimand, not extra bound grid. Sentence prose allocations unknown symmetrically where elasticity/roughly20percent/almost400percent do not identify a unique outcome/group/bound. Table13 bargain2 means incarceration plea despite broader prose; expanded punishment-scale conflicts and Tables25/26 printed figures preserved. Table12 offense-versus-sentence estimand and separate latent-type probability effects remain held; unavailable-upon-request nuisance slopes not invented. Current-source access complete for reviewed documents, but no omission-free certification. Original model fields/IDs/links preserved.",
     "A126": "N2QYQYIJ",
     "B126": "Aggregate Implications of Changing Sectoral Trends",
     "C126": "econ",
@@ -47033,7 +47034,16 @@
     "L4615": "0",
     "M4615": "n/a",
     "N4615": "Potential trial sentence t → defendant and prosecutor trial costs c(t)=alpha+beta*t; non-incarceration extension groups1–2; Appendix Table23 pp.34–35, C.6.",
-    "O4615": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Costs in expanded sentence-equivalent months; do not call these pure incarceration months."
+    "O4615": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Costs in expanded sentence-equivalent months; do not call these pure incarceration months.",
+    "A4616": "MZW7RGVA",
+    "B4616": "h28",
+    "I4616": "1",
+    "J4616": "Other",
+    "K4616": "0",
+    "L4616": "0",
+    "M4616": "n/a",
+    "N4616": "Potential trial sentence t → defendant and prosecutor trial costs c(t)=alpha+beta*t; nonlinear-utility groups1–2; Appendix Table27 p.44 and C.8.1 p.41.",
+    "O4616": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Defendant costs in utils; prosecutor costs in months, as explicitly stated p.44."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120596,7 +120606,15 @@
     "A10774": "MZW7RGVA",
     "B10774": "h27",
     "C10774": "hy2",
-    "K10774": "Prosecutor trial cost as a function of potential trial sentence. Costs in expanded sentence-equivalent months; do not call these pure incarceration months. Appendix Table23 pp.34–35, C.6."
+    "K10774": "Prosecutor trial cost as a function of potential trial sentence. Costs in expanded sentence-equivalent months; do not call these pure incarceration months. Appendix Table23 pp.34–35, C.6.",
+    "A10775": "MZW7RGVA",
+    "B10775": "h28",
+    "C10775": "hy1",
+    "K10775": "Defendant trial cost as a function of potential trial sentence. Defendant costs in utils; prosecutor costs in months, as explicitly stated p.44. Appendix Table27 p.44 and C.8.1 p.41.",
+    "A10776": "MZW7RGVA",
+    "B10776": "h28",
+    "C10776": "hy2",
+    "K10776": "Prosecutor trial cost as a function of potential trial sentence. Defendant costs in utils; prosecutor costs in months, as explicitly stated p.44. Appendix Table27 p.44 and C.8.1 p.41."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
