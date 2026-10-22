@@ -46708,7 +46708,16 @@
     "L4583": "0",
     "M4583": "n/a",
     "N4583": "p.324: simulations with various benefit levels, short-run fertility elasticity with respect to benefits approximately0.04. Continuous/multilevel benefit-dose estimand, distinct from binary EUR6000 policy; exact levels and elasticity calculation not reported.",
-    "O4583": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator. Scope limited to explicitly implemented elasticity; no invented dose grid or transfer of binary assignment label."
+    "O4583": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator. Scope limited to explicitly implemented elasticity; no invented dose grid or transfer of binary assignment label.",
+    "A4584": "MWF8TE4P",
+    "B4584": "h9",
+    "I4584": "1",
+    "J4584": "Other",
+    "K4584": "1",
+    "L4584": "0",
+    "M4584": "n/a",
+    "N4584": "Table5A p.316: high versus low joint ability/leisure type; structural log-wage intercept and utility-of-leisure difference. Low type normalized to zero; high type .145 and .257.",
+    "O4584": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Ability and leisure are bundled by assumption (p.302); not a pure ability-only intervention. Positive .257 parameter is compatible with lower utility under the multiplicative utility specification; do not flip its sign."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119764,7 +119773,21 @@
     "H10705": "0",
     "I10705": "unknown",
     "J10705": "other",
-    "K10705": "Short-run aggregate fertility/birth response, reported as elasticity with respect to benefit level (about0.04), p.324. Exact scaling recipe and evaluated benefit points not given."
+    "K10705": "Short-run aggregate fertility/birth response, reported as elasticity with respect to benefit level (about0.04), p.324. Exact scaling recipe and evaluated benefit points not given.",
+    "A10706": "MWF8TE4P",
+    "B10706": "h9",
+    "C10706": "hy1",
+    "H10706": "0",
+    "I10706": "unknown",
+    "J10706": "log",
+    "K10706": "Full-time log daily wage intercept response to high versus low joint ability/leisure type: .145 log points (prose .14); Table5A p.316.",
+    "A10707": "MWF8TE4P",
+    "B10707": "h9",
+    "C10707": "hy2",
+    "H10707": "0",
+    "I10707": "unknown",
+    "J10707": "other",
+    "K10707": "Utility-of-leisure type parameter, high .257 versus low normalized0; Table5A. Prose lower utility by26%; functional utility scale in A3, not raw utility-level difference."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

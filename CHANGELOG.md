@@ -1073004,3 +1073004,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:22:40.698641+00:00 — Review MWF8TE4P h9: source-audited coding and linked comparisons
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10706",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10707",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10706",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10707",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10706",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10707",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10706",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10707",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10706",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10707",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10706",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10707",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10706",
+    "before": null,
+    "after": "Full-time log daily wage intercept response to high versus low joint ability/leisure type: .145 log points (prose .14); Table5A p.316."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10707",
+    "before": null,
+    "after": "Utility-of-leisure type parameter, high .257 versus low normalized0; Table5A. Prose lower utility by26%; functional utility scale in A3, not raw utility-level difference."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4584",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4584",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4584",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4584",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4584",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4584",
+    "before": null,
+    "after": "Table5A p.316: high versus low joint ability/leisure type; structural log-wage intercept and utility-of-leisure difference. Low type normalized to zero; high type .145 and .257."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4584",
+    "before": null,
+    "after": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Ability and leisure are bundled by assumption (p.302); not a pure ability-only intervention. Positive .257 parameter is compatible with lower utility under the multiplicative utility specification; do not flip its sign."
+  }
+]
+```
