@@ -47198,7 +47198,16 @@
     "L4628": "0",
     "M4628": "n/a",
     "N4628": "Common-factor and sector-specific contributions to sectoral and aggregate labor/TFP trends under alternative priors eta=0.5,2 (q=8) and q=6 (eta=1): Appendix Tables A2-A4 pp10-12.",
-    "O4628": "Distinct labor/TFP sensitivity outcomes, not GDP h2. Group routine prior/bandwidth variants in the separately reported sensitivity family. Same author-intention rationale as s3/s4; loadings/components retained, auxiliary covariance/persistence and correlations not new causal outcomes. Bayesian outcome-adaptive recovery, not latent-factor IV."
+    "O4628": "Distinct labor/TFP sensitivity outcomes, not GDP h2. Group routine prior/bandwidth variants in the separately reported sensitivity family. Same author-intention rationale as s3/s4; loadings/components retained, auxiliary covariance/persistence and correlations not new causal outcomes. Bayesian outcome-adaptive recovery, not latent-factor IV.",
+    "A4629": "N2QYQYIJ",
+    "B4629": "h13",
+    "I4629": "1",
+    "J4629": "Other",
+    "K4629": "0",
+    "L4629": "0",
+    "M4629": "n/a",
+    "N4629": "Sectoral composite input-growth sources affecting sectoral gross-output growth: quantified generalized weighted Leontief inverse in Appendix Table A12 p77, main eq9 and pp3308-3310.",
+    "O4629": "Retain response map independently from GDP multiplier Table4. Each column is a source-sector growth input; each row a receiving sector gross-output response. All displayed cells including small/rounded values remain in scope without inventing a zero response. Known calibrated matrix inverse/accounting estimator, Other remaining structural category; no regression or IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120881,7 +120890,11 @@
     "A10794": "N2QYQYIJ",
     "B10794": "h12",
     "C10794": "hy2",
-    "K10794": "Sectoral and aggregate TFP trend growth attributable to common/sector-specific sources under A2-A4 sensitivity; annual percentage-point growth scale. Auxiliary R-squared is not own-outcome normalization."
+    "K10794": "Sectoral and aggregate TFP trend growth attributable to common/sector-specific sources under A2-A4 sensitivity; annual percentage-point growth scale. Auxiliary R-squared is not own-outcome normalization.",
+    "A10795": "N2QYQYIJ",
+    "B10795": "h13",
+    "C10795": "hy1",
+    "K10795": "Sectoral gross-output growth g^y (not GDP value-added growth), mapped from composite sector input growth g^a by Xi transpose; Table A12 and main eq9. All sixteen receiving sectors grouped as displayed."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

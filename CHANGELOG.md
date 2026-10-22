@@ -1111542,3 +1111542,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:05:36.902409+00:00 — Review N2QYQYIJ h13: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10795",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10795",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10795",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10795",
+    "before": null,
+    "after": "Sectoral gross-output growth g^y (not GDP value-added growth), mapped from composite sector input growth g^a by Xi transpose; Table A12 and main eq9. All sixteen receiving sectors grouped as displayed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4629",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4629",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4629",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4629",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4629",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4629",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4629",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4629",
+    "before": null,
+    "after": "Sectoral composite input-growth sources affecting sectoral gross-output growth: quantified generalized weighted Leontief inverse in Appendix Table A12 p77, main eq9 and pp3308-3310."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4629",
+    "before": null,
+    "after": "Retain response map independently from GDP multiplier Table4. Each column is a source-sector growth input; each row a receiving sector gross-output response. All displayed cells including small/rounded values remain in scope without inventing a zero response. Known calibrated matrix inverse/accounting estimator, Other remaining structural category; no regression or IV."
+  }
+]
+```
