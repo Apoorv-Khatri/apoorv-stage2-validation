@@ -47144,7 +47144,16 @@
     "L4622": "0",
     "M4622": "n/a",
     "N4622": "Common versus sector-specific TFP-only drivers of trend per-capita GDP growth, with no exogenous hours/population growth and endogenous labor; Fig.A6, appendix sec.9.4 pp.81-84.",
-    "O4622": "Distinct outcome/estimand from aggregate labor-plus-TFP decomposition. Full posterior factor recovery; >80% is variance explained, not level benchmark."
+    "O4622": "Distinct outcome/estimand from aggregate labor-plus-TFP decomposition. Full posterior factor recovery; >80% is variance explained, not level benchmark.",
+    "A4623": "N2QYQYIJ",
+    "B4623": "h7",
+    "I4623": "1",
+    "J4623": "Other",
+    "K4623": "0",
+    "L4623": "0",
+    "M4623": "n/a",
+    "N4623": "Individual sectors idiosyncratic TFP trends affecting per-capita GDP trend growth under TFP-only model; Fig.A7, appendix pp.82,84.",
+    "O4623": "All 16 panels retained including small/flat contributions; no invented numerical endpoints."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120779,7 +120788,11 @@
     "A10785": "N2QYQYIJ",
     "B10785": "h6",
     "C10785": "hy1",
-    "K10785": "Trend per-capita GDP growth and common/sector-specific TFP contributions, percentage points per year, Fig.A6."
+    "K10785": "Trend per-capita GDP growth and common/sector-specific TFP contributions, percentage points per year, Fig.A6.",
+    "A10786": "N2QYQYIJ",
+    "B10786": "h7",
+    "C10786": "hy1",
+    "K10786": "Sector-specific TFP contribution to trend per-capita GDP growth, percentage points per year, Fig.A7."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

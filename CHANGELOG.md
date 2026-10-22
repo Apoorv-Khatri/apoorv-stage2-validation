@@ -1109028,3 +1109028,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:02:36.336523+00:00 — Review N2QYQYIJ h7: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10786",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10786",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10786",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10786",
+    "before": null,
+    "after": "Sector-specific TFP contribution to trend per-capita GDP growth, percentage points per year, Fig.A7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4623",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4623",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4623",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4623",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4623",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4623",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4623",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4623",
+    "before": null,
+    "after": "Individual sectors idiosyncratic TFP trends affecting per-capita GDP trend growth under TFP-only model; Fig.A7, appendix pp.82,84."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4623",
+    "before": null,
+    "after": "All 16 panels retained including small/flat contributions; no invented numerical endpoints."
+  }
+]
+```
