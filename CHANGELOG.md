@@ -1107768,3 +1107768,504 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:59:40.369603+00:00 — Review N2QYQYIJ h1: source-audited coding and linked comparisons
+
+82 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10129",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10130",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10131",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10132",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10133",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10134",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10129",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10130",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10131",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10132",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10133",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10134",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10129",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10130",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10131",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10132",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10133",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10134",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10129",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10130",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10131",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10132",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10133",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10134",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10129",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10130",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10131",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10132",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10133",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10134",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10129",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10131",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10132",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10134",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10129",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10130",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10131",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10132",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10133",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10134",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10129",
+    "before": null,
+    "after": "Fig.13 p.3328, Construction: black dashed price-only versus red baseline contribution to GDP-trend growth. Paired benchmark red baseline path in percentage points/year, 1950-2018. Qualitative path comparison; no digitized heights or annual grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10130",
+    "before": null,
+    "after": "Fig.13 p.3328, Construction: black dashed price-only versus red baseline contribution to GDP-trend growth. Paired benchmark black dashed price-only path in percentage points/year, 1950-2018. Qualitative path comparison; no digitized heights or annual grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10131",
+    "before": null,
+    "after": "Fig.13 p.3328, Durable Goods: black dashed price-only versus red baseline contribution to GDP-trend growth. Paired benchmark red baseline path in percentage points/year, 1950-2018. Qualitative path comparison; no digitized heights or annual grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10132",
+    "before": null,
+    "after": "Fig.13 p.3328, Durable Goods: black dashed price-only versus red baseline contribution to GDP-trend growth. Paired benchmark black dashed price-only path in percentage points/year, 1950-2018. Qualitative path comparison; no digitized heights or annual grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10133",
+    "before": null,
+    "after": "Fig.13 p.3328, PBS: black dashed price-only versus red baseline contribution to GDP-trend growth. Paired benchmark red baseline path in percentage points/year, 1950-2018. Qualitative path comparison; no digitized heights or annual grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10134",
+    "before": null,
+    "after": "Fig.13 p.3328, PBS: black dashed price-only versus red baseline contribution to GDP-trend growth. Paired benchmark black dashed price-only path in percentage points/year, 1950-2018. Qualitative path comparison; no digitized heights or annual grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10129",
+    "before": null,
+    "after": "Measurement-rule contrast in a constructed contribution outcome, not comparison between GDP treatment derivatives. Both displayed endpoints admitted symmetrically; other_level because paths are not a documented outcome mean. Combined-versus-price-only incremental contrast held to avoid multiplying treatment scopes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10130",
+    "before": null,
+    "after": "Measurement-rule contrast in a constructed contribution outcome, not comparison between GDP treatment derivatives. Both displayed endpoints admitted symmetrically; other_level because paths are not a documented outcome mean. Combined-versus-price-only incremental contrast held to avoid multiplying treatment scopes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10131",
+    "before": null,
+    "after": "Measurement-rule contrast in a constructed contribution outcome, not comparison between GDP treatment derivatives. Both displayed endpoints admitted symmetrically; other_level because paths are not a documented outcome mean. Combined-versus-price-only incremental contrast held to avoid multiplying treatment scopes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10132",
+    "before": null,
+    "after": "Measurement-rule contrast in a constructed contribution outcome, not comparison between GDP treatment derivatives. Both displayed endpoints admitted symmetrically; other_level because paths are not a documented outcome mean. Combined-versus-price-only incremental contrast held to avoid multiplying treatment scopes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10133",
+    "before": null,
+    "after": "Measurement-rule contrast in a constructed contribution outcome, not comparison between GDP treatment derivatives. Both displayed endpoints admitted symmetrically; other_level because paths are not a documented outcome mean. Combined-versus-price-only incremental contrast held to avoid multiplying treatment scopes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10134",
+    "before": null,
+    "after": "Measurement-rule contrast in a constructed contribution outcome, not comparison between GDP treatment derivatives. Both displayed endpoints admitted symmetrically; other_level because paths are not a documented outcome mean. Combined-versus-price-only incremental contrast held to avoid multiplying treatment scopes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10778",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10778",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10778",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10778",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10778",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10778",
+    "before": null,
+    "after": "Sector-specific contribution to trend GDP growth for Construction, Durable Goods and PBS, percentage points at annual rate; Fig.13; levels of posterior contribution paths."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4617",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4617",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4617",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4617",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4617",
+    "before": null,
+    "after": "Price-only correction of PBS IPP deflators versus baseline rules; Construction, Durable Goods and PBS GDP-trend contribution paths, Fig.13 dashed black versus red, pp.3327-3328."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4617",
+    "before": null,
+    "after": "Distinct from combined s9. Source reports near-null contributions in Construction and Durable Goods; retain them. Posterior contribution path plus calibrated correction; see held code/equation conflict."
+  }
+]
+```
