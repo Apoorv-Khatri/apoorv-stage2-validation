@@ -1109115,3 +1109115,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:03:05.847888+00:00 — Review N2QYQYIJ h8: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10787",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10787",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10787",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10787",
+    "before": null,
+    "after": "Sectoral capital-growth trends across all 16 sectors, annual growth-rate scale; Figs.A3-A4. Model-versus-data level adjustment disclosed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4624",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4624",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4624",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4624",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4624",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4624",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4624",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4624",
+    "before": null,
+    "after": "Sectoral labor/TFP trends propagated to endogenous capital-growth trends; Figs.A3-A4, appendix sec.9.2 pp.79-82, q=8 and q=6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4624",
+    "before": null,
+    "after": "appendix sec9.2 FigsA3-A4: known calibrated balanced-growth accounting map, not an estimated regression of the reported dependent outcome. Conditional linearity in input-growth series is acknowledged; no IV/RCT/RD/DiD/identifying-FE/matching/OLS implementation of this effect is established. Other as remaining known structural accounting estimator, NOT a claim that fixed-matrix multiplication is nonlinear. h8/h9 retain substantive capital/price mechanism independently of fit checks; h3 retains explicitly assessed muted imported-capital effect, not just theory."
+  }
+]
+```
