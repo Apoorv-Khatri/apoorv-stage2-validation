@@ -46645,7 +46645,16 @@
     "L4576": "1",
     "M4576": "n/a",
     "N4576": "pp.313–314: equalize child-related work amenities in abstract/manual jobs to routine-job amenities versus fitted amenities; combined proportion choosing abstract/manual jobs rises 5%. Structural counterfactual.",
-    "O4576": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
+    "O4576": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator.",
+    "A4577": "MWF8TE4P",
+    "B4577": "h2",
+    "I4577": "1",
+    "J4577": "Other",
+    "K4577": "1",
+    "L4577": "1",
+    "M4577": "n/a",
+    "N4577": "p.314: equalize child-related part-time amenity in abstract jobs to routine jobs versus fitted value; proportion working part-time in abstract jobs at age30 rises 7%. Structural counterfactual.",
+    "O4577": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119589,7 +119598,14 @@
     "H10689": "0",
     "I10689": "unknown",
     "J10689": "none",
-    "K10689": "Combined proportion choosing abstract/manual occupations; p.314, +5% under amenity equalization."
+    "K10689": "Combined proportion choosing abstract/manual occupations; p.314, +5% under amenity equalization.",
+    "A10690": "MWF8TE4P",
+    "B10690": "h2",
+    "C10690": "hy1",
+    "H10690": "0",
+    "I10690": "unknown",
+    "J10690": "none",
+    "K10690": "Proportion of part-time work in abstract jobs at age30; p.314, +7% under part-time amenity equalization."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -228236,7 +228252,18 @@
     "O9687": "1",
     "P9687": "1",
     "Q9687": "p.314: combined abstract/manual occupational-choice proportion increases by5% if their work amenity equals routine. Benchmark fitted-model occupational-choice proportion.",
-    "R9687": "Under maintained structural same-population counterfactual, baseline is no equalization. No numerical baseline supplied."
+    "R9687": "Under maintained structural same-population counterfactual, baseline is no equalization. No numerical baseline supplied.",
+    "A9688": "MWF8TE4P",
+    "B9688": "h2",
+    "C9688": "hc1",
+    "K9688": "1",
+    "L9688": "hy1",
+    "M9688": "outcome_mean",
+    "N9688": "1",
+    "O9688": "1",
+    "P9688": "unknown",
+    "Q9688": "p.314: abstract-job part-time proportion at age30 rises7% if part-time amenity equals routine; fitted abstract-job part-time proportion benchmark.",
+    "R9688": "Conditioning on working in abstract jobs can change with equalization; fixed target/weights not established."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
