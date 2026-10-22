@@ -1075725,3 +1075725,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:23:59.060049+00:00 — Review MWF8TE4P h12: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10716",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10716",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10716",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10716",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10716",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10716",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10716",
+    "before": null,
+    "after": "Utility from children: one-child and two-child utility terms by taste type; Table5A p.316, Appendix A3. Neither standard errors nor taste-type proportions are outcome benchmarks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4587",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4587",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4587",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4587",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4587",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4587",
+    "before": null,
+    "after": "Table5A p.316 and Appendix A3 p.329: number of children (one/two; no-child term absent) affects utility, heterogeneous by high/low taste for children. Utility terms .484/.158 for one and1.28/-2.04 for two."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4587",
+    "before": null,
+    "after": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Retain child-to-utility response consistently with occupation-to-utility s4. Do not confuse correlation .02 or population type proportions with causal effects."
+  }
+]
+```

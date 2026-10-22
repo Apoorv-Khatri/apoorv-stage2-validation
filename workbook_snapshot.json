@@ -46735,7 +46735,16 @@
     "L4586": "1",
     "M4586": "n/a",
     "N4586": "Table5B pp.316–317: high versus low taste for children within ability/leisure type; completed fertility and three initial occupational proportions.",
-    "O4586": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. The introduction frames unobserved fertility preferences as affecting sorting; results contrast about1 versus1.9 children and occupational selection. These are model-implied structural type contrasts, not randomized treatment effects."
+    "O4586": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. The introduction frames unobserved fertility preferences as affecting sorting; results contrast about1 versus1.9 children and occupational selection. These are model-implied structural type contrasts, not randomized treatment effects.",
+    "A4587": "MWF8TE4P",
+    "B4587": "h12",
+    "I4587": "1",
+    "J4587": "Other",
+    "K4587": "0",
+    "L4587": "0",
+    "M4587": "n/a",
+    "N4587": "Table5A p.316 and Appendix A3 p.329: number of children (one/two; no-child term absent) affects utility, heterogeneous by high/low taste for children. Utility terms .484/.158 for one and1.28/-2.04 for two.",
+    "O4587": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Retain child-to-utility response consistently with occupation-to-utility s4. Do not confuse correlation .02 or population type proportions with causal effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119861,7 +119870,14 @@
     "H10715": "0",
     "I10715": "unknown",
     "J10715": "none",
-    "K10715": "Initial manual-occupation proportion, Table5B: .296/.260/.292/.260 in same order. Model-implied type contrast; not a pure ability switch holding leisure fixed."
+    "K10715": "Initial manual-occupation proportion, Table5B: .296/.260/.292/.260 in same order. Model-implied type contrast; not a pure ability switch holding leisure fixed.",
+    "A10716": "MWF8TE4P",
+    "B10716": "h12",
+    "C10716": "hy1",
+    "H10716": "0",
+    "I10716": "unknown",
+    "J10716": "none",
+    "K10716": "Utility from children: one-child and two-child utility terms by taste type; Table5A p.316, Appendix A3. Neither standard errors nor taste-type proportions are outcome benchmarks."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
