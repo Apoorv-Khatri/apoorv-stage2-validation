@@ -1108356,3 +1108356,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:00:37.137831+00:00 — Review N2QYQYIJ h3: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10780",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10781",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10780",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10781",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10780",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10781",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10780",
+    "before": null,
+    "after": "Long-run capital growth from domestic investment and imported-capital terms-of-trade channel, appendix eq.30."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10781",
+    "before": null,
+    "after": "Long-run GDP growth contribution of traded capital goods, appendix p.40; qualitative muted but increasing effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4619",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4619",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4619",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4619",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4619",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4619",
+    "before": null,
+    "after": "Imported capital-goods terms-of-trade growth and import-share channel affecting long-run capital and GDP growth; appendix sec.3.5 pp.38-42, Fig.A2 contextual series."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4619",
+    "before": null,
+    "after": "appendix sec3.5 eq30 and p40: known calibrated balanced-growth accounting map, not an estimated regression of the reported dependent outcome. Conditional linearity in input-growth series is acknowledged; no IV/RCT/RD/DiD/identifying-FE/matching/OLS implementation of this effect is established. Other as remaining known structural accounting estimator, NOT a claim that fixed-matrix multiplication is nonlinear. h8/h9 retain substantive capital/price mechanism independently of fit checks; h3 retains explicitly assessed muted imported-capital effect, not just theory."
+  }
+]
+```

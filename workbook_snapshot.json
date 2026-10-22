@@ -47108,7 +47108,16 @@
     "L4618": "0",
     "M4618": "n/a",
     "N4618": "Common and sector-specific input-trend contributions to aggregate GDP growth under alternative factor priors eta=0.5,2 and q=6; Fig.11 and sec.V.D p.3322. Benchmark eta=1,q=8 repeats s6.",
-    "O4618": "Fig11: GDP sensitivity with alternative eta/q, full posterior recovery Other. h12 separately covers labor/TFP posterior outputs A2-A4. Routine parameter choices grouped within this sensitivity result family; no R-squared-as-level benchmark."
+    "O4618": "Fig11: GDP sensitivity with alternative eta/q, full posterior recovery Other. h12 separately covers labor/TFP posterior outputs A2-A4. Routine parameter choices grouped within this sensitivity result family; no R-squared-as-level benchmark.",
+    "A4619": "N2QYQYIJ",
+    "B4619": "h3",
+    "I4619": "1",
+    "J4619": "Other",
+    "K4619": "0",
+    "L4619": "0",
+    "M4619": "n/a",
+    "N4619": "Imported capital-goods terms-of-trade growth and import-share channel affecting long-run capital and GDP growth; appendix sec.3.5 pp.38-42, Fig.A2 contextual series.",
+    "O4619": "appendix sec3.5 eq30 and p40: known calibrated balanced-growth accounting map, not an estimated regression of the reported dependent outcome. Conditional linearity in input-growth series is acknowledged; no IV/RCT/RD/DiD/identifying-FE/matching/OLS implementation of this effect is established. Other as remaining known structural accounting estimator, NOT a claim that fixed-matrix multiplication is nonlinear. h8/h9 retain substantive capital/price mechanism independently of fit checks; h3 retains explicitly assessed muted imported-capital effect, not just theory."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120713,7 +120722,15 @@
     "A10779": "N2QYQYIJ",
     "B10779": "h2",
     "C10779": "hy1",
-    "K10779": "Trend aggregate GDP growth decomposed into common and sector-specific contributions, percentage points per year, Fig.11."
+    "K10779": "Trend aggregate GDP growth decomposed into common and sector-specific contributions, percentage points per year, Fig.11.",
+    "A10780": "N2QYQYIJ",
+    "B10780": "h3",
+    "C10780": "hy1",
+    "K10780": "Long-run capital growth from domestic investment and imported-capital terms-of-trade channel, appendix eq.30.",
+    "A10781": "N2QYQYIJ",
+    "B10781": "h3",
+    "C10781": "hy2",
+    "K10781": "Long-run GDP growth contribution of traded capital goods, appendix p.40; qualitative muted but increasing effect."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
