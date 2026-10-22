@@ -597,6 +597,7 @@
     "B124": "The Career Costs of Children",
     "C124": "econ",
     "D124": 9,
+    "E124": "DONE — Source-scoped review of45-page final article, all8tables4figures44footnotes and embedded appendix, independently audited. Final online supplement unrecovered; November2011 author draft not substituted. Parent accepts broad author-interpreted structural parameter/type gate including bundled ability/leisure wage/utility, fertility null/sorting, desired-fertility sorting, child utility and consumption requirements. Table5B scopes and32 symmetric actual endpoint comparisons contested: conditional-description exclusion alternative explicit; no independent type-switch simulation claimed. High-type endpoint alignment0, lower target weights unknown. Structural SMM/choice counterfactuals Other; actual fn29 simulated-outcome FE retained separately. Auxiliary identification-only IV moment rejected on parameter-specific gate, not credibility; alternative inclusion and instrument-support uncertainty preserved. Separate amenities, aggregate policy transition, asset paths, cohort endpoints and benefit-dose elasticity retained; unknown detailed elasticity recipe. Nine own-skill-stock normalizations retained under stated-level policy;27 NPV benchmarks other_level, not a claim of aggregate construction; alternative mean taxonomy and unresolved ratio aggregation preserved. Literal1-NPV^NF/NPV^F denominator retained. Gender-gap outcome rescues original comparison; four component/effect ratios rejected. Figure2 endogenous-birth savings contrast, Table8 share percentages and unseen appendix allocations held. Preserve stocks3/6/10 versus3/5/10,14.2percentSE, Table6 arithmetic, Figure3e .42/.43, utility sign/scale and cohort conflicts. No invented graph points, zeros or grids; original model fields/IDs/links preserved. No empirical replication or omission-free certification.",
     "A125": "MZW7RGVA",
     "B125": "Bargaining With Asymmetric Information: An Empirical Study of Plea Negotiations",
     "C125": "econ",
@@ -46744,7 +46745,16 @@
     "L4587": "0",
     "M4587": "n/a",
     "N4587": "Table5A p.316 and Appendix A3 p.329: number of children (one/two; no-child term absent) affects utility, heterogeneous by high/low taste for children. Utility terms .484/.158 for one and1.28/-2.04 for two.",
-    "O4587": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Retain child-to-utility response consistently with occupation-to-utility s4. Do not confuse correlation .02 or population type proportions with causal effects."
+    "O4587": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Retain child-to-utility response consistently with occupation-to-utility s4. Do not confuse correlation .02 or population type proportions with causal effects.",
+    "A4588": "MWF8TE4P",
+    "B4588": "h13",
+    "I4588": "1",
+    "J4588": "Other",
+    "K4588": "0",
+    "L4588": "0",
+    "M4588": "n/a",
+    "N4588": "Table4 p.315, p.314 and footnote9 p.303: additional children raise household consumption requirements relative to woman-own consumption through estimated child equivalence weight .392.",
+    "O4588": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Estimated marginal child weight in household-consumption scaling, not a policy experiment in the weight itself. OECD .3 is another convention/parameter, not a stated outcome mean/SD; no benchmark comparison added."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119877,7 +119887,14 @@
     "H10716": "0",
     "I10716": "unknown",
     "J10716": "none",
-    "K10716": "Utility from children: one-child and two-child utility terms by taste type; Table5A p.316, Appendix A3. Neither standard errors nor taste-type proportions are outcome benchmarks."
+    "K10716": "Utility from children: one-child and two-child utility terms by taste type; Table5A p.316, Appendix A3. Neither standard errors nor taste-type proportions are outcome benchmarks.",
+    "A10717": "MWF8TE4P",
+    "B10717": "h13",
+    "C10717": "hy1",
+    "H10717": "0",
+    "I10717": "unknown",
+    "J10717": "none",
+    "K10717": "Household consumption requirements at fixed woman-own consumption, scaled by adult-equivalent household size; marginal weight per child .392, Table4 and footnote9. Not a reported change in savings or fertility from changing that parameter."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

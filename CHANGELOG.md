@@ -1075830,3 +1075830,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:24:23.157336+00:00 — Review MWF8TE4P h13: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10717",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10717",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10717",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10717",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10717",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10717",
+    "before": null,
+    "after": "Household consumption requirements at fixed woman-own consumption, scaled by adult-equivalent household size; marginal weight per child .392, Table4 and footnote9. Not a reported change in savings or fertility from changing that parameter."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E124",
+    "before": null,
+    "after": "DONE — Source-scoped review of45-page final article, all8tables4figures44footnotes and embedded appendix, independently audited. Final online supplement unrecovered; November2011 author draft not substituted. Parent accepts broad author-interpreted structural parameter/type gate including bundled ability/leisure wage/utility, fertility null/sorting, desired-fertility sorting, child utility and consumption requirements. Table5B scopes and32 symmetric actual endpoint comparisons contested: conditional-description exclusion alternative explicit; no independent type-switch simulation claimed. High-type endpoint alignment0, lower target weights unknown. Structural SMM/choice counterfactuals Other; actual fn29 simulated-outcome FE retained separately. Auxiliary identification-only IV moment rejected on parameter-specific gate, not credibility; alternative inclusion and instrument-support uncertainty preserved. Separate amenities, aggregate policy transition, asset paths, cohort endpoints and benefit-dose elasticity retained; unknown detailed elasticity recipe. Nine own-skill-stock normalizations retained under stated-level policy;27 NPV benchmarks other_level, not a claim of aggregate construction; alternative mean taxonomy and unresolved ratio aggregation preserved. Literal1-NPV^NF/NPV^F denominator retained. Gender-gap outcome rescues original comparison; four component/effect ratios rejected. Figure2 endogenous-birth savings contrast, Table8 share percentages and unseen appendix allocations held. Preserve stocks3/6/10 versus3/5/10,14.2percentSE, Table6 arithmetic, Figure3e .42/.43, utility sign/scale and cohort conflicts. No invented graph points, zeros or grids; original model fields/IDs/links preserved. No empirical replication or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4588",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4588",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4588",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4588",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4588",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4588",
+    "before": null,
+    "after": "Table4 p.315, p.314 and footnote9 p.303: additional children raise household consumption requirements relative to woman-own consumption through estimated child equivalence weight .392."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4588",
+    "before": null,
+    "after": "Joint nonlinear dynamic-choice simulated-moments recovery (pp.307–310, Appendix A3–A16). Author-interpreted structural response, not randomized type assignment, OLS, or IV merely because identifying moments include regressions. Broad parameter-specific causal gate; credibility is not the inclusion criterion. Estimated marginal child weight in household-consumption scaling, not a policy experiment in the weight itself. OECD .3 is another convention/parameter, not a stated outcome mean/SD; no benchmark comparison added."
+  }
+]
+```
