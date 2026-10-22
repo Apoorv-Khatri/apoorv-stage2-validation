@@ -46654,7 +46654,16 @@
     "L4577": "1",
     "M4577": "n/a",
     "N4577": "p.314: equalize child-related part-time amenity in abstract jobs to routine jobs versus fitted value; proportion working part-time in abstract jobs at age30 rises 7%. Structural counterfactual.",
-    "O4577": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
+    "O4577": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator.",
+    "A4578": "MWF8TE4P",
+    "B4578": "h3",
+    "I4578": "1",
+    "J4578": "Other",
+    "K4578": "1",
+    "L4578": "1",
+    "M4578": "n/a",
+    "N4578": "Figure4b p.324–325: unanticipated introduction of EUR6000 birth transfer in year4 versus no-transfer path; annual births in overlapping cohorts aged15–60; entry/exit each year. First-year 4.5%, diminishing long-run effect.",
+    "O4578": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119605,7 +119614,14 @@
     "H10690": "0",
     "I10690": "unknown",
     "J10690": "none",
-    "K10690": "Proportion of part-time work in abstract jobs at age30; p.314, +7% under part-time amenity equalization."
+    "K10690": "Proportion of part-time work in abstract jobs at age30; p.314, +7% under part-time amenity equalization.",
+    "A10691": "MWF8TE4P",
+    "B10691": "h3",
+    "C10691": "hy1",
+    "H10691": "0",
+    "I10691": "unknown",
+    "J10691": "none",
+    "K10691": "Annual aggregate births across overlapping cohorts aged15–60; Figure4b."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -228263,7 +228279,18 @@
     "O9688": "1",
     "P9688": "unknown",
     "Q9688": "p.314: abstract-job part-time proportion at age30 rises7% if part-time amenity equals routine; fitted abstract-job part-time proportion benchmark.",
-    "R9688": "Conditioning on working in abstract jobs can change with equalization; fixed target/weights not established."
+    "R9688": "Conditioning on working in abstract jobs can change with equalization; fixed target/weights not established.",
+    "A9689": "MWF8TE4P",
+    "B9689": "h3",
+    "C9689": "hc1",
+    "K9689": "1",
+    "L9689": "hy1",
+    "M9689": "outcome_mean",
+    "N9689": "1",
+    "O9689": "1",
+    "P9689": "1",
+    "Q9689": "Figure4b pp.324–325:4.5% more births in first policy year than annual no-policy baseline; entire normalized transition path retained once, no year-by-year invented coefficients.",
+    "R9689": "Same overlapping-cohort population under maintained model, no-transfer counterfactual baseline. Later effect versus first-year effect is not another qualifying level benchmark."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
