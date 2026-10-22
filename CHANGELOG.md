@@ -1105086,3 +1105086,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:10:28.853326+00:00 — Review MZW7RGVA h22: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10109",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10110",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10109",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10110",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10109",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10110",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10109",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10110",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10109",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10110",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10109",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10110",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10109",
+    "before": null,
+    "after": "Main Figure 3 p.441 and p.443 interpretation: race-profile offer-function contrast for groups 1/2, at common trial sentence; benchmark is displayed group 1 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid. At trial sentence 200 months, printed offers are 72.18/115.00 months (C.6 p.33 referring to main Figure3)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10110",
+    "before": null,
+    "after": "Main Figure 3 p.441 and p.443 interpretation: race-profile offer-function contrast for groups 1/2, at common trial sentence; benchmark is displayed group 2 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid. At trial sentence 200 months, printed offers are 72.18/115.00 months (C.6 p.33 referring to main Figure3)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10109",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10110",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10766",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10766",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10766",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10766",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10766",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10766",
+    "before": null,
+    "after": "Equilibrium settlement offer at a common potential trial sentence, in months."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4610",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4610",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4610",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4610",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4610",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4610",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4610",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4610",
+    "before": null,
+    "after": "Race-associated structural type/profile contrast → settlement offer at a common trial sentence; groups 1–2, short records/court-appointed counsel. Main Figure 3 pp.441–443, explained by Figure 4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4610",
+    "before": null,
+    "after": "Broad author-intention inclusion: author attributes longer offers to different latent type distributions. This is NOT a separately simulated pure-race switch or experimental discrimination effect. Model profiles bundle type distributions and estimated costs. No formal curve test does not erase the interpretation. Narrow heterogeneity-only exclusion remains an adjudicable alternative."
+  }
+]
+```
