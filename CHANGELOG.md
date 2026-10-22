@@ -1104369,3 +1104369,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:07:14.241469+00:00 — Review MZW7RGVA h15: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10759",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10759",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10759",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10759",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10759",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10759",
+    "before": null,
+    "after": "Assigned incarceration sentence, months, among observed active-incarceration cases. Code line678 restricts active==A; no imputed zero acquittal sentences in this regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4603",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4603",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4603",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4603",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4603",
+    "before": null,
+    "after": "Settlement versus trial → incarceration sentence months; Table III(1), Eq.(3.1). Printed coefficient(s): -39.6722."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4603",
+    "before": null,
+    "after": "The paper interprets plea negotiations as reducing sentences (p.423); Table III adjusts this contrast. Selection into settlement prevents a clean experimental interpretation. Same jointly estimated OLS Eq.(3.1), Table III(1), pp.425–427; code line678. Judge, county, year, offense and record dummies are controls. No separate OLS model is invented, no IV is implemented. Included-regressor causal reading relies on conditional comparability, not judge rotation alone. Supporting result; Table II descriptive mean elsewhere is not linked."
+  }
+]
+```
