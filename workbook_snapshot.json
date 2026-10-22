@@ -46799,7 +46799,16 @@
     "L4589": "0",
     "M4589": "n/a",
     "N4589": "Judge identity → incarceration-by-plea indicator, appendix Eq.(C.1), Table 13 (p.3). OLS with county/year/offense/criminal-history and personal controls.",
-    "O4589": "C.1 prose says any plea; Table 13 note and actual Stata lines 433–437,683 establish bargain2=plea AND active A. Preserve this source conflict; no randomized-assignment RCT claim."
+    "O4589": "C.1 prose says any plea; Table 13 note and actual Stata lines 433–437,683 establish bargain2=plea AND active A. Preserve this source conflict; no randomized-assignment RCT claim.",
+    "A4590": "MZW7RGVA",
+    "B4590": "h2",
+    "I4590": "1",
+    "J4590": "Other",
+    "K4590": "0",
+    "L4590": "0",
+    "M4590": "n/a",
+    "N4590": "Judge sentencing harshness → settlement propensity: Pearson correlation of estimated judge coefficients from sentence and settlement regressions, appendix C.1 p.2/fn.53; -0.23 non-homicide violent crimes, -0.18 all crimes.",
+    "O4590": "Author attributes variation to judges via rotation. Full statistic includes estimated-outcome SD normalization and two sets of estimated coefficients, not a linear OLS treatment slope. Supporting substantive model prediction, not assignment diagnostic."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120003,7 +120012,11 @@
     "A10718": "MZW7RGVA",
     "B10718": "h1",
     "C10718": "hy1",
-    "K10718": "Indicator for incarceration by plea bargain (bargain2); Table 13 note/code, versus broader prose definition."
+    "K10718": "Indicator for incarceration by plea bargain (bargain2); Table 13 note/code, versus broader prose definition.",
+    "A10719": "MZW7RGVA",
+    "B10719": "h2",
+    "C10719": "hy1",
+    "K10719": "Settlement propensity (incarceration plea indicator in code); reported statistic is cross-judge correlation of settlement and sentence coefficients."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

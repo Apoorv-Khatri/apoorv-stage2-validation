@@ -1079766,3 +1079766,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:00:57.826872+00:00 — Review MZW7RGVA h2: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10719",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10719",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10719",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10719",
+    "before": null,
+    "after": "Settlement propensity (incarceration plea indicator in code); reported statistic is cross-judge correlation of settlement and sentence coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4590",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4590",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4590",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4590",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4590",
+    "before": null,
+    "after": "Judge sentencing harshness → settlement propensity: Pearson correlation of estimated judge coefficients from sentence and settlement regressions, appendix C.1 p.2/fn.53; -0.23 non-homicide violent crimes, -0.18 all crimes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4590",
+    "before": null,
+    "after": "Author attributes variation to judges via rotation. Full statistic includes estimated-outcome SD normalization and two sets of estimated coefficients, not a linear OLS treatment slope. Supporting substantive model prediction, not assignment diagnostic."
+  }
+]
+```
