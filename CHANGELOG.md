@@ -1076037,3 +1076037,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:58:39.781381+00:00 — Review MZW7RGVA s3: source-audited coding and linked comparisons
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2720",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2721",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2722",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2723",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2724",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2720",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2721",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2722",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2723",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2724",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2720",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2721",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2722",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2723",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2724",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2720",
+    "before": null,
+    "after": "Inactive in this setting: fitted probability/mean levels assess model fit, not a separately reported trial-sentence effect; retain policy outcomes under s4–s6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2721",
+    "before": null,
+    "after": "Inactive in this setting: fitted probability/mean levels assess model fit, not a separately reported trial-sentence effect; retain policy outcomes under s4–s6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2722",
+    "before": null,
+    "after": "Inactive in this setting: fitted probability/mean levels assess model fit, not a separately reported trial-sentence effect; retain policy outcomes under s4–s6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2723",
+    "before": null,
+    "after": "Inactive in this setting: fitted probability/mean levels assess model fit, not a separately reported trial-sentence effect; retain policy outcomes under s4–s6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2724",
+    "before": null,
+    "after": "Inactive in this setting: fitted probability/mean levels assess model fit, not a separately reported trial-sentence effect; retain policy outcomes under s4–s6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1095",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1095",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1095",
+    "before": null,
+    "after": "Potential trial sentence (months) → equilibrium plea offer (months), Figure 3 and §§5–6; density-ratio inversion, constrained nonlinear spline criterion and MLE. Retain offer response, not Table VII goodness-of-fit outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1095",
+    "before": null,
+    "after": "No linear IV despite IV-like exclusion: smoothing weights selected by likelihood CV, density ratios and nonlinear inversion. Utility linearity is not estimator linearity. Figures 6–7 appendix are routine bandwidth robustness of this offer function."
+  }
+]
+```
