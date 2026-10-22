@@ -46699,7 +46699,16 @@
     "L4582": "0",
     "M4582": "n/a",
     "N4582": "Table4 p.315 and p.314: structural daily monetary cost of working when children are present, EUR31.1 if youngest age<=6 and EUR12.6 if older, entering household budget equation(1). Presence of children while working versus absent-child cost; two age regimes grouped.",
-    "O4582": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator. Include monetary cost explicitly attributed to work-and-children; do not promote discount factor/risk aversion to causal effects."
+    "O4582": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator. Include monetary cost explicitly attributed to work-and-children; do not promote discount factor/risk aversion to causal effects.",
+    "A4583": "MWF8TE4P",
+    "B4583": "h8",
+    "I4583": "1",
+    "J4583": "Other",
+    "K4583": "0",
+    "L4583": "0",
+    "M4583": "n/a",
+    "N4583": "p.324: simulations with various benefit levels, short-run fertility elasticity with respect to benefits approximately0.04. Continuous/multilevel benefit-dose estimand, distinct from binary EUR6000 policy; exact levels and elasticity calculation not reported.",
+    "O4583": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator. Scope limited to explicitly implemented elasticity; no invented dose grid or transfer of binary assignment label."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119748,7 +119757,14 @@
     "H10704": "0",
     "I10704": "unknown",
     "J10704": "none",
-    "K10704": "Daily monetary cost of working when children are present, Table4:31.1 euros ages<=6;12.6 euros older."
+    "K10704": "Daily monetary cost of working when children are present, Table4:31.1 euros ages<=6;12.6 euros older.",
+    "A10705": "MWF8TE4P",
+    "B10705": "h8",
+    "C10705": "hy1",
+    "H10705": "0",
+    "I10705": "unknown",
+    "J10705": "other",
+    "K10705": "Short-run aggregate fertility/birth response, reported as elasticity with respect to benefit level (about0.04), p.324. Exact scaling recipe and evaluated benefit points not given."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
