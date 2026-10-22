@@ -47024,7 +47024,16 @@
     "L4614": "0",
     "M4614": "n/a",
     "N4614": "Potential trial sentence t → defendant and prosecutor trial costs c(t)=alpha+beta*t; groups3–12; Appendix Table17 p.18, C.5 p.16.",
-    "O4614": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Both costs in sentence-equivalent months; slopes dimensionless."
+    "O4614": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Both costs in sentence-equivalent months; slopes dimensionless.",
+    "A4615": "MZW7RGVA",
+    "B4615": "h27",
+    "I4615": "1",
+    "J4615": "Other",
+    "K4615": "0",
+    "L4615": "0",
+    "M4615": "n/a",
+    "N4615": "Potential trial sentence t → defendant and prosecutor trial costs c(t)=alpha+beta*t; non-incarceration extension groups1–2; Appendix Table23 pp.34–35, C.6.",
+    "O4615": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Costs in expanded sentence-equivalent months; do not call these pure incarceration months."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120579,7 +120588,15 @@
     "A10772": "MZW7RGVA",
     "B10772": "h26",
     "C10772": "hy2",
-    "K10772": "Prosecutor trial cost as a function of potential trial sentence. Both costs in sentence-equivalent months; slopes dimensionless. Appendix Table17 p.18, C.5 p.16."
+    "K10772": "Prosecutor trial cost as a function of potential trial sentence. Both costs in sentence-equivalent months; slopes dimensionless. Appendix Table17 p.18, C.5 p.16.",
+    "A10773": "MZW7RGVA",
+    "B10773": "h27",
+    "C10773": "hy1",
+    "K10773": "Defendant trial cost as a function of potential trial sentence. Costs in expanded sentence-equivalent months; do not call these pure incarceration months. Appendix Table23 pp.34–35, C.6.",
+    "A10774": "MZW7RGVA",
+    "B10774": "h27",
+    "C10774": "hy2",
+    "K10774": "Prosecutor trial cost as a function of potential trial sentence. Costs in expanded sentence-equivalent months; do not call these pure incarceration months. Appendix Table23 pp.34–35, C.6."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

@@ -1106547,3 +1106547,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:12:57.813685+00:00 — Review MZW7RGVA h27: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10773",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10774",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10773",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10774",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10773",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10774",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10773",
+    "before": null,
+    "after": "Defendant trial cost as a function of potential trial sentence. Costs in expanded sentence-equivalent months; do not call these pure incarceration months. Appendix Table23 pp.34–35, C.6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10774",
+    "before": null,
+    "after": "Prosecutor trial cost as a function of potential trial sentence. Costs in expanded sentence-equivalent months; do not call these pure incarceration months. Appendix Table23 pp.34–35, C.6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4615",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4615",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4615",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4615",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4615",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4615",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4615",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4615",
+    "before": null,
+    "after": "Potential trial sentence t → defendant and prosecutor trial costs c(t)=alpha+beta*t; non-incarceration extension groups1–2; Appendix Table23 pp.34–35, C.6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4615",
+    "before": null,
+    "after": "Admit the empirically estimated and substantively interpreted cost response, including near-zero defendant slopes. Not automatic inclusion of mu/type-density parameters or a simulation of altered preferences. Actual full recovery is nonlinear density inversion/MLE, not an OLS cost regression. Costs in expanded sentence-equivalent months; do not call these pure incarceration months."
+  }
+]
+```
