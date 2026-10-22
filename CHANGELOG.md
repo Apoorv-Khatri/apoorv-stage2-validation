@@ -1108467,3 +1108467,390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:01:05.733709+00:00 — Review N2QYQYIJ h4: source-audited coding and linked comparisons
+
+63 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10135",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10136",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10137",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10138",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10135",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10136",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10137",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10138",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10135",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10136",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10137",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10138",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10136",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10137",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10138",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10135",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10136",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10137",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10138",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10135",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10136",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10137",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10138",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10136",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10137",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10138",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10135",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10136",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10137",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10138",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10135",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10136",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10137",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10138",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10135",
+    "before": null,
+    "after": "Appendix sec.6.1.2 p.61: aggregation-rule contrast 4.0% versus 3.3% per year, paired capital-income rule outcome level 3.3%. Output bias explicitly about 0.2 ppts; capital difference not separately printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10136",
+    "before": null,
+    "after": "Appendix sec.6.1.2 p.61: aggregation-rule contrast 4.0% versus 3.3% per year, paired investment rule outcome level 4.0%. Output bias explicitly about 0.2 ppts; capital difference not separately printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10137",
+    "before": null,
+    "after": "Appendix sec.6.1.2 p.61: aggregation-rule contrast 3.0% versus 2.8% per year, paired capital-income rule outcome level 2.8%. Output bias explicitly about 0.2 ppts; capital difference not separately printed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10138",
+    "before": null,
+    "after": "Appendix sec.6.1.2 p.61: aggregation-rule contrast 3.0% versus 2.8% per year, paired investment rule outcome level 3.0%. Output bias explicitly about 0.2 ppts; capital difference not separately printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10782",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10783",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10782",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10783",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10782",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10783",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10782",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10783",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10782",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10783",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10782",
+    "before": null,
+    "after": "BGP capital growth, percent per year: capital-income weights 3.3%; investment weights 4.0%, appendix p.61."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10783",
+    "before": null,
+    "after": "BGP output growth in consumption units, percent per year: capital-income weights 2.8%; investment weights 3.0%; reported bias about 0.2 percentage points, appendix p.61."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4620",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4620",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4620",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4620",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4620",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4620",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4620",
+    "before": null,
+    "after": "Investment-expenditure-share capital aggregation versus capital-income-share aggregation; nonfinancial corporate sector 1950-2016, appendix sec.6.1.2 pp.59-61."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4620",
+    "before": null,
+    "after": "Appendix pp59-61: implemented capital-income shares recovered from output compensation and user-cost equations, then alternative aggregation/BGP recovery. Full reported calculation is outcome-adaptive; conditional fixed-share formula linearity does not establish an OLS effect estimator. Two rules, not random assignment. Same underlying nonfinancial corporate period target."
+  }
+]
+```
