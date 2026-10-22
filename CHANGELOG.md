@@ -1103694,3 +1103694,678 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:06:47.079338+00:00 — Review MZW7RGVA h14: source-audited coding and linked comparisons
+
+111 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10101",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10102",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10103",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10104",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10105",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10106",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10107",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10108",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10101",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10102",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10103",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10104",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10105",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10106",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10107",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10108",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10101",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10102",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10103",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10104",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10105",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10106",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10107",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10108",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10107",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10108",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10101",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10102",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10103",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10104",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10105",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10106",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10107",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10108",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10101",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10102",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10103",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10104",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10105",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10106",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10107",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10108",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10101",
+    "before": null,
+    "after": "Appendix Table 30 p.48, group 1: no-bargain bounds [28.64% , 36.76%] against current fitted mean 38.33%; same group and model. Probability in percent; unconditional expected sentence in months."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10102",
+    "before": null,
+    "after": "Appendix Table 30 p.48, group 1: no-bargain bounds [39.62 , 51.11] against current fitted mean 23.59; same group and model. Probability in percent; unconditional expected sentence in months."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10103",
+    "before": null,
+    "after": "Appendix Table 30 p.48, group 2: no-bargain bounds [38.14% , 43.43%] against current fitted mean 43.47%; same group and model. Probability in percent; unconditional expected sentence in months."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10104",
+    "before": null,
+    "after": "Appendix Table 30 p.48, group 2: no-bargain bounds [27.66 , 31.47] against current fitted mean 19.41; same group and model. Probability in percent; unconditional expected sentence in months."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10105",
+    "before": null,
+    "after": "appendix.txt PDF p.48, group 1, outcome column 1 (lines 3124/3127): same policy-minus-current contrast [28.64% , 36.76%] versus 38.33%, now paired with the displayed POLICY endpoint mean [28.64% , 36.76%]. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10106",
+    "before": null,
+    "after": "appendix.txt PDF p.48, group 1, outcome column 2 (lines 3125/3128): same policy-minus-current contrast [39.62 , 51.11] versus 23.59, now paired with the displayed POLICY endpoint mean [39.62 , 51.11]. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10107",
+    "before": null,
+    "after": "appendix.txt PDF p.48, group 2, outcome column 1 (lines 3131/3134): same policy-minus-current contrast [38.14% , 43.43%] versus 43.47%, now paired with the displayed POLICY endpoint mean [38.14% , 43.43%]. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10108",
+    "before": null,
+    "after": "appendix.txt PDF p.48, group 2, outcome column 2 (lines 3132/3135): same policy-minus-current contrast [27.66 , 31.47] versus 19.41, now paired with the displayed POLICY endpoint mean [27.66 , 31.47]. Bound interval remains one joint range, not a lower/upper grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10101",
+    "before": null,
+    "after": "Bound interval retained jointly; no separate endpoint grid. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10102",
+    "before": null,
+    "after": "Bound interval retained jointly; no separate endpoint grid. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10103",
+    "before": null,
+    "after": "Bound interval retained jointly; no separate endpoint grid. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10104",
+    "before": null,
+    "after": "Bound interval retained jointly; no separate endpoint grid. "
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10105",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10106",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10107",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10108",
+    "before": null,
+    "after": "Policy endpoint is eligible as deliberately paired same-outcome level, but is not the untreated/current mean. No author normalization by this endpoint is claimed. Alternative: oriented-current-only eligibility would omit this additional benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10757",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10758",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10757",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10758",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10757",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10758",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10757",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10758",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10757",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10758",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10757",
+    "before": null,
+    "after": "Probability of conviction, reported bound interval in percent; nonlinear-utility extension"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10758",
+    "before": null,
+    "after": "Unconditional expected sentence, bound interval in months; nonlinear-utility extension"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4602",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4602",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4602",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4602",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4602",
+    "before": null,
+    "after": "Ban plea bargaining versus current regime, nonlinear-utility extension; appendix p.48."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4602",
+    "before": null,
+    "after": "Nonlinear structural bounds, not linear IV or RCT. Same identification assumptions and unidentified-tail bounds as main model."
+  }
+]
+```
