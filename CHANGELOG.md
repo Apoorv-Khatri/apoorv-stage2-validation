@@ -1108854,3 +1108854,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T03:01:34.708466+00:00 — Review N2QYQYIJ h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10784",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10784",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10784",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10784",
+    "before": null,
+    "after": "GDP growth derivative with respect to sectoral composite input growth; sectoral multipliers, including FIRE+Housing aggregate, Table A13."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4621",
+    "before": null,
+    "after": "N2QYQYIJ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4621",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4621",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4621",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4621",
+    "before": null,
+    "after": "Sectoral source-growth effects on GDP under alternative value-added share windows and IO matrices; Table A13 pp.78-79."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4621",
+    "before": null,
+    "after": "Calibrated structural multipliers for all listed sectors and FIRE+Housing combined addendum. Do not turn alternative multiplier estimates into level benchmarks. PBS benchmark printed 0.24 vs main Table4 0.25; prose last15 2002-2016 conflicts with 1950-2018 sample. Code uses last15 observations, but no execution resolves numeric conflict."
+  }
+]
+```
