@@ -1070883,3 +1070883,246 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:18:40.035134+00:00 — Review MWF8TE4P s9: source-audited coding and linked comparisons
+
+39 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2710",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2711",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2712",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2713",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2714",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2715",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2716",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2717",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2710",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2711",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2712",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2713",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2714",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2715",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2716",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2717",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2710",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2711",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2712",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2713",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2714",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2715",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2716",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2717",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2710",
+    "before": null,
+    "after": "Age-specific simulated probability of birth under policy/no-policy difference (Figure4a); a probability path, not an individual binary realized birth."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2711",
+    "before": null,
+    "after": "duplicate/moved scope: active outcome(s) at h3/hy1. Original record preserved inactive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2712",
+    "before": null,
+    "after": "duplicate/moved scope: active outcome(s) at h5/hy1–hy3. Original record preserved inactive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2713",
+    "before": null,
+    "after": "duplicate/moved scope: active outcome(s) at h5/hy4–hy5. Original record preserved inactive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2714",
+    "before": null,
+    "after": "duplicate/moved scope: active outcome(s) at h5/hy6. Original record preserved inactive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2715",
+    "before": null,
+    "after": "duplicate/moved scope: active outcome(s) at h5/hy7–hy8. Original record preserved inactive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2716",
+    "before": null,
+    "after": "duplicate/moved scope: active outcome(s) at h5/hy9–hy10. Original record preserved inactive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2717",
+    "before": null,
+    "after": "duplicate/moved scope: active outcome(s) at h4/hy1. Original record preserved inactive."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1092",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1092",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1092",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1092",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1092",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1092",
+    "before": null,
+    "after": "Figure 4a pp.324–325: EUR6000 birth-transfer policy known at age15 versus no policy; age-specific birth probability. Aggregate unanticipated transition, assets by initial cohort, and Table8 endpoints separated as h3–h5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1092",
+    "before": null,
+    "after": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator."
+  }
+]
+```
