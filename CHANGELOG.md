@@ -1072794,3 +1072794,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T01:21:51.357554+00:00 — Review MWF8TE4P h7: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10704",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10704",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10704",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10704",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10704",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10704",
+    "before": null,
+    "after": "Daily monetary cost of working when children are present, Table4:31.1 euros ages<=6;12.6 euros older."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4582",
+    "before": null,
+    "after": "MWF8TE4P"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4582",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4582",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4582",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4582",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4582",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4582",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4582",
+    "before": null,
+    "after": "Table4 p.315 and p.314: structural daily monetary cost of working when children are present, EUR31.1 if youngest age<=6 and EUR12.6 if older, entering household budget equation(1). Presence of children while working versus absent-child cost; two age regimes grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4582",
+    "before": null,
+    "after": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator. Include monetary cost explicitly attributed to work-and-children; do not promote discount factor/risk aversion to causal effects."
+  }
+]
+```

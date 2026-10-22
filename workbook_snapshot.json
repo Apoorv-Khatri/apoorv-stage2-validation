@@ -46690,7 +46690,16 @@
     "L4581": "0",
     "M4581": "n/a",
     "N4581": "Footnote29 p.313: illustrative identifying fixed-effects wage-interruption regressions on model-simulated careers, changes in log wages on time out by occupation allowing nonlinearities. Estimates understate atrophy while preserving occupational ranking; no numeric coefficients given.",
-    "O4581": "Actual auxiliary FE regression implementation is explicitly described and causally interpreted as atrophy estimation, unlike generic Table2 moment fitting. Selection back into work remains; that caveat does not erase inclusion. Outcome is simulated log wage change; conditional linear regression in that reported outcome, not the upstream SMM data generator. No separately estimated no-FE variant established."
+    "O4581": "Actual auxiliary FE regression implementation is explicitly described and causally interpreted as atrophy estimation, unlike generic Table2 moment fitting. Selection back into work remains; that caveat does not erase inclusion. Outcome is simulated log wage change; conditional linear regression in that reported outcome, not the upstream SMM data generator. No separately estimated no-FE variant established.",
+    "A4582": "MWF8TE4P",
+    "B4582": "h7",
+    "I4582": "1",
+    "J4582": "Other",
+    "K4582": "1",
+    "L4582": "0",
+    "M4582": "n/a",
+    "N4582": "Table4 p.315 and p.314: structural daily monetary cost of working when children are present, EUR31.1 if youngest age<=6 and EUR12.6 if older, entering household budget equation(1). Presence of children while working versus absent-child cost; two age regimes grouped.",
+    "O4582": "Nonlinear dynamic discrete-choice model, simulated method of moments: backward induction, endogenous choices and jointly recovered latent types (pp.307–310; Appendix A3–A16). Not OLS merely because the wage equation is affine in log wages; no fixed weight linear map from reported observed outcomes to these parameters/counterfactuals. Regional detrending and the IV auxiliary moment do not change the implemented structural estimator. Include monetary cost explicitly attributed to work-and-children; do not promote discount factor/risk aversion to causal effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -119732,7 +119741,14 @@
     "H10703": "0",
     "I10703": "unknown",
     "J10703": "other",
-    "K10703": "Change in simulated log wages following interruptions, footnote29 p.313; regressed on interruption duration by occupation."
+    "K10703": "Change in simulated log wages following interruptions, footnote29 p.313; regressed on interruption duration by occupation.",
+    "A10704": "MWF8TE4P",
+    "B10704": "h7",
+    "C10704": "hy1",
+    "H10704": "0",
+    "I10704": "unknown",
+    "J10704": "none",
+    "K10704": "Daily monetary cost of working when children are present, Table4:31.1 euros ages<=6;12.6 euros older."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
