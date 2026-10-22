@@ -1079940,3 +1079940,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:01:51.229322+00:00 — Review MZW7RGVA h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10721",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10721",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10721",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10721",
+    "before": null,
+    "after": "Prosecutor expected payoff in sentence-equivalent months conditional on trial sentence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4592",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4592",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4592",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4592",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4592",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4592",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4592",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4592",
+    "before": null,
+    "after": "Trial sentence → prosecutor expected equilibrium payoff, appendix Figures 16–17 pp.26–27; groups 1–12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4592",
+    "before": null,
+    "after": "Payoff net of trial costs, unconditional on bargaining success, from optimization (4.2). Retained substantive response curve; group 9 negative rather than imposing a positive graph zero."
+  }
+]
+```

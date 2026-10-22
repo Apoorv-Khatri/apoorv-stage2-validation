@@ -46817,7 +46817,16 @@
     "L4591": "0",
     "M4591": "n/a",
     "N4591": "Trial sentence → settlement offer function for covariate groups 3–12, appendix Figures 10–11 pp.20–21; same nonlinear estimator as main Figure 3.",
-    "O4591": "Separate reported appendix location; routine group variants retained together. No digitized point grid."
+    "O4591": "Separate reported appendix location; routine group variants retained together. No digitized point grid.",
+    "A4592": "MZW7RGVA",
+    "B4592": "h4",
+    "I4592": "1",
+    "J4592": "Other",
+    "K4592": "0",
+    "L4592": "0",
+    "M4592": "n/a",
+    "N4592": "Trial sentence → prosecutor expected equilibrium payoff, appendix Figures 16–17 pp.26–27; groups 1–12.",
+    "O4592": "Payoff net of trial costs, unconditional on bargaining success, from optimization (4.2). Retained substantive response curve; group 9 negative rather than imposing a positive graph zero."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120029,7 +120038,11 @@
     "A10720": "MZW7RGVA",
     "B10720": "h3",
     "C10720": "hy1",
-    "K10720": "Equilibrium settlement offer, months; groups 3–12."
+    "K10720": "Equilibrium settlement offer, months; groups 3–12.",
+    "A10721": "MZW7RGVA",
+    "B10721": "h4",
+    "C10721": "hy1",
+    "K10721": "Prosecutor expected payoff in sentence-equivalent months conditional on trial sentence."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
