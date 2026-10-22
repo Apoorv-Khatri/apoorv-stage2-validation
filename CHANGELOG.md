@@ -1105323,3 +1105323,768 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:10:59.307658+00:00 — Review MZW7RGVA h23: source-audited coding and linked comparisons
+
+126 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10111",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10112",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10113",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10114",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10115",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10116",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10117",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10118",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10119",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10120",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10111",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10112",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10113",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10114",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10115",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10116",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10117",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10118",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10119",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10120",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10111",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10112",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10113",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10114",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10115",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10116",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10117",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10118",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10119",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10120",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10111",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10112",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10113",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10114",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10115",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10116",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10117",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10118",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10119",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10120",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10111",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10112",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10113",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10114",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10115",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10116",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10117",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10118",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10119",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10120",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10111",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10112",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10113",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10114",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10115",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10116",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10117",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10118",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10119",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10120",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10111",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 3/4, at common trial sentence; benchmark is displayed group 3 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10112",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 3/4, at common trial sentence; benchmark is displayed group 4 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10113",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 5/6, at common trial sentence; benchmark is displayed group 5 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10114",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 5/6, at common trial sentence; benchmark is displayed group 6 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10115",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 7/8, at common trial sentence; benchmark is displayed group 7 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10116",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 7/8, at common trial sentence; benchmark is displayed group 8 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10117",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 9/10, at common trial sentence; benchmark is displayed group 9 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10118",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 9/10, at common trial sentence; benchmark is displayed group 10 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10119",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 11/12, at common trial sentence; benchmark is displayed group 11 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10120",
+    "before": null,
+    "after": "Appendix C.5 p.16 and Figures 10–11 pp.20–21: race-profile offer-function contrast for groups 11/12, at common trial sentence; benchmark is displayed group 12 optimal-offer function on that same scale. Qualitative path pairing; no digitized grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10111",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10112",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10113",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10114",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10115",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10116",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10117",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10118",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10119",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10120",
+    "before": null,
+    "after": "Deterministic conditional optimal offer level, not population-average offer or a different-outcome 45-degree line. Both displayed profile endpoints admitted symmetrically. C.5 explicitly invites consecutive odd/even comparisons and preserves exceptional groups7/8; no uniform sign imposed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10767",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10767",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10767",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10767",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10767",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10767",
+    "before": null,
+    "after": "Equilibrium settlement offer at a common potential trial sentence, in months."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4611",
+    "before": null,
+    "after": "MZW7RGVA"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4611",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4611",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4611",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4611",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4611",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4611",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4611",
+    "before": null,
+    "after": "Race-associated structural type/profile contrast → settlement offer at a common trial sentence; successive race pairs 3/4,5/6,7/8,9/10,11/12. Appendix C.5 p.16, Figures 10–13 pp.20–23."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4611",
+    "before": null,
+    "after": "Broad author-intention inclusion: author attributes longer offers to different latent type distributions. This is NOT a separately simulated pure-race switch or experimental discrimination effect. Model profiles bundle type distributions and estimated costs. No formal curve test does not erase the interpretation. Narrow heterogeneity-only exclusion remains an adjudicable alternative."
+  }
+]
+```
