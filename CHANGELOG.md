@@ -1106775,3 +1106775,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-22T02:54:51.149592+00:00 — Review N2QYQYIJ s1: source-audited coding and linked comparisons
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R742",
+    "before": null,
+    "after": "No focal causal effect: GDP volatility 2.5% and time-series growth averages are descriptive/preprocessing; not a linked unemployment coefficient benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2738",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2738",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2738",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2738",
+    "before": null,
+    "after": "Spurious parent: cyclical-adjustment preprocessing, not a substantive unemployment effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1099",
+    "before": null,
+    "after": "Sec. II pp.3290-3292: unemployment changes proxy cyclical utilization; residualization is preprocessing, not an interpreted unemployment intervention coefficient. Reject on parameter-specific intention, not credibility."
+  }
+]
+```
