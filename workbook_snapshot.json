@@ -47936,7 +47936,16 @@
     "L4692": "0",
     "M4692": "n/a",
     "N4692": "Nearby island indicator → contemporary 2000/2010 population; Table 4 modern-period columns only (basic geographic controls, optional 1940 roads). Historical placebo columns excluded.",
-    "O4692": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
+    "O4692": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here.",
+    "A4693": "R3NSZAZE",
+    "B4693": "h9",
+    "I4693": "1",
+    "J4693": "FE",
+    "K4693": "0",
+    "L4693": "0",
+    "M4693": "n/a",
+    "N4693": "White-sand share → contemporary 2000/2010 population; Table 4 modern-period columns only (basic geographic controls, optional 1940 roads). Historical placebo columns excluded.",
+    "O4693": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123443,7 +123452,15 @@
     "H11033": "0",
     "I11033": "0",
     "J11033": "log",
-    "K11033": "Log contemporary population, panel B assigns log(1) only to historical zeros; contemporary observations positive."
+    "K11033": "Log contemporary population, panel B assigns log(1) only to historical zeros; contemporary observations positive.",
+    "A11034": "R3NSZAZE",
+    "B11034": "h9",
+    "C11034": "hy1",
+    "K11034": "IHS contemporary municipality population; panel A.",
+    "A11035": "R3NSZAZE",
+    "B11035": "h9",
+    "C11035": "hy2",
+    "K11035": "Log contemporary population, panel B assigns log(1) only to historical zeros; contemporary observations positive."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
