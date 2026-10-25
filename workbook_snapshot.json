@@ -48525,7 +48525,16 @@
     "L4752": "0",
     "M4752": "unknown",
     "N4752": "Historical income growth contribution to tourism demand/GDP; p.2289 nonhomotheticity calculation.",
-    "O4752": "Uses Engel slope .0033 with 135% historical real income growth to report .3 percentage points of tourism GDP change. Outcome is a derived aggregate share/change rather than household share; complete mapping/weights not established, retain method unknown rather than invent OLS or nonlinear recovery."
+    "O4752": "Uses Engel slope .0033 with 135% historical real income growth to report .3 percentage points of tourism GDP change. Outcome is a derived aggregate share/change rather than household share; complete mapping/weights not established, retain method unknown rather than invent OLS or nonlinear recovery.",
+    "A4753": "R3NSZAZE",
+    "B4753": "h69",
+    "I4753": "1",
+    "J4753": "Other",
+    "K4753": "1",
+    "L4753": "0",
+    "M4753": "n/a",
+    "N4753": "All-tourism counterfactual allowing observed small aggregate trade deficit, allocated to regions by GDP.",
+    "O4753": "Main fn.39 p.2276: implemented results remain stable, no numerical gain printed. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-tourism mean utility, not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124710,7 +124719,14 @@
     "A11157": "R3NSZAZE",
     "B11157": "h68",
     "C11157": "hy1",
-    "K11157": "Income-driven contribution to long-run tourism GDP change, reported .3 percentage points."
+    "K11157": "Income-driven contribution to long-run tourism GDP change, reported .3 percentage points.",
+    "A11158": "R3NSZAZE",
+    "B11158": "h69",
+    "C11158": "hy1",
+    "H11158": "0",
+    "I11158": "unknown",
+    "J11158": "other",
+    "K11158": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
