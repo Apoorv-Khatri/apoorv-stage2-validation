@@ -48129,7 +48129,16 @@
     "L4708": "0",
     "M4708": "n/a",
     "N4708": "Hotel sales → local outcomes; A.8 cols.2–5 substantive robustness: additional coastal elevation/fishery controls and excluded rating-origin locations.",
-    "O4708": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Repeated baseline columns deduplicated; controls/sample variants grouped within this result location."
+    "O4708": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Repeated baseline columns deduplicated; controls/sample variants grouped within this result location.",
+    "A4709": "R3NSZAZE",
+    "B4709": "h25",
+    "I4709": "1",
+    "J4709": "IV",
+    "K4709": "0",
+    "L4709": "0",
+    "M4709": "n/a",
+    "N4709": "Hotel sales → local outcomes; A.9 substantive robustness: crime controls.",
+    "O4709": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Repeated baseline columns deduplicated; controls/sample variants grouped within this result location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123931,7 +123940,15 @@
     "A11083": "R3NSZAZE",
     "B11083": "h24",
     "C11083": "hy2",
-    "K11083": "Log municipality population, population census 2000/2010."
+    "K11083": "Log municipality population, population census 2000/2010.",
+    "A11084": "R3NSZAZE",
+    "B11084": "h25",
+    "C11084": "hy1",
+    "K11084": "Log municipality employment, population census 2000/2010.",
+    "A11085": "R3NSZAZE",
+    "B11085": "h25",
+    "C11085": "hy2",
+    "K11085": "Log municipality population, population census 2000/2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
