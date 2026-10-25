@@ -1115877,3 +1115877,336 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T06:33:43.022406+00:00 — Review QHATH8UY s3: source-audited coding and linked comparisons
+
+54 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10186",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10187",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10188",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10189",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10186",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10187",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10188",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10189",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10186",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10187",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10188",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10189",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10186",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10187",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10188",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10189",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10186",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10187",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10188",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10189",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10186",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10187",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10188",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10189",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10186",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10187",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10188",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10189",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10188",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10189",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10186",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10187",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10188",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10189",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10186",
+    "before": null,
+    "after": "Fig.5(b), p.930: PD empirical median intended-entry endpoint paired with its theoretical earliest risk-dominant-entry level; printed plot/prose qualitative comparison, no digitized value. These are payoff-treatment endpoints within fixed protocol, including the PC null."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10187",
+    "before": null,
+    "after": "Fig.5(b), p.930: L-PD empirical median intended-entry endpoint paired with its theoretical earliest risk-dominant-entry level; printed plot/prose qualitative comparison, no digitized value. These are payoff-treatment endpoints within fixed protocol, including the PC null."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10188",
+    "before": null,
+    "after": "Fig.5(b), p.930: PC empirical median intended-entry endpoint paired with its theoretical earliest risk-dominant-entry level; printed plot/prose qualitative comparison, no digitized value. These are payoff-treatment endpoints within fixed protocol, including the PC null."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10189",
+    "before": null,
+    "after": "Fig.5(b), p.930: L-PC empirical median intended-entry endpoint paired with its theoretical earliest risk-dominant-entry level; printed plot/prose qualitative comparison, no digitized value. These are payoff-treatment endpoints within fixed protocol, including the PC null."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10186",
+    "before": null,
+    "after": "Same-outcome theoretical levels qualify under retained model-comparison policy. No multiplication into crossed arm-by-benchmark grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10187",
+    "before": null,
+    "after": "Same-outcome theoretical levels qualify under retained model-comparison policy. No multiplication into crossed arm-by-benchmark grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10188",
+    "before": null,
+    "after": "Same-outcome theoretical levels qualify under retained model-comparison policy. No multiplication into crossed arm-by-benchmark grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10189",
+    "before": null,
+    "after": "Same-outcome theoretical levels qualify under retained model-comparison policy. No multiplication into crossed arm-by-benchmark grid."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2772",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2772",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2772",
+    "before": null,
+    "after": "Intended entry-time distribution summarized by subject-wise Kaplan–Meier/product-limit median and treatment median thereof, normalized by period duration (fraction in prose, percent on Figs.3–4 axes). Not the raw first-entry outcome alone. Full-procedure nonlinear statistic. Exact zero mass in this constructed outcome is not established by a curve at the origin."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1116",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1116",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1116",
+    "before": null,
+    "after": "pp.924–926, footnote 12; Analysis.R lines 36–85: product-limit recovery, subject medians and treatment medians are nonlinear in underlying entry times. Experimental assignment is not itself a linear RCT estimator. Random invitation/rematching is explicit; random assignment to protocols is not explicitly established. Conditional ECDF means of fixed constructed subject medians are linear in threshold indicators, but the full recovery is outcome-adaptive. No OLS/identifying-FE implementation. Fig.5(b), pp.930–932: retain both the PD effect and PC null. Validation materially supports the central strategic-uncertainty conclusion (abstract, introduction pp.917–918, conclusion p.932); diagnostic caption does not make substantive payoff treatment effects diagnostic-only."
+  }
+]
+```
