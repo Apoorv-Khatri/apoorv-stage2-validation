@@ -1156215,3 +1156215,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T13:20:18.239818+00:00 — Review R3NSZAZE h14: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11041",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11041",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11041",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11041",
+    "before": null,
+    "after": "Log municipality population in ten censuses 1921–2010; coefficient on log arrivals interacted with local attractiveness, not an estimated population-growth dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4698",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4698",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4698",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4698",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4698",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4698",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4698",
+    "before": null,
+    "after": "Ruins indicator × log national tourist arrivals → log municipality population; A.7 OLS cols.9–10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4698",
+    "before": null,
+    "after": "A.7; municipality and coast-by-period identifying FE, controls×year variants. Continuous tourism exposure."
+  }
+]
+```
