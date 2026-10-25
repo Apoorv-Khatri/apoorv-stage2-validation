@@ -1149246,3 +1149246,282 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T07:25:37.478442+00:00 — Review QL93W8JQ h19: source-audited coding and linked comparisons
+
+45 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10967",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10968",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10969",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10970",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10971",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10967",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10968",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10969",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10970",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10971",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10967",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10968",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10969",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10970",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10971",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10967",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10968",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10969",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10970",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10971",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10967",
+    "before": null,
+    "after": "Indicator for intending to go to university."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10968",
+    "before": null,
+    "after": "Indicator for aspiring to major in science at university. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10969",
+    "before": null,
+    "after": "Indicator for aspiring to major in engineering. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10970",
+    "before": null,
+    "after": "Indicator for aspiring to major in medicine. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10971",
+    "before": null,
+    "after": "Indicator for aspiring to a non-STEM major (social sciences/humanities). Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E129",
+    "before": null,
+    "after": "DONE — Full available-source review of39-page supplied article and official29-page AEA appendix; independently re-extracted and audited. Replication ICPSR194462/V1 remains Cloudflare-blocked, no archive/code inspection or empirical replication claimed. Parent accepts local explicit suggestive-rather-than-causal disclaimer for preferred-booklet-excluded retention consistently across all variants; six original outcomes inactive,42 printed effects/means and broad-intention inclusion alternative preserved outside arrays, B14B headers unresolved. Figure3 logistic Other distinct from actual linear randomized-assignment estimates; conditional reported-outcome domain retained, full rawdata LASSO/normalizer alternative explicit. No-selected-covariate notes corrected without fake OLS/FE splits. University-major preferences conditional on intending university:28 outcome scopes corrected,20 shortterm mean alignments unknown rather than established match; longterm IPW and postselection separately unresolved, samecolumn mean eligibility retained. s6/s7/h5 main roles follow introduction; supporting teacherknowledge/networkstructure nulls retained with unknown methods, no invented zero or inherited implementation. Study2-only criticalthinking and halfhalf h14 restrictions explicit.371 comparisons source-position checked,202 mean and169 SD; zero means not divisors, rawtoken ratios distinct standardized scales. Figure4 actual24labels only; FigureB3 aspiration scopes no digitization and overlapping outcomes deduplicated. Preserve attritioncounts, teacherpvalues, Fig3 .034/3.3pp, Fig4 lastbin, Table7 units, schoolcounts and B14B source conflicts. Original model fields/IDs/links preserved. No omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4669",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4669",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4669",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4669",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4669",
+    "before": null,
+    "after": "Online Figure B3 p.18: separately displayed Study 1 and Study 2 short-term school-assignment effects on university/science/engineering/medical/non-STEM aspirations. Other Figure B3 outcomes repeat Tables B7-B8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4669",
+    "before": null,
+    "after": "Linear ITT under general equation and Table 7 implementation; figure does not print coefficients. No numerical graph digitization or effect-zero benchmark; the two study panels are grouped routine sample variants at the same location."
+  }
+]
+```
