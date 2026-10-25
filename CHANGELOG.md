@@ -1126713,3 +1126713,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T07:18:04.653929+00:00 — Review QL93W8JQ h4: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10856",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10857",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10858",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10859",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10856",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10857",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10858",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10859",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10856",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10857",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10858",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10859",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10856",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10857",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10858",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10859",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10856",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10857",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10858",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10859",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10856",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10857",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10858",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10859",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10856",
+    "before": null,
+    "after": "Network density; fn21 p.1196. Aggregation/scale not specified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10857",
+    "before": null,
+    "after": "Number of friendship ties; fn21 p.1196. Aggregation/scale not specified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10858",
+    "before": null,
+    "after": "Number of isolated students; fn21 p.1196. Aggregation/scale not specified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10859",
+    "before": null,
+    "after": "Number of reciprocal ties; fn21 p.1196. Aggregation/scale not specified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4654",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4654",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4654",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4654",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4654",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4654",
+    "before": null,
+    "after": "Footnote 21 p.1196: school-assignment null effects on friendship network density, number of friendship ties, number of isolated students, and number of reciprocal ties."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4654",
+    "before": null,
+    "after": "Authors explicitly report implemented absence of network-structure impact, supporting peer-learning interpretation. Estimator, aggregation and scale are not supplied; do not infer a regression or numerical zero."
+  }
+]
+```
