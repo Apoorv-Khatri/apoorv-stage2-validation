@@ -1150233,3 +1150233,324 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:24:30.786250+00:00 — Review QW28FTUN s3: source-audited coding and linked comparisons
+
+52 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10573",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10574",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10575",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10573",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10574",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10575",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10573",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10574",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10575",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10573",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10574",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10575",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L772",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10573",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10574",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10575",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M772",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10573",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10574",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10575",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10574",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10575",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P772",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10573",
+    "before": null,
+    "after": "p.2707 Figure 11(a): tau=+1 internal bilateral-flow response, author-stated 15% of pre-window mean 7.4% (A19; linked B19 0.07404). Distinct horizon, not new source-calculated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10574",
+    "before": null,
+    "after": "p.2707 Figure 11(a): tau=+2 internal bilateral-flow response, author-stated 20% of pre-window mean 7.4% (A19; linked B19 0.07404). Distinct horizon, not new source-calculated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10575",
+    "before": null,
+    "after": "p.2707 Figure 11(a): tau=+3 internal bilateral-flow response, author-stated 20% of pre-window mean 7.4% (A19; linked B19 0.07404). Distinct horizon, not new source-calculated effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q772",
+    "before": null,
+    "after": "p.2707 Figure 11(a): tau=0 internal bilateral-flow response, author-stated 6.8% of pre-window internal mean 7.4%; final A19 cross-reference (publication-linked B19 gives 0.07404 over [-3,0)). Other horizons separately hc1-hc3."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10573",
+    "before": null,
+    "after": "Own pre-event mean is eligible; equality to the post-event untreated target with the estimator weights is not established. DiD parallel trends does not establish stationary outcome levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10574",
+    "before": null,
+    "after": "Own pre-event mean is eligible; equality to the post-event untreated target with the estimator weights is not established. DiD parallel trends does not establish stationary outcome levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10575",
+    "before": null,
+    "after": "Own pre-event mean is eligible; equality to the post-event untreated target with the estimator weights is not established. DiD parallel trends does not establish stationary outcome levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R772",
+    "before": null,
+    "after": "Eligible own pre-event outcome mean; contemporaneous untreated target/weights not established, so alignment unknown rather than automatic 1 or 0."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2845",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2845",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2845",
+    "before": null,
+    "after": "Both internal and external partner strata of Bilateral worker flow from origin firm k to shocked destination firm j, measured as the ratio of workers hired by j from k in year t to the total number of workers hired by j in year t. Equation (5)/A20 for s3; equation (6)/A24 for s6. Origin affiliation fixed pre-event; not a separate randomized origin treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1126",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1126",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1126",
+    "before": null,
+    "after": "Equation (5), Figure 11(a), final Appendix A20 / publication-linked B20: closure effects on bilateral worker-flow shares, estimated jointly for internal and external origin partners with pair FE and flow-type year effects. Figure 11(b)/A21 spatial interaction is h3 and A21 sector interaction is h4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1126",
+    "before": null,
+    "after": "Binary competitor-closure exposure; identifying firm/pair FE do not override conventional DiD. Linear in reported FTE/CapEx/share outcomes conditional on design. Diagnostic leads excluded, substantive post-event nulls retained. Linked B20 displays only two columns although its note refers to unseen robustness columns (3)-(8): sector trends, stricter closure and shorter window remain held implementation details, not certified additional results."
+  }
+]
+```
