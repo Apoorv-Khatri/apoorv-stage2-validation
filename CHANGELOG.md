@@ -1151205,3 +1151205,318 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:26:29.649591+00:00 — Review QW28FTUN s7: source-audited coding and linked comparisons
+
+51 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10580",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10581",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10582",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10580",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10581",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10582",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10580",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10581",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10582",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10580",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10581",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10582",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10580",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10581",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10582",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L775",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10580",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10581",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10582",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M775",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10580",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10581",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10582",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10580",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10582",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10580",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10581",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10582",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P775",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10580",
+    "before": null,
+    "after": "Table 3 p.2706, below-median HHI, labour share 1/2: lambda 123.98 thousand EUR against group EBITDA mean 59,539.7 thousand EUR; p.2705 collectively normalizes high-diversification estimates to 0.2-0.3%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10581",
+    "before": null,
+    "after": "Table 3 p.2706, above-median HHI (less diversified), labour share 2/3: lambda 39.51 thousand EUR paired with same-column group EBITDA mean 32,194.64 thousand EUR. Lambda N=501, EBITDA N=500. Final p.2705 fn24 explicitly says compare average lambda to average consolidated group profits for firms in columns 1 and 2; therefore verbal=1, unlike a bare table-only pairing. No high-HHI normalized magnitude is separately reported: divided=0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10582",
+    "before": null,
+    "after": "Table 3 p.2706, above-median HHI (less diversified), labour share 1/2: lambda 29.63 thousand EUR paired with same-column group EBITDA mean 32,194.64 thousand EUR. Lambda N=501, EBITDA N=500. Final p.2705 fn24 explicitly says compare average lambda to average consolidated group profits for firms in columns 1 and 2; therefore verbal=1, unlike a bare table-only pairing. No high-HHI normalized magnitude is separately reported: divided=0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q775",
+    "before": null,
+    "after": "Table 3 p.2706, below-median HHI (more diversified), labour share 2/3: lambda 165.31 thousand EUR, group EBITDA mean 59,539.7 thousand EUR. p.2705 explicitly compares average wedge to average profits, collectively 0.2-0.3%; split 1/2 calibration to hc1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10580",
+    "before": null,
+    "after": "Ratio of average wedge to average EBITDA. Pre-shock prose versus current-EBITDA code timing conflict prevents alignment certification."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10581",
+    "before": null,
+    "after": "Same-outcome column pairing qualifies symmetrically across HHI groups. Footnote24 provides verbal comparison for both columns; do not transfer the low-HHI 0.2–0.3% normalization to high HHI. Lambda N=501 versus EBITDA N=500 and pre-shock-prose/current-EBITDA-code timing conflict leave alignment unknown, not certified mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10582",
+    "before": null,
+    "after": "Same-outcome column pairing qualifies symmetrically across HHI groups. Footnote24 provides verbal comparison for both columns; do not transfer the low-HHI 0.2–0.3% normalization to high HHI. Lambda N=501 versus EBITDA N=500 and pre-shock-prose/current-EBITDA-code timing conflict leave alignment unknown, not certified mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R775",
+    "before": null,
+    "after": "Final prose says pre-shock profits but linked TABLE3.do constructs current group EBITDA and groups at +1. Outcome timing/weight match unresolved. Ratio of means, not average individual ratio; preserved source conflict."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R776",
+    "before": null,
+    "after": "p.2705 comparison is to another estimated causal effect (CEO continued employment on profits), not an outcome level/mean/SD. other_level is not an effect-to-effect catch-all."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2853",
+    "before": null,
+    "after": "One-year consolidated profit level affected by marginal worker redeployment; lambda is the estimated change, not a different dependent outcome. Table 3 in thousands of euros; ratio of average lambda to average group EBITDA, explicitly not mean of individual ratios (fn24). Source-code clipping and profit-timing conflict in setting Notes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1130",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1130",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1130",
+    "before": null,
+    "after": "Section 5.2.1, Table 3 pp.2704-2706: marginal one-worker ILM-constraint relaxation, with profit gain proxied by labour share times the shocked-unit VA/worker minus the least-productive non-shocked affiliate VA/worker at +1. Labour shares 1/2 and 2/3, high/low industry-diversification groups. This is a marginal redeployment dose, not estimated binary assignment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1130",
+    "before": null,
+    "after": "Main=1: introduction p.2678 quantifies 0.2-0.3% profit gain. Full procedure Other: donor is selected by minimum realized VA/worker and archive TABLE3.do lines 341-347 clips negative wedges to zero; not Other merely because model-based. Conditional fixed-donor affine calculation is linear but is not the full implemented statistic. Source code uses current ebitda_group (lines 383,505-510), whereas final prose says pre-shock profits: preserve timing conflict; no replication."
+  }
+]
+```
