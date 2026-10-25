@@ -48610,7 +48610,16 @@
     "L4756": "1",
     "M4756": "n/a",
     "N4756": "Table 4 panel A col.1, p.1703: non-IV baseline cross-cohort effect of mean teacher VA change on change in mean current test scores, coefficient 0.957 (SE 0.034), school-year FE.",
-    "O4756": "Separated from s3 because col.1 is not 2SLS. Continuous cross-cohort exposure; conventional DiD priority over FE. No separate no-FE OLS implementation inferred. Nearby prior-score and parent-characteristic tests are diagnostic."
+    "O4756": "Separated from s3 because col.1 is not 2SLS. Continuous cross-cohort exposure; conventional DiD priority over FE. No separate no-FE OLS implementation inferred. Nearby prior-score and parent-characteristic tests are diagnostic.",
+    "A4757": "RG6T2XB5",
+    "B4757": "h2",
+    "I4757": "1",
+    "J4757": "IV",
+    "K4757": "0",
+    "L4757": "1",
+    "M4757": "single continuous",
+    "N4757": "Table 4 panel A col.3, pp.1703–1705: actual change in mean teacher VA instrumented by VA change excluding all within-school grade switchers; current-score coefficient 0.968 (SE 0.069). School-year FE. LA analogous current-score coefficient 0.963 is discussed; no separate LA estimator details are asserted.",
+    "O4757": "Single continuous excluded instrument: modified mean-VA change excluding within-school switchers. Distinct source of instrument variation/estimand from no-followers s3 and within-school h3. Conditional reported-outcome linearity."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124830,6 +124839,10 @@
     "B11161": "h1",
     "C11161": "hy1",
     "K11161": "Change in mean current student test scores across consecutive cohorts within school-grade-subject cells; Table 4 panel A. Continuous cohort outcome; scale is the reported test-score change, not an estimated forecast-bias dependent variable.",
+    "A11162": "RG6T2XB5",
+    "B11162": "h2",
+    "C11162": "hy1",
+    "K11162": "Change in mean current student test scores across consecutive cohorts within school-grade-subject cells; Table 4 panel A. Continuous cohort outcome; scale is the reported test-score change, not an estimated forecast-bias dependent variable.",
     "A11166": "RG6T2XB5",
     "B11166": "s4",
     "C11166": "hy1",

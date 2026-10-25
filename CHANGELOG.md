@@ -1184835,3 +1184835,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:56:48.965987+00:00 — Review RG6T2XB5 h2: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11162",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11162",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11162",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11162",
+    "before": null,
+    "after": "Change in mean current student test scores across consecutive cohorts within school-grade-subject cells; Table 4 panel A. Continuous cohort outcome; scale is the reported test-score change, not an estimated forecast-bias dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4757",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4757",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4757",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4757",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4757",
+    "before": null,
+    "after": "Table 4 panel A col.3, pp.1703–1705: actual change in mean teacher VA instrumented by VA change excluding all within-school grade switchers; current-score coefficient 0.968 (SE 0.069). School-year FE. LA analogous current-score coefficient 0.963 is discussed; no separate LA estimator details are asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4757",
+    "before": null,
+    "after": "Single continuous excluded instrument: modified mean-VA change excluding within-school switchers. Distinct source of instrument variation/estimand from no-followers s3 and within-school h3. Conditional reported-outcome linearity."
+  }
+]
+```
