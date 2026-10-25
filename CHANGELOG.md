@@ -1186362,3 +1186362,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T17:24:29.478307+00:00 — Review RH367ADM s12: adjudicated source-scoped coding
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2910",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2910",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2910",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2910",
+    "before": null,
+    "after": "Proportional reduction in poverty headcount: (first-last)/first, positive for reduction, not percentage-point change. Code 03 lines75-76; final AII says percent change. Excludes first headcount<0.03 in code, rather than all windows ending in elimination. Population regressor uses pop outside middle class in code although final prose/table calls it total population. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1158",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1158",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1158",
+    "before": null,
+    "after": "Domestic population (printed total population; code pop excludes middle class) -> poverty reduction. Table AII cols1-4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1158",
+    "before": null,
+    "after": "Linear in the reported country-window proportional poverty-reduction outcome conditional on regressors. AII cols1,4 regress; col2 absorbs five-year-window dummies, col3 country dummies. Main pp.1939-40 uses FE to diagnose identifying variation, not an unobserved-heterogeneity identification argument; survey OLS retained throughout, with actual dummies disclosed. Independent audit: p.1939 explains loss of significance as the source of identifying variation; p.1940 compares time-invariant controls to country dummies, but does not give those controls a causal-confounding-removal role. This substantive purpose, not a keyword test or dummy count, supports OLS. The competing identifying-FE reading is documented outside application rows. No DiD or IV. Outcome denominator is pre-window headcount; no outcome-adaptive fitting weights."
+  }
+]
+```
