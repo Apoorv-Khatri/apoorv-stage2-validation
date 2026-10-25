@@ -48354,7 +48354,16 @@
     "L4733": "0",
     "M4733": "mixed",
     "N4733": "IHS hotel sales → log travel times; A.26.",
-    "O4733": "Three attractiveness instruments, mixed; effects -.0276,-.0282,-.0360. Negative estimates retained; main p.2290 refers to .036 reduction magnitude."
+    "O4733": "Three attractiveness instruments, mixed; effects -.0276,-.0282,-.0360. Negative estimates retained; main p.2290 refers to .036 reduction magnitude.",
+    "A4734": "R3NSZAZE",
+    "B4734": "h50",
+    "I4734": "1",
+    "J4734": "Other",
+    "K4734": "1",
+    "L4734": "0",
+    "M4734": "n/a",
+    "N4734": "All tourism present versus absent, alternative spillover extremes; Table 8 welfare row.",
+    "O4734": "Table 8 and pp.2287–88. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-tourism mean utility, not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Two disputed numeric comparisons remain held outside application arrays: printed columns 2/3 conflict with p.2288 narrative. Do not infer or reconstruct their denominators."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124424,7 +124433,14 @@
     "A11138": "R3NSZAZE",
     "B11138": "h49",
     "C11138": "hy3",
-    "K11138": "Log GDP-weighted mean travel time."
+    "K11138": "Log GDP-weighted mean travel time.",
+    "A11139": "R3NSZAZE",
+    "B11139": "h50",
+    "C11139": "hy1",
+    "H11139": "0",
+    "I11139": "unknown",
+    "J11139": "other",
+    "K11139": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
