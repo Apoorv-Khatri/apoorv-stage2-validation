@@ -1168914,3 +1168914,5586 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:48:27.134668+00:00 — Review R3NSZAZE h57: adjudicated source-scoped coding
+
+929 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10602",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10603",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10604",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10605",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10606",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10607",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10608",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10616",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10617",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10618",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10619",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10620",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10621",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10622",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10630",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10631",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10632",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10633",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10634",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10635",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10636",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10643",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10644",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10645",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10646",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10647",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10648",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10656",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10657",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10658",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10659",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10660",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10661",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10662",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10670",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10671",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10672",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10673",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10674",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10675",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10676",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10684",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10685",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10686",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10687",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10688",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10689",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10690",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10698",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10699",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10700",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10701",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10702",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10703",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10704",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10712",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10713",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10714",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10715",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10716",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10717",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10718",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10726",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10727",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10728",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10729",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10730",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10731",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10732",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10740",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10741",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10742",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10743",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10744",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10745",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10746",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10754",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10755",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10756",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10757",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10758",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10759",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10760",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10602",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10603",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10604",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10605",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10606",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10607",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10608",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10616",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10617",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10618",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10619",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10620",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10621",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10622",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10630",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10631",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10632",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10633",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10634",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10635",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10636",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10643",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10644",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10645",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10646",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10647",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10648",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10656",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10657",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10658",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10659",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10660",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10661",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10662",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10670",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10671",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10672",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10673",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10674",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10675",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10676",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10684",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10685",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10686",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10687",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10688",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10689",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10690",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10698",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10699",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10700",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10701",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10702",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10703",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10704",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10712",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10713",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10714",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10715",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10716",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10717",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10718",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10726",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10727",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10728",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10729",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10730",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10731",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10732",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10740",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10741",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10742",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10743",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10744",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10745",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10746",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10754",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10755",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10756",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10757",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10758",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10759",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10760",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10602",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10603",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10604",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10605",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10606",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10607",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10608",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10616",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10617",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10618",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10619",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10620",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10621",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10622",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10630",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10631",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10632",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10633",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10634",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10635",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10636",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10643",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10644",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10645",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10646",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10647",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10648",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10656",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10657",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10658",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10659",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10660",
+    "before": null,
+    "after": "hc32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10661",
+    "before": null,
+    "after": "hc33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10662",
+    "before": null,
+    "after": "hc34"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10670",
+    "before": null,
+    "after": "hc35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10671",
+    "before": null,
+    "after": "hc36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10672",
+    "before": null,
+    "after": "hc37"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10673",
+    "before": null,
+    "after": "hc38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10674",
+    "before": null,
+    "after": "hc39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10675",
+    "before": null,
+    "after": "hc40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10676",
+    "before": null,
+    "after": "hc41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10684",
+    "before": null,
+    "after": "hc42"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10685",
+    "before": null,
+    "after": "hc43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10686",
+    "before": null,
+    "after": "hc44"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10687",
+    "before": null,
+    "after": "hc45"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10688",
+    "before": null,
+    "after": "hc46"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10689",
+    "before": null,
+    "after": "hc47"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10690",
+    "before": null,
+    "after": "hc48"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10698",
+    "before": null,
+    "after": "hc49"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10699",
+    "before": null,
+    "after": "hc50"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10700",
+    "before": null,
+    "after": "hc51"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10701",
+    "before": null,
+    "after": "hc52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10702",
+    "before": null,
+    "after": "hc53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10703",
+    "before": null,
+    "after": "hc54"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10704",
+    "before": null,
+    "after": "hc55"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10712",
+    "before": null,
+    "after": "hc56"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10713",
+    "before": null,
+    "after": "hc57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10714",
+    "before": null,
+    "after": "hc58"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10715",
+    "before": null,
+    "after": "hc59"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10716",
+    "before": null,
+    "after": "hc60"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10717",
+    "before": null,
+    "after": "hc61"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10718",
+    "before": null,
+    "after": "hc62"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10726",
+    "before": null,
+    "after": "hc63"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10727",
+    "before": null,
+    "after": "hc64"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10728",
+    "before": null,
+    "after": "hc65"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10729",
+    "before": null,
+    "after": "hc66"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10730",
+    "before": null,
+    "after": "hc67"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10731",
+    "before": null,
+    "after": "hc68"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10732",
+    "before": null,
+    "after": "hc69"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10740",
+    "before": null,
+    "after": "hc70"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10741",
+    "before": null,
+    "after": "hc71"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10742",
+    "before": null,
+    "after": "hc72"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10743",
+    "before": null,
+    "after": "hc73"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10744",
+    "before": null,
+    "after": "hc74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10745",
+    "before": null,
+    "after": "hc75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10746",
+    "before": null,
+    "after": "hc76"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10754",
+    "before": null,
+    "after": "hc77"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10755",
+    "before": null,
+    "after": "hc78"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10756",
+    "before": null,
+    "after": "hc79"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10757",
+    "before": null,
+    "after": "hc80"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10758",
+    "before": null,
+    "after": "hc81"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10759",
+    "before": null,
+    "after": "hc82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10760",
+    "before": null,
+    "after": "hc83"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10606",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10607",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10608",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10616",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10618",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10619",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10620",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10657",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10658",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10659",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10662",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10670",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10685",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10700",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10701",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10703",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10704",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10602",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10603",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10604",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10605",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10606",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10607",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10608",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10616",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10617",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10618",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10619",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10620",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10621",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10622",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10630",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10631",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10632",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10633",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10634",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10635",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10636",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10643",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10644",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10645",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10646",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10647",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10648",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10656",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10657",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10658",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10659",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10660",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10661",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10662",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10670",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10671",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10672",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10673",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10674",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10675",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10676",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10684",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10685",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10686",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10687",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10688",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10689",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10690",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10698",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10699",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10700",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10701",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10702",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10703",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10704",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10712",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10713",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10714",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10715",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10716",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10717",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10718",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10726",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10727",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10728",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10729",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10730",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10731",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10732",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10740",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10741",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10742",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10743",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10744",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10745",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10746",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10754",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10755",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10756",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10757",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10758",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10759",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10760",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10602",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10603",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10604",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10605",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10606",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10607",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10608",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10616",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10617",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10618",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10619",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10620",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10621",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10622",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10630",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10631",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10632",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10633",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10634",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10635",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10636",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10643",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10644",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10645",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10646",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10647",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10648",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10656",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10657",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10658",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10659",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10660",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10661",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10662",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10670",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10671",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10672",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10673",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10674",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10675",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10676",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10684",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10685",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10686",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10687",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10688",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10689",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10690",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10698",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10699",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10700",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10701",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10702",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10703",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10704",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10712",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10713",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10714",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10715",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10716",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10717",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10718",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10726",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10727",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10728",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10729",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10730",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10731",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10732",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10740",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10741",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10742",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10743",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10744",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10745",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10746",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10754",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10755",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10756",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10757",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10758",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10759",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10760",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10604",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10605",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10606",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10607",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10630",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10631",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10632",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10633",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10635",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10636",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10645",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10648",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10656",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10657",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10658",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10659",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10660",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10662",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10671",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10672",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10673",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10674",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10675",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10688",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10690",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10698",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10699",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10700",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10701",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10702",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10703",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10704",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10712",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10713",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10714",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10715",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10716",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10718",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10731",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10756",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10606",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10607",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10608",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10616",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10618",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10619",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10620",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10657",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10658",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10659",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10662",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10670",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10685",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10700",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10701",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10703",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10704",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10606",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10607",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10608",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10616",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10617",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10618",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10619",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10620",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10621",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10622",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10630",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10657",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10658",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10659",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10662",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10670",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10685",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10700",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10701",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10702",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10703",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10704",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10712",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10713",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10602",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0, gammaM=0.064, sigma=rho=1.5; printed gain 0.90% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10603",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0, gammaM=0.064, sigma=rho=2.0; printed gain 0.90% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10604",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0, gammaM=0.064, sigma=rho=2.5; printed gain 0.90% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10605",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0, gammaM=0.064, sigma=rho=3.0; printed gain 0.89% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10606",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0, gammaM=0.064, sigma=rho=3.5; printed gain 0.86% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10607",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0, gammaM=0.064, sigma=rho=4.0; printed gain 0.83% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10608",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0, gammaM=0.064, sigma=rho=4.5; printed gain 0.79% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10616",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.027, gammaM=0.064, sigma=rho=1.5; printed gain 1.44% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10617",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.027, gammaM=0.064, sigma=rho=2.0; printed gain 1.42% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10618",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.027, gammaM=0.064, sigma=rho=2.5; printed gain 1.38% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10619",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.027, gammaM=0.064, sigma=rho=3.0; printed gain 1.33% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10620",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.027, gammaM=0.064, sigma=rho=3.5; printed gain 1.27% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10621",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.027, gammaM=0.064, sigma=rho=4.0; printed gain 1.20% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10622",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.027, gammaM=0.064, sigma=rho=4.5; printed gain 1.11% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10630",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.057, gammaM=0.064, sigma=rho=1.5; printed gain 1.90% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10631",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.057, gammaM=0.064, sigma=rho=2.0; printed gain 1.84% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10632",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.057, gammaM=0.064, sigma=rho=2.5; printed gain 1.78% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10633",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.057, gammaM=0.064, sigma=rho=3.0; printed gain 1.69% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10634",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.057, gammaM=0.064, sigma=rho=3.5; printed gain 1.59% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10635",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.057, gammaM=0.064, sigma=rho=4.0; printed gain 1.48% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10636",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.057, gammaM=0.064, sigma=rho=4.5; printed gain 1.35% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10643",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.087, gammaM=0.064, sigma=rho=1.5; printed gain 1.99% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10644",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.087, gammaM=0.064, sigma=rho=2.0; printed gain 1.92% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10645",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.087, gammaM=0.064, sigma=rho=3.0; printed gain 1.72% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10646",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.087, gammaM=0.064, sigma=rho=3.5; printed gain 1.61% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10647",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.087, gammaM=0.064, sigma=rho=4.0; printed gain 1.48% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10648",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=6.35, gammaS=0.087, gammaM=0.064, sigma=rho=4.5; printed gain 1.34% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10656",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0, gammaM=0.064, sigma=rho=1.5; printed gain 1.00% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10657",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0, gammaM=0.064, sigma=rho=2.0; printed gain 1.00% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10658",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0, gammaM=0.064, sigma=rho=2.5; printed gain 0.99% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10659",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0, gammaM=0.064, sigma=rho=3.0; printed gain 0.97% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10660",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0, gammaM=0.064, sigma=rho=3.5; printed gain 0.95% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10661",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0, gammaM=0.064, sigma=rho=4.0; printed gain 0.91% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10662",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0, gammaM=0.064, sigma=rho=4.5; printed gain 0.86% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10670",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.027, gammaM=0.064, sigma=rho=1.5; printed gain 1.60% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10671",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.027, gammaM=0.064, sigma=rho=2.0; printed gain 1.57% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10672",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.027, gammaM=0.064, sigma=rho=2.5; printed gain 1.54% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10673",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.027, gammaM=0.064, sigma=rho=3.0; printed gain 1.48% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10674",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.027, gammaM=0.064, sigma=rho=3.5; printed gain 1.41% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10675",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.027, gammaM=0.064, sigma=rho=4.0; printed gain 1.33% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10676",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.027, gammaM=0.064, sigma=rho=4.5; printed gain 1.22% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10684",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.057, gammaM=0.064, sigma=rho=1.5; printed gain 2.19% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10685",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.057, gammaM=0.064, sigma=rho=2.0; printed gain 2.14% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10686",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.057, gammaM=0.064, sigma=rho=2.5; printed gain 2.06% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10687",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.057, gammaM=0.064, sigma=rho=3.0; printed gain 1.97% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10688",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.057, gammaM=0.064, sigma=rho=3.5; printed gain 1.86% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10689",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.057, gammaM=0.064, sigma=rho=4.0; printed gain 1.72% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10690",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.057, gammaM=0.064, sigma=rho=4.5; printed gain 1.56% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10698",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.087, gammaM=0.064, sigma=rho=1.5; printed gain 2.66% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10699",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.087, gammaM=0.064, sigma=rho=2.0; printed gain 2.57% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10700",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.087, gammaM=0.064, sigma=rho=2.5; printed gain 2.46% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10701",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.087, gammaM=0.064, sigma=rho=3.0; printed gain 2.33% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10702",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.087, gammaM=0.064, sigma=rho=3.5; printed gain 2.18% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10703",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.087, gammaM=0.064, sigma=rho=4.0; printed gain 2.00% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10704",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=4.35, gammaS=0.087, gammaM=0.064, sigma=rho=4.5; printed gain 1.81% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10712",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0, gammaM=0.064, sigma=rho=1.5; printed gain 1.14% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10713",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0, gammaM=0.064, sigma=rho=2.0; printed gain 1.13% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10714",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0, gammaM=0.064, sigma=rho=2.5; printed gain 1.12% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10715",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0, gammaM=0.064, sigma=rho=3.0; printed gain 1.10% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10716",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0, gammaM=0.064, sigma=rho=3.5; printed gain 1.07% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10717",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0, gammaM=0.064, sigma=rho=4.0; printed gain 1.02% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10718",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0, gammaM=0.064, sigma=rho=4.5; printed gain 0.95% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10726",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.027, gammaM=0.064, sigma=rho=1.5; printed gain 1.81% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10727",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.027, gammaM=0.064, sigma=rho=2.0; printed gain 1.78% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10728",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.027, gammaM=0.064, sigma=rho=2.5; printed gain 1.73% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10729",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.027, gammaM=0.064, sigma=rho=3.0; printed gain 1.67% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10730",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.027, gammaM=0.064, sigma=rho=3.5; printed gain 1.59% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10731",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.027, gammaM=0.064, sigma=rho=4.0; printed gain 1.49% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10732",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.027, gammaM=0.064, sigma=rho=4.5; printed gain 1.37% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10740",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.057, gammaM=0.064, sigma=rho=1.5; printed gain 2.53% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10741",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.057, gammaM=0.064, sigma=rho=2.0; printed gain 2.46% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10742",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.057, gammaM=0.064, sigma=rho=2.5; printed gain 2.38% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10743",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.057, gammaM=0.064, sigma=rho=3.0; printed gain 2.27% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10744",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.057, gammaM=0.064, sigma=rho=3.5; printed gain 2.14% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10745",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.057, gammaM=0.064, sigma=rho=4.0; printed gain 1.98% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10746",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.057, gammaM=0.064, sigma=rho=4.5; printed gain 1.80% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10754",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.087, gammaM=0.064, sigma=rho=1.5; printed gain 3.20% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10755",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.087, gammaM=0.064, sigma=rho=2.0; printed gain 3.10% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10756",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.087, gammaM=0.064, sigma=rho=2.5; printed gain 2.98% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10757",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.087, gammaM=0.064, sigma=rho=3.0; printed gain 2.82% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10758",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.087, gammaM=0.064, sigma=rho=3.5; printed gain 2.64% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10759",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.087, gammaM=0.064, sigma=rho=4.0; printed gain 2.43% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10760",
+    "before": null,
+    "after": "Table A.23 right/international panel: kappa=2.35, gammaS=0.087, gammaM=0.064, sigma=rho=4.5; printed gain 2.18% relative to corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10602",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10603",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10604",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90. Independent verbal audit: parameter-specific prose gives a conflicting number (5.23 vs 5.24, 2.97 vs 2.98, or .89 vs .90). Verbal allocation is unknown, not confidently table-only; printed cell and normalization remain eligible."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10605",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10606",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10607",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10608",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10616",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10617",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10618",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10619",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10620",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10621",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10622",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10630",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10631",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10632",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10633",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10634",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10635",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10636",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10643",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10644",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10645",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10646",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10647",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10648",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10656",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10657",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10658",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10659",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10660",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10661",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10662",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10670",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10671",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10672",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10673",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10674",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10675",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10676",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10684",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10685",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10686",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10687",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10688",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10689",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10690",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10698",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10699",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10700",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10701",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10702",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10703",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10704",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10712",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10713",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10714",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10715",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10716",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10717",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10718",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10726",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10727",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10728",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10729",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10730",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10731",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10732",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10740",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10741",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10742",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10743",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10744",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10745",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10746",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10754",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10755",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10756",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90. Independent verbal audit: parameter-specific prose gives a conflicting number (5.23 vs 5.24, 2.97 vs 2.98, or .89 vs .90). Verbal allocation is unknown, not confidently table-only; printed cell and normalization remain eligible."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10757",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10758",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10759",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10760",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication. Verbal attribution held at table-only because nearby prose values/ranges do not consistently map to cells; Appendix 4.6 calls 2.97 where cells round 2.98 and .89 vs .90."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11146",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11146",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11146",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11146",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11146",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11146",
+    "before": null,
+    "after": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4741",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4741",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4741",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4741",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4741",
+    "before": null,
+    "after": "International tourism integration, parameter sensitivity A.23."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4741",
+    "before": null,
+    "after": "Appendix 4.6, Table A.23. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
+  }
+]
+```
