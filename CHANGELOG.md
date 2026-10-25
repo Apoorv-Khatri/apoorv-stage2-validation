@@ -1184229,3 +1184229,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:51:05.546628+00:00 — Review RG6T2XB5 s1: adjudicated source-scoped coding
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1140",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1140",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1140",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1140",
+    "before": null,
+    "after": "Table 1, pp.1692–1694: retain continuous cross-cohort teacher-turnover contrast, including imputation variants despite their disputed credibility. Year FE do not create a second method. Linearity is in the reported cohort score changes conditional on leave-out VA; estimating VA from other score years is upstream construction, not a separate outcome-adaptive effect estimator. No linked own-outcome mean/SD benchmark is stated; a prediction coefficient of one is a reference causal slope, not an outcome level."
+  }
+]
+```
