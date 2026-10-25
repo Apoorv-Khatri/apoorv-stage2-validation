@@ -1186836,3 +1186836,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T17:27:05.074550+00:00 — Review RH367ADM h4: adjudicated source-scoped coding
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11178",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11178",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11178",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11178",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11178",
+    "before": null,
+    "after": "Sustained poverty reduction: binary indicator of decline in every observed/interpolated year of the five-year window; zero observations established by Table I and supplement p.1. Continuous treatment: detailed labels supplied voluntarily."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4768",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4768",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4768",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4768",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4768",
+    "before": null,
+    "after": "Lagged annual agricultural TFP growth -> poverty reduction. Table IV cols1-3,5-6 (relative GDP absent col2); exports and agriculture also col4; AI col1 repeat."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4768",
+    "before": null,
+    "after": "Nonlinear structural probit maximum likelihood, equations (2)-(5), not linear probit-index regression or IV. Cross-country and time variation; predetermined covariates do not establish exogeneity. Parameters in S or V are not probability marginal effects. Main p.1934-39; archive MATLAB/probit_table_ECMA_FINAL.m. Routine control/sample/window variants grouped; focal regressors split. Agricultural nulls retained; export income-boost interpretation explicit p.1936."
+  }
+]
+```
