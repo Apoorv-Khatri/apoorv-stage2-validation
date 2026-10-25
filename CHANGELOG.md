@@ -1183734,3 +1183734,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:55:06.520419+00:00 — Review R3NSZAZE h67: adjudicated source-scoped coding
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11156",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11156",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11156",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11156",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11156",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11156",
+    "before": null,
+    "after": "Mexican welfare gain attributable to public tourism investment, shown as share of total tourism welfare gain."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4751",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4751",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4751",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4751",
+    "before": null,
+    "after": "Public tourism infrastructure investment present versus shut down, allowing substitution with private/natural infrastructure; Figure A.3, Appendix 4.6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4751",
+    "before": null,
+    "after": "Nonlinear equilibrium across reported sigmaP and sG sensitivities. Binary G present vs zero within each parameterization; plotted shares are fractions of total gains (effect-to-effect), not welfare-level benchmarks; no manufactured ordinates."
+  }
+]
+```

@@ -48507,7 +48507,16 @@
     "L4750": "0",
     "M4750": "n/a",
     "N4750": "35% tourism-profit repatriation versus all profits retained domestically; A.29 and Appendix 4.6.",
-    "O4750": "Nonlinear recalibrated monopolistic-competition equilibrium; reports .772 fraction of gains (23% lower). This is a substantive intervention even though gain-to-gain comparison is ineligible."
+    "O4750": "Nonlinear recalibrated monopolistic-competition equilibrium; reports .772 fraction of gains (23% lower). This is a substantive intervention even though gain-to-gain comparison is ineligible.",
+    "A4751": "R3NSZAZE",
+    "B4751": "h67",
+    "I4751": "1",
+    "J4751": "Other",
+    "K4751": "1",
+    "L4751": "0",
+    "M4751": "n/a",
+    "N4751": "Public tourism infrastructure investment present versus shut down, allowing substitution with private/natural infrastructure; Figure A.3, Appendix 4.6.",
+    "O4751": "Nonlinear equilibrium across reported sigmaP and sG sensitivities. Binary G present vs zero within each parameterization; plotted shares are fractions of total gains (effect-to-effect), not welfare-level benchmarks; no manufactured ordinates."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124681,7 +124690,14 @@
     "H11155": "0",
     "I11155": "unknown",
     "J11155": "other",
-    "K11155": "Mexican welfare gain from tourism under altered profit ownership/repatriation."
+    "K11155": "Mexican welfare gain from tourism under altered profit ownership/repatriation.",
+    "A11156": "R3NSZAZE",
+    "B11156": "h67",
+    "C11156": "hy1",
+    "H11156": "0",
+    "I11156": "unknown",
+    "J11156": "other",
+    "K11156": "Mexican welfare gain attributable to public tourism investment, shown as share of total tourism welfare gain."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
