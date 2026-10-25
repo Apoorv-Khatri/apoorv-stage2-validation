@@ -1153392,3 +1153392,222 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:32:40.071117+00:00 — Review QW28FTUN h13: source-audited coding and linked comparisons
+
+35 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10583",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10584",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10583",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10584",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10583",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10584",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10583",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10584",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10583",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10584",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10583",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10584",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10583",
+    "before": null,
+    "after": "Table 2 col4 and fn12 pp.2686-2687: one-SD four-digit diversification change. Average-size group: 0.0081 (=0.27 × 0.03) printed as percentage points, author states 8.9% of average excess probability. Linked B4 gives outcome mean 0.091, not a treatment-SD benchmark by itself."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10584",
+    "before": null,
+    "after": "Table 2 col4 and fn12 pp.2686-2687: one-SD four-digit diversification change. Group one SD larger than average: 0.0246 printed as percentage points, author states 27% of average excess probability. Linked B4 gives outcome mean 0.091, not a treatment-SD benchmark by itself."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10583",
+    "before": null,
+    "after": "Preserve source unit inconsistency: printed percentage-point wording versus probability-scale coefficients and reported percentages. Continuous conditional regression target and average-outcome weighting not established for alignment. Eligibility conditional on contested Table 2 gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10584",
+    "before": null,
+    "after": "Preserve source unit inconsistency: printed percentage-point wording versus probability-scale coefficients and reported percentages. Continuous conditional regression target and average-outcome weighting not established for alignment. Eligibility conditional on contested Table 2 gate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10999",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10999",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10999",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10999",
+    "before": null,
+    "after": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4682",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4682",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4682",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4682",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4682",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4682",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4682",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4682",
+    "before": null,
+    "after": "Table 2 columns 3-4, pp.2686-2689: group diversification across four-digit industries (negative employment-share HHI), including interaction with centered rest-of-group size, on firm-year excess internal-hiring probability. Firm-by-group and year fixed effects; routine no-interaction/interaction columns grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4682",
+    "before": null,
+    "after": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design."
+  }
+]
+```

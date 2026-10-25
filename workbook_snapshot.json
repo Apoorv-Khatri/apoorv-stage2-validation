@@ -47827,7 +47827,16 @@
     "L4681": "0",
     "M4681": "n/a",
     "N4681": "Table 2 columns 1-2, pp.2686-2689: group diversification across macrosectors (negative employment-share HHI), including interaction with centered rest-of-group size, on firm-year excess internal-hiring probability. Firm-by-group and year fixed effects; routine no-interaction/interaction columns grouped.",
-    "O4681": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design."
+    "O4681": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design.",
+    "A4682": "QW28FTUN",
+    "B4682": "h13",
+    "I4682": "1",
+    "J4682": "FE",
+    "K4682": "0",
+    "L4682": "0",
+    "M4682": "n/a",
+    "N4682": "Table 2 columns 3-4, pp.2686-2689: group diversification across four-digit industries (negative employment-share HHI), including interaction with centered rest-of-group size, on firm-year excess internal-hiring probability. Firm-by-group and year fixed effects; routine no-interaction/interaction columns grouped.",
+    "O4682": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123110,7 +123119,11 @@
     "A10998": "QW28FTUN",
     "B10998": "h12",
     "C10998": "hy1",
-    "K10998": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units."
+    "K10998": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units.",
+    "A10999": "QW28FTUN",
+    "B10999": "h13",
+    "C10999": "hy1",
+    "K10999": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -241704,7 +241717,29 @@
     "O10582": "0",
     "P10582": "unknown",
     "Q10582": "Table 3 p.2706, above-median HHI (less diversified), labour share 1/2: lambda 29.63 thousand EUR paired with same-column group EBITDA mean 32,194.64 thousand EUR. Lambda N=501, EBITDA N=500. Final p.2705 fn24 explicitly says compare average lambda to average consolidated group profits for firms in columns 1 and 2; therefore verbal=1, unlike a bare table-only pairing. No high-HHI normalized magnitude is separately reported: divided=0.",
-    "R10582": "Same-outcome column pairing qualifies symmetrically across HHI groups. Footnote24 provides verbal comparison for both columns; do not transfer the low-HHI 0.2–0.3% normalization to high HHI. Lambda N=501 versus EBITDA N=500 and pre-shock-prose/current-EBITDA-code timing conflict leave alignment unknown, not certified mismatch."
+    "R10582": "Same-outcome column pairing qualifies symmetrically across HHI groups. Footnote24 provides verbal comparison for both columns; do not transfer the low-HHI 0.2–0.3% normalization to high HHI. Lambda N=501 versus EBITDA N=500 and pre-shock-prose/current-EBITDA-code timing conflict leave alignment unknown, not certified mismatch.",
+    "A10583": "QW28FTUN",
+    "B10583": "h13",
+    "C10583": "hc1",
+    "K10583": "1",
+    "L10583": "hy1",
+    "M10583": "outcome_mean",
+    "N10583": "1",
+    "O10583": "1",
+    "P10583": "unknown",
+    "Q10583": "Table 2 col4 and fn12 pp.2686-2687: one-SD four-digit diversification change. Average-size group: 0.0081 (=0.27 × 0.03) printed as percentage points, author states 8.9% of average excess probability. Linked B4 gives outcome mean 0.091, not a treatment-SD benchmark by itself.",
+    "R10583": "Preserve source unit inconsistency: printed percentage-point wording versus probability-scale coefficients and reported percentages. Continuous conditional regression target and average-outcome weighting not established for alignment. Eligibility conditional on contested Table 2 gate.",
+    "A10584": "QW28FTUN",
+    "B10584": "h13",
+    "C10584": "hc2",
+    "K10584": "1",
+    "L10584": "hy1",
+    "M10584": "outcome_mean",
+    "N10584": "1",
+    "O10584": "1",
+    "P10584": "unknown",
+    "Q10584": "Table 2 col4 and fn12 pp.2686-2687: one-SD four-digit diversification change. Group one SD larger than average: 0.0246 printed as percentage points, author states 27% of average excess probability. Linked B4 gives outcome mean 0.091, not a treatment-SD benchmark by itself.",
+    "R10584": "Preserve source unit inconsistency: printed percentage-point wording versus probability-scale coefficients and reported percentages. Continuous conditional regression target and average-outcome weighting not established for alignment. Eligibility conditional on contested Table 2 gate."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
