@@ -1185207,3 +1185207,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:59:24.988423+00:00 — Review RG6T2XB5 h6: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11170",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11170",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11170",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11170",
+    "before": null,
+    "after": "Simulated earnings residualized for covariate X using within-teacher variation; dollar units; Table 5 col.1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4761",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4761",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4761",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4761",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4761",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4761",
+    "before": null,
+    "after": "Table 5 col.1, p.1713 and Appendix C p.9: simulated CFR two-step teacher-VA effect on earnings, 99.74 dollars per VA unit (SE 1.977). Estimate X slope within teachers, residualize earnings, then regress residual earnings on leave-out VA."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4761",
+    "before": null,
+    "after": "Teacher FE enter nuisance residualization, not the focal between-teacher VA slope. Fixed-design two-step operator is linear in earnings; no focal FE method. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel."
+  }
+]
+```
