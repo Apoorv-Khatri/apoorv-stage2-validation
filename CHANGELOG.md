@@ -1119213,3 +1119213,798 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T07:13:35.677383+00:00 — Review QL93W8JQ s3: source-audited coding and linked comparisons
+
+131 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10226",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10227",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10228",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10229",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10230",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10231",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10232",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10226",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10227",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10228",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10229",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10230",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10231",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10232",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10226",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10227",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10228",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10229",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10230",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10231",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10232",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10226",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10227",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10228",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10229",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10230",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10231",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10232",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L761",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L762",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L763",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L764",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10226",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10227",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10228",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10229",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10230",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10231",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10232",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M761",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M762",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M763",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M764",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10229",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10232",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10229",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O763",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10228",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10230",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10232",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10226",
+    "before": null,
+    "after": "Table 4A p.1192,  column 2: assignment effect −0.009; printed control mean 0.440. Source main.txt lines 1231 and 1242."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10227",
+    "before": null,
+    "after": "Table 4B p.1192,  column 1: assignment effect 0.109; printed control mean −0.000. Source main.txt lines 1257 and 1268."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10228",
+    "before": null,
+    "after": "Table 4B p.1192,  column 1: assignment effect 0.109 in standardized outcome units; normalization is the outcome SD, not treatment SD. Source main.txt line 1257."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10229",
+    "before": null,
+    "after": "Table 4B p.1192,  column 2: assignment effect 0.098; printed control mean 0.000. Source main.txt lines 1258 and 1269."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10230",
+    "before": null,
+    "after": "Table 4B p.1192,  column 2: assignment effect 0.098 in standardized outcome units; normalization is the outcome SD, not treatment SD. Source main.txt line 1258."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10231",
+    "before": null,
+    "after": "Table 4B p.1192,  column 3: assignment effect −0.009; printed control mean −0.000. Source main.txt lines 1259 and 1270."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10232",
+    "before": null,
+    "after": "Table 4B p.1192,  column 3: assignment effect −0.009 in standardized outcome units; normalization is the outcome SD, not treatment SD. Source main.txt line 1259."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q761",
+    "before": null,
+    "after": "“We estimate a significant 0.109 standard deviation effect on overall willingness to pay. In terms of tokens, this corresponds to the willingness to forgo about 0.35 extra tokens for the preferred booklet. Given that children forgo 6.1 of their tokens on average for their preferred booklets in the control group, this effect implies a 6 percent treatment effect …” Source: Table 4 and pp.1176,1191-1192; control school sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q762",
+    "before": null,
+    "after": "“Treated children give up 0.38 more tokens than untreated children for a ­science-related booklet on average, implying a 11.7 percent increase in the willingness to pay for scientific information.” Source: Table 4 and pp.1176,1191-1192; control school sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q763",
+    "before": null,
+    "after": "Table 4, Panel A: “Treatment 0.038 … Control mean 0.495” [ … ] “Notice that about 50 percent of the children in the control group stated their willingness to purchase a ­science-related booklet. This value goes up by about 4 percentage points in the treatment group …” Source: Table 4 and pp.1176,1191-1192; control school sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q764",
+    "before": null,
+    "after": "Table 4, Panel A: “Treatment −0.029 … Control mean 0.065” [ … ] “As shown in column 3 of the table, the program lowered the probability of no interest, i.e., stating zero willingness to pay, by 2.9 percentage points, representing about a remarkable 45 percent effect.” Source: Table 4 and pp.1176,1191-1192; control school sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10228",
+    "before": null,
+    "after": "Reference SD population/weights not sufficiently established for this particular estimate; subgroup effects do not imply subgroup-specific SD normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10230",
+    "before": null,
+    "after": "Reference SD population/weights not sufficiently established for this particular estimate; subgroup effects do not imply subgroup-specific SD normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10232",
+    "before": null,
+    "after": "Reference SD population/weights not sufficiently established for this particular estimate; subgroup effects do not imply subgroup-specific SD normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R761",
+    "before": null,
+    "after": "Introduction says 5.7 percent; later prose rounds to 6 percent. Raw-token contrast and 6.1-token control mean have compatible scale; do not divide 0.109 SD by raw tokens."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R762",
+    "before": null,
+    "after": "11.7 percent and 0.38 tokens printed at p.1176. Benchmark level implicit, not reconstructed; author states treated versus untreated mean WTP."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2791",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2792",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2793",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2788",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2789",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2790",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2791",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2792",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2793",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2791",
+    "before": null,
+    "after": "Reported outcome is standardized WTP. Raw tokens have mass at zero (pp.1189,1192); centering moves that mass away from zero, so reported-scale zero mass is unknown. Nonpreferred category WTP set to zero before standardizing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2792",
+    "before": null,
+    "after": "Reported outcome is standardized WTP. Raw tokens have mass at zero (pp.1189,1192); centering moves that mass away from zero, so reported-scale zero mass is unknown. Nonpreferred category WTP set to zero before standardizing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2793",
+    "before": null,
+    "after": "Reported outcome is standardized WTP. Raw tokens have mass at zero (pp.1189,1192); centering moves that mass away from zero, so reported-scale zero mass is unknown. Nonpreferred category WTP set to zero before standardizing."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1119",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1119",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1119",
+    "before": null,
+    "after": "Table 4 only: school-assignment ITT on booklet choice and standardized willingness to pay. Figure 3 is separately retained as h1 (logistic marginal effects on top-three rankings)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1119",
+    "before": null,
+    "after": "School-randomized ITT; grade/district controls do not create a distinct FE setting. Conditional linearity in reported standardized outcome; full data-dependent LASSO/SD procedure is an alternative taxonomy, not assignment design. Long-term IPW identification needs maintained attrition assumptions."
+  }
+]
+```
