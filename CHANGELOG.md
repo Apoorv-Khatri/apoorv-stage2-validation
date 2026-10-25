@@ -1162989,3 +1162989,174 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:46:12.062609+00:00 — Review R3NSZAZE h54: adjudicated source-scoped coding
+
+27 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10593",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10593",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10593",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10593",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10593",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10593",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10593",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10593",
+    "before": null,
+    "after": "Appendix 4.5, A.30. 2,455 regions: 1.78% of corresponding counterfactual mean utility."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10593",
+    "before": null,
+    "after": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11143",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11143",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11143",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11143",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11143",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11143",
+    "before": null,
+    "after": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4738",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4738",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4738",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4738",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4738",
+    "before": null,
+    "after": "International tourism integration with 2,455-region resolution; A.30."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4738",
+    "before": null,
+    "after": "Appendix 4.5, A.30. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
+  }
+]
+```
