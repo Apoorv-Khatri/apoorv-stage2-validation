@@ -1112421,3 +1112421,456 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:50:10.797239+00:00 — Review NVSISRI2 s2: source-audited coding and linked comparisons
+
+74 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10174",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10175",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10176",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10177",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10178",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10174",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10175",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10176",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10177",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10178",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10174",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10175",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10176",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10177",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10178",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10174",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10175",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10176",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10177",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10178",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L751",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10174",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10175",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10176",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10177",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10178",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M751",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10174",
+    "before": null,
+    "after": "Table II col1, p.378: effect -0.681 percentage points saturation deficit per additional grant; same-column1962–1972 outcome mean 17.092. No explicit division by that mean in text."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10175",
+    "before": null,
+    "after": "Table II col3, p.378: effect -0.104 mg/L BOD per additional grant; same-column1962–1972 outcome mean 4.411. p.377 explicitly describes 2.4% BOD decline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10176",
+    "before": null,
+    "after": "Table II col4, p.378: effect -204.059 MPN/100mL fecal coliforms per additional grant; same-column1962–1972 outcome mean 5731.028. p.377 explicitly describes 3.6% fecal-coliform decline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10177",
+    "before": null,
+    "after": "Table II col5, p.378: effect -0.004 share not swimmable per additional grant; same-column1962–1972 outcome mean 0.594. No explicit division by that mean in text."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10178",
+    "before": null,
+    "after": "Table II col6, p.378: effect -0.497 mg/L TSS per additional grant; same-column1962–1972 outcome mean 42.071. p.377 explicitly describes 1% TSS decline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q751",
+    "before": null,
+    "after": "Table II col2 p.378: -0.007 share not fishable per additional grant; paired 1962–1972 mean0.328. Publication-linked code lines330–335: regression [aw=Nobs] but baseline mean unweighted over upstream/downstream cells."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10174",
+    "before": null,
+    "after": "Archive code330–335: [aw=Nobs] causal regression versus unweighted baseline mean over plant×side×year cells. Pooled sides/period not constructed downstream untreated target. Eligibility separate from alignment; rejected credibility is not the gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10175",
+    "before": null,
+    "after": "Archive code330–335: [aw=Nobs] causal regression versus unweighted baseline mean over plant×side×year cells. Pooled sides/period not constructed downstream untreated target. Eligibility separate from alignment; rejected credibility is not the gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10176",
+    "before": null,
+    "after": "Archive code330–335: [aw=Nobs] causal regression versus unweighted baseline mean over plant×side×year cells. Pooled sides/period not constructed downstream untreated target. Eligibility separate from alignment; rejected credibility is not the gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10177",
+    "before": null,
+    "after": "Archive code330–335: [aw=Nobs] causal regression versus unweighted baseline mean over plant×side×year cells. Pooled sides/period not constructed downstream untreated target. Eligibility separate from alignment; rejected credibility is not the gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10178",
+    "before": null,
+    "after": "Archive code330–335: [aw=Nobs] causal regression versus unweighted baseline mean over plant×side×year cells. Pooled sides/period not constructed downstream untreated target. Eligibility separate from alignment; rejected credibility is not the gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R751",
+    "before": null,
+    "after": "Known weighting mismatch and pooled upstream/downstream baseline, not a downstream treated counterfactual. DDD parallel trends does not establish equal untreated levels. Alternative unknown if weights are treated only as efficiency rather than estimand weights; p.368 fn13 expressly distinguishes average reading from average cell."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R752",
+    "before": null,
+    "after": "Normalization is cost per environmental improvement, not an effect versus a stated level of the same pollution outcome; distinct cost-effectiveness retained in h7."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R753",
+    "before": null,
+    "after": "Normalization is cost per environmental improvement, not an effect versus a stated level of the same pollution outcome; distinct cost-effectiveness retained in h7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1109",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1109",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1109",
+    "before": null,
+    "after": "Cumulative grant count × downstream, Table II only: six pollution outcomes in plant × upstream/downstream × year cells, GLS weighted by reading counts; conventional DDD equation (3). Figure III dynamics are s3; cost calculations and appendix results are separately scoped below."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1109",
+    "before": null,
+    "after": "pp. 367–369, 377–380. DDD takes priority over its three identifying FE sets; no OLS/FE split for incidental weighting or controls. Conditional on reported cell pollution outcomes, weights and covariates, linear; upstream winsorization/construction is not recoded as the focal estimator. Population mean weights differ from regression weights in archive code lines 330–335."
+  }
+]
+```
