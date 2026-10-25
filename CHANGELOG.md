@@ -1157550,3 +1157550,390 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:17:21.554883+00:00 — Review R3NSZAZE s6: adjudicated source-scoped coding
+
+63 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11065",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11066",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11067",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11068",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11069",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11070",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11071",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11072",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11073",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11074",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11075",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11076",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11065",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11066",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11067",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11068",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11069",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11070",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11071",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11072",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11073",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11074",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11075",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11076",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11065",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11066",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11067",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11068",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11069",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11070",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11071",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11072",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11073",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11074",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11075",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11076",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2879",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2880",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2879",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2880",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2879",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2880",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11065",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in below-median IO input-intensity (printed 10 sectors); A.17 panel A. IHS retains zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11066",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in above-median IO input-intensity (printed 11 sectors); A.17 panel A. IHS retains zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11067",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in not in tourism satellite use (printed 16 sectors); A.17 panel A. IHS retains zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11068",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in in tourism satellite use (printed 5 sectors); A.17 panel A. IHS retains zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11069",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in below-median IO input-intensity (printed 10 sectors); A.17 panel B. log(1) substituted for zeros, not log(1+Y) for all observations."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11070",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in above-median IO input-intensity (printed 11 sectors); A.17 panel B. log(1) substituted for zeros, not log(1+Y) for all observations."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11071",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in not in tourism satellite use (printed 16 sectors); A.17 panel B. log(1) substituted for zeros, not log(1+Y) for all observations."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11072",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in in tourism satellite use (printed 5 sectors); A.17 panel B. log(1) substituted for zeros, not log(1+Y) for all observations."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11073",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in below-median IO input-intensity (printed 10 sectors); A.17 panel C. Simple log drops zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11074",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in above-median IO input-intensity (printed 11 sectors); A.17 panel C. Simple log drops zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11075",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in not in tourism satellite use (printed 16 sectors); A.17 panel C. Simple log drops zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11076",
+    "before": null,
+    "after": "Manufacturing GDP by municipality×sector in in tourism satellite use (printed 5 sectors); A.17 panel C. Simple log drops zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2879",
+    "before": null,
+    "after": "Inactive overly pooled outcome: A.17 distinct sector partitions and IHS/log-zero/log scales are specified by added outcomes below."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2880",
+    "before": null,
+    "after": "Inactive overly pooled outcome: A.17 distinct sector partitions and IHS/log-zero/log scales are specified by added outcomes below."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1136",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1136",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1136",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1136",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1136",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1136",
+    "before": null,
+    "after": "IHS hotel sales → municipality×manufacturing-sector output, split by IO tourism input intensity and satellite-use inclusion; A.17 panels A–C."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1136",
+    "before": null,
+    "after": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Introduction p.2247 explicitly foregrounds manufacturing effects outside tourism-intensive suppliers; main=1. Single jointly interacted year×coast×sector FE set. Preserve table conflict: headings say 10/11/16/5 sectors but Ns 53,779/48,890/73,335/29,334 do not match those counts. Do not repair group labels."
+  }
+]
+```
