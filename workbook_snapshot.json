@@ -48637,7 +48637,16 @@
     "L4759": "1",
     "M4759": "n/a",
     "N4759": "Section III.B eq.(5), pp.1711–1712: implemented NC pooled multivariable OLS regression of long-term outcome on teacher VA and covariates, using within- and between-teacher variation; graduation 0.24 pp (SE 0.04), college plans 0.41 pp (SE 0.06) per teacher-VA SD.",
-    "O4759": "Distinct pooled estimator from CFR two-step s4, not a control-only variant of that two-step residualization. Authors dispute consistency but interpret these as alternative estimates of teacher effects; retain under broad author-intention gate. The roughly 30-percent reduction compares effects, not outcome means. Do not transfer the simulated IV implementation in Table 5 to actual NC data; footnote23 says that IV estimator is not in Rothstein (2017)."
+    "O4759": "Distinct pooled estimator from CFR two-step s4, not a control-only variant of that two-step residualization. Authors dispute consistency but interpret these as alternative estimates of teacher effects; retain under broad author-intention gate. The roughly 30-percent reduction compares effects, not outcome means. Do not transfer the simulated IV implementation in Table 5 to actual NC data; footnote23 says that IV estimator is not in Rothstein (2017).",
+    "A4760": "RG6T2XB5",
+    "B4760": "h5",
+    "I4760": "1",
+    "J4760": "DiD_conventional",
+    "K4760": "0",
+    "L4760": "1",
+    "M4760": "n/a",
+    "N4760": "Section I.B p.1696 and Appendix C pp.4–5: simulated effect of change in mean VA on change in mean scores across years within schools. Ideal-data, missing-data exclusion and zero-imputation variants; excluding missing gives a coefficient not significantly different from one, zero-imputation about 0.93.",
+    "O4760": "No coefficient invented for ideal-data code-only variant. Simulation addresses central missing-data argument. Generated VA and independent score shocks imply no confounding absent imputation; within-school differencing contrasts dose changes across schools. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124885,6 +124894,10 @@
     "B11168": "s7",
     "C11168": "hy2",
     "K11168": "High-school class rank, NC quasi-experimental estimate explicitly mentioned in footnote21 p.1709. Outcome definition/normalization and estimate are not supplied; retain minimum scope without inventing rank scale or coefficient.",
+    "A11169": "RG6T2XB5",
+    "B11169": "h5",
+    "C11169": "hy1",
+    "K11169": "Change in school mean current test scores between the two simulated years; Appendix C collapse by school/year and reg d.score d.va variants.",
     "A11174": "RG6T2XB5",
     "B11174": "s7",
     "C11174": "hy3",

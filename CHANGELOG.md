@@ -1185120,3 +1185120,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:58:45.417050+00:00 — Review RG6T2XB5 h5: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11169",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11169",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11169",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11169",
+    "before": null,
+    "after": "Change in school mean current test scores between the two simulated years; Appendix C collapse by school/year and reg d.score d.va variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4760",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4760",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4760",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4760",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4760",
+    "before": null,
+    "after": "Section I.B p.1696 and Appendix C pp.4–5: simulated effect of change in mean VA on change in mean scores across years within schools. Ideal-data, missing-data exclusion and zero-imputation variants; excluding missing gives a coefficient not significantly different from one, zero-imputation about 0.93."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4760",
+    "before": null,
+    "after": "No coefficient invented for ideal-data code-only variant. Simulation addresses central missing-data argument. Generated VA and independent score shocks imply no confounding absent imputation; within-school differencing contrasts dose changes across schools. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel."
+  }
+]
+```
