@@ -632,6 +632,7 @@
     "B131": "Tourism and Economic Development: Evidence from Mexico’s Coastline",
     "C131": "econ",
     "D131": 9,
+    "E131": "DONE — available-source review of the final article and publication-linked appendix; parent-adjudicated full-paper scope, including minimum manufacturing-production h71 with unknown method, treatment support and IV status; no manufactured coefficients or benchmark grid. Both disputed Table 8 welfare comparison allocations remain held outside applied triples. Source conflicts and unavailable replication-code limitations remain explicit; no empirical replication or unseen-implementation certification. h70 calibrated public-capital productivity response is Other (calibration-exclusion alternative retained); h46 is OLS with actual municipality-by-period demeaning (identifying-FE alternative retained). Simulated-outcome projections use conditional reported-outcome linearity, not a full underlying-data linearity claim. Own-counterfactual welfare means are aligned under the maintained model and population; scenario-level and construction-only alternatives remain explicit. Existing source qualifications and original model records are preserved.",
     "A132": "RG6T2XB5",
     "B132": "Measuring the Impacts of Teachers: Reply",
     "C132": "econ",
@@ -48543,7 +48544,16 @@
     "L4754": "0",
     "M4754": "n/a",
     "N4754": "Public tourism capital G → tourism productivity Z_T; calibrated elasticity alphaG=.036, eq.(5), p.2281 and Appendix4.2 p.31.",
-    "O4754": "Structural calibration using observed government investment/tourism GDP and an optimal-investment condition, not an OLS productivity regression or IV. Appendix p.31 explicitly says alphaG controls the impact of investment on productivity. The broad author-intention gate does not require direct regression estimation. Distinct from h67 investment shutdown → welfare. Calibration-only exclusion remains a parent alternative; comparison with external elasticity .05 is effect-to-effect and ineligible."
+    "O4754": "Structural calibration using observed government investment/tourism GDP and an optimal-investment condition, not an OLS productivity regression or IV. Appendix p.31 explicitly says alphaG controls the impact of investment on productivity. The broad author-intention gate does not require direct regression estimation. Distinct from h67 investment shutdown → welfare. Calibration-only exclusion remains a parent alternative; comparison with external elasticity .05 is effect-to-effect and ineligible.",
+    "A4755": "R3NSZAZE",
+    "B4755": "h71",
+    "I4755": "1",
+    "J4755": "unknown",
+    "K4755": "unknown",
+    "L4755": "1",
+    "M4755": "unknown",
+    "N4755": "Tourism development → local manufacturing production (manufacturing GDP) under alternative simulated agglomeration regimes; qualitative implemented response, Section IV.B Role of Spillovers, final p.2288.",
+    "O4755": "One minimum individually defined manufacturing-output scope: negative without spillovers, more adverse with within-manufacturing spillovers, net positive with cross-sector spillovers (p.2288). Not total GDP or aggregate welfare. Eq.(21)/Table 8 explicitly tabulate only total GDP; prose does not establish whether manufacturing signs are separately projected IV/reduced-form slopes or equilibrium contrasts. Method, treatment support and IV status unknown; no transferred IVs/FE, numerical coefficients, log scale, regional weighting or parameter-by-outcome grid. Central manufacturing-spillover mechanism (conclusion p.2291). Productivity language explains this production mechanism; this record is not a separately estimated productivity elasticity. No qualifying own-outcome benchmark supplied."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124739,7 +124749,14 @@
     "A11159": "R3NSZAZE",
     "B11159": "h70",
     "C11159": "hy1",
-    "K11159": "Tourism-services productivity Z_T as a function of public tourism capital, eq.(5); calibrated elasticity alphaG=.036, Appendix4.2 p.31. Not the parameter itself as dependent outcome."
+    "K11159": "Tourism-services productivity Z_T as a function of public tourism capital, eq.(5); calibrated elasticity alphaG=.036, Appendix4.2 p.31. Not the parameter itself as dependent outcome.",
+    "A11160": "R3NSZAZE",
+    "B11160": "h71",
+    "C11160": "hy1",
+    "H11160": "0",
+    "I11160": "unknown",
+    "J11160": "unknown",
+    "K11160": "Local manufacturing production/GDP response to tourism development in the simulated spillover scenarios, final p.2288 (especially explicit manufacturing GDP at lines 3900–3902). Qualitative sign only; scale, zero mass and regional summary weights not established. Not total regional GDP, productivity elasticity, or welfare."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

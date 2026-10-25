@@ -1184118,3 +1184118,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:57:59.312338+00:00 — Review R3NSZAZE h71: adjudicated source-scoped coding
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11160",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11160",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11160",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11160",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11160",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11160",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11160",
+    "before": null,
+    "after": "Local manufacturing production/GDP response to tourism development in the simulated spillover scenarios, final p.2288 (especially explicit manufacturing GDP at lines 3900–3902). Qualitative sign only; scale, zero mass and regional summary weights not established. Not total regional GDP, productivity elasticity, or welfare."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E131",
+    "before": null,
+    "after": "DONE — available-source review of the final article and publication-linked appendix; parent-adjudicated full-paper scope, including minimum manufacturing-production h71 with unknown method, treatment support and IV status; no manufactured coefficients or benchmark grid. Both disputed Table 8 welfare comparison allocations remain held outside applied triples. Source conflicts and unavailable replication-code limitations remain explicit; no empirical replication or unseen-implementation certification. h70 calibrated public-capital productivity response is Other (calibration-exclusion alternative retained); h46 is OLS with actual municipality-by-period demeaning (identifying-FE alternative retained). Simulated-outcome projections use conditional reported-outcome linearity, not a full underlying-data linearity claim. Own-counterfactual welfare means are aligned under the maintained model and population; scenario-level and construction-only alternatives remain explicit. Existing source qualifications and original model records are preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4755",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4755",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4755",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4755",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4755",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4755",
+    "before": null,
+    "after": "Tourism development → local manufacturing production (manufacturing GDP) under alternative simulated agglomeration regimes; qualitative implemented response, Section IV.B Role of Spillovers, final p.2288."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4755",
+    "before": null,
+    "after": "One minimum individually defined manufacturing-output scope: negative without spillovers, more adverse with within-manufacturing spillovers, net positive with cross-sector spillovers (p.2288). Not total GDP or aggregate welfare. Eq.(21)/Table 8 explicitly tabulate only total GDP; prose does not establish whether manufacturing signs are separately projected IV/reduced-form slopes or equilibrium contrasts. Method, treatment support and IV status unknown; no transferred IVs/FE, numerical coefficients, log scale, regional weighting or parameter-by-outcome grid. Central manufacturing-spillover mechanism (conclusion p.2291). Productivity language explains this production mechanism; this record is not a separately estimated productivity elasticity. No qualifying own-outcome benchmark supplied."
+  }
+]
+```
