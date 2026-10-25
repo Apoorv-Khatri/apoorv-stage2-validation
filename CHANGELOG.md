@@ -1184274,3 +1184274,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:51:54.997567+00:00 — Review RG6T2XB5 s2: adjudicated source-scoped coding
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2888",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2888",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2888",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2887",
+    "before": null,
+    "after": "Retained simulated current-score response (Table 3 panel A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2888",
+    "before": null,
+    "after": "spurious: Table 3 panel B is an explicitly invalid prior-score placebo correlation, not a causal effect of current teacher VA on past outcomes. Parent current-score setting retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1141",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1141",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1141",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1141",
+    "before": null,
+    "after": "Table 3 panel A cols.1–3, pp.1701–1702: simulated continuous cross-cohort VA change on current mean-score change; 0.997, 0.991 and 0.972. Leave-two/three-out and school-year-FE variants grouped. Panel B lagged-score placebo excluded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1141",
+    "before": null,
+    "after": "Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel. The implemented school-grade cohort-change contrast has DiD priority over FE/OLS; no directly estimated randomized-assignment ITT is reported."
+  }
+]
+```
