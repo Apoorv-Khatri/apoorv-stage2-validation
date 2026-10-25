@@ -47728,7 +47728,16 @@
     "L4670": "1",
     "M4670": "n/a",
     "N4670": "Figure 10(a)-(b), final A16 / linked B16, pp.2703-2704: closure effects on employment and market share by pre-shock group industry diversification (negative employment HHI) above/below median; interpreted null differential responses, not diagnostic tests.",
-    "O4670": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects. Main=1: final introduction p.2678 and conclusion p.2712 explicitly make industry diversification combined with geographical proximity central; Figure 10(a,b) tests that conclusion through the substantive null differential. This is not a significance-based promotion."
+    "O4670": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects. Main=1: final introduction p.2678 and conclusion p.2712 explicitly make industry diversification combined with geographical proximity central; Figure 10(a,b) tests that conclusion through the substantive null differential. This is not a significance-based promotion.",
+    "A4671": "QW28FTUN",
+    "B4671": "h2",
+    "I4671": "1",
+    "J4671": "DiD_conventional",
+    "K4671": "1",
+    "L4671": "0",
+    "M4671": "n/a",
+    "N4671": "Figure 10(c)-(d), final A17 / linked B17, pp.2703-2704: closure effects on employment and market share by group cash/assets above/below median within above-median ILM Access firms; interpreted null differential responses, not diagnostic tests.",
+    "O4671": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -122839,7 +122848,21 @@
     "H10973": "0",
     "I10973": "unknown",
     "J10973": "none",
-    "K10973": "Market share, firm sales/total four-digit industry sales."
+    "K10973": "Market share, firm sales/total four-digit industry sales.",
+    "A10974": "QW28FTUN",
+    "B10974": "h2",
+    "C10974": "hy1",
+    "H10974": "0",
+    "I10974": "unknown",
+    "J10974": "none",
+    "K10974": "Employment of shocked firm, total full-time-equivalent workers.",
+    "A10975": "QW28FTUN",
+    "B10975": "h2",
+    "C10975": "hy2",
+    "H10975": "0",
+    "I10975": "unknown",
+    "J10975": "none",
+    "K10975": "Market share, firm sales/total four-digit industry sales."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
