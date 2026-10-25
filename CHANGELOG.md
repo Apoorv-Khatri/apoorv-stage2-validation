@@ -1188096,3 +1188096,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T17:34:49.813092+00:00 — Review RH367ADM h16: adjudicated source-scoped coding
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11190",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11190",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11190",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11190",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11190",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11190",
+    "before": null,
+    "after": "Proportional reduction in poverty headcount: (first-last)/first, positive for reduction, not percentage-point change. Code 03 lines75-76; final AII says percent change. Excludes first headcount<0.03 in code, rather than all windows ending in elimination. Population regressor uses pop outside middle class in code although final prose/table calls it total population. Zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4780",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4780",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4780",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4780",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4780",
+    "before": null,
+    "after": "Relative GDP per capita of integrated market -> poverty reduction. Table AII cols1-4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4780",
+    "before": null,
+    "after": "Linear in the reported country-window proportional poverty-reduction outcome conditional on regressors. AII cols1,4 regress; col2 absorbs five-year-window dummies, col3 country dummies. Main pp.1939-40 uses FE to diagnose identifying variation, not an unobserved-heterogeneity identification argument; survey OLS retained throughout, with actual dummies disclosed. Independent audit: p.1939 explains loss of significance as the source of identifying variation; p.1940 compares time-invariant controls to country dummies, but does not give those controls a causal-confounding-removal role. This substantive purpose, not a keyword test or dummy count, supports OLS. The competing identifying-FE reading is documented outside application rows. No DiD or IV. Outcome denominator is pre-window headcount; no outcome-adaptive fitting weights."
+  }
+]
+```
