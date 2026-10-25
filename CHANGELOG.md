@@ -1112925,3 +1112925,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:51:08.368895+00:00 — Review NVSISRI2 s4: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1111",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1111",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1111",
+    "before": null,
+    "after": "Cumulative federal-only grant dollars on cumulative city municipal sewerage capital spending: Table IV Panel A, equation (5), including nominal/real, basin-year, reweighted and fn20 control variants. Project-cost treatment is h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1111",
+    "before": null,
+    "after": "pp. 370–371, 381–383; marginal grant pass-through, not aggregate effect of existence of Act. DiD precedence remains under weighting. A coefficient near 1 is an effect-per-dollar-unit, not an outcome-mean or outcome-SD comparison."
+  }
+]
+```
