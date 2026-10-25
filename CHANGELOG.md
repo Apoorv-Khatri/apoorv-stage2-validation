@@ -1113597,3 +1113597,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:54:20.247631+00:00 — Review NVSISRI2 h4: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10811",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10811",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10811",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10811",
+    "before": null,
+    "after": "Log mean owner-occupied home value, upstream versus downstream grant-exposure DDD robustness. Final p.372."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4634",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4634",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4634",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4634",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4634",
+    "before": null,
+    "after": "Upstream/downstream triple-difference housing-value effect of cumulative grants, separately reported from preferred downstream-only hedonic DiD; final p.372."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4634",
+    "before": null,
+    "after": "Minimum log mean home-value outcome established by immediate equation(6) discussion. Alternate Appendix VIII row5 corroborates further outcomes, held pending final supplement. Distinct estimand, same method category."
+  }
+]
+```

@@ -47280,7 +47280,16 @@
     "L4633": "0",
     "M4633": "n/a",
     "N4633": "Downstream-only difference-in-differences effects of cumulative grant count on primary pollution outcomes, distinct counterfactual from upstream/downstream DDD. Final p.372 explicitly reports both designs for pollution and housing.",
-    "O4633": "Minimum primary outcomes only. Alternate author Appendix VI row21 corroborates six-outcome implementation but is not certified final; remaining exact allocations held. No new OLS setting merely for unweighted sensitivity."
+    "O4633": "Minimum primary outcomes only. Alternate author Appendix VI row21 corroborates six-outcome implementation but is not certified final; remaining exact allocations held. No new OLS setting merely for unweighted sensitivity.",
+    "A4634": "NVSISRI2",
+    "B4634": "h4",
+    "I4634": "1",
+    "J4634": "DiD_conventional",
+    "K4634": "0",
+    "L4634": "0",
+    "M4634": "n/a",
+    "N4634": "Upstream/downstream triple-difference housing-value effect of cumulative grants, separately reported from preferred downstream-only hedonic DiD; final p.372.",
+    "O4634": "Minimum log mean home-value outcome established by immediate equation(6) discussion. Alternate Appendix VIII row5 corroborates further outcomes, held pending final supplement. Distinct estimand, same method category."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121057,7 +121066,11 @@
     "A10810": "NVSISRI2",
     "B10810": "h3",
     "C10810": "hy2",
-    "K10810": "Mean share of pollution readings in the cell that are not fishable."
+    "K10810": "Mean share of pollution readings in the cell that are not fishable.",
+    "A10811": "NVSISRI2",
+    "B10811": "h4",
+    "C10811": "hy1",
+    "K10811": "Log mean owner-occupied home value, upstream versus downstream grant-exposure DDD robustness. Final p.372."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
