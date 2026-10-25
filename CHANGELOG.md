@@ -1185009,3 +1185009,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:58:07.001695+00:00 — Review RG6T2XB5 h4: adjudicated source-scoped coding
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11164",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11165",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11164",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11165",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11164",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11165",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11164",
+    "before": null,
+    "after": "High-school graduation outcome, NC pooled OLS effect in pp.1711–1712 expressed in percentage points; no own-outcome benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11165",
+    "before": null,
+    "after": "Plans to attend college, NC pooled OLS effect in pp.1711–1712 expressed in percentage points; no own-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4759",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4759",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4759",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4759",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4759",
+    "before": null,
+    "after": "Section III.B eq.(5), pp.1711–1712: implemented NC pooled multivariable OLS regression of long-term outcome on teacher VA and covariates, using within- and between-teacher variation; graduation 0.24 pp (SE 0.04), college plans 0.41 pp (SE 0.06) per teacher-VA SD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4759",
+    "before": null,
+    "after": "Distinct pooled estimator from CFR two-step s4, not a control-only variant of that two-step residualization. Authors dispute consistency but interpret these as alternative estimates of teacher effects; retain under broad author-intention gate. The roughly 30-percent reduction compares effects, not outcome means. Do not transfer the simulated IV implementation in Table 5 to actual NC data; footnote23 says that IV estimator is not in Rothstein (2017)."
+  }
+]
+```
