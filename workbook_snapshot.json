@@ -627,6 +627,7 @@
     "B130": "Exploiting Growth Opportunities: The Role of Internal Labour Markets",
     "C130": "econ",
     "D130": 7,
+    "E130": "DONE — Full available-source review of41-page final article and100-page August7,2023 publication-linked manuscript, independently audited; all31 B tables/nine B figures accounted for. Manuscript AppendixB not authenticated final AppendixA; public archive inventories/MD5 checked, bounded staticcode inspection only, no restricted INSEE/CASD access or empirical replication. Conventional DiD precedence retained; six named implemented modern scopes supported by displayed estimates/prose, not independently verified modern command code. SA hiring/investment retained from final all-outcomes statement with narrower-scope alternative explicit. Hiring corrected to employment change; joint internal/external strata and null mechanisms retained. h1 main follows central interpreted diversification null. Parent accepts four Table2 identifyingFE diversification effects under parameter-specific boosts/channel language, not causal contamination of descriptive affiliation coefficients; narrower exclusion alternative explicit. Table3 marginalredeployment nonbinary Other due realized-outcome donor selection/clipping, not wordstructural; conditional affine alternative disclosed. Both highHHI profit pairs verbal1/divided0 from explicit fn24, no transferred lowHHI ratios. All four profit benchmark alignments unknown, ratioofaverages and timing/sample conflicts retained; CEO effect-to-effect rejected. Ownpreevent means eligible but postevent target/weights unknown. Preserve Table2 units, Table3 timing/output/N, activepartner horizons, B21 null/coefficient conflict and panel labels. Undisplayed B20 columns, inconsistent B25 subcategory census, exact finalappendix allocations and modern combinations held without invented grids/zeros/ratios. Original model fields/IDs/links preserved. No omission-free certification.",
     "A131": "R3NSZAZE",
     "B131": "Tourism and Economic Development: Evidence from Mexico’s Coastline",
     "C131": "econ",
@@ -47845,7 +47846,16 @@
     "L4683": "0",
     "M4683": "n/a",
     "N4683": "Table 2 columns 5-6, pp.2686-2689: group diversification across Paris versus outside Paris (negative employment-share HHI), including interaction with centered rest-of-group size, on firm-year excess internal-hiring probability. Firm-by-group and year fixed effects; routine no-interaction/interaction columns grouped.",
-    "O4683": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design."
+    "O4683": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design.",
+    "A4684": "QW28FTUN",
+    "B4684": "h15",
+    "I4684": "1",
+    "J4684": "FE",
+    "K4684": "0",
+    "L4684": "0",
+    "M4684": "n/a",
+    "N4684": "Table 2 columns 7-8, pp.2686-2689: group diversification across regions (negative employment-share HHI), including interaction with centered rest-of-group size, on firm-year excess internal-hiring probability. Firm-by-group and year fixed effects; routine no-interaction/interaction columns grouped.",
+    "O4684": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123136,7 +123146,11 @@
     "A11000": "QW28FTUN",
     "B11000": "h14",
     "C11000": "hy1",
-    "K11000": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units."
+    "K11000": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units.",
+    "A11001": "QW28FTUN",
+    "B11001": "h15",
+    "C11001": "hy1",
+    "K11001": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

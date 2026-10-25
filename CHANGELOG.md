@@ -1153698,3 +1153698,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:33:38.817856+00:00 — Review QW28FTUN h15: source-audited coding and linked comparisons
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11001",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11001",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11001",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11001",
+    "before": null,
+    "after": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E130",
+    "before": null,
+    "after": "DONE — Full available-source review of41-page final article and100-page August7,2023 publication-linked manuscript, independently audited; all31 B tables/nine B figures accounted for. Manuscript AppendixB not authenticated final AppendixA; public archive inventories/MD5 checked, bounded staticcode inspection only, no restricted INSEE/CASD access or empirical replication. Conventional DiD precedence retained; six named implemented modern scopes supported by displayed estimates/prose, not independently verified modern command code. SA hiring/investment retained from final all-outcomes statement with narrower-scope alternative explicit. Hiring corrected to employment change; joint internal/external strata and null mechanisms retained. h1 main follows central interpreted diversification null. Parent accepts four Table2 identifyingFE diversification effects under parameter-specific boosts/channel language, not causal contamination of descriptive affiliation coefficients; narrower exclusion alternative explicit. Table3 marginalredeployment nonbinary Other due realized-outcome donor selection/clipping, not wordstructural; conditional affine alternative disclosed. Both highHHI profit pairs verbal1/divided0 from explicit fn24, no transferred lowHHI ratios. All four profit benchmark alignments unknown, ratioofaverages and timing/sample conflicts retained; CEO effect-to-effect rejected. Ownpreevent means eligible but postevent target/weights unknown. Preserve Table2 units, Table3 timing/output/N, activepartner horizons, B21 null/coefficient conflict and panel labels. Undisplayed B20 columns, inconsistent B25 subcategory census, exact finalappendix allocations and modern combinations held without invented grids/zeros/ratios. Original model fields/IDs/links preserved. No omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4684",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4684",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4684",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4684",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4684",
+    "before": null,
+    "after": "Table 2 columns 7-8, pp.2686-2689: group diversification across regions (negative employment-share HHI), including interaction with centered rest-of-group size, on firm-year excess internal-hiring probability. Firm-by-group and year fixed effects; routine no-interaction/interaction columns grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4684",
+    "before": null,
+    "after": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design."
+  }
+]
+```
