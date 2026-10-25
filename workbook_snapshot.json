@@ -48255,7 +48255,16 @@
     "L4722": "0",
     "M4722": "n/a",
     "N4722": "Island indicator → employment/population/GDP/manufacturing GDP; A.18 level and 2010 interaction, effect stability across recent periods.",
-    "O4722": "A.18 and fn.28 p.2270: substantively implemented recent-period effects and heterogeneity, no pre-tourism placebo; conventional FE cross-sectional effect stability, not a new DiD treatment start."
+    "O4722": "A.18 and fn.28 p.2270: substantively implemented recent-period effects and heterogeneity, no pre-tourism placebo; conventional FE cross-sectional effect stability, not a new DiD treatment start.",
+    "A4723": "R3NSZAZE",
+    "B4723": "h39",
+    "I4723": "1",
+    "J4723": "FE",
+    "K4723": "0",
+    "L4723": "0",
+    "M4723": "n/a",
+    "N4723": "White-sand share → employment/population/GDP/manufacturing GDP; A.18 level and 2010 interaction, effect stability across recent periods.",
+    "O4723": "A.18 and fn.28 p.2270: substantively implemented recent-period effects and heterogeneity, no pre-tourism placebo; conventional FE cross-sectional effect stability, not a new DiD treatment start."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124237,7 +124246,23 @@
     "H11119": "0",
     "I11119": "1",
     "J11119": "ihs",
-    "K11119": "IHS municipality manufacturing GDP (zero values retained)."
+    "K11119": "IHS municipality manufacturing GDP (zero values retained).",
+    "A11120": "R3NSZAZE",
+    "B11120": "h39",
+    "C11120": "hy1",
+    "K11120": "Log municipality employment, population census 2000/2010.",
+    "A11121": "R3NSZAZE",
+    "B11121": "h39",
+    "C11121": "hy2",
+    "K11121": "Log municipality population, population census 2000/2010.",
+    "A11122": "R3NSZAZE",
+    "B11122": "h39",
+    "C11122": "hy3",
+    "K11122": "Log municipality GDP, economic censuses 1998/2008.",
+    "A11123": "R3NSZAZE",
+    "B11123": "h39",
+    "C11123": "hy4",
+    "K11123": "IHS municipality manufacturing GDP (zero values retained)."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
