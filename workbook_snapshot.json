@@ -48273,7 +48273,16 @@
     "L4724": "0",
     "M4724": "n/a",
     "N4724": "Ruins indicator → employment/population/GDP/manufacturing GDP; A.18 level and 2010 interaction, effect stability across recent periods.",
-    "O4724": "A.18 and fn.28 p.2270: substantively implemented recent-period effects and heterogeneity, no pre-tourism placebo; conventional FE cross-sectional effect stability, not a new DiD treatment start."
+    "O4724": "A.18 and fn.28 p.2270: substantively implemented recent-period effects and heterogeneity, no pre-tourism placebo; conventional FE cross-sectional effect stability, not a new DiD treatment start.",
+    "A4725": "R3NSZAZE",
+    "B4725": "h41",
+    "I4725": "1",
+    "J4725": "FE",
+    "K4725": "0",
+    "L4725": "0",
+    "M4725": "n/a",
+    "N4725": "nominal wage → log municipality employment, A.21 OLS spatial labor supply elasticity.",
+    "O4725": "Eq.(18), pp.2282–83 and A.21: coast FE and geographic controls; broad interpreted supply elasticity despite OLS demand/supply confounding."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124299,7 +124308,11 @@
     "H11127": "0",
     "I11127": "1",
     "J11127": "ihs",
-    "K11127": "IHS municipality manufacturing GDP (zero values retained)."
+    "K11127": "IHS municipality manufacturing GDP (zero values retained).",
+    "A11128": "R3NSZAZE",
+    "B11128": "h41",
+    "C11128": "hy1",
+    "K11128": "Log municipality/regional employment in 300 calibrated regions (A.21 caption); text sometimes calls it population L_n."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
