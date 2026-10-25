@@ -1183284,3 +1183284,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:52:27.264771+00:00 — Review R3NSZAZE h63: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11152",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11152",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11152",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11152",
+    "before": null,
+    "after": "Counterfactual change in log local worker utility without migration."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4747",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4747",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4747",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4747",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4747",
+    "before": null,
+    "after": "Counterfactual change in log tourism GDP → change in log local worker utility without mobility; A.28 international-only tourism."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4747",
+    "before": null,
+    "after": "Conditional reported-outcome 2SLS; complete simulated equilibrium is nonlinear (Other alternative). Table says three island/beach/ruins instruments; Appendix 4.6 says island/beach only. Both possible sets are mixed, so IV_type remains mixed while exact set conflict is explicit."
+  }
+]
+```

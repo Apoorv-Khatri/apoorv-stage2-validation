@@ -48471,7 +48471,16 @@
     "L4746": "0",
     "M4746": "mixed",
     "N4746": "Counterfactual change in log tourism GDP → change in log local worker utility without mobility; A.28 all tourism.",
-    "O4746": "Conditional reported-outcome 2SLS; complete simulated equilibrium is nonlinear (Other alternative). Table says three island/beach/ruins instruments; Appendix 4.6 says island/beach only. Both possible sets are mixed, so IV_type remains mixed while exact set conflict is explicit."
+    "O4746": "Conditional reported-outcome 2SLS; complete simulated equilibrium is nonlinear (Other alternative). Table says three island/beach/ruins instruments; Appendix 4.6 says island/beach only. Both possible sets are mixed, so IV_type remains mixed while exact set conflict is explicit.",
+    "A4747": "R3NSZAZE",
+    "B4747": "h63",
+    "I4747": "1",
+    "J4747": "IV",
+    "K4747": "0",
+    "L4747": "0",
+    "M4747": "mixed",
+    "N4747": "Counterfactual change in log tourism GDP → change in log local worker utility without mobility; A.28 international-only tourism.",
+    "O4747": "Conditional reported-outcome 2SLS; complete simulated equilibrium is nonlinear (Other alternative). Table says three island/beach/ruins instruments; Appendix 4.6 says island/beach only. Both possible sets are mixed, so IV_type remains mixed while exact set conflict is explicit."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124623,7 +124632,11 @@
     "A11151": "R3NSZAZE",
     "B11151": "h62",
     "C11151": "hy1",
-    "K11151": "Counterfactual change in log local worker utility without migration."
+    "K11151": "Counterfactual change in log local worker utility without migration.",
+    "A11152": "R3NSZAZE",
+    "B11152": "h63",
+    "C11152": "hy1",
+    "K11152": "Counterfactual change in log local worker utility without migration."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
