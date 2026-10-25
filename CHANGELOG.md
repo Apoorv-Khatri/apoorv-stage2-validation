@@ -1149525,3 +1149525,312 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:23:30.926240+00:00 — Review QW28FTUN s1: source-audited coding and linked comparisons
+
+50 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10571",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10571",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10571",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10571",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L766",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L767",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10571",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M766",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M767",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10571",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P766",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P767",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10571",
+    "before": null,
+    "after": "p.2698, Figure 5: +2 internal-hire share effect 0.015, author-stated 26% of year-before-shock baseline 0.057."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q766",
+    "before": null,
+    "after": "p.2698, Figure 4(d): author-rounded market-share effect about 0.06 percentage points, 8.5% of pre-event average 0.7%. Horizon not uniquely stated; retain one prose comparison, not four manufactured annual triples."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q767",
+    "before": null,
+    "after": "p.2698, Figure 5: +1 internal-hire share effect 0.01, author-stated 17% relative to year-before-shock share 0.057. +2 separately hc1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10571",
+    "before": null,
+    "after": "Own pre-event mean is eligible; equality to the post-event untreated target with the estimator weights is not established. DiD parallel trends does not establish stationary outcome levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R766",
+    "before": null,
+    "after": "Eligible own pre-event outcome mean; contemporaneous untreated target/weights not established, so alignment unknown rather than automatic 1 or 0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R767",
+    "before": null,
+    "after": "Eligible own pre-event outcome mean; contemporaneous untreated target/weights not established, so alignment unknown rather than automatic 1 or 0."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2836",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2838",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2835",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2836",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2838",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2835",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2836",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2837",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2838",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2839",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2836",
+    "before": null,
+    "after": "Figure 4(b) p.2699: Hiring is the change in employment, not gross hires. Archive FIGURES 4 7 8 9.do uses Dempl0. Outcome can be negative; zero mass not established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1124",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1124",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1124",
+    "before": null,
+    "after": "Section 5.1, equation (3), Figures 4-5 (pp.2698-2700): closure effects on employment, net employment change labelled Hiring, investment, market share and share of internal hires. Same-group firms in the same shocked industry are aggregated. Conventional event-time coefficients are recentered at -1; modern estimators separately h6-h7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1124",
+    "before": null,
+    "after": "Binary competitor-closure exposure; identifying firm/pair FE do not override conventional DiD. Linear in reported FTE/CapEx/share outcomes conditional on design. Diagnostic leads excluded, substantive post-event nulls retained."
+  }
+]
+```
