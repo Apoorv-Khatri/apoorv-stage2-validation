@@ -1112976,3 +1112976,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:51:42.290945+00:00 — Review NVSISRI2 s5: source-audited coding and linked comparisons
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R754",
+    "before": null,
+    "after": "Grant expenditure is not a level/mean/SD of the housing outcome. Table VI uses baseline-scaled Table V home/rent effects, not the log housing-stock coefficient; aggregate outcomes retained in h8."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R755",
+    "before": null,
+    "after": "Grant expenditure is not a level/mean/SD of the housing outcome. Table VI uses baseline-scaled Table V home/rent effects, not the log housing-stock coefficient; aggregate outcomes retained in h8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1112",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1112",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1112",
+    "before": null,
+    "after": "Cumulative grant count on log mean owner home values, log mean rent, log housing units, and log total housing-stock value, Table V A–D, equation (6), downstream-only conventional DiD; routine radius/control variants grouped. Table VI aggregation separately h8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1112",
+    "before": null,
+    "after": "pp.372–373,383–386. Retain interpreted nulls. Figure IV is s6; appendix sensitivity and DDD scopes separately recorded. Explicit baseline scaling exists, but population-specific baseline comparison allocations are held outside candidate arrays (H14); grant costs are not housing benchmarks."
+  }
+]
+```
