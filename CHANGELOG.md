@@ -1113882,3 +1113882,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:56:11.880749+00:00 — Review NVSISRI2 h7: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10815",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10816",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10815",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10816",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10815",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10816",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10815",
+    "before": null,
+    "after": "Annual cost to make one river-mile fishable, $2014 million: 1.91 /1.47 /1.50 across Table III cols1–3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10816",
+    "before": null,
+    "after": "Annual cost to increase oxygen saturation by 10 percentage points in one river-mile, $2014 million: 0.67 /0.52 /0.53 across Table III cols1–3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4637",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4637",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4637",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4637",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4637",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4637",
+    "before": null,
+    "after": "Annual cost per river-mile made fishable or per river-mile with a 10 percentage-point oxygen-saturation improvement; Table III rows7–8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4637",
+    "before": null,
+    "after": "Final p.380 explicitly divides cost by 30 times estimated environmental gain; reciprocal of an estimated outcome response is nonlinear in reported pollution. This distinct causal cost-effectiveness estimand is retained, but units of environmental improvement are not own-outcome benchmarks for s2. Cost/pass-through sensitivity mentioned pp.383,390 remains within this scope; no draft numbers substituted."
+  }
+]
+```

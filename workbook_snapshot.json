@@ -47307,7 +47307,16 @@
     "L4636": "1",
     "M4636": "n/a",
     "N4636": "Aggregate effects of Clean Water Act grant investments on river miles made fishable and river-mile dissolved-oxygen improvements, Table III rows5–6, using regression estimates and river length/grant weights.",
-    "O4636": "pp.379–380 notes; linear weighted scaling of relevant DDD coefficients conditional on reported pollution outcomes and fixed river/grant weights. Fishable uses Appendix VI majority criterion, not Table II share coefficient. No fresh experimental design or nonlinear exponentiation asserted."
+    "O4636": "pp.379–380 notes; linear weighted scaling of relevant DDD coefficients conditional on reported pollution outcomes and fixed river/grant weights. Fishable uses Appendix VI majority criterion, not Table II share coefficient. No fresh experimental design or nonlinear exponentiation asserted.",
+    "A4637": "NVSISRI2",
+    "B4637": "h7",
+    "I4637": "1",
+    "J4637": "Other",
+    "K4637": "0",
+    "L4637": "1",
+    "M4637": "n/a",
+    "N4637": "Annual cost per river-mile made fishable or per river-mile with a 10 percentage-point oxygen-saturation improvement; Table III rows7–8.",
+    "O4637": "Final p.380 explicitly divides cost by 30 times estimated environmental gain; reciprocal of an estimated outcome response is nonlinear in reported pollution. This distinct causal cost-effectiveness estimand is retained, but units of environmental improvement are not own-outcome benchmarks for s2. Cost/pass-through sensitivity mentioned pp.383,390 remains within this scope; no draft numbers substituted."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121100,7 +121109,15 @@
     "A10814": "NVSISRI2",
     "B10814": "h6",
     "C10814": "hy2",
-    "K10814": "River miles × percent-saturation increase /10: 14,721 /25,536 /34,787 across Table III columns1–3; fixed scaling of dissolved-oxygen response. The denominator 10 is a units conversion, not an observed outcome-level benchmark."
+    "K10814": "River miles × percent-saturation increase /10: 14,721 /25,536 /34,787 across Table III columns1–3; fixed scaling of dissolved-oxygen response. The denominator 10 is a units conversion, not an observed outcome-level benchmark.",
+    "A10815": "NVSISRI2",
+    "B10815": "h7",
+    "C10815": "hy1",
+    "K10815": "Annual cost to make one river-mile fishable, $2014 million: 1.91 /1.47 /1.50 across Table III cols1–3.",
+    "A10816": "NVSISRI2",
+    "B10816": "h7",
+    "C10816": "hy2",
+    "K10816": "Annual cost to increase oxygen saturation by 10 percentage points in one river-mile, $2014 million: 0.67 /0.52 /0.53 across Table III cols1–3."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
