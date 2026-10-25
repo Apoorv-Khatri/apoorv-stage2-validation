@@ -48399,7 +48399,16 @@
     "L4738": "0",
     "M4738": "n/a",
     "N4738": "International tourism integration with 2,455-region resolution; A.30.",
-    "O4738": "Appendix 4.5, A.30. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
+    "O4738": "Appendix 4.5, A.30. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication.",
+    "A4739": "R3NSZAZE",
+    "B4739": "h55",
+    "I4739": "1",
+    "J4739": "Other",
+    "K4739": "1",
+    "L4739": "0",
+    "M4739": "n/a",
+    "N4739": "All tourism integration, alternative 2.5% public-capital depreciation calibration.",
+    "O4739": "Appendix 2 fn.5 p.29. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-tourism mean utility, not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124504,7 +124513,14 @@
     "H11143": "0",
     "I11143": "unknown",
     "J11143": "other",
-    "K11143": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level."
+    "K11143": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level.",
+    "A11144": "R3NSZAZE",
+    "B11144": "h55",
+    "C11144": "hy1",
+    "H11144": "0",
+    "I11144": "unknown",
+    "J11144": "other",
+    "K11144": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
@@ -243233,7 +243249,18 @@
     "O10593": "1",
     "P10593": "1",
     "Q10593": "Appendix 4.5, A.30. 2,455 regions: 1.78% of corresponding counterfactual mean utility.",
-    "R10593": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
+    "R10593": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication.",
+    "A10594": "R3NSZAZE",
+    "B10594": "h55",
+    "C10594": "hc1",
+    "K10594": "1",
+    "L10594": "hy1",
+    "M10594": "outcome_mean",
+    "N10594": "1",
+    "O10594": "1",
+    "P10594": "1",
+    "Q10594": "Appendix 2 fn.5 p.29. 2.5% depreciation, not baseline 12%: 5.1% of corresponding counterfactual mean utility.",
+    "R10594": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-tourism mean utility, not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
   },
   "Guide": {
     "A2": "Stage 2 review instructions",
