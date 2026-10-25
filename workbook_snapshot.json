@@ -47746,7 +47746,16 @@
     "L4672": "0",
     "M4672": "n/a",
     "N4672": "Figure 11(b), final A21 columns 1-4 / linked B21: closure effects on bilateral internal/external flow shares by same versus different local labour market. Code FIGURE 11b.do estimates jointly interacted spatial cells, not a regression restricted only to local origins.",
-    "O4672": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects."
+    "O4672": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects.",
+    "A4673": "QW28FTUN",
+    "B4673": "h4",
+    "I4673": "1",
+    "J4673": "DiD_conventional",
+    "K4673": "1",
+    "L4673": "0",
+    "M4673": "n/a",
+    "N4673": "Final fn28 p.2707, A21 columns 5-8 / linked B21: closure effects on bilateral internal/external flow shares by same/different four-digit sector. Preserve interpreted same-sector null despite linked table significant +1/+3 internal coefficients; not proof of numerical zero.",
+    "O4673": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -122878,7 +122887,14 @@
     "H10976": "0",
     "I10976": "1",
     "J10976": "none",
-    "K10976": "Bilateral flow share, workers from origin k / total firm-to-firm movers hired by shocked destination j; both internal/external and same/different local market strata."
+    "K10976": "Bilateral flow share, workers from origin k / total firm-to-firm movers hired by shocked destination j; both internal/external and same/different local market strata.",
+    "A10977": "QW28FTUN",
+    "B10977": "h4",
+    "C10977": "hy1",
+    "H10977": "0",
+    "I10977": "1",
+    "J10977": "none",
+    "K10977": "Bilateral worker-flow share from origin to shocked destination, same/different industry and internal/external origin strata."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

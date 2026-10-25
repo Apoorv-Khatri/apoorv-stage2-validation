@@ -1151919,3 +1151919,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:28:23.226727+00:00 — Review QW28FTUN h4: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10977",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10977",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10977",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10977",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10977",
+    "before": null,
+    "after": "Bilateral worker-flow share from origin to shocked destination, same/different industry and internal/external origin strata."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4673",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4673",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4673",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4673",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4673",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4673",
+    "before": null,
+    "after": "Final fn28 p.2707, A21 columns 5-8 / linked B21: closure effects on bilateral internal/external flow shares by same/different four-digit sector. Preserve interpreted same-sector null despite linked table significant +1/+3 internal coefficients; not proof of numerical zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4673",
+    "before": null,
+    "after": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects."
+  }
+]
+```
