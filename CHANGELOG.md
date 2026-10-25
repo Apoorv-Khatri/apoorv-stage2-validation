@@ -1114452,3 +1114452,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:58:06.313947+00:00 — Review NVSISRI2 h11: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10822",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10822",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10822",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10822",
+    "before": null,
+    "after": "Ratio of aggregate fitted housing-value change to grant costs for grant subgroups; final p.387. Not an outcome-mean comparison merely because benchmark is a monetary cost."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4641",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4641",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4641",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4641",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4641",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4641",
+    "before": null,
+    "after": "Heterogeneity of measured housing benefits relative to grant costs, Online Appendix Table VII/E.3, final p.387."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4641",
+    "before": null,
+    "after": "Final text establishes implemented ratios for outdoor recreation (0.53), high-amenity urban areas(0.40), South(0.84) and states no subset ratio exceeds1. Detailed estimator/interaction/aggregation implementation is not established in final main text; alternate copy corroboration is not final verification. Retain outcome-specific minimum, hold precise underlying log-effect grid. Independent adjudication: main=1, because introduction p.352 explicitly presents limited cost-effectiveness and benefit/cost heterogeneity among the central findings, with policy relevance repeated p.392. Statistical nulls and appendix placement do not demote this role."
+  }
+]
+```

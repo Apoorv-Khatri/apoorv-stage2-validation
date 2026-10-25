@@ -47343,7 +47343,16 @@
     "L4640": "1",
     "M4640": "n/a",
     "N4640": "Heterogeneous grant cost-effectiveness across grant characteristics, Online Appendix Table VII / E.2, final pp.380–381.",
-    "O4640": "Minimum defined cost-effectiveness outcomes below; final text describes declining urban and outdoor-recreation groups and others. Reciprocal-effect cost calculation inherits Table III nonlinear mapping. Exact subgroup interactions and appendix numbers held; no subgroup×outcome numeric grid. Independent adjudication: main=1, because introduction p.352 explicitly presents limited cost-effectiveness and benefit/cost heterogeneity among the central findings, with policy relevance repeated p.392. Statistical nulls and appendix placement do not demote this role."
+    "O4640": "Minimum defined cost-effectiveness outcomes below; final text describes declining urban and outdoor-recreation groups and others. Reciprocal-effect cost calculation inherits Table III nonlinear mapping. Exact subgroup interactions and appendix numbers held; no subgroup×outcome numeric grid. Independent adjudication: main=1, because introduction p.352 explicitly presents limited cost-effectiveness and benefit/cost heterogeneity among the central findings, with policy relevance repeated p.392. Statistical nulls and appendix placement do not demote this role.",
+    "A4641": "NVSISRI2",
+    "B4641": "h11",
+    "I4641": "1",
+    "J4641": "unknown",
+    "K4641": "0",
+    "L4641": "1",
+    "M4641": "unknown",
+    "N4641": "Heterogeneity of measured housing benefits relative to grant costs, Online Appendix Table VII/E.3, final p.387.",
+    "O4641": "Final text establishes implemented ratios for outdoor recreation (0.53), high-amenity urban areas(0.40), South(0.84) and states no subset ratio exceeds1. Detailed estimator/interaction/aggregation implementation is not established in final main text; alternate copy corroboration is not final verification. Retain outcome-specific minimum, hold precise underlying log-effect grid. Independent adjudication: main=1, because introduction p.352 explicitly presents limited cost-effectiveness and benefit/cost heterogeneity among the central findings, with policy relevance repeated p.392. Statistical nulls and appendix placement do not demote this role."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121167,7 +121176,11 @@
     "A10821": "NVSISRI2",
     "B10821": "h10",
     "C10821": "hy2",
-    "K10821": "Annual $2014 cost per river-mile oxygen improvement (10 percentage points), heterogeneity analysis; exact final appendix values unavailable."
+    "K10821": "Annual $2014 cost per river-mile oxygen improvement (10 percentage points), heterogeneity analysis; exact final appendix values unavailable.",
+    "A10822": "NVSISRI2",
+    "B10822": "h11",
+    "C10822": "hy1",
+    "K10822": "Ratio of aggregate fitted housing-value change to grant costs for grant subgroups; final p.387. Not an outcome-mean comparison merely because benchmark is a monetary cost."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
