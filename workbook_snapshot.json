@@ -48183,7 +48183,16 @@
     "L4714": "0",
     "M4714": "mixed",
     "N4714": "IHS hotel sales → log employment/population; A.8 col.7 (panels A,B), altered instrument definition.",
-    "O4714": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Actual set: 200 m beach strip plus original island and ruins."
+    "O4714": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Actual set: 200 m beach strip plus original island and ruins.",
+    "A4715": "R3NSZAZE",
+    "B4715": "h31",
+    "I4715": "1",
+    "J4715": "IV",
+    "K4715": "0",
+    "L4715": "0",
+    "M4715": "mixed",
+    "N4715": "IHS number of tourists → log employment/population, A.12 cols.2,4.",
+    "O4715": "A.12 explicitly changes focal tourism measure; same three mixed excluded instruments."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124037,7 +124046,15 @@
     "A11096": "R3NSZAZE",
     "B11096": "h30",
     "C11096": "hy2",
-    "K11096": "Log municipality population, population census 2000/2010."
+    "K11096": "Log municipality population, population census 2000/2010.",
+    "A11097": "R3NSZAZE",
+    "B11097": "h31",
+    "C11097": "hy1",
+    "K11097": "Log municipality employment, population census 2000/2010.",
+    "A11098": "R3NSZAZE",
+    "B11098": "h31",
+    "C11098": "hy2",
+    "K11098": "Log municipality population, population census 2000/2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
