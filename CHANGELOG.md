@@ -1154145,3 +1154145,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T13:10:31.020279+00:00 — Review R3NSZAZE h2: adjudicated source-scoped coding
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11004",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11005",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11004",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11005",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11004",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11005",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11004",
+    "before": null,
+    "after": "Log municipality employment, population census 2000/2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11005",
+    "before": null,
+    "after": "Log municipality population, population census 2000/2010."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4686",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4686",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4686",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4686",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4686",
+    "before": null,
+    "after": "Fraction of shoreline white-sand coverage → log employment and population; Table 2 separate/joint specifications grouped at same location."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4686",
+    "before": null,
+    "after": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
+  }
+]
+```
