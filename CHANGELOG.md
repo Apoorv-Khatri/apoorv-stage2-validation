@@ -1113486,3 +1113486,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:53:51.225541+00:00 — Review NVSISRI2 h3: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10809",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10810",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10809",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10810",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10809",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10810",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10809",
+    "before": null,
+    "after": "Mean dissolved oxygen deficit in plant×upstream/downstream×year cells, percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10810",
+    "before": null,
+    "after": "Mean share of pollution readings in the cell that are not fishable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4633",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4633",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4633",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4633",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4633",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4633",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4633",
+    "before": null,
+    "after": "Downstream-only difference-in-differences effects of cumulative grant count on primary pollution outcomes, distinct counterfactual from upstream/downstream DDD. Final p.372 explicitly reports both designs for pollution and housing."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4633",
+    "before": null,
+    "after": "Minimum primary outcomes only. Alternate author Appendix VI row21 corroborates six-outcome implementation but is not certified final; remaining exact allocations held. No new OLS setting merely for unweighted sensitivity."
+  }
+]
+```

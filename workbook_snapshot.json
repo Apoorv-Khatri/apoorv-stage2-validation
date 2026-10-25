@@ -47271,7 +47271,16 @@
     "L4632": "0",
     "M4632": "n/a",
     "N4632": "Grant-count pollution sensitivity analyses at Online Appendix Table VI, minimum scope established by final pp. 359 fn8, 360, 367–369, 379–380; routine sample, control and distance variants grouped, baseline row repetition not a new effect.",
-    "O4632": "Final text confirms implemented sensitivity results. Six standard level outcomes and majority-fishable outcome retained; add three distinct log pollution outcomes established by final p.359 fn8 and corroborated by alternate Appendix VI row12. Grant-dollar/category/construction-count treatments are h15–h17; precise final appendix coefficients remain held."
+    "O4632": "Final text confirms implemented sensitivity results. Six standard level outcomes and majority-fishable outcome retained; add three distinct log pollution outcomes established by final p.359 fn8 and corroborated by alternate Appendix VI row12. Grant-dollar/category/construction-count treatments are h15–h17; precise final appendix coefficients remain held.",
+    "A4633": "NVSISRI2",
+    "B4633": "h3",
+    "I4633": "1",
+    "J4633": "DiD_conventional",
+    "K4633": "0",
+    "L4633": "0",
+    "M4633": "n/a",
+    "N4633": "Downstream-only difference-in-differences effects of cumulative grant count on primary pollution outcomes, distinct counterfactual from upstream/downstream DDD. Final p.372 explicitly reports both designs for pollution and housing.",
+    "O4633": "Minimum primary outcomes only. Alternate author Appendix VI row21 corroborates six-outcome implementation but is not certified final; remaining exact allocations held. No new OLS setting merely for unweighted sensitivity."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121040,7 +121049,15 @@
     "A10808": "NVSISRI2",
     "B10808": "h2",
     "C10808": "hy10",
-    "K10808": "Log Total suspended solids (TSS) pollution outcome in grant-count DDD sensitivity. Final p.359 fn8 explicitly establishes log specifications; alternate Appendix VI row12 corroborates these three distinct transformed outcomes. No draft numerical estimate imported; raw zero handling unresolved."
+    "K10808": "Log Total suspended solids (TSS) pollution outcome in grant-count DDD sensitivity. Final p.359 fn8 explicitly establishes log specifications; alternate Appendix VI row12 corroborates these three distinct transformed outcomes. No draft numerical estimate imported; raw zero handling unresolved.",
+    "A10809": "NVSISRI2",
+    "B10809": "h3",
+    "C10809": "hy1",
+    "K10809": "Mean dissolved oxygen deficit in plant×upstream/downstream×year cells, percentage points.",
+    "A10810": "NVSISRI2",
+    "B10810": "h3",
+    "C10810": "hy2",
+    "K10810": "Mean share of pollution readings in the cell that are not fishable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
