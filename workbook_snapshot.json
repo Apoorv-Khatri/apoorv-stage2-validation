@@ -47316,7 +47316,16 @@
     "L4637": "1",
     "M4637": "n/a",
     "N4637": "Annual cost per river-mile made fishable or per river-mile with a 10 percentage-point oxygen-saturation improvement; Table III rows7–8.",
-    "O4637": "Final p.380 explicitly divides cost by 30 times estimated environmental gain; reciprocal of an estimated outcome response is nonlinear in reported pollution. This distinct causal cost-effectiveness estimand is retained, but units of environmental improvement are not own-outcome benchmarks for s2. Cost/pass-through sensitivity mentioned pp.383,390 remains within this scope; no draft numbers substituted."
+    "O4637": "Final p.380 explicitly divides cost by 30 times estimated environmental gain; reciprocal of an estimated outcome response is nonlinear in reported pollution. This distinct causal cost-effectiveness estimand is retained, but units of environmental improvement are not own-outcome benchmarks for s2. Cost/pass-through sensitivity mentioned pp.383,390 remains within this scope; no draft numbers substituted.",
+    "A4638": "NVSISRI2",
+    "B4638": "h8",
+    "I4638": "1",
+    "J4638": "DiD_conventional",
+    "K4638": "0",
+    "L4638": "1",
+    "M4638": "n/a",
+    "N4638": "Aggregate fitted change in value of housing and its ratio to grant costs, Table VI cols1–4; combines Table V owner/rental effects with baseline housing/rents, grant exposure and fixed discounting.",
+    "O4638": "pp.385–386 fn23–24; publication-linked code lines488–518 multiplies baseline homevalues by b and hasgrant, uses fixed rent annuity and divides by cost. Conditional on baseline stocks, costs and reported log-outcome domain the causal numerator remains linear in regression effects. Full underlying micro-level construction/estimated baselines is a different domain; no empirical replication. NOT Table V log total housing-stock coefficient."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121117,7 +121126,15 @@
     "A10816": "NVSISRI2",
     "B10816": "h7",
     "C10816": "hy2",
-    "K10816": "Annual cost to increase oxygen saturation by 10 percentage points in one river-mile, $2014 million: 0.67 /0.52 /0.53 across Table III cols1–3."
+    "K10816": "Annual cost to increase oxygen saturation by 10 percentage points in one river-mile, $2014 million: 0.67 /0.52 /0.53 across Table III cols1–3.",
+    "A10817": "NVSISRI2",
+    "B10817": "h8",
+    "C10817": "hy1",
+    "K10817": "Aggregate change in housing value, $2014 billion:15.92 /89.25 /73.7 /91.97, Table VI cols1–4. Owned homes within1 mile;25 miles;plus rental annuity;plus nonmetro imputation respectively.",
+    "A10818": "NVSISRI2",
+    "B10818": "h8",
+    "C10818": "hy2",
+    "K10818": "Ratio of aggregate change in housing value to grant costs:0.06 /0.26 /0.22 /0.24, Table VI cols1–4. This constructed dependent result is not a same-outcome benchmark comparison between home values and government expenditure."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

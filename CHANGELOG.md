@@ -1113993,3 +1113993,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:56:42.760218+00:00 — Review NVSISRI2 h8: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10817",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10818",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10817",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10818",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10817",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10818",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10817",
+    "before": null,
+    "after": "Aggregate change in housing value, $2014 billion:15.92 /89.25 /73.7 /91.97, Table VI cols1–4. Owned homes within1 mile;25 miles;plus rental annuity;plus nonmetro imputation respectively."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10818",
+    "before": null,
+    "after": "Ratio of aggregate change in housing value to grant costs:0.06 /0.26 /0.22 /0.24, Table VI cols1–4. This constructed dependent result is not a same-outcome benchmark comparison between home values and government expenditure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4638",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4638",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4638",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4638",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4638",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4638",
+    "before": null,
+    "after": "Aggregate fitted change in value of housing and its ratio to grant costs, Table VI cols1–4; combines Table V owner/rental effects with baseline housing/rents, grant exposure and fixed discounting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4638",
+    "before": null,
+    "after": "pp.385–386 fn23–24; publication-linked code lines488–518 multiplies baseline homevalues by b and hasgrant, uses fixed rent annuity and divides by cost. Conditional on baseline stocks, costs and reported log-outcome domain the causal numerator remains linear in regression effects. Full underlying micro-level construction/estimated baselines is a different domain; no empirical replication. NOT Table V log total housing-stock coefficient."
+  }
+]
+```
