@@ -1122468,3 +1122468,912 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T07:15:07.392656+00:00 — Review QL93W8JQ s6: source-audited coding and linked comparisons
+
+150 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10263",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10264",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10265",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10266",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10267",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10268",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10269",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10270",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10271",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10263",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10264",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10265",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10266",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10267",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10268",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10269",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10270",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10271",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10263",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10264",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10265",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10266",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10267",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10268",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10269",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10270",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10271",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10264",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10265",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10267",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10268",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10269",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10270",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10271",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10263",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10264",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10265",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10266",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10267",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10268",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10269",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10270",
+    "before": null,
+    "after": "y9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10271",
+    "before": null,
+    "after": "y10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L765",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10263",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10264",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10265",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10266",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10267",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10268",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10269",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10270",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10271",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M765",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10264",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10265",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10266",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10263",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10264",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10265",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10266",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10267",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10268",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10263",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10264",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10265",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10266",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10267",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10268",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10269",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10270",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10271",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P765",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10263",
+    "before": null,
+    "after": "Table 7A p.1198,  column 1: assignment effect 0.008; printed control mean 0.950. Source main.txt lines 1763 and 1780."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10264",
+    "before": null,
+    "after": "Table 7A p.1198,  column 3: assignment effect 0.000; printed control mean 0.118. Source main.txt lines 1765 and 1782."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10265",
+    "before": null,
+    "after": "Table 7A p.1198,  column 4: assignment effect −0.002; printed control mean 0.162. Source main.txt lines 1766 and 1783."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10266",
+    "before": null,
+    "after": "Table 7A p.1198,  column 5: assignment effect −0.021; printed control mean 0.605. Source main.txt lines 1767 and 1784."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10267",
+    "before": null,
+    "after": "Table 7B p.1198,  column 1: assignment effect 0.010; printed control mean 0.950. Source main.txt lines 1799 and 1816."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10268",
+    "before": null,
+    "after": "Table 7B p.1198,  column 2: assignment effect 0.018; printed control mean 0.129. Source main.txt lines 1800 and 1817."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10269",
+    "before": null,
+    "after": "Table 7B p.1198,  column 3: assignment effect 0.011; printed control mean 0.118. Source main.txt lines 1801 and 1818."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10270",
+    "before": null,
+    "after": "Table 7B p.1198,  column 4: assignment effect −0.015; printed control mean 0.214. Source main.txt lines 1802 and 1819."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10271",
+    "before": null,
+    "after": "Table 7B p.1198,  column 5: assignment effect −0.014; printed control mean 0.540. Source main.txt lines 1803 and 1820."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q765",
+    "before": null,
+    "after": "Table 7, Panel A: “Treatment 0.023 … Control mean 0.115” [ … ] “More importantly, only 11.5 percent of the children in the control group state their plan to major in science at university. This value is 2.3 percentage points higher for the treatment group, implying a 20 percent treatment effect.” Source: Table 7A, p.1198; control school sample."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10264",
+    "before": null,
+    "after": " Major preferences are elicited conditional on intending university, which treatment can change (pp.1184,1197; Table 7 sample counts). Same-column control mean qualifies but school randomization alone does not establish this selected target-population match. Long-term IPW weights remain an additional uncertainty, not a demonstrated mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10265",
+    "before": null,
+    "after": " Major preferences are elicited conditional on intending university, which treatment can change (pp.1184,1197; Table 7 sample counts). Same-column control mean qualifies but school randomization alone does not establish this selected target-population match. Long-term IPW weights remain an additional uncertainty, not a demonstrated mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10266",
+    "before": null,
+    "after": "p.1198 prose says 0.02 percentage points against 61 percent, but table reports -0.021 probability units and 0.605 mean. Preserve unit conflict, not a calculated ratio. Major preferences are elicited conditional on intending university, which treatment can change (pp.1184,1197; Table 7 sample counts). Same-column control mean qualifies but school randomization alone does not establish this selected target-population match. Long-term IPW weights remain an additional uncertainty, not a demonstrated mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10267",
+    "before": null,
+    "after": "Selected post-treatment sample or long-term IPW: benchmark weighting/target match not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10268",
+    "before": null,
+    "after": "Selected post-treatment sample or long-term IPW: benchmark weighting/target match not established. Major preferences are elicited conditional on intending university, which treatment can change (pp.1184,1197; Table 7 sample counts). Same-column control mean qualifies but school randomization alone does not establish this selected target-population match. Long-term IPW weights remain an additional uncertainty, not a demonstrated mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10269",
+    "before": null,
+    "after": "Selected post-treatment sample or long-term IPW: benchmark weighting/target match not established. Major preferences are elicited conditional on intending university, which treatment can change (pp.1184,1197; Table 7 sample counts). Same-column control mean qualifies but school randomization alone does not establish this selected target-population match. Long-term IPW weights remain an additional uncertainty, not a demonstrated mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10270",
+    "before": null,
+    "after": "Selected post-treatment sample or long-term IPW: benchmark weighting/target match not established. Major preferences are elicited conditional on intending university, which treatment can change (pp.1184,1197; Table 7 sample counts). Same-column control mean qualifies but school randomization alone does not establish this selected target-population match. Long-term IPW weights remain an additional uncertainty, not a demonstrated mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10271",
+    "before": null,
+    "after": "Selected post-treatment sample or long-term IPW: benchmark weighting/target match not established. Major preferences are elicited conditional on intending university, which treatment can change (pp.1184,1197; Table 7 sample counts). Same-column control mean qualifies but school randomization alone does not establish this selected target-population match. Long-term IPW weights remain an additional uncertainty, not a demonstrated mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R765",
+    "before": null,
+    "after": " Major preferences are elicited conditional on intending university, which treatment can change (pp.1184,1197; Table 7 sample counts). Same-column control mean qualifies but school randomization alone does not establish this selected target-population match. Long-term IPW weights remain an additional uncertainty, not a demonstrated mismatch."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2824",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2824",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2815",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2816",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2817",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2818",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2819",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2820",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2821",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2822",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2823",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2824",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2816",
+    "before": null,
+    "after": "Indicator for aspiring to major in science at university. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2817",
+    "before": null,
+    "after": "Indicator for aspiring to major in engineering. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2818",
+    "before": null,
+    "after": "Indicator for aspiring to major in medicine. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2819",
+    "before": null,
+    "after": "Indicator for aspiring to a non-STEM major (social sciences/humanities). Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2821",
+    "before": null,
+    "after": "Long-term indicator for aspiring to major in science at university. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2822",
+    "before": null,
+    "after": "Long-term indicator for aspiring to major in engineering. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2823",
+    "before": null,
+    "after": "Long-term indicator for aspiring to major in medicine. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2824",
+    "before": null,
+    "after": "Long-term indicator for aspiring to a non-STEM major. Major preference is elicited only if the student intends university (pp.1184,1197); tables have fewer major-choice observations than university-choice observations. This is a post-treatment selected response population, not an established unconditional all-student indicator. Exact missing-response treatment remains unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1122",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1122",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1122",
+    "before": null,
+    "after": "School-randomized ITT; grade/district controls do not create a distinct FE setting. Conditional linearity in reported standardized outcome; full data-dependent LASSO/SD procedure is an alternative taxonomy, not assignment design. Long-term IPW identification needs maintained attrition assumptions. Table 7 says OLS despite prose calling coefficients average marginal effects; retain linear RCT pending code, not inferred logit. Independent role adjudication: Introduction p.1176 explicitly lists raising university/science aspirations among the findings. Main denotes material support, not significance or equal headline prominence."
+  }
+]
+```
