@@ -1154403,3 +1154403,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T13:11:49.890021+00:00 — Review R3NSZAZE h4: adjudicated source-scoped coding
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11008",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11009",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11010",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11011",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11012",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11013",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11008",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11009",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11010",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11011",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11012",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11013",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11008",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11009",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11010",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11011",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11012",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11013",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11008",
+    "before": null,
+    "after": "Log local labor income/wage bill, economic censuses 1998/2008."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11009",
+    "before": null,
+    "after": "Log municipality GDP, economic censuses 1998/2008."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11010",
+    "before": null,
+    "after": "Log municipality GDP excluding hotels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11011",
+    "before": null,
+    "after": "IHS municipality manufacturing GDP (zero values retained)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11012",
+    "before": null,
+    "after": "IHS municipality agricultural GDP, including substantively interpreted insignificant positive effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11013",
+    "before": null,
+    "after": "Log individual hourly wage with demographic controls and population weights; Table 3 col.6/Table 5 col.16 report 5,490,558 observations. Appendix 2 also describes population-weighted municipality averages of log-wage residuals; do not call this a raw untransformed wage residual."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4688",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4688",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4688",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4688",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4688",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4688",
+    "before": null,
+    "after": "Standardized attractiveness index → wage bill, GDP, GDP excluding hotels, manufacturing GDP, agricultural GDP and adjusted log wages; Table 3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4688",
+    "before": null,
+    "after": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Table 3 coefficients .818,.736,.677,.451,.172,.0759. Treatment-SD scaling is not outcome-SD scaling."
+  }
+]
+```
