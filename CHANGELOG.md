@@ -1158579,3 +1158579,72 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:20:43.794889+00:00 — Review R3NSZAZE s9: adjudicated source-scoped coding
+
+10 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R780",
+    "before": null,
+    "after": "60% compares no-spillover effect .232 with empirical/preferred effect ~.4/.409. Effect-to-effect decomposition, not GDP level benchmark."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2885",
+    "before": null,
+    "after": "Model-generated change in log total regional GDP, no-tourism to current equilibrium; Table 8 A. Not a welfare outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1139",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1139",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1139",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1139",
+    "before": null,
+    "after": "Model-generated change in log local GDP on log tourism GDP; Table 8 panel A, alternative spillover parameterizations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1139",
+    "before": null,
+    "after": "Eq.(21), p.2287 explicitly implements 2SLS using island/beach/ruins jointly. IV conditional on reported model-generated outcome vector; full equilibrium recovery is nonlinear and would be Other under an underlying-data domain. Keep this explicit domain alternative; do not conflate IV assignment and structural generation."
+  }
+]
+```
