@@ -48102,7 +48102,16 @@
     "L4705": "1",
     "M4705": "n/a",
     "N4705": "Island indicator → model-generated change in log GDP; Table 8 panel B, joint reduced form under alternative spillovers.",
-    "O4705": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Conditional linear regression on simulated log-GDP changes; full nonlinear equilibrium domain alternative Other."
+    "O4705": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Conditional linear regression on simulated log-GDP changes; full nonlinear equilibrium domain alternative Other.",
+    "A4706": "R3NSZAZE",
+    "B4706": "h22",
+    "I4706": "1",
+    "J4706": "FE",
+    "K4706": "0",
+    "L4706": "1",
+    "M4706": "n/a",
+    "N4706": "White-sand share → model-generated change in log GDP; Table 8 panel B, joint reduced form under alternative spillovers.",
+    "O4706": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Conditional linear regression on simulated log-GDP changes; full nonlinear equilibrium domain alternative Other."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123885,7 +123894,11 @@
     "H11079": "0",
     "I11079": "unknown",
     "J11079": "other",
-    "K11079": "Counterfactual change in log total regional GDP."
+    "K11079": "Counterfactual change in log total regional GDP.",
+    "A11080": "R3NSZAZE",
+    "B11080": "h22",
+    "C11080": "hy1",
+    "K11080": "Counterfactual change in log total regional GDP."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
