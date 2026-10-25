@@ -1113051,3 +1113051,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:52:13.198653+00:00 — Review NVSISRI2 s6: source-audited coding and linked comparisons
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1113",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1113",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1113",
+    "before": null,
+    "after": "pp. 385 Figure IV: retain substantive modest near-river and null 25-mile dynamics, not only pretrend checks. Repeated-grant exposure remains nonbinary; event-time indicators do not make a two-arm assignment. No outcome-level benchmark is displayed by the zero reference line."
+  }
+]
+```
