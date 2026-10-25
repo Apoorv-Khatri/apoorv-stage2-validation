@@ -47800,7 +47800,16 @@
     "L4678": "0",
     "M4678": "n/a",
     "N4678": "final p.2699 A.5; linked B27-B31 and Figures B4-B8: de Chaisemartin-D’Haultfoeuille dynamic closure effects, heterogeneous scope. Separate implemented estimator from conventional event study; retain substantive post-event effects including imprecise/null estimates.",
-    "O4678": "Publication-linked August 2023 appendix B is not verified byte-identical to publisher final appendix A. Final text independently establishes both implemented estimators. SA uses last-treated cohort; dCdH uses not-yet-treated comparisons. No transfer of conventional-estimator magnitude benchmarks. Conditional linearity in reported outcomes, no assignment randomization. Independent archive-member search finds no eventstudyinteract or did_multiplegt command in either published ZIP; named implementation is established by final prose and linked Appendix B.5/captions, not verified modern-estimator source code. No empirical execution."
+    "O4678": "Publication-linked August 2023 appendix B is not verified byte-identical to publisher final appendix A. Final text independently establishes both implemented estimators. SA uses last-treated cohort; dCdH uses not-yet-treated comparisons. No transfer of conventional-estimator magnitude benchmarks. Conditional linearity in reported outcomes, no assignment randomization. Independent archive-member search finds no eventstudyinteract or did_multiplegt command in either published ZIP; named implementation is established by final prose and linked Appendix B.5/captions, not verified modern-estimator source code. No empirical execution.",
+    "A4679": "QW28FTUN",
+    "B4679": "h10",
+    "I4679": "1",
+    "J4679": "DiD_modern",
+    "K4679": "1",
+    "L4679": "0",
+    "M4679": "n/a",
+    "N4679": "final p.2707 A.5; linked B26 and Figure B9: Sun-Abraham interaction-weighted closure effects, pair scope. Separate implemented estimator from conventional event study; retain substantive post-event effects including imprecise/null estimates.",
+    "O4679": "Publication-linked August 2023 appendix B is not verified byte-identical to publisher final appendix A. Final text independently establishes both implemented estimators. SA uses last-treated cohort; dCdH uses not-yet-treated comparisons. No transfer of conventional-estimator magnitude benchmarks. Conditional linearity in reported outcomes, no assignment randomization. Independent archive-member search finds no eventstudyinteract or did_multiplegt command in either published ZIP; named implementation is established by final prose and linked Appendix B.5/captions, not verified modern-estimator source code. No empirical execution."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123065,7 +123074,14 @@
     "H10995": "0",
     "I10995": "unknown",
     "J10995": "none",
-    "K10995": "Market share (sales share); ILM Access threshold strata grouped."
+    "K10995": "Market share (sales share); ILM Access threshold strata grouped.",
+    "A10996": "QW28FTUN",
+    "B10996": "h10",
+    "C10996": "hy1",
+    "H10996": "0",
+    "I10996": "1",
+    "J10996": "none",
+    "K10996": "Internal bilateral worker-flow share."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
