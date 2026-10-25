@@ -47880,7 +47880,16 @@
     "L4686": "1",
     "M4686": "n/a",
     "N4686": "Fraction of shoreline white-sand coverage → log employment and population; Table 2 separate/joint specifications grouped at same location.",
-    "O4686": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
+    "O4686": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here.",
+    "A4687": "R3NSZAZE",
+    "B4687": "h3",
+    "I4687": "1",
+    "J4687": "FE",
+    "K4687": "1",
+    "L4687": "1",
+    "M4687": "n/a",
+    "N4687": "Pre-Hispanic ruins presence indicator → log employment and population; Table 2 separate/joint specifications grouped at same location.",
+    "O4687": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123223,7 +123232,21 @@
     "A11005": "R3NSZAZE",
     "B11005": "h2",
     "C11005": "hy2",
-    "K11005": "Log municipality population, population census 2000/2010."
+    "K11005": "Log municipality population, population census 2000/2010.",
+    "A11006": "R3NSZAZE",
+    "B11006": "h3",
+    "C11006": "hy1",
+    "H11006": "0",
+    "I11006": "0",
+    "J11006": "log",
+    "K11006": "Log municipality employment, population census 2000/2010.",
+    "A11007": "R3NSZAZE",
+    "B11007": "h3",
+    "C11007": "hy2",
+    "H11007": "0",
+    "I11007": "0",
+    "J11007": "log",
+    "K11007": "Log municipality population, population census 2000/2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
