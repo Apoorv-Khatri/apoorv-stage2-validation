@@ -1185468,3 +1185468,96 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T16:01:34.831786+00:00 — Review RG6T2XB5 h9: adjudicated source-scoped coding
+
+14 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11173",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11173",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11173",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11173",
+    "before": null,
+    "after": "Adult earnings, minimum implemented historical pooled-residualization outcome identified by footnote26 p.1714. Exact units, age and sample not supplied; no Table 5 simulation coefficient transferred."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E132",
+    "before": null,
+    "after": "DONE — available-source whole-paper review of the final article and official Appendices A–C; parent-adjudicated broad author-intention includes implemented simulated forward causal responses, with diagnostic-only exclusion alternative explicit; prior-score placebo excluded. h8 retains the actual joint IV included-X slope: VA instruments residual scores A, not X; parameter-specific regression-adjustment/unknown alternative remains explicit. Historical fn26 earnings h9 and empirical teacher-switching earnings s7/hy3 are minimum implemented scopes only, without borrowed simulation coefficients, invented scales or horizons. Held ledger I1–I8 preserves further historical outcomes, unresolved OLS GPA/rank allocations, printed scale/source conflicts and bounded external mapping. Original notes and model fields preserved. Static implementation inspection only; no empirical replication or unseen-implementation certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4764",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4764",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4764",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4764",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4764",
+    "before": null,
+    "after": "Footnote26 p.1714: historical CFR (2011) implemented pooled within/between-teacher residualization of both test scores and earnings; long-term teacher-VA effects roughly similar to published CFR-II. Retain minimum earnings scope only, no numerical estimate supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4764",
+    "before": null,
+    "after": "Distinct VA/outcome residualization estimator, not h4 pooled outcome regression using the later within-teacher-constructed VA. Pooled linear residualization and focal regression imply regression adjustment conditional on constructed VA; exact historical controls/age/scaling not supplied. Retain despite authors' inconsistency objection; no earlier working-paper coefficients imported."
+  }
+]
+```
