@@ -1185927,3 +1185927,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T17:19:47.553967+00:00 — Review RH367ADM s5: adjudicated source-scoped coding
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2903",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2903",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2903",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2903",
+    "before": null,
+    "after": "Duplicate scope; Table IV sample/window variants retained in focal-regressor settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1151",
+    "before": null,
+    "after": "Duplicate routine sample/window variant at Table IV. Effects covered by focal-regressor settings s1 and h1-h4; not a separate method or treatment."
+  }
+]
+```
