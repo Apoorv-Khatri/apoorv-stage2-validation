@@ -48761,7 +48761,16 @@
     "L4765": "1",
     "M4765": "n/a",
     "N4765": "Relative population of integrated market (ratio scaled by 1000) -> poverty reduction. Table IV cols1-3,5-6 (relative GDP absent col2); exports and agriculture also col4; AI col1 repeat. Outcome set also includes the explicitly interpreted derived effective-market-size response S (main baseline interpretation only).",
-    "O4765": "Nonlinear structural probit maximum likelihood, equations (2)-(5), not linear probit-index regression or IV. Cross-country and time variation; predetermined covariates do not establish exogeneity. Parameters in S or V are not probability marginal effects. Main p.1934-39; archive MATLAB/probit_table_ECMA_FINAL.m. Routine control/sample/window variants grouped; focal regressors split. Agricultural nulls retained; export income-boost interpretation explicit p.1936."
+    "O4765": "Nonlinear structural probit maximum likelihood, equations (2)-(5), not linear probit-index regression or IV. Cross-country and time variation; predetermined covariates do not establish exogeneity. Parameters in S or V are not probability marginal effects. Main p.1934-39; archive MATLAB/probit_table_ECMA_FINAL.m. Routine control/sample/window variants grouped; focal regressors split. Agricultural nulls retained; export income-boost interpretation explicit p.1936.",
+    "A4766": "RH367ADM",
+    "B4766": "h2",
+    "I4766": "1",
+    "J4766": "Other",
+    "K4766": "0",
+    "L4766": "1",
+    "M4766": "n/a",
+    "N4766": "Relative GDP per capita of integrated market -> poverty reduction. Table IV cols1-3,5-6 (relative GDP absent col2); exports and agriculture also col4; AI col1 repeat. Outcome set also includes the explicitly interpreted derived effective-market-size response S (main baseline interpretation only).",
+    "O4766": "Nonlinear structural probit maximum likelihood, equations (2)-(5), not linear probit-index regression or IV. Cross-country and time variation; predetermined covariates do not establish exogeneity. Parameters in S or V are not probability marginal effects. Main p.1934-39; archive MATLAB/probit_table_ECMA_FINAL.m. Routine control/sample/window variants grouped; focal regressors split. Agricultural nulls retained; export income-boost interpretation explicit p.1936."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -125088,6 +125097,13 @@
     "I11175": "1",
     "J11175": "none",
     "K11175": "Sustained poverty reduction: binary indicator of decline in every observed/interpolated year of the five-year window; zero observations established by Table I and supplement p.1. Continuous treatment: detailed labels supplied voluntarily.",
+    "A11176": "RH367ADM",
+    "B11176": "h2",
+    "C11176": "hy1",
+    "H11176": "1",
+    "I11176": "1",
+    "J11176": "none",
+    "K11176": "Sustained poverty reduction: binary indicator of decline in every observed/interpolated year of the five-year window; zero observations established by Table I and supplement p.1. Continuous treatment: detailed labels supplied voluntarily.",
     "A11197": "RH367ADM",
     "B11197": "s1",
     "C11197": "hy1",
@@ -125101,7 +125117,14 @@
     "H11198": "0",
     "I11198": "unknown",
     "J11198": "none",
-    "K11198": "Main pp.1934,1936; Table IV col1: explicitly interpreted change in effective market size S from integration with a market of the same population, equivalent to 154,000 people. Derived S in equivalent people outside the middle class, obtained from the joint structural model; not a probability marginal effect or separately estimated Afghanistan regression. No invented Pakistan coefficient or denominator."
+    "K11198": "Main pp.1934,1936; Table IV col1: explicitly interpreted change in effective market size S from integration with a market of the same population, equivalent to 154,000 people. Derived S in equivalent people outside the middle class, obtained from the joint structural model; not a probability marginal effect or separately estimated Afghanistan regression. No invented Pakistan coefficient or denominator.",
+    "A11199": "RH367ADM",
+    "B11199": "h2",
+    "C11199": "hy2",
+    "H11199": "0",
+    "I11199": "unknown",
+    "J11199": "none",
+    "K11199": "Main p.1936; Table IV col1: explicitly interpreted change in effective market size S, equivalent to 40 million people for a market with the same relative income; the worked Pakistan and Iran illustrations state 120 and 400 million more people. Derived S in equivalent people outside the middle class from the joint structural model. Not a separate country experiment, income outcome, or probability marginal effect."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

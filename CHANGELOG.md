@@ -1186584,3 +1186584,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T17:25:46.960766+00:00 — Review RH367ADM h2: adjudicated source-scoped coding
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11176",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11199",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11176",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11199",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11176",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11199",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11199",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11176",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11199",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11176",
+    "before": null,
+    "after": "Sustained poverty reduction: binary indicator of decline in every observed/interpolated year of the five-year window; zero observations established by Table I and supplement p.1. Continuous treatment: detailed labels supplied voluntarily."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11199",
+    "before": null,
+    "after": "Main p.1936; Table IV col1: explicitly interpreted change in effective market size S, equivalent to 40 million people for a market with the same relative income; the worked Pakistan and Iran illustrations state 120 and 400 million more people. Derived S in equivalent people outside the middle class from the joint structural model. Not a separate country experiment, income outcome, or probability marginal effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4766",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4766",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4766",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4766",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4766",
+    "before": null,
+    "after": "Relative GDP per capita of integrated market -> poverty reduction. Table IV cols1-3,5-6 (relative GDP absent col2); exports and agriculture also col4; AI col1 repeat. Outcome set also includes the explicitly interpreted derived effective-market-size response S (main baseline interpretation only)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4766",
+    "before": null,
+    "after": "Nonlinear structural probit maximum likelihood, equations (2)-(5), not linear probit-index regression or IV. Cross-country and time variation; predetermined covariates do not establish exogeneity. Parameters in S or V are not probability marginal effects. Main p.1934-39; archive MATLAB/probit_table_ECMA_FINAL.m. Routine control/sample/window variants grouped; focal regressors split. Agricultural nulls retained; export income-boost interpretation explicit p.1936."
+  }
+]
+```
