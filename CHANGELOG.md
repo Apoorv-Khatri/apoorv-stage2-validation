@@ -1153200,3 +1153200,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:31:44.567202+00:00 — Review QW28FTUN h11: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10997",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10997",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10997",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10997",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10997",
+    "before": null,
+    "after": "Internal bilateral worker-flow share."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4680",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4680",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4680",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4680",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4680",
+    "before": null,
+    "after": "final p.2707 A.5; linked B26 and Figure B9: de Chaisemartin-D’Haultfoeuille dynamic closure effects, pair scope. Separate implemented estimator from conventional event study; retain substantive post-event effects including imprecise/null estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4680",
+    "before": null,
+    "after": "Publication-linked August 2023 appendix B is not verified byte-identical to publisher final appendix A. Final text independently establishes both implemented estimators. SA uses last-treated cohort; dCdH uses not-yet-treated comparisons. No transfer of conventional-estimator magnitude benchmarks. Conditional linearity in reported outcomes, no assignment randomization. Independent archive-member search finds no eventstudyinteract or did_multiplegt command in either published ZIP; named implementation is established by final prose and linked Appendix B.5/captions, not verified modern-estimator source code. No empirical execution."
+  }
+]
+```
