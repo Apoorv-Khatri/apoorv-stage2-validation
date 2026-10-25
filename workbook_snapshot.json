@@ -48444,7 +48444,16 @@
     "L4743": "0",
     "M4743": "n/a",
     "N4743": "International tourism integration, parameter sensitivity A.24.",
-    "O4743": "Appendix 4.6, Table A.24. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
+    "O4743": "Appendix 4.6, Table A.24. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication.",
+    "A4744": "R3NSZAZE",
+    "B4744": "h60",
+    "I4744": "1",
+    "J4744": "Other",
+    "K4744": "0",
+    "L4744": "0",
+    "M4744": "n/a",
+    "N4744": "manufacturing employment → manufacturing productivity under endogenous transport-cost calibrations, A.27.",
+    "O4744": "Joint nonlinear indirect-inference reestimates. A.27 gammaM=.086,.08,.07 vs main p.2290 range .08–.086; retain .07 conflict rather than repair."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124584,7 +124593,11 @@
     "H11148": "0",
     "I11148": "unknown",
     "J11148": "other",
-    "K11148": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level."
+    "K11148": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level.",
+    "A11149": "R3NSZAZE",
+    "B11149": "h60",
+    "C11149": "hy1",
+    "K11149": "Manufacturing productivity response elasticity; not the gamma parameter as dependent outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
