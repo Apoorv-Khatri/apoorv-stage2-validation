@@ -1186017,3 +1186017,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T17:21:05.306604+00:00 — Review RH367ADM s7: adjudicated source-scoped coding
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2905",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2905",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2905",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2905",
+    "before": null,
+    "after": "Spurious causal setting: geography/institutions-only predictive-fit comparator, AI col2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1153",
+    "before": null,
+    "after": "AI col2 is an explanatory-fit comparator: main p.1938 explicitly says highly correlated and compares AUC. No parameter-specific causal interpretation established. Alternative broad geographic-determinants reading held in coverage ledger. Independent audit considered p.1925 wording determined only by institutional and geographic factors; p.1938 interpretation of these exact coefficients remains fit/explanatory power. Neither immutable treatment nor significance is the exclusion criterion. AII col4 included geographic controls similarly lack parameter-specific effect interpretation."
+  }
+]
+```
