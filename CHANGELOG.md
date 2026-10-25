@@ -1115235,3 +1115235,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T06:32:43.977580+00:00 — Review QHATH8UY s1: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10181",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10181",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10181",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10181",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10181",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L756",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10181",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M756",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10181",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10181",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P756",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10181",
+    "before": null,
+    "after": "Fig.3(b), Result 1 p.926: PD intended entry near immediate entry, paired with theoretical discrete-time entry level 0. Qualitative comparison, not an exact estimated zero."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q756",
+    "before": null,
+    "after": "Fig.3(b), p.925 and Result 1 p.926: PC intended entry is clustered near efficient t*=0.4; theoretical efficient entry level, not a sample mean. Verbal comparison; no division by t*."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R757",
+    "before": null,
+    "after": "Duplicate/wrong-parent repetition of the precise PC median 0.393 versus t*=0.4 in s2/c3 (Fig.4, p.926). Preserve existing s1/c1 for Result 1; do not duplicate this precise triple."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2770",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2770",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2770",
+    "before": null,
+    "after": "Intended entry-time distribution summarized by subject-wise Kaplan–Meier/product-limit median and treatment median thereof, normalized by period duration (fraction in prose, percent on Figs.3–4 axes). Not the raw first-entry outcome alone. Full-procedure nonlinear statistic. Exact zero mass in this constructed outcome is not established by a curve at the origin."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1114",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1114",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1114",
+    "before": null,
+    "after": "PC versus PD protocol effects on intended entry-time distributions and their product-limit median summaries, Fig.3(b), Result 1. Raw observed first-entry density in Fig.3(a) separated as h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1114",
+    "before": null,
+    "after": "pp.924–926, footnote 12; Analysis.R lines 36–85: product-limit recovery, subject medians and treatment medians are nonlinear in underlying entry times. Experimental assignment is not itself a linear RCT estimator. Random invitation/rematching is explicit; random assignment to protocols is not explicitly established. Conditional ECDF means of fixed constructed subject medians are linear in threshold indicators, but the full recovery is outcome-adaptive. No OLS/identifying-FE implementation."
+  }
+]
+```
