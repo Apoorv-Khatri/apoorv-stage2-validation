@@ -1162017,3 +1162017,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:42:14.038757+00:00 — Review R3NSZAZE h48: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11135",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11135",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11135",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11135",
+    "before": null,
+    "after": "Log tourism exports from origin to destination; all and >80% leisure destinations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4732",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4732",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4732",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4732",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4732",
+    "before": null,
+    "after": "Log inverse consumption PPP (relative tourism price), current and lagged → log bilateral tourism exports; A.22 cols.2–7 both destination samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4732",
+    "before": null,
+    "after": "Appendix 4.2 eq.A15: origin×destination and origin×period identifying effects. Log destination nominal USD exchange rate instruments relative consumption price; one continuous excluded instrument per timing specification; lag variants grouped at same table. Contemporaneous null and lagged responses retained."
+  }
+]
+```
