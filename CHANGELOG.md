@@ -1184544,3 +1184544,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:54:38.055679+00:00 — Review RG6T2XB5 s4: adjudicated source-scoped coding
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11166",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11166",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11166",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11166",
+    "before": null,
+    "after": "Actual college attendance, NY CFR-II OLS effect 0.82 percentage points per teacher-VA SD, explicitly reported p.1714. Distinct from NC plans to attend college."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2893",
+    "before": null,
+    "after": "Student adult earnings: Section III pp.1708–1711 explicitly discusses empirical CFR-II estimates as well as the earnings equation; retain minimum implemented outcome, not the simulated Table 5 earnings coefficients. Exact age, sample and units of the empirical estimate are not supplied here beyond earnings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1143",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1143",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1143",
+    "before": null,
+    "after": "Section III.A–B and III.C, pp.1709–1714: CFR-style two-step regression-adjustment effect of teacher test-score VA on long-term outcomes. Covariate slopes are estimated within teachers; outcome residuals are then regressed on leave-out teacher VA without residualizing VA. NC graduation and college plans: 0.34 and 0.60 percentage points per treatment SD. NY earnings are explicitly discussed as estimated empirical outcomes; NY actual college attendance OLS effect is 0.82 pp. Pooled multivariable estimator is h4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1143",
+    "before": null,
+    "after": "Appendix B establishes this is not a joint teacher-FE regression of outcome on focal VA: teacher FE identify nuisance covariate slopes, whereas focal VA varies between teachers. Conditional on teacher VA and covariates the two-step operator is linear in each long-term outcome; use OLS, not a phantom separate FE setting. Footnote22 prints variance for sigma_mu despite SD wording in text; preserve the printed inconsistency rather than deriving scaling. Treatment SD is not an outcome-SD benchmark."
+  }
+]
+```
