@@ -1113183,3 +1113183,306 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:53:21.742125+00:00 — Review NVSISRI2 h2: source-audited coding and linked comparisons
+
+49 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10799",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10800",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10801",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10802",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10803",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10804",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10805",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10806",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10807",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10808",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10799",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10800",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10801",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10802",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10803",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10804",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10805",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10806",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10807",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10808",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10799",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10800",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10801",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10802",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10803",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10804",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10805",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10806",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10807",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10808",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10799",
+    "before": null,
+    "after": "Mean dissolved oxygen deficit in plant×upstream/downstream×year cells, percentage points. Appendix VI sensitivity scope; no draft coefficient substituted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10800",
+    "before": null,
+    "after": "Mean share of pollution readings in the cell that are not fishable. Appendix VI sensitivity scope; no draft coefficient substituted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10801",
+    "before": null,
+    "after": "Mean biochemical oxygen demand (BOD) in the cell, mg/L. Appendix VI sensitivity scope; no draft coefficient substituted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10802",
+    "before": null,
+    "after": "Mean fecal coliform concentration in the cell, MPN/100 mL. Appendix VI sensitivity scope; no draft coefficient substituted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10803",
+    "before": null,
+    "after": "Mean share of pollution readings in the cell that are not swimmable. Appendix VI sensitivity scope; no draft coefficient substituted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10804",
+    "before": null,
+    "after": "Mean total suspended solids (TSS) in the cell, mg/L. Appendix VI sensitivity scope; no draft coefficient substituted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10805",
+    "before": null,
+    "after": "Indicator for violation of majority-fishable criterion: whether a majority of pollution readings are fishable is the binary cutoff used to construct river miles made fishable. Final pp. 379–380 fn19, Table III note links Appendix VI row13 col2. Sign orientation follows not-fishable convention; no draft coefficient substituted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10806",
+    "before": null,
+    "after": "Log Biochemical oxygen demand (BOD) pollution outcome in grant-count DDD sensitivity. Final p.359 fn8 explicitly establishes log specifications; alternate Appendix VI row12 corroborates these three distinct transformed outcomes. No draft numerical estimate imported; raw zero handling unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10807",
+    "before": null,
+    "after": "Log Fecal coliform concentration pollution outcome in grant-count DDD sensitivity. Final p.359 fn8 explicitly establishes log specifications; alternate Appendix VI row12 corroborates these three distinct transformed outcomes. No draft numerical estimate imported; raw zero handling unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10808",
+    "before": null,
+    "after": "Log Total suspended solids (TSS) pollution outcome in grant-count DDD sensitivity. Final p.359 fn8 explicitly establishes log specifications; alternate Appendix VI row12 corroborates these three distinct transformed outcomes. No draft numerical estimate imported; raw zero handling unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4632",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4632",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4632",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4632",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4632",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4632",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4632",
+    "before": null,
+    "after": "Grant-count pollution sensitivity analyses at Online Appendix Table VI, minimum scope established by final pp. 359 fn8, 360, 367–369, 379–380; routine sample, control and distance variants grouped, baseline row repetition not a new effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4632",
+    "before": null,
+    "after": "Final text confirms implemented sensitivity results. Six standard level outcomes and majority-fishable outcome retained; add three distinct log pollution outcomes established by final p.359 fn8 and corroborated by alternate Appendix VI row12. Grant-dollar/category/construction-count treatments are h15–h17; precise final appendix coefficients remain held."
+  }
+]
+```
