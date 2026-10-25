@@ -1114896,3 +1114896,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:59:58.300965+00:00 — Review NVSISRI2 h15: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10830",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10831",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10830",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10831",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10830",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10831",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10830",
+    "before": null,
+    "after": "Mean dissolved oxygen deficit in plant×side×year cells, percentage points. Minimum primary-outcome scope of equation(3) variant; final pp.358,367–369, corroborated by alternate Appendix VI. Final exact coefficient/transform allocation not substituted from alternate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10831",
+    "before": null,
+    "after": "Share of pollution readings in plant×side×year cells that violate the fishable standard. Minimum primary-outcome scope of equation(3) variant; final pp.358,367–369, corroborated by alternate Appendix VI. Final exact coefficient/transform allocation not substituted from alternate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4645",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4645",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4645",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4645",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4645",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4645",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4645",
+    "before": null,
+    "after": "Grant-dollar exposure rather than grant count in the upstream/downstream pollution DDD; Online Appendix VI, implemented result explicitly reported final p.368."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4645",
+    "before": null,
+    "after": "Final main_clean.txt853–868 establishes similar grant-dollar effects within equation(3) context. Primary DOD/not-fishable outcome minimum follows stated primary focus p.358; alternate A18/A41 corroborates both and four additional outcomes. Exact final treatment transform unknown: alternate uses ln(cumulative real grant dollars in billions +0.01), not silently certified final. No alternate coefficients imported."
+  }
+]
+```

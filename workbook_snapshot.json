@@ -47379,7 +47379,16 @@
     "L4644": "0",
     "M4644": "n/a",
     "N4644": "County spatial distribution of predicted housing-benefit/cost ratios, Online Appendix Figure VIII and final p.387 fn25, imposing common Table V col4 hedonic effects.",
-    "O4644": "Final fn25 describes treatment-plant deciles by2000 housing-unit count, same regression coefficients, plant-cost aggregation then county averaging. Not reestimated county coefficients. Conditional fixed baseline/denominator scaling preserves DiD coefficient linearity; alternate figure caption says population and TableVI instead, held as source conflict."
+    "O4644": "Final fn25 describes treatment-plant deciles by2000 housing-unit count, same regression coefficients, plant-cost aggregation then county averaging. Not reestimated county coefficients. Conditional fixed baseline/denominator scaling preserves DiD coefficient linearity; alternate figure caption says population and TableVI instead, held as source conflict.",
+    "A4645": "NVSISRI2",
+    "B4645": "h15",
+    "I4645": "1",
+    "J4645": "DiD_conventional",
+    "K4645": "0",
+    "L4645": "0",
+    "M4645": "n/a",
+    "N4645": "Grant-dollar exposure rather than grant count in the upstream/downstream pollution DDD; Online Appendix VI, implemented result explicitly reported final p.368.",
+    "O4645": "Final main_clean.txt853–868 establishes similar grant-dollar effects within equation(3) context. Primary DOD/not-fishable outcome minimum follows stated primary focus p.358; alternate A18/A41 corroborates both and four additional outcomes. Exact final treatment transform unknown: alternate uses ln(cumulative real grant dollars in billions +0.01), not silently certified final. No alternate coefficients imported."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121235,7 +121244,15 @@
     "A10829": "NVSISRI2",
     "B10829": "h14",
     "C10829": "hy1",
-    "K10829": "County-average ratio of predicted housing-value change to grant costs, constructed from plant density deciles; final p.387 bottom decile below0.01, top0.31–0.41. No numeric county grid inferred."
+    "K10829": "County-average ratio of predicted housing-value change to grant costs, constructed from plant density deciles; final p.387 bottom decile below0.01, top0.31–0.41. No numeric county grid inferred.",
+    "A10830": "NVSISRI2",
+    "B10830": "h15",
+    "C10830": "hy1",
+    "K10830": "Mean dissolved oxygen deficit in plant×side×year cells, percentage points. Minimum primary-outcome scope of equation(3) variant; final pp.358,367–369, corroborated by alternate Appendix VI. Final exact coefficient/transform allocation not substituted from alternate.",
+    "A10831": "NVSISRI2",
+    "B10831": "h15",
+    "C10831": "hy2",
+    "K10831": "Share of pollution readings in plant×side×year cells that violate the fishable standard. Minimum primary-outcome scope of equation(3) variant; final pp.358,367–369, corroborated by alternate Appendix VI. Final exact coefficient/transform allocation not substituted from alternate."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
