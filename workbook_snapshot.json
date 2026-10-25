@@ -48174,7 +48174,16 @@
     "L4713": "0",
     "M4713": "mixed",
     "N4713": "IHS hotel sales → log employment/population; A.8 col.6 (panels A,B), altered instrument definition.",
-    "O4713": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Actual set: 10 km island cutoff plus original beach and ruins."
+    "O4713": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Actual set: 10 km island cutoff plus original beach and ruins.",
+    "A4714": "R3NSZAZE",
+    "B4714": "h30",
+    "I4714": "1",
+    "J4714": "IV",
+    "K4714": "0",
+    "L4714": "0",
+    "M4714": "mixed",
+    "N4714": "IHS hotel sales → log employment/population; A.8 col.7 (panels A,B), altered instrument definition.",
+    "O4714": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Actual set: 200 m beach strip plus original island and ruins."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124020,7 +124029,15 @@
     "A11094": "R3NSZAZE",
     "B11094": "h29",
     "C11094": "hy2",
-    "K11094": "Log municipality population, population census 2000/2010."
+    "K11094": "Log municipality population, population census 2000/2010.",
+    "A11095": "R3NSZAZE",
+    "B11095": "h30",
+    "C11095": "hy1",
+    "K11095": "Log municipality employment, population census 2000/2010.",
+    "A11096": "R3NSZAZE",
+    "B11096": "h30",
+    "C11096": "hy2",
+    "K11096": "Log municipality population, population census 2000/2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
