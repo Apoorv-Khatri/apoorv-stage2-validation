@@ -1153791,3 +1153791,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T13:07:56.103281+00:00 — Review R3NSZAZE s1: adjudicated source-scoped coding
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2856",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2857",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2858",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2859",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2860",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2861",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2856",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2857",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2858",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2859",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2860",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2861",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2856",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2857",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2858",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2859",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2860",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2861",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2854",
+    "before": null,
+    "after": "Log municipality employment, population census 2000/2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2855",
+    "before": null,
+    "after": "Log municipality population, population census 2000/2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2856",
+    "before": null,
+    "after": "Inactive duplicate after location/treatment split: Table 3 standardized-index outcomes retained under h4. Original values preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2857",
+    "before": null,
+    "after": "Inactive duplicate after location/treatment split: Table 3 standardized-index outcomes retained under h4. Original values preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2858",
+    "before": null,
+    "after": "Inactive duplicate after location/treatment split: Table 3 standardized-index outcomes retained under h4. Original values preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2859",
+    "before": null,
+    "after": "Inactive duplicate after location/treatment split: Table 3 standardized-index outcomes retained under h4. Original values preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2860",
+    "before": null,
+    "after": "Inactive duplicate after location/treatment split: Table 3 standardized-index outcomes retained under h4. Original values preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2861",
+    "before": null,
+    "after": "Inactive duplicate after location/treatment split: Table 3 standardized-index outcomes retained under h4. Original values preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1131",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1131",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1131",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1131",
+    "before": null,
+    "after": "Standardized tourism-attractiveness index → log employment and log population; Table 2 cols.9,12. Retain only index and Table 2 here; distinct focal measures and Table 3 are split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1131",
+    "before": null,
+    "after": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
+  }
+]
+```
