@@ -1161930,3 +1161930,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:41:34.806107+00:00 — Review R3NSZAZE h47: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11134",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11134",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11134",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11134",
+    "before": null,
+    "after": "Log tourism exports from origin to destination; all and >80% leisure destinations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4731",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4731",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4731",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4731",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4731",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4731",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4731",
+    "before": null,
+    "after": "Log inverse consumption PPP (relative tourism price), contemporaneous only → log bilateral tourism exports; A.22 col.1, both destination samples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4731",
+    "before": null,
+    "after": "Appendix 4.2 eq.A15: origin×destination and origin×period identifying effects. OLS price elasticity is structurally interpreted, though biased towards zero. Independent correction: lags 1–5 occur only in IV columns 3–7, not this OLS column."
+  }
+]
+```

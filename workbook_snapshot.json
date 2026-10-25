@@ -48327,7 +48327,16 @@
     "L4730": "0",
     "M4730": "n/a",
     "N4730": "Log household income → tourism expenditure share; Figure A.2 and p.2289.",
-    "O4730": "Slope .0033 (t=11.09), 22,595 households. Municipality×period demeaned Engel slope interpreted as income-driven tourism demand. Figure nonparametric display does not establish separately implemented nonlinear effect estimator; retain reported linear slope conditional on FE. Independent adjudication: municipality-by-period demeaning is implemented, but the text provides no argument that this battery identifies the income slope rather than routine adjustment. Code OLS; identifying-FE alternative remains explicit. This is not a nonexistent no-FE regression."
+    "O4730": "Slope .0033 (t=11.09), 22,595 households. Municipality×period demeaned Engel slope interpreted as income-driven tourism demand. Figure nonparametric display does not establish separately implemented nonlinear effect estimator; retain reported linear slope conditional on FE. Independent adjudication: municipality-by-period demeaning is implemented, but the text provides no argument that this battery identifies the income slope rather than routine adjustment. Code OLS; identifying-FE alternative remains explicit. This is not a nonexistent no-FE regression.",
+    "A4731": "R3NSZAZE",
+    "B4731": "h47",
+    "I4731": "1",
+    "J4731": "FE",
+    "K4731": "0",
+    "L4731": "0",
+    "M4731": "n/a",
+    "N4731": "Log inverse consumption PPP (relative tourism price), contemporaneous only → log bilateral tourism exports; A.22 col.1, both destination samples.",
+    "O4731": "Appendix 4.2 eq.A15: origin×destination and origin×period identifying effects. OLS price elasticity is structurally interpreted, though biased towards zero. Independent correction: lags 1–5 occur only in IV columns 3–7, not this OLS column."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124377,7 +124386,11 @@
     "A11133": "R3NSZAZE",
     "B11133": "h46",
     "C11133": "hy1",
-    "K11133": "Household tourism expenditure share, deviations from municipality×period means."
+    "K11133": "Household tourism expenditure share, deviations from municipality×period means.",
+    "A11134": "R3NSZAZE",
+    "B11134": "h47",
+    "C11134": "hy1",
+    "K11134": "Log tourism exports from origin to destination; all and >80% leisure destinations."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
