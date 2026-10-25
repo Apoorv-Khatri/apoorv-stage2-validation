@@ -47979,7 +47979,16 @@
     "L4696": "0",
     "M4696": "n/a",
     "N4696": "White-sand share × log national tourist arrivals → log municipality population; A.7 OLS cols.5–6.",
-    "O4696": "A.7; municipality and coast-by-period identifying FE, controls×year variants. Continuous tourism exposure."
+    "O4696": "A.7; municipality and coast-by-period identifying FE, controls×year variants. Continuous tourism exposure.",
+    "A4697": "R3NSZAZE",
+    "B4697": "h13",
+    "I4697": "1",
+    "J4697": "IV",
+    "K4697": "0",
+    "L4697": "0",
+    "M4697": "single continuous",
+    "N4697": "White-sand share × log national tourist arrivals → log population; A.7 shift-share IV columns 7–8.",
+    "O4697": "p.2262 and A.7: log real US airfares instruments national arrivals, interacted with focal local attractiveness. One nonbinary excluded interaction for the one focal exposure per specification; municipality and coast×period FE. Footnote 17 rounds slopes without uniquely separating OLS from IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123517,7 +123526,11 @@
     "A11039": "R3NSZAZE",
     "B11039": "h12",
     "C11039": "hy1",
-    "K11039": "Log municipality population in ten censuses 1921–2010; coefficient on log arrivals interacted with local attractiveness, not an estimated population-growth dependent variable."
+    "K11039": "Log municipality population in ten censuses 1921–2010; coefficient on log arrivals interacted with local attractiveness, not an estimated population-growth dependent variable.",
+    "A11040": "R3NSZAZE",
+    "B11040": "h13",
+    "C11040": "hy1",
+    "K11040": "Log municipality population, ten censuses 1921–2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
