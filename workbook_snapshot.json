@@ -47997,7 +47997,16 @@
     "L4698": "0",
     "M4698": "n/a",
     "N4698": "Ruins indicator × log national tourist arrivals → log municipality population; A.7 OLS cols.9–10.",
-    "O4698": "A.7; municipality and coast-by-period identifying FE, controls×year variants. Continuous tourism exposure."
+    "O4698": "A.7; municipality and coast-by-period identifying FE, controls×year variants. Continuous tourism exposure.",
+    "A4699": "R3NSZAZE",
+    "B4699": "h15",
+    "I4699": "1",
+    "J4699": "IV",
+    "K4699": "0",
+    "L4699": "0",
+    "M4699": "single continuous",
+    "N4699": "Ruins indicator × log national tourist arrivals → log population; A.7 shift-share IV columns 11–12.",
+    "O4699": "p.2262 and A.7: log real US airfares instruments national arrivals, interacted with focal local attractiveness. One nonbinary excluded interaction for the one focal exposure per specification; municipality and coast×period FE. Footnote 17 rounds slopes without uniquely separating OLS from IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123543,7 +123552,11 @@
     "A11041": "R3NSZAZE",
     "B11041": "h14",
     "C11041": "hy1",
-    "K11041": "Log municipality population in ten censuses 1921–2010; coefficient on log arrivals interacted with local attractiveness, not an estimated population-growth dependent variable."
+    "K11041": "Log municipality population in ten censuses 1921–2010; coefficient on log arrivals interacted with local attractiveness, not an estimated population-growth dependent variable.",
+    "A11042": "R3NSZAZE",
+    "B11042": "h15",
+    "C11042": "hy1",
+    "K11042": "Log municipality population, ten censuses 1921–2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
