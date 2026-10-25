@@ -1184355,3 +1184355,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:52:34.248169+00:00 — Review RG6T2XB5 s5: adjudicated source-scoped coding
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2894",
+    "before": null,
+    "after": "Retained simulated student earnings in dollars (Table 5); not an empirical earnings coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1144",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1144",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1144",
+    "before": null,
+    "after": "Table 5 col.2, pp.1712–1713: simulated pooled multivariable OLS effect of teacher test-score VA on earnings, 75.16 dollars per VA unit (SE 1.527). CFR two-step col.1 is h6; included X effect is h7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1144",
+    "before": null,
+    "after": "Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel. Covariates correlated with total earnings VA invalidate identification under the authors' model but do not erase an interpreted alternative causal estimator."
+  }
+]
+```
