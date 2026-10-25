@@ -1115118,3 +1115118,120 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T06:00:53.673787+00:00 — Review NVSISRI2 h17: source-audited coding and linked comparisons
+
+18 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10834",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10835",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10834",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10835",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10834",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10835",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10834",
+    "before": null,
+    "after": "Mean dissolved oxygen deficit in plant×side×year cells, percentage points. Minimum primary-outcome scope of equation(3) variant; final pp.358,367–369, corroborated by alternate Appendix VI. Final exact coefficient/transform allocation not substituted from alternate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10835",
+    "before": null,
+    "after": "Share of pollution readings in plant×side×year cells that violate the fishable standard. Minimum primary-outcome scope of equation(3) variant; final pp.358,367–369, corroborated by alternate Appendix VI. Final exact coefficient/transform allocation not substituted from alternate."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E127",
+    "before": null,
+    "after": "DONE — Available-source review of48 final article pages and44 author-linked June2018 alternate appendix pages, independently audited. Publisher supplement identity unverified; checksum-verified publication-linked archive contains no appendixPDF; selected main Stata/header/readme inspected statically, not reestimated. National descriptive trends rejected while directly interpreted national crowdout retained with unknown method and two symmetric spending endpoints, not an invented causal difference; fitted-estimator-only exclusion alternative explicit. Conventional DDD/DiD precedence over absorbed FE; actual fixed aggregation and annuity preserve reported-outcome linearity, inverse estimated pollution-gain cost ratios Other; h11 method unresolved. Final-prose minimum grant-dollar, cumulative-category and construction-count scopes added for two primary outcomes without unseen six-outcome/category grids; final dollar transform/category support held. Log BOD/fecal/TSS outcomes added, zero handling unresolved. Duration, spatial concentration and limited heterogeneity main roles assessed from introduction/conclusion. Six TableII mean pairs unaligned: average-reading weighted regression versus unweighted pooled baseline; efficiency-only unknown alternative explicit. Three provisional housing baseline-scaling pairs held outside arrays for unresolved TableVI population/coefficient allocation, not absent multiplication or missing numeric denominator alone. Additional nutrient/general-quality and demographic nulls pass provisional causal gate but alternate-only final transformations/allocations held; specific negative controls remain diagnostic. Distinct cessation/lag and grant-size scopes held pending final evidence. Preserve event reference/bin/weather conflicts, grantlog/level caption, subgroup timing and housing-unit/population map conflicts. Original model fields/IDs/links preserved. No empirical replication or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4647",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4647",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4647",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4647",
+    "before": null,
+    "after": "Cumulative construction-grant exposure excluding planning/design grants, upstream/downstream pollution DDD; final p.367 / Appendix VI."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4647",
+    "before": null,
+    "after": "Final main_clean.txt819–827 defines alternative G as limiting grants for construction, not simply dropping plants. Alternate A9 and VI16 corroborate distinct construction-count regressor. Primary DOD/not-fishable minimum; no unverified coefficient or additional outcome grid. Alternative routine-sample interpretation rejected because the final text changes the grant variable G itself."
+  }
+]
+```
