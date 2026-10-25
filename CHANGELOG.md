@@ -1155447,3 +1155447,48 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T13:14:27.544561+00:00 — Review R3NSZAZE s2: adjudicated source-scoped coding
+
+6 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2862",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2862",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2862",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2862",
+    "before": null,
+    "after": "Spurious: historical population placebo-only scope (Table 4)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1132",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1132",
+    "before": null,
+    "after": "Table 4 historical 1921–1950 outcomes are explicitly placebo falsification tests of exclusion, pp.2259–61; diagnostic-only, not a separate substantive historical effect. Current-period columns are repeated population robustness, retained separately below."
+  }
+]
+```
