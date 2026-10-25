@@ -1151814,3 +1151814,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:27:55.388937+00:00 — Review QW28FTUN h3: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10976",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10976",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10976",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10976",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10976",
+    "before": null,
+    "after": "Bilateral flow share, workers from origin k / total firm-to-firm movers hired by shocked destination j; both internal/external and same/different local market strata."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4672",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4672",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4672",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4672",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4672",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4672",
+    "before": null,
+    "after": "Figure 11(b), final A21 columns 1-4 / linked B21: closure effects on bilateral internal/external flow shares by same versus different local labour market. Code FIGURE 11b.do estimates jointly interacted spatial cells, not a regression restricted only to local origins."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4672",
+    "before": null,
+    "after": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects."
+  }
+]
+```

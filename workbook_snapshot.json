@@ -47737,7 +47737,16 @@
     "L4671": "0",
     "M4671": "n/a",
     "N4671": "Figure 10(c)-(d), final A17 / linked B17, pp.2703-2704: closure effects on employment and market share by group cash/assets above/below median within above-median ILM Access firms; interpreted null differential responses, not diagnostic tests.",
-    "O4671": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects."
+    "O4671": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects.",
+    "A4672": "QW28FTUN",
+    "B4672": "h3",
+    "I4672": "1",
+    "J4672": "DiD_conventional",
+    "K4672": "1",
+    "L4672": "0",
+    "M4672": "n/a",
+    "N4672": "Figure 11(b), final A21 columns 1-4 / linked B21: closure effects on bilateral internal/external flow shares by same versus different local labour market. Code FIGURE 11b.do estimates jointly interacted spatial cells, not a regression restricted only to local origins.",
+    "O4672": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -122862,7 +122871,14 @@
     "H10975": "0",
     "I10975": "unknown",
     "J10975": "none",
-    "K10975": "Market share, firm sales/total four-digit industry sales."
+    "K10975": "Market share, firm sales/total four-digit industry sales.",
+    "A10976": "QW28FTUN",
+    "B10976": "h3",
+    "C10976": "hy1",
+    "H10976": "0",
+    "I10976": "1",
+    "J10976": "none",
+    "K10976": "Bilateral flow share, workers from origin k / total firm-to-firm movers hired by shocked destination j; both internal/external and same/different local market strata."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
