@@ -1160787,3 +1160787,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:34:08.604171+00:00 — Review R3NSZAZE h38: adjudicated source-scoped coding
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11116",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11117",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11118",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11119",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11116",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11117",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11118",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11119",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11116",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11117",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11118",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11119",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11116",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11117",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11118",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11119",
+    "before": null,
+    "after": "ihs"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11116",
+    "before": null,
+    "after": "Log municipality employment, population census 2000/2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11117",
+    "before": null,
+    "after": "Log municipality population, population census 2000/2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11118",
+    "before": null,
+    "after": "Log municipality GDP, economic censuses 1998/2008."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11119",
+    "before": null,
+    "after": "IHS municipality manufacturing GDP (zero values retained)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4722",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4722",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4722",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4722",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4722",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4722",
+    "before": null,
+    "after": "Island indicator → employment/population/GDP/manufacturing GDP; A.18 level and 2010 interaction, effect stability across recent periods."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4722",
+    "before": null,
+    "after": "A.18 and fn.28 p.2270: substantively implemented recent-period effects and heterogeneity, no pre-tourism placebo; conventional FE cross-sectional effect stability, not a new DiD treatment start."
+  }
+]
+```
