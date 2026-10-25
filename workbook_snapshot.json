@@ -47427,7 +47427,16 @@
     "L4647": "0",
     "M4647": "n/a",
     "N4647": "Cumulative construction-grant exposure excluding planning/design grants, upstream/downstream pollution DDD; final p.367 / Appendix VI.",
-    "O4647": "Final main_clean.txt819–827 defines alternative G as limiting grants for construction, not simply dropping plants. Alternate A9 and VI16 corroborate distinct construction-count regressor. Primary DOD/not-fishable minimum; no unverified coefficient or additional outcome grid. Alternative routine-sample interpretation rejected because the final text changes the grant variable G itself."
+    "O4647": "Final main_clean.txt819–827 defines alternative G as limiting grants for construction, not simply dropping plants. Alternate A9 and VI16 corroborate distinct construction-count regressor. Primary DOD/not-fishable minimum; no unverified coefficient or additional outcome grid. Alternative routine-sample interpretation rejected because the final text changes the grant variable G itself.",
+    "A4648": "QHATH8UY",
+    "B4648": "h1",
+    "I4648": "1",
+    "J4648": "Other",
+    "K4648": "1",
+    "L4648": "1",
+    "M4648": "n/a",
+    "N4648": "PC versus PD: raw observed first-entry-time density, Fig.3(a), p.925–926, Result 1; distinct from censoring-adjusted intended-entry distribution in s1.",
+    "O4648": "Analysis.R 113–114 calls R density with default data-dependent bandwidth (no fixed bw supplied). Full-procedure density is outcome-adaptive; conditional fixed-bandwidth kernel averages would be linear in transformed observations, but no such fixed implementation is documented. Protocol assignment randomization not explicitly established. No invented coefficient."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121320,7 +121329,14 @@
     "A10836": "QHATH8UY",
     "B10836": "s2",
     "C10836": "hy1",
-    "K10836": "Earnings at the IC280 low-inertia result, reported as 95% of earnings available at efficient entry t*=0.4 (p.926). Reported payoff efficiency, not entry-time units; exact aggregation is unstated. Do not infer mean realized earnings or reconstruct its value."
+    "K10836": "Earnings at the IC280 low-inertia result, reported as 95% of earnings available at efficient entry t*=0.4 (p.926). Reported payoff efficiency, not entry-time units; exact aggregation is unstated. Do not infer mean realized earnings or reconstruct its value.",
+    "A10837": "QHATH8UY",
+    "B10837": "h1",
+    "C10837": "hy1",
+    "H10837": "0",
+    "I10837": "unknown",
+    "J10837": "other",
+    "K10837": "Kernel density of observed first-entry time, normalized as percentage of period elapsed; Fig.3(a), Analysis.R 25–32,113–114. Density is not the subject-level entry-time median; zero density values are not zero mass of the underlying entry-time variable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

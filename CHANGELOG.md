@@ -1116210,3 +1116210,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T06:34:11.230222+00:00 — Review QHATH8UY h1: source-audited coding and linked comparisons
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10837",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10837",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10837",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10837",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10837",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10837",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10837",
+    "before": null,
+    "after": "Kernel density of observed first-entry time, normalized as percentage of period elapsed; Fig.3(a), Analysis.R 25–32,113–114. Density is not the subject-level entry-time median; zero density values are not zero mass of the underlying entry-time variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4648",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4648",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4648",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4648",
+    "before": null,
+    "after": "PC versus PD: raw observed first-entry-time density, Fig.3(a), p.925–926, Result 1; distinct from censoring-adjusted intended-entry distribution in s1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4648",
+    "before": null,
+    "after": "Analysis.R 113–114 calls R density with default data-dependent bandwidth (no fixed bw supplied). Full-procedure density is outcome-adaptive; conditional fixed-bandwidth kernel averages would be linear in transformed observations, but no such fixed implementation is documented. Protocol assignment randomization not explicitly established. No invented coefficient."
+  }
+]
+```
