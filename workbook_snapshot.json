@@ -47361,7 +47361,16 @@
     "L4642": "1",
     "M4642": "n/a",
     "N4642": "Grant effects on pollution by distance downstream from treatment plant, Online Appendix Figure V, final p.379.",
-    "O4642": "Minimum primary outcomes; spatially disaggregated treatment-response profile under equation(3) framework, not spatial RD. Author copy confirms six panels but final panel membership for additional pollutants held. No digitized effects, fabricated zeros or distance-by-benchmark grid. Independent adjudication: spatial concentration within25 miles materially supports introduction p.352 and conclusion p.390, so main=1 even though exact spatial coefficients remain unavailable in final main."
+    "O4642": "Minimum primary outcomes; spatially disaggregated treatment-response profile under equation(3) framework, not spatial RD. Author copy confirms six panels but final panel membership for additional pollutants held. No digitized effects, fabricated zeros or distance-by-benchmark grid. Independent adjudication: spatial concentration within25 miles materially supports introduction p.352 and conclusion p.390, so main=1 even though exact spatial coefficients remain unavailable in final main.",
+    "A4643": "NVSISRI2",
+    "B4643": "h13",
+    "I4643": "1",
+    "J4643": "DiD_conventional",
+    "K4643": "0",
+    "L4643": "0",
+    "M4643": "n/a",
+    "N4643": "Dynamic grant effects on other pollution outcomes, Online Appendix Figure IV, final p.379, equation(4).",
+    "O4643": "Final text calls other-pollutant event studies consistent but less precise; standard other-pollutant set is BOD, fecal coliforms, not-swimmable and TSS from TableII. Author copy Figure IV corroborates exact panels; no final numeric path substituted. These interpreted postgrant responses are retained, leads alone not separate outcomes."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121197,7 +121206,23 @@
     "A10824": "NVSISRI2",
     "B10824": "h12",
     "C10824": "hy2",
-    "K10824": "Mean share of pollution readings in the cell that are not fishable. Spatial distance profile."
+    "K10824": "Mean share of pollution readings in the cell that are not fishable. Spatial distance profile.",
+    "A10825": "NVSISRI2",
+    "B10825": "h13",
+    "C10825": "hy1",
+    "K10825": "Mean biochemical oxygen demand (BOD) in the cell, mg/L. Event-time postgrant path; no coefficient grid.",
+    "A10826": "NVSISRI2",
+    "B10826": "h13",
+    "C10826": "hy2",
+    "K10826": "Mean fecal coliform concentration in the cell, MPN/100 mL. Event-time postgrant path; no coefficient grid.",
+    "A10827": "NVSISRI2",
+    "B10827": "h13",
+    "C10827": "hy3",
+    "K10827": "Mean share of pollution readings in the cell that are not swimmable. Event-time postgrant path; no coefficient grid.",
+    "A10828": "NVSISRI2",
+    "B10828": "h13",
+    "C10828": "hy4",
+    "K10828": "Mean total suspended solids (TSS) in the cell, mg/L. Event-time postgrant path; no coefficient grid."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

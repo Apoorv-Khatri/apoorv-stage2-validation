@@ -1114650,3 +1114650,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:59:02.141957+00:00 — Review NVSISRI2 h13: source-audited coding and linked comparisons
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10825",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10826",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10827",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10828",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10825",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10826",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10827",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10828",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10825",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10826",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10827",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10828",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10825",
+    "before": null,
+    "after": "Mean biochemical oxygen demand (BOD) in the cell, mg/L. Event-time postgrant path; no coefficient grid."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10826",
+    "before": null,
+    "after": "Mean fecal coliform concentration in the cell, MPN/100 mL. Event-time postgrant path; no coefficient grid."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10827",
+    "before": null,
+    "after": "Mean share of pollution readings in the cell that are not swimmable. Event-time postgrant path; no coefficient grid."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10828",
+    "before": null,
+    "after": "Mean total suspended solids (TSS) in the cell, mg/L. Event-time postgrant path; no coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4643",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4643",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4643",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4643",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4643",
+    "before": null,
+    "after": "Dynamic grant effects on other pollution outcomes, Online Appendix Figure IV, final p.379, equation(4)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4643",
+    "before": null,
+    "after": "Final text calls other-pollutant event studies consistent but less precise; standard other-pollutant set is BOD, fecal coliforms, not-swimmable and TSS from TableII. Author copy Figure IV corroborates exact panels; no final numeric path substituted. These interpreted postgrant responses are retained, leads alone not separate outcomes."
+  }
+]
+```
