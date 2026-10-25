@@ -1149834,3 +1149834,402 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:24:01.258891+00:00 — Review QW28FTUN s2: source-audited coding and linked comparisons
+
+65 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10572",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10572",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10572",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10572",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L768",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L769",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L770",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L771",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10572",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M768",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M769",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M770",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M771",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10572",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P768",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P769",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P770",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P771",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10572",
+    "before": null,
+    "after": "p.2699 Figure 6(a): above-median ILM Access +2 internal-hire share effect 0.024, author-stated 26% of own pre-event baseline. Linked B11 mean 0.092 over [-3,0); no exact denominator reconstructed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q768",
+    "before": null,
+    "after": "p.2699, Figure 6(a): above-median ILM Access, +1 internal-hire share effect 0.019, author-stated 21% of pre-event baseline. Publication-linked B11 gives 0.092 average over [-3,0); do not back-solve an exact denominator from rounded prose. +2 separately hc1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q769",
+    "before": null,
+    "after": "p.2699, Figure 6(b): above-median ILM Access firms increase active internal partners by 12.5% relative to baseline. Exact focal horizon not supplied; keep this one author comparison, no horizon grid."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q770",
+    "before": null,
+    "after": "“For instance, firms in the top quartile of the ILM Access distribution (Figure 9(b)) experience an increase in market share of almost 0.3 percentage points, a 21.7% increase with respect to their (pre-event) 1.38% share of market sales.” Final pp.2701-2702, Figure 9(b)/(c); own subgroup pre-event mean. Preserve final rounded numbers; publication-linked B15 values differ from a literal 0.3/0.57 percentage-point interpretation and do not establish a unique horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q771",
+    "before": null,
+    "after": "“Firms in the top decile of the ILM Access distribution (Figure 9(c)) experience an even larger increase in market share of 0.57 percentage points, a 26% increase with respect to their (pre-event) 2.2% share of the market.” Final pp.2701-2702, Figure 9(b)/(c); own subgroup pre-event mean. Preserve final rounded numbers; publication-linked B15 values differ from a literal 0.3/0.57 percentage-point interpretation and do not establish a unique horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10572",
+    "before": null,
+    "after": "Own pre-event mean is eligible; equality to the post-event untreated target with the estimator weights is not established. DiD parallel trends does not establish stationary outcome levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R768",
+    "before": null,
+    "after": "Eligible own pre-event outcome mean; contemporaneous untreated target/weights not established, so alignment unknown rather than automatic 1 or 0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R769",
+    "before": null,
+    "after": "Eligible own pre-event outcome mean; contemporaneous untreated target/weights not established, so alignment unknown rather than automatic 1 or 0. Publication-linked B12 +1 coefficient 0.04807 and B11 pre-window mean 0.358 do not transparently reproduce 12.5%; source timing/rounding allocation held, no corrected ratio attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R770",
+    "before": null,
+    "after": "Eligible own pre-event outcome mean; contemporaneous untreated target/weights not established, so alignment unknown rather than automatic 1 or 0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R771",
+    "before": null,
+    "after": "Eligible own pre-event outcome mean; contemporaneous untreated target/weights not established, so alignment unknown rather than automatic 1 or 0."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2842",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2844",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2841",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2842",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2844",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2840",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2841",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2842",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2843",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2844",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1125",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1125",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1125",
+    "before": null,
+    "after": "Section 5.2, equation (4), Figures 6-9: competitor-closure effects by predetermined ILM Access (above median/top quartile/top decile/top 5% versus below median), on internal-hire share, active internal partners, employment, CapEx and market share. Routine threshold/sample variants grouped. Figure 10 is separately h1-h2, not ILM Access alone."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1125",
+    "before": null,
+    "after": "Binary competitor-closure exposure; identifying firm/pair FE do not override conventional DiD. Linear in reported FTE/CapEx/share outcomes conditional on design. Diagnostic leads excluded, substantive post-event nulls retained."
+  }
+]
+```
