@@ -1184625,3 +1184625,126 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:55:18.434193+00:00 — Review RG6T2XB5 s7: adjudicated source-scoped coding
+
+19 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11167",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11168",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11174",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11167",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11168",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11174",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11167",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11168",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11174",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11167",
+    "before": null,
+    "after": "High-school GPA, NC quasi-experimental estimate explicitly mentioned in footnote21 p.1709. Individual outcome is established, but exact aggregation, conditioning and estimate are not reported; retain minimum scope without invented coefficient or horizon grid."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11168",
+    "before": null,
+    "after": "High-school class rank, NC quasi-experimental estimate explicitly mentioned in footnote21 p.1709. Outcome definition/normalization and estimate are not supplied; retain minimum scope without inventing rank scale or coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11174",
+    "before": null,
+    "after": "Adult earnings: minimum quasi-experimental scope established by Section III opening p.1708, which says CFR-II reports earnings impacts using both OLS and teacher switching. No numerical earnings coefficient, age or exact scaling reported here; no simulated values imported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1146",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1146",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1146",
+    "before": null,
+    "after": "Section III.A,C–D, pp.1709–1716: continuous teacher-turnover cross-cohort VA effects on long-term outcomes. NC graduation and college plans: 0.38 and 0.61 pp, or 0.26 and 0.41 pp with prior-score controls; NY actual college attendance 0.86 pp. Footnote21 explicitly establishes implemented NC quasi-experimental GPA and class-rank estimates, without coefficients. Keep those individually defined outcomes without inventing precise construction or precision. Section III opening p.1708 also establishes minimum empirical earnings scope using both OLS and the teacher-switchers design; added hy3 without numerical estimate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1146",
+    "before": null,
+    "after": "Retain prior-score-control variants despite authors arguing they attenuate effects; effect-to-effect 30-percent comparisons are not own-outcome benchmarks. Main status concerns central long-term conclusion; GPA/class-rank outcomes are supporting and interpretation is qualified by school/course selection and missingness. No modern DiD estimator established. Reported-outcome conditional linearity; no benchmark mean or SD given."
+  }
+]
+```
