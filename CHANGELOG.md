@@ -1152024,3 +1152024,234 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:28:53.487522+00:00 — Review QW28FTUN h5: source-audited coding and linked comparisons
+
+37 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10978",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10979",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10980",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10981",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10978",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10979",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10980",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10981",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10978",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10979",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10980",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10981",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10978",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10979",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10980",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10981",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10978",
+    "before": null,
+    "after": "STEM-skilled managers/professionals: workers hired by shocked j from k in occupation / total hires of j, internal and external pairs. Final A25; linked B25."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10979",
+    "before": null,
+    "after": "Administrative managers/professionals: workers hired by shocked j from k in occupation / total hires of j, internal and external pairs. Final A25; linked B25."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10980",
+    "before": null,
+    "after": "Skilled blue-collar workers: workers hired by shocked j from k in occupation / total hires of j, internal and external pairs. Final A25; linked B25."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10981",
+    "before": null,
+    "after": "Unskilled blue-collar workers: workers hired by shocked j from k in occupation / total hires of j, internal and external pairs. Final A25; linked B25."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4674",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4674",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4674",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4674",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4674",
+    "before": null,
+    "after": "Final pp.2711-2712 and A25 / linked B25: closure effects on occupation-subcategory bilateral internal/external flow shares, equation (6) with pair-by-occupation FE. Four individually displayed occupation groups and their interpreted nulls. Unreported extra categories held separately."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4674",
+    "before": null,
+    "after": "Linear in the reported outcome under fixed design. Competitor closure is the binary exposure; subgroup/moderator is not a newly randomized treatment. DiD precedence over identifying fixed effects. Linked B25 explicitly reports only four of a claimed ten subcategories; its named partition totals nine groups, so six unreported groups cannot be uniquely recovered. Hold undisplayed scope, do not invent a complete grid."
+  }
+]
+```
