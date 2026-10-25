@@ -48498,7 +48498,16 @@
     "L4749": "0",
     "M4749": "n/a",
     "N4749": "Tourism integration under imperfect competition and 35% profit repatriation; A.29/Appendix 4.6.",
-    "O4749": "Appendix 4.6 p.37; 8% welfare gain, baseline comparison calls 4.82 rather than final 4.64, preserved conflict. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-tourism mean utility, not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
+    "O4749": "Appendix 4.6 p.37; 8% welfare gain, baseline comparison calls 4.82 rather than final 4.64, preserved conflict. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-tourism mean utility, not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication.",
+    "A4750": "R3NSZAZE",
+    "B4750": "h66",
+    "I4750": "1",
+    "J4750": "Other",
+    "K4750": "1",
+    "L4750": "0",
+    "M4750": "n/a",
+    "N4750": "35% tourism-profit repatriation versus all profits retained domestically; A.29 and Appendix 4.6.",
+    "O4750": "Nonlinear recalibrated monopolistic-competition equilibrium; reports .772 fraction of gains (23% lower). This is a substantive intervention even though gain-to-gain comparison is ineligible."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124665,7 +124674,14 @@
     "H11154": "0",
     "I11154": "unknown",
     "J11154": "other",
-    "K11154": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level."
+    "K11154": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level.",
+    "A11155": "R3NSZAZE",
+    "B11155": "h66",
+    "C11155": "hy1",
+    "H11155": "0",
+    "I11155": "unknown",
+    "J11155": "other",
+    "K11155": "Mexican welfare gain from tourism under altered profit ownership/repatriation."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
