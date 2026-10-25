@@ -1183371,3 +1183371,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:53:06.957671+00:00 — Review R3NSZAZE h64: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11153",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11153",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11153",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11153",
+    "before": null,
+    "after": "Counterfactual change in log regional GDP."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4748",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4748",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4748",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4748",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4748",
+    "before": null,
+    "after": "Log tourism GDP → model-generated change in log regional GDP; A.31 2,455-region specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4748",
+    "before": null,
+    "after": "Conditional 2SLS using three mixed attractiveness instruments; 300-region .409 baseline duplicates Table 8, new 2,455-region .403 retained. Full-procedure Other alternative."
+  }
+]
+```

@@ -48480,7 +48480,16 @@
     "L4747": "0",
     "M4747": "mixed",
     "N4747": "Counterfactual change in log tourism GDP → change in log local worker utility without mobility; A.28 international-only tourism.",
-    "O4747": "Conditional reported-outcome 2SLS; complete simulated equilibrium is nonlinear (Other alternative). Table says three island/beach/ruins instruments; Appendix 4.6 says island/beach only. Both possible sets are mixed, so IV_type remains mixed while exact set conflict is explicit."
+    "O4747": "Conditional reported-outcome 2SLS; complete simulated equilibrium is nonlinear (Other alternative). Table says three island/beach/ruins instruments; Appendix 4.6 says island/beach only. Both possible sets are mixed, so IV_type remains mixed while exact set conflict is explicit.",
+    "A4748": "R3NSZAZE",
+    "B4748": "h64",
+    "I4748": "1",
+    "J4748": "IV",
+    "K4748": "0",
+    "L4748": "0",
+    "M4748": "mixed",
+    "N4748": "Log tourism GDP → model-generated change in log regional GDP; A.31 2,455-region specification.",
+    "O4748": "Conditional 2SLS using three mixed attractiveness instruments; 300-region .409 baseline duplicates Table 8, new 2,455-region .403 retained. Full-procedure Other alternative."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124636,7 +124645,11 @@
     "A11152": "R3NSZAZE",
     "B11152": "h63",
     "C11152": "hy1",
-    "K11152": "Counterfactual change in log local worker utility without migration."
+    "K11152": "Counterfactual change in log local worker utility without migration.",
+    "A11153": "R3NSZAZE",
+    "B11153": "h64",
+    "C11153": "hy1",
+    "K11153": "Counterfactual change in log regional GDP."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
