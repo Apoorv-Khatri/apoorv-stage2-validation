@@ -1161843,3 +1161843,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:40:56.019160+00:00 — Review R3NSZAZE h46: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11133",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11133",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11133",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11133",
+    "before": null,
+    "after": "Household tourism expenditure share, deviations from municipality×period means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4730",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4730",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4730",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4730",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4730",
+    "before": null,
+    "after": "Log household income → tourism expenditure share; Figure A.2 and p.2289."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4730",
+    "before": null,
+    "after": "Slope .0033 (t=11.09), 22,595 households. Municipality×period demeaned Engel slope interpreted as income-driven tourism demand. Figure nonparametric display does not establish separately implemented nonlinear effect estimator; retain reported linear slope conditional on FE. Independent adjudication: municipality-by-period demeaning is implemented, but the text provides no argument that this battery identifies the income slope rather than routine adjustment. Code OLS; identifying-FE alternative remains explicit. This is not a nonexistent no-FE regression."
+  }
+]
+```
