@@ -1184469,3 +1184469,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:53:56.493603+00:00 — Review RG6T2XB5 s3: adjudicated source-scoped coding
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2890",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2890",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2890",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2890",
+    "before": null,
+    "after": "spurious: Table 4 panel B is a prior-score placebo/diagnostic, not a forward causal effect of current teacher VA; authors explicitly discuss mechanical correlation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1142",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1142",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1142",
+    "before": null,
+    "after": "Table 4 panel A cols.2 and 5: effect of actual change in cohort mean teacher VA on change in mean current scores, instrumented by one scalar VA change excluding teachers who followed students from the previous grade. School-year FE in col.2; school-year-subject FE in col.5. NY coefficients 0.923 and 0.942; analogous NC current-score results 1.00 and 1.03 discussed on pp.1704–1705. Other instrument sets and non-IV baseline are split to h1–h3; lagged-score placebo outcome is inactive."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1142",
+    "before": null,
+    "after": "Single continuous excluded instrument: change in mean VA calculated without followers, not a binary follower indicator. Actual receipt is continuous VA change. Table 4 note and pp.1704–1705 establish 2SLS; no first-stage or placebo comparison additions. Conditional linearity in reported score changes; IV takes priority over cross-cohort DiD/FE."
+  }
+]
+```
