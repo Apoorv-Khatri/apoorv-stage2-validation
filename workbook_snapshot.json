@@ -47836,7 +47836,16 @@
     "L4682": "0",
     "M4682": "n/a",
     "N4682": "Table 2 columns 3-4, pp.2686-2689: group diversification across four-digit industries (negative employment-share HHI), including interaction with centered rest-of-group size, on firm-year excess internal-hiring probability. Firm-by-group and year fixed effects; routine no-interaction/interaction columns grouped.",
-    "O4682": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design."
+    "O4682": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design.",
+    "A4683": "QW28FTUN",
+    "B4683": "h14",
+    "I4683": "1",
+    "J4683": "FE",
+    "K4683": "0",
+    "L4683": "0",
+    "M4683": "n/a",
+    "N4683": "Table 2 columns 5-6, pp.2686-2689: group diversification across Paris versus outside Paris (negative employment-share HHI), including interaction with centered rest-of-group size, on firm-year excess internal-hiring probability. Firm-by-group and year fixed effects; routine no-interaction/interaction columns grouped.",
+    "O4683": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123123,7 +123132,11 @@
     "A10999": "QW28FTUN",
     "B10999": "h13",
     "C10999": "hy1",
-    "K10999": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units."
+    "K10999": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units.",
+    "A11000": "QW28FTUN",
+    "B11000": "h14",
+    "C11000": "hy1",
+    "K11000": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
