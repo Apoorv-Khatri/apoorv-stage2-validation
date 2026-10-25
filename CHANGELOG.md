@@ -1114809,3 +1114809,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:59:30.114910+00:00 — Review NVSISRI2 h14: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10829",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10829",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10829",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10829",
+    "before": null,
+    "after": "County-average ratio of predicted housing-value change to grant costs, constructed from plant density deciles; final p.387 bottom decile below0.01, top0.31–0.41. No numeric county grid inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4644",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4644",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4644",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4644",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4644",
+    "before": null,
+    "after": "County spatial distribution of predicted housing-benefit/cost ratios, Online Appendix Figure VIII and final p.387 fn25, imposing common Table V col4 hedonic effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4644",
+    "before": null,
+    "after": "Final fn25 describes treatment-plant deciles by2000 housing-unit count, same regression coefficients, plant-cost aggregation then county averaging. Not reestimated county coefficients. Conditional fixed baseline/denominator scaling preserves DiD coefficient linearity; alternate figure caption says population and TableVI instead, held as source conflict."
+  }
+]
+```

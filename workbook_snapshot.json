@@ -47370,7 +47370,16 @@
     "L4643": "0",
     "M4643": "n/a",
     "N4643": "Dynamic grant effects on other pollution outcomes, Online Appendix Figure IV, final p.379, equation(4).",
-    "O4643": "Final text calls other-pollutant event studies consistent but less precise; standard other-pollutant set is BOD, fecal coliforms, not-swimmable and TSS from TableII. Author copy Figure IV corroborates exact panels; no final numeric path substituted. These interpreted postgrant responses are retained, leads alone not separate outcomes."
+    "O4643": "Final text calls other-pollutant event studies consistent but less precise; standard other-pollutant set is BOD, fecal coliforms, not-swimmable and TSS from TableII. Author copy Figure IV corroborates exact panels; no final numeric path substituted. These interpreted postgrant responses are retained, leads alone not separate outcomes.",
+    "A4644": "NVSISRI2",
+    "B4644": "h14",
+    "I4644": "1",
+    "J4644": "DiD_conventional",
+    "K4644": "0",
+    "L4644": "0",
+    "M4644": "n/a",
+    "N4644": "County spatial distribution of predicted housing-benefit/cost ratios, Online Appendix Figure VIII and final p.387 fn25, imposing common Table V col4 hedonic effects.",
+    "O4644": "Final fn25 describes treatment-plant deciles by2000 housing-unit count, same regression coefficients, plant-cost aggregation then county averaging. Not reestimated county coefficients. Conditional fixed baseline/denominator scaling preserves DiD coefficient linearity; alternate figure caption says population and TableVI instead, held as source conflict."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121222,7 +121231,11 @@
     "A10828": "NVSISRI2",
     "B10828": "h13",
     "C10828": "hy4",
-    "K10828": "Mean total suspended solids (TSS) in the cell, mg/L. Event-time postgrant path; no coefficient grid."
+    "K10828": "Mean total suspended solids (TSS) in the cell, mg/L. Event-time postgrant path; no coefficient grid.",
+    "A10829": "NVSISRI2",
+    "B10829": "h14",
+    "C10829": "hy1",
+    "K10829": "County-average ratio of predicted housing-value change to grant costs, constructed from plant density deciles; final p.387 bottom decile below0.01, top0.31–0.41. No numeric county grid inferred."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
