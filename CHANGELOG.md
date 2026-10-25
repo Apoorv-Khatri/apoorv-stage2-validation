@@ -1153305,3 +1153305,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:32:11.861158+00:00 — Review QW28FTUN h12: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10998",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10998",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10998",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10998",
+    "before": null,
+    "after": "Firm-year excess probability of hiring an internal-origin job mover; estimated probabilities averaged over department-pair sets, Table 2 note. Regression in probability units; not log or outcome-SD units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4681",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4681",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4681",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4681",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4681",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4681",
+    "before": null,
+    "after": "Table 2 columns 1-2, pp.2686-2689: group diversification across macrosectors (negative employment-share HHI), including interaction with centered rest-of-group size, on firm-year excess internal-hiring probability. Firm-by-group and year fixed effects; routine no-interaction/interaction columns grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4681",
+    "before": null,
+    "after": "Broad author-intention gate retained after independent adjudication: final pp.2686-2687 directly describe diversification as affecting hiring via competing mechanisms and fn12 says boosts and quantifies the effect. The descriptive label and withdrawal of clean identification of the affiliation/ILM-friction effect in section 2.3 do not explicitly withdraw the distinct diversification-parameter interpretation. Narrow descriptive-only alternative remains documented. Table 2 p.2689 justifies firm-by-group FE for match-specific unobserved heterogeneity and year effects for macro shocks: two identifying sets, not HDFE; no no-FE/OLS column. Conditional linearity is in the reported excess-probability outcome, not an assertion that the upstream worker-transition construction is a randomized design."
+  }
+]
+```
