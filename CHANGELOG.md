@@ -1112874,3 +1112874,54 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:50:40.179245+00:00 — Review NVSISRI2 s3: source-audited coding and linked comparisons
+
+7 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Settings",
+    "cell": "I1110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1110",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1110",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1110",
+    "before": null,
+    "after": "Repeated-grant dynamic DDD pollution responses, Figure III A–B, equation (4), retaining substantive postgrant duration/build-up rather than diagnostic leads. Treatment remains repeated grant exposure, not a single binary policy assignment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1110",
+    "before": null,
+    "after": "pp. 369–370 fn15–16 and 377–379; duration around 30 years and spatial reach materially support abstract/introduction conclusions. Text equation top-bin 25+ conflicts with displayed Figure III 30+; preserve figure bins, no fabricated coefficients. Final fn15 says year -1 recentering; publication-linked graph code153–155 instead subtracts the -3 to -1 bin, and omits weather at line94. Preserve implementation/text differences; neither is outcome-level normalization."
+  }
+]
+```
