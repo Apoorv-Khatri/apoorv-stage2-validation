@@ -48655,7 +48655,16 @@
     "L4761": "1",
     "M4761": "n/a",
     "N4761": "Table 5 col.1, p.1713 and Appendix C p.9: simulated CFR two-step teacher-VA effect on earnings, 99.74 dollars per VA unit (SE 1.977). Estimate X slope within teachers, residualize earnings, then regress residual earnings on leave-out VA.",
-    "O4761": "Teacher FE enter nuisance residualization, not the focal between-teacher VA slope. Fixed-design two-step operator is linear in earnings; no focal FE method. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel."
+    "O4761": "Teacher FE enter nuisance residualization, not the focal between-teacher VA slope. Fixed-design two-step operator is linear in earnings; no focal FE method. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel.",
+    "A4762": "RG6T2XB5",
+    "B4762": "h7",
+    "I4762": "1",
+    "J4762": "OLS",
+    "K4762": "0",
+    "L4762": "1",
+    "M4762": "n/a",
+    "N4762": "Table 5 col.2 X row, pp.1712–1713: simulated continuous covariate X effect on earnings estimated jointly with teacher VA by pooled OLS; 65.95 dollars per X unit (SE 0.825), versus imposed causal slope 10.",
+    "O4762": "X is not just an uninterpreted control: p.1712 explicitly contrasts its true effect and recovered effect and attributes teacher effects to X. Continuous constructed X in Appendix C p.8. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124911,6 +124920,10 @@
     "B11170": "h6",
     "C11170": "hy1",
     "K11170": "Simulated earnings residualized for covariate X using within-teacher variation; dollar units; Table 5 col.1.",
+    "A11171": "RG6T2XB5",
+    "B11171": "h7",
+    "C11171": "hy1",
+    "K11171": "Simulated student earnings in dollars; Table 5 col.2 X coefficient, not teacher coefficient.",
     "A11174": "RG6T2XB5",
     "B11174": "s7",
     "C11174": "hy3",

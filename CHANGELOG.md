@@ -1185294,3 +1185294,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T16:00:03.435107+00:00 — Review RG6T2XB5 h7: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11171",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11171",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11171",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11171",
+    "before": null,
+    "after": "Simulated student earnings in dollars; Table 5 col.2 X coefficient, not teacher coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4762",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4762",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4762",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4762",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4762",
+    "before": null,
+    "after": "Table 5 col.2 X row, pp.1712–1713: simulated continuous covariate X effect on earnings estimated jointly with teacher VA by pooled OLS; 65.95 dollars per X unit (SE 0.825), versus imposed causal slope 10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4762",
+    "before": null,
+    "after": "X is not just an uninterpreted control: p.1712 explicitly contrasts its true effect and recovered effect and attributes teacher effects to X. Continuous constructed X in Appendix C p.8. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel."
+  }
+]
+```
