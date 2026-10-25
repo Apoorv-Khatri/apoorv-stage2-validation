@@ -48120,7 +48120,16 @@
     "L4707": "1",
     "M4707": "n/a",
     "N4707": "Ruins indicator → model-generated change in log GDP; Table 8 panel B, joint reduced form under alternative spillovers.",
-    "O4707": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Conditional linear regression on simulated log-GDP changes; full nonlinear equilibrium domain alternative Other."
+    "O4707": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Conditional linear regression on simulated log-GDP changes; full nonlinear equilibrium domain alternative Other.",
+    "A4708": "R3NSZAZE",
+    "B4708": "h24",
+    "I4708": "1",
+    "J4708": "IV",
+    "K4708": "0",
+    "L4708": "0",
+    "M4708": "n/a",
+    "N4708": "Hotel sales → local outcomes; A.8 cols.2–5 substantive robustness: additional coastal elevation/fishery controls and excluded rating-origin locations.",
+    "O4708": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Repeated baseline columns deduplicated; controls/sample variants grouped within this result location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123914,7 +123923,15 @@
     "H11081": "0",
     "I11081": "unknown",
     "J11081": "other",
-    "K11081": "Counterfactual change in log total regional GDP."
+    "K11081": "Counterfactual change in log total regional GDP.",
+    "A11082": "R3NSZAZE",
+    "B11082": "h24",
+    "C11082": "hy1",
+    "K11082": "Log municipality employment, population census 2000/2010.",
+    "A11083": "R3NSZAZE",
+    "B11083": "h24",
+    "C11083": "hy2",
+    "K11083": "Log municipality population, population census 2000/2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

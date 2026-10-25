@@ -1158945,3 +1158945,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:23:30.830534+00:00 — Review R3NSZAZE h24: adjudicated source-scoped coding
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11082",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11083",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11082",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11083",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11082",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11083",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11082",
+    "before": null,
+    "after": "Log municipality employment, population census 2000/2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11083",
+    "before": null,
+    "after": "Log municipality population, population census 2000/2010."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4708",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4708",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4708",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4708",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4708",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4708",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4708",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4708",
+    "before": null,
+    "after": "Hotel sales → local outcomes; A.8 cols.2–5 substantive robustness: additional coastal elevation/fishery controls and excluded rating-origin locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4708",
+    "before": null,
+    "after": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Repeated baseline columns deduplicated; controls/sample variants grouped within this result location."
+  }
+]
+```
