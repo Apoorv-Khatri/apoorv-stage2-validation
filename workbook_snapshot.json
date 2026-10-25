@@ -48534,7 +48534,16 @@
     "L4753": "0",
     "M4753": "n/a",
     "N4753": "All-tourism counterfactual allowing observed small aggregate trade deficit, allocated to regions by GDP.",
-    "O4753": "Main fn.39 p.2276: implemented results remain stable, no numerical gain printed. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-tourism mean utility, not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
+    "O4753": "Main fn.39 p.2276: implemented results remain stable, no numerical gain printed. Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-tourism mean utility, not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication.",
+    "A4754": "R3NSZAZE",
+    "B4754": "h70",
+    "I4754": "1",
+    "J4754": "Other",
+    "K4754": "0",
+    "L4754": "0",
+    "M4754": "n/a",
+    "N4754": "Public tourism capital G → tourism productivity Z_T; calibrated elasticity alphaG=.036, eq.(5), p.2281 and Appendix4.2 p.31.",
+    "O4754": "Structural calibration using observed government investment/tourism GDP and an optimal-investment condition, not an OLS productivity regression or IV. Appendix p.31 explicitly says alphaG controls the impact of investment on productivity. The broad author-intention gate does not require direct regression estimation. Distinct from h67 investment shutdown → welfare. Calibration-only exclusion remains a parent alternative; comparison with external elasticity .05 is effect-to-effect and ineligible."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124726,7 +124735,11 @@
     "H11158": "0",
     "I11158": "unknown",
     "J11158": "other",
-    "K11158": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level."
+    "K11158": "Average Mexican worker welfare gain, percent of corresponding counterfactual utility level.",
+    "A11159": "R3NSZAZE",
+    "B11159": "h70",
+    "C11159": "hy1",
+    "K11159": "Tourism-services productivity Z_T as a function of public tourism capital, eq.(5); calibrated elasticity alphaG=.036, Appendix4.2 p.31. Not the parameter itself as dependent outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

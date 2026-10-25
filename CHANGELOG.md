@@ -1184031,3 +1184031,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:57:06.807153+00:00 — Review R3NSZAZE h70: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11159",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11159",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11159",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11159",
+    "before": null,
+    "after": "Tourism-services productivity Z_T as a function of public tourism capital, eq.(5); calibrated elasticity alphaG=.036, Appendix4.2 p.31. Not the parameter itself as dependent outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4754",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4754",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4754",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4754",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4754",
+    "before": null,
+    "after": "Public tourism capital G → tourism productivity Z_T; calibrated elasticity alphaG=.036, eq.(5), p.2281 and Appendix4.2 p.31."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4754",
+    "before": null,
+    "after": "Structural calibration using observed government investment/tourism GDP and an optimal-investment condition, not an OLS productivity regression or IV. Appendix p.31 explicitly says alphaG controls the impact of investment on productivity. The broad author-intention gate does not require direct regression estimation. Distinct from h67 investment shutdown → welfare. Calibration-only exclusion remains a parent alternative; comparison with external elasticity .05 is effect-to-effect and ineligible."
+  }
+]
+```
