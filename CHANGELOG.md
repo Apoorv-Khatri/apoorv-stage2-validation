@@ -1152528,3 +1152528,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:29:52.313364+00:00 — Review QW28FTUN h7: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10987",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10988",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10989",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10987",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10988",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10989",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10987",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10988",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10989",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10988",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10989",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10987",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10988",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10989",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10987",
+    "before": null,
+    "after": "Share of internal hires."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10988",
+    "before": null,
+    "after": "Employment (FTE)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10989",
+    "before": null,
+    "after": "Market share (sales share)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4676",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4676",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4676",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4676",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4676",
+    "before": null,
+    "after": "final p.2698 A.5; linked B26 and Figures B2-B3: de Chaisemartin-D’Haultfoeuille dynamic closure effects, baseline scope. Separate implemented estimator from conventional event study; retain substantive post-event effects including imprecise/null estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4676",
+    "before": null,
+    "after": "Publication-linked August 2023 appendix B is not verified byte-identical to publisher final appendix A. Final text independently establishes both implemented estimators. SA uses last-treated cohort; dCdH uses not-yet-treated comparisons. No transfer of conventional-estimator magnitude benchmarks. Conditional linearity in reported outcomes, no assignment randomization. Independent archive-member search finds no eventstudyinteract or did_multiplegt command in either published ZIP; named implementation is established by final prose and linked Appendix B.5/captions, not verified modern-estimator source code. No empirical execution."
+  }
+]
+```
