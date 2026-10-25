@@ -1114539,3 +1114539,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:58:33.072475+00:00 — Review NVSISRI2 h12: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10823",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10824",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10823",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10824",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10823",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10824",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10823",
+    "before": null,
+    "after": "Mean dissolved oxygen deficit in plant×upstream/downstream×year cells, percentage points. Spatial distance profile."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10824",
+    "before": null,
+    "after": "Mean share of pollution readings in the cell that are not fishable. Spatial distance profile."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4642",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4642",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4642",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4642",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4642",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4642",
+    "before": null,
+    "after": "Grant effects on pollution by distance downstream from treatment plant, Online Appendix Figure V, final p.379."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4642",
+    "before": null,
+    "after": "Minimum primary outcomes; spatially disaggregated treatment-response profile under equation(3) framework, not spatial RD. Author copy confirms six panels but final panel membership for additional pollutants held. No digitized effects, fabricated zeros or distance-by-benchmark grid. Independent adjudication: spatial concentration within25 miles materially supports introduction p.352 and conclusion p.390, so main=1 even though exact spatial coefficients remain unavailable in final main."
+  }
+]
+```

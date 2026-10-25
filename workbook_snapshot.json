@@ -47352,7 +47352,16 @@
     "L4641": "1",
     "M4641": "unknown",
     "N4641": "Heterogeneity of measured housing benefits relative to grant costs, Online Appendix Table VII/E.3, final p.387.",
-    "O4641": "Final text establishes implemented ratios for outdoor recreation (0.53), high-amenity urban areas(0.40), South(0.84) and states no subset ratio exceeds1. Detailed estimator/interaction/aggregation implementation is not established in final main text; alternate copy corroboration is not final verification. Retain outcome-specific minimum, hold precise underlying log-effect grid. Independent adjudication: main=1, because introduction p.352 explicitly presents limited cost-effectiveness and benefit/cost heterogeneity among the central findings, with policy relevance repeated p.392. Statistical nulls and appendix placement do not demote this role."
+    "O4641": "Final text establishes implemented ratios for outdoor recreation (0.53), high-amenity urban areas(0.40), South(0.84) and states no subset ratio exceeds1. Detailed estimator/interaction/aggregation implementation is not established in final main text; alternate copy corroboration is not final verification. Retain outcome-specific minimum, hold precise underlying log-effect grid. Independent adjudication: main=1, because introduction p.352 explicitly presents limited cost-effectiveness and benefit/cost heterogeneity among the central findings, with policy relevance repeated p.392. Statistical nulls and appendix placement do not demote this role.",
+    "A4642": "NVSISRI2",
+    "B4642": "h12",
+    "I4642": "1",
+    "J4642": "DiD_conventional",
+    "K4642": "0",
+    "L4642": "1",
+    "M4642": "n/a",
+    "N4642": "Grant effects on pollution by distance downstream from treatment plant, Online Appendix Figure V, final p.379.",
+    "O4642": "Minimum primary outcomes; spatially disaggregated treatment-response profile under equation(3) framework, not spatial RD. Author copy confirms six panels but final panel membership for additional pollutants held. No digitized effects, fabricated zeros or distance-by-benchmark grid. Independent adjudication: spatial concentration within25 miles materially supports introduction p.352 and conclusion p.390, so main=1 even though exact spatial coefficients remain unavailable in final main."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121180,7 +121189,15 @@
     "A10822": "NVSISRI2",
     "B10822": "h11",
     "C10822": "hy1",
-    "K10822": "Ratio of aggregate fitted housing-value change to grant costs for grant subgroups; final p.387. Not an outcome-mean comparison merely because benchmark is a monetary cost."
+    "K10822": "Ratio of aggregate fitted housing-value change to grant costs for grant subgroups; final p.387. Not an outcome-mean comparison merely because benchmark is a monetary cost.",
+    "A10823": "NVSISRI2",
+    "B10823": "h12",
+    "C10823": "hy1",
+    "K10823": "Mean dissolved oxygen deficit in plant×upstream/downstream×year cells, percentage points. Spatial distance profile.",
+    "A10824": "NVSISRI2",
+    "B10824": "h12",
+    "C10824": "hy2",
+    "K10824": "Mean share of pollution readings in the cell that are not fishable. Spatial distance profile."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
