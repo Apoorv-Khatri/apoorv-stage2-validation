@@ -1155954,3 +1155954,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T13:17:50.755077+00:00 — Review R3NSZAZE h11: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11038",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11038",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11038",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11038",
+    "before": null,
+    "after": "Log municipality population, ten censuses 1921–2010."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4695",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4695",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4695",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4695",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4695",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4695",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4695",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4695",
+    "before": null,
+    "after": "Island indicator × log national tourist arrivals → log population; A.7 shift-share IV columns 3–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4695",
+    "before": null,
+    "after": "p.2262 and A.7: log real US airfares instruments national arrivals, interacted with focal local attractiveness. One nonbinary excluded interaction for the one focal exposure per specification; municipality and coast×period FE. Footnote 17 rounds slopes without uniquely separating OLS from IV."
+  }
+]
+```

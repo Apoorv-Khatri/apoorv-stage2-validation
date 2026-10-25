@@ -47961,7 +47961,16 @@
     "L4694": "0",
     "M4694": "n/a",
     "N4694": "Pre-Hispanic ruins indicator → contemporary 2000/2010 population; Table 4 modern-period columns only (basic geographic controls, optional 1940 roads). Historical placebo columns excluded.",
-    "O4694": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
+    "O4694": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here.",
+    "A4695": "R3NSZAZE",
+    "B4695": "h11",
+    "I4695": "1",
+    "J4695": "IV",
+    "K4695": "0",
+    "L4695": "0",
+    "M4695": "single continuous",
+    "N4695": "Island indicator × log national tourist arrivals → log population; A.7 shift-share IV columns 3–4.",
+    "O4695": "p.2262 and A.7: log real US airfares instruments national arrivals, interacted with focal local attractiveness. One nonbinary excluded interaction for the one focal exposure per specification; municipality and coast×period FE. Footnote 17 rounds slopes without uniquely separating OLS from IV."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123491,7 +123500,11 @@
     "H11037": "0",
     "I11037": "0",
     "J11037": "log",
-    "K11037": "Log contemporary population, panel B assigns log(1) only to historical zeros; contemporary observations positive."
+    "K11037": "Log contemporary population, panel B assigns log(1) only to historical zeros; contemporary observations positive.",
+    "A11038": "R3NSZAZE",
+    "B11038": "h11",
+    "C11038": "hy1",
+    "K11038": "Log municipality population, ten censuses 1921–2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
