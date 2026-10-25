@@ -48201,7 +48201,16 @@
     "L4716": "0",
     "M4716": "n/a",
     "N4716": "IHS hotel sales → log population, A.13 col.3 100% census OLS robustness.",
-    "O4716": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
+    "O4716": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here.",
+    "A4717": "R3NSZAZE",
+    "B4717": "h33",
+    "I4717": "1",
+    "J4717": "IV",
+    "K4717": "0",
+    "L4717": "0",
+    "M4717": "mixed",
+    "N4717": "IHS hotel sales → log employment/population; A.14 island and beach instruments only, all/coastal/interacted-control variants.",
+    "O4717": "A.14 excludes ruins. One binary island indicator plus continuous beach share = mixed; sample and nuisance-control variants grouped."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124067,7 +124076,15 @@
     "A11099": "R3NSZAZE",
     "B11099": "h32",
     "C11099": "hy1",
-    "K11099": "Log municipality population, population census 2000/2010."
+    "K11099": "Log municipality population, population census 2000/2010.",
+    "A11100": "R3NSZAZE",
+    "B11100": "h33",
+    "C11100": "hy1",
+    "K11100": "Log municipality employment, population census 2000/2010.",
+    "A11101": "R3NSZAZE",
+    "B11101": "h33",
+    "C11101": "hy2",
+    "K11101": "Log municipality population, population census 2000/2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

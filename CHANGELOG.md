@@ -1159944,3 +1159944,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:30:25.842771+00:00 — Review R3NSZAZE h33: adjudicated source-scoped coding
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11100",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11101",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11100",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11101",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11100",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11101",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11100",
+    "before": null,
+    "after": "Log municipality employment, population census 2000/2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11101",
+    "before": null,
+    "after": "Log municipality population, population census 2000/2010."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4717",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4717",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4717",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4717",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4717",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4717",
+    "before": null,
+    "after": "IHS hotel sales → log employment/population; A.14 island and beach instruments only, all/coastal/interacted-control variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4717",
+    "before": null,
+    "after": "A.14 excludes ruins. One binary island indicator plus continuous beach share = mixed; sample and nuisance-control variants grouped."
+  }
+]
+```
