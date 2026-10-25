@@ -1113771,3 +1113771,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:55:41.467344+00:00 — Review NVSISRI2 h6: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10813",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10814",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10813",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10814",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10813",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10814",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10813",
+    "before": null,
+    "after": "River miles made fishable: 5,188 / 9,000 / 12,260 across Table III columns1–3. Constructed by grant count × Appendix VI row13 col2 effect × affected river length."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10814",
+    "before": null,
+    "after": "River miles × percent-saturation increase /10: 14,721 /25,536 /34,787 across Table III columns1–3; fixed scaling of dissolved-oxygen response. The denominator 10 is a units conversion, not an observed outcome-level benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4636",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4636",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4636",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4636",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4636",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4636",
+    "before": null,
+    "after": "Aggregate effects of Clean Water Act grant investments on river miles made fishable and river-mile dissolved-oxygen improvements, Table III rows5–6, using regression estimates and river length/grant weights."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4636",
+    "before": null,
+    "after": "pp.379–380 notes; linear weighted scaling of relevant DDD coefficients conditional on reported pollution outcomes and fixed river/grant weights. Fishable uses Appendix VI majority criterion, not Table II share coefficient. No fresh experimental design or nonlinear exponentiation asserted."
+  }
+]
+```

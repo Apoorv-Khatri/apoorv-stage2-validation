@@ -47298,7 +47298,16 @@
     "L4635": "0",
     "M4635": "n/a",
     "N4635": "Cumulative grant count on log home values in implemented Online Appendix Table VIII sensitivity analyses, minimum established scope including urban-own-town exclusion row12.",
-    "O4635": "Final pp.385,389 explicitly report results; not an empty announcement. Routine sample/control variants grouped. Additional demographic and rental outcomes and 1987 nonrecipient treatment require final-appendix adjudication; no grouped placeholder outcome."
+    "O4635": "Final pp.385,389 explicitly report results; not an empty announcement. Routine sample/control variants grouped. Additional demographic and rental outcomes and 1987 nonrecipient treatment require final-appendix adjudication; no grouped placeholder outcome.",
+    "A4636": "NVSISRI2",
+    "B4636": "h6",
+    "I4636": "1",
+    "J4636": "DiD_conventional",
+    "K4636": "0",
+    "L4636": "1",
+    "M4636": "n/a",
+    "N4636": "Aggregate effects of Clean Water Act grant investments on river miles made fishable and river-mile dissolved-oxygen improvements, Table III rows5–6, using regression estimates and river length/grant weights.",
+    "O4636": "pp.379–380 notes; linear weighted scaling of relevant DDD coefficients conditional on reported pollution outcomes and fixed river/grant weights. Fishable uses Appendix VI majority criterion, not Table II share coefficient. No fresh experimental design or nonlinear exponentiation asserted."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121083,7 +121092,15 @@
     "A10812": "NVSISRI2",
     "B10812": "h5",
     "C10812": "hy1",
-    "K10812": "Log mean home values near downstream waters; final pp.385,389, including excluding homes in same Census place as treatment plant."
+    "K10812": "Log mean home values near downstream waters; final pp.385,389, including excluding homes in same Census place as treatment plant.",
+    "A10813": "NVSISRI2",
+    "B10813": "h6",
+    "C10813": "hy1",
+    "K10813": "River miles made fishable: 5,188 / 9,000 / 12,260 across Table III columns1–3. Constructed by grant count × Appendix VI row13 col2 effect × affected river length.",
+    "A10814": "NVSISRI2",
+    "B10814": "h6",
+    "C10814": "hy2",
+    "K10814": "River miles × percent-saturation increase /10: 14,721 /25,536 /34,787 across Table III columns1–3; fixed scaling of dissolved-oxygen response. The denominator 10 is a units conversion, not an observed outcome-level benchmark."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
