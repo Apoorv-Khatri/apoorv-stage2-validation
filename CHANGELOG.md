@@ -1113096,3 +1113096,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:52:49.296142+00:00 — Review NVSISRI2 h1: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10798",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10798",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10798",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10798",
+    "before": null,
+    "after": "Cumulative municipal sewerage capital expenditure since 1970, nominal in column 1 and real dollars in columns 2–4; includes grant-financed expenditure. Table IV B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4631",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4631",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4631",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4631",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4631",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4631",
+    "before": null,
+    "after": "Cumulative total grant project capital costs (federal funds plus required municipal contribution) on cumulative municipal sewerage capital expenditure; Table IV Panel B, equation (5), including fn20 controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4631",
+    "before": null,
+    "after": "pp. 370–371,381–383: distinct focal dollar treatment from s4, not a routine control. Estimates 1.09, 0.93, 0.84, 0.89; null of full pass-through substantively interpreted."
+  }
+]
+```

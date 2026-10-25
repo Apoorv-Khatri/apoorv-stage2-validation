@@ -47253,7 +47253,16 @@
     "L4630": "0",
     "M4630": "n/a",
     "N4630": "Incremental reclassification of 50% of PBS IPP output from materials to investment, holding corrected prices fixed: Fig13 blue versus black, plus reclassification-induced PBS multiplier .36 versus .25, main p3329.",
-    "O4630": "Distinct from combined-versus-original s9 and price-only h1. Implemented incremental investment classification changes multipliers while corrected productivity is fixed; selected static code pbs_experiments lines303-311 explicitly rescales black by multiplier ratio to obtain blue. Full contribution paths inherit posterior recovery Other. No reclassification-only uncorrected-price path claimed."
+    "O4630": "Distinct from combined-versus-original s9 and price-only h1. Implemented incremental investment classification changes multipliers while corrected productivity is fixed; selected static code pbs_experiments lines303-311 explicitly rescales black by multiplier ratio to obtain blue. Full contribution paths inherit posterior recovery Other. No reclassification-only uncorrected-price path claimed.",
+    "A4631": "NVSISRI2",
+    "B4631": "h1",
+    "I4631": "1",
+    "J4631": "DiD_conventional",
+    "K4631": "0",
+    "L4631": "1",
+    "M4631": "n/a",
+    "N4631": "Cumulative total grant project capital costs (federal funds plus required municipal contribution) on cumulative municipal sewerage capital expenditure; Table IV Panel B, equation (5), including fn20 controls.",
+    "O4631": "pp. 370–371,381–383: distinct focal dollar treatment from s4, not a routine control. Estimates 1.09, 0.93, 0.84, 0.89; null of full pass-through substantively interpreted."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -120978,7 +120987,11 @@
     "H10797": "0",
     "I10797": "unknown",
     "J10797": "none",
-    "K10797": "PBS structural sectoral multiplier as outcome of reclassification, baseline .25 and revised .36, main p3329; price correction itself does not change this calibrated multiplier."
+    "K10797": "PBS structural sectoral multiplier as outcome of reclassification, baseline .25 and revised .36, main p3329; price correction itself does not change this calibrated multiplier.",
+    "A10798": "NVSISRI2",
+    "B10798": "h1",
+    "C10798": "hy1",
+    "K10798": "Cumulative municipal sewerage capital expenditure since 1970, nominal in column 1 and real dollars in columns 2–4; includes grant-financed expenditure. Table IV B."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
