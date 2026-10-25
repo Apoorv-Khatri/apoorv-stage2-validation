@@ -1186941,3 +1186941,108 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T17:27:43.128418+00:00 — Review RH367ADM h5: adjudicated source-scoped coding
+
+16 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11179",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11179",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11179",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11179",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11179",
+    "before": null,
+    "after": "Sustained poverty reduction: binary indicator of decline in every observed/interpolated year of the five-year window; zero observations established by Table I and supplement p.1. Continuous treatment: detailed labels supplied voluntarily."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4769",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4769",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4769",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4769",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4769",
+    "before": null,
+    "after": "Relative GDP per capita of goods-and-services-only integrated market -> poverty reduction. Table IV col4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4769",
+    "before": null,
+    "after": "Nonlinear structural probit maximum likelihood, equations (2)-(5), not linear probit-index regression or IV. Cross-country and time variation; predetermined covariates do not establish exogeneity. Parameters in S or V are not probability marginal effects. Main p.1934-39; archive MATLAB/probit_table_ECMA_FINAL.m. Routine control/sample/window variants grouped; focal regressors split."
+  }
+]
+```
