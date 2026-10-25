@@ -48453,7 +48453,16 @@
     "L4744": "0",
     "M4744": "n/a",
     "N4744": "manufacturing employment → manufacturing productivity under endogenous transport-cost calibrations, A.27.",
-    "O4744": "Joint nonlinear indirect-inference reestimates. A.27 gammaM=.086,.08,.07 vs main p.2290 range .08–.086; retain .07 conflict rather than repair."
+    "O4744": "Joint nonlinear indirect-inference reestimates. A.27 gammaM=.086,.08,.07 vs main p.2290 range .08–.086; retain .07 conflict rather than repair.",
+    "A4745": "R3NSZAZE",
+    "B4745": "h61",
+    "I4745": "1",
+    "J4745": "Other",
+    "K4745": "0",
+    "L4745": "0",
+    "M4745": "n/a",
+    "N4745": "services employment → manufacturing productivity under endogenous transport-cost calibrations, A.27.",
+    "O4745": "Joint nonlinear indirect-inference reestimates. A.27 gammaM=.086,.08,.07 vs main p.2290 range .08–.086; retain .07 conflict rather than repair."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124597,7 +124606,11 @@
     "A11149": "R3NSZAZE",
     "B11149": "h60",
     "C11149": "hy1",
-    "K11149": "Manufacturing productivity response elasticity; not the gamma parameter as dependent outcome."
+    "K11149": "Manufacturing productivity response elasticity; not the gamma parameter as dependent outcome.",
+    "A11150": "R3NSZAZE",
+    "B11150": "h61",
+    "C11150": "hy1",
+    "K11150": "Manufacturing productivity response elasticity; not the gamma parameter as dependent outcome."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

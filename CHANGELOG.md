@@ -1183110,3 +1183110,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:51:06.531122+00:00 — Review R3NSZAZE h61: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11150",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11150",
+    "before": null,
+    "after": "h61"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11150",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11150",
+    "before": null,
+    "after": "Manufacturing productivity response elasticity; not the gamma parameter as dependent outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4745",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4745",
+    "before": null,
+    "after": "h61"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4745",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4745",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4745",
+    "before": null,
+    "after": "services employment → manufacturing productivity under endogenous transport-cost calibrations, A.27."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4745",
+    "before": null,
+    "after": "Joint nonlinear indirect-inference reestimates. A.27 gammaM=.086,.08,.07 vs main p.2290 range .08–.086; retain .07 conflict rather than repair."
+  }
+]
+```
