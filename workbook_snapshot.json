@@ -48192,7 +48192,16 @@
     "L4715": "0",
     "M4715": "mixed",
     "N4715": "IHS number of tourists → log employment/population, A.12 cols.2,4.",
-    "O4715": "A.12 explicitly changes focal tourism measure; same three mixed excluded instruments."
+    "O4715": "A.12 explicitly changes focal tourism measure; same three mixed excluded instruments.",
+    "A4716": "R3NSZAZE",
+    "B4716": "h32",
+    "I4716": "1",
+    "J4716": "FE",
+    "K4716": "0",
+    "L4716": "0",
+    "M4716": "n/a",
+    "N4716": "IHS hotel sales → log population, A.13 col.3 100% census OLS robustness.",
+    "O4716": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124054,7 +124063,11 @@
     "A11098": "R3NSZAZE",
     "B11098": "h31",
     "C11098": "hy2",
-    "K11098": "Log municipality population, population census 2000/2010."
+    "K11098": "Log municipality population, population census 2000/2010.",
+    "A11099": "R3NSZAZE",
+    "B11099": "h32",
+    "C11099": "hy1",
+    "K11099": "Log municipality population, population census 2000/2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
