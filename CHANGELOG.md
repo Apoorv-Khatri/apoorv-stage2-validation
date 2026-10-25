@@ -1116315,3 +1116315,552 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T06:34:39.465494+00:00 — Review QHATH8UY h2: source-audited coding and linked comparisons
+
+90 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10190",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10191",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10192",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10193",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10194",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10195",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10196",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10190",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10191",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10192",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10193",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10194",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10195",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10196",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10190",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10191",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10192",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10193",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10194",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10195",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10196",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10190",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10191",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10192",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10193",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10194",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10195",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10196",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10190",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10191",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10192",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10193",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10194",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10195",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10196",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10192",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10195",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10196",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10190",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10191",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10192",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10193",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10194",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10195",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10196",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10190",
+    "before": null,
+    "after": "Fig.5(c), pp.930–931; Analysis.R 219–228,260–272: displayed final-cooperation median at code gridpoint 2 paired with theoretical earliest risk-dominant defection time. Qualitative same-outcome level comparison; no numeric ordinate transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10191",
+    "before": null,
+    "after": "Fig.5(c), pp.930–931; Analysis.R 219–228,260–272: displayed final-cooperation median at code gridpoint 4 paired with theoretical earliest risk-dominant defection time. Qualitative same-outcome level comparison; no numeric ordinate transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10192",
+    "before": null,
+    "after": "Fig.5(c), pp.930–931; Analysis.R 219–228,260–272: displayed final-cooperation median at code gridpoint 8 paired with theoretical earliest risk-dominant defection time. Qualitative same-outcome level comparison; no numeric ordinate transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10193",
+    "before": null,
+    "after": "Fig.5(c), pp.930–931; Analysis.R 219–228,260–272: displayed final-cooperation median at code gridpoint 15 paired with theoretical earliest risk-dominant defection time. Qualitative same-outcome level comparison; no numeric ordinate transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10194",
+    "before": null,
+    "after": "Fig.5(c), pp.930–931; Analysis.R 219–228,260–272: displayed final-cooperation median at code gridpoint 30 paired with theoretical earliest risk-dominant defection time. Qualitative same-outcome level comparison; no numeric ordinate transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10195",
+    "before": null,
+    "after": "Fig.5(c), pp.930–931; Analysis.R 219–228,260–272: displayed final-cooperation median at code gridpoint 60 paired with theoretical earliest risk-dominant defection time. Qualitative same-outcome level comparison; no numeric ordinate transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10196",
+    "before": null,
+    "after": "p.930, Fig.5(c), main.txt 756–765: the final-cooperation convergence path as grid fineness rises approaches the Perfectly Continuous benchmark time 1 (entire period). Qualitative terminal-path comparison; no numeric empirical ordinate and no claim of attaining 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10190",
+    "before": null,
+    "after": "Code-versus-main-text grid labels conflict. Publication-linked code establishes six slots; their exact printed-prose attribution remains unresolved. Candidate requires parent acceptance of code-labelled graphical scope."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10191",
+    "before": null,
+    "after": "Code-versus-main-text grid labels conflict. Publication-linked code establishes six slots; their exact printed-prose attribution remains unresolved. Candidate requires parent acceptance of code-labelled graphical scope."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10192",
+    "before": null,
+    "after": "Code-versus-main-text grid labels conflict. Publication-linked code establishes six slots; their exact printed-prose attribution remains unresolved. Candidate requires parent acceptance of code-labelled graphical scope."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10193",
+    "before": null,
+    "after": "Code-versus-main-text grid labels conflict. Publication-linked code establishes six slots; their exact printed-prose attribution remains unresolved. Candidate requires parent acceptance of code-labelled graphical scope."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10194",
+    "before": null,
+    "after": "Code-versus-main-text grid labels conflict. Publication-linked code establishes six slots; their exact printed-prose attribution remains unresolved. Candidate requires parent acceptance of code-labelled graphical scope."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10195",
+    "before": null,
+    "after": "Code-versus-main-text grid labels conflict. Publication-linked code establishes six slots; their exact printed-prose attribution remains unresolved. Candidate requires parent acceptance of code-labelled graphical scope. This endpoint is also explicitly discussed as converging toward the continuous-time limit 1; the limit comparison is recorded separately under hc7 without inventing an attained value of 1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10196",
+    "before": null,
+    "after": "Distinct from six risk-dominance pairings. One explicitly interpreted convergence-path/limit triple, not a limit-by-grid cross product. Plotting displacement -0.003 remains disclosed in outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10838",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10838",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10838",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10838",
+    "before": null,
+    "after": "Median last mutual-cooperation time divided by number of subperiods; Fig.5(c), Analysis.R 264–271. Plot subtracts 0.003 from this median. Do not infer raw continuous defection time or substitute a complete parameter-treatment grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4649",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4649",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4649",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4649",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4649",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4649",
+    "before": null,
+    "after": "Grid fineness / imposed reaction lag effects on median final mutual cooperation time in reanalysis of Friedman–Oprea prisoner-dilemma data, Fig.5(c), pp.930–931, Result 5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4649",
+    "before": null,
+    "after": "Within-subject protocol variation; median of group-level final cooperation fractions is nonlinear. Analysis.R 260–272 establishes max/cooperation threshold then treatment median; displayed series subtracts 0.003, unmentioned in caption. Main text lists 4,8,16,32,60 but six lag fractions; code theoretical grid is 2,4,8,15,30,60. Preserve conflict. Retained broad causal gate: authors interpret falling imposed lag as causing later cooperation collapse, not a causal BOA-predictor regression. Alternative prediction-only gate requires adjudication."
+  }
+]
+```
