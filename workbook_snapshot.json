@@ -47518,7 +47518,16 @@
     "L4652": "1",
     "M4652": "n/a",
     "N4652": "Figure 4 p.1197: school-assignment retention effects by booklet receipt and available top-three booklets in friendship network; both panels, three domains, four displayed bins.",
-    "O4652": "Authors interpret as pedagogy-enhanced peer learning; conditional linear outcome regressions with selected network exposure, not an effect of randomized network dose. Last bin printed 3; prose alternates three-or-more and more-than-three. Exact bin support unresolved."
+    "O4652": "Authors interpret as pedagogy-enhanced peer learning; conditional linear outcome regressions with selected network exposure, not an effect of randomized network dose. Last bin printed 3; prose alternates three-or-more and more-than-three. Exact bin support unresolved.",
+    "A4653": "QL93W8JQ",
+    "B4653": "h3",
+    "I4653": "1",
+    "J4653": "unknown",
+    "K4653": "1",
+    "L4653": "0",
+    "M4653": "unknown",
+    "N4653": "Section V p.1201 and Table A2: school-assignment null effects on teachers’ curricular science knowledge and booklet knowledge, Study 2 only.",
+    "O4653": "Substantively used to rule out content-knowledge mechanism; not diagnostic-only. Exact estimator and score transformation for these tests not printed; do not import teacher-belief estimator. Main prose p-values 0.908/0.456 differ from A2 originals 0.898/0.451. No coefficient or eligible benchmark supplied."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121728,7 +121737,21 @@
     "H10853": "0",
     "I10853": "unknown",
     "J10853": "sd_units",
-    "K10853": "Non-science retention, nonrecipients; standardized booklet score, Figure 4."
+    "K10853": "Non-science retention, nonrecipients; standardized booklet score, Figure 4.",
+    "A10854": "QL93W8JQ",
+    "B10854": "h3",
+    "C10854": "hy1",
+    "H10854": "0",
+    "I10854": "unknown",
+    "J10854": "unknown",
+    "K10854": "Teacher curricular science test performance, Study 2 only, p.1201 fn22.",
+    "A10855": "QL93W8JQ",
+    "B10855": "h3",
+    "C10855": "hy2",
+    "H10855": "0",
+    "I10855": "unknown",
+    "J10855": "unknown",
+    "K10855": "Teacher booklet knowledge test performance, Study 2 only, p.1201 fn22."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
