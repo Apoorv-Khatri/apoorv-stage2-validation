@@ -1183197,3 +1183197,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:51:46.362111+00:00 — Review R3NSZAZE h62: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11151",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11151",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11151",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11151",
+    "before": null,
+    "after": "Counterfactual change in log local worker utility without migration."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4746",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4746",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4746",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4746",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4746",
+    "before": null,
+    "after": "Counterfactual change in log tourism GDP → change in log local worker utility without mobility; A.28 all tourism."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4746",
+    "before": null,
+    "after": "Conditional reported-outcome 2SLS; complete simulated equilibrium is nonlinear (Other alternative). Table says three island/beach/ruins instruments; Appendix 4.6 says island/beach only. Both possible sets are mixed, so IV_type remains mixed while exact set conflict is explicit."
+  }
+]
+```

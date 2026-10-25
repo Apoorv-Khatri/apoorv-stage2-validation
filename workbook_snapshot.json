@@ -48462,7 +48462,16 @@
     "L4745": "0",
     "M4745": "n/a",
     "N4745": "services employment → manufacturing productivity under endogenous transport-cost calibrations, A.27.",
-    "O4745": "Joint nonlinear indirect-inference reestimates. A.27 gammaM=.086,.08,.07 vs main p.2290 range .08–.086; retain .07 conflict rather than repair."
+    "O4745": "Joint nonlinear indirect-inference reestimates. A.27 gammaM=.086,.08,.07 vs main p.2290 range .08–.086; retain .07 conflict rather than repair.",
+    "A4746": "R3NSZAZE",
+    "B4746": "h62",
+    "I4746": "1",
+    "J4746": "IV",
+    "K4746": "0",
+    "L4746": "0",
+    "M4746": "mixed",
+    "N4746": "Counterfactual change in log tourism GDP → change in log local worker utility without mobility; A.28 all tourism.",
+    "O4746": "Conditional reported-outcome 2SLS; complete simulated equilibrium is nonlinear (Other alternative). Table says three island/beach/ruins instruments; Appendix 4.6 says island/beach only. Both possible sets are mixed, so IV_type remains mixed while exact set conflict is explicit."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124610,7 +124619,11 @@
     "A11150": "R3NSZAZE",
     "B11150": "h61",
     "C11150": "hy1",
-    "K11150": "Manufacturing productivity response elasticity; not the gamma parameter as dependent outcome."
+    "K11150": "Manufacturing productivity response elasticity; not the gamma parameter as dependent outcome.",
+    "A11151": "R3NSZAZE",
+    "B11151": "h62",
+    "C11151": "hy1",
+    "K11151": "Counterfactual change in log local worker utility without migration."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
