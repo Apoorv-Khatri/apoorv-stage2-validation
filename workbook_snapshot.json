@@ -48291,7 +48291,16 @@
     "L4726": "0",
     "M4726": "mixed",
     "N4726": "nominal wage → log municipality employment, A.21 2SLS spatial labor supply elasticity.",
-    "O4726": "Eq.(18), pp.2282–83 and A.21: three mixed attractiveness instruments. Nominal elasticity 5.150, real 6.353; full regressor/model-generation domain caveat distinct from conditional 2SLS."
+    "O4726": "Eq.(18), pp.2282–83 and A.21: three mixed attractiveness instruments. Nominal elasticity 5.150, real 6.353; full regressor/model-generation domain caveat distinct from conditional 2SLS.",
+    "A4727": "R3NSZAZE",
+    "B4727": "h43",
+    "I4727": "1",
+    "J4727": "FE",
+    "K4727": "0",
+    "L4727": "0",
+    "M4727": "n/a",
+    "N4727": "model-based real wage → log municipality employment, A.21 OLS spatial labor supply elasticity.",
+    "O4727": "Eq.(18), pp.2282–83 and A.21: coast FE and geographic controls; broad interpreted supply elasticity despite OLS demand/supply confounding."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124325,7 +124334,11 @@
     "A11129": "R3NSZAZE",
     "B11129": "h42",
     "C11129": "hy1",
-    "K11129": "Log municipality/regional employment in 300 calibrated regions (A.21 caption); text sometimes calls it population L_n."
+    "K11129": "Log municipality/regional employment in 300 calibrated regions (A.21 caption); text sometimes calls it population L_n.",
+    "A11130": "R3NSZAZE",
+    "B11130": "h43",
+    "C11130": "hy1",
+    "K11130": "Log municipality/regional employment in 300 calibrated regions (A.21 caption); text sometimes calls it population L_n."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
