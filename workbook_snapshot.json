@@ -48309,7 +48309,16 @@
     "L4728": "0",
     "M4728": "mixed",
     "N4728": "model-based real wage → log municipality employment, A.21 2SLS spatial labor supply elasticity.",
-    "O4728": "Eq.(18), pp.2282–83 and A.21: three mixed attractiveness instruments. Nominal elasticity 5.150, real 6.353; full regressor/model-generation domain caveat distinct from conditional 2SLS."
+    "O4728": "Eq.(18), pp.2282–83 and A.21: three mixed attractiveness instruments. Nominal elasticity 5.150, real 6.353; full regressor/model-generation domain caveat distinct from conditional 2SLS.",
+    "A4729": "R3NSZAZE",
+    "B4729": "h45",
+    "I4729": "1",
+    "J4729": "Other",
+    "K4729": "0",
+    "L4729": "0",
+    "M4729": "n/a",
+    "N4729": "Log bilateral geographic distance → bilateral tourism exports; PPML gravity estimate, Figure A.1 and p.2281.",
+    "O4729": "Distance-decay parameter .96 (signed slope -.96); PPML nonlinear in outcome, origin×year/destination×year FE do not override Other. Causal structural trade-friction parameter used in counterfactuals, not pure out-of-sample prediction."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124351,7 +124360,11 @@
     "A11131": "R3NSZAZE",
     "B11131": "h44",
     "C11131": "hy1",
-    "K11131": "Log municipality/regional employment in 300 calibrated regions (A.21 caption); text sometimes calls it population L_n."
+    "K11131": "Log municipality/regional employment in 300 calibrated regions (A.21 caption); text sometimes calls it population L_n.",
+    "A11132": "R3NSZAZE",
+    "B11132": "h45",
+    "C11132": "hy1",
+    "K11132": "Bilateral tourism exports, levels as PPML dependent variable; plotted partial prediction in log units."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

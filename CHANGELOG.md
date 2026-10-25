@@ -1161756,3 +1161756,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:40:15.150563+00:00 — Review R3NSZAZE h45: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11132",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11132",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11132",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11132",
+    "before": null,
+    "after": "Bilateral tourism exports, levels as PPML dependent variable; plotted partial prediction in log units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4729",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4729",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4729",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4729",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4729",
+    "before": null,
+    "after": "Log bilateral geographic distance → bilateral tourism exports; PPML gravity estimate, Figure A.1 and p.2281."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4729",
+    "before": null,
+    "after": "Distance-decay parameter .96 (signed slope -.96); PPML nonlinear in outcome, origin×year/destination×year FE do not override Other. Causal structural trade-friction parameter used in counterfactuals, not pure out-of-sample prediction."
+  }
+]
+```
