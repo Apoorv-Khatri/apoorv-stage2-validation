@@ -47927,7 +47927,16 @@
     "L4691": "1",
     "M4691": "n/a",
     "N4691": "Pre-Hispanic ruins indicator → Table 3 outcome set, jointly included-measure specifications reported through outcome-specific joint significance tests.",
-    "O4691": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Table 3 last row and pp.2257–59 explicitly establish joint implementations; individual slopes are not printed. No invented estimates."
+    "O4691": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Table 3 last row and pp.2257–59 explicitly establish joint implementations; individual slopes are not printed. No invented estimates.",
+    "A4692": "R3NSZAZE",
+    "B4692": "h8",
+    "I4692": "1",
+    "J4692": "FE",
+    "K4692": "1",
+    "L4692": "0",
+    "M4692": "n/a",
+    "N4692": "Nearby island indicator → contemporary 2000/2010 population; Table 4 modern-period columns only (basic geographic controls, optional 1940 roads). Historical placebo columns excluded.",
+    "O4692": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123420,7 +123429,21 @@
     "H11031": "0",
     "I11031": "unknown",
     "J11031": "log",
-    "K11031": "Log individual hourly wage with demographic controls and population weights; Table 3 col.6/Table 5 col.16 report 5,490,558 observations. Appendix 2 also describes population-weighted municipality averages of log-wage residuals; do not call this a raw untransformed wage residual."
+    "K11031": "Log individual hourly wage with demographic controls and population weights; Table 3 col.6/Table 5 col.16 report 5,490,558 observations. Appendix 2 also describes population-weighted municipality averages of log-wage residuals; do not call this a raw untransformed wage residual.",
+    "A11032": "R3NSZAZE",
+    "B11032": "h8",
+    "C11032": "hy1",
+    "H11032": "0",
+    "I11032": "0",
+    "J11032": "ihs",
+    "K11032": "IHS contemporary municipality population; panel A.",
+    "A11033": "R3NSZAZE",
+    "B11033": "h8",
+    "C11033": "hy2",
+    "H11033": "0",
+    "I11033": "0",
+    "J11033": "log",
+    "K11033": "Log contemporary population, panel B assigns log(1) only to historical zeros; contemporary observations positive."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
