@@ -1161669,3 +1161669,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:39:35.743103+00:00 — Review R3NSZAZE h44: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11131",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11131",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11131",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11131",
+    "before": null,
+    "after": "Log municipality/regional employment in 300 calibrated regions (A.21 caption); text sometimes calls it population L_n."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4728",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4728",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4728",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4728",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4728",
+    "before": null,
+    "after": "model-based real wage → log municipality employment, A.21 2SLS spatial labor supply elasticity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4728",
+    "before": null,
+    "after": "Eq.(18), pp.2282–83 and A.21: three mixed attractiveness instruments. Nominal elasticity 5.150, real 6.353; full regressor/model-generation domain caveat distinct from conditional 2SLS."
+  }
+]
+```
