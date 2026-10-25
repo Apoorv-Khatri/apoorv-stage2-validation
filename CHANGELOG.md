@@ -1154925,3 +1154925,210 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T13:13:09.109403+00:00 — Review R3NSZAZE h6: adjudicated source-scoped coding
+
+33 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11020",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11021",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11022",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11023",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11024",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11025",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11020",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11021",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11022",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11023",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11024",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11025",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11020",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11021",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11022",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11023",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11024",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11025",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11020",
+    "before": null,
+    "after": "Log local labor income/wage bill, economic censuses 1998/2008."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11021",
+    "before": null,
+    "after": "Log municipality GDP, economic censuses 1998/2008."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11022",
+    "before": null,
+    "after": "Log municipality GDP excluding hotels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11023",
+    "before": null,
+    "after": "IHS municipality manufacturing GDP (zero values retained)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11024",
+    "before": null,
+    "after": "IHS municipality agricultural GDP, including substantively interpreted insignificant positive effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11025",
+    "before": null,
+    "after": "Log individual hourly wage with demographic controls and population weights; Table 3 col.6/Table 5 col.16 report 5,490,558 observations. Appendix 2 also describes population-weighted municipality averages of log-wage residuals; do not call this a raw untransformed wage residual."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4690",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4690",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4690",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4690",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4690",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4690",
+    "before": null,
+    "after": "White-sand share → Table 3 outcome set, jointly included-measure specifications reported through outcome-specific joint significance tests."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4690",
+    "before": null,
+    "after": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Table 3 last row and pp.2257–59 explicitly establish joint implementations; individual slopes are not printed. No invented estimates."
+  }
+]
+```
