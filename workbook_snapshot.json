@@ -48147,7 +48147,16 @@
     "L4710": "0",
     "M4710": "n/a",
     "N4710": "Hotel sales → local outcomes; A.11 cols.2–3,5–6 substantive robustness: hotel-sales log transformations: log(1) for zeros or drop zeros.",
-    "O4710": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Repeated baseline columns deduplicated; controls/sample variants grouped within this result location."
+    "O4710": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Repeated baseline columns deduplicated; controls/sample variants grouped within this result location.",
+    "A4711": "R3NSZAZE",
+    "B4711": "h27",
+    "I4711": "1",
+    "J4711": "IV",
+    "K4711": "0",
+    "L4711": "0",
+    "M4711": "n/a",
+    "N4711": "Hotel sales → local outcomes; A.13 cols.4 substantive robustness: 100% population census rather than 10% sample.",
+    "O4711": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Repeated baseline columns deduplicated; controls/sample variants grouped within this result location."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123965,7 +123974,11 @@
     "A11087": "R3NSZAZE",
     "B11087": "h26",
     "C11087": "hy2",
-    "K11087": "Log municipality population, population census 2000/2010."
+    "K11087": "Log municipality population, population census 2000/2010.",
+    "A11088": "R3NSZAZE",
+    "B11088": "h27",
+    "C11088": "hy1",
+    "K11088": "Log municipality population, population census 2000/2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
