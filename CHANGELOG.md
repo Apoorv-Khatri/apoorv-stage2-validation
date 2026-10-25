@@ -1158018,3 +1158018,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:18:43.970942+00:00 — Review R3NSZAZE h19: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11077",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11077",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11077",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11077",
+    "before": null,
+    "after": "Manufacturing productivity M_n; structural response to services employment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4703",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4703",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4703",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4703",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4703",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4703",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4703",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4703",
+    "before": null,
+    "after": "Local services/tourism employment scale → manufacturing productivity; gamma_S=.087 (SE .034), eq.(11), Fig.2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4703",
+    "before": null,
+    "after": "pp.2274,2283–85. Nonlinear joint indirect inference; separately interpreted cross-sector causal parameter."
+  }
+]
+```

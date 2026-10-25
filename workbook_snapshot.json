@@ -48061,7 +48061,16 @@
     "L4702": "0",
     "M4702": "n/a",
     "N4702": "Ruins indicator → public investment and transport outcomes; Table 6.",
-    "O4702": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here."
+    "O4702": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here.",
+    "A4703": "R3NSZAZE",
+    "B4703": "h19",
+    "I4703": "1",
+    "J4703": "Other",
+    "K4703": "0",
+    "L4703": "1",
+    "M4703": "n/a",
+    "N4703": "Local services/tourism employment scale → manufacturing productivity; gamma_S=.087 (SE .034), eq.(11), Fig.2.",
+    "O4703": "pp.2274,2283–85. Nonlinear joint indirect inference; separately interpreted cross-sector causal parameter."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123817,7 +123826,11 @@
     "A11076": "R3NSZAZE",
     "B11076": "s6",
     "C11076": "hy12",
-    "K11076": "Manufacturing GDP by municipality×sector in in tourism satellite use (printed 5 sectors); A.17 panel C. Simple log drops zeros."
+    "K11076": "Manufacturing GDP by municipality×sector in in tourism satellite use (printed 5 sectors); A.17 panel C. Simple log drops zeros.",
+    "A11077": "R3NSZAZE",
+    "B11077": "h19",
+    "C11077": "hy1",
+    "K11077": "Manufacturing productivity M_n; structural response to services employment."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
