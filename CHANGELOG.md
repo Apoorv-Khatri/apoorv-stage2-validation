@@ -1184412,3 +1184412,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:53:14.318332+00:00 — Review RG6T2XB5 s6: adjudicated source-scoped coding
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2895",
+    "before": null,
+    "after": "Retained simulated student earnings in dollars (Table 5); not an empirical earnings coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1145",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1145",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1145",
+    "before": null,
+    "after": "Table 5 col.3 and eq.(6), pp.1712–1713: simulated earnings regression instrumenting residualized student test score A with estimated teacher test-score VA; reported teacher-effect estimate 80.28 dollars (SE 1.131). Actual endogenous regressor is A, not teacher VA itself. Included X effect is h8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1145",
+    "before": null,
+    "after": "Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel. One continuous excluded VA instrument. Footnote23 makes clear this is not an empirical 2017 NC IV implementation."
+  }
+]
+```
