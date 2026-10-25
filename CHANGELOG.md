@@ -1184922,3 +1184922,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:57:28.262760+00:00 — Review RG6T2XB5 h3: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11163",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11163",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11163",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11163",
+    "before": null,
+    "after": "Change in mean current student test scores across consecutive cohorts within school-grade-subject cells; Table 4 panel A. Continuous cohort outcome; scale is the reported test-score change, not an estimated forecast-bias dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4758",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4758",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4758",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4758",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4758",
+    "before": null,
+    "after": "Table 4 panel A col.4, pp.1703–1704: actual change in mean teacher VA instrumented by VA change constructed only from within-school grade switchers (including followers); current-score coefficient 0.950 (SE 0.051). School-year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4758",
+    "before": null,
+    "after": "Single continuous excluded instrument: mean-VA change from within-school switchers. The indicator defining the teacher subset is not itself the excluded instrument. Keep actual current-score causal response; lagged-score diagnostic coefficient 0.258 is not a substantive outcome."
+  }
+]
+```

@@ -48619,7 +48619,16 @@
     "L4757": "1",
     "M4757": "single continuous",
     "N4757": "Table 4 panel A col.3, pp.1703–1705: actual change in mean teacher VA instrumented by VA change excluding all within-school grade switchers; current-score coefficient 0.968 (SE 0.069). School-year FE. LA analogous current-score coefficient 0.963 is discussed; no separate LA estimator details are asserted.",
-    "O4757": "Single continuous excluded instrument: modified mean-VA change excluding within-school switchers. Distinct source of instrument variation/estimand from no-followers s3 and within-school h3. Conditional reported-outcome linearity."
+    "O4757": "Single continuous excluded instrument: modified mean-VA change excluding within-school switchers. Distinct source of instrument variation/estimand from no-followers s3 and within-school h3. Conditional reported-outcome linearity.",
+    "A4758": "RG6T2XB5",
+    "B4758": "h3",
+    "I4758": "1",
+    "J4758": "IV",
+    "K4758": "0",
+    "L4758": "1",
+    "M4758": "single continuous",
+    "N4758": "Table 4 panel A col.4, pp.1703–1704: actual change in mean teacher VA instrumented by VA change constructed only from within-school grade switchers (including followers); current-score coefficient 0.950 (SE 0.051). School-year FE.",
+    "O4758": "Single continuous excluded instrument: mean-VA change from within-school switchers. The indicator defining the teacher subset is not itself the excluded instrument. Keep actual current-score causal response; lagged-score diagnostic coefficient 0.258 is not a substantive outcome."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124843,6 +124852,10 @@
     "B11162": "h2",
     "C11162": "hy1",
     "K11162": "Change in mean current student test scores across consecutive cohorts within school-grade-subject cells; Table 4 panel A. Continuous cohort outcome; scale is the reported test-score change, not an estimated forecast-bias dependent variable.",
+    "A11163": "RG6T2XB5",
+    "B11163": "h3",
+    "C11163": "hy1",
+    "K11163": "Change in mean current student test scores across consecutive cohorts within school-grade-subject cells; Table 4 panel A. Continuous cohort outcome; scale is the reported test-score change, not an estimated forecast-bias dependent variable.",
     "A11166": "RG6T2XB5",
     "B11166": "s4",
     "C11166": "hy1",
