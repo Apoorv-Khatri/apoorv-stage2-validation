@@ -1185381,3 +1185381,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T16:00:42.777425+00:00 — Review RG6T2XB5 h8: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11172",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11172",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11172",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11172",
+    "before": null,
+    "after": "Simulated student earnings in dollars; Table 5 col.3 included-X coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4763",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4763",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4763",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4763",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4763",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4763",
+    "before": null,
+    "after": "Table 5 col.3 X row, p.1713: included continuous X effect on simulated earnings in the joint 2SLS equation, 54.18 dollars per X unit (SE 0.852). Residual score A is endogenous and estimated teacher VA is its one excluded instrument; X itself is included, not instrumented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4763",
+    "before": null,
+    "after": "Implemented joint estimator is IV; instrument category describes the equation's excluded instrument, NOT an excluded instrument for X. The interpretation of X assumes its exogeneity, which fails here through correlated earnings VA. Parameter-specific OLS/unknown taxonomy alternative is held; no separate OLS fit is invented. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel."
+  }
+]
+```

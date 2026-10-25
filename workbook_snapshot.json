@@ -48664,7 +48664,16 @@
     "L4762": "1",
     "M4762": "n/a",
     "N4762": "Table 5 col.2 X row, pp.1712–1713: simulated continuous covariate X effect on earnings estimated jointly with teacher VA by pooled OLS; 65.95 dollars per X unit (SE 0.825), versus imposed causal slope 10.",
-    "O4762": "X is not just an uninterpreted control: p.1712 explicitly contrasts its true effect and recovered effect and attributes teacher effects to X. Continuous constructed X in Appendix C p.8. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel."
+    "O4762": "X is not just an uninterpreted control: p.1712 explicitly contrasts its true effect and recovered effect and attributes teacher effects to X. Continuous constructed X in Appendix C p.8. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel.",
+    "A4763": "RG6T2XB5",
+    "B4763": "h8",
+    "I4763": "1",
+    "J4763": "IV",
+    "K4763": "0",
+    "L4763": "1",
+    "M4763": "single continuous",
+    "N4763": "Table 5 col.3 X row, p.1713: included continuous X effect on simulated earnings in the joint 2SLS equation, 54.18 dollars per X unit (SE 0.852). Residual score A is endogenous and estimated teacher VA is its one excluded instrument; X itself is included, not instrumented.",
+    "O4763": "Implemented joint estimator is IV; instrument category describes the equation's excluded instrument, NOT an excluded instrument for X. The interpretation of X assumes its exogeneity, which fails here through correlated earnings VA. Parameter-specific OLS/unknown taxonomy alternative is held; no separate OLS fit is invented. Broad author-intention inclusion: generated-data causal responses are substantively interpreted and central to the methodological conclusions; diagnostic-only exclusion applies to prior-score placebo outcomes, not automatically to all simulations. Known true slopes are effect benchmarks, not outcome levels. Linearity is assessed in the reported outcome conditional on the constructed VA regressor, not the entire underlying test-score panel."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124924,6 +124933,10 @@
     "B11171": "h7",
     "C11171": "hy1",
     "K11171": "Simulated student earnings in dollars; Table 5 col.2 X coefficient, not teacher coefficient.",
+    "A11172": "RG6T2XB5",
+    "B11172": "h8",
+    "C11172": "hy1",
+    "K11172": "Simulated student earnings in dollars; Table 5 col.3 included-X coefficient.",
     "A11174": "RG6T2XB5",
     "B11174": "s7",
     "C11174": "hy3",
