@@ -48093,7 +48093,16 @@
     "L4704": "1",
     "M4704": "n/a",
     "N4704": "International tourism integration versus prohibitive international travel frictions, domestic tourism retained; proportional reduction of government investment/tax. Table 7.",
-    "O4704": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication."
+    "O4704": "Welfare is average Mexican worker utility, equalized across locations by mobility (eq.17, pp.2276–77). Reported gain is inverse counterfactual/current utility ratio minus one: normalized by the corresponding no-international-tourism mean utility (domestic tourism retained), not another effect. Under maintained equilibrium/constant national population this counterfactual mean represents the same target; aligned=1. Alternative taxonomy other_level/n/a for a scenario-level rather than mean interpretation is reserved for adjudication.",
+    "A4705": "R3NSZAZE",
+    "B4705": "h21",
+    "I4705": "1",
+    "J4705": "FE",
+    "K4705": "1",
+    "L4705": "1",
+    "M4705": "n/a",
+    "N4705": "Island indicator → model-generated change in log GDP; Table 8 panel B, joint reduced form under alternative spillovers.",
+    "O4705": "Eq. (1), pp.2253–55 and fn.10 p.2254: coast-by-period effects restrict the island/beach identifying variation to coastal locations. One identifying categorical set, not HDFE. No actual no-FE column is reported; do not fabricate an OLS/no-FE split. OLS-with-incidental-FE is an adjudication alternative for ruins/index, but the common relative-coastal identification argument supports FE here. Conditional linear regression on simulated log-GDP changes; full nonlinear equilibrium domain alternative Other."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -123869,7 +123878,14 @@
     "H11078": "0",
     "I11078": "unknown",
     "J11078": "other",
-    "K11078": "Average worker welfare gain from international tourism relative to no-international-tourism counterfactual mean utility."
+    "K11078": "Average worker welfare gain from international tourism relative to no-international-tourism counterfactual mean utility.",
+    "A11079": "R3NSZAZE",
+    "B11079": "h21",
+    "C11079": "hy1",
+    "H11079": "0",
+    "I11079": "unknown",
+    "J11079": "other",
+    "K11079": "Counterfactual change in log total regional GDP."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
