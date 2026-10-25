@@ -1162104,3 +1162104,138 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:42:54.106696+00:00 — Review R3NSZAZE h49: adjudicated source-scoped coding
+
+21 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11136",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11137",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11138",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11136",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11137",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11138",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11136",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11137",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11138",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11136",
+    "before": null,
+    "after": "Log simple mean travel time to other municipalities and US border crossings."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11137",
+    "before": null,
+    "after": "Log population-weighted mean travel time."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11138",
+    "before": null,
+    "after": "Log GDP-weighted mean travel time."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4733",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4733",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4733",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4733",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4733",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4733",
+    "before": null,
+    "after": "IHS hotel sales → log travel times; A.26."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4733",
+    "before": null,
+    "after": "Three attractiveness instruments, mixed; effects -.0276,-.0282,-.0360. Negative estimates retained; main p.2290 refers to .036 reduction magnitude."
+  }
+]
+```

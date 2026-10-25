@@ -48345,7 +48345,16 @@
     "L4732": "0",
     "M4732": "single continuous",
     "N4732": "Log inverse consumption PPP (relative tourism price), current and lagged → log bilateral tourism exports; A.22 cols.2–7 both destination samples.",
-    "O4732": "Appendix 4.2 eq.A15: origin×destination and origin×period identifying effects. Log destination nominal USD exchange rate instruments relative consumption price; one continuous excluded instrument per timing specification; lag variants grouped at same table. Contemporaneous null and lagged responses retained."
+    "O4732": "Appendix 4.2 eq.A15: origin×destination and origin×period identifying effects. Log destination nominal USD exchange rate instruments relative consumption price; one continuous excluded instrument per timing specification; lag variants grouped at same table. Contemporaneous null and lagged responses retained.",
+    "A4733": "R3NSZAZE",
+    "B4733": "h49",
+    "I4733": "1",
+    "J4733": "IV",
+    "K4733": "0",
+    "L4733": "0",
+    "M4733": "mixed",
+    "N4733": "IHS hotel sales → log travel times; A.26.",
+    "O4733": "Three attractiveness instruments, mixed; effects -.0276,-.0282,-.0360. Negative estimates retained; main p.2290 refers to .036 reduction magnitude."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124403,7 +124412,19 @@
     "A11135": "R3NSZAZE",
     "B11135": "h48",
     "C11135": "hy1",
-    "K11135": "Log tourism exports from origin to destination; all and >80% leisure destinations."
+    "K11135": "Log tourism exports from origin to destination; all and >80% leisure destinations.",
+    "A11136": "R3NSZAZE",
+    "B11136": "h49",
+    "C11136": "hy1",
+    "K11136": "Log simple mean travel time to other municipalities and US border crossings.",
+    "A11137": "R3NSZAZE",
+    "B11137": "h49",
+    "C11137": "hy2",
+    "K11137": "Log population-weighted mean travel time.",
+    "A11138": "R3NSZAZE",
+    "B11138": "h49",
+    "C11138": "hy3",
+    "K11138": "Log GDP-weighted mean travel time."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
