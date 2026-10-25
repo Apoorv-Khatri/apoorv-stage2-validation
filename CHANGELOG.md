@@ -1150698,3 +1150698,510 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:25:59.305552+00:00 — Review QW28FTUN s6: source-audited coding and linked comparisons
+
+83 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10576",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10577",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10578",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10579",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10576",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10577",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10578",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10579",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10576",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10577",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10578",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10579",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10578",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10576",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10577",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10578",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10579",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L773",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L774",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10576",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10577",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10578",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10579",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M773",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M774",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10578",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10577",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10578",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10576",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10577",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10578",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10579",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P773",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P774",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10576",
+    "before": null,
+    "after": "p.2710 Figure 14(d): tau=+2 managers/high-skill ILM-flow response 0.44 percentage points, author-stated 21% of pre-event 2.1%. Linked B24 more precise numbers differ by horizon; retain printed final rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10577",
+    "before": null,
+    "after": "p.2710 Figure 14(d): tau=+3 managers/high-skill ILM-flow response 0.44 percentage points, author-stated 21% of pre-event 2.1%. Linked B24 more precise numbers differ by horizon; retain printed final rounding."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10578",
+    "before": null,
+    "after": "p.2710 Figure 14(a): tau=+1 blue-collar ILM-flow response 0.49 percentage points, grouped prose approximately 20% of pre-event levels. Linked B19 gives 0.01998 pre-window internal-flow mean; no recalculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10579",
+    "before": null,
+    "after": "p.2710 Figure 14(a): tau=+2 blue-collar ILM-flow response 0.43 percentage points, grouped prose approximately 20% of pre-event levels. Linked B19 gives 0.01998 pre-window internal-flow mean; no recalculated ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q773",
+    "before": null,
+    "after": "p.2710 Figure 14(d): managers/high-skill internal-flow effect +1 = 0.34 percentage points, author-stated 16% of pre-event mean 2.1%. +2 and +3 separately hc1-hc2."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q774",
+    "before": null,
+    "after": "p.2710 Figure 14(a): blue-collar internal-flow effect tau=0 = 0.39 percentage points; author describes these increases as approximately 20% of pre-event levels. Publication-linked B19 pre-window internal blue-collar mean 0.01998. +1/+2 separately hc3-hc4."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10576",
+    "before": null,
+    "after": "Own pre-event mean is eligible; equality to the post-event untreated target with the estimator weights is not established. DiD parallel trends does not establish stationary outcome levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10577",
+    "before": null,
+    "after": "Own pre-event mean is eligible; equality to the post-event untreated target with the estimator weights is not established. DiD parallel trends does not establish stationary outcome levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10578",
+    "before": null,
+    "after": "Own pre-event mean is eligible; equality to the post-event untreated target with the estimator weights is not established. DiD parallel trends does not establish stationary outcome levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10579",
+    "before": null,
+    "after": "Own pre-event mean is eligible; equality to the post-event untreated target with the estimator weights is not established. DiD parallel trends does not establish stationary outcome levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R773",
+    "before": null,
+    "after": "Eligible own pre-event outcome mean; contemporaneous untreated target/weights not established, so alignment unknown rather than automatic 1 or 0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R774",
+    "before": null,
+    "after": "Eligible own pre-event outcome mean; contemporaneous untreated target/weights not established, so alignment unknown rather than automatic 1 or 0."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2850",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2852",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2849",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2852",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2849",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2850",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2851",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2852",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2849",
+    "before": null,
+    "after": "Both internal and external partner strata of Bilateral flow of blue-collar workers from origin firm k to shocked destination j, as a share of total hires by j. Equation (5)/A20 for s3; equation (6)/A24 for s6. Origin affiliation fixed pre-event; not a separate randomized origin treatment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2850",
+    "before": null,
+    "after": "Both internal and external partner strata of Bilateral flow of clerical workers from origin firm k to shocked destination j, as a share of total hires by j. Equation (5)/A20 for s3; equation (6)/A24 for s6. Origin affiliation fixed pre-event; not a separate randomized origin treatment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2851",
+    "before": null,
+    "after": "Both internal and external partner strata of Bilateral flow of intermediate-profession workers from origin firm k to shocked destination j, as a share of total hires by j. Equation (5)/A20 for s3; equation (6)/A24 for s6. Origin affiliation fixed pre-event; not a separate randomized origin treatment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2852",
+    "before": null,
+    "after": "Both internal and external partner strata of Bilateral flow of managers/high-skill workers from origin firm k to shocked destination j, as a share of total hires by j. Equation (5)/A20 for s3; equation (6)/A24 for s6. Origin affiliation fixed pre-event; not a separate randomized origin treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1129",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1129",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1129",
+    "before": null,
+    "after": "Equation (6), Figure 14/final A24 (publication-linked B24): closure effects on internal and external bilateral worker-flow shares in four broad occupations, with pair-by-occupation FE and internal/external calendar effects. Finer occupation analysis A25 is h5, not an unrecorded extension of four outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1129",
+    "before": null,
+    "after": "Binary competitor-closure exposure; identifying firm/pair FE do not override conventional DiD. Linear in reported FTE/CapEx/share outcomes conditional on design. Diagnostic leads excluded, substantive post-event nulls retained."
+  }
+]
+```
