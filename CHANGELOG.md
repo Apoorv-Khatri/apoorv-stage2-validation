@@ -1112244,3 +1112244,180 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:49:43.628024+00:00 — Review NVSISRI2 s1: source-audited coding and linked comparisons
+
+28 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R750",
+    "before": null,
+    "after": "Parent s1 is descriptive national trend, not a qualifying causal effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2750",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2753",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2754",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2755",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2750",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2753",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2754",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2755",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2750",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2753",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2754",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2755",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2750",
+    "before": null,
+    "after": "Inactive: parent s1 rejected as descriptive national time trend, not a causal exposure coefficient. Preserve original outcome/model fields."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2751",
+    "before": null,
+    "after": "Inactive: parent s1 rejected as descriptive national time trend, not a causal exposure coefficient. Preserve original outcome/model fields."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2752",
+    "before": null,
+    "after": "Inactive: parent s1 rejected as descriptive national time trend, not a causal exposure coefficient. Preserve original outcome/model fields."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2753",
+    "before": null,
+    "after": "Inactive: parent s1 rejected as descriptive national time trend, not a causal exposure coefficient. Preserve original outcome/model fields."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2754",
+    "before": null,
+    "after": "Inactive: parent s1 rejected as descriptive national time trend, not a causal exposure coefficient. Preserve original outcome/model fields."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2755",
+    "before": null,
+    "after": "Inactive: parent s1 rejected as descriptive national time trend, not a causal exposure coefficient. Preserve original outcome/model fields."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1108",
+    "before": null,
+    "after": "Main pp. 366–367, 373–376: national within-monitor year/trend descriptions, explicitly distinguished from grant causal effects. Exclusion is author-intention at the time-trend parameter, not weak-identification veto. Speculation about acid rain/climate does not estimate those exposures. See held ledger for broader inclusion alternative."
+  }
+]
+```
