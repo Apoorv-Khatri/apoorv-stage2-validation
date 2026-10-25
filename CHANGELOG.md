@@ -1116864,3 +1116864,624 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T06:35:06.813601+00:00 — Review QHATH8UY h3: source-audited coding and linked comparisons
+
+102 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10197",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10198",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10199",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10200",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10201",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10202",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10203",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10204",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10197",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10198",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10199",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10200",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10201",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10202",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10203",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10204",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10197",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10198",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10199",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10200",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10201",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10202",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10203",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10204",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10197",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10198",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10199",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10200",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10201",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10202",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10203",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10204",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10197",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10198",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10199",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10200",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10201",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10202",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10203",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10204",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10197",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10198",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10197",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10198",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10199",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10200",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10202",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10204",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10197",
+    "before": null,
+    "after": "p.931 footnote 21, main.txt 818–826: Easy median final mutual-cooperation time 59.6 seconds compared with earliest risk-dominant cooperation-collapse time 58.8 seconds. Both are same-outcome timing levels, not cooperation rates or payoff amounts; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10198",
+    "before": null,
+    "after": "p.931 footnote 21, main.txt 818–826: Easy median final mutual-cooperation time 59.6 seconds compared with Perfectly Continuous limit time 60 seconds. Both are same-outcome timing levels, not cooperation rates or payoff amounts; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10199",
+    "before": null,
+    "after": "p.931 footnote 21, main.txt 818–826: Mix-a median final mutual-cooperation time 58.4 seconds compared with earliest risk-dominant cooperation-collapse time 58.5 seconds. Both are same-outcome timing levels, not cooperation rates or payoff amounts; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10200",
+    "before": null,
+    "after": "p.931 footnote 21, main.txt 818–826: Mix-a median final mutual-cooperation time 58.4 seconds compared with Perfectly Continuous limit time 60 seconds. Both are same-outcome timing levels, not cooperation rates or payoff amounts; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10201",
+    "before": null,
+    "after": "p.931 footnote 21, main.txt 818–826: Mix-b median final mutual-cooperation time 58.4 seconds compared with earliest risk-dominant cooperation-collapse time 56.5 seconds. Both are same-outcome timing levels, not cooperation rates or payoff amounts; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10202",
+    "before": null,
+    "after": "p.931 footnote 21, main.txt 818–826: Mix-b median final mutual-cooperation time 58.4 seconds compared with Perfectly Continuous limit time 60 seconds. Both are same-outcome timing levels, not cooperation rates or payoff amounts; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10203",
+    "before": null,
+    "after": "p.931 footnote 21, main.txt 818–826: Hard median final mutual-cooperation time 57.5 seconds compared with earliest risk-dominant cooperation-collapse time 55.5 seconds. Both are same-outcome timing levels, not cooperation rates or payoff amounts; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10204",
+    "before": null,
+    "after": "p.931 footnote 21, main.txt 818–826: Hard median final mutual-cooperation time 57.5 seconds compared with Perfectly Continuous limit time 60 seconds. Both are same-outcome timing levels, not cooperation rates or payoff amounts; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10197",
+    "before": null,
+    "after": "Explicitly paired ordered medians/theory values and common continuous limit in fn.21. Supporting small parameter response retained under broad causal gate; prediction-only exclusion is an adjudication alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10198",
+    "before": null,
+    "after": "Explicitly paired ordered medians/theory values and common continuous limit in fn.21. Supporting small parameter response retained under broad causal gate; prediction-only exclusion is an adjudication alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10199",
+    "before": null,
+    "after": "Explicitly paired ordered medians/theory values and common continuous limit in fn.21. Supporting small parameter response retained under broad causal gate; prediction-only exclusion is an adjudication alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10200",
+    "before": null,
+    "after": "Explicitly paired ordered medians/theory values and common continuous limit in fn.21. Supporting small parameter response retained under broad causal gate; prediction-only exclusion is an adjudication alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10201",
+    "before": null,
+    "after": "Explicitly paired ordered medians/theory values and common continuous limit in fn.21. Supporting small parameter response retained under broad causal gate; prediction-only exclusion is an adjudication alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10202",
+    "before": null,
+    "after": "Explicitly paired ordered medians/theory values and common continuous limit in fn.21. Supporting small parameter response retained under broad causal gate; prediction-only exclusion is an adjudication alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10203",
+    "before": null,
+    "after": "Explicitly paired ordered medians/theory values and common continuous limit in fn.21. Supporting small parameter response retained under broad causal gate; prediction-only exclusion is an adjudication alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10204",
+    "before": null,
+    "after": "Explicitly paired ordered medians/theory values and common continuous limit in fn.21. Supporting small parameter response retained under broad causal gate; prediction-only exclusion is an adjudication alternative."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10839",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10839",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10839",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10839",
+    "before": null,
+    "after": "Median final time of mutual cooperation in 60-second inertial continuous prisoner-dilemma periods, in seconds: Easy 59.6, Mix-a 58.4, Mix-b 58.4, Hard 57.5 (p.931 fn.21). Do not transfer censoring/product-limit estimator from the timing-game experiment or grid-series -0.003 offset."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E128",
+    "before": null,
+    "after": "DONE — Full available-source review of final article pp915–935, official five-page AppendixB, AppendixA proofs, figures/footnotes and complete Analysis.R; independent audit and selected CSV support inspection, no outcome reestimation. Parent accepts broad substantive protocol/payoff-response gate including footnote21 near-null and grid-convergence result; prediction-only alternative explicit. Product-limit/median recovery and adaptive kernel density Other, not RCT inferred from random invitation/rematching; protocol-session randomization unestablished and IC280/IC10 order fixed. Conditional ECDF linearity alternative preserved. Separate raw density from intended-entry recovery. Retain same-outcome theoretical-level comparisons including null endpoints; reject density-height/time-coordinate pairs. Add four footnote21 medians each paired with theory prediction and60-second limit, plus one qualitative convergence-to-continuous-limit comparison, not point-by-limit grid; context-only alternative explicit. Correct95percent comparison to earnings/efficientearnings, not entrytime; ancillary earnings aggregation and standalone method unknown, Other pertains established entrytime procedure, separate-scope alternative documented. Duplicate original s1c2 rejected, precise s2c3 retained. Preserve code-supported2/4/8/15/30/60 slots versus prosegrid, undisclosed-.003 plotting offset, five/nine-second freeze discrepancy, footnote numbering and diagnostic-code reuse issues. No invented graph ordinates or numericalzero; unallocated minimax-regret comparison held. Original model fields/IDs/links preserved. No empirical replication or omission-free certification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4650",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4650",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4650",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4650",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4650",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4650",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4650",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4650",
+    "before": null,
+    "after": "Bundled payoff-parameter variation (temptation x and mutual-defection y) across Easy, Mix-a, Mix-b and Hard in inertial continuous prisoner dilemmas: median final mutual-cooperation time and small parameter response; pp.930–931 footnote 21."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4650",
+    "before": null,
+    "after": "Footnote 21 explicitly varies parameters cyclically over 32 periods and interprets minimal variation over parameters. Broad author-intention gate includes this supporting near-null, not a causal coefficient on a risk-dominance predictor. Median estimator nonlinear; no protocol randomization or separate x/y coefficient is inferred. Four treatment-vector categories, not a fabricated factorial coefficient grid. Prediction-only exclusion remains the parent-adjudication alternative."
+  }
+]
+```
