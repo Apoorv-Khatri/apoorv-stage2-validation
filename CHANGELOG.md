@@ -1152906,3 +1152906,192 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T08:30:48.393291+00:00 — Review QW28FTUN h9: source-audited coding and linked comparisons
+
+30 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10993",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10994",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10995",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10993",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10994",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10995",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10993",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10994",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10995",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10994",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10994",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10995",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10993",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10994",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10995",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10993",
+    "before": null,
+    "after": "Share of internal hires; ILM Access threshold strata grouped."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10994",
+    "before": null,
+    "after": "Employment (FTE); ILM Access threshold strata grouped."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10995",
+    "before": null,
+    "after": "Market share (sales share); ILM Access threshold strata grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4678",
+    "before": null,
+    "after": "QW28FTUN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4678",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4678",
+    "before": null,
+    "after": "DiD_modern"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4678",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4678",
+    "before": null,
+    "after": "final p.2699 A.5; linked B27-B31 and Figures B4-B8: de Chaisemartin-D’Haultfoeuille dynamic closure effects, heterogeneous scope. Separate implemented estimator from conventional event study; retain substantive post-event effects including imprecise/null estimates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4678",
+    "before": null,
+    "after": "Publication-linked August 2023 appendix B is not verified byte-identical to publisher final appendix A. Final text independently establishes both implemented estimators. SA uses last-treated cohort; dCdH uses not-yet-treated comparisons. No transfer of conventional-estimator magnitude benchmarks. Conditional linearity in reported outcomes, no assignment randomization. Independent archive-member search finds no eventstudyinteract or did_multiplegt command in either published ZIP; named implementation is established by final prose and linked Appendix B.5/captions, not verified modern-estimator source code. No empirical execution."
+  }
+]
+```
