@@ -1155897,3 +1155897,60 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T13:17:08.397731+00:00 — Review R3NSZAZE s3: adjudicated source-scoped coding
+
+8 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2863",
+    "before": null,
+    "after": "Log municipality population in ten censuses 1921–2010; coefficient on log arrivals interacted with local attractiveness, not an estimated population-growth dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1133",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1133",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1133",
+    "before": null,
+    "after": "Island indicator × log national tourist arrivals → log municipality population, A.7 OLS columns 1–2 only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1133",
+    "before": null,
+    "after": "A.7 and p.2262: municipality and coast-by-period FE, controls×year sensitivity. Continuous time-varying exposure; no named modern DiD, and not a treated/post policy contrast."
+  }
+]
+```
