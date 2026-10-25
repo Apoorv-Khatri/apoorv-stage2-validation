@@ -1113684,3 +1113684,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:54:59.325533+00:00 — Review NVSISRI2 h5: source-audited coding and linked comparisons
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10812",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10812",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10812",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10812",
+    "before": null,
+    "after": "Log mean home values near downstream waters; final pp.385,389, including excluding homes in same Census place as treatment plant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4635",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4635",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4635",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4635",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4635",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4635",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4635",
+    "before": null,
+    "after": "Cumulative grant count on log home values in implemented Online Appendix Table VIII sensitivity analyses, minimum established scope including urban-own-town exclusion row12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4635",
+    "before": null,
+    "after": "Final pp.385,389 explicitly report results; not an empty announcement. Routine sample/control variants grouped. Additional demographic and rental outcomes and 1987 nonrecipient treatment require final-appendix adjudication; no grouped placeholder outcome."
+  }
+]
+```

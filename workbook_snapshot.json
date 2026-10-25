@@ -47289,7 +47289,16 @@
     "L4634": "0",
     "M4634": "n/a",
     "N4634": "Upstream/downstream triple-difference housing-value effect of cumulative grants, separately reported from preferred downstream-only hedonic DiD; final p.372.",
-    "O4634": "Minimum log mean home-value outcome established by immediate equation(6) discussion. Alternate Appendix VIII row5 corroborates further outcomes, held pending final supplement. Distinct estimand, same method category."
+    "O4634": "Minimum log mean home-value outcome established by immediate equation(6) discussion. Alternate Appendix VIII row5 corroborates further outcomes, held pending final supplement. Distinct estimand, same method category.",
+    "A4635": "NVSISRI2",
+    "B4635": "h5",
+    "I4635": "1",
+    "J4635": "DiD_conventional",
+    "K4635": "0",
+    "L4635": "0",
+    "M4635": "n/a",
+    "N4635": "Cumulative grant count on log home values in implemented Online Appendix Table VIII sensitivity analyses, minimum established scope including urban-own-town exclusion row12.",
+    "O4635": "Final pp.385,389 explicitly report results; not an empty announcement. Routine sample/control variants grouped. Additional demographic and rental outcomes and 1987 nonrecipient treatment require final-appendix adjudication; no grouped placeholder outcome."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121070,7 +121079,11 @@
     "A10811": "NVSISRI2",
     "B10811": "h4",
     "C10811": "hy1",
-    "K10811": "Log mean owner-occupied home value, upstream versus downstream grant-exposure DDD robustness. Final p.372."
+    "K10811": "Log mean owner-occupied home value, upstream versus downstream grant-exposure DDD robustness. Final p.372.",
+    "A10812": "NVSISRI2",
+    "B10812": "h5",
+    "C10812": "hy1",
+    "K10812": "Log mean home values near downstream waters; final pp.385,389, including excluding homes in same Census place as treatment plant."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
