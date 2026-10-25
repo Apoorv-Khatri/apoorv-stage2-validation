@@ -1156389,3 +1156389,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T13:36:35.270208+00:00 — Review R3NSZAZE s4: adjudicated source-scoped coding
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "K2864",
+    "before": null,
+    "after": "Log municipality employment, population census 2000/2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2865",
+    "before": null,
+    "after": "Log local labor income/wage bill, economic censuses 1998/2008."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2866",
+    "before": null,
+    "after": "Log municipality GDP, economic censuses 1998/2008."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2867",
+    "before": null,
+    "after": "Log municipality GDP excluding hotels."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2868",
+    "before": null,
+    "after": "IHS municipality manufacturing GDP (zero values retained)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2869",
+    "before": null,
+    "after": "IHS municipality agricultural GDP, including substantively interpreted insignificant positive effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2870",
+    "before": null,
+    "after": "Log municipality population, population census 2000/2010."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2871",
+    "before": null,
+    "after": "Log individual hourly wage with demographic controls and population weights; Table 3 col.6/Table 5 col.16 report 5,490,558 observations. Appendix 2 also describes population-weighted municipality averages of log-wage residuals; do not call this a raw untransformed wage residual."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1134",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1134",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1134",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1134",
+    "before": null,
+    "after": "IHS hotel sales → local employment, population, wage bill, GDP and sector GDP, adjusted log wages; Table 5 even columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1134",
+    "before": null,
+    "after": "Three excluded instruments jointly: nearby-island indicator, white-sand coastline share, pre-Hispanic-ruins indicator; mixed. Eq.(1), Table 5, pp.2262–65. Linear in the reported log/IHS outcome conditional on regressors/instruments; no assignment design. Preserve source conflict: wage coefficient .0446 in col.16 implies approximately .446% for a 10% sales increment, but p.2264 says 4.5%. Do not silently endorse either as identical; model summary 4.46% is incorrect. Employment table header says economic census although data discussion and sample identify population-census employment."
+  }
+]
+```
