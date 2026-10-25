@@ -47334,7 +47334,16 @@
     "L4639": "0",
     "M4639": "unknown",
     "N4639": "Existence of the Clean Water Act after1972 and national state/local wastewater capital spending, pp.382–383 and Appendix Figure VI. Author interprets aggregate crowding out separately from marginal grant pass-through.",
-    "O4639": "Exact words p.383: existence of the Act did crowd out aggregate municipal investment. Retain broad author-intention scope despite acknowledged national shocks. A plotted national time series establishes no implemented DiD or fitted causal coefficient; unknown estimator rather than fabricated OLS. Alternative: treat as qualitative interpretation only and hold/exclude pending estimator requirement adjudication."
+    "O4639": "Exact words p.383: existence of the Act did crowd out aggregate municipal investment. Retain broad author-intention scope despite acknowledged national shocks. A plotted national time series establishes no implemented DiD or fitted causal coefficient; unknown estimator rather than fabricated OLS. Alternative: treat as qualitative interpretation only and hold/exclude pending estimator requirement adjudication.",
+    "A4640": "NVSISRI2",
+    "B4640": "h10",
+    "I4640": "1",
+    "J4640": "Other",
+    "K4640": "0",
+    "L4640": "1",
+    "M4640": "n/a",
+    "N4640": "Heterogeneous grant cost-effectiveness across grant characteristics, Online Appendix Table VII / E.2, final pp.380–381.",
+    "O4640": "Minimum defined cost-effectiveness outcomes below; final text describes declining urban and outdoor-recreation groups and others. Reciprocal-effect cost calculation inherits Table III nonlinear mapping. Exact subgroup interactions and appendix numbers held; no subgroup×outcome numeric grid. Independent adjudication: main=1, because introduction p.352 explicitly presents limited cost-effectiveness and benefit/cost heterogeneity among the central findings, with policy relevance repeated p.392. Statistical nulls and appendix placement do not demote this role."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -121150,7 +121159,15 @@
     "H10819": "0",
     "I10819": "unknown",
     "J10819": "none",
-    "K10819": "National annual state and local wastewater treatment capital spending, $2014 billion; $22bn in1971 and $7bn annually by late1970s. pp.382–383. Level aggregate, not individual binary spending."
+    "K10819": "National annual state and local wastewater treatment capital spending, $2014 billion; $22bn in1971 and $7bn annually by late1970s. pp.382–383. Level aggregate, not individual binary spending.",
+    "A10820": "NVSISRI2",
+    "B10820": "h10",
+    "C10820": "hy1",
+    "K10820": "Annual $2014 cost per river-mile made fishable, heterogeneity analysis; exact final appendix values unavailable.",
+    "A10821": "NVSISRI2",
+    "B10821": "h10",
+    "C10821": "hy2",
+    "K10821": "Annual $2014 cost per river-mile oxygen improvement (10 percentage points), heterogeneity analysis; exact final appendix values unavailable."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

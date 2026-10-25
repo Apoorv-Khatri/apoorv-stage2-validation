@@ -1114341,3 +1114341,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:57:39.068895+00:00 — Review NVSISRI2 h10: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10820",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10821",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10820",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10821",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10820",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10821",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10820",
+    "before": null,
+    "after": "Annual $2014 cost per river-mile made fishable, heterogeneity analysis; exact final appendix values unavailable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10821",
+    "before": null,
+    "after": "Annual $2014 cost per river-mile oxygen improvement (10 percentage points), heterogeneity analysis; exact final appendix values unavailable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4640",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4640",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4640",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4640",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4640",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4640",
+    "before": null,
+    "after": "Heterogeneous grant cost-effectiveness across grant characteristics, Online Appendix Table VII / E.2, final pp.380–381."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4640",
+    "before": null,
+    "after": "Minimum defined cost-effectiveness outcomes below; final text describes declining urban and outdoor-recreation groups and others. Reciprocal-effect cost calculation inherits Table III nonlinear mapping. Exact subgroup interactions and appendix numbers held; no subgroup×outcome numeric grid. Independent adjudication: main=1, because introduction p.352 explicitly presents limited cost-effectiveness and benefit/cost heterogeneity among the central findings, with policy relevance repeated p.392. Statistical nulls and appendix placement do not demote this role."
+  }
+]
+```
