@@ -1186062,3 +1186062,78 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T17:21:46.133398+00:00 — Review RH367ADM s8: adjudicated source-scoped coding
+
+11 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2906",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2906",
+    "before": null,
+    "after": "Alternative binary poverty reduction, Table AI col3. Published prose p.1938 says baseline indicator OR decline of at least 5 percent. Archive 01 lines280-286 instead implements a headcount-share difference >0.05 (five percentage points), OR final headcount<0.03, OR baseline indicator. Preserve this construction conflict; do not certify the prose interpretation as the code."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1154",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1154",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1154",
+    "before": null,
+    "after": "Domestic middle-class share -> poverty reduction. Table AI col3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1154",
+    "before": null,
+    "after": "Nonlinear structural probit maximum likelihood, equations (2)-(5), not linear probit-index regression or IV. Cross-country and time variation; predetermined covariates do not establish exogeneity. Parameters in S or V are not probability marginal effects. Main p.1934-39; archive MATLAB/probit_table_ECMA_FINAL.m. Routine control/sample/window variants grouped; focal regressors split."
+  }
+]
+```
