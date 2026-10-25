@@ -1185561,3 +1185561,132 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T17:17:10.021879+00:00 — Review RH367ADM s1: adjudicated source-scoped coding
+
+20 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R781",
+    "before": null,
+    "after": "Wrong outcome/estimand: a market-size threshold is not a level of binary sustained-poverty reduction. Row782 additionally compares parameter estimates across specifications, not a focal causal effect against its outcome baseline. Counterfactual market-size endpoints reviewed separately."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11197",
+    "before": null,
+    "after": "RH367ADM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11197",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11197",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11197",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H2899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11197",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2899",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11197",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2899",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11197",
+    "before": null,
+    "after": "Main pp.1919,1934; Table IV col1: the reported domestic-middle-class slope is also explicitly interpreted as a change in effective market size S. Moving the share from zero to 10 percent adds the equivalent of 50 million people. Derived S in equivalent people outside the middle class; nonlinear joint structural recovery, not a probability marginal effect or separately fitted OLS. No additional unreported column-by-outcome grid."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2899",
+    "before": null,
+    "after": "Sustained poverty reduction: binary indicator of decline in every observed/interpolated year of the five-year window; zero observations established by Table I and supplement p.1. Continuous treatment: detailed labels supplied voluntarily."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1147",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1147",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1147",
+    "before": null,
+    "after": "Domestic middle-class population share ($11-110/day PPP; continuous) -> poverty reduction. Table IV cols 1-6, domestic-share coefficient; AI col1 repeats baseline. Outcome set also includes the explicitly interpreted derived effective-market-size response S (main baseline interpretation only)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1147",
+    "before": null,
+    "after": "Nonlinear structural probit maximum likelihood, equations (2)-(5), not linear probit-index regression or IV. Cross-country and time variation; predetermined covariates do not establish exogeneity. Parameters in S or V are not probability marginal effects. Main p.1934-39; archive MATLAB/probit_table_ECMA_FINAL.m. Routine control/sample/window variants grouped; focal regressors split."
+  }
+]
+```
