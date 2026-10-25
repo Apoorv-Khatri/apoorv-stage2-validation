@@ -1115424,3 +1115424,456 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T06:33:13.245815+00:00 — Review QHATH8UY s2: source-audited coding and linked comparisons
+
+74 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10182",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10183",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10184",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10185",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10182",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10183",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10184",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10185",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10182",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10183",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10184",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10185",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10182",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10183",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10184",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10182",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10183",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10184",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10185",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L758",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L759",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L760",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10182",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10183",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10184",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10185",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M758",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M759",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M760",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10182",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10183",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10184",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10182",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10183",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10184",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10182",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10183",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10184",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10185",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P758",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P759",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P760",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10182",
+    "before": null,
+    "after": "p.926: IC60 median intended entry 0.184 versus efficient entry t*=0.4. Same comparison sentence as IC280 and PC; apply eligibility symmetrically."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10183",
+    "before": null,
+    "after": "Fig.5(a), pp.928–929: IC60 median 0.184 versus earliest risk-dominant entry 0.199; benchmark is theoretical entry time, not risk probability."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10184",
+    "before": null,
+    "after": "Fig.5(a), p.929: IC280 median 0.323 versus earliest risk-dominant entry 0.308; distinct from efficient benchmark 0.4."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10185",
+    "before": null,
+    "after": "Fig.5(a), pp.928–929: IC10 near-immediate median versus risk-dominant immediate-entry level 0. No exact empirical zero inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q758",
+    "before": null,
+    "after": "p.926, Fig.4: IC280 median intended entry 0.323 compared with efficient entry t*=0.4; not an earnings outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q759",
+    "before": null,
+    "after": "p.926: at low inertia subjects earn 95% of earnings available at t*. Earnings numerator and efficient-earnings denominator are same-outcome levels; actual aggregation not stated. Not a ratio of entry times."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q760",
+    "before": null,
+    "after": "p.926, Fig.4: PC zero-inertia median 0.393 approximately equals t*=0.4. Theoretical efficient entry level; no division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R759",
+    "before": null,
+    "after": "Correct outcome link. Benchmark is theoretical efficient payoff level, not documented population mean. Alternative construction-only interpretation held for adjudication."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10836",
+    "before": null,
+    "after": "QHATH8UY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10836",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10836",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10836",
+    "before": null,
+    "after": "Earnings at the IC280 low-inertia result, reported as 95% of earnings available at efficient entry t*=0.4 (p.926). Reported payoff efficiency, not entry-time units; exact aggregation is unstated. Do not infer mean realized earnings or reconstruct its value."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2771",
+    "before": null,
+    "after": "Intended entry-time distribution summarized by subject-wise product-limit medians and their treatment medians, duration-normalized; not simply raw first entry. Fig.4, footnote 12, Analysis.R lines 36–85. Earnings comparison is separately linked to hy1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1115",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1115",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1115",
+    "before": null,
+    "after": "Assigned inertia protocols PC, IC60, IC280 and IC10: intended entry-time distribution/median and stated earnings efficiency; Fig.4 and related Fig.5(a), Results 2–3. IC10/IC280 use fixed within-session block ordering, not randomized order."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1115",
+    "before": null,
+    "after": "pp.924–926, footnote 12; Analysis.R lines 36–85: product-limit recovery, subject medians and treatment medians are nonlinear in underlying entry times. Experimental assignment is not itself a linear RCT estimator. Random invitation/rematching is explicit; random assignment to protocols is not explicitly established. Conditional ECDF means of fixed constructed subject medians are linear in threshold indicators, but the full recovery is outcome-adaptive. No OLS/identifying-FE implementation. Fig.5(a) theory overlays are benchmarks for the same treatment results, not a separate causal effect of a fitted strategic-risk predictor. Other classifies the established entry-time procedure; the ancillary 95% earnings calculation has unknown aggregation/standalone method. It is retained as a reported payoff interpretation, not certified as an independently estimated mean effect."
+  }
+]
+```
