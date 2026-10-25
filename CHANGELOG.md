@@ -1114104,3 +1114104,240 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T05:57:11.793592+00:00 — Review NVSISRI2 h9: source-audited coding and linked comparisons
+
+38 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10179",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10180",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10179",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10180",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10179",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10180",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10179",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10180",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10179",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10180",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10180",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10179",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10179",
+    "before": null,
+    "after": "pp.382–383: national state/local wastewater capital spending fell from $22bn in1971 to $7bn annually by late1970s, with explicit aggregate crowding-out interpretation. Benchmark $22bn is pre-Act1971 annual national total. No calculated effect claimed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10180",
+    "before": null,
+    "after": "pp.382–383: national state/local wastewater capital spending fell from $22bn in1971 to $7bn annually by late1970s, with explicit aggregate crowding-out interpretation. Benchmark $7bn is late1970s exposed endpoint annual national total. No calculated effect claimed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10179",
+    "before": null,
+    "after": "Conditional on accepting the qualitative national policy contrast. Both explicitly paired endpoints admitted symmetrically; treated endpoint is not an untreated baseline. Alternative hold both if no quantified causal-estimator requirement is met. $43bn1963 to$22bn1971 is prepolicy descriptive and excluded."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10180",
+    "before": null,
+    "after": "Conditional on accepting the qualitative national policy contrast. Both explicitly paired endpoints admitted symmetrically; treated endpoint is not an untreated baseline. Alternative hold both if no quantified causal-estimator requirement is met. $43bn1963 to$22bn1971 is prepolicy descriptive and excluded."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10819",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10819",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10819",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10819",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10819",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10819",
+    "before": null,
+    "after": "National annual state and local wastewater treatment capital spending, $2014 billion; $22bn in1971 and $7bn annually by late1970s. pp.382–383. Level aggregate, not individual binary spending."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4639",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4639",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4639",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4639",
+    "before": null,
+    "after": "Existence of the Clean Water Act after1972 and national state/local wastewater capital spending, pp.382–383 and Appendix Figure VI. Author interprets aggregate crowding out separately from marginal grant pass-through."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4639",
+    "before": null,
+    "after": "Exact words p.383: existence of the Act did crowd out aggregate municipal investment. Retain broad author-intention scope despite acknowledged national shocks. A plotted national time series establishes no implemented DiD or fitted causal coefficient; unknown estimator rather than fabricated OLS. Alternative: treat as qualitative interpretation only and hold/exclude pending estimator requirement adjudication."
+  }
+]
+```
