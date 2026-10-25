@@ -1157937,3 +1157937,84 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:18:03.128844+00:00 — Review R3NSZAZE s7: adjudicated source-scoped coding
+
+12 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H2882",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I2882",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J2882",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2881",
+    "before": null,
+    "after": "Manufacturing productivity M_n, structural elasticity with respect to local manufacturing employment; gamma_M is the effect parameter, not the dependent outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2882",
+    "before": null,
+    "after": "Inactive after treatment split: cross-sector elasticity belongs to separately retained services-scale setting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1137",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1137",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1137",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1137",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1137",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1137",
+    "before": null,
+    "after": "Local manufacturing employment scale → manufacturing productivity, elasticity gamma_M=.064 (SE .035); eq.(11), Fig.2 and pp.2283–85."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1137",
+    "before": null,
+    "after": "Nonlinear equilibrium inversion and indirect-inference minimization across six moments; not linear IV despite instrument orthogonality restrictions. Focal treatment is manufacturing scale, not all tourism."
+  }
+]
+```
