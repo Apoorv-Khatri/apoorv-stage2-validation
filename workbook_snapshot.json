@@ -48601,7 +48601,16 @@
     "L4755": "1",
     "M4755": "unknown",
     "N4755": "Tourism development → local manufacturing production (manufacturing GDP) under alternative simulated agglomeration regimes; qualitative implemented response, Section IV.B Role of Spillovers, final p.2288.",
-    "O4755": "One minimum individually defined manufacturing-output scope: negative without spillovers, more adverse with within-manufacturing spillovers, net positive with cross-sector spillovers (p.2288). Not total GDP or aggregate welfare. Eq.(21)/Table 8 explicitly tabulate only total GDP; prose does not establish whether manufacturing signs are separately projected IV/reduced-form slopes or equilibrium contrasts. Method, treatment support and IV status unknown; no transferred IVs/FE, numerical coefficients, log scale, regional weighting or parameter-by-outcome grid. Central manufacturing-spillover mechanism (conclusion p.2291). Productivity language explains this production mechanism; this record is not a separately estimated productivity elasticity. No qualifying own-outcome benchmark supplied."
+    "O4755": "One minimum individually defined manufacturing-output scope: negative without spillovers, more adverse with within-manufacturing spillovers, net positive with cross-sector spillovers (p.2288). Not total GDP or aggregate welfare. Eq.(21)/Table 8 explicitly tabulate only total GDP; prose does not establish whether manufacturing signs are separately projected IV/reduced-form slopes or equilibrium contrasts. Method, treatment support and IV status unknown; no transferred IVs/FE, numerical coefficients, log scale, regional weighting or parameter-by-outcome grid. Central manufacturing-spillover mechanism (conclusion p.2291). Productivity language explains this production mechanism; this record is not a separately estimated productivity elasticity. No qualifying own-outcome benchmark supplied.",
+    "A4756": "RG6T2XB5",
+    "B4756": "h1",
+    "I4756": "1",
+    "J4756": "DiD_conventional",
+    "K4756": "0",
+    "L4756": "1",
+    "M4756": "n/a",
+    "N4756": "Table 4 panel A col.1, p.1703: non-IV baseline cross-cohort effect of mean teacher VA change on change in mean current test scores, coefficient 0.957 (SE 0.034), school-year FE.",
+    "O4756": "Separated from s3 because col.1 is not 2SLS. Continuous cross-cohort exposure; conventional DiD priority over FE. No separate no-FE OLS implementation inferred. Nearby prior-score and parent-characteristic tests are diagnostic."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124817,6 +124826,10 @@
     "I11160": "unknown",
     "J11160": "unknown",
     "K11160": "Local manufacturing production/GDP response to tourism development in the simulated spillover scenarios, final p.2288 (especially explicit manufacturing GDP at lines 3900–3902). Qualitative sign only; scale, zero mass and regional summary weights not established. Not total regional GDP, productivity elasticity, or welfare.",
+    "A11161": "RG6T2XB5",
+    "B11161": "h1",
+    "C11161": "hy1",
+    "K11161": "Change in mean current student test scores across consecutive cohorts within school-grade-subject cells; Table 4 panel A. Continuous cohort outcome; scale is the reported test-score change, not an estimated forecast-bias dependent variable.",
     "A11166": "RG6T2XB5",
     "B11166": "s4",
     "C11166": "hy1",

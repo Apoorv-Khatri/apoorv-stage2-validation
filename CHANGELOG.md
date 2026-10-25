@@ -1184748,3 +1184748,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T15:56:09.204150+00:00 — Review RG6T2XB5 h1: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11161",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11161",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11161",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11161",
+    "before": null,
+    "after": "Change in mean current student test scores across consecutive cohorts within school-grade-subject cells; Table 4 panel A. Continuous cohort outcome; scale is the reported test-score change, not an estimated forecast-bias dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4756",
+    "before": null,
+    "after": "RG6T2XB5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4756",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4756",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4756",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4756",
+    "before": null,
+    "after": "Table 4 panel A col.1, p.1703: non-IV baseline cross-cohort effect of mean teacher VA change on change in mean current test scores, coefficient 0.957 (SE 0.034), school-year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4756",
+    "before": null,
+    "after": "Separated from s3 because col.1 is not 2SLS. Continuous cross-cohort exposure; conventional DiD priority over FE. No separate no-FE OLS implementation inferred. Nearby prior-score and parent-characteristic tests are diagnostic."
+  }
+]
+```
