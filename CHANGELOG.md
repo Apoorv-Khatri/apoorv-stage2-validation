@@ -1115007,3 +1115007,114 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T06:00:24.854159+00:00 — Review NVSISRI2 h16: source-audited coding and linked comparisons
+
+17 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A10832",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10833",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10832",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10833",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10832",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10833",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10832",
+    "before": null,
+    "after": "Mean dissolved oxygen deficit in plant×side×year cells, percentage points. Minimum primary-outcome scope of equation(3) variant; final pp.358,367–369, corroborated by alternate Appendix VI. Final exact coefficient/transform allocation not substituted from alternate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10833",
+    "before": null,
+    "after": "Share of pollution readings in plant×side×year cells that violate the fishable standard. Minimum primary-outcome scope of equation(3) variant; final pp.358,367–369, corroborated by alternate Appendix VI. Final exact coefficient/transform allocation not substituted from alternate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4646",
+    "before": null,
+    "after": "NVSISRI2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4646",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4646",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4646",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4646",
+    "before": null,
+    "after": "Separate cumulative-grant-category response rather than common marginal count slope, upstream/downstream pollution DDD; final pp.353,367,369 / Appendix VI."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4646",
+    "before": null,
+    "after": "Final main_clean.txt210–212,824–827,918–920 establishes implemented number-of-grants response. Retain one multivalued setting, binary=0; do not invent final one/two/three/four/five-plus versus zero grid from alternate A41. Primary DOD/not-fishable minimum; exact categories and additional outcome allocation remain held."
+  }
+]
+```
