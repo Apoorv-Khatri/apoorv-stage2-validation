@@ -48516,7 +48516,16 @@
     "L4751": "0",
     "M4751": "n/a",
     "N4751": "Public tourism infrastructure investment present versus shut down, allowing substitution with private/natural infrastructure; Figure A.3, Appendix 4.6.",
-    "O4751": "Nonlinear equilibrium across reported sigmaP and sG sensitivities. Binary G present vs zero within each parameterization; plotted shares are fractions of total gains (effect-to-effect), not welfare-level benchmarks; no manufactured ordinates."
+    "O4751": "Nonlinear equilibrium across reported sigmaP and sG sensitivities. Binary G present vs zero within each parameterization; plotted shares are fractions of total gains (effect-to-effect), not welfare-level benchmarks; no manufactured ordinates.",
+    "A4752": "R3NSZAZE",
+    "B4752": "h68",
+    "I4752": "1",
+    "J4752": "unknown",
+    "K4752": "0",
+    "L4752": "0",
+    "M4752": "unknown",
+    "N4752": "Historical income growth contribution to tourism demand/GDP; p.2289 nonhomotheticity calculation.",
+    "O4752": "Uses Engel slope .0033 with 135% historical real income growth to report .3 percentage points of tourism GDP change. Outcome is a derived aggregate share/change rather than household share; complete mapping/weights not established, retain method unknown rather than invent OLS or nonlinear recovery."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124697,7 +124706,11 @@
     "H11156": "0",
     "I11156": "unknown",
     "J11156": "other",
-    "K11156": "Mexican welfare gain attributable to public tourism investment, shown as share of total tourism welfare gain."
+    "K11156": "Mexican welfare gain attributable to public tourism investment, shown as share of total tourism welfare gain.",
+    "A11157": "R3NSZAZE",
+    "B11157": "h68",
+    "C11157": "hy1",
+    "K11157": "Income-driven contribution to long-run tourism GDP change, reported .3 percentage points."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",

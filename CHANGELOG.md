@@ -1183839,3 +1183839,90 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:55:46.665634+00:00 — Review R3NSZAZE h68: adjudicated source-scoped coding
+
+13 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11157",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11157",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11157",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11157",
+    "before": null,
+    "after": "Income-driven contribution to long-run tourism GDP change, reported .3 percentage points."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4752",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4752",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4752",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4752",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4752",
+    "before": null,
+    "after": "Historical income growth contribution to tourism demand/GDP; p.2289 nonhomotheticity calculation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4752",
+    "before": null,
+    "after": "Uses Engel slope .0033 with 135% historical real income growth to report .3 percentage points of tourism GDP change. Outcome is a derived aggregate share/change rather than household share; complete mapping/weights not established, retain method unknown rather than invent OLS or nonlinear recovery."
+  }
+]
+```
