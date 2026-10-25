@@ -48210,7 +48210,16 @@
     "L4717": "0",
     "M4717": "mixed",
     "N4717": "IHS hotel sales → log employment/population; A.14 island and beach instruments only, all/coastal/interacted-control variants.",
-    "O4717": "A.14 excludes ruins. One binary island indicator plus continuous beach share = mixed; sample and nuisance-control variants grouped."
+    "O4717": "A.14 excludes ruins. One binary island indicator plus continuous beach share = mixed; sample and nuisance-control variants grouped.",
+    "A4718": "R3NSZAZE",
+    "B4718": "h34",
+    "I4718": "1",
+    "J4718": "Other",
+    "K4718": "0",
+    "L4718": "0",
+    "M4718": "n/a",
+    "N4718": "IHS hotel sales → log employment/population, A.15 LIML cols.2,4.",
+    "O4718": "Implemented LIML with three attractiveness instruments, coefficients .24570/.19978. Unlike fixed-instrument 2SLS, LIML k depends on outcome; full estimator not linear in reported outcome. IV-design alternative code IV must be adjudicated explicitly, not treated as estimator absence."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124084,7 +124093,15 @@
     "A11101": "R3NSZAZE",
     "B11101": "h33",
     "C11101": "hy2",
-    "K11101": "Log municipality population, population census 2000/2010."
+    "K11101": "Log municipality population, population census 2000/2010.",
+    "A11102": "R3NSZAZE",
+    "B11102": "h34",
+    "C11102": "hy1",
+    "K11102": "Log municipality employment, population census 2000/2010.",
+    "A11103": "R3NSZAZE",
+    "B11103": "h34",
+    "C11103": "hy2",
+    "K11103": "Log municipality population, population census 2000/2010."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
