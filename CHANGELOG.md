@@ -1160397,3 +1160397,162 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T14:32:48.008356+00:00 — Review R3NSZAZE h36: adjudicated source-scoped coding
+
+25 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11108",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11109",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11110",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11111",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11108",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11109",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11110",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11111",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11108",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11109",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11110",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11111",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11108",
+    "before": null,
+    "after": "Number of immigrants, active/retired groups; cols.1–3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11109",
+    "before": null,
+    "after": "IHS immigrant count, cols.4–6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11110",
+    "before": null,
+    "after": "Log immigrant count with zeros replaced by log(1), cols.7–9. Not log1p of every observation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11111",
+    "before": null,
+    "after": "Log immigrant count excluding zero observations, cols.10–12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4720",
+    "before": null,
+    "after": "R3NSZAZE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4720",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4720",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4720",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4720",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4720",
+    "before": null,
+    "after": "White-sand share → municipality immigrant counts, active versus retired interaction; A.6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4720",
+    "before": null,
+    "after": "p.2261 explicitly distinguishes economic migration from amenity attraction. Retain active and retired-null substantive migration responses; not just a pretrend or balance test. Coast×period FE; no municipal FE."
+  }
+]
+```

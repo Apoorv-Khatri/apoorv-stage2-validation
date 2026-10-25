@@ -48228,7 +48228,16 @@
     "L4719": "0",
     "M4719": "n/a",
     "N4719": "Island indicator → municipality immigrant counts, active versus retired interaction; A.6.",
-    "O4719": "p.2261 explicitly distinguishes economic migration from amenity attraction. Retain active and retired-null substantive migration responses; not just a pretrend or balance test. Coast×period FE; no municipal FE."
+    "O4719": "p.2261 explicitly distinguishes economic migration from amenity attraction. Retain active and retired-null substantive migration responses; not just a pretrend or balance test. Coast×period FE; no municipal FE.",
+    "A4720": "R3NSZAZE",
+    "B4720": "h36",
+    "I4720": "1",
+    "J4720": "FE",
+    "K4720": "0",
+    "L4720": "0",
+    "M4720": "n/a",
+    "N4720": "White-sand share → municipality immigrant counts, active versus retired interaction; A.6.",
+    "O4720": "p.2261 explicitly distinguishes economic migration from amenity attraction. Retain active and retired-null substantive migration responses; not just a pretrend or balance test. Coast×period FE; no municipal FE."
   },
   "Outcomes": {
     "A2": "CAPE stage 2: outcomes",
@@ -124138,7 +124147,23 @@
     "H11107": "0",
     "I11107": "unknown",
     "J11107": "log",
-    "K11107": "Log immigrant count excluding zero observations, cols.10–12."
+    "K11107": "Log immigrant count excluding zero observations, cols.10–12.",
+    "A11108": "R3NSZAZE",
+    "B11108": "h36",
+    "C11108": "hy1",
+    "K11108": "Number of immigrants, active/retired groups; cols.1–3.",
+    "A11109": "R3NSZAZE",
+    "B11109": "h36",
+    "C11109": "hy2",
+    "K11109": "IHS immigrant count, cols.4–6.",
+    "A11110": "R3NSZAZE",
+    "B11110": "h36",
+    "C11110": "hy3",
+    "K11110": "Log immigrant count with zeros replaced by log(1), cols.7–9. Not log1p of every observation.",
+    "A11111": "R3NSZAZE",
+    "B11111": "h36",
+    "C11111": "hy4",
+    "K11111": "Log immigrant count excluding zero observations, cols.10–12."
   },
   "Comparisons": {
     "A2": "CAPE stage 2: comparisons",
