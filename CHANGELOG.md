@@ -1135854,3 +1135854,1092 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-25T07:21:33.624339+00:00 — Review QL93W8JQ h11: source-audited coding and linked comparisons
+
+180 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A10413",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10414",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10415",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10416",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10417",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10418",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10419",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10420",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10421",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10422",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10423",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A10424",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10413",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10414",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10415",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10416",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10417",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10418",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10419",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10420",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10421",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10422",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10423",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B10424",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10413",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10414",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10415",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10416",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10417",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10418",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10419",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10420",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10421",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10422",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10423",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C10424",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K10424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10413",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10414",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10415",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10416",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10417",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10418",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10419",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10420",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10421",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10422",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10423",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L10424",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10413",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10414",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10415",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10416",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10417",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10418",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10419",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10420",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10421",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10422",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10423",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M10424",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10413",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N10424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10413",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O10424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10414",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10416",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10418",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10419",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10420",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10421",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10422",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10423",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P10424",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10413",
+    "before": null,
+    "after": "B6 p.6,  column 1: assignment effect 0.076; printed control mean -0.000. Source supplement.txt lines 725 and 738."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10414",
+    "before": null,
+    "after": "B6 p.6,  column 1: assignment effect 0.076 in standardized outcome units; normalization is the outcome SD, not treatment SD. Source supplement.txt line 725."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10415",
+    "before": null,
+    "after": "B6 p.6,  column 2: assignment effect 0.012; printed control mean -0.000. Source supplement.txt lines 726 and 739."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10416",
+    "before": null,
+    "after": "B6 p.6,  column 2: assignment effect 0.012 in standardized outcome units; normalization is the outcome SD, not treatment SD. Source supplement.txt line 726."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10417",
+    "before": null,
+    "after": "B6 p.6,  column 3: assignment effect 0.034; printed control mean 0.000. Source supplement.txt lines 727 and 740."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10418",
+    "before": null,
+    "after": "B6 p.6,  column 3: assignment effect 0.034 in standardized outcome units; normalization is the outcome SD, not treatment SD. Source supplement.txt line 727."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10419",
+    "before": null,
+    "after": "B6 p.6,  column 4: assignment effect 0.091; printed control mean 0.000. Source supplement.txt lines 728 and 741."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10420",
+    "before": null,
+    "after": "B6 p.6,  column 4: assignment effect 0.091 in standardized outcome units; normalization is the outcome SD, not treatment SD. Source supplement.txt line 728."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10421",
+    "before": null,
+    "after": "B6 p.6,  column 5: assignment effect 0.006; printed control mean 0.000. Source supplement.txt lines 729 and 742."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10422",
+    "before": null,
+    "after": "B6 p.6,  column 5: assignment effect 0.006 in standardized outcome units; normalization is the outcome SD, not treatment SD. Source supplement.txt line 729."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10423",
+    "before": null,
+    "after": "B6 p.6,  column 6: assignment effect 0.010; printed control mean 0.000. Source supplement.txt lines 730 and 743."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q10424",
+    "before": null,
+    "after": "B6 p.6,  column 6: assignment effect 0.010 in standardized outcome units; normalization is the outcome SD, not treatment SD. Source supplement.txt line 730."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10414",
+    "before": null,
+    "after": "Reference SD population/weights not sufficiently established for this particular estimate; subgroup effects do not imply subgroup-specific SD normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10416",
+    "before": null,
+    "after": "Reference SD population/weights not sufficiently established for this particular estimate; subgroup effects do not imply subgroup-specific SD normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10418",
+    "before": null,
+    "after": "Reference SD population/weights not sufficiently established for this particular estimate; subgroup effects do not imply subgroup-specific SD normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10419",
+    "before": null,
+    "after": "Selected post-treatment sample or long-term IPW: benchmark weighting/target match not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10420",
+    "before": null,
+    "after": "Reference SD population/weights not sufficiently established for this particular estimate; subgroup effects do not imply subgroup-specific SD normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10421",
+    "before": null,
+    "after": "Selected post-treatment sample or long-term IPW: benchmark weighting/target match not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10422",
+    "before": null,
+    "after": "Reference SD population/weights not sufficiently established for this particular estimate; subgroup effects do not imply subgroup-specific SD normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10423",
+    "before": null,
+    "after": "Selected post-treatment sample or long-term IPW: benchmark weighting/target match not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R10424",
+    "before": null,
+    "after": "Reference SD population/weights not sufficiently established for this particular estimate; subgroup effects do not imply subgroup-specific SD normalization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10900",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10901",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10902",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10903",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10904",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A10905",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10900",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10901",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10902",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10903",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10904",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B10905",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10900",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10901",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10902",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10903",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10904",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C10905",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10900",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10901",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10902",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10903",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10904",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H10905",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10900",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10901",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10902",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10903",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10904",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I10905",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10900",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10901",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10902",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10903",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10904",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J10905",
+    "before": null,
+    "after": "sd_units"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10900",
+    "before": null,
+    "after": "Science test score based on curriculum-aligned science assessment, standardized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10901",
+    "before": null,
+    "after": "Math test score based on curriculum-aligned mathematics assessment, standardized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10902",
+    "before": null,
+    "after": "Verbal/Turkish test score based on curriculum-aligned language assessment, standardized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10903",
+    "before": null,
+    "after": "Long-term science test score in middle school follow-up (Study 1), standardized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10904",
+    "before": null,
+    "after": "Long-term math test score in middle school follow-up (Study 1), standardized."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K10905",
+    "before": null,
+    "after": "Long-term verbal test score in middle school follow-up (Study 1), standardized."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4661",
+    "before": null,
+    "after": "QL93W8JQ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4661",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4661",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4661",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4661",
+    "before": null,
+    "after": "Online Table B6: school-assignment ITT without selected baseline covariates, retaining grade/district strata."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4661",
+    "before": null,
+    "after": "Binary school assignment remains RCT under the reported-outcome convention. These tables explicitly omit the selected baseline covariates and retain treatment plus grade/district strata only; do not describe their estimator as using post-double-selection LASSO. Long-term results remain subject to IPW/attrition implementation uncertainty."
+  }
+]
+```
