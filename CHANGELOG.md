@@ -1626201,3 +1626201,8136 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T15:33:31.752107+00:00 — Review YI4DYSXT: one-paper adjudicated source-scoped coding
+
+1354 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A16382",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16383",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16384",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16385",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16386",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16387",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16388",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16389",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16390",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16391",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16392",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16393",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16382",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16383",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16384",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16385",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16386",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16387",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16388",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16389",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16390",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16391",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16392",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16393",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16382",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16383",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16384",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16385",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16386",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16387",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16388",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16389",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16390",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16391",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16392",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16393",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16385",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16390",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K904",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K905",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16382",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16383",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16384",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16385",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16386",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16387",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16388",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16389",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16390",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16391",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16392",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16393",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16382",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16383",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16384",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16385",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16386",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16387",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16388",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16389",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16390",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16391",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16392",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16393",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16385",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16390",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16385",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16388",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16390",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16382",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16383",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16384",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16385",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16386",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16387",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16388",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16389",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16390",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16391",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16392",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16393",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16382",
+    "before": null,
+    "after": "Main p2262:1% property-price increase implies investment demand0.28% of total investment through residential real estate; stated2014 UK private nonfinancial corporate investment£157bn. Baseline micro slope0.030 and director housing£1.5tn. Printed rounded percentage retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16383",
+    "before": null,
+    "after": "Main p2262:1% property-price increase implies investment demand0.11% of total investment through corporate real estate; stated2014 UK private nonfinancial corporate investment£157bn. Baseline micro slope0.051, corporate property£350bn."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16384",
+    "before": null,
+    "after": "Assets<£10m:£340million increased investment demand, about0.21% of aggregate investment; residential holdings£1.4tn, slope£0.024 per£1. Main pp2262–63. Denominator is2014 aggregate UK investment£157bn, p2262; contribution of this subgroup divided by whole aggregate, not subgroup untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16385",
+    "before": null,
+    "after": "Assets≥£10m:£19million increased investment demand, around0.01% of investment; residential holdings£55bn, slope£0.034 per£1. Main p2263. Denominator is2014 aggregate UK investment£157bn, p2262; contribution of this subgroup divided by whole aggregate, not subgroup untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16386",
+    "before": null,
+    "after": "Employment<250:£360million increased investment demand, about0.23% of aggregate investment; residential holdings£1.45tn. Main p2263 fn43. Denominator is2014 aggregate UK investment£157bn, p2262; contribution of this subgroup divided by whole aggregate, not subgroup untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16387",
+    "before": null,
+    "after": "Employment≥250:£13million increased investment demand, less than0.01% of aggregate investment; residential holdings£19bn. Main p2263 fn43. Denominator is2014 aggregate UK investment£157bn, p2262; contribution of this subgroup divided by whole aggregate, not subgroup untreated mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16388",
+    "before": null,
+    "after": "Main p2264 and fn44: combining six asset-group residential collateral responses and housing shares gives0.27% aggregate investment-demand increase for1% house-price increase (implied aggregate£/£ slope0.0296). Same2014 aggregate investment£157bn denominator from p2262."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16389",
+    "before": null,
+    "after": "Appendix A.10 pp24–25:1% corporate real-estate-price increase raises aggregate investment demand through Employment≥250:0.07%. Same aggregate UK investment denominator as main VI, not subgroup investment; employment allocation assumes corporate-property shares track aggregate turnover54% large/46% small; asset allocation89% large/11% small."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16390",
+    "before": null,
+    "after": "Appendix A.10 pp24–25:1% corporate real-estate-price increase raises aggregate investment demand through Employment<250:0.04%. Same aggregate UK investment denominator as main VI, not subgroup investment; employment allocation assumes corporate-property shares track aggregate turnover54% large/46% small; asset allocation89% large/11% small."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16391",
+    "before": null,
+    "after": "Appendix A.10 pp24–25:1% corporate real-estate-price increase raises aggregate investment demand through Total Assets≥£10m:0.08%. Same aggregate UK investment denominator as main VI, not subgroup investment; employment allocation assumes corporate-property shares track aggregate turnover54% large/46% small; asset allocation89% large/11% small."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16392",
+    "before": null,
+    "after": "Appendix A.10 pp24–25:1% corporate real-estate-price increase raises aggregate investment demand through Total Assets<£10m:0.01%. Same aggregate UK investment denominator as main VI, not subgroup investment; employment allocation assumes corporate-property shares track aggregate turnover54% large/46% small; asset allocation89% large/11% small."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16393",
+    "before": null,
+    "after": "Main p2262: “the point estimate is £0.0314 and the aggregate elasticity based on it is unchanged.” The preceding calculation states2014 UK private non-financial corporation investment£157billion and residential holdings£1.5trillion, for a1% property-price increase. The new weighted effect is expressly linked to the same investment-level normalization. No independently printed numerical elasticity for the weighted specification; do not substitute a calculated value."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16382",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16383",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16384",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16385",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16386",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16387",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16388",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16389",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16390",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16391",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16392",
+    "before": null,
+    "after": "Benchmark is aggregate UK private nonfinancial corporations investment in2014,£157billion (main p2262), not an average firm untreated mean. Preserve printed approximations; no independently computed percentage attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16393",
+    "before": null,
+    "after": "Verbal reference establishes an implemented effect/aggregate-investment comparison despite no fresh numerical triple. Distinct from h74 unweighted estimate. other_level so alignment n/a; investment-share weighting is criticized by authors for aggregation. Conditional-HDFE method inherited from weighted regression; no outcome-SD claim."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R904",
+    "before": null,
+    "after": "Spurious benchmark: both0.0298 and0.0511 are investment response coefficients for different collateral treatments, not investment levels/means/SDs. The70% stronger statement is genuinely verbal division but does not establish benchmark eligibility. No reverse duplicate retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R905",
+    "before": null,
+    "after": "Spurious benchmark: both0.0298 and0.0511 are investment response coefficients for different collateral treatments, not investment levels/means/SDs. The70% stronger statement is genuinely verbal division but does not establish benchmark eligibility. No reverse duplicate retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12263",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12264",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12265",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12266",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12267",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12268",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12269",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12270",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12271",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12272",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12273",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12274",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12275",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12276",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12277",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12278",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12279",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12280",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12281",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12282",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12283",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12284",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12285",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12286",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12287",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12288",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12289",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12290",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12291",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12292",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12293",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12294",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12295",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12296",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12297",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12298",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12299",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12300",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12301",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12302",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12303",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12304",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12305",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12306",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12307",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12308",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12309",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12310",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12311",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12312",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12313",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12314",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12315",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12316",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12317",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12318",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12319",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12320",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12321",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12322",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12323",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12324",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12325",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12326",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12327",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12328",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12329",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12330",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12331",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12332",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12333",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12334",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12335",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12336",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12337",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12338",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12339",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12340",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12341",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12342",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12343",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12344",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12345",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12346",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12347",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12348",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12349",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12350",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12351",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12352",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12353",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12354",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12355",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12356",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12263",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12264",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12265",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12266",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12267",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12268",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12269",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12270",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12271",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12272",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12273",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12274",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12275",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12276",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12277",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12278",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12279",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12280",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12281",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12282",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12283",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12284",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12285",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12286",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12287",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12288",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12289",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12290",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12291",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12292",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12293",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12294",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12295",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12296",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12297",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12298",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12299",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12300",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12301",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12302",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12303",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12304",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12305",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12306",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12307",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12308",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12309",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12310",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12311",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12312",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12313",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12314",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12315",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12316",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12317",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12318",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12319",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12320",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12321",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12322",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12323",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12324",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12325",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12326",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12327",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12328",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12329",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12330",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12331",
+    "before": null,
+    "after": "h59"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12332",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12333",
+    "before": null,
+    "after": "h61"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12334",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12335",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12336",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12337",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12338",
+    "before": null,
+    "after": "h65"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12339",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12340",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12341",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12342",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12343",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12344",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12345",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12346",
+    "before": null,
+    "after": "h72"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12347",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12348",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12349",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12350",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12351",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12352",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12353",
+    "before": null,
+    "after": "h79"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12354",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12355",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12356",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12263",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12264",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12265",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12266",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12267",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12268",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12269",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12270",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12271",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12272",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12273",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12274",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12275",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12276",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12277",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12278",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12279",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12280",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12281",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12282",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12283",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12284",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12285",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12286",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12287",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12288",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12289",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12290",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12291",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12292",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12293",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12294",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12295",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12296",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12297",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12298",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12299",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12300",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12301",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12302",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12303",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12304",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12305",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12306",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12307",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12308",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12309",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12310",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12311",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12312",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12313",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12314",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12315",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12316",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12317",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12318",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12319",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12320",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12321",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12322",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12323",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12324",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12325",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12326",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12327",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12328",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12329",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12330",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12331",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12332",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12333",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12334",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12335",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12336",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12337",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12338",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12339",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12340",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12341",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12342",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12343",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12344",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12345",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12346",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12347",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12348",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12349",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12350",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12351",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12352",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12353",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12354",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12355",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12356",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3316",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3317",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3318",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3319",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3316",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3317",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3318",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3319",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3316",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3317",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3318",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3319",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12263",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12264",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12265",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12266",
+    "before": null,
+    "after": "Change in Remuneration (employee wage bill), divided by lagged Turnover; not the wage-bill level. Appendix A.12/Table A13."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12267",
+    "before": null,
+    "after": "Change in Number of Employees divided by lagged real Turnover (UK CPI, 2005 prices); appendix A.12 specifies deflation. Table A13 prints coefficient 0.0009 while prose says one worker per £1.1m; do not read this as 0.0009 workers per £1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12268",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12269",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12270",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12271",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12272",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12273",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12274",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12275",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12276",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12277",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12278",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12279",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12280",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12281",
+    "before": null,
+    "after": "Cumulative investment response over the current year and next three years, approximately£0.12 per permanent£1 increase in Residential RE; Section IV.C p2250. Fixed horizon sum of local projections, no digitized ordinates."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12282",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12283",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12284",
+    "before": null,
+    "after": "Change in Issued Capital plus change in Share Premium Account, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12285",
+    "before": null,
+    "after": "Change in short- plus long-term director loan liabilities, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12286",
+    "before": null,
+    "after": "Change in Short Term Loans and Overdrafts plus Trade Credit minus Short Term Director Loans, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12287",
+    "before": null,
+    "after": "Change in Long Term Debt minus Long Term Director Loans, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12288",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12289",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12290",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12291",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12292",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12293",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12294",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12295",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12296",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12297",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12298",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12299",
+    "before": null,
+    "after": "Change in Total Assets divided by lagged Total Assets (maximal reporting sample, firms with at least £25,000 assets); Table14(8), footnote49 sample variants."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12300",
+    "before": null,
+    "after": "Non-real-estate investment: change in Fixed Assets plus Depreciation excluding change in Land and Buildings, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12301",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12302",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12303",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12304",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12305",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12306",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12307",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12308",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12309",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12310",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12311",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12312",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12313",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12314",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12315",
+    "before": null,
+    "after": "Change in Issued Capital plus change in Share Premium Account, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12316",
+    "before": null,
+    "after": "Change in Short Term Loans and Overdrafts plus Trade Credit minus Short Term Director Loans, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12317",
+    "before": null,
+    "after": "Change in Long Term Debt minus Long Term Director Loans, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12318",
+    "before": null,
+    "after": "Change in Issued Capital plus change in Share Premium Account, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12319",
+    "before": null,
+    "after": "Change in Short Term Loans and Overdrafts plus Trade Credit minus Short Term Director Loans, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12320",
+    "before": null,
+    "after": "Change in Long Term Debt minus Long Term Director Loans, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12321",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12322",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12323",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12324",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12325",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12326",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12327",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12328",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12329",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12330",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12331",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12332",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12333",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12334",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12335",
+    "before": null,
+    "after": "Non-real-estate investment: change in Fixed Assets plus Depreciation excluding change in Land and Buildings, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12336",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12337",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12338",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12339",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12340",
+    "before": null,
+    "after": "Non-real-estate investment: change in Fixed Assets plus Depreciation excluding change in Land and Buildings, divided by lagged Turnover."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12341",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12342",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12343",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12344",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12345",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12346",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12347",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12348",
+    "before": null,
+    "after": "Aggregate UK investment-demand change from a 1% real-estate-price increase, expressed in pounds and/or percent of 2014 aggregate investment; partial-equilibrium extrapolation, not a general-equilibrium response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12349",
+    "before": null,
+    "after": "Aggregate UK investment-demand change from a 1% real-estate-price increase, expressed in pounds and/or percent of 2014 aggregate investment; partial-equilibrium extrapolation, not a general-equilibrium response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12350",
+    "before": null,
+    "after": "Aggregate UK investment-demand change from a 1% real-estate-price increase, expressed in pounds and/or percent of 2014 aggregate investment; partial-equilibrium extrapolation, not a general-equilibrium response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12351",
+    "before": null,
+    "after": "Aggregate UK investment-demand change from a 1% real-estate-price increase, expressed in pounds and/or percent of 2014 aggregate investment; partial-equilibrium extrapolation, not a general-equilibrium response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12352",
+    "before": null,
+    "after": "Aggregate UK investment-demand change from a 1% real-estate-price increase, expressed in pounds and/or percent of 2014 aggregate investment; partial-equilibrium extrapolation, not a general-equilibrium response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12353",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover; UK firm-years2002–2014."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12354",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover; UK firm-years2002–2014."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12355",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover; UK firm-years2002–2014."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12356",
+    "before": null,
+    "after": "Aggregate UK investment-demand change following a1% residential-property-price increase, extrapolated using investment-weighted micro estimate0.0314; elasticity reported qualitatively as unchanged. Aggregate level, not firm normalized investment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3301",
+    "before": null,
+    "after": "Change in Remuneration (employee wage bill), divided by lagged Turnover; not the wage-bill level. Appendix A.12/Table A13."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3302",
+    "before": null,
+    "after": "Change in Number of Employees divided by lagged real Turnover (UK CPI, 2005 prices); appendix A.12 specifies deflation. Table A13 prints coefficient 0.0009 while prose says one worker per £1.1m; do not read this as 0.0009 workers per £1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3306",
+    "before": null,
+    "after": "Investment: change in Fixed Assets plus Depreciation, divided by lagged Turnover (UK firm-years 2002–2014). Horizons t through t+4, grouped as displayed dynamic path; t−2 and t−1 diagnostic leads not retained substantive outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3316",
+    "before": null,
+    "after": "Spurious within narrowed s12: moved to h29/hy1 (Table14). Original model fields and ID preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3317",
+    "before": null,
+    "after": "Spurious within narrowed s12: moved to h30/hy1 (Table14). Original model fields and ID preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3318",
+    "before": null,
+    "after": "Spurious within narrowed s12: moved to h31/hy1 (Table14). Original model fields and ID preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3319",
+    "before": null,
+    "after": "Spurious within narrowed s12: moved to h32/hy1 (Table14). Original model fields and ID preserved."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E150",
+    "before": null,
+    "after": "DONE — full available-source review and focused independent audit completed under parent adjudication; not omission-free certification or empirical replication. Final article and official supplement reviewed; publication-linked code unavailable, no code inspection or replication claimed. Table9(1) ordinary sample-baseline HDFE scopes h79/h80 are separate from nine outcome-adaptive fitted-index full-procedure Other scopes; conditional fixed-index HDFE alternative retained. Same-region h9 includes substantively interpreted joint-specification null components. h81 retains the substantive corporate coefficient in joint IV Table14(3): only Residential RE is endogenous; Corporate RE is included, NOT instrumented. h82 retains the source-explicit unchanged investment-weighted aggregate elasticity comparison without inventing a numerical elasticity. OLS retained under author-intention gate with descriptive alternative explicit. Aggregate comparisons use other_level; source conflicts, aggregation caveats and alternative narrower gates retained. Original IDs/model fields, inactive originals and prior note preserved; no fabricated outcome grids or backsolved benchmarks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5173",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5174",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5175",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5176",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5177",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5178",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5179",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5180",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5181",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5182",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5183",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5184",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5185",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5186",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5187",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5188",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5189",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5190",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5191",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5192",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5193",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5194",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5195",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5196",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5197",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5198",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5199",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5200",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5201",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5202",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5203",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5204",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5205",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5206",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5207",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5208",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5209",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5210",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5211",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5212",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5213",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5214",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5215",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5216",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5217",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5218",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5219",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5220",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5221",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5222",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5223",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5224",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5225",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5226",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5227",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5228",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5229",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5230",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5231",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5232",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5233",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5234",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5235",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5236",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5237",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5238",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5239",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5240",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5241",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5242",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5243",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5244",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5245",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5246",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5247",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5248",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5249",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5250",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5251",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5252",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5253",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5254",
+    "before": null,
+    "after": "YI4DYSXT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5173",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5174",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5175",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5176",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5177",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5178",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5179",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5180",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5181",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5182",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5183",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5184",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5185",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5186",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5187",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5188",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5189",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5190",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5191",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5192",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5193",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5194",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5195",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5196",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5197",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5198",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5199",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5200",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5201",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5202",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5203",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5204",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5205",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5206",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5207",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5208",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5209",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5210",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5211",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5212",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5213",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5214",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5215",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5216",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5217",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5218",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5219",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5220",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5221",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5222",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5223",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5224",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5225",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5226",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5227",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5228",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5229",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5230",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5231",
+    "before": null,
+    "after": "h59"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5232",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5233",
+    "before": null,
+    "after": "h61"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5234",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5235",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5236",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5237",
+    "before": null,
+    "after": "h65"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5238",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5239",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5240",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5241",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5242",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5243",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5244",
+    "before": null,
+    "after": "h72"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5245",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5246",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5247",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5248",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5249",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5250",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5251",
+    "before": null,
+    "after": "h79"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5252",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5253",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5254",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1291",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1293",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1294",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1295",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1298",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1299",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1301",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5173",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5181",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5182",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5183",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5184",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5186",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5187",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5188",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5189",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5207",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5208",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5209",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5225",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5231",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5232",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5233",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5234",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5235",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5237",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5238",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5239",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5240",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5241",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5242",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5244",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5245",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5248",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5252",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5253",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5254",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1290",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1291",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1292",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1293",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1294",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1295",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1296",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1297",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1298",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1299",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1300",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1301",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5173",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5174",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5175",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5176",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5177",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5178",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5179",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5180",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5181",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5182",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5183",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5184",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5185",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5186",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5187",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5188",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5189",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5190",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5191",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5192",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5193",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5194",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5195",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5196",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5197",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5198",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5199",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5200",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5201",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5202",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5203",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5204",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5205",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5206",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5207",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5208",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5209",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5210",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5211",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5212",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5213",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5214",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5215",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5216",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5217",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5218",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5219",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5220",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5221",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5222",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5223",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5224",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5225",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5226",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5227",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5228",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5229",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5230",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5231",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5232",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5233",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5234",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5235",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5236",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5237",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5238",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5239",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5240",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5241",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5242",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5243",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5244",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5245",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5246",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5247",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5248",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5249",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5250",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5251",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5252",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5253",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5254",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1296",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1297",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1298",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1299",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1300",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5180",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5181",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5182",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5183",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5184",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5188",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5189",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5192",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5195",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5196",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5197",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5198",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5206",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5207",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5208",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5209",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5210",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5211",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5215",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5216",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5217",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5218",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5221",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5225",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5228",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5229",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5230",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5232",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5233",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5234",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5235",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5236",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5237",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5239",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5243",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5244",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5246",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5247",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5248",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5249",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5250",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5251",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5252",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5253",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5254",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1290",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1292",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1293",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1294",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1295",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1296",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1297",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1298",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1299",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1300",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5180",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5181",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5182",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5183",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5184",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5188",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5189",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5195",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5206",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5207",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5208",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5209",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5210",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5211",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5215",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5216",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5217",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5218",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5221",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5225",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5228",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5229",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5230",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5232",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5233",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5234",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5235",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5236",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5237",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5239",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5243",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5244",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5246",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5247",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5248",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5251",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5252",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5253",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5254",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1290",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1291",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1292",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1293",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1294",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1295",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1296",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1297",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1298",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1299",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1300",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1301",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5173",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5174",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5175",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5176",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5177",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5178",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5179",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5180",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5181",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5182",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5183",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5184",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5185",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5186",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5187",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5188",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5189",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5190",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5191",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5192",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5193",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5194",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5195",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5196",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5197",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5198",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5199",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5200",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5202",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5204",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5205",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5206",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5207",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5208",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5209",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5210",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5211",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5212",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5213",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5214",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5215",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5216",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5217",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5218",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5219",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5220",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5221",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5222",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5223",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5224",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5225",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5226",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5227",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5228",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5229",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5230",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5231",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5232",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5233",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5234",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5235",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5236",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5237",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5238",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5239",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5240",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5241",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5242",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5243",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5244",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5245",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5246",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5247",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5248",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5249",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5250",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5251",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5252",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5253",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5254",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1290",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Baseline HDFE investment response, columns4–7; corporate-treatment rows are separately retained below. Location: Table5(4–7), pp2242–43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1291",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Effects on changes in remuneration and employment; companion corporate treatment separated. Location: Appendix A.12/Table A13 pp28–29; main pp2243–44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1292",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Instrumented investment effect 0.0269 in joint 2SLS with endogenous Corporate RE; excluded instruments are recomputed Residential RE and Corporate RE using predicted regional house prices. Location: Table6(8); Appendix A.2 pp3–5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1293",
+    "before": null,
+    "after": "Residential RE same-house variant: replace initial director house values by the cross-sectional mean; investment response -0.0001 is a substantive robustness null. Other constructed treatments moved to separate settings. Location: Table7(1); Appendix D.4 pp55–56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1294",
+    "before": null,
+    "after": "Residential RE based only on properties bought before1995 (other directors treated as unmatched); investment0.0288. Other Table8 treatments/control variants separated. Location: Table8(2), pp2248–49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1295",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment local projections t through t+4; t−2/t−1 are diagnostic leads excluded from substantive outcome scope. Cumulative response about£0.12 to permanent£1 housing-value increase is also reported. Location: Figure3/Section IV.C pp2250–51, fn31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1296",
+    "before": null,
+    "after": "Residential RE: investment response by estimated financial-constraint groups; Table9 columns2–6 only. Column1 non-missing-index sample baseline is separately retained as HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1297",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment slopes by firm employment/assets and Residential RE/assets thresholds; high/low group indicators moderate a continuous treatment, not binary receipt. Location: Table10 pp2252–54"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1298",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Effects on issued equity, director loans, short- and long-term external debt; debt heterogeneity by size/exposure. Location: Table11 pp2254–56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1299",
+    "before": null,
+    "after": "Residential RE held by shareholder-directors; private-firm investment response. Shareholder defined as listed at any point in sample (Appendix D.3), not necessarily predetermined current ownership. Location: Table12(2,4,6), pp2257–58"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1300",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment responses by high/low director LTV (85%); full and private samples without estimated constraint-index interactions. Shareholder-specific and constraint-index scopes separated. Location: Table13(1–2,6); fn38 80% threshold robustness"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1301",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Non-real-estate investment response0.0176 only. Original row pooled different treatments, IV and total-assets outcomes; now split with original outcome IDs preserved and marked moved. Location: Table14(1), pp2264–66"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5173",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Pooled bivariate investment response 0.0077. Location: Table5(1), p2243"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5174",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment response with firm FE (column2) and firm plus region×time FE (column3): 0.0477 and 0.0431. Location: Table5(2–3), pp2242–43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5175",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment effect 0.0510/0.0511; footnote27 omitting Residential RE gives 0.06. Location: Table5(6–7), p2243 fn27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5176",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Effects on changes in remuneration (0.0332) and employment (0.0015); prose says one worker per £650,000, not a benchmark against baseline employment. Location: Appendix A.12/Table A13 pp28–29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5177",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Joint-2SLS investment effect 0.0467, with Residential RE also endogenous. Location: Table6(8); Appendix A.2 pp3–5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5178",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment heterogeneity by tradable industry and director distance; bank×time FE robustness. Distinct out-of-region-only exposure retained separately. Location: Table6(2–3,5–7), pp2244–45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5179",
+    "before": null,
+    "after": "Residential RE recomputed using only directors living outside the firm region, extrapolated to total director count; investment effect0.0305. Location: Table6(4), pp2244–45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5180",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment responses across industry/distance and bank-FE robustness, with alternative Residential RE measurement as nuisance control. Location: Table6(2–7), pp2244–45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5181",
+    "before": null,
+    "after": "Residential RE same-region variant: assume directors face firm-region house prices; investment slope0.0308 in Table7(2), plus same-region component0.0252/0.0152 jointly with orthogonalized exposure in Table7(5–6)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5182",
+    "before": null,
+    "after": "Residential RE same-director-count variant: replace each firm’s director count by the cross-sectional mean; investment response0.0277. Location: Table7(3); Appendix D.4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5183",
+    "before": null,
+    "after": "Residential RE same-region-and-count variant; initial mean home value is the remaining within-region exposure, investment response0.0161. Location: Table7(4); Appendix D.4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5184",
+    "before": null,
+    "after": "Residential RE orthogonalized director-region price component; control for same-region component. Full and out-of-region-director samples, investment slopes0.0093/0.0334; no new IV. Location: Table7(5–6); Appendix D.5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5185",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment effects across alternative residential-exposure controls. Location: Table7(1–6)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5186",
+    "before": null,
+    "after": "Residential RE of fixed-2002 directors still at firm; investment. Sample/support variants grouped, repeated Table8/A3 estimate deduplicated. Location: Table8(3), Appendix A.3/Table A3(1–2,5–7) pp5–7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5187",
+    "before": null,
+    "after": "Residential RE of fixed-2002 directors who have left; investment is a substantive null testing the collateral mechanism, not a first stage or balance outcome. Location: Table8(4), Appendix A.3/Table A3(3–7) pp5–7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5188",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment robustness controlling director skill at other firms or director pay; ordinary controls do not create a new identification category. Location: Table8(5–6), pp2248–49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5189",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment effects across pre1995, leaver and skill/pay specifications; repeated A3(5) and Table8 estimate counted once. Location: Table8(2–6), Appendix Table A3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5190",
+    "before": null,
+    "after": "Corporate RE: investment response by estimated financial-constraint groups; Table9 columns2–6 only. Column1 non-missing-index sample baseline is separately retained as HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5191",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment heterogeneity by employment/assets; columns5–8 also report corporate slopes controlling residential heterogeneity. Location: Table10 pp2252–54"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5192",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Effects on issued equity, director loans, short-/long-term external debt; retain economically null/negative responses as substantive financing results. Location: Table11 pp2254–56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5193",
+    "before": null,
+    "after": "Residential RE of non-shareholder directors; private-firm investment response, including substantive nulls. Location: Table12(3–4,6)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5194",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Baseline private-firm investment on shareholder-observed samples, including both components nonzero. Location: Table12(1,5)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5195",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Private-firm investment with shareholder decomposition controls/sample variants. Location: Table12(1–6)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5196",
+    "before": null,
+    "after": "Shareholder-director Residential RE interacted with high/low director LTV; private-firm investment. Location: Table13(7)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5197",
+    "before": null,
+    "after": "Non-shareholder-director Residential RE interacted with high/low director LTV; private-firm investment (null/negative estimates included). Location: Table13(8)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5198",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment responses jointly by LTV and estimated firm financial-constraint tertile. Location: Table13(3–5)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5199",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment in LTV/shareholder-observed samples without estimated constraint-index regressors. Location: Table13(1–2,6–8)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5200",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment within the LTV×estimated-financial-constraint model. Location: Table13(3–5)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5201",
+    "before": null,
+    "after": "Residential Equity (home value less estimated mortgage principal, using first mortgage observation and no future remortgaging); investment effect0.0316. Location: Table14(2); Appendix F"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5202",
+    "before": null,
+    "after": "Contemporaneous director residential property (allow current directors/moves), instrumented by baseline fixed-2002 Residential RE; investment0.0388. Location: Table14(3), pp2265–66"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5203",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment heterogeneity by firm age and rising/falling house prices; continuous housing-value treatment, not the age/price-direction group indicator. Location: Table14(4–7)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5204",
+    "before": null,
+    "after": "Residential RE divided by lagged Total Assets, instead of Turnover; maximal-sample total-asset accumulation. Includes explicitly implemented baseline-sample and £100k cutoff variants in fn49. Location: Table14(8), p2266 fn49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5205",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Effects on non-real-estate investment, and regular investment with residential-equity/age/price-direction controls. The contemporaneous-residential-IV column3 is not silently relabelled HDFE here. Location: Table14(1–2,4–7)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5206",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment by seven real-estate/assets buckets, baseline and trimming top-coded exposure variants. No direct RD at15%: groups moderate a continuous regressor. Location: Appendix Figure A1, pp7–9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5207",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment robustness at20%/25% exposure thresholds and four-way asset/turnover-size splits; A4(1) repeats Table10(5–6) and is not a second estimate. Location: Appendix Table A4(2–7), pp8–10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5208",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment response in threshold/size robustness; A4(1) duplicate Table10 baseline excluded. Location: Appendix Table A4(2–7)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5209",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment by LTV and within-firm estimated financial-constraint groups. Location: Appendix Table A5 p12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5210",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment in within-firm-constraint×LTV specification. Location: Appendix Table A5 p12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5211",
+    "before": null,
+    "after": "Residential RE of shareholders; private-firm investment by LTV and within-year/within-firm estimated financial constraints. Insignificant coefficients remain substantive results. Location: Appendix Table A6 p13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5212",
+    "before": null,
+    "after": "Residential RE of non-shareholders; private-firm investment by LTV and within-year/within-firm estimated financial constraints. Insignificant coefficients remain substantive results. Location: Appendix Table A6 p13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5213",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment in private-firm three-way LTV/shareholder/estimated-constraint models. Location: Appendix Table A6 p13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5214",
+    "before": null,
+    "after": "Change in total external debt financing → investment; excluded instrument(s): Residential RE. Location: Appendix A.6/Table A7(1) pp11,14–15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5215",
+    "before": null,
+    "after": "Change in total external debt financing → investment; excluded instrument(s): Corporate RE. Location: Appendix A.6/Table A7(2) pp11,14–15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5216",
+    "before": null,
+    "after": "Change in total external debt financing → investment; excluded instrument(s): Residential RE and Corporate RE. Location: Appendix A.6/Table A7(3) pp11,14–15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5217",
+    "before": null,
+    "after": "Change in total external debt → investment in joint debt-and-equity 2SLS; two nonbinary excluded instruments Residential RE and Corporate RE. Location: Appendix Table A7(4), pp14–15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5218",
+    "before": null,
+    "after": "Change in issued equity → investment in joint debt-and-equity 2SLS; two nonbinary excluded instruments Residential RE and Corporate RE. Location: Appendix Table A7(4), pp14–15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5219",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Financing responses by employment, number of shareholder-directors and positive lagged tax bill; continuous value treatment. Location: Appendix A.7/Table A9 pp16–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5220",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Financing responses in debt/equity margin regressions. Location: Appendix Table A9 pp18–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5221",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment heterogeneity by high/low industry sales–house-price beta; beta estimated from external ONS sales, not focal investment. Location: Appendix A.8/Table A10 pp19–20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5222",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment heterogeneity by industry sales–house-price beta. Location: Appendix Table A10 pp19–20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5223",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Weighted investment response 0.0314 using firm-size investment-share weights. Location: Appendix A.9/Table A11(2) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5224",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Weighted investment response 0.0709 using firm-size investment-share weights. Location: Appendix A.9/Table A11(2) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5225",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Weighted investment response 0.0308 using firm-size turnover-share weights. Location: Appendix A.9/Table A11(3) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5226",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Weighted investment response 0.0714 using firm-size turnover-share weights. Location: Appendix A.9/Table A11(3) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5227",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Weighted investment response 0.0276 using firm-size employment-share weights. Location: Appendix A.9/Table A11(4) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5228",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Weighted investment response 0.0691 using firm-size employment-share weights. Location: Appendix A.9/Table A11(4) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5229",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Weighted investment response 0.0472 using firm 2002 Residential RE weights within regression sample. Location: Appendix A.9/Table A11(5) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5230",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Weighted investment response 0.0335 using firm 2002 Residential RE weights within regression sample. Location: Appendix A.9/Table A11(5) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5231",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Weighted investment response 0.0327 using population director-Residential-RE shares by six asset buckets. Location: Appendix A.9/Table A11(6) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5232",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Weighted investment response 0.0461 using population director-Residential-RE shares by six asset buckets. Location: Appendix A.9/Table A11(6) pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5233",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment slopes by six baseline2002 residential-real-estate level bins; no graph ordinates transcribed. Location: Appendix Figure A2 p24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5234",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment robustness across commercial-index, firm-dispersion, market-value and lagged-book-value definitions of corporate control; both investment and non-land-building investment outcomes. Location: Appendix A.11/Table A12(2–7) pp25–28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5235",
+    "before": null,
+    "after": "Corporate RE constructed with commercial-property index (not residential price index); investment. Location: Appendix Table A12(2)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5236",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment slopes by single-/multiple-region firm operations. Location: Appendix Table A12(3–4)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5237",
+    "before": null,
+    "after": "Corporate RE initialized at imputed2002 market value using LIFO land recursion, updated with regional prices; investment. Location: Appendix Table A12(5)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5238",
+    "before": null,
+    "after": "Corporate RE constructed from one-year-lagged book value updated with regional price index; investment and investment excluding land/buildings. Negative full-investment coefficient remains a substantive measurement-robustness result. Location: Appendix Table A12(6–7)"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5239",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment slopes in2002–06 versus2007–14; not treated/post DiD, as regressor remains continuous collateral value. Location: Appendix A.13/Table A14 pp29–30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5240",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment slopes in2002–06 versus2007–14; not treated/post DiD, as regressor remains continuous collateral value. Location: Appendix A.13/Table A14 pp29–30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5241",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment on2002–08 sample, before address-reporting rule changes; E5(1) is duplicate baseline. Location: Appendix E.3.2/Table E5(2) pp67–68"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5242",
+    "before": null,
+    "after": "Corporate RE: fixed-2002 Land and Buildings book value updated with firm-region property prices, scaled by lagged Turnover. Investment on2002–08 sample, before address-reporting rule changes; E5(1) is duplicate baseline. Location: Appendix E.3.2/Table E5(2) pp67–68"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5243",
+    "before": null,
+    "after": "Residential RE: total value of fixed-2002 directors’ fixed-2002 homes updated with regional price indices, scaled by lagged Turnover. Investment effects by six Total Assets bins, with fine-bin coefficients used in aggregate calculation. Location: Main Figure4 p2263"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5244",
+    "before": null,
+    "after": "Residential RE in firms with no shareholder-directors; explicitly reported null investment response, results available on request. Location: Main p2261 fn42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5245",
+    "before": null,
+    "after": "Residential Equity recomputed using all subsequent mortgage/remortgage and2015 mortgage-stock information; investment sensitivity reportedly materially unchanged. Location: Appendix F fn74 p75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5246",
+    "before": null,
+    "after": "A1% national residential real-estate-price increase → aggregate investment demand, extrapolating baseline0.0298 slope using£1.5trillion director property. Location: Main VI p2262"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5247",
+    "before": null,
+    "after": "A1% corporate real-estate-price increase → aggregate investment demand, baseline0.0511 and£350billion corporate property. Location: Main VI p2262"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5248",
+    "before": null,
+    "after": "A1% residential-price increase → size-group contributions to aggregate investment demand; separate asset and employment bisections use Table10 slopes and population housing holdings. Location: Main VI pp2262–63 and fn43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5249",
+    "before": null,
+    "after": "A1% residential-price increase → aggregate investment demand from six asset-bin slopes weighted by population director-housing shares;0.27% total. Location: Main VI Figure4 pp2263–64, fn44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5250",
+    "before": null,
+    "after": "A1% corporate-price increase → size-group contributions to aggregate investment demand; asset and employment partitions with corporate property shares. Location: Appendix A.10 pp24–25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5251",
+    "before": null,
+    "after": "Residential RE baseline investment response on the sample with non-missing financial-constraint index; no index interactions. Location: Table9(1), p2252"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5252",
+    "before": null,
+    "after": "Corporate RE baseline investment response on the sample with non-missing financial-constraint index; no index interactions. Location: Table9(1), p2252"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5253",
+    "before": null,
+    "after": "Corporate RE investment coefficient0.0487 in the joint linear 2SLS regression instrumenting contemporaneous Residential RE. Corporate RE is an included nonbinary regressor, not itself instrumented. Location: Table14(3), p2265"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5254",
+    "before": null,
+    "after": "A1% residential-price increase → aggregate investment-demand response extrapolated from the investment-share weighted micro slope0.0314; aggregate elasticity verbally reported unchanged from the baseline calculation. Location: Main VI p2262; Appendix A11(2), pp21–23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1290",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1291",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1292",
+    "before": null,
+    "after": "Two nonbinary excluded firm-level real-estate measures used jointly, not one continuous instrument just because the upstream price regression has a single constraint×mortgage-rate interaction. Appendix A.2 explicitly states joint two-instrument first-stage F=6948. Linear 2SLS."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1293",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1294",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1295",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1296",
+    "before": null,
+    "after": "Appendix G7–G10 estimates nonlinear iterated-GMM index parameters using underlying investment (scaled by capital). The estimated groups therefore adapt to the focal underlying outcome despite final investment being scaled by lagged turnover. Other applies to the full fitted-index effect procedure, not a claim the conditional second regression is nonlinear. Table9(1) has no estimated-index interactions and is an ordinary sample restriction; see h79/h80."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1297",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1298",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1299",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1300",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1301",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5173",
+    "before": null,
+    "after": "Broad author-intention inclusion: table note calls column1 an effect; nearby prose calls it a pooled relationship and hard to interpret owing to between variation. No FE or quasi-experiment. Contested gate flagged; do not reject solely for endogeneity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5174",
+    "before": null,
+    "after": "One/two identifying FE dimensions; not HDFE. Authors explicitly interpret within-firm increases as raising investment. Group routine progression within the same method; no OLS label for these columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5175",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5176",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5177",
+    "before": null,
+    "after": "Same two nonbinary excluded real-estate measures as s3; corporate treatment rather than housing-price instrument is focal. Appendix A.2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5178",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5179",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5180",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5181",
+    "before": null,
+    "after": "Table7 pp2246–48: same constructed treatment and HDFE method at one location; joint-exposure and sample variants grouped. Prose interprets the same-region component as insignificant, a substantive null. Orthogonalized component remains h12. No new causal method from including a second exposure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5182",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5183",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5184",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5185",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5186",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5187",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5188",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5189",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5190",
+    "before": null,
+    "after": "Appendix G7–G10 estimates nonlinear iterated-GMM index parameters using underlying investment (scaled by capital). The estimated groups therefore adapt to the focal underlying outcome despite final investment being scaled by lagged turnover. Other applies to the full fitted-index effect procedure, not a claim the conditional second regression is nonlinear. Table9(1) has no estimated-index interactions and is an ordinary sample restriction; see h79/h80."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5191",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5192",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5193",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5194",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5195",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5196",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5197",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5198",
+    "before": null,
+    "after": "Final regression uses the three identifying FE sets, but financial-constraint groups depend on the nonlinear iterated-GMM investment Euler-equation estimate (Appendix G, G7–G10/Table G1). Candidate Other uses the full outcome-adaptive procedure, not merely conditional regression linearity. Conditional-HDFE alternative requires focused adjudication; index estimation is not IV treatment identification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5199",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5200",
+    "before": null,
+    "after": "Final regression uses the three identifying FE sets, but financial-constraint groups depend on the nonlinear iterated-GMM investment Euler-equation estimate (Appendix G, G7–G10/Table G1). Candidate Other uses the full outcome-adaptive procedure, not merely conditional regression linearity. Conditional-HDFE alternative requires focused adjudication; index estimation is not IV treatment identification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5201",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5202",
+    "before": null,
+    "after": "Exactly one excluded baseline Residential RE instrument; Corporate RE is an included control, not a second excluded instrument. First-stage marginal F512."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5203",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5204",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5205",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5206",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5207",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5208",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5209",
+    "before": null,
+    "after": "Final regression uses the three identifying FE sets, but financial-constraint groups depend on the nonlinear iterated-GMM investment Euler-equation estimate (Appendix G, G7–G10/Table G1). Candidate Other uses the full outcome-adaptive procedure, not merely conditional regression linearity. Conditional-HDFE alternative requires focused adjudication; index estimation is not IV treatment identification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5210",
+    "before": null,
+    "after": "Final regression uses the three identifying FE sets, but financial-constraint groups depend on the nonlinear iterated-GMM investment Euler-equation estimate (Appendix G, G7–G10/Table G1). Candidate Other uses the full outcome-adaptive procedure, not merely conditional regression linearity. Conditional-HDFE alternative requires focused adjudication; index estimation is not IV treatment identification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5211",
+    "before": null,
+    "after": "Final regression uses the three identifying FE sets, but financial-constraint groups depend on the nonlinear iterated-GMM investment Euler-equation estimate (Appendix G, G7–G10/Table G1). Candidate Other uses the full outcome-adaptive procedure, not merely conditional regression linearity. Conditional-HDFE alternative requires focused adjudication; index estimation is not IV treatment identification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5212",
+    "before": null,
+    "after": "Final regression uses the three identifying FE sets, but financial-constraint groups depend on the nonlinear iterated-GMM investment Euler-equation estimate (Appendix G, G7–G10/Table G1). Candidate Other uses the full outcome-adaptive procedure, not merely conditional regression linearity. Conditional-HDFE alternative requires focused adjudication; index estimation is not IV treatment identification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5213",
+    "before": null,
+    "after": "Final regression uses the three identifying FE sets, but financial-constraint groups depend on the nonlinear iterated-GMM investment Euler-equation estimate (Appendix G, G7–G10/Table G1). Candidate Other uses the full outcome-adaptive procedure, not merely conditional regression linearity. Conditional-HDFE alternative requires focused adjudication; index estimation is not IV treatment identification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5214",
+    "before": null,
+    "after": "Actual 2SLS. Total Debt is change in ST loans/overdrafts + trade credit + LT debt less ST/LT director loans, scaled by lagged Turnover. Different excluded instrument sets are distinct settings; weak first stage affects credibility, not inclusion. Outcome is investment, not debt first-stage diagnostics."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5215",
+    "before": null,
+    "after": "Actual 2SLS. Total Debt is change in ST loans/overdrafts + trade credit + LT debt less ST/LT director loans, scaled by lagged Turnover. Different excluded instrument sets are distinct settings; weak first stage affects credibility, not inclusion. Outcome is investment, not debt first-stage diagnostics."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5216",
+    "before": null,
+    "after": "Actual 2SLS. Total Debt is change in ST loans/overdrafts + trade credit + LT debt less ST/LT director loans, scaled by lagged Turnover. Different excluded instrument sets are distinct settings; weak first stage affects credibility, not inclusion. Outcome is investment, not debt first-stage diagnostics."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5217",
+    "before": null,
+    "after": "Both debt and equity are endogenous in the same implemented joint model; preserve separate focal treatment parameters. Equity imprecise but substantive. No benchmark for approximately£1 investment per£1 financing: denominator is treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5218",
+    "before": null,
+    "after": "Both debt and equity are endogenous in the same implemented joint model; preserve separate focal treatment parameters. Equity imprecise but substantive. No benchmark for approximately£1 investment per£1 financing: denominator is treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5219",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5220",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5221",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5222",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5223",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5224",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5225",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5226",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5227",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5228",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5229",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5230",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5231",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5232",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Weighting changes target; weights come from aggregate activity/exposure shares, not a causal propensity-score design. This is weighted HDFE, not Matching."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5233",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5234",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5235",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5236",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5237",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5238",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5239",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5240",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5241",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5242",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5243",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5244",
+    "before": null,
+    "after": "Minimum implemented null scope retained. Nearby private-firm HDFE design suggests HDFE but unreported exact estimator/sample is not confirmed; do not expand unseen columns or infer numerical zero."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5245",
+    "before": null,
+    "after": "Firm, firm-region×time and 2-digit industry×time identifying fixed effects (three separately included sets); Section III pp2240–42 explains time-invariant director heterogeneity and regional/industry shocks. Linear in reported outcome conditional on the stated regressors. Minimum explicit robustness scope: the paragraph compares alternative equity measurement in the same investment analysis. No coefficient or sample grid supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5246",
+    "before": null,
+    "after": "Partial-equilibrium fixed-weight/scaling aggregation of HDFE investment responses. HDFE inherited from implemented regressions; no fitted structural model in this article. Denominator is a stated aggregate outcome LEVEL, not an untreated/control mean, so alignment n/a. Aggregate extrapolation assumes responses transfer to wider population; do not claim causal design validates external validity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5247",
+    "before": null,
+    "after": "Partial-equilibrium fixed-weight/scaling aggregation of HDFE investment responses. HDFE inherited from implemented regressions; no fitted structural model in this article. Denominator is a stated aggregate outcome LEVEL, not an untreated/control mean, so alignment n/a. Aggregate extrapolation assumes responses transfer to wider population; do not claim causal design validates external validity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5248",
+    "before": null,
+    "after": "Partial-equilibrium fixed-weight/scaling aggregation of HDFE investment responses. HDFE inherited from implemented regressions; no fitted structural model in this article. Denominator is a stated aggregate outcome LEVEL, not an untreated/control mean, so alignment n/a. Aggregate extrapolation assumes responses transfer to wider population; do not claim causal design validates external validity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5249",
+    "before": null,
+    "after": "Partial-equilibrium fixed-weight/scaling aggregation of HDFE investment responses. HDFE inherited from implemented regressions; no fitted structural model in this article. Denominator is a stated aggregate outcome LEVEL, not an untreated/control mean, so alignment n/a. Aggregate extrapolation assumes responses transfer to wider population; do not claim causal design validates external validity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5250",
+    "before": null,
+    "after": "Partial-equilibrium fixed-weight/scaling aggregation of HDFE investment responses. HDFE inherited from implemented regressions; no fitted structural model in this article. Denominator is a stated aggregate outcome LEVEL, not an untreated/control mean, so alignment n/a. Aggregate extrapolation assumes responses transfer to wider population; do not claim causal design validates external validity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5251",
+    "before": null,
+    "after": "Table9(1) is a sample-availability robustness regression with firm, region-time and industry-time identifying FE. Nonlinear estimation of the index values does not enter this coefficient through group membership; distinguish columns2–6. Ordinary sample restriction is not an outcome-adaptive estimator. Supporting rather than main."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5252",
+    "before": null,
+    "after": "Table9(1) is a sample-availability robustness regression with firm, region-time and industry-time identifying FE. Nonlinear estimation of the index values does not enter this coefficient through group membership; distinguish columns2–6. Ordinary sample restriction is not an outcome-adaptive estimator. Supporting rather than main."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5253",
+    "before": null,
+    "after": "Table14(3): one excluded baseline Residential RE instrument for contemporaneous residential property; Corporate RE is included, not an additional excluded instrument. IV labels the implemented joint estimator, not an instrumented corporate-treatment claim. This preserves the second focal collateral effect consistently with the paper-wide corporate-response census."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5254",
+    "before": null,
+    "after": "Distinct implemented weighting target, not repetition of baseline regression. Main p2262 explicitly links the new slope to its aggregate elasticity; no fresh numeric elasticity or pound increase is printed. Retain qualitative reference without inventing0.28% for this specification. Aggregate multiplication by fixed reported property levels preserves conditional linearity; Appendix A.9 explains why investment weights are inappropriate for preferred aggregation, a credibility caveat not exclusion."
+  }
+]
+```
