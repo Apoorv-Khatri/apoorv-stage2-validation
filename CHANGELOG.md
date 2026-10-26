@@ -1363041,3 +1363041,1296 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T01:57:50.736148+00:00 — Review RI7EAM24 h2: adjudicated source-scoped coding
+
+214 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A13631",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13632",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13633",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13634",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13635",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13636",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13637",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13638",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13639",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13640",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13641",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13642",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13643",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13644",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13645",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13646",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13647",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A13648",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13631",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13632",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13633",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13634",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13635",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13636",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13637",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13638",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13639",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13640",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13641",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13642",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13643",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13644",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13645",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13646",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13647",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B13648",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13631",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13632",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13633",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13634",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13635",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13636",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13637",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13638",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13639",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13640",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13641",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13642",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13643",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13644",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13645",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13646",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13647",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C13648",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K13648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13631",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13632",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13633",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13634",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13635",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13636",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13637",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13638",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13639",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13640",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13641",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13642",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13643",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13644",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13645",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13646",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13647",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L13648",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13631",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13632",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13633",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13634",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13635",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13636",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13637",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13638",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13639",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13640",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13641",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13642",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13643",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13644",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13645",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13646",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13647",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M13648",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N13648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13631",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13632",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13633",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13634",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13635",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13636",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13637",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O13648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13631",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13632",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13633",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13634",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13635",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13636",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13637",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13638",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13639",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13640",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13641",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13642",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13643",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13644",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13645",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13646",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P13648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13631",
+    "before": null,
+    "after": "Figure2 p.62, 70-year-old, donor age18-34: additional-offer incremental value 5.37% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13632",
+    "before": null,
+    "after": "Figure2 p.62, 70-year-old, donor age35-49: additional-offer incremental value 3.84% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13633",
+    "before": null,
+    "after": "Figure2 p.62, 70-year-old, donor age>49: additional-offer incremental value 1.91% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13634",
+    "before": null,
+    "after": "Figure2 p.62, 40-year-old, donor age18-34: additional-offer incremental value 1.77% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13635",
+    "before": null,
+    "after": "Figure2 p.62, 40-year-old, donor age35-49: additional-offer incremental value 1.03% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13636",
+    "before": null,
+    "after": "Figure2 p.62, 40-year-old, donor age>49: additional-offer incremental value 0.14% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13637",
+    "before": null,
+    "after": "Figure2 p.62, 0 DR mismatch, donor age18-34: additional-offer incremental value 3.18% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13638",
+    "before": null,
+    "after": "Figure2 p.62, 0 DR mismatch, donor age35-49: additional-offer incremental value 2.05% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13639",
+    "before": null,
+    "after": "Figure2 p.62, 0 DR mismatch, donor age>49: additional-offer incremental value 0.53% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13640",
+    "before": null,
+    "after": "Figure2 p.62, 2 DR mismatch, donor age18-34: additional-offer incremental value 2.8% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13641",
+    "before": null,
+    "after": "Figure2 p.62, 2 DR mismatch, donor age35-49: additional-offer incremental value 1.79% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13642",
+    "before": null,
+    "after": "Figure2 p.62, 2 DR mismatch, donor age>49: additional-offer incremental value 0.45% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13643",
+    "before": null,
+    "after": "Figure2 p.62, on dialysis age>50, donor age18-34: additional-offer incremental value 3.17% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13644",
+    "before": null,
+    "after": "Figure2 p.62, on dialysis age>50, donor age35-49: additional-offer incremental value 2.07% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13645",
+    "before": null,
+    "after": "Figure2 p.62, on dialysis age>50, donor age>49: additional-offer incremental value 0.58% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13646",
+    "before": null,
+    "after": "Figure2 p.62, off dialysis age>50, donor age18-34: additional-offer incremental value 3.48% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13647",
+    "before": null,
+    "after": "Figure2 p.62, off dialysis age>50, donor age35-49: additional-offer incremental value 2.2% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q13648",
+    "before": null,
+    "after": "Figure2 p.62, off dialysis age>50, donor age>49: additional-offer incremental value 0.57% of own registration continuation NPV, other characteristics at sample medians. Printed bar label; no ordinate inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13631",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13632",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13633",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13634",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13635",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13636",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13637",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13638",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13639",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13640",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13641",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13642",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13643",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13644",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13645",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13646",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13647",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R13648",
+    "before": null,
+    "after": "Own patient-profile baseline value is other_level, not average donor supply or difference between two effect bars. Contrast is one additional offer versus no additional offer."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11249",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11249",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11249",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11249",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11249",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11249",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11249",
+    "before": null,
+    "after": "Expected incremental NPV of one additional organ offer at registration divided by that profile continuation NPV; Figure2 EVij, percent equivalent supply units."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4788",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4788",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4788",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4788",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4788",
+    "before": null,
+    "after": "One additional organ offer versus continued waiting at registration, by donor-age and patient profile; Figure2 p.62 and Section5.2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4788",
+    "before": null,
+    "after": "Structural CCP/probit recovery and nonlinear steady-state fixed-point/optimization; Other applies to complete estimated outcome mapping, not because this is called simulation. No implemented linear assignment/DiD/IV estimator. Exogenous donor/patient arrivals and non-transplant departures, fixed outside option, limited beliefs, estimated match values; NYRT 2010-2013. Counterfactual acceptance outside NYRT held fixed (p.65 fn30). Conditional fixed-primitives accounting is not a separately estimated linear causal model. Binary offer/no-additional-offer intervention; donor age, recipient age, dialysis and DR matching are displayed profiles, not randomized characteristics. Expected incremental value normalized by same patient continuation value. Full recovery nonlinear."
+  }
+]
+```
