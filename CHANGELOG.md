@@ -1375104,3 +1375104,2802 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T03:00:34.955844+00:00 — Review RMYANHBG: one-paper adjudicated source-scoped coding
+
+465 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11263",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11264",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11265",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11266",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11267",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11268",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11269",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11270",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11271",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11272",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11273",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11274",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11275",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11276",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11277",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11278",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11279",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11280",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11281",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11282",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11283",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11284",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11285",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11286",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11287",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11288",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11289",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11290",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11291",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11292",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11293",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11294",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11295",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11296",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11297",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11298",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11263",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11264",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11265",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11266",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11267",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11268",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11269",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11270",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11271",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11272",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11273",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11274",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11275",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11276",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11277",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11278",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11279",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11280",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11281",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11282",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11283",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11284",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11285",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11286",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11287",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11288",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11289",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11290",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11291",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11292",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11293",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11294",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11295",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11296",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11297",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11298",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11263",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11264",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11265",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11266",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11267",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11268",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11269",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11270",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11271",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11272",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11273",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11274",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11275",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11276",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11277",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11278",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11279",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11280",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11281",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11282",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11283",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11284",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11285",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11286",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11287",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11288",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11289",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11290",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11291",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11292",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11293",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11294",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11295",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11296",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11297",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11298",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11263",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor income tax burden: 100 times percentile-p employee-borne labor tax revenue divided by total employee-borne labor tax revenue in country-year. Units are percentage points of total employee-borne labor tax revenue attributed to the percentile."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11264",
+    "before": null,
+    "after": "Total tax revenue relative to GDP, 100 × total tax revenue / GDP. Units: percentage points of GDP."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11265",
+    "before": null,
+    "after": "Firm-borne tax revenue relative to GDP, 100 × firm-borne tax revenue / GDP. Units: percentage points of GDP."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11266",
+    "before": null,
+    "after": "Employee-borne tax revenue relative to GDP, 100 × employee-borne tax revenue / GDP. Units: percentage points of GDP."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11267",
+    "before": null,
+    "after": "Goods-and-services tax revenue relative to GDP, 100 × goods/services tax revenue / GDP. Units: percentage points of GDP."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11268",
+    "before": null,
+    "after": "Other tax revenue relative to GDP, 100 × other tax revenue / GDP. Units: percentage points of GDP."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11269",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor income tax burden computed using observed LIS wage microdata for single-male, single-earner households. Units are percentage points of total employee-borne labor tax revenue attributed to a percentile."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11270",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor income tax burden for all wage-earning household types computed from LIS microdata and tax calculators. Units are percentage points of total employee-borne labor tax revenue attributed to a percentile."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11271",
+    "before": null,
+    "after": "Counterfactual percentile-specific relative employee-borne labor income tax burden computed after removing openness-induced wage changes and recomputing taxes through tax calculators. Units are percentage points of total counterfactual employee-borne labor tax revenue attributed to a percentile."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11272",
+    "before": null,
+    "after": "Log average annual nominal gross wage before taxes (equation12)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11273",
+    "before": null,
+    "after": "Log average annual nominal gross wage before taxes (equation12)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11274",
+    "before": null,
+    "after": "Percentile-specific gross wage divided by country-year mean gross wage s_pit (equations11,13), not each percentile share of aggregate wages. OA.6 shows75th,90th,100th under three distribution imputations; main text states regressions for all percentiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11275",
+    "before": null,
+    "after": "Percentile-specific gross wage divided by country-year mean gross wage s_pit (equations11,13), not each percentile share of aggregate wages. OA.6 shows75th,90th,100th under three distribution imputations; main text states regressions for all percentiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11276",
+    "before": null,
+    "after": "Relative percentile-specific employee-borne labor tax burden recomputed holding percentile wages constant at1980 levels; percent of total counterfactual employee-borne tax revenue, by wage percentile."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11277",
+    "before": null,
+    "after": "Relative percentile-specific employee-borne labor tax burden recomputed holding percentile wages constant at1993 levels in1980-1993 and1994 levels in1994-2007; percent of total counterfactual employee-borne tax revenue, by wage percentile."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11278",
+    "before": null,
+    "after": "Percentile-specific share of combined employee- plus employer-based labor taxes/social-security tax bill, times100; burden-shifting assumption in supplement section5, main footnote11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11279",
+    "before": null,
+    "after": "Percentile-specific share of combined employee- plus employer-based labor taxes/social-security tax bill, times100; burden-shifting assumption in supplement section5, main footnote11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11280",
+    "before": null,
+    "after": "Percentile-specific share of combined employee- plus employer-based labor taxes/social-security tax bill, times100; burden-shifting assumption in supplement section5, main footnote11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11281",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor income tax burden, percent of total employee-borne tax revenue in non-OECD countries; equation2/Figure OA.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11282",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor income tax burden, percent of total employee-borne tax revenue in non-OECD countries; equation2/Figure OA.4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11283",
+    "before": null,
+    "after": "Total tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11284",
+    "before": null,
+    "after": "Firm-borne tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11285",
+    "before": null,
+    "after": "Employee-borne tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11286",
+    "before": null,
+    "after": "Goods and services tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11287",
+    "before": null,
+    "after": "Other tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11288",
+    "before": null,
+    "after": "Total tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11289",
+    "before": null,
+    "after": "Firm-borne tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11290",
+    "before": null,
+    "after": "Employee-borne tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11291",
+    "before": null,
+    "after": "Goods and services tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11292",
+    "before": null,
+    "after": "Other tax revenues divided by GDP,times100; non-OECD Table OA.7/equation10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11293",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor tax burden, times100, under observed-Gini-only wage-distribution imputations; Figure12."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11294",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor tax burden, times100, under observed-Gini-only wage-distribution imputations; Figure12."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11295",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor tax burden, times100, under observed-Gini-only wage-distribution imputations; Figure12."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11296",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor income tax burden: contribution to total employee-borne labor tax revenues, percent (equation2). Minimum outcome established by Section I.B transport-cost-instrument robustness context, p.365/fn21. Exact reported percentile/sample/period coverage and numerical estimates not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11297",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor income tax burden: contribution to total employee-borne labor tax revenues, percent (equation2). Minimum outcome established by Section I.B transport-cost-instrument robustness context, p.365/fn21. Exact reported percentile/sample/period coverage and numerical estimates not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11298",
+    "before": null,
+    "after": "Percentile-specific relative employee-borne labor income tax burden: contribution to total employee-borne labor tax revenues, percent (equation2). Minimum outcome established by Section I.B transport-cost-instrument robustness context, p.365/fn21. Exact reported percentile/sample/period coverage and numerical estimates not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K2945",
+    "before": null,
+    "after": "s_pit is percentile-specific gross wage divided by country-year average gross wage, equation11 (w_p=mean_w*s_p), not share of total wage bill. Equation13/Table OA.6."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E135",
+    "before": null,
+    "after": "DONE — full available-source review plus focused independent audit; not empirical replication. Final article and available supplement reviewed; replication archive metadata available but scripts not inspected. Reported-constructed-outcome OLS/IV convention retained with actual dummy controls disclosed; identifying-FE and full-raw-panel alternatives preserved. LIS corroboration main flags treated symmetrically. Three instrument variants retained only as minimum equation-2 tax-burden outcomes h22/h23/h24; h24 instrument support unknown. Zero held records and zero qualifying comparisons do not resolve unreported implementation details. Printed standard-error, gamma-label, transport-cost denominator, wage-significance, year, legend and US quantile conflicts preserved. No unseen coefficient, period, percentile or comparison grids."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4793",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4794",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4795",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4796",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4797",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4798",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4799",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4800",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4801",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4802",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4803",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4804",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4805",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4806",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4807",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4808",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4809",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4810",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4811",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4812",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4813",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4814",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4815",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4816",
+    "before": null,
+    "after": "RMYANHBG"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4793",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4794",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4795",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4796",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4797",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4798",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4799",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4800",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4801",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4802",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4803",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4804",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4805",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4806",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4807",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4808",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4809",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4810",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4811",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4812",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4813",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4814",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4815",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4816",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1164",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1168",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1173",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1164",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1165",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1166",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1167",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1168",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1169",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1170",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1171",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1172",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1173",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1174",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1175",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1176",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1177",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1178",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1179",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4793",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4794",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4795",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4796",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4797",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4798",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4799",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4800",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4801",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4802",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4803",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4804",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4805",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4806",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4807",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4808",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4809",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4810",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4811",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4812",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4813",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4814",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4815",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4816",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1169",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1164",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1168",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4800",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4801",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4808",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4810",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1164",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1165",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1166",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1167",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1168",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1169",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1170",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1171",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1172",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1173",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1174",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1175",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1176",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1177",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1178",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1179",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4793",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4794",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4795",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4796",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4797",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4798",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4799",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4800",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4801",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4802",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4803",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4804",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4805",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4806",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4807",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4808",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4809",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4810",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4811",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4812",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4813",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4814",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4815",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4816",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1165",
+    "before": null,
+    "after": "Log trade openness effect; Instrument I ONLY. Figure4/Table3 pp.367-368. Original pooled Instrument II scope is split to h1. Outcome set and routine period/distribution variants otherwise retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1167",
+    "before": null,
+    "after": "Log trade openness effect; Instrument I ONLY. Table4 p.371. Original pooled Instrument II scope is split to h2. Outcome set and routine period/distribution variants otherwise retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1169",
+    "before": null,
+    "after": "Log trade openness effect; Instrument I ONLY. Figure6 p.373, single-male LIS. Original pooled Instrument II scope is split to h3. Outcome set and routine period/distribution variants otherwise retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1171",
+    "before": null,
+    "after": "Log trade openness effect; Instrument I ONLY. Figure7 p.374, all-household LIS. Original pooled Instrument II scope is split to h4. Outcome set and routine period/distribution variants otherwise retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1172",
+    "before": null,
+    "after": "Log trade openness effect on log average annual gross wage, OLS; equation12 p.374 and Table OA.5 p.6. Pooled 1980-2007 OECD sample (728 observations,26 countries), not separate subperiod regressions. Coefficient0.116 (SE0.136); IV scopes added h6/h7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1173",
+    "before": null,
+    "after": "Log trade openness effect on percentile-specific gross-wage-to-average-wage ratio, OLS; equation13 p.375/Table OA.6 p.7. Pooled sample728,26 countries, not period splits. IV scopes added h8/h9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1175",
+    "before": null,
+    "after": "Log trade openness effect; Instrument I ONLY. Figure9 p.377, counterfactual tax burdens. Original pooled Instrument II scope is split to h5. Outcome set and routine period/distribution variants otherwise retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4793",
+    "before": null,
+    "after": "Log trade openness effect; Instrument II ONLY. Figure4/Table3 pp.367-368. Same reported outcome set and routine variants as original s2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4794",
+    "before": null,
+    "after": "Log trade openness effect; Instrument II ONLY. Table4 p.371. Same reported outcome set and routine variants as original s4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4795",
+    "before": null,
+    "after": "Log trade openness effect; Instrument II ONLY. Figure6 p.373, single-male LIS. Same reported outcome set and routine variants as original s6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4796",
+    "before": null,
+    "after": "Log trade openness effect; Instrument II ONLY. Figure7 p.374, all-household LIS. Same reported outcome set and routine variants as original s8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4797",
+    "before": null,
+    "after": "Log trade openness effect; Instrument II ONLY. Figure9 p.377, counterfactual tax burdens. Same reported outcome set and routine variants as original s12."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4798",
+    "before": null,
+    "after": "Log trade openness effect on Log average annual gross wage; coefficient0.295(SE0.146). Table OA.5 col IV-I; OECD pooled1980-2007,728 observations,26 countries. Routine distribution variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4799",
+    "before": null,
+    "after": "Log trade openness effect on Log average annual gross wage; coefficient0.516(SE0.251). Table OA.5 col IV-II; OECD pooled1980-2007,728 observations,26 countries. Routine distribution variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4800",
+    "before": null,
+    "after": "Log trade openness effect on Percentile-specific wage-to-average-wage dispersion ratio; mixed75th0.021(SE0.009),90th0.015(SE0.032),100th-0.821(SE0.724). Table OA.6 IV-I; OECD pooled1980-2007,728 observations,26 countries. Routine distribution variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4801",
+    "before": null,
+    "after": "Log trade openness effect on Percentile-specific wage-to-average-wage dispersion ratio; mixed75th0.054(SE0.040),90th0.103(SE0.078),100th-1.971(SE3.564). Table OA.6 IV-II; OECD pooled1980-2007,728 observations,26 countries. Routine distribution variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4802",
+    "before": null,
+    "after": "Log trade openness effect on Relative percentile-specific employee-borne labor tax burden recomputed holding percentile wages constant at1980 levels; Figure OA.1 row(a), supplement p.8; main p.376."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4803",
+    "before": null,
+    "after": "Log trade openness effect on Relative percentile-specific employee-borne labor tax burden recomputed holding percentile wages constant at1993 levels in1980-1993 and1994 levels in1994-2007; Figure OA.1 row(b), supplement p.8; main p.376."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4804",
+    "before": null,
+    "after": "Log trade openness effect on percentile-specific relative tax burdens including employer social-security contributions shifted onto employees; OECD1980-1993/1994-2007; Figure OA.2 p.9."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4805",
+    "before": null,
+    "after": "Log trade openness effect on percentile-specific relative tax burdens including employer social-security contributions shifted onto employees; OECD1980-1993/1994-2007; Figure OA.3 left panels p.10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4806",
+    "before": null,
+    "after": "Log trade openness effect on percentile-specific relative tax burdens including employer social-security contributions shifted onto employees; OECD1980-1993/1994-2007; Figure OA.3 right panels p.10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4807",
+    "before": null,
+    "after": "Log trade openness effect on relative employee-borne tax burdens in non-OECD countries,1980-1993/1994-2007; Figure OA.4 upper row, supplement p.11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4808",
+    "before": null,
+    "after": "Log trade openness effect on relative employee-borne tax burdens in non-OECD countries,1980-1993/1994-2007; Figure OA.4 lower row, supplement p.11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4809",
+    "before": null,
+    "after": "Log trade openness effect on non-OECD tax revenues as percent GDP: total,firm,employee,goods,other; Table OA.7 p.11, two periods,311/383 observations and33/35 countries."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4810",
+    "before": null,
+    "after": "Log trade openness effect on non-OECD tax revenues as percent GDP: total,firm,employee,goods,other; Table OA.7 p.11, two periods,311/383 observations and33/35 countries."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4811",
+    "before": null,
+    "after": "Log trade openness effect on relative employee-borne tax burdens using directly observed gross-wage Gini coefficients only; OECD1994-2007; Figure12 panelA, main Appendix B pp.385-386."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4812",
+    "before": null,
+    "after": "Log trade openness effect on relative employee-borne tax burdens using directly observed gross-wage Gini coefficients only; OECD1994-2007; Figure12 panelB, main Appendix B pp.385-386."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4813",
+    "before": null,
+    "after": "Log trade openness effect on relative employee-borne tax burdens using directly observed gross-wage Gini coefficients only; OECD1994-2007; Figure12 panelC, main Appendix B pp.385-386."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4814",
+    "before": null,
+    "after": "Log trade openness effect on percentile-specific relative employee-borne labor income tax burden; Mean internal port-distance transport-cost instrument replacing the variance instrument. Minimum implemented robustness scope, Main p.365 paragraph preceding footnote21; article.txt739-744."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4815",
+    "before": null,
+    "after": "Log trade openness effect on percentile-specific relative employee-borne labor income tax burden; Mean and variance port-distance instrument measures used jointly. Minimum implemented robustness scope, Main p.365 footnote21; article.txt778-780."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4816",
+    "before": null,
+    "after": "Log trade openness effect on percentile-specific relative employee-borne labor income tax burden; Population-weighted distances used to normalize D_kit in the transport-cost instrument variant. Minimum implemented robustness scope, Main p.365 footnote21; article.txt778-780."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1164",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1165",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1166",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1167",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1168",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE. Main-role adjudication: introduction p.355 explicitly identifies LIS and US microdata as corroborating the central result, and conclusion p.382 confirms microdata findings. Figure6/7 scopes materially support that conclusion despite robustness placement; same criterion as s15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1169",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments. Main-role adjudication: introduction p.355 explicitly identifies LIS and US microdata as corroborating the central result, and conclusion p.382 confirms microdata findings. Figure6/7 scopes materially support that conclusion despite robustness placement; same criterion as s15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1170",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE. Figure7 presents original estimates and polynomial-smoothed curves; smoothing across percentile indices does not itself establish an outcome-adaptive estimator. No separately invented smoothing treatment. Main-role adjudication: introduction p.355 explicitly identifies LIS and US microdata as corroborating the central result, and conclusion p.382 confirms microdata findings. Figure6/7 scopes materially support that conclusion despite robustness placement; same criterion as s15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1171",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Figure7 presents original estimates and polynomial-smoothed curves; smoothing across percentile indices does not itself establish an outcome-adaptive estimator. No separately invented smoothing treatment. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments. Main-role adjudication: introduction p.355 explicitly identifies LIS and US microdata as corroborating the central result, and conclusion p.382 confirms microdata findings. Figure6/7 scopes materially support that conclusion despite robustness placement; same criterion as s15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1172",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1173",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE. Substantive wage-dispersion mechanism null retained, not diagnostic-only. Main prose says no significant effects, but OA.6 has mixed75th0.017(SE0.008), Pareto90th0.020(SE0.009); preserve table and prose without blanket null claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1174",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE. Equation (15) regresses constructed counterfactual relative burden after equation (14) wage adjustment and tax-calculator recomputation. Tax-schedule mechanism is central (pp.375-376,381-382). Method uses the reported-outcome domain, not linearity in raw wage/calculator inputs; full construction is nonlinear. Printed equation14 uses gamma c but following prose says gamma s; preserved as unresolved source notation conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1175",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Equation (15) regresses constructed counterfactual relative burden after equation (14) wage adjustment and tax-calculator recomputation. Tax-schedule mechanism is central (pp.375-376,381-382). Method uses the reported-outcome domain, not linearity in raw wage/calculator inputs; full construction is nonlinear. Printed equation14 uses gamma c but following prose says gamma s; preserved as unresolved source notation conflict. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1176",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1177",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Excluded instrument: lambda mig, scalar sum of normalized bilateral migrant-share products, equation (16), p.378. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1178",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Equation18 uses50 taxable-income quantiles, each spanning two percentiles; Figure11 labels axis wage percentiles and prose calls the top group a percentile. Preserve distinction; s15 reported0.15 percentage-point reduction per1% mobility increase is not an outcome-mean benchmark. Excluded instrument: scalar interstate analogue of lambda mig using normalized state-to-state IRS tax-return migration flows including foreign residual destination/origin (pp.380, fn34). Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1179",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Equation18 uses50 taxable-income quantiles, each spanning two percentiles; Figure11 labels axis wage percentiles and prose calls the top group a percentile. Preserve distinction; s15 reported0.15 percentage-point reduction per1% mobility increase is not an outcome-mean benchmark. Excluded instrument: scalar interstate analogue of lambda mig using normalized state-to-state IRS tax-return migration flows including foreign residual destination/origin (pp.380, fn34). Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4793",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Table3 top-period1980-1993 IV-II coefficient15.82: SE9.93 printed in table versus3.98 in prose p.367; both preserved. Excluded instrument: lambda II, scalar variance across the three largest cities of oil-price times port-distance transport-cost measures, equation (8), pp.364-365; Appendix A p.384 calls distance log road distance. Printed p.364 defines the average D using 1/(3-1), not 1/3, before its variance formula; preserve this source inconsistency, implementation code unavailable. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4794",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Excluded instrument: lambda II, scalar variance across the three largest cities of oil-price times port-distance transport-cost measures, equation (8), pp.364-365; Appendix A p.384 calls distance log road distance. Printed p.364 defines the average D using 1/(3-1), not 1/3, before its variance formula; preserve this source inconsistency, implementation code unavailable. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4795",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Excluded instrument: lambda II, scalar variance across the three largest cities of oil-price times port-distance transport-cost measures, equation (8), pp.364-365; Appendix A p.384 calls distance log road distance. Printed p.364 defines the average D using 1/(3-1), not 1/3, before its variance formula; preserve this source inconsistency, implementation code unavailable. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments. Main-role adjudication: introduction p.355 explicitly identifies LIS and US microdata as corroborating the central result, and conclusion p.382 confirms microdata findings. Figure6/7 scopes materially support that conclusion despite robustness placement; same criterion as s15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4796",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Excluded instrument: lambda II, scalar variance across the three largest cities of oil-price times port-distance transport-cost measures, equation (8), pp.364-365; Appendix A p.384 calls distance log road distance. Printed p.364 defines the average D using 1/(3-1), not 1/3, before its variance formula; preserve this source inconsistency, implementation code unavailable. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments. Main-role adjudication: introduction p.355 explicitly identifies LIS and US microdata as corroborating the central result, and conclusion p.382 confirms microdata findings. Figure6/7 scopes materially support that conclusion despite robustness placement; same criterion as s15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4797",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Equation (15) regresses constructed counterfactual relative burden after equation (14) wage adjustment and tax-calculator recomputation. Tax-schedule mechanism is central (pp.375-376,381-382). Method uses the reported-outcome domain, not linearity in raw wage/calculator inputs; full construction is nonlinear. Printed equation14 uses gamma c but following prose says gamma s; preserved as unresolved source notation conflict. Excluded instrument: lambda II, scalar variance across the three largest cities of oil-price times port-distance transport-cost measures, equation (8), pp.364-365; Appendix A p.384 calls distance log road distance. Printed p.364 defines the average D using 1/(3-1), not 1/3, before its variance formula; preserve this source inconsistency, implementation code unavailable. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4798",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Substantive interpreted wage-level/dispersion mechanism, not first-stage diagnostic. Main-text broad null statement for dispersion does not erase reported individual coefficients. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4799",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Substantive interpreted wage-level/dispersion mechanism, not first-stage diagnostic. Main-text broad null statement for dispersion does not erase reported individual coefficients. Excluded instrument: lambda II, scalar variance across the three largest cities of oil-price times port-distance transport-cost measures, equation (8), pp.364-365; Appendix A p.384 calls distance log road distance. Printed p.364 defines the average D using 1/(3-1), not 1/3, before its variance formula; preserve this source inconsistency, implementation code unavailable. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4800",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Substantive interpreted wage-level/dispersion mechanism, not first-stage diagnostic. Main-text broad null statement for dispersion does not erase reported individual coefficients. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4801",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Substantive interpreted wage-level/dispersion mechanism, not first-stage diagnostic. Main-text broad null statement for dispersion does not erase reported individual coefficients. Excluded instrument: lambda II, scalar variance across the three largest cities of oil-price times port-distance transport-cost measures, equation (8), pp.364-365; Appendix A p.384 calls distance log road distance. Printed p.364 defines the average D using 1/(3-1), not 1/3, before its variance formula; preserve this source inconsistency, implementation code unavailable. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4802",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE. Distinct fixed-wage counterfactual estimand, not a comparison of effect with own-outcome mean. Supplement prose prints1984-2007 but graph/main state1994-2007; preserve conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4803",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE. Distinct fixed-wage counterfactual estimand, not a comparison of effect with own-outcome mean. Supplement prose prints1984-2007 but graph/main state1994-2007; preserve conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4804",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE. Distinct combined tax bill outcome. OA.3 legend literally prints ??; no curve-specific numeric reconstruction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4805",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Distinct combined tax bill outcome. OA.3 legend literally prints ??; no curve-specific numeric reconstruction. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4806",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Distinct combined tax bill outcome. OA.3 legend literally prints ??; no curve-specific numeric reconstruction. Excluded instrument: lambda II, scalar variance across the three largest cities of oil-price times port-distance transport-cost measures, equation (8), pp.364-365; Appendix A p.384 calls distance log road distance. Printed p.364 defines the average D using 1/(3-1), not 1/3, before its variance formula; preserve this source inconsistency, implementation code unavailable. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4807",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4808",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4809",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4810",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4811",
+    "before": null,
+    "after": "Linear in the reported constructed dependent outcome, conditional on controls. Country and year dummy sets are present; the source specifies them but does not establish a separate identifying-FE argument. OLS/regression-adjustment is proposed, not a claim that FE are absent. Conditional exogeneity remains contested by authors; broad causal-intention gate passes (pp.355,360-362). No phantom no-FE model or HDFE. Implemented substantive robustness result, not excluded merely because located in data-imputation appendix.180 available OECD Gini observations; do not assert all180 are estimation sample. Earlier period insufficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4812",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Implemented substantive robustness result, not excluded merely because located in data-imputation appendix.180 available OECD Gini observations; do not assert all180 are estimation sample. Earlier period insufficient. Excluded instrument: lambda I, sum over partners of symmetric bilateral trade-cost products recovered from normalized trade shares, equation (6), pp.363-364. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4813",
+    "before": null,
+    "after": "Implemented 2SLS, linear in the reported dependent outcome conditional on regressors/instruments; country/year effects do not override IV precedence. Implemented substantive robustness result, not excluded merely because located in data-imputation appendix.180 available OECD Gini observations; do not assert all180 are estimation sample. Earlier period insufficient. Excluded instrument: lambda II, scalar variance across the three largest cities of oil-price times port-distance transport-cost measures, equation (8), pp.364-365; Appendix A p.384 calls distance log road distance. Printed p.364 defines the average D using 1/(3-1), not 1/3, before its variance formula; preserve this source inconsistency, implementation code unavailable. Used alone, not together with the alternative instrument; included controls and FE are not excluded instruments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4814",
+    "before": null,
+    "after": "Immediate Section I.B context is equation2 personal income tax burdens; source says qualitatively similar results / results robust, establishing this minimum individually defined outcome. No coefficients, exact percentile/period/sample grid, revenue/GDP outcomes, wage outcomes or later counterfactual implementations inferred. Mean alternative is one nonbinary scalar; oil-price/distance construction follows the stated transport-cost context, but exact formula and normalization remain unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4815",
+    "before": null,
+    "after": "Immediate Section I.B context is equation2 personal income tax burdens; source says qualitatively similar results / results robust, establishing this minimum individually defined outcome. No coefficients, exact percentile/period/sample grid, revenue/GDP outcomes, wage outcomes or later counterfactual implementations inferred. Joint mean and variance are multiple nonbinary excluded instruments, coded other; no included controls counted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4816",
+    "before": null,
+    "after": "Immediate Section I.B context is equation2 personal income tax burdens; source says qualitatively similar results / results robust, establishing this minimum individually defined outcome. No coefficients, exact percentile/period/sample grid, revenue/GDP outcomes, wage outcomes or later counterfactual implementations inferred. Exact weighting and scalar-versus-joint support not established; IV type unknown."
+  }
+]
+```
