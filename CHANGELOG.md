@@ -1709553,3 +1709553,4788 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T22:05:52.064723+00:00 — Review 23M4BA9Q: one-paper adjudicated source-scoped coding
+
+796 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A17106",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17107",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17108",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17109",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17110",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17111",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17106",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17107",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17108",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17109",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17110",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17111",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17106",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17107",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17108",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17109",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17110",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17111",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17107",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17108",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K946",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17106",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17107",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17108",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17109",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17110",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17111",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L946",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17106",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17107",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17108",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17109",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17110",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17111",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M946",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O946",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17106",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17107",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17108",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17109",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17110",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17111",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P946",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17106",
+    "before": null,
+    "after": "Figure5 p.11 and prose: treatment mean deviation rises after slider introduction versus control mean path near its pre-period level; both pre-period groups average about50%. Benchmark is displayed control lender/loan monthly mean path; no plotted endpoints transcribed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17107",
+    "before": null,
+    "after": "Online Appendix Figure1 printedp.15/PDF17: named credit-score bin1–20, December2018 treated allocation compared with pre-intervention treated allocation. Qualitative mean-share pair; no ordinate digitized. Baseline caption November, final fn28 October–November."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17108",
+    "before": null,
+    "after": "Online Appendix Figure1 printedp.15/PDF17: named credit-score bin21–40, December2018 treated allocation compared with pre-intervention treated allocation. Qualitative mean-share pair; no ordinate digitized. Baseline caption November, final fn28 October–November."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17109",
+    "before": null,
+    "after": "Online Appendix Figure1 printedp.15/PDF17: named credit-score bin41–60, December2018 treated allocation compared with pre-intervention treated allocation. Qualitative mean-share pair; no ordinate digitized. Baseline caption November, final fn28 October–November."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17110",
+    "before": null,
+    "after": "Online Appendix Figure1 printedp.15/PDF17: named credit-score bin61–80, December2018 treated allocation compared with pre-intervention treated allocation. Qualitative mean-share pair; no ordinate digitized. Baseline caption November, final fn28 October–November."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17111",
+    "before": null,
+    "after": "Online Appendix Figure1 printedp.15/PDF17: named credit-score bin81–100, December2018 treated allocation compared with pre-intervention treated allocation. Qualitative mean-share pair; no ordinate digitized. Baseline caption November, final fn28 October–November."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q946",
+    "before": null,
+    "after": "p.18: one treatment-SD increase implies a 27% decline in delinquent accounts for private borrowers; Table6B(2) prints −.265 on %Aged. No subgroup outcome mean or normalization formula is supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17106",
+    "before": null,
+    "after": "Randomized at lender-parent level; Figure5 caption does not establish exact loan/lender averaging weights or a fixed common population over the changing panel. Unknown alignment, not automatic alignment from randomization and not a verified loan-weighted construction."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17107",
+    "before": null,
+    "after": "Same treated-lender group but uncontrolled time comparison; required untreated December counterfactual, exact averaging weights and pre-period identity unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17108",
+    "before": null,
+    "after": "Same treated-lender group but uncontrolled time comparison; required untreated December counterfactual, exact averaging weights and pre-period identity unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17109",
+    "before": null,
+    "after": "Same treated-lender group but uncontrolled time comparison; required untreated December counterfactual, exact averaging weights and pre-period identity unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17110",
+    "before": null,
+    "after": "Same treated-lender group but uncontrolled time comparison; required untreated December counterfactual, exact averaging weights and pre-period identity unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17111",
+    "before": null,
+    "after": "Same treated-lender group but uncontrolled time comparison; required untreated December counterfactual, exact averaging weights and pre-period identity unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R946",
+    "before": null,
+    "after": "Possible mere percent/percentage-point interpretation of fractional aged outcome rather than division by a base rate. Existing implied benchmark not established: hold eligibility/normalization/alignment unknown; never backsolve denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R947",
+    "before": null,
+    "after": "p.21 fn43 compares treated/control sales-order growth changes (68%, −44%, +24%), not the level/mean/SD of sales orders. A control change is not other_level of log orders. No qualifying own-outcome benchmark established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12741",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12742",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12743",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12744",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12745",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12746",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12747",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12748",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12749",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12750",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12751",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12752",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12753",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12754",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12755",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12756",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12757",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12758",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12759",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12760",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12761",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12762",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12763",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12764",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12765",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12766",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12767",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12768",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12769",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12770",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12771",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12772",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12773",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12774",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12775",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12776",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12777",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12778",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12779",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12780",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12781",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12741",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12742",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12743",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12744",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12745",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12746",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12747",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12748",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12749",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12750",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12751",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12752",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12753",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12754",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12755",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12756",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12757",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12758",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12759",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12760",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12761",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12762",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12763",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12764",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12765",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12766",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12767",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12768",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12769",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12770",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12771",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12772",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12773",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12774",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12775",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12776",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12777",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12778",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12779",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12780",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12781",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12741",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12742",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12743",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12744",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12745",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12746",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12747",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12748",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12749",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12750",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12751",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12752",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12753",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12754",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12755",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12756",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12757",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12758",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12759",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12760",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12761",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12762",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12763",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12764",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12765",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12766",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12767",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12768",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12769",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12770",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12771",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12772",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12773",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12774",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12775",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12776",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12777",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12778",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12779",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12780",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12781",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12749",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12761",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12763",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12765",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12771",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3425",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3428",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12741",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12742",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12743",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12744",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12745",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12746",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12747",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12748",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12749",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12750",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12751",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12752",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12753",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12754",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12755",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12756",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12757",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12758",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12759",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12760",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12761",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12762",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12763",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12764",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12765",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12766",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12767",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12768",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12769",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12770",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12771",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12772",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12773",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12774",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12775",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12776",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12777",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12778",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12779",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12780",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12781",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3415",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3416",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3417",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3418",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3419",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3421",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3423",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3425",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3427",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3428",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12741",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12742",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12743",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12744",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12745",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12746",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12747",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12748",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12749",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12750",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12751",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12752",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12753",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12754",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12755",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12756",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12757",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12758",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12759",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12760",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12761",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12762",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12763",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12764",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12765",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12766",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12767",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12768",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12769",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12770",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12771",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12772",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12773",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12774",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12775",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12776",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12777",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12778",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12779",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12780",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12781",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3415",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3416",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3417",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3418",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3419",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3421",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3423",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3425",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3427",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3428",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12741",
+    "before": null,
+    "after": "Monthly mean absolute loan/recommendation deviation fraction, Figure5."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12742",
+    "before": null,
+    "after": "Average percentage of treated lenders portfolio allocated to borrowers with machine credit score1–20; Online Appendix Figure1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12743",
+    "before": null,
+    "after": "Average percentage of treated lenders portfolio allocated to borrowers with machine credit score21–40; Online Appendix Figure1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12744",
+    "before": null,
+    "after": "Average percentage of treated lenders portfolio allocated to borrowers with machine credit score41–60; Online Appendix Figure1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12745",
+    "before": null,
+    "after": "Average percentage of treated lenders portfolio allocated to borrowers with machine credit score61–80; Online Appendix Figure1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12746",
+    "before": null,
+    "after": "Average percentage of treated lenders portfolio allocated to borrowers with machine credit score81–100; Online Appendix Figure1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12747",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12748",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12749",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12750",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12751",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12752",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12753",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12754",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12755",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12756",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12757",
+    "before": null,
+    "after": "December-weighted lender portfolio aged/default fraction; TableA6A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12758",
+    "before": null,
+    "after": "December-weighted lender portfolio collection probability; TableA6B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12759",
+    "before": null,
+    "after": "December-weighted lender portfolio aged/default fraction; TableA10A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12760",
+    "before": null,
+    "after": "December-weighted lender portfolio collection probability; TableA10B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12761",
+    "before": null,
+    "after": "December-weighted lender portfolio aged/default fraction; TableA15A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12762",
+    "before": null,
+    "after": "December-weighted lender portfolio collection probability; TableA15B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12763",
+    "before": null,
+    "after": "December-weighted lender portfolio aged/default fraction; TableA19A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12764",
+    "before": null,
+    "after": "December-weighted lender portfolio collection probability; TableA19B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12765",
+    "before": null,
+    "after": "December-weighted lender portfolio Experian score; TableA7A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12766",
+    "before": null,
+    "after": "December-weighted lender portfolio Credit2B score; TableA7B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12767",
+    "before": null,
+    "after": "December-weighted lender portfolio Experian score; TableA11A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12768",
+    "before": null,
+    "after": "December-weighted lender portfolio Credit2B score; TableA11B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12769",
+    "before": null,
+    "after": "December-weighted lender portfolio Experian score; TableA16A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12770",
+    "before": null,
+    "after": "December-weighted lender portfolio Credit2B score; TableA16B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12771",
+    "before": null,
+    "after": "December-weighted lender portfolio Experian score; TableA20A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12772",
+    "before": null,
+    "after": "December-weighted lender portfolio Credit2B score; TableA20B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12773",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12774",
+    "before": null,
+    "after": "Number of borrower-specific comments written by lender in month; TableA21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12775",
+    "before": null,
+    "after": "Individual loan aged/default fraction; TableA23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12776",
+    "before": null,
+    "after": "Individual loan sent to collection indicator; TableA23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12777",
+    "before": null,
+    "after": "Log borrower Experian credit score, explicitly defined in TableA23 caption (PDF48/printed46). Generic score header is not contrary scale evidence; distinct from main-table levels. Reported alternate-appendix definition, not code-verified implementation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12778",
+    "before": null,
+    "after": "Log borrower Credit2B credit score, explicitly defined in TableA23 caption (PDF48/printed46). Generic score header is not contrary scale evidence; distinct from main-table levels. Reported alternate-appendix definition, not code-verified implementation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12779",
+    "before": null,
+    "after": "Absolute loan/recommendation deviation fraction; TableA24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12780",
+    "before": null,
+    "after": "Absolute percentage deviation; .34 CATE is difference of average deviations, not credit-risk score or outcome-SD effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12781",
+    "before": null,
+    "after": "Monthly number of borrower comments including all lenders; untabulated A21 all-lender sensitivity, appendix fn3."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3415",
+    "before": null,
+    "after": "Absolute deviation |(actual loan−machine recommendation)/machine recommendation|; fractional scale in figures/regressions despite percentage wording. Constructed absolute ratio, not log or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3417",
+    "before": null,
+    "after": "Absolute deviation |(actual loan−machine recommendation)/machine recommendation|; fractional scale in figures/regressions despite percentage wording. Constructed absolute ratio, not log or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3418",
+    "before": null,
+    "after": "Absolute deviation |(actual loan−machine recommendation)/machine recommendation|; fractional scale in figures/regressions despite percentage wording. Constructed absolute ratio, not log or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3420",
+    "before": null,
+    "after": "Table6B: credit outcome is not standardized; the discretion treatment is standardized. Outcome units follow table caption."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3422",
+    "before": null,
+    "after": "Table7B: credit outcome is not standardized; the discretion treatment is standardized. Collection is an individual binary indicator, not portfolio share."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3424",
+    "before": null,
+    "after": "Table8B: credit outcome is not standardized; the discretion treatment is standardized. Outcome units follow table caption."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3426",
+    "before": null,
+    "after": "Table9B: credit outcome is not standardized; the discretion treatment is standardized. Outcome units follow table caption."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3428",
+    "before": null,
+    "after": "Quarterly sales/assets ratio; .027 is ratio-unit effect. Not mean-sales-normalized."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E156",
+    "before": null,
+    "after": "DONE — full available-source review and focused independent audit accepted; no omission-free certification or empirical replication. A22 remains held: competing loyalty/foresight versus credit-causes-loyalty author interpretation unresolved; broad inclusion alternative and both means .408/.086 with printed .321 retained in held evidence. A2 diagnostic held. Substantive allocation behavior retained despite take-up heading. Five signed-projection methods unknown; broad IV/single-binary alternative explicit, no conventional signed-dose 2SLS or LATE certified. Full-raw-sign grouping Other: sign is not determined by absolute magnitude; selected-comment eligibility Other with all-lender RCT sensitivity; honest-tree full learned procedure Other with conditional-RCT alternative. Treated-only before/after allocation shares h2 OLS. A23 caption supports log Experian and Credit2B outcomes, with actual-code/version uncertainty rather than invented level conflict. Figure5 weighting unknown: six graphical comparisons comprise five bin baseline pairs and one whole path, no digitized ordinates. 27% denominator unknown, comparison held, no backsolve; control-growth comparison rejected on log-level outcome domain with growth-domain alternative explicit. Original model fields and IDs preserved. Publisher-final supplement identity and actual implementation code unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5444",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5445",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5446",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5447",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5448",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5449",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5450",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5451",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5452",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5453",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5454",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5455",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5456",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5457",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5458",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5459",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5460",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5461",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5462",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5463",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5464",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5465",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5466",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5467",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5468",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5469",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5470",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5471",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5472",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5473",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5474",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5475",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5476",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5477",
+    "before": null,
+    "after": "23M4BA9Q"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5444",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5445",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5446",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5447",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5448",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5449",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5450",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5451",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5452",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5453",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5454",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5455",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5456",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5457",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5458",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5459",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5460",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5461",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5462",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5463",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5464",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5465",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5466",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5467",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5468",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5469",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5470",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5471",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5472",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5473",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5474",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5475",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5476",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5477",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1341",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1348",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1350",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1352",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1353",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5449",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5450",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5463",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5467",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5468",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5473",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5474",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1341",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1342",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1343",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1344",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1345",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1346",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1347",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1348",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1349",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1350",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1351",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1352",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1353",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5444",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5445",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5446",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5447",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5448",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5449",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5450",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5451",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5452",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5453",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5454",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5455",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5456",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5457",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5458",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5459",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5460",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5461",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5462",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5463",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5464",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5465",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5466",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5467",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5468",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5469",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5470",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5471",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5472",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5473",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5474",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5475",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5476",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5477",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1341",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1348",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1352",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1353",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5449",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5450",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5463",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5466",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5467",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5468",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5469",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5473",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1341",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1342",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1343",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1348",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1350",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1352",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1353",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5450",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5454",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5455",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5456",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5458",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5464",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5466",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5467",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5468",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5473",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5475",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5476",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5477",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1341",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1342",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1343",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1344",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1345",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1346",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1347",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1348",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1349",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1350",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1351",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1352",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1353",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5445",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5446",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5447",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5448",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5449",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5450",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5451",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5452",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5453",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5454",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5455",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5456",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5458",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5459",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5460",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5461",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5462",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5463",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5464",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5465",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5466",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5467",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5470",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5471",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5472",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5473",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5474",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5475",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5476",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5477",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1342",
+    "before": null,
+    "after": "Randomized slider assignment effect on log total monthly credit portfolio, Table4A p.14; coefficient −0.038 (SE .161), not +.038. Establishment-month linear regression with lender/month FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1343",
+    "before": null,
+    "after": "Randomized slider effect on absolute percentage deviation conditional on its realized sign, Table4B p.14: baseline −0.010 in column3 and positive-minus-nonpositive differential .589; columns1–3 grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1345",
+    "before": null,
+    "after": "Randomized slider assignment effect on December-weighted portfolio aging, Table6A; January–February2019 post period. All displayed overall/subgroup results including nulls and reversals; overall −.130; private −.162; no-social −.178; high-competition +.249."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1346",
+    "before": null,
+    "after": "Author-described two-stage IV effect of standardized discretionary dose on loan aging, Table6B; overall −.264; private −.265; high-competition +.054. First stage projects absolute deviation on binary randomized Treatment×After with FE; fitted absolute deviation is signed by realized direction and interacted with future After in second stage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1347",
+    "before": null,
+    "after": "Randomized slider assignment effect on December-weighted portfolio collections, Table7A; January–February2019 post period. All displayed overall/subgroup results including nulls and reversals; overall −.006; private −.009; no-social −.009; high-competition +.002."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1348",
+    "before": null,
+    "after": "Author-described two-stage IV effect of standardized discretionary dose on loan collection indicator, Table7B; overall −.001; private −.001; high-competition +.001. First stage projects absolute deviation on binary randomized Treatment×After with FE; fitted absolute deviation is signed by realized direction and interacted with future After in second stage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1349",
+    "before": null,
+    "after": "Randomized slider assignment effect on December-weighted portfolio Experian scores, Table8A; January–February2019 post period. All displayed overall/subgroup results including nulls and reversals; overall +2.763; no-social +3.892; high-competition −.825."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1350",
+    "before": null,
+    "after": "Author-described two-stage IV effect of standardized discretionary dose on Experian credit score, Table8B; overall +3.476; private +3.488; high-competition −1.065. First stage projects absolute deviation on binary randomized Treatment×After with FE; fitted absolute deviation is signed by realized direction and interacted with future After in second stage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1351",
+    "before": null,
+    "after": "Randomized slider assignment effect on December-weighted portfolio Credit2B scores, Table9A; January–February2019 post period. All displayed overall/subgroup results including nulls and reversals; overall +2.544; private +1.537; no-social +1.697; high-competition −1.246."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1352",
+    "before": null,
+    "after": "Author-described two-stage IV effect of standardized discretionary dose on Credit2B credit score, Table9B; overall +3.161; private +3.175; high-competition −2.191. First stage projects absolute deviation on binary randomized Treatment×After with FE; fitted absolute deviation is signed by realized direction and interacted with future After in second stage."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5444",
+    "before": null,
+    "after": "Randomized slider assignment and monthly mean absolute-deviation paths, Figure5 p.11; October2018–February2019, post-treatment December–February."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5445",
+    "before": null,
+    "after": "Before/after introduction of slider within treated lenders: five credit-score-bin portfolio allocation shares, Online Appendix Figure1 printedp.15 (PDF17), section1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5446",
+    "before": null,
+    "after": "Online Appendix TableA1, printedp.16 / PDF18: Randomized slider assignment effect on absolute deviations by prior demand-volatility subgroup; printed coefficients .133/.130, and prose highest/lowest quartile sensitivity. Finalp.24 establishes scope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5447",
+    "before": null,
+    "after": "Online Appendix TableA3, printedp.18 / PDF20: Randomized slider effect on deviation by borrower type controlling for transaction-sequence quartile; finalpp.23–24. All eight groups, nulls included."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5448",
+    "before": null,
+    "after": "Online Appendix TableA4, printedp.19 / PDF21: Randomized slider assignment effect: Less-than10% pre-period deviation sample, take-up regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5449",
+    "before": null,
+    "after": "Online Appendix TableA5, printedp.20 / PDF22: Randomized slider assignment effect: Less-than10% pre-period deviation sample, borrower-type heterogeneity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5450",
+    "before": null,
+    "after": "Online Appendix TableA8, printedp.25 / PDF27: Randomized slider assignment effect: Pre-existing lender–borrower relationships, take-up regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5451",
+    "before": null,
+    "after": "Online Appendix TableA9, printedp.26 / PDF28: Randomized slider assignment effect: Pre-existing relationships, borrower-type heterogeneity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5452",
+    "before": null,
+    "after": "Online Appendix TableA12, printedp.31 / PDF33: Randomized slider assignment effect: Balanced panel with missing transactions set to zero loan amounts, take-up regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5453",
+    "before": null,
+    "after": "Online Appendix TableA14, printedp.33 / PDF35: Randomized slider assignment effect: Balanced panel including imputed loan rejections, borrower-type heterogeneity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5454",
+    "before": null,
+    "after": "Online Appendix TableA17, printedp.38 / PDF40: Randomized slider assignment effect: Borrowers with only one lender, take-up; no borrower×month FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5455",
+    "before": null,
+    "after": "Online Appendix TableA18, printedp.39 / PDF41: Randomized slider assignment effect: Borrowers with only one lender, six borrower-type groups; no competition split and no borrower×month FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5456",
+    "before": null,
+    "after": "Online Appendix TableA6A, printedp.21 / PDF23: Randomized slider assignment effect on portfolio aging; less-than10% pre-period deviation sample; all displayed overall/subgroup nulls/reversals."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5457",
+    "before": null,
+    "after": "Online Appendix TableA6B, printedp.22 / PDF24: Randomized slider assignment effect on portfolio collections; less-than10% pre-period deviation sample; all displayed overall/subgroup nulls/reversals."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5458",
+    "before": null,
+    "after": "Online Appendix TableA10A, printedp.27 / PDF29: Randomized slider assignment effect on portfolio aging; pre-existing relationships sample; all displayed overall/subgroup nulls/reversals."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5459",
+    "before": null,
+    "after": "Online Appendix TableA10B, printedp.28 / PDF30: Randomized slider assignment effect on portfolio collections; pre-existing relationships sample; all displayed overall/subgroup nulls/reversals."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5460",
+    "before": null,
+    "after": "Online Appendix TableA15A, printedp.34 / PDF36: Randomized slider assignment effect on portfolio aging; balanced panel including imputed rejections sample; all displayed overall/subgroup nulls/reversals."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5461",
+    "before": null,
+    "after": "Online Appendix TableA15B, printedp.35 / PDF37: Randomized slider assignment effect on portfolio collections; balanced panel including imputed rejections sample; all displayed overall/subgroup nulls/reversals."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5462",
+    "before": null,
+    "after": "Online Appendix TableA19A, printedp.40 / PDF42: Randomized slider assignment effect on portfolio aging; single-lender borrowers sample; all displayed overall/subgroup nulls/reversals."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5463",
+    "before": null,
+    "after": "Online Appendix TableA19B, printedp.41 / PDF43: Randomized slider assignment effect on portfolio collections; single-lender borrowers sample; all displayed overall/subgroup nulls/reversals."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5464",
+    "before": null,
+    "after": "Online Appendix TableA7A, printedp.23 / PDF25: Randomized slider assignment effect on portfolio Experian score; less-than10% pre-period deviation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5465",
+    "before": null,
+    "after": "Online Appendix TableA7B, printedp.24 / PDF26: Randomized slider assignment effect on portfolio Credit2B score; less-than10% pre-period deviation sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5466",
+    "before": null,
+    "after": "Online Appendix TableA11A, printedp.29 / PDF31: Randomized slider assignment effect on portfolio Experian score; pre-existing relationships sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5467",
+    "before": null,
+    "after": "Online Appendix TableA11B, printedp.30 / PDF32: Randomized slider assignment effect on portfolio Credit2B score; pre-existing relationships sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5468",
+    "before": null,
+    "after": "Online Appendix TableA16A, printedp.36 / PDF38: Randomized slider assignment effect on portfolio Experian score; balanced panel including imputed rejections sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5469",
+    "before": null,
+    "after": "Online Appendix TableA16B, printedp.37 / PDF39: Randomized slider assignment effect on portfolio Credit2B score; balanced panel including imputed rejections sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5470",
+    "before": null,
+    "after": "Online Appendix TableA20A, printedp.42 / PDF44: Randomized slider assignment effect on portfolio Experian score; single-lender borrowers sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5471",
+    "before": null,
+    "after": "Online Appendix TableA20B, printedp.43 / PDF45: Randomized slider assignment effect on portfolio Credit2B score; single-lender borrowers sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5472",
+    "before": null,
+    "after": "Online Appendix TableA13, printedp.32 / PDF34: Randomized slider effect on positive versus nonpositive deviations in balanced panel, .051/.048/.093 baseline and .414/.427/.391 differential; sign is realized outcome-derived grouping."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5473",
+    "before": null,
+    "after": "Online Appendix TableA21, printedp.44 / PDF46: Randomized slider assignment effect on monthly number of borrower comments, .319(SE1.861), restricted to lenders with at least one comment during sample."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5474",
+    "before": null,
+    "after": "Online Appendix TableA23, printedp.46 / PDF48: Author-described signed-fitted-deviation IV on individual aged fraction, collection indicator and two credit scores, private social-media borrowers split by prior-year credit history; all null results."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5475",
+    "before": null,
+    "after": "Online Appendix TableA24, printedp.47 / PDF49: Randomized slider effect on deviation interacted with lender size/employees or public-lender segment count; .029 and−.087 heterogeneity nulls. Finalp.13 fn29."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5476",
+    "before": null,
+    "after": "Randomized slider assignment conditional effect on absolute deviation via Athey–Imbens causal tree, finalp.24/fn46 and Online Appendix section4.2 printedpp.11–13/PDF13–15; CATE .34 for private borrowers with≤1 social account and≥4 suppliers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5477",
+    "before": null,
+    "after": "Randomized slider assignment effect on monthly borrower-comment counts including all lenders, Online Appendix section2.7 fn3 printedp.8/PDF10; inferences similar to A21."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1341",
+    "before": null,
+    "after": "Table3 pp.12–13: direct assignment effect on discretion behavior, retained as behavioral mechanism (18% language is not a verified outcome-mean normalization). Narrow diagnostic-only take-up exclusion is an explicit audit alternative. No extra FE-method settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1342",
+    "before": null,
+    "after": "Substantive fixed-credit-supply null, not balance/first-stage diagnostic."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1343",
+    "before": null,
+    "after": "Full procedure uses Positive=1{signed deviation>0}, a function of the focal absolute-deviation construction, as an interaction selecting outcome-side groups. Conditional fixed-sign linear RCT is the alternative; full underlying loan/deviation procedure is outcome-adaptive. Do not interpret differential as total positive effect; assignment remains binary. Domain qualification: the sign is not recoverable from absolute deviation alone. Other here evaluates the complete raw signed-deviation panel; holding observed sign fixed gives a linear assignment regression on the reported absolute outcome. This is a taxonomy convention, not proof that every conditional regression is nonlinear."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1344",
+    "before": null,
+    "after": "Table5: treatment heterogeneity by borrower attributes, not separate causal effects of public status/social media/competition. p.16 says column7 significant and8 insignificant, but printed table has .120 without star and .167 with one star; preserve table/prose conflict. Subgroup timing is not fully established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1345",
+    "before": null,
+    "after": "December2018 loan-allocation weights construct the portfolio outcome and are then fixed; not an outcome-selected regression-weight estimator. Code linear RCT on the reported constructed portfolio outcome, not the proprietary upstream score model. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1346",
+    "before": null,
+    "after": "Section7.3.2 p.18 equations2–3 and fn41: December deviation held fixed through February; excluded first-stage variable Treatment×After is single binary. Preserve nonstandard signing after projection: not established as conventional 2SLS projection of signed dose or a textbook complier LATE. Conditional on constructed dose/sign/first stage, response is linear in reported credit outcome; no focal-credit-outcome-trained ML evidence. Unknown method/IV type pending compatibility evidence; IV/single-binary under a broader author-described two-stage convention is the audit alternative. Collection null caveat does not demote main-role status relative to other corroborating credit-risk outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1347",
+    "before": null,
+    "after": "December2018 loan-allocation weights construct the portfolio outcome and are then fixed; not an outcome-selected regression-weight estimator. Code linear RCT on the reported constructed portfolio outcome, not the proprietary upstream score model. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1348",
+    "before": null,
+    "after": "Section7.3.2 p.18 equations2–3 and fn41: December deviation held fixed through February; excluded first-stage variable Treatment×After is single binary. Preserve nonstandard signing after projection: not established as conventional 2SLS projection of signed dose or a textbook complier LATE. Conditional on constructed dose/sign/first stage, response is linear in reported credit outcome; no focal-credit-outcome-trained ML evidence. Unknown method/IV type pending compatibility evidence; IV/single-binary under a broader author-described two-stage convention is the audit alternative. Collection null caveat does not demote main-role status relative to other corroborating credit-risk outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1349",
+    "before": null,
+    "after": "December2018 loan-allocation weights construct the portfolio outcome and are then fixed; not an outcome-selected regression-weight estimator. Code linear RCT on the reported constructed portfolio outcome, not the proprietary upstream score model. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1350",
+    "before": null,
+    "after": "Section7.3.2 p.18 equations2–3 and fn41: December deviation held fixed through February; excluded first-stage variable Treatment×After is single binary. Preserve nonstandard signing after projection: not established as conventional 2SLS projection of signed dose or a textbook complier LATE. Conditional on constructed dose/sign/first stage, response is linear in reported credit outcome; no focal-credit-outcome-trained ML evidence. Unknown method/IV type pending compatibility evidence; IV/single-binary under a broader author-described two-stage convention is the audit alternative. Collection null caveat does not demote main-role status relative to other corroborating credit-risk outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1351",
+    "before": null,
+    "after": "December2018 loan-allocation weights construct the portfolio outcome and are then fixed; not an outcome-selected regression-weight estimator. Code linear RCT on the reported constructed portfolio outcome, not the proprietary upstream score model. Table9 title/caption/text establish Credit2B; panel spanners incorrectly say Experian and panelB dependent-variable heading says Collection."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1352",
+    "before": null,
+    "after": "Section7.3.2 p.18 equations2–3 and fn41: December deviation held fixed through February; excluded first-stage variable Treatment×After is single binary. Preserve nonstandard signing after projection: not established as conventional 2SLS projection of signed dose or a textbook complier LATE. Conditional on constructed dose/sign/first stage, response is linear in reported credit outcome; no focal-credit-outcome-trained ML evidence. Unknown method/IV type pending compatibility evidence; IV/single-binary under a broader author-described two-stage convention is the audit alternative. Collection null caveat does not demote main-role status relative to other corroborating credit-risk outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1353",
+    "before": null,
+    "after": "Table10 p.23: log orders .679 and sales/assets .027. p.21/fn43 interprets these as 68% and2.7%; .027 is on sales/assets scale, not normalization by mean sales. fn43 compares changes (control −44%, treated +24%), not an outcome-level benchmark; its phrase relative to treatment group conflicts with surrounding control-group description."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5444",
+    "before": null,
+    "after": "Substantive displayed behavioral response retained separately from Table3 regression, not pretrend-only. Diagnostic-only exclusion alternative accompanies s1. Linear group means under direct assignment; no digitized ordinates."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5445",
+    "before": null,
+    "after": "Final p.13 fn28 explicitly interprets reallocation toward machine-rated lower-quality borrowers. Only treated lenders before/after, no randomized control contrast in this estimator: OLS/linear mean contrast, not RCT or DiD. Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Caption November2018 baseline conflicts with final fn28 October–November wording; table-free qualitative pairings kept with unknown temporal/target alignment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5446",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5447",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5448",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Take-up-only exclusion alternative for A4/A8/A12/A17; retained broad behavior-mechanism convention consistent with s1. Social-media captions in some appendix tables name Facebook/LinkedIn while final names Twitter too; preserve alternate provenance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5449",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Take-up-only exclusion alternative for A4/A8/A12/A17; retained broad behavior-mechanism convention consistent with s1. Social-media captions in some appendix tables name Facebook/LinkedIn while final names Twitter too; preserve alternate provenance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5450",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Take-up-only exclusion alternative for A4/A8/A12/A17; retained broad behavior-mechanism convention consistent with s1. Social-media captions in some appendix tables name Facebook/LinkedIn while final names Twitter too; preserve alternate provenance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5451",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Take-up-only exclusion alternative for A4/A8/A12/A17; retained broad behavior-mechanism convention consistent with s1. Social-media captions in some appendix tables name Facebook/LinkedIn while final names Twitter too; preserve alternate provenance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5452",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Take-up-only exclusion alternative for A4/A8/A12/A17; retained broad behavior-mechanism convention consistent with s1. Social-media captions in some appendix tables name Facebook/LinkedIn while final names Twitter too; preserve alternate provenance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5453",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Take-up-only exclusion alternative for A4/A8/A12/A17; retained broad behavior-mechanism convention consistent with s1. Social-media captions in some appendix tables name Facebook/LinkedIn while final names Twitter too; preserve alternate provenance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5454",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Take-up-only exclusion alternative for A4/A8/A12/A17; retained broad behavior-mechanism convention consistent with s1. Social-media captions in some appendix tables name Facebook/LinkedIn while final names Twitter too; preserve alternate provenance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5455",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Take-up-only exclusion alternative for A4/A8/A12/A17; retained broad behavior-mechanism convention consistent with s1. Social-media captions in some appendix tables name Facebook/LinkedIn while final names Twitter too; preserve alternate provenance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5456",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5457",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Some A6B columns have printed zeros and missing SE/R-squared; no claim of estimated precision or nonzero event mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5458",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5459",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Some A6B columns have printed zeros and missing SE/R-squared; no claim of estimated precision or nonzero event mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5460",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5461",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Some A6B columns have printed zeros and missing SE/R-squared; no claim of estimated precision or nonzero event mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5462",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5463",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Some A6B columns have printed zeros and missing SE/R-squared; no claim of estimated precision or nonzero event mass."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5464",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5465",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5466",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5467",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5468",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5469",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5470",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5471",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5472",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Same full-procedure outcome-adaptive versus conditional fixed-sign RCT alternative as s3; no total effects manufactured. Domain qualification: the sign is not recoverable from absolute deviation alone. Other here evaluates the complete raw signed-deviation panel; holding observed sign fixed gives a linear assignment regression on the reported absolute outcome. This is a taxonomy convention, not proof that every conditional regression is nonlinear."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5473",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Substantive monitoring-effort null, not ordinary balance. Final regression is linear DD, but sample eligibility is selected using the focal comment outcome over the analysis period: complete selected-outcome procedure coded Other. Conditional fixed eligible-sample RCT is the alternative. All-lender sensitivity from fn3 retained separately as h34."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5474",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Same single-binary first-stage assignment and nonstandard post-projection signing caveat as main author-described IV; method and IV type unknown pending compatible-projection evidence. A23 caption explicitly specifies log Experian and log Credit2B scores; adopt those reported scales for this appendix scope. Generic score headings do not independently contradict the caption, and main-table levels are a different scope. No public implementation recovered; actual code and publisher-final version remain unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5475",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Continuous firm characteristics dichotomized as moderators; assignment remains binary. Borrower and borrower×month FE controls do not create a separate method."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5476",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Honest split-sample leaf estimation, pruning and cross-validation are described. Conditional on an independently trained fixed tree, held-out leaf mean contrast is linear RCT; complete reported procedure including learned partition/selection of largest effect is outcome-adaptive Other. No separate causal effects of splitting covariates; no risk-outcome CATE inferred from generic main-text wording."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5477",
+    "before": null,
+    "after": "Author-publication-linked July2020 Online Appendix (49PDF pages), not verified publisher-final byte identity. Minimum individually named all-lender monitoring-effort sensitivity; same linear assignment/DD specification from surrounding paragraph, without the full-period positive-comment eligibility used in h30. No coefficient or precision invented. This removes an outcome-selected sample rule, not a gratuitous routine-control split."
+  }
+]
+```
