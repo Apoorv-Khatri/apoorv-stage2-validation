@@ -1469781,3 +1469781,2088 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T07:32:14.559125+00:00 — Review UBSQ2SYX: one-paper adjudicated source-scoped coding
+
+346 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A14698",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14699",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14698",
+    "before": null,
+    "after": "s11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14699",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14698",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14699",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K815",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K817",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14698",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14699",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L820",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L821",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14698",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14699",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M820",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M821",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14698",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14698",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14699",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P820",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P821",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14698",
+    "before": null,
+    "after": "Section VI p.837: eliminating systematic bias improves welfare by at least16%, following additional loss0.008 in p.837 and current average treatment benefit0.05 in p.836. Derived log-odds-survival welfare per patient, not a survival rate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14699",
+    "before": null,
+    "after": "Section VI p.838: average benefit across all patients increases by14%, from0.050 to0.057, when treatment is removed for the stated low-benefit patients. Benchmark is current-policy average derived benefit, same log-odds-survival units and all-patient sample. Linked welfare strategy script constructs current and changed effects with untreated zeros and takes patient means."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q820",
+    "before": null,
+    "after": "Section VI pp.836–837, equation8b: removing threshold variation increases derived average welfare benefit by 0.014 log-odds-survival units per patient, reported 28% of existing average benefit0.05 (=treated benefit0.265 times treatment share19%). This is a current-policy level of the derived welfare outcome, not observed survival probability."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q821",
+    "before": null,
+    "after": "Section VI pp.836–837, equation8b: removing threshold variation plus systematic bias increases derived average welfare benefit by 0.022 log-odds-survival units per patient, reported 44% of existing average benefit0.05 (=treated benefit0.265 times treatment share19%). This is a current-policy level of the derived welfare outcome, not observed survival probability."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14698",
+    "before": null,
+    "after": "Bias component distinct from variation-only28% and total44%; same policy-value eligibility dispute and unresolved hospital/patient aggregation weights."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14699",
+    "before": null,
+    "after": "Aligned under maintained same-patient policy-value calculation, not a claim about observed untreated survival. Exact patient-only versus full-effect cutoff implementation remains a source/code conflict; no replication. Policy-value eligibility requires parent adjudication consistently with s11."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R812",
+    "before": null,
+    "after": "Wrong setting and effect-to-effect:0.207 belongs to Table VI s7, trial0.20 is an effect, and separate overall survival81% is not linked to that focal effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R813",
+    "before": null,
+    "after": "Effect-to-effect comparison: heterogeneity slope0.040 versus treatment effect0.039, not an outcome level. Treatment-index SD is not outcome SD."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R814",
+    "before": null,
+    "after": "Hospital-effect SD0.3 is a treatment/moderator SD, not survival mean/SD; one-point or7% effect interpretation supplies no outcome benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R815",
+    "before": null,
+    "after": "Footnote9 p.814 is generic conversion of0.3 log odds using survival80%, not an identified Table II s4 coefficient. Hold possible Figure IV illustrative allocation outside additions."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R816",
+    "before": null,
+    "after": "Threshold/treatment-effect SD0.313 versus mean treatment effect0.314 is effect-to-effect, not survival level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R817",
+    "before": null,
+    "after": "Baseline-productivity SD0.198 is not the focal reperfusion effect; 81% conversion pertains to random intercept dispersion, not s6 treatment response. Also source81% differs from Table I untreated80%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R818",
+    "before": null,
+    "after": "CCP0.207 versus trial0.20 is effect-to-effect; 35-day trial mortality levels do not benchmark the focal30-day CCP response."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R819",
+    "before": null,
+    "after": "Comparative-advantage SD0.317 versus average treatment effect is primitive/effect comparison, not same-outcome level for signal-to-belief response."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R820",
+    "before": null,
+    "after": "Eligibility uses policy-value outcome convention; competing effect-to-effect exclusion is explicit in held ledger. Mean across all patients, but threshold variance/mean hospital aggregation weights and approximation do not establish exact target-weight alignment; unknown, not automatic1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R821",
+    "before": null,
+    "after": "Eligibility uses policy-value outcome convention; competing effect-to-effect exclusion is explicit in held ledger. Mean across all patients, but threshold variance/mean hospital aggregation weights and approximation do not establish exact target-weight alignment; unknown, not automatic1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R822",
+    "before": null,
+    "after": "Real policy-value comparison but distinct guideline treatment h7; preserve original rejected row and add correct parent comparison."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11600",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11601",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11602",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11603",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11604",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11605",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11606",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11607",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11608",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11609",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11610",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11600",
+    "before": null,
+    "after": "s10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11601",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11602",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11603",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11604",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11605",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11606",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11607",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11608",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11609",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11610",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11600",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11601",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11602",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11603",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11604",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11605",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11606",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11607",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11608",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11609",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11610",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11601",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11605",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11606",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11607",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11609",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11610",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3052",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3054",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3055",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11601",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11605",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11606",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11607",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11609",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11610",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3052",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3054",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3055",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11601",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11602",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11603",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11604",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11605",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11606",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11607",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11609",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11610",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3041",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3043",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3044",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3045",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3046",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3047",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3048",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3049",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3050",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3051",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3052",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3054",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3055",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11600",
+    "before": null,
+    "after": "Hospital belief/predicted comparative advantage theta; response per unit noisy signal S is weight w in structural equation theta=w*S, pp.832–835. No separately observed belief regression and no survival-outcome expansion."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11601",
+    "before": null,
+    "after": "30-day survival indicator, Figure I C; conditional reperfusion log-odds effects by patient-only propensity."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11602",
+    "before": null,
+    "after": "30-day survival indicator in all-patient and low-propensity samples in Figure V; do not make each plotted coordinate an outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11603",
+    "before": null,
+    "after": "30-day survival indicator, minimum Appendix III linear-FE robustness confirmed by final p.825 footnote11 and linked tables_2_3_5_appx3 script."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11604",
+    "before": null,
+    "after": "30-day survival indicator, minimum Appendix III logit robustness; exact control variant allocation unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11605",
+    "before": null,
+    "after": "One-year spending, in $1,000 (hospital and physician spending discussed in footnote12). Effect+2.3, with $164 between extreme hospital-intensity terciles in the treatment effect; exact spending construction/transform and zeros not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11606",
+    "before": null,
+    "after": "Average derived welfare benefit per patient, in log-odds-survival units relative to no reperfusion. Reported loss -0.013 from standardizing hospital belief versus perfect hospital information."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11607",
+    "before": null,
+    "after": "Average treatment benefit across all patients in log-odds-survival units, current-policy0.050 versus guideline-policy0.057; estimated individual effects enter constructed mean; not individual binary survival."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11608",
+    "before": null,
+    "after": "Average probability of receiving reperfusion under threshold shift, Section VI p.836; numerical derivative -0.26 per tau unit. Patient-average logistic probabilities, not individually realized treatment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11609",
+    "before": null,
+    "after": "30-day survival indicator in the Table V logit; treatment is reperfusion receipt. Retain the substantive treatment-response outcome, not diagnostic p-values or a separate outcome for each interaction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11610",
+    "before": null,
+    "after": "30-day survival indicator in the final-p.822 untabulated linear-FE counterpart; treatment is reperfusion receipt. Retain the substantive treatment-response outcome, not diagnostic p-values or a separate outcome for each interaction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3041",
+    "before": null,
+    "after": "Survival indicator at 30 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3042",
+    "before": null,
+    "after": "duplicate of y1: hospital-specific treatment-effect parameter on the same30-day survival outcome, not a separately estimated dependent variable."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3043",
+    "before": null,
+    "after": "Survival indicator at 30 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. Figure IV only; Figure V is h2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3044",
+    "before": null,
+    "after": "Survival indicator at 30 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3045",
+    "before": null,
+    "after": "Survival indicator at 30 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3046",
+    "before": null,
+    "after": "Survival indicator at 7 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3047",
+    "before": null,
+    "after": "Survival indicator at 360 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3048",
+    "before": null,
+    "after": "Survival indicator at 30 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3049",
+    "before": null,
+    "after": "Survival indicator at 30 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3050",
+    "before": null,
+    "after": "Survival indicator at 30 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3051",
+    "before": null,
+    "after": "Survival indicator at 30 days. Logit coefficients are log odds, but dependent outcome is an untransformed binary indicator; deaths provide zero observations. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3052",
+    "before": null,
+    "after": "spurious outcome definition for Table IX: fitted primitive distributions do not constitute a reported causal survival outcome. Correct retained signal-to-belief response is hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3053",
+    "before": null,
+    "after": "Average derived treatment benefit/welfare per patient in log-odds-survival units relative to no reperfusion. Equation8b estimates loss/change in this benefit from threshold distortions; not an individual binary survival outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3054",
+    "before": null,
+    "after": "duplicate baseline level of corrected y1, not a separate outcome. Patient-guideline policy contrast is h7/hy1."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3055",
+    "before": null,
+    "after": "duplicate normalization of corrected y1; 28%/44% are comparisons, not distinct dependent outcomes."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E140",
+    "before": null,
+    "after": "DONE — source-scoped review and focused independent audit completed under parent adjudication; not omission-free final-source certification or empirical replication. Table V lower-order treatment responses retained as h10 logit and h11 identifying FE; diagnostic triple-interaction tests excluded. Unwritten h9 removed; one-year survival 0.04 remains held without asserting equivalence to the 360-day scope. s3 identifying FE, s9 central mechanism null and s10 signal-to-belief structural response retained; primitive-only exclusion remains explicit. Welfare 28/44/16/14 normalizations consistently retained in the derived policy-value domain; strict all-four effect-to-effect exclusion remains the alternative. s11 alignment unknown; h7 same-patient alignment maintained, algorithms unresolved. Final appendix unavailable; minimum established implementations retained, unseen allocations held. All paper/code conflicts preserved, including script stop before later blocks and .43 comment versus executable/final .44. Static code inspection only, not replication. Held evidence remains outside application; no unseen-source completeness claimed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4967",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4968",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4969",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4970",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4971",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4972",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4973",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4974",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4975",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4976",
+    "before": null,
+    "after": "UBSQ2SYX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4967",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4968",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4969",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4970",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4971",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4972",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4973",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4974",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4975",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4976",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1210",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1211",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1212",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1213",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1214",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1215",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1216",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1217",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1218",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1219",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1220",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4967",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4968",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4969",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4970",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4971",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4972",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4973",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4974",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4975",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4976",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1216",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1210",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1211",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1212",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1213",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1214",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1215",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1216",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1217",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1218",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1219",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1220",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4967",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4968",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4969",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4970",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4971",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4973",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4974",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4975",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4976",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1210",
+    "before": null,
+    "after": "Reperfusion within 12 hours versus no reperfusion: 30-day survival, hospital random-intercept/random-slope logit and empirical-Bayes hospital effects, Figure I A (pp.794–796). Figure I C local-logit scope is h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1211",
+    "before": null,
+    "after": "Reperfusion effect on 30-day survival by full propensity index in low/high hospital-treatment terciles, Figure IV (pp.812–814). Locally weighted logit with estimated offset; Figure V separately h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1212",
+    "before": null,
+    "after": "Reperfusion effect on 30-day survival, Table II cols1–4: linear probability regressions with identifying hospital FE; propensity interactions and hospital-rate interactions as reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1219",
+    "before": null,
+    "after": "Estimated response of hospital belief about comparative advantage to a noisy signal: theta=w*S, structural minimum-chi-square estimates, Table IX pp.832–835. Pooled w=.154 versus reliability r=.065, constrained and volume-reliability variants. Continuous signal, not binary reperfusion receipt."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1220",
+    "before": null,
+    "after": "Structural welfare loss from hospital threshold distortion (variance and systematic bias) and its elimination; Section VI equations8a–8b pp.835–837. Derived average welfare benefit in log-odds-survival units per patient, relative to no reperfusion. Losses0.014, additional0.008, total0.022; no actual survival-probability prediction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4967",
+    "before": null,
+    "after": "Figure I C pp.795–797: reperfusion versus none on30-day survival, locally weighted logit by patient-characteristic propensity (excluding hospital intercept), high/low hospital-intensity terciles."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4968",
+    "before": null,
+    "after": "Figure V pp.814–815: reperfusion effect on30-day survival by hospital propensity intercept, all patients and low propensity (below20%) variants; local logit controlling nonparametrically for full propensity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4969",
+    "before": null,
+    "after": "Online Appendix III minimum final-established robustness: reperfusion effect on30-day survival in linear probability models with hospital FE, age-sex-race-only survival controls and variants also re-estimating propensity. Final p.825 footnote11; linked table/appendix script."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4970",
+    "before": null,
+    "after": "Online Appendix III minimum final-established robustness: reperfusion effect on30-day survival in fixed-effects logit, age-sex-race controls and propensity variants; final p.825 footnote11 and linked script."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4971",
+    "before": null,
+    "after": "Reperfusion versus none: one-year spending increase $2.3k, Section IV.B.5 pp.825–826; most-versus-least intensive hospital-tercile difference in spending effect $164 (footnote12)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4972",
+    "before": null,
+    "after": "Standardize all hospitals to a common belief theta versus first-best hospital-specific perfect information: structural welfare loss -0.013 log-odds-survival units per patient, Section VI pp.837–838."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4973",
+    "before": null,
+    "after": "Patient-guideline policy eliminating treatment below predicted-benefit cutoff versus current treatment: average treatment benefit rises from0.050 to0.057 (14%), Section VI p.838."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4974",
+    "before": null,
+    "after": "Small increase in hospital treatment threshold tau and probability of reperfusion: dPr(Treatment)/dtau=-0.26, Section VI p.836."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4975",
+    "before": null,
+    "after": "Table V fixed-effects logit reperfusion effect on30-day survival, allowing hospital-characteristic interactions with the propensity index. Hospital-rate slope -0.216 is interpreted as a downward benefit shift; volume/teaching variants grouped at the same table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4976",
+    "before": null,
+    "after": "Untabulated linear hospital-FE counterpart to Table V reperfusion/30-day-survival robustness, p.822: OLS models gave very similar results. Minimum implemented scope only; no unprinted coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1210",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. The hospital treatment-effect coefficient is a response parameter, not a second dependent outcome. Figure I B is a treatment-propensity description."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1211",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Text calls this local-linear, but log-odds axis and publication-linked figure code lines187–195 establish local logit; no separate linear estimator inferred. Code shows treatment propensity/tercile construction; final figures were manually edited per readme."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1212",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. All four columns absorb hospital FE (p.815 explicitly says theory requires conditioning on them; code areg absorb(hosp)). No no-FE OLS split. Linearity in reported survival conditional on treatment/covariates: propensity is estimated from treatment, not survival. Printed 0.039 is a probability-unit change (3.9 percentage points); -0.031 is -3.1 points per hospital-index unit, not -0.031 points. Table caption uses percentage-point wording without multiplying cells by100."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1213",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Table II cols5–7 are fixed-effects logits, not FE under the linear-method taxonomy. Cells are log-odds coefficients, not odds ratios despite p.815 wording; table note and code xtlogit support log odds. Footnote9 does not identify a Table II focal estimate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1214",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Table III: distinct 7-day and360-day binary survival outcomes, logit effect scale is not a transformation of the dependent indicator. Routine linear/nonparametric propensity controls grouped. The one-year survival illustration of 0.04 on p.826 is preserved in held evidence, not assigned a distinct estimator or equated numerically to the 360-day logit. No separate h9 is appended without evidence that it is a distinct analysis rather than prose reuse."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1215",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Table IV hospital random intercept/slope logit; threshold SD and baseline productivity SD are fitted heterogeneity parameters, not extra dependent outcomes or reperfusion-effect benchmarks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1216",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Table VI retains explicitly interpreted reperfusion survival effects, including no-control and richer-control sensitivity, despite identification-validation purpose. Comparisons with RCT treatment effects are effect-to-effect, not survival-level benchmarks."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1217",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Table VII joint hierarchical logit; preliminary simple logits generate patient indices (footnote13), then joint random-effects likelihood. Threshold/covariance moments are not separate survival outcomes. Appendix IV primitive sensitivity not an extra intervention result."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1218",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Table VIII null treatment-effect heterogeneity is substantive evidence against financial/teaching mechanisms and is central in introduction pp.787–788. Not a diagnostic-only null. Source conflict: p.830 reports p=.96, p.831 table note p=.097, both with chi-square2.96; preserve rather than repair. Published code testparm lists nine interactions, but no execution performed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1219",
+    "before": null,
+    "after": "Parameter-specific author-intention inclusion: authors explicitly interpret w as overweighting/overreacting to the signal (pp.833–835), a belief response. Nonlinear recovery from hierarchical-logit moments, not OLS of beliefs. Primitive SDs, reliabilities and fit statistics are not survival-response outcomes; broad exclusion of all structural primitives is the competing gate for focused adjudication. No claim that volume was randomized or that reliability differences estimate a causal volume effect. Independent audit retains the response slope under the broad author-intention rule: theta=w*S specifies a directional signal-to-belief response and p.834 interprets w as overreaction. This does not promote all recovered primitive distributions or volume associations into causal outcomes."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1220",
+    "before": null,
+    "after": "Nonlinear complete calculation uses estimated threshold variance/squared mean and nonlinear treatment probability derivative. Retain distortion-removal scenarios together under equation8b, binary0 for varying threshold distortion. Separately implemented common-hospital-standardization and patient-guideline policies are h6/h7. Welfare baseline0.05 is a level of the derived policy-value outcome, not a survival rate; comparison eligibility is contested if all treatment-benefit baselines are treated as effect-to-effect. Parent must adjudicate consistently. Independent audit accepts the derived policy-value outcome domain consistently for28%,44%,16% and guideline14%; alternative strict effect-to-effect exclusion would reject all four. Unknown alignment remains distinct from eligibility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4967",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Separate estimator from s1 random-coefficient plot. Effect paths, not survival-level paths; no pointwise benchmark grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4968",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Caption says locally weighted logit; prose local-linear nomenclature does not establish OLS. Publication-linked code uses offset logits; low-propensity span .5 versus .3 for full sample. Effect zero line is not a survival-level benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4969",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Final main establishes implemented re-estimation of Table II; appendix PDF unavailable. Code areg absorb(hosp) confirms linear FE scope. No exact appendix coefficient grid asserted; code-only7/360-day linear extensions held. The shared script contains stop before these blocks; static commands corroborate intended estimator specification, not proof of a complete executable run. Final prose independently establishes implemented minimum results."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4970",
+    "before": null,
+    "after": "Observational selection-on-gains argument, not randomized assignment: conditional on clinical controls and hospital baseline productivity, untreated-survival unobservables are assumed unrelated to treatment/gains (pp.807–810). No excluded instrument. Script has a labvalues-versus-age-sex-race control inconsistency in parametric logit blocks and retains earlier hospital-rate interaction in re-estimated-propensity blocks. Final appendix inaccessible; do not certify exact implemented control grids or coefficients. The shared script contains stop before these blocks; static commands corroborate intended estimator specification, not proof of a complete executable run. Final prose independently establishes implemented minimum results."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4971",
+    "before": null,
+    "after": "Individually named implemented causal spending outcome; estimator and conditioning not specified in final prose or targeted scripts, so unknown rather than inventing OLS. Footnote12 is treatment-effect heterogeneity, not a new outcome or independently causal hospital-intensity coefficient. One-year survival0.04 is held against possible duplication of s5, not appended as an unsupported distinct estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4972",
+    "before": null,
+    "after": "Implemented common-rule counterfactual versus first best; nonlinear square/variance formula .5*.317^2*(-.26). Keep distinct from eliminating distortion s11. Comparison to current-practice loss -.014 is loss-to-loss, not a level benchmark. Common belief could remove systematic bias, but no separately computed net overall standardized benefit is invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4973",
+    "before": null,
+    "after": "Nonlinear policy-value recomputation using estimated joint-logit patient/hospital effects and outcome-estimated cutoff. Code computes patient averages including untreated zeros; it examines ranked patient-index cutoff and a distinct negative-full-effect exclusion. Final prose mixes patient-only cutoff and negative-effect language; retain published minimum14% result without claiming exact code pathway reproduced. No restricted CCP execution."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4974",
+    "before": null,
+    "after": "Substantively implemented structural response used for welfare: changes threshold by .01, rescales by .44 and recomputes logistic treatment probabilities for each patient. Continuous threshold, not receipt. Distinct dependent outcome from survival. Publication-linked derivative script lines35–51 supports nonlinear mapping; not a diagnostic first stage. Code subtracts .01/.44 from the treatment logit index when raising tau; the nearby comment says .43 but the executable expression and final prose use .44. No data re-execution or newly calculated derivative claimed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4975",
+    "before": null,
+    "after": "Final pp.821–822, Table V: triple interactions diagnose the single-index assumption, but the lower-order reperfusion-by-hospital-rate response is explicitly interpreted as lower treatment hurdles and a parallel reduction in survival benefits (final.txt2039–2047). Retain that substantive response rather than diagnostic test statistics. Selection-on-gains and hospital baseline-productivity conditioning follow equations5–7; not randomized. No own-outcome level/SD benchmark. Alternative diagnostic-only exclusion documented in audit. Publication-linked tables_2_3_5_appx3 script205–215 specifies areg absorb(hosp) and xtlogit, fe. Script stop at181 means these are inspected blocks, not a claimed executed replication."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4976",
+    "before": null,
+    "after": "Final pp.821–822, Table V: triple interactions diagnose the single-index assumption, but the lower-order reperfusion-by-hospital-rate response is explicitly interpreted as lower treatment hurdles and a parallel reduction in survival benefits (final.txt2039–2047). Retain that substantive response rather than diagnostic test statistics. Selection-on-gains and hospital baseline-productivity conditioning follow equations5–7; not randomized. No own-outcome level/SD benchmark. Alternative diagnostic-only exclusion documented in audit. Publication-linked tables_2_3_5_appx3 script205–215 specifies areg absorb(hosp) and xtlogit, fe. Script stop at181 means these are inspected blocks, not a claimed executed replication."
+  }
+]
+```
