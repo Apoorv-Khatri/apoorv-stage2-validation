@@ -1460688,3 +1460688,9096 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T06:37:35.916000+00:00 — Review TWTI78MP: one-paper adjudicated source-scoped coding
+
+1514 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A14674",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14675",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14676",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14677",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14678",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14679",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14680",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14681",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14682",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14683",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14684",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14685",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14686",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14687",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14688",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14689",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14690",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14691",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14692",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14693",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14694",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14695",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14696",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14697",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14674",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14675",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14676",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14677",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14678",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14679",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14680",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14681",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14682",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14683",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14684",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14685",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14686",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14687",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14688",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14689",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14690",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14691",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14692",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14693",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14694",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14695",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14696",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14697",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14674",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14675",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14676",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14677",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14678",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14679",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14680",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14681",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14682",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14683",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14684",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14685",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14686",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14687",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14688",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14689",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14690",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14691",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14692",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14693",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14694",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14695",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14696",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14697",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14681",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14682",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14683",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14685",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14687",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14689",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14691",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14693",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14694",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14695",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14696",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14674",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14675",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14676",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14677",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14678",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14679",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14680",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14681",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14682",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14683",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14684",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14685",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14686",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14687",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14688",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14689",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14690",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14691",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14692",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14693",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14694",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14695",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14696",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14697",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14674",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14675",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14676",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14677",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14678",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14679",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14680",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14681",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14682",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14683",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14684",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14685",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14686",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14687",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14688",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14689",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14690",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14691",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14692",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14693",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14694",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14695",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14696",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14697",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14674",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14675",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14677",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14679",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14682",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14683",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14688",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14690",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14691",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14692",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14693",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14694",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14695",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14696",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14697",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14674",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14675",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14677",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14679",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14682",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14683",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14684",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14688",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14690",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14691",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14692",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14693",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14694",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14695",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14696",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14697",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14675",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14677",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14679",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14682",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14683",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14686",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14688",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14690",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14691",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14692",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14693",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14694",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14695",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14696",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14697",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14674",
+    "before": null,
+    "after": "Final Figure V phase 1, pp1999–2001. Focal contrast: Large bins; default y-axis versus Small bins; default y-axis, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; default y-axis mean discontinuity-classification path within phase 1. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14675",
+    "before": null,
+    "after": "Final Figure V phase 1, pp1999–2001. Focal contrast: Large bins; default y-axis versus Small bins; default y-axis, qualitative power-function contrast across displayed magnitudes. Benchmark: Large bins; default y-axis mean discontinuity-classification path within phase 1. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14676",
+    "before": null,
+    "after": "Final Figure V phase 1, pp1999–2001. Focal contrast: Small bins; large y-axis versus Small bins; default y-axis, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; default y-axis mean discontinuity-classification path within phase 1. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14677",
+    "before": null,
+    "after": "Final Figure V phase 1, pp1999–2001. Focal contrast: Small bins; large y-axis versus Small bins; default y-axis, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; large y-axis mean discontinuity-classification path within phase 1. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14678",
+    "before": null,
+    "after": "Final Figure V phase 1, pp1999–2001. Focal contrast: Large bins; large y-axis versus Small bins; default y-axis, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; default y-axis mean discontinuity-classification path within phase 1. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14679",
+    "before": null,
+    "after": "Final Figure V phase 1, pp1999–2001. Focal contrast: Large bins; large y-axis versus Small bins; default y-axis, qualitative power-function contrast across displayed magnitudes. Benchmark: Large bins; large y-axis mean discontinuity-classification path within phase 1. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14680",
+    "before": null,
+    "after": "Final Figure V phase 2, pp1999–2001. Focal contrast: Large bins; even spacing versus Small bins; even spacing, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; even spacing mean discontinuity-classification path within phase 2. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14681",
+    "before": null,
+    "after": "Final Figure V phase 2, pp1999–2001. Focal contrast: Large bins; even spacing versus Small bins; even spacing, qualitative power-function contrast across displayed magnitudes. Benchmark: Large bins; even spacing mean discontinuity-classification path within phase 2. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14682",
+    "before": null,
+    "after": "Final Figure V phase 2, pp1999–2001. Focal contrast: Small bins; quantile spacing versus Small bins; even spacing, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; even spacing mean discontinuity-classification path within phase 2. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14683",
+    "before": null,
+    "after": "Final Figure V phase 2, pp1999–2001. Focal contrast: Small bins; quantile spacing versus Small bins; even spacing, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; quantile spacing mean discontinuity-classification path within phase 2. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14684",
+    "before": null,
+    "after": "Final Figure V phase 2, pp1999–2001. Focal contrast: Large bins; quantile spacing versus Small bins; even spacing, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; even spacing mean discontinuity-classification path within phase 2. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14685",
+    "before": null,
+    "after": "Final Figure V phase 2, pp1999–2001. Focal contrast: Large bins; quantile spacing versus Small bins; even spacing, qualitative power-function contrast across displayed magnitudes. Benchmark: Large bins; quantile spacing mean discontinuity-classification path within phase 2. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14686",
+    "before": null,
+    "after": "Final Figure V phase 3, pp1999–2001. Focal contrast: Fit lines; vertical line versus No fit lines; vertical line, qualitative power-function contrast across displayed magnitudes. Benchmark: No fit lines; vertical line mean discontinuity-classification path within phase 3. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14687",
+    "before": null,
+    "after": "Final Figure V phase 3, pp1999–2001. Focal contrast: Fit lines; vertical line versus No fit lines; vertical line, qualitative power-function contrast across displayed magnitudes. Benchmark: Fit lines; vertical line mean discontinuity-classification path within phase 3. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14688",
+    "before": null,
+    "after": "Final Figure V phase 3, pp1999–2001. Focal contrast: No fit lines; no vertical line versus No fit lines; vertical line, qualitative power-function contrast across displayed magnitudes. Benchmark: No fit lines; vertical line mean discontinuity-classification path within phase 3. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14689",
+    "before": null,
+    "after": "Final Figure V phase 3, pp1999–2001. Focal contrast: No fit lines; no vertical line versus No fit lines; vertical line, qualitative power-function contrast across displayed magnitudes. Benchmark: No fit lines; no vertical line mean discontinuity-classification path within phase 3. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14690",
+    "before": null,
+    "after": "Final Figure V phase 4, pp1999–2001. Focal contrast: Large bins; no fit lines versus Small bins; no fit lines, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; no fit lines mean discontinuity-classification path within phase 4. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14691",
+    "before": null,
+    "after": "Final Figure V phase 4, pp1999–2001. Focal contrast: Large bins; no fit lines versus Small bins; no fit lines, qualitative power-function contrast across displayed magnitudes. Benchmark: Large bins; no fit lines mean discontinuity-classification path within phase 4. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14692",
+    "before": null,
+    "after": "Final Figure V phase 4, pp1999–2001. Focal contrast: Small bins; fit lines versus Small bins; no fit lines, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; no fit lines mean discontinuity-classification path within phase 4. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14693",
+    "before": null,
+    "after": "Final Figure V phase 4, pp1999–2001. Focal contrast: Small bins; fit lines versus Small bins; no fit lines, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; fit lines mean discontinuity-classification path within phase 4. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14694",
+    "before": null,
+    "after": "Final Figure V phase 4, pp1999–2001. Focal contrast: Large bins; fit lines versus Small bins; no fit lines, qualitative power-function contrast across displayed magnitudes. Benchmark: Small bins; no fit lines mean discontinuity-classification path within phase 4. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14695",
+    "before": null,
+    "after": "Final Figure V phase 4, pp1999–2001. Focal contrast: Large bins; fit lines versus Small bins; no fit lines, qualitative power-function contrast across displayed magnitudes. Benchmark: Large bins; fit lines mean discontinuity-classification path within phase 4. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14696",
+    "before": null,
+    "after": "Final Figure VI and p2002. Focal contrast: large-bin versus small-bin expert classification path. Benchmark: Small-bin experts displayed probability path. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14697",
+    "before": null,
+    "after": "Final Figure VI and p2002. Focal contrast: large-bin versus small-bin expert classification path. Benchmark: Large-bin experts displayed probability path. Units are probability/rate points on the displayed outcome scale; immediate graph assessment, no longitudinal horizon."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14674",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14675",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14676",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14677",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14678",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14679",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14680",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14681",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14682",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14683",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14684",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14685",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14686",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14687",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14688",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14689",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14690",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14691",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14692",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14693",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14694",
+    "before": null,
+    "after": "Reference arm of the direct randomized contrast, same phase, DGP distribution and discontinuity stratum under the maintained random-sampling/assignment model (Section II). Completer selection caveat remains; no numeric graph ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14695",
+    "before": null,
+    "after": "Treated endpoint is deliberately paired and eligible under symmetric endpoint policy, but is not the untreated/reference-arm mean for the oriented effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14696",
+    "before": null,
+    "after": "Seminar-based nonrandomized sample contrast; target population and counterfactual weighting not established. Symmetric endpoint eligibility is separate from unknown alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14697",
+    "before": null,
+    "after": "Seminar-based nonrandomized sample contrast; target population and counterfactual weighting not established. Symmetric endpoint eligibility is separate from unknown alignment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11482",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11483",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11484",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11485",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11486",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11487",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11488",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11489",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11490",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11491",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11492",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11493",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11494",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11495",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11496",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11497",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11498",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11499",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11500",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11501",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11502",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11503",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11504",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11505",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11506",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11507",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11508",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11509",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11510",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11511",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11512",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11513",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11514",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11515",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11516",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11517",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11518",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11519",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11520",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11521",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11522",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11523",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11524",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11525",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11526",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11527",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11528",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11529",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11530",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11531",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11532",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11533",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11534",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11535",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11536",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11537",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11538",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11539",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11540",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11541",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11542",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11543",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11544",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11545",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11546",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11547",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11548",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11549",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11550",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11551",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11552",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11553",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11554",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11555",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11556",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11557",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11558",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11559",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11560",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11561",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11562",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11563",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11564",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11565",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11566",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11567",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11568",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11569",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11570",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11571",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11572",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11573",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11574",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11575",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11576",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11577",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11578",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11579",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11580",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11581",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11582",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11583",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11584",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11585",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11586",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11587",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11588",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11589",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11590",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11591",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11592",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11593",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11594",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11595",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11596",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11597",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11598",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11599",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11482",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11483",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11484",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11485",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11486",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11487",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11488",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11489",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11490",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11491",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11492",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11493",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11494",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11495",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11496",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11497",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11498",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11499",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11500",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11501",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11502",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11503",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11504",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11505",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11506",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11507",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11508",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11509",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11510",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11511",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11512",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11513",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11514",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11515",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11516",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11517",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11518",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11519",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11520",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11521",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11522",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11523",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11524",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11525",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11526",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11527",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11528",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11529",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11530",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11531",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11532",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11533",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11534",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11535",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11536",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11537",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11538",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11539",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11540",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11541",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11542",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11543",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11544",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11545",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11546",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11547",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11548",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11549",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11550",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11551",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11552",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11553",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11554",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11555",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11556",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11557",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11558",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11559",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11560",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11561",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11562",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11563",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11564",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11565",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11566",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11567",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11568",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11569",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11570",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11571",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11572",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11573",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11574",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11575",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11576",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11577",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11578",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11579",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11580",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11581",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11582",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11583",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11584",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11585",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11586",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11587",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11588",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11589",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11590",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11591",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11592",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11593",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11594",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11595",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11596",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11597",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11598",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11599",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11482",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11483",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11484",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11485",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11486",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11487",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11488",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11489",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11490",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11491",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11492",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11493",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11494",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11495",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11496",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11497",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11498",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11499",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11500",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11501",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11502",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11503",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11504",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11505",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11506",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11507",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11508",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11509",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11510",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11511",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11512",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11513",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11514",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11515",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11516",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11517",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11518",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11519",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11520",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11521",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11522",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11523",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11524",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11525",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11526",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11527",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11528",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11529",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11530",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11531",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11532",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11533",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11534",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11535",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11536",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11537",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11538",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11539",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11540",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11541",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11542",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11543",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11544",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11545",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11546",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11547",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11548",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11549",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11550",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11551",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11552",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11553",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11554",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11555",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11556",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11557",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11558",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11559",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11560",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11561",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11562",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11563",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11564",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11565",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11566",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11567",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11568",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11569",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11570",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11571",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11572",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11573",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11574",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11575",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11576",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11577",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11578",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11579",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11580",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11581",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11582",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11583",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11584",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11585",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11586",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11587",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11588",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11589",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11590",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11591",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11592",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11593",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11594",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11595",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11596",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11597",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11598",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11599",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11485",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11487",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11491",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11495",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11499",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11503",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11504",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11510",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11522",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11537",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11539",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11540",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11541",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11542",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11546",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11547",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11552",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11558",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11563",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11564",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11565",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11566",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11568",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11569",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11570",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11572",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11573",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11574",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11575",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11576",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11578",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11579",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11580",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11581",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11582",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11583",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11584",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11585",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11590",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11591",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11592",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11593",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11594",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11595",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11596",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11597",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3037",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3038",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3039",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11483",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11485",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11487",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11489",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11493",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11495",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11497",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11499",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11503",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11504",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11510",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11511",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11512",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11513",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11519",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11522",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11528",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11529",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11530",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11531",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11536",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11537",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11538",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11539",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11540",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11541",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11542",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11543",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11545",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11546",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11547",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11548",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11549",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11552",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11555",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11558",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11561",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11563",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11564",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11565",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11566",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11567",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11568",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11569",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11570",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11572",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11574",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11575",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11576",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11578",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11579",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11580",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11581",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11582",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11583",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11584",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11585",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11591",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11592",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11593",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11594",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11595",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11596",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11597",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11599",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3020",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3022",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3024",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3026",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3028",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3037",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3038",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3039",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11482",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11483",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11484",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11485",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11486",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11487",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11488",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11489",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11490",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11491",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11492",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11493",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11494",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11495",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11496",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11497",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11498",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11499",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11500",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11501",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11502",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11503",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11504",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11505",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11506",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11507",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11508",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11509",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11510",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11511",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11512",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11513",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11514",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11515",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11516",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11517",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11518",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11519",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11520",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11521",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11522",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11523",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11524",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11525",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11526",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11527",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11528",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11529",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11530",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11531",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11532",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11533",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11534",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11535",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11536",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11537",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11538",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11539",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11540",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11541",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11542",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11543",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11544",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11545",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11546",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11547",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11548",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11549",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11550",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11551",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11552",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11553",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11554",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11555",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11556",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11557",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11558",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11559",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11560",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11561",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11562",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11563",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11564",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11565",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11566",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11567",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11568",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11569",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11570",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11571",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11572",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11573",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11574",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11575",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11576",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11577",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11578",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11579",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11580",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11581",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11582",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11583",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11584",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11585",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11586",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11587",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11588",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11589",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11590",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11591",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11592",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11593",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11594",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11595",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11596",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11597",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11598",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11599",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3019",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3020",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3021",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3022",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3023",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3024",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3025",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3026",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3027",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3028",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3037",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3038",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3039",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11482",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11483",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11484",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11485",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11486",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11487",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11488",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11489",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11490",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11491",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11492",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11493",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11494",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11495",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11496",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11497",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11498",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11499",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11500",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11501",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11502",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11503",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11504",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11505",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11506",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11507",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11508",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11509",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11510",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11511",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11512",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11513",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11514",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11515",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11516",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11517",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11518",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11519",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11520",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11521",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11522",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11523",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11524",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11525",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11526",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11527",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11528",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11529",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11530",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11531",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11532",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11533",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11534",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11535",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11536",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11537",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11538",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11539",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11540",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11541",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11542",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11543",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11544",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11545",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11546",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11547",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11548",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11549",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11550",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11551",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11552",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11553",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11554",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11555",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11556",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11557",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11558",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11559",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11560",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11561",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11562",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11563",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11564",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11565",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11566",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11567",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11568",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11569",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11570",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11571",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11572",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11573",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11574",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11575",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11576",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11577",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11578",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11579",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11580",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11581",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11582",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11583",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11584",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11585",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11586",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11587",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11588",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11589",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11590",
+    "before": null,
+    "after": "Imputed subjective probability of a correct classification: individual score takes two values 5/6 and 7/12 under fixed loss-aversion/midpoint assumption. Average path in appendix Figure A.2. This is confidence, not objective classification correctness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11591",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11592",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11593",
+    "before": null,
+    "after": "Classical risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11594",
+    "before": null,
+    "after": "Classical risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11595",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11596",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at absolute discontinuity 0.324 sigma. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11597",
+    "before": null,
+    "after": "AS communication risk: 1 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11598",
+    "before": null,
+    "after": "AS communication risk: 4 times zero-discontinuity component plus component at equal-weight mean across five nonzero absolute discontinuities. Classical components are error rates; AS components are mean 1 minus imputed confidence. No division by sum of weights in printed tables. Same phase participant-graph target, DGP averaging as Section II. Author appendix Tables A.6–A.7; version caveat applies."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11599",
+    "before": null,
+    "after": "Expert share reporting discontinuity across displayed |d|/sigma; one immediate-task power-function path, not fabricated point estimates."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3019",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3020",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3021",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3022",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3023",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3024",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3025",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3026",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3027",
+    "before": null,
+    "after": "Participant reports a discontinuity at x=0 (1=yes, 0=no), separately by imposed absolute discontinuity magnitude. Zero and positive responses established by nondegenerate classification rates. Not the underlying economic Y used to simulate graphs."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3028",
+    "before": null,
+    "after": "Share reporting a discontinuity across participant-graph observations at each |d|/sigma. Retain one power-function path, not a fabricated estimate grid. At d=0 this is false-positive rate; at nonzero d it is power, not false-negative rate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3029",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s6. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3030",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s6. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3031",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s7. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3032",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s7. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3033",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s8. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3034",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s8. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3035",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s9. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3036",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s9. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3037",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s10. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3038",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s10. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3039",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s11. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3040",
+    "before": null,
+    "after": "Spurious as a causal-outcome row under the independently selected diagnostic procedure-performance gate for parent s11. Original rejection indicator/power definition retained in model fields. No economic-Y RD method transferred to this outcome. Broad method-rule inclusion remains an explicit competing adjudication in AUDIT.md."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E139",
+    "before": null,
+    "after": "DONE — source-scoped review and focused independent audit completed under parent adjudication; not omission-free final-source certification or empirical replication. Diagnostic method-performance s6–s11 rejected with twelve original outcomes inactive; the actual-rule-intervention inclusion policy, especially adjusted critical values and AND rules, remains a substantive competing reading, not an indisputable error or blanket simulation exclusion. Final-supported confidence and risk implementations retained, including eight distinct risk functionals per contrast. Alternate-only exact numeric and graph grids remain held for version/target reconciliation; final supplement identity and code implementation unverified. A.19/A.20 within-DGP versus between-DGP and correctness/error conflicts remain unresolved. Expert bin-width OLS retained with nonrandom respondent-pool assignment and unknown benchmark alignment. Printed source conflicts and qualitative endpoint policy preserved without invented ordinates. Exactly 32 held ledger entries remain outside application; these are not 32 settings. No unseen-source completeness claimed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4935",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4936",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4937",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4938",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4939",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4940",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4941",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4942",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4943",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4944",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4945",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4946",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4947",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4948",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4949",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4950",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4951",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4952",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4953",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4954",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4955",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4956",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4957",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4958",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4959",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4960",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4961",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4962",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4963",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4964",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4965",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4966",
+    "before": null,
+    "after": "TWTI78MP"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4935",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4936",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4937",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4938",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4939",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4940",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4941",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4942",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4943",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4944",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4945",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4946",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4947",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4948",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4949",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4950",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4951",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4952",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4953",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4954",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4955",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4956",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4957",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4958",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4959",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4960",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4961",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4962",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4963",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4964",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4965",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4966",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1206",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1207",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1208",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1209",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4940",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4954",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4956",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4966",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1199",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1200",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1201",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1202",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1203",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4935",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4936",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4937",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4938",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4939",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4940",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4941",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4942",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4943",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4944",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4945",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4946",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4947",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4948",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4949",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4950",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4951",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4952",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4953",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4954",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4955",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4956",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4957",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4958",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4959",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4960",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4961",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4962",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4963",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4964",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4965",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4966",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4940",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4954",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4956",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4966",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4940",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4954",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4956",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1199",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1200",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1202",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1203",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4936",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4937",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4938",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4939",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4940",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4941",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4942",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4943",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4944",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4945",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4946",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4947",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4950",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4951",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4952",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4954",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4955",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4956",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4957",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4958",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4959",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4960",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4961",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4962",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4963",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4964",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4965",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4966",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1199",
+    "before": null,
+    "after": "Phase 1: assigned Large bins; default y-axis versus Small bins; default y-axis; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 1, pp1994–2002; author-linked January 2023 appendix Table A.1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1200",
+    "before": null,
+    "after": "Phase 2: assigned Large bins; even spacing versus Small bins; even spacing; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 2, pp1994–2002; author-linked January 2023 appendix Table A.2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1201",
+    "before": null,
+    "after": "Phase 3: assigned Fit lines; vertical line versus No fit lines; vertical line; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 3, pp1994–2002; author-linked January 2023 appendix Table A.3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1202",
+    "before": null,
+    "after": "Phase 4: assigned Large bins; no fit lines versus Small bins; no fit lines; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 4, pp1994–2002; author-linked January 2023 appendix Table A.4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1203",
+    "before": null,
+    "after": "Phase 5: assigned Homoskedastic local linear versus Homoskedastic global quintic; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I and pp1994,1999; author-linked January 2023 appendix C, Table A.5, Figure A.11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4935",
+    "before": null,
+    "after": "Phase 1: assigned Small bins; large y-axis versus Small bins; default y-axis; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 1, pp1994–2002; author-linked January 2023 appendix Table A.1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4936",
+    "before": null,
+    "after": "Phase 1: assigned Large bins; large y-axis versus Small bins; default y-axis; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 1, pp1994–2002; author-linked January 2023 appendix Table A.1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4937",
+    "before": null,
+    "after": "Phase 2: assigned Small bins; quantile spacing versus Small bins; even spacing; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 2, pp1994–2002; author-linked January 2023 appendix Table A.2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4938",
+    "before": null,
+    "after": "Phase 2: assigned Large bins; quantile spacing versus Small bins; even spacing; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 2, pp1994–2002; author-linked January 2023 appendix Table A.2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4939",
+    "before": null,
+    "after": "Phase 3: assigned No fit lines; no vertical line versus No fit lines; vertical line; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 3, pp1994–2002; author-linked January 2023 appendix Table A.3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4940",
+    "before": null,
+    "after": "Phase 4: assigned Small bins; fit lines versus Small bins; no fit lines; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 4, pp1994–2002; author-linked January 2023 appendix Table A.4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4941",
+    "before": null,
+    "after": "Phase 4: assigned Large bins; fit lines versus Small bins; no fit lines; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I, Figure V phase 4, pp1994–2002; author-linked January 2023 appendix Table A.4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4942",
+    "before": null,
+    "after": "Phase 5: assigned Heteroskedastic global quintic versus Homoskedastic global quintic; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I and pp1994,1999; author-linked January 2023 appendix C, Table A.5, Figure A.11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4943",
+    "before": null,
+    "after": "Phase 5: assigned Heteroskedastic local linear versus Homoskedastic global quintic; implemented arm-versus-reference contrast in discontinuity classification. Other tested parameters fixed as in Table I. Location: Final Table I and pp1994,1999; author-linked January 2023 appendix C, Table A.5, Figure A.11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4944",
+    "before": null,
+    "after": "Phase 1: Large bins; default y-axis versus Small bins; default y-axis, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.8, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4945",
+    "before": null,
+    "after": "Phase 1: Large bins; default y-axis versus Small bins; default y-axis, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4946",
+    "before": null,
+    "after": "Phase 1: Small bins; large y-axis versus Small bins; default y-axis, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.8, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4947",
+    "before": null,
+    "after": "Phase 1: Small bins; large y-axis versus Small bins; default y-axis, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4948",
+    "before": null,
+    "after": "Phase 1: Large bins; large y-axis versus Small bins; default y-axis, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.8, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4949",
+    "before": null,
+    "after": "Phase 1: Large bins; large y-axis versus Small bins; default y-axis, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4950",
+    "before": null,
+    "after": "Phase 2: Large bins; even spacing versus Small bins; even spacing, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.9, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4951",
+    "before": null,
+    "after": "Phase 2: Large bins; even spacing versus Small bins; even spacing, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4952",
+    "before": null,
+    "after": "Phase 2: Small bins; quantile spacing versus Small bins; even spacing, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.9, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4953",
+    "before": null,
+    "after": "Phase 2: Small bins; quantile spacing versus Small bins; even spacing, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4954",
+    "before": null,
+    "after": "Phase 2: Large bins; quantile spacing versus Small bins; even spacing, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.9, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4955",
+    "before": null,
+    "after": "Phase 2: Large bins; quantile spacing versus Small bins; even spacing, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4956",
+    "before": null,
+    "after": "Phase 3: Fit lines; vertical line versus No fit lines; vertical line, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.10, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4957",
+    "before": null,
+    "after": "Phase 3: Fit lines; vertical line versus No fit lines; vertical line, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4958",
+    "before": null,
+    "after": "Phase 3: No fit lines; no vertical line versus No fit lines; vertical line, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.10, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4959",
+    "before": null,
+    "after": "Phase 3: No fit lines; no vertical line versus No fit lines; vertical line, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4960",
+    "before": null,
+    "after": "Phase 4: Large bins; no fit lines versus Small bins; no fit lines, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.11, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4961",
+    "before": null,
+    "after": "Phase 4: Large bins; no fit lines versus Small bins; no fit lines, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4962",
+    "before": null,
+    "after": "Phase 4: Small bins; fit lines versus Small bins; no fit lines, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.11, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4963",
+    "before": null,
+    "after": "Phase 4: Small bins; fit lines versus Small bins; no fit lines, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4964",
+    "before": null,
+    "after": "Phase 4: Large bins; fit lines versus Small bins; no fit lines, effects on imputed confidence in correct graph classification. Location: Final pp1986,1997,2001 references to D.1.2/E; author-linked January 2023 appendix A.11, Figure A.2, pp15–19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4965",
+    "before": null,
+    "after": "Phase 4: Large bins; fit lines versus Small bins; no fit lines, classical and Andrews–Shapiro communication risks, explicitly implemented criteria for the preferred graphical method. Location: Final pp1979–1981,1986,2001; author-linked January 2023 appendix E, Tables A.6–A.7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4966",
+    "before": null,
+    "after": "Large versus small bins among experts: authors say experts do worse with large bins. Nonrandomized seminar/sample contrast in displayed classification rates, not an experiment assigning expertise. Location: Final p2002 and Figure VI p2003; author appendix D.2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1199",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1200",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1201",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1202",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1203",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1204",
+    "before": null,
+    "after": "Independent audit: exclude as statistical procedure-performance evaluation, not an estimated substantive causal response to the imposed d. Final II pp1986 and IV.C pp2005–2012 compare test rejection/power/RMSE on fixed simulated datasets; no fitted causal d slope is reported. The underlying local RD estimate of economic Y does not classify the rejection outcome as RD. Contested alternative: actual inference-rule intervention, strongest for adjusted critical values and AND combinations; if admitted, use actual rule contrasts and census all implemented variants. See independent AUDIT.md. Exclusion is a causal-gate judgment, not an objection to simulated data or identification credibility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1205",
+    "before": null,
+    "after": "Independent audit: exclude as statistical procedure-performance evaluation, not an estimated substantive causal response to the imposed d. Final II pp1986 and IV.C pp2005–2012 compare test rejection/power/RMSE on fixed simulated datasets; no fitted causal d slope is reported. The underlying local RD estimate of economic Y does not classify the rejection outcome as RD. Contested alternative: actual inference-rule intervention, strongest for adjusted critical values and AND combinations; if admitted, use actual rule contrasts and census all implemented variants. See independent AUDIT.md. Exclusion is a causal-gate judgment, not an objection to simulated data or identification credibility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1206",
+    "before": null,
+    "after": "Independent audit: exclude as statistical procedure-performance evaluation, not an estimated substantive causal response to the imposed d. Final II pp1986 and IV.C pp2005–2012 compare test rejection/power/RMSE on fixed simulated datasets; no fitted causal d slope is reported. The underlying local RD estimate of economic Y does not classify the rejection outcome as RD. Contested alternative: actual inference-rule intervention, strongest for adjusted critical values and AND combinations; if admitted, use actual rule contrasts and census all implemented variants. See independent AUDIT.md. Exclusion is a causal-gate judgment, not an objection to simulated data or identification credibility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1207",
+    "before": null,
+    "after": "Independent audit: exclude as statistical procedure-performance evaluation, not an estimated substantive causal response to the imposed d. Final II pp1986 and IV.C pp2005–2012 compare test rejection/power/RMSE on fixed simulated datasets; no fitted causal d slope is reported. The underlying local RD estimate of economic Y does not classify the rejection outcome as RD. Contested alternative: actual inference-rule intervention, strongest for adjusted critical values and AND combinations; if admitted, use actual rule contrasts and census all implemented variants. See independent AUDIT.md. Exclusion is a causal-gate judgment, not an objection to simulated data or identification credibility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1208",
+    "before": null,
+    "after": "Independent audit: exclude as statistical procedure-performance evaluation, not an estimated substantive causal response to the imposed d. Final II pp1986 and IV.C pp2005–2012 compare test rejection/power/RMSE on fixed simulated datasets; no fitted causal d slope is reported. The underlying local RD estimate of economic Y does not classify the rejection outcome as RD. Contested alternative: actual inference-rule intervention, strongest for adjusted critical values and AND combinations; if admitted, use actual rule contrasts and census all implemented variants. See independent AUDIT.md. Exclusion is a causal-gate judgment, not an objection to simulated data or identification credibility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1209",
+    "before": null,
+    "after": "Independent audit: exclude as statistical procedure-performance evaluation, not an estimated substantive causal response to the imposed d. Final II pp1986 and IV.C pp2005–2012 compare test rejection/power/RMSE on fixed simulated datasets; no fitted causal d slope is reported. The underlying local RD estimate of economic Y does not classify the rejection outcome as RD. Contested alternative: actual inference-rule intervention, strongest for adjusted critical values and AND combinations; if admitted, use actual rule contrasts and census all implemented variants. See independent AUDIT.md. Exclusion is a causal-gate judgment, not an objection to simulated data or identification credibility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4935",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4936",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4937",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4938",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4939",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4940",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4941",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4942",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4943",
+    "before": null,
+    "after": "Direct randomized assignment; linear in participant classification/constructed fixed-score outcomes. DGP strata are precision/design controls, not a separate FE identification method. Participant-graph observations; same experimental phase and discontinuity stratum; no time horizon beyond the immediate task. Completer analysis and limited DGP external validity remain caveats."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4944",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4945",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4946",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4947",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4948",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4949",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4950",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4951",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4952",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4953",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4954",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4955",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4956",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4957",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4958",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4959",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4960",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4961",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4962",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4963",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4964",
+    "before": null,
+    "after": "Minimum named confidence scope established in final; detailed mapping from author-linked January 2023 appendix, final supplement identity unverified. Imputation is fixed affine mapping of risky bonus choice: 5/6 for risky, 7/12 for sure, with externally fixed loss aversion 2. Linear randomized mean/regression, not nonlinear structural recovery; no estimated preference parameter outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4965",
+    "before": null,
+    "after": "Fixed weighted linear combinations of classification indicators and fixed imputed confidence scores. Random assignment retains RCT precedence. Not an estimated nonlinear structural model. Tables use sums, not normalized probability averages: error0 + error_nonzero or 4*error0 + error_nonzero; AS uses 1-confidence. Detailed weights verified only in January 2023 appendix; final supplement identity unverified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4966",
+    "before": null,
+    "after": "Broad author-intention gate: p2002 explicitly links worse performance to large-bin graphs. Arm assignment is not randomized; 48 large-bin seminar respondents versus 95 small-bin respondents. Linear difference in reported classification means; no identifying FE. Pool composition confounding acknowledged, not promoted to RCT. Expert-versus-nonexpert comparison itself is held as descriptive external-validity evidence."
+  }
+]
+```
