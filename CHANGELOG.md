@@ -1490808,3 +1490808,1536 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T09:54:28.044267+00:00 — Review WHM58CNX: one-paper adjudicated source-scoped coding
+
+254 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K831",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L830",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M830",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P830",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q830",
+    "before": null,
+    "after": "p2972 Table3 col1 payshare slope −.903; prose compares predicted refund of worker with90% paycheck share with worker with20%: “less then half the size”. This is a stated same-refund-level ratio, not outcome mean/SD. No dollar endpoint supplied. Preserve printed wording and coefficient despite discrepancy."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R830",
+    "before": null,
+    "after": "Visually verified source conflict: implied ratio exp(−.903×.70)=.5314745, not less than one half; computation is reviewer diagnostic, not replacement author estimate. Back-transformation also leaves conditional expected-dollar versus geometric-level distinction unresolved. Causal eligibility inherits contested s1 gate H01."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R831",
+    "before": null,
+    "after": "Elasticity/log-percent interpretation alone is not an own-outcome benchmark. p2973 says1% volatility increase associated with.09% refund increase; Table3 col2 prints.104, col3 .0921. Preserve source allocation/variance-versus-volatility wording conflict; do not invent an outcome level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11666",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11667",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11668",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11669",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11670",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11671",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11672",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11673",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11674",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11675",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11676",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11677",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11678",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11679",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11680",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11681",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11682",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11683",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11666",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11667",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11668",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11669",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11670",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11671",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11672",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11673",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11674",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11675",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11676",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11677",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11678",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11679",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11680",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11681",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11682",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11683",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11666",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11667",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11668",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11669",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11670",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11671",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11672",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11673",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11674",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11675",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11676",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11677",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11678",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11679",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11680",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11681",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11682",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11683",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11678",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11666",
+    "before": null,
+    "after": "Log positive annual income tax refund, Table3 cols2,3,5,7; conditional positive-refund sample. Same dependent outcome as s1, separately linked to focal regressor."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11667",
+    "before": null,
+    "after": "Log positive annual income tax refund, Table3 cols3; conditional positive-refund sample. Same dependent outcome as s1, separately linked to focal regressor."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11668",
+    "before": null,
+    "after": "Log positive annual income tax refund, Table3 cols4,5; conditional positive-refund sample. Same dependent outcome as s1, separately linked to focal regressor."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11669",
+    "before": null,
+    "after": "Log positive annual refund by top/middle/bottom income tercile, TableE.1 cols1,5,6; no same-column outcome mean/SD. Tercile counts overlap in persons; do not assume time-invariant membership."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11670",
+    "before": null,
+    "after": "Log positive annual refund by top/middle/bottom income tercile, TableE.1 cols2,3,5,7; no same-column outcome mean/SD. Tercile counts overlap in persons; do not assume time-invariant membership."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11671",
+    "before": null,
+    "after": "Log positive annual refund by top/middle/bottom income tercile, TableE.1 cols3; no same-column outcome mean/SD. Tercile counts overlap in persons; do not assume time-invariant membership."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11672",
+    "before": null,
+    "after": "Log positive annual refund by top/middle/bottom income tercile, TableE.1 cols4,5; no same-column outcome mean/SD. Tercile counts overlap in persons; do not assume time-invariant membership."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11673",
+    "before": null,
+    "after": "Optimal annual consumption in dollars, Figure2; $5,000 refund perturbation produces illustrated consumption change. MPC is response derivative, not separately observed consumption."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11674",
+    "before": null,
+    "after": "Model mean positive tax refund in dollars, Table8 p2984. Main calibration conditions refund mean on positive refunds; potential composition changes under parameters not established as common target. No data-mean-to-every-cell benchmark manufactured."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11675",
+    "before": null,
+    "after": "Model mean positive tax refund in dollars, Table8 p2984. Main calibration conditions refund mean on positive refunds; potential composition changes under parameters not established as common target. No data-mean-to-every-cell benchmark manufactured."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11676",
+    "before": null,
+    "after": "Model mean positive tax refund in dollars, official AppendixI TableI.1 p16. Main calibration conditions refund mean on positive refunds; potential composition changes under parameters not established as common target. No data-mean-to-every-cell benchmark manufactured."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11677",
+    "before": null,
+    "after": "Model mean positive tax refund in dollars, official AppendixI TableI.1 p16. Main calibration conditions refund mean on positive refunds; potential composition changes under parameters not established as common target. No data-mean-to-every-cell benchmark manufactured."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11678",
+    "before": null,
+    "after": "Mean positive model tax refund in dollars under theta1 versus4 (Table8/TableI.1). Aggregate mean is not binary; positive-refund mean has no point mass at zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11679",
+    "before": null,
+    "after": "Next-period consumption C(t+1) in dollars, Figure4, with current cash-on-hand heterogeneity. Not the income shock as outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11680",
+    "before": null,
+    "after": "Model average cash on hand in dollars conditional on non-paycheck shock, Figure5 left axis; no graph ordinate digitization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11681",
+    "before": null,
+    "after": "Model average tax refund/final settlement with refund-positive sign, dollars conditional on non-paycheck shock, Figure5 right axis; negative values are payments."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11682",
+    "before": null,
+    "after": "Potential excess withholding in dollars: sum over26 biweeks of withholding at actual paycheck minus withholding at constant average paycheck; AppendixC.1 and eq5. FigureC.1 uses alternating mean±SD stylized schedule, main uses account-derived paths; fixed single filer/two exemptions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11683",
+    "before": null,
+    "after": "Model-derived marginal propensity to consume out of transitory income (additional consumption per additional dollar), responding to non-paycheck income shocks through lower cash on hand and concavity. Final p2986 Figure4 discussion and concluding paragraph, with Figures5–6 mechanism display: negative shocks raise MPC except for the stated high-liquidity qualification. Retain one qualitative derived outcome under h14; no numerical shock effect or bin grid reported. Not the empirical Table9 consumption outcome and not a pure causal effect of refund size on MPC."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3085",
+    "before": null,
+    "after": "Log positive annual refund in Table3; s1 now paycheck-share focal slope, other jointly interpreted regressors h1–h3. Original definition otherwise correct."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3086",
+    "before": null,
+    "after": "Reported normalized monthly nondurable spending C-tilde (restaurants, groceries/gasoline, entertainment, miscellaneous services), divided by total spending; equation20 does not specify denominator aggregation/period. MPC is coefficient, not a separate outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3087",
+    "before": null,
+    "after": "Same normalized monthly nondurable spending in eq21/Table9 col2; five predicted-group slopes are not five dependent outcomes. Denominator and predicted-quintile construction unresolved, see H02/H03."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E143",
+    "before": null,
+    "after": "DONE — full available-source review and focused independent audit completed under parent adjudication; not omission-free certification or empirical replication. Final article and official appendix inspected; replication code retrieval blocked, no scripts inspected or replication performed. Retain parameter-specific broad Table 3 causal gates with contrary conditional-correlation readings explicit. s2 is OLS conditional on reported normalized outcomes; raw-panel normalization remains unresolved. s3 method and IV type remain unknown, not inferred IV. c1 preserves the literal less-than-half claim and log/retransformation conflict without repair; c2 plain elasticity interpretation rejected. h14/hy2 retains the individually interpreted income-shock-to-model-derived-MPC response, not an exogenous refund-to-MPC effect. Mechanical withholding h16 remains distinct from realized-refund adjustment. H04 held: slope illustrations do not establish intended benchmark-level comparisons merely through graph endpoints. H05 exact scenario comparison grid held: footnote supports separately retained theta response, not 35 separately oriented magnitude comparisons. These are eligibility judgments, not treated-endpoint exclusions; broad symmetric graphical and cross-table alternatives remain documented. All held evidence and source limitations preserved outside application arrays."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5019",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5020",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5021",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5022",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5023",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5024",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5025",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5026",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5027",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5028",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5029",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5030",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5031",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5032",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5033",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5034",
+    "before": null,
+    "after": "WHM58CNX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5019",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5020",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5021",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5022",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5023",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5024",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5025",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5026",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5027",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5028",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5029",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5030",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5031",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5032",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5033",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5034",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1237",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1238",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1236",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1237",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1238",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5019",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5020",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5021",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5022",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5023",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5024",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5025",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5026",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5027",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5028",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5029",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5030",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5031",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5032",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5033",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5034",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1236",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1237",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5023",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5025",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5032",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5033",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1236",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1237",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1238",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5023",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5025",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5031",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1236",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1237",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1238",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5019",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5021",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5022",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5023",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5024",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5025",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5026",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5027",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5028",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1236",
+    "before": null,
+    "after": "Average paycheck share of total income on log positive annual tax refund; Table3 cols1,5,6, pp2971–2974. Other distinct focal income-volatility/excess-withholding regressors split to h1–h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1237",
+    "before": null,
+    "after": "Monthly normalized tax-refund inflow on normalized nondurable spending, eq20/Table9 col1 p2985; average MPC .206 (SE .002),49,519 people,2,248,386 person-months."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1238",
+    "before": null,
+    "after": "Heterogeneous monthly refund response of normalized nondurable spending by predicted refund quintile, eq21/Table9 col2 pp2985,2987–2988; slopes .187,.192,.206,.210,.232."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5019",
+    "before": null,
+    "after": "Log variance of annual non-paycheck income on log positive annual tax refund, Table3 cols2,3,5,7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5020",
+    "before": null,
+    "after": "Log variance of annual paycheck income on log positive annual tax refund, Table3 cols3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5021",
+    "before": null,
+    "after": "Log lagged potential excess withholding from within-year paycheck variability on log positive annual tax refund, Table3 cols4,5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5022",
+    "before": null,
+    "after": "Average paycheck share on log positive annual tax refund by income tercile, official AppendixE TableE.1 panelsA–C cols1,5,6."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5023",
+    "before": null,
+    "after": "Log annual non-paycheck income variance on log positive annual tax refund by income tercile, official AppendixE TableE.1 panelsA–C cols2,3,5,7."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5024",
+    "before": null,
+    "after": "Log annual paycheck income variance on log positive annual tax refund by income tercile, official AppendixE TableE.1 panelsA–C cols3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5025",
+    "before": null,
+    "after": "Log lagged potential excess withholding on log positive annual tax refund by income tercile, official AppendixE TableE.1 panelsA–C cols4,5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5026",
+    "before": null,
+    "after": "Cash-on-hand / additional transitory refund response of optimal annual consumption, Figure2 pp2978–2979. Two explicitly illustrated $5,000 refund increments at low/high liquidity along same consumption function."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5027",
+    "before": null,
+    "after": "Time discount factor beta (.975,.980,.985,.990,.995), holding gamma fixed and theta=1 on mean positive tax refund, Table8 p2984."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5028",
+    "before": null,
+    "after": "Unanticipated non-paycheck-income fraction gamma (.30,.40,.50,.57,.60,.70,.80), holding beta fixed and theta=1 on mean positive tax refund, Table8 p2984."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5029",
+    "before": null,
+    "after": "Time discount factor beta (.975,.980,.985,.990,.995), holding gamma fixed and theta=4 on mean positive tax refund, official AppendixI TableI.1 p16."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5030",
+    "before": null,
+    "after": "Unanticipated non-paycheck-income fraction gamma (.30,.40,.50,.57,.60,.70,.80), holding beta fixed and theta=4 on mean positive tax refund, official AppendixI TableI.1 p16."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5031",
+    "before": null,
+    "after": "Increasing risk aversion theta from1 to4, matched beta/gamma scenarios in Table8 versus AppendixI TableI.1; finalp2984 fn22 explicitly states average refunds modestly increase."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5032",
+    "before": null,
+    "after": "Non-paycheck income innovation in year t on next-period optimal consumption and the derived marginal propensity to consume out of transitory income; Figure4 and accompanying mechanism discussion p2986, linked Figures5–6. Conditional heterogeneity by cash on hand; no exogenous refund-on-MPC interpretation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5033",
+    "before": null,
+    "after": "Non-paycheck income innovation on cash on hand and tax refund, Figure5 p2987 and discussion p2986; calibrated simulated conditional average responses."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5034",
+    "before": null,
+    "after": "Within-year paycheck variability on potential excess withholding under IRS rule, eq5 p2973 and official AppendixC.1 FigureC.1 pp6–7; observed-payment-path versus constant-average-payment counterfactual."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1236",
+    "before": null,
+    "after": "Broad author-intention inclusion is contested: section title Correlates and explicit correlation language coexist with model-mechanism/role-in-determining-refunds interpretation pp2973–2974 and conclusion. Retain under broad interpretation, not a credible exogenous share intervention. Pooled individual-year OLS, robust SE; no identifying FE or IV. Share averages four observed years. 49,520 persons,134,752 person-years; restricted cols5–6 have44,324/87,712. No routine-control split. H01 records narrower descriptive-only alternative."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1237",
+    "before": null,
+    "after": "Both variables divided by total spending, whose precise period/aggregation is not established by final text/appendix. OLS in the reported normalized outcome conditional on design; raw-dollar full-procedure linearity not certified if denominator depends on focal spending. Month indicators alone do not establish identifying-FE method: paper gives no specific omitted-heterogeneity identification argument for that battery. Partially unanticipated refund argument pp2964 supports causal response but not randomized timing. H02 preserves normalization/FE alternative; code unavailable after bounded retrieval."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1238",
+    "before": null,
+    "after": "Final says replace quintile membership with prediction from regression of refund quintile on payshare; month and quintile indicators. AppendixD.1 reports dollar-valued predicted-refund groups. Does not establish whether predicting scalar refunds then binning, ordered category, or five membership probabilities, nor compatible first-stage projections for interacted regressors. Do not certify OLS or IV equivalence, instrument count, or excluded-instrument support from two-stage label. Retain continuous refund dose, not binary quintile treatment. H03. Conditional final linear equation versus whole constructed-normalization procedure unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5019",
+    "before": null,
+    "after": "p2973 explicitly calls this an estimated effect and key mechanism; the.09% prose differs from col2 .104. Annual variance, not SD. Coefficients .104,.0921,.0814,.105. Pooled OLS; distinct focal treatment in joint equations, routine control/sample variants grouped. Author-intention gate contested as H01, not excluded merely for endogeneity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5020",
+    "before": null,
+    "after": "p2973 states annual paycheck variation has a role in determining refunds; coefficient .0382. Included regressor interpreted substantively, not a separate regression invented. Pooled OLS; distinct focal treatment in joint equations, routine control/sample variants grouped. Author-intention gate contested as H01, not excluded merely for endogeneity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5021",
+    "before": null,
+    "after": "p2973 attributes economically modest mechanical effect and internalization; coefficients .0458,.0336. Constructed IRS tax-schedule regressor is not an instrument. Restrict to lag-available87,712 person-years. Pooled OLS; distinct focal treatment in joint equations, routine control/sample variants grouped. Author-intention gate contested as H01, not excluded merely for endogeneity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5022",
+    "before": null,
+    "after": "Separately reported robustness result location, same treatment definitions and pooled OLS as Table3. Group income-tercile sample/control variants. Finalp2974/fn18 discusses exceptions: paycheck variance positive only bottom tercile; middle-tercile non-paycheck variance joint col5 −.00708 not statistically distinguishable from zero. Preserve substantive null/sign reversals, not diagnostic-only. Broad causal gate H01 applies symmetrically."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5023",
+    "before": null,
+    "after": "Separately reported robustness result location, same treatment definitions and pooled OLS as Table3. Group income-tercile sample/control variants. Finalp2974/fn18 discusses exceptions: paycheck variance positive only bottom tercile; middle-tercile non-paycheck variance joint col5 −.00708 not statistically distinguishable from zero. Preserve substantive null/sign reversals, not diagnostic-only. Broad causal gate H01 applies symmetrically."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5024",
+    "before": null,
+    "after": "Separately reported robustness result location, same treatment definitions and pooled OLS as Table3. Group income-tercile sample/control variants. Finalp2974/fn18 discusses exceptions: paycheck variance positive only bottom tercile; middle-tercile non-paycheck variance joint col5 −.00708 not statistically distinguishable from zero. Preserve substantive null/sign reversals, not diagnostic-only. Broad causal gate H01 applies symmetrically."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5025",
+    "before": null,
+    "after": "Separately reported robustness result location, same treatment definitions and pooled OLS as Table3. Group income-tercile sample/control variants. Finalp2974/fn18 discusses exceptions: paycheck variance positive only bottom tercile; middle-tercile non-paycheck variance joint col5 −.00708 not statistically distinguishable from zero. Preserve substantive null/sign reversals, not diagnostic-only. Broad causal gate H01 applies symmetrically."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5026",
+    "before": null,
+    "after": "Nonlinear calibrated dynamic consumption/saving/withholding model, Bellman eq12 and AppendixF value iteration/endogenous-grid solution. Not a fitted linear OLS model because a response curve or final average is displayed. Annual timing; normal non-paycheck innovations, no borrowing; tax penalties/asymmetric return and chosen liquidity. Distinct from primitive calibration/moment fit. Low-liquidity MPC about1; high-liquidity less than a quarter of that MPC. Continuous state-response function and increments are not randomized binary assignment. This is an implemented structural spending response, not only an auxiliary parameter. Consumption level endpoints not numerically transcribed from graph; H04 holds possible qualitative endpoint benchmark interpretation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5027",
+    "before": null,
+    "after": "Nonlinear calibrated dynamic consumption/saving/withholding model, Bellman eq12 and AppendixF value iteration/endogenous-grid solution. Not a fitted linear OLS model because a response curve or final average is displayed. Annual timing; normal non-paycheck innovations, no borrowing; tax penalties/asymmetric return and chosen liquidity. Distinct from primitive calibration/moment fit. p2983 attributes higher refunds to patience/risk precautionary saving. Gamma rescales BOTH mean and SD of uncertain income and shifts anticipated income (eq17–19), not a variance-only intervention. Grid results retained as scope, not invented coefficient or benchmark grid. Baseline text gamma .5674 versus displayed rounded .57;100,000 draws with first1,000 discarded per calibration text versus100,000 simulated observations caption."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5028",
+    "before": null,
+    "after": "Nonlinear calibrated dynamic consumption/saving/withholding model, Bellman eq12 and AppendixF value iteration/endogenous-grid solution. Not a fitted linear OLS model because a response curve or final average is displayed. Annual timing; normal non-paycheck innovations, no borrowing; tax penalties/asymmetric return and chosen liquidity. Distinct from primitive calibration/moment fit. p2983 attributes higher refunds to patience/risk precautionary saving. Gamma rescales BOTH mean and SD of uncertain income and shifts anticipated income (eq17–19), not a variance-only intervention. Grid results retained as scope, not invented coefficient or benchmark grid. Baseline text gamma .5674 versus displayed rounded .57;100,000 draws with first1,000 discarded per calibration text versus100,000 simulated observations caption."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5029",
+    "before": null,
+    "after": "Nonlinear calibrated dynamic consumption/saving/withholding model, Bellman eq12 and AppendixF value iteration/endogenous-grid solution. Not a fitted linear OLS model because a response curve or final average is displayed. Annual timing; normal non-paycheck innovations, no borrowing; tax penalties/asymmetric return and chosen liquidity. Distinct from primitive calibration/moment fit. p2983 attributes higher refunds to patience/risk precautionary saving. Gamma rescales BOTH mean and SD of uncertain income and shifts anticipated income (eq17–19), not a variance-only intervention. Grid results retained as scope, not invented coefficient or benchmark grid. Baseline text gamma .5674 versus displayed rounded .57;100,000 draws with first1,000 discarded per calibration text versus100,000 simulated observations caption."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5030",
+    "before": null,
+    "after": "Nonlinear calibrated dynamic consumption/saving/withholding model, Bellman eq12 and AppendixF value iteration/endogenous-grid solution. Not a fitted linear OLS model because a response curve or final average is displayed. Annual timing; normal non-paycheck innovations, no borrowing; tax penalties/asymmetric return and chosen liquidity. Distinct from primitive calibration/moment fit. p2983 attributes higher refunds to patience/risk precautionary saving. Gamma rescales BOTH mean and SD of uncertain income and shifts anticipated income (eq17–19), not a variance-only intervention. Grid results retained as scope, not invented coefficient or benchmark grid. Baseline text gamma .5674 versus displayed rounded .57;100,000 draws with first1,000 discarded per calibration text versus100,000 simulated observations caption."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5031",
+    "before": null,
+    "after": "Nonlinear calibrated dynamic consumption/saving/withholding model, Bellman eq12 and AppendixF value iteration/endogenous-grid solution. Not a fitted linear OLS model because a response curve or final average is displayed. Annual timing; normal non-paycheck innovations, no borrowing; tax penalties/asymmetric return and chosen liquidity. Distinct from primitive calibration/moment fit. Two implemented preference specifications, not experimentally assigned risk aversion. Retain minimal paired-parameter sensitivity scope; do not interpret as pure risk-aversion distribution primitive. Thirty-five matched printed scenario pairs; exact match of underlying draws and positive-refund selected populations not certified. H05 holds cross-table endpoint-comparison eligibility, not outcome implementation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5032",
+    "before": null,
+    "after": "Nonlinear calibrated dynamic consumption/saving/withholding model, Bellman eq12 and AppendixF value iteration/endogenous-grid solution. Not a fitted linear OLS model because a response curve or final average is displayed. Annual timing; normal non-paycheck innovations, no borrowing; tax penalties/asymmetric return and chosen liquidity. Distinct from primitive calibration/moment fit. Source explicitly states negative innovation results in lower next-period consumption. Continuous shock, not binary negative/positive indicator. Shades represent cash-on-hand heterogeneity, not separate interventions. No graph ordinate or shock-bin grid inferred. Independent audit releases the minimum derived MPC outcome: the same Figure4 paragraph says low next-period consumption periods tend to have very high MPC, and the concluding p2986 paragraph explicitly traces negative shock -> lower cash on hand -> higher MPC. This is a reported model-derived response, not merely a primitive or a Table9 regression coefficient. h14/hy2 records it once without numerical shock-by-MPC grid. Figure6 endogenous refund bins remain mechanism evidence, not a distinct refund intervention."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5033",
+    "before": null,
+    "after": "Nonlinear calibrated dynamic consumption/saving/withholding model, Bellman eq12 and AppendixF value iteration/endogenous-grid solution. Not a fitted linear OLS model because a response curve or final average is displayed. Annual timing; normal non-paycheck innovations, no borrowing; tax penalties/asymmetric return and chosen liquidity. Distinct from primitive calibration/moment fit. Negative innovation explicitly directly reduces cash on hand and lowers tax liability, producing refund. Figure5 left/right axes are DIFFERENT outcomes, not a magnitude benchmark pairing. Tax refund may be negative (tax payment); do not confuse conditional curve with positive-only calibration mean."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5034",
+    "before": null,
+    "after": "Implemented mechanical tax-rule calculation, nonlinear piecewise tax schedule with crossing marginal brackets. Appendix varies paycheck SD symmetrically above/below mean; main computes average potential excess withholding $1,340 full sample/$1,151 refund receivers. This is not behavioral spending/refund regression h3 and not empirical OLS. Broad intervention/measurement-counterfactual inclusion exposed in H06; no separate withholding-level denominator or fabricated comparison to refund amount."
+  }
+]
+```
