@@ -1374951,3 +1374951,156 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T02:10:03.387717+00:00 — Review RI7EAM24 h7: adjudicated source-scoped coding
+
+24 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A11252",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11253",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11252",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11253",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11252",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11253",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11252",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11253",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11252",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11253",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11252",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11253",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11252",
+    "before": null,
+    "after": "Patient welfare: mean across sampled patient types of type-specific steady-state NPV change divided by own pre-2014 NPV (EVx); existing waitlist plus discounted arrivals, equation11 and p.65. Not donor-supply outcome; donor-supply equivalence is approximate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11253",
+    "before": null,
+    "after": "Organ discard rate: fraction of kidneys discarded; reported proportional reduction against same-panel pre-2014 rate, not percentage-point reduction. Figure3 describes rejection by all NYRT patients; archive collect_cf_output applies probability of ultimate discard to unallocated kidneys. Preserve this scope nuance."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E134",
+    "before": null,
+    "after": "DONE — available-source whole-paper review of final article, official supplement and targeted publication-linked code; not empirical replication. Parent-adjudicated symmetric policy endpoints retained; no-level-pairing alternative preserved. Own-NPV normalization other_level/n/a with mean-based alternative; fixed-donor discard alignment1, conditional baseline unknown/exposed0; original FCFS mapping unknown. Descriptive CPRA h5 seven operations held outside application arrays; broad behavioral-inclusion alternative is not a credibility exclusion. Conditional OLS versus outcome-derived quality-control full-procedure caveat retained if reconsidered. Table VII type-O duration/caption, patient-stock probability weighting, age>=35 versus >35, coarse-priority scope and LCFS verbal conflicts retained. No unseen outcome or comparison grids."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A4792",
+    "before": null,
+    "after": "RI7EAM24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B4792",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I4792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J4792",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K4792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L4792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M4792",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N4792",
+    "before": null,
+    "after": "Alternative priority designs changing rules only for NYRT-recovered donors; p.67 last paragraph."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O4792",
+    "before": null,
+    "after": "Structural CCP/probit recovery and nonlinear steady-state fixed-point/optimization; Other applies to complete estimated outcome mapping, not because this is called simulation. No implemented linear assignment/DiD/IV estimator. Exogenous donor/patient arrivals and non-transplant departures, fixed outside option, limited beliefs, estimated match values; NYRT 2010-2013. Counterfactual acceptance outside NYRT held fixed (p.65 fn30). Conditional fixed-primitives accounting is not a separately estimated linear causal model. Minimum implemented average welfare and organ-discard outcomes, attenuated directionally similar results, largest for LCFS; precise additional outcome allocation held rather than copying entire VI grid."
+  }
+]
+```
