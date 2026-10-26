@@ -1503882,3 +1503882,7854 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T11:27:19.911559+00:00 — Review XAN8UCCY: one-paper adjudicated source-scoped coding
+
+1307 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A14989",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14990",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14991",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14992",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14993",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14994",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14995",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14996",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14997",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14998",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A14999",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15000",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15001",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15002",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15003",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15004",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15005",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15006",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15007",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15008",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15009",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15010",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15011",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15012",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15013",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15014",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15015",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15016",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15017",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15018",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15019",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15020",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15021",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15022",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15023",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15024",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15025",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15026",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15027",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15028",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15029",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15030",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15031",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15032",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15033",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15034",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15035",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15036",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15037",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15038",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15039",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15040",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15041",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15042",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15043",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15044",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15045",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15046",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15047",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15048",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15049",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15050",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15051",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15052",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15053",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15054",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15055",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15056",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15057",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15058",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15059",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15060",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15061",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15062",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15063",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15064",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15065",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15066",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15067",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15068",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15069",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15070",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15071",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15072",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15073",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15074",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15075",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A15076",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14989",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14990",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14991",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14992",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14993",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14994",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14995",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14996",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14997",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14998",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B14999",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15000",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15001",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15002",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15003",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15004",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15005",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15006",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15007",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15008",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15009",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15010",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15011",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15012",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15013",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15014",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15015",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15016",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15017",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15018",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15019",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15020",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15021",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15022",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15023",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15024",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15025",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15026",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15027",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15028",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15029",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15030",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15031",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15032",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15033",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15034",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15035",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15036",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15037",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15038",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15039",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15040",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15041",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15042",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15043",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15044",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15045",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15046",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15047",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15048",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15049",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15050",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15051",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15052",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15053",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15054",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15055",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15056",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15057",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15058",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15059",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15060",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15061",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15062",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15063",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15064",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15065",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15066",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15067",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15068",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15069",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15070",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15071",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15072",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15073",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15074",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15075",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B15076",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14989",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14990",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14991",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14992",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14993",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14994",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14995",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14996",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14997",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14998",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C14999",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15000",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15001",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15002",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15003",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15004",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15005",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15006",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15007",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15008",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15009",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15010",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15011",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15012",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15013",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15014",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15015",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15016",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15017",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15018",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15019",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15020",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15021",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15022",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15023",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15024",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15025",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15026",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15027",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15028",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15029",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15030",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15031",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15032",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15033",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15034",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15035",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15036",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15037",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15038",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15039",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15040",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15041",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15042",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15043",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15044",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15045",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15046",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15047",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15048",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15049",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15050",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15051",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15052",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15053",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15054",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15055",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15056",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15057",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15058",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15059",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15060",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15061",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15062",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15063",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15064",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15065",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15066",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15067",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15068",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15069",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15070",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15071",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15072",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15073",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15074",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15075",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C15076",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14996",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14998",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K14999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15007",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15010",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15058",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15059",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15060",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15062",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K15076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14989",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14990",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14991",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14992",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14993",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14994",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14995",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14996",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14997",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14998",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L14999",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15000",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15001",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15002",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15003",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15004",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15005",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15006",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15007",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15008",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15009",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15010",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15011",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15012",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15013",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15014",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15015",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15016",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15017",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15018",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15019",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15020",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15021",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15022",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15023",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15024",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15025",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15026",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15027",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15028",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15029",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15030",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15031",
+    "before": null,
+    "after": "y9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15032",
+    "before": null,
+    "after": "y9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15033",
+    "before": null,
+    "after": "y11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15034",
+    "before": null,
+    "after": "y11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15035",
+    "before": null,
+    "after": "y12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15036",
+    "before": null,
+    "after": "y12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15037",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15038",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15039",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15040",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15041",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15042",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15043",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15044",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15045",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15046",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15047",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15048",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15049",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15050",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15051",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15052",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15053",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15054",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15055",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15056",
+    "before": null,
+    "after": "y7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15057",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15058",
+    "before": null,
+    "after": "y8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15059",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15060",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15061",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15062",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15063",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15064",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15065",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15066",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15067",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15068",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15069",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15070",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15071",
+    "before": null,
+    "after": "y13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15072",
+    "before": null,
+    "after": "y13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15073",
+    "before": null,
+    "after": "y15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15074",
+    "before": null,
+    "after": "y15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15075",
+    "before": null,
+    "after": "y16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L15076",
+    "before": null,
+    "after": "y16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14989",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14990",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14991",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14992",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14993",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14994",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14995",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14996",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14997",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14998",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M14999",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15000",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15001",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15002",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15003",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15004",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15005",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15006",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15007",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15008",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15009",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15010",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15011",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15012",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15013",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15014",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15015",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15016",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15017",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15018",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15019",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15020",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15021",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15022",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15023",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15024",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15025",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15026",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15027",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15028",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15029",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15030",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15031",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15032",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15033",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15034",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15035",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15036",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15037",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15038",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15039",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15040",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15041",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15042",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15043",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15044",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15045",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15046",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15047",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15048",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15049",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15050",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15051",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15052",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15053",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15054",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15055",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15056",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15057",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15058",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15059",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15060",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15061",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15062",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15063",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15064",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15065",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15066",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15067",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15068",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15069",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15070",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15071",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15072",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15073",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15074",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15075",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M15076",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14998",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N14999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15007",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15009",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15010",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15033",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15035",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15036",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15039",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15040",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15041",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15042",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15044",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15045",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15046",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15047",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15048",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15049",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15050",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15053",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15058",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15059",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15060",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15061",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15062",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15072",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N15076",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14991",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14994",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O14999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15006",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15007",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15009",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15010",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15018",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15023",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15025",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15031",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15032",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15033",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15035",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15036",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15037",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15038",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15039",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15040",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15041",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15042",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15044",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15045",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15046",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15047",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15048",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15049",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15050",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15053",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15055",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15056",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15058",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15059",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15060",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15061",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15062",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15069",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15072",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O15076",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14989",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14990",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14991",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14992",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14993",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14994",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14995",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14996",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14997",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14998",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P14999",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15000",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15001",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15002",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15003",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15004",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15005",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15006",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15007",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15008",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15009",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15010",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15011",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15012",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15013",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15014",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15015",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15016",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15018",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15019",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15021",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15022",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15023",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15024",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15025",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15026",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15027",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15028",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15037",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15038",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15039",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15041",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15043",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15044",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15045",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15046",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15047",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15048",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15049",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15050",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15051",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15052",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15053",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15054",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15055",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15056",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15057",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15058",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15059",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15060",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15061",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15062",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15063",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15064",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15065",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15066",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15067",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15068",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15069",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15070",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15071",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15072",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15073",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15074",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15075",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P15076",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14989",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MY, printed same-volatility levels 0.152 versus 0.087; benchmark endpoint RY=0.152. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14990",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MY, printed same-volatility levels 0.152 versus 0.087; benchmark endpoint MY=0.087. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14991",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MY, printed same-volatility levels 0.088 versus 0.106; benchmark endpoint RY=0.088. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14992",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MY, printed same-volatility levels 0.088 versus 0.106; benchmark endpoint MY=0.106. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14993",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MY, printed same-volatility levels 0.169 versus 0.144; benchmark endpoint RY=0.169. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer. p3911 explicitly says volatility is larger in recall (.169) than MP with search (.144)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14994",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MY, printed same-volatility levels 0.169 versus 0.144; benchmark endpoint MY=0.144. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer. p3911 explicitly says volatility is larger in recall (.169) than MP with search (.144)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14995",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MY, printed same-volatility levels 0.016 versus 0.017; benchmark endpoint RY=0.016. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14996",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MY, printed same-volatility levels 0.016 versus 0.017; benchmark endpoint MY=0.017. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14997",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RN versus MN, printed same-volatility levels 0.095 versus 0.061; benchmark endpoint RN=0.095. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14998",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RN versus MN, printed same-volatility levels 0.095 versus 0.061; benchmark endpoint MN=0.061. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q14999",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RN versus MN, printed same-volatility levels 0.040 versus 0.041; benchmark endpoint RN=0.040. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15000",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RN versus MN, printed same-volatility levels 0.040 versus 0.041; benchmark endpoint MN=0.041. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15001",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RN versus MN, printed same-volatility levels 0.066 versus 0.072; benchmark endpoint RN=0.066. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15002",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RN versus MN, printed same-volatility levels 0.066 versus 0.072; benchmark endpoint MN=0.072. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15003",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RN versus MN, printed same-volatility levels 0.017 versus 0.018; benchmark endpoint RN=0.017. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15004",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RN versus MN, printed same-volatility levels 0.017 versus 0.018; benchmark endpoint MN=0.018. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15005",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.152 versus 0.095; benchmark endpoint RY=0.152. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15006",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.152 versus 0.095; benchmark endpoint RN=0.095. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15007",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.088 versus 0.040; benchmark endpoint RY=0.088. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15008",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.088 versus 0.040; benchmark endpoint RN=0.040. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15009",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.169 versus 0.066; benchmark endpoint RY=0.169. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15010",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.169 versus 0.066; benchmark endpoint RN=0.066. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15011",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.068 versus 0.034; benchmark endpoint RY=0.068. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15012",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.068 versus 0.034; benchmark endpoint RN=0.034. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15013",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.016 versus 0.017; benchmark endpoint RY=0.016. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15014",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus RN, printed same-volatility levels 0.016 versus 0.017; benchmark endpoint RN=0.017. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15015",
+    "before": null,
+    "after": "Table9 p3910: regime contrast MY versus MN, printed same-volatility levels 0.087 versus 0.061; benchmark endpoint MY=0.087. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15016",
+    "before": null,
+    "after": "Table9 p3910: regime contrast MY versus MN, printed same-volatility levels 0.087 versus 0.061; benchmark endpoint MN=0.061. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15017",
+    "before": null,
+    "after": "Table9 p3910: regime contrast MY versus MN, printed same-volatility levels 0.106 versus 0.041; benchmark endpoint MY=0.106. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15018",
+    "before": null,
+    "after": "Table9 p3910: regime contrast MY versus MN, printed same-volatility levels 0.106 versus 0.041; benchmark endpoint MN=0.041. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15019",
+    "before": null,
+    "after": "Table9 p3910: regime contrast MY versus MN, printed same-volatility levels 0.144 versus 0.072; benchmark endpoint MY=0.144. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15020",
+    "before": null,
+    "after": "Table9 p3910: regime contrast MY versus MN, printed same-volatility levels 0.144 versus 0.072; benchmark endpoint MN=0.072. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15021",
+    "before": null,
+    "after": "Table9 p3910: regime contrast MY versus MN, printed same-volatility levels 0.017 versus 0.018; benchmark endpoint MY=0.017. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15022",
+    "before": null,
+    "after": "Table9 p3910: regime contrast MY versus MN, printed same-volatility levels 0.017 versus 0.018; benchmark endpoint MN=0.018. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15023",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MN, printed same-volatility levels 0.152 versus 0.061; benchmark endpoint RY=0.152. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15024",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MN, printed same-volatility levels 0.152 versus 0.061; benchmark endpoint MN=0.061. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15025",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MN, printed same-volatility levels 0.088 versus 0.041; benchmark endpoint RY=0.088. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15026",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MN, printed same-volatility levels 0.088 versus 0.041; benchmark endpoint MN=0.041. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15027",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MN, printed same-volatility levels 0.169 versus 0.072; benchmark endpoint RY=0.169. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15028",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MN, printed same-volatility levels 0.169 versus 0.072; benchmark endpoint MN=0.072. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15029",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MN, printed same-volatility levels 0.016 versus 0.018; benchmark endpoint RY=0.016. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15030",
+    "before": null,
+    "after": "Table9 p3910: regime contrast RY versus MN, printed same-volatility levels 0.016 versus 0.018; benchmark endpoint MN=0.018. R=Recall,M=MP,Y=search cost yes,N=no; quarterly logged HP-filtered SD. Endpoint pairing, not subtraction calculated by reviewer."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15031",
+    "before": null,
+    "after": "Table11 p3912 SD panel: search-cost Yes .137 versus No .048, new-hires job finding; same-volatility benchmark endpoint Yes .137. Both economies allow recall. VI.C pp3912–3913 explicitly attributes amplification of job-finding response to endogenous search effort; same contrast, not the separate recall-attribution paragraph."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15032",
+    "before": null,
+    "after": "Table11 p3912 SD panel: search-cost Yes .137 versus No .048, new-hires job finding; same-volatility benchmark endpoint No .048. Both economies allow recall. VI.C pp3912–3913 explicitly attributes amplification of job-finding response to endogenous search effort; same contrast, not the separate recall-attribution paragraph."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15033",
+    "before": null,
+    "after": "Table11 p3912 SD panel: search-cost Yes .034 versus No .024, acceptance; same-volatility benchmark endpoint Yes .034. Both economies allow recall."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15034",
+    "before": null,
+    "after": "Table11 p3912 SD panel: search-cost Yes .034 versus No .024, acceptance; same-volatility benchmark endpoint No .024. Both economies allow recall."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15035",
+    "before": null,
+    "after": "Table11 p3912 SD panel: search-cost Yes .098 versus No .066, true tightness; same-volatility benchmark endpoint Yes .098. Both economies allow recall."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15036",
+    "before": null,
+    "after": "Table11 p3912 SD panel: search-cost Yes .098 versus No .066, true tightness; same-volatility benchmark endpoint No .066. Both economies allow recall."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15037",
+    "before": null,
+    "after": "Appendix B.2 pB5: recall rate drops from13,500/45,000=30% to(13,500-6,000)/(45,000-6,000)=19%. monthly endpoint 30%; SIPP1990–1993 rounded/extrapolated hiring counts. Not QWI observed17% and not complete quarterly-rule adjustment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15038",
+    "before": null,
+    "after": "Appendix B.2 pB5: recall rate drops from13,500/45,000=30% to(13,500-6,000)/(45,000-6,000)=19%. quarterly one-month removal endpoint 19%; SIPP1990–1993 rounded/extrapolated hiring counts. Not QWI observed17% and not complete quarterly-rule adjustment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15039",
+    "before": null,
+    "after": "Table10 p3911: RY versus MY; displayed same-comovement-statistic levels 0.690 versus 0.412; benchmark RY=0.690. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15040",
+    "before": null,
+    "after": "Table10 p3911: RY versus MY; displayed same-comovement-statistic levels 0.690 versus 0.412; benchmark MY=0.412. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15041",
+    "before": null,
+    "after": "Table10 p3911: RY versus MY; displayed same-comovement-statistic levels -0.404 versus -0.663; benchmark RY=-0.404. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15042",
+    "before": null,
+    "after": "Table10 p3911: RY versus MY; displayed same-comovement-statistic levels -0.404 versus -0.663; benchmark MY=-0.663. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15043",
+    "before": null,
+    "after": "Table10 p3911: RY versus MY; displayed same-comovement-statistic levels 0.174 versus 0.122; benchmark RY=0.174. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15044",
+    "before": null,
+    "after": "Table10 p3911: RY versus MY; displayed same-comovement-statistic levels 0.174 versus 0.122; benchmark MY=0.122. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15045",
+    "before": null,
+    "after": "Table10 p3911: RN versus MN; displayed same-comovement-statistic levels 0.820 versus 0.622; benchmark RN=0.820. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15046",
+    "before": null,
+    "after": "Table10 p3911: RN versus MN; displayed same-comovement-statistic levels 0.820 versus 0.622; benchmark MN=0.622. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15047",
+    "before": null,
+    "after": "Table10 p3911: RN versus MN; displayed same-comovement-statistic levels -0.294 versus -0.501; benchmark RN=-0.294. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15048",
+    "before": null,
+    "after": "Table10 p3911: RN versus MN; displayed same-comovement-statistic levels -0.294 versus -0.501; benchmark MN=-0.501. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15049",
+    "before": null,
+    "after": "Table10 p3911: RN versus MN; displayed same-comovement-statistic levels 0.458 versus 0.180; benchmark RN=0.458. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15050",
+    "before": null,
+    "after": "Table10 p3911: RN versus MN; displayed same-comovement-statistic levels 0.458 versus 0.180; benchmark MN=0.180. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15051",
+    "before": null,
+    "after": "Table10 p3911: RY versus RN; displayed same-comovement-statistic levels 0.690 versus 0.820; benchmark RY=0.690. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15052",
+    "before": null,
+    "after": "Table10 p3911: RY versus RN; displayed same-comovement-statistic levels 0.690 versus 0.820; benchmark RN=0.820. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15053",
+    "before": null,
+    "after": "Table10 p3911: RY versus RN; displayed same-comovement-statistic levels -0.404 versus -0.294; benchmark RY=-0.404. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15054",
+    "before": null,
+    "after": "Table10 p3911: RY versus RN; displayed same-comovement-statistic levels -0.404 versus -0.294; benchmark RN=-0.294. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15055",
+    "before": null,
+    "after": "Table10 p3911: RY versus RN; displayed same-comovement-statistic levels 0.174 versus 0.458; benchmark RY=0.174. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15056",
+    "before": null,
+    "after": "Table10 p3911: RY versus RN; displayed same-comovement-statistic levels 0.174 versus 0.458; benchmark RN=0.458. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15057",
+    "before": null,
+    "after": "Table10 p3911: RY versus RN; displayed same-comovement-statistic levels 0.252 versus 0.096; benchmark RY=0.252. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15058",
+    "before": null,
+    "after": "Table10 p3911: RY versus RN; displayed same-comovement-statistic levels 0.252 versus 0.096; benchmark RN=0.096. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15059",
+    "before": null,
+    "after": "Table10 p3911: MY versus MN; displayed same-comovement-statistic levels 0.412 versus 0.622; benchmark MY=0.412. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15060",
+    "before": null,
+    "after": "Table10 p3911: MY versus MN; displayed same-comovement-statistic levels 0.412 versus 0.622; benchmark MN=0.622. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15061",
+    "before": null,
+    "after": "Table10 p3911: MY versus MN; displayed same-comovement-statistic levels -0.663 versus -0.501; benchmark MY=-0.663. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15062",
+    "before": null,
+    "after": "Table10 p3911: MY versus MN; displayed same-comovement-statistic levels -0.663 versus -0.501; benchmark MN=-0.501. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15063",
+    "before": null,
+    "after": "Table10 p3911: MY versus MN; displayed same-comovement-statistic levels 0.122 versus 0.180; benchmark MY=0.122. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15064",
+    "before": null,
+    "after": "Table10 p3911: MY versus MN; displayed same-comovement-statistic levels 0.122 versus 0.180; benchmark MN=0.180. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15065",
+    "before": null,
+    "after": "Table10 p3911: RY versus MN; displayed same-comovement-statistic levels 0.690 versus 0.622; benchmark RY=0.690. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15066",
+    "before": null,
+    "after": "Table10 p3911: RY versus MN; displayed same-comovement-statistic levels 0.690 versus 0.622; benchmark MN=0.622. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15067",
+    "before": null,
+    "after": "Table10 p3911: RY versus MN; displayed same-comovement-statistic levels -0.404 versus -0.501; benchmark RY=-0.404. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15068",
+    "before": null,
+    "after": "Table10 p3911: RY versus MN; displayed same-comovement-statistic levels -0.404 versus -0.501; benchmark MN=-0.501. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15069",
+    "before": null,
+    "after": "Table10 p3911: RY versus MN; displayed same-comovement-statistic levels 0.174 versus 0.180; benchmark RY=0.174. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15070",
+    "before": null,
+    "after": "Table10 p3911: RY versus MN; displayed same-comovement-statistic levels 0.174 versus 0.180; benchmark MN=0.180. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15071",
+    "before": null,
+    "after": "Table11 p3912 elasticity panel: RY versus RN; displayed same-comovement-statistic levels -0.659 versus -0.377; benchmark RY=-0.659. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15072",
+    "before": null,
+    "after": "Table11 p3912 elasticity panel: RY versus RN; displayed same-comovement-statistic levels -0.659 versus -0.377; benchmark RN=-0.377. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15073",
+    "before": null,
+    "after": "Table11 p3912 elasticity panel: RY versus RN; displayed same-comovement-statistic levels -0.135 versus -0.134; benchmark RY=-0.135. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15074",
+    "before": null,
+    "after": "Table11 p3912 elasticity panel: RY versus RN; displayed same-comovement-statistic levels -0.135 versus -0.134; benchmark RN=-0.134. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15075",
+    "before": null,
+    "after": "Table11 p3912 elasticity panel: RY versus RN; displayed same-comovement-statistic levels -0.476 versus -0.542; benchmark RY=-0.476. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q15076",
+    "before": null,
+    "after": "Table11 p3912 elasticity panel: RY versus RN; displayed same-comovement-statistic levels -0.476 versus -0.542; benchmark RN=-0.542. R=Recall,M=MP,Y=search cost yes,N=no. Focal intervention changes the model regime with recalibration; no reviewer-computed difference or division."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14989",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14990",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14991",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14992",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14993",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14994",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14995",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14996",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14997",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14998",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R14999",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15000",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15001",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15002",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15003",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15004",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15005",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15006",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15007",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15008",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15009",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15010",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15011",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15012",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15013",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15014",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15015",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15016",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15017",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15018",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15019",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15020",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15021",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15022",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15023",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15024",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15025",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15026",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15027",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15028",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15029",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15030",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15031",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15032",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15033",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15034",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15035",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15036",
+    "before": null,
+    "after": "Derived-moment outcome convention: benchmark is a level of the same volatility statistic, not the SD of that statistic. Symmetric displayed endpoints; no invented subtraction or zero for a dash. Independent H02 admits levels of derived volatility AND descriptive comovement statistics consistently; causal shock-response elasticities remain a separate gate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15037",
+    "before": null,
+    "after": "Eligibility: explicit same-share endpoints. Underlying hires population changes when spells are ironed out, and extrapolated weights/target counterfactual are not specified; alignment unknown for both endpoints. No effect divided by baseline is stated (divided=0); ratios construct outcome shares, not effect/benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15038",
+    "before": null,
+    "after": "Eligibility: explicit same-share endpoints. Underlying hires population changes when spells are ironed out, and extrapolated weights/target counterfactual are not specified; alignment unknown for both endpoints. No effect divided by baseline is stated (divided=0); ratios construct outcome shares, not effect/benchmark."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15039",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15040",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15041",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15042",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15043",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15044",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15045",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15046",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15047",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15048",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15049",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15050",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15051",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15052",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15053",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15054",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15055",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15056",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15057",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15058",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15059",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15060",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15061",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15062",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15063",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15064",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15065",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15066",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15067",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15068",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15069",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15070",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15071",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15072",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15073",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15074",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15075",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R15076",
+    "before": null,
+    "after": "H02: the unemployment slope is explicitly a comovement measure (p3908), not a directional causal unemployment effect. A regime-induced change in this derived statistic can be paired with its same-statistic endpoints, consistently with volatility. Competing underlying-labor-outcome reading would exclude BOTH families. other_level is not the SD/mean of the underlying labor variable. No inferred zero for dashes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11774",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11775",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11776",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11777",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11778",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11779",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11780",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11781",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11782",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11783",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11784",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11785",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11786",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11787",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11788",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11789",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11790",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A11791",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11774",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11775",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11776",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11777",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11778",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11779",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11780",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11781",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11782",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11783",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11784",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11785",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11786",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11787",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11788",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11789",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11790",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B11791",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11774",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11775",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11776",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11777",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11778",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11779",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11780",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11781",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11782",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11783",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11784",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11785",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11786",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11787",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11788",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11789",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11790",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C11791",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11787",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H11791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3122",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3123",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3124",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3125",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3126",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3127",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3128",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3129",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3131",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3132",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3134",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3135",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3136",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3137",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3138",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3139",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3140",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3141",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3142",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3143",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3148",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3157",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3159",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3160",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11774",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11775",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11776",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11777",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11778",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11779",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11780",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11781",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11782",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11783",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11784",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11785",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11786",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11787",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11788",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11789",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11790",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I11791",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3122",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3123",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3124",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3125",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3126",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3127",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3128",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3129",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3130",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3131",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3132",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3133",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3134",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3135",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3136",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3137",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3138",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3139",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3140",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3141",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3142",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3143",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3144",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3145",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3146",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3147",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3148",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3149",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3150",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3151",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3152",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3153",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3154",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3155",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3156",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3157",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3158",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3159",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3160",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11774",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11775",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11776",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11777",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11778",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11779",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11780",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11781",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11782",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11783",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11784",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11785",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11786",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11787",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11788",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11789",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11790",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J11791",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3122",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3123",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3124",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3125",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3126",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3127",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3128",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3129",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3130",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3131",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3132",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3133",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3134",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3135",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3136",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3137",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3138",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3139",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3140",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3141",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3142",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3143",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3144",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3145",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3146",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3147",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3148",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3149",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3150",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3151",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3152",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3153",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3154",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3155",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3156",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3157",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3158",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3159",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3160",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3161",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11774",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly average labor productivity); Table9. Endogenous ALP; same shock process does not make this statistic fixed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11775",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly average labor productivity); Table9. Endogenous ALP; same shock process does not make this statistic fixed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11776",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly separation probability); Table9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11777",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly total job-finding probability); Table9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11778",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly measured tightness (vacancies/unemployment)); Table9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11779",
+    "before": null,
+    "after": "Comovement elasticity of separation probability with unemployment; Table10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11780",
+    "before": null,
+    "after": "Comovement elasticity of total job-finding probability with unemployment; Table10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11781",
+    "before": null,
+    "after": "Comovement elasticity of vacancies with unemployment; Table10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11782",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly average labor productivity); Table9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11783",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly separation probability); Table9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11784",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly total job-finding probability); Table9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11785",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly measured tightness (vacancies/unemployment)); Table9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11786",
+    "before": null,
+    "after": "Comovement elasticity of separation probability with unemployment; Table10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11787",
+    "before": null,
+    "after": "Comovement elasticity of total job-finding probability with unemployment; Table10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11788",
+    "before": null,
+    "after": "Comovement elasticity of vacancies with unemployment; Table10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11789",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly average labor productivity); Table9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11790",
+    "before": null,
+    "after": "Volatility of logged HP-filtered quarterly unemployment rate: benchmark recall/search model .199, MP with neither qualitatively lower; VI.B p3910. No numerical MP or empirical volatility supplied; do not fabricate. "
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K11791",
+    "before": null,
+    "after": "Measured share of hires from nonemployment that are recalls; SIPP1990–1993 worked counterfactual irons out approximately6,000 one-month spells returning to the same employer, not all12,702 one-month completed spells. Continuous aggregate share, not binary individual recall; partial QWI-rule adjustment. Appendix B.2 ppB4–B5."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3122",
+    "before": null,
+    "after": "Spurious as causal outcome under rejected descriptive Table5 setting; original definition preserved. H01."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3123",
+    "before": null,
+    "after": "Spurious as causal outcome under rejected descriptive Table5 setting; original definition preserved. H01."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3124",
+    "before": null,
+    "after": "Spurious as causal outcome under rejected descriptive Table5 setting; original definition preserved. H01."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3125",
+    "before": null,
+    "after": "Spurious as causal outcome under rejected descriptive Table5 setting; original definition preserved. H01."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3126",
+    "before": null,
+    "after": "Spurious as causal outcome under rejected descriptive Table5 setting; original definition preserved. H01."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3127",
+    "before": null,
+    "after": "Spurious as causal outcome under rejected descriptive Table5 setting; original definition preserved. H01."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3128",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly separation probability) across simulated stochastic equilibrium; Table9. The dependent derived statistic is continuous; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3129",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly total job-finding probability) across simulated stochastic equilibrium; Table9. The dependent derived statistic is continuous; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3130",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly measured tightness (vacancies/unemployment)) across simulated stochastic equilibrium; Table9. The dependent derived statistic is continuous; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3131",
+    "before": null,
+    "after": "Spurious for a quantified recall/no-recall contrast: MP recall rate is undefined and printed dash. Search-cost contrast is s3 y4."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3132",
+    "before": null,
+    "after": "Comovement elasticity of separation probability with respect to unemployment, slope on logged HP-filtered quarterly series; Table10. Outcome of regime intervention is this derived response statistic, not unemployment itself."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3133",
+    "before": null,
+    "after": "Comovement elasticity of total job-finding probability with respect to unemployment, slope on logged HP-filtered quarterly series; Table10. Outcome of regime intervention is this derived response statistic, not unemployment itself."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3134",
+    "before": null,
+    "after": "Comovement elasticity of vacancies with respect to unemployment, slope on logged HP-filtered quarterly series; Table10. Outcome of regime intervention is this derived response statistic, not unemployment itself."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3135",
+    "before": null,
+    "after": "Spurious for a quantified recall/no-recall contrast: MP recall-rate elasticity is undefined. Retained search-cost contrast s3 y8."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3136",
+    "before": null,
+    "after": "Volatility (SD of log HP-filtered quarterly new-hire job-finding probability); Table11. VI.C p3912 explicitly attributes increased cyclical volatility to recall; qualitative minimum only, no printed MP endpoint or transferred Table11 coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3137",
+    "before": null,
+    "after": "Spurious quantified recall-regime volatility allocation: Table11 varies search cost only. Search-effort mechanism retained qualitatively in h2; original s3 y10 covers actual table."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3138",
+    "before": null,
+    "after": "Volatility (SD of log HP-filtered quarterly acceptance probability); Table11. VI.C p3912 explicitly attributes increased cyclical volatility to recall; qualitative minimum only, no printed MP endpoint or transferred Table11 coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3139",
+    "before": null,
+    "after": "Volatility (SD of log HP-filtered quarterly true tightness); Table11. VI.C p3912 explicitly attributes increased cyclical volatility to recall; qualitative minimum only, no printed MP endpoint or transferred Table11 coefficient."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3140",
+    "before": null,
+    "after": "Spurious Table11 elasticity allocation to recall/no-recall: both displayed rows include recall; actual contrast retained as s3 y13. No distinct MP elasticity implemented at this location."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3141",
+    "before": null,
+    "after": "Spurious Table11 elasticity allocation to recall/no-recall: both displayed rows include recall; actual contrast retained as s3 y14. No distinct MP elasticity implemented at this location."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3142",
+    "before": null,
+    "after": "Spurious Table11 elasticity allocation to recall/no-recall: both displayed rows include recall; actual contrast retained as s3 y15. No distinct MP elasticity implemented at this location."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3143",
+    "before": null,
+    "after": "Spurious Table11 elasticity allocation to recall/no-recall: both displayed rows include recall; actual contrast retained as s3 y16. No distinct MP elasticity implemented at this location."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3144",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly separation probability) across simulated stochastic equilibrium; Table9. The dependent derived statistic is continuous; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3145",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly total job-finding probability) across simulated stochastic equilibrium; Table9. The dependent derived statistic is continuous; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3146",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly measured tightness (vacancies/unemployment)) across simulated stochastic equilibrium; Table9. The dependent derived statistic is continuous; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3147",
+    "before": null,
+    "after": "Volatility (SD of logged HP-filtered quarterly recall rate) across simulated stochastic equilibrium; Table9. The dependent derived statistic is continuous; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3148",
+    "before": null,
+    "after": "Comovement elasticity of separation probability with respect to unemployment, slope on logged HP-filtered quarterly series; Table10. Outcome of regime intervention is this derived response statistic, not unemployment itself."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3149",
+    "before": null,
+    "after": "Comovement elasticity of total job-finding probability with respect to unemployment, slope on logged HP-filtered quarterly series; Table10. Outcome of regime intervention is this derived response statistic, not unemployment itself."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3150",
+    "before": null,
+    "after": "Comovement elasticity of vacancies with respect to unemployment, slope on logged HP-filtered quarterly series; Table10. Outcome of regime intervention is this derived response statistic, not unemployment itself."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3151",
+    "before": null,
+    "after": "Comovement elasticity of recall rate with respect to unemployment, slope on logged HP-filtered quarterly series; Table10. Outcome of regime intervention is this derived response statistic, not unemployment itself."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3152",
+    "before": null,
+    "after": "Volatility (SD of log HP-filtered quarterly new-hire job-finding probability); Table11. No-search entry for search probability is dash, not zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3153",
+    "before": null,
+    "after": "Volatility (SD of log HP-filtered quarterly search probability); Table11. No-search entry for search probability is dash, not zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3154",
+    "before": null,
+    "after": "Volatility (SD of log HP-filtered quarterly acceptance probability); Table11. No-search entry for search probability is dash, not zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3155",
+    "before": null,
+    "after": "Volatility (SD of log HP-filtered quarterly true tightness); Table11. No-search entry for search probability is dash, not zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3156",
+    "before": null,
+    "after": "Comovement elasticity of new-hire job-finding probability with unemployment; Table11. Search-cost regime response statistic; dash is not zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3157",
+    "before": null,
+    "after": "Comovement elasticity of search probability with unemployment; Table11. Search-cost regime response statistic; dash is not zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3158",
+    "before": null,
+    "after": "Comovement elasticity of acceptance probability with unemployment; Table11. Search-cost regime response statistic; dash is not zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3159",
+    "before": null,
+    "after": "Comovement elasticity of true tightness with unemployment; Table11. Search-cost regime response statistic; dash is not zero."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3160",
+    "before": null,
+    "after": "Model amplification elasticity, printed as measured tightness with respect to unemployment, 3.63 baseline versus3.70 alternative calibration; p3914. Following formula instead concerns job-finding with respect to productivity: unresolved source label conflict."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3161",
+    "before": null,
+    "after": "Duplicate of y1: ability to amplify is the interpretation of the same reported elasticity, not a separately defined outcome."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E145",
+    "before": null,
+    "after": "DONE — full available-source review and focused independent audit completed under parent adjudication; not omission-free certification or empirical replication. Final article and official appendix reviewed; replication archive retrieval blocked, no code inspected and no replication performed. Parent accepts the derived-statistic outcome convention consistently: 48 volatility and 38 descriptive comovement endpoint comparisons in Tables 9–11 are other_level of the same statistic, not outcome-SD benchmarks or causal unemployment responses. Intervention is the recalibrated model regime, not unemployment; no differences or ratios invented. The narrower alternative excluding all moment endpoints remains explicit. Table 5 descriptive exclusion is parameter-specific, not based on credibility or FE count. Common shock histories do not imply fixed parameters across recalibrated regimes. Appendix B.2 h3 is an implemented measurement-rule counterfactual on the same histories, ironing out approximately 6,000 one-month SAME-EMPLOYER RETURN spells, not all jobless spells or complete quarterly harmonization. Nonlinear ratio recomputation is Other; 30% and 19% share endpoints have unknown alignment because the denominator population changes; share construction is not effect/base division. s4 retains the near-null calibration response, its separate implementation and response-label/formula conflict; response benchmarks remain held. The .015 unemployment comovement is not a causal shock response; broader qualitative shock-scope alternative remains held. Model/data fit and calibration targets remain excluded. Preserve all source conflicts and minimum Table 11 allocations without treating dashes as zeros. All held evidence and competing interpretations remain outside application arrays."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5071",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5072",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5073",
+    "before": null,
+    "after": "XAN8UCCY"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5071",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5072",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5073",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1248",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1249",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1250",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1251",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5071",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5072",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5073",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1251",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1249",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1250",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1251",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1248",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1249",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1250",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1251",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5071",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5072",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5073",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1248",
+    "before": null,
+    "after": "Rejected: Table 5 and Figures 1–4 describe business-cycle comovement, not a directional effect of unemployment on recall."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1249",
+    "before": null,
+    "after": "Recall option versus no recall, separately holding search-cost regime at Yes or No, with documented recalibration; Tables9–10 pp3910–3911. Qualitative mechanism responses in VI.C retained only where explicitly attributed to recall; no invented MP counterpart for recall-rate or Table11 cells."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1250",
+    "before": null,
+    "after": "Costly endogenous search effort versus no search cost within recall economy; Tables9–11 pp3910–3912. Includes volatility and comovement responses. No-search search-probability entries are printed dashes, not estimated zeros."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1251",
+    "before": null,
+    "after": "Alternative MP calibration excluding recalls (15% new-job finding and .9% permanent separation) versus total-rate calibration (27.7%,1.4%); VI.D p3914. Binary calibration-rule contrast on model amplification elasticity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5071",
+    "before": null,
+    "after": "Costly endogenous search effort versus no search cost within no-recall MP economy; Tables9–10 pp3910–3911. Separate implemented regime contrast supporting mechanism."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5072",
+    "before": null,
+    "after": "Joint recall option plus costly endogenous search versus MP with neither; polar-model contrast Tables9–10 and VI.B pp3910–3911. Distinct joint intervention, not duplicate of recall conditional on a fixed search regime."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5073",
+    "before": null,
+    "after": "Impose the one-month same-employer-return component of QWI observation rules on SIPP monthly job histories: iron out about6,000 one-month recall spells as uninterrupted employment; measured recall share falls30%→19%. Appendix B.2 ppB4–B5. Binary original-versus-partially-adjusted measurement-rule contrast, not full quarterly harmonization or removal of all one-month jobless spells."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1248",
+    "before": null,
+    "after": "pp3892–3897 explicitly describe cyclical properties, elasticity as preferred cyclicality measure, and empirical relationship. p3908 says focus is comovement, not origin of shocks. No parameter-specific causal reading of the Table5 unemployment slope established. QWI state FE are present, but no identifying-FE argument; do not split a rejected descriptive regression into causal OLS/FE settings. Broad-intention alternative held H01."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1249",
+    "before": null,
+    "after": "Nonlinear structural equilibrium: Bellman/value-function iteration, endogenous threshold/search decisions and simulated moments, calibrated by moment-distance minimization; Appendix C.1–C.3. Not OLS merely because comovement moments are regression slopes. Counterfactual model variants are recalibrated, NOT an all-parameters-fixed switch: C.1 changes b,c0,sigma_epsilon,mu,kappa and keeps rho_epsilon,delta fixed; same aggregate shock sequence. C.2 preserves replacement ratio .75, not the target .71. Binary regime contrasts; identification is maintained model structure, not randomized workers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1250",
+    "before": null,
+    "after": "Nonlinear structural equilibrium: Bellman/value-function iteration, endogenous threshold/search decisions and simulated moments, calibrated by moment-distance minimization; Appendix C.1–C.3. Not OLS merely because comovement moments are regression slopes. Counterfactual model variants are recalibrated, NOT an all-parameters-fixed switch: C.1 changes b,c0,sigma_epsilon,mu,kappa and keeps rho_epsilon,delta fixed; same aggregate shock sequence. C.2 preserves replacement ratio .75, not the target .71. Binary regime contrasts; identification is maintained model structure, not randomized workers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1251",
+    "before": null,
+    "after": "VI.D p3914: implemented binary recalibration of canonical MP steady-state transition targets, not a continuous dose and not a fixed-parameter recall switch. Nonlinear equilibrium amplification calculation (Other); distinct from the four stochastic variants in Tables9–11. Printed tightness/unemployment elasticity3.63→3.70 conflicts with the subsequent job-finding/productivity formula. Retain literal response and substantive near-null; no repair or effect-to-effect comparison addition."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5071",
+    "before": null,
+    "after": "Nonlinear structural equilibrium: Bellman/value-function iteration, endogenous threshold/search decisions and simulated moments, calibrated by moment-distance minimization; Appendix C.1–C.3. Not OLS merely because comovement moments are regression slopes. Counterfactual model variants are recalibrated, NOT an all-parameters-fixed switch: C.1 changes b,c0,sigma_epsilon,mu,kappa and keeps rho_epsilon,delta fixed; same aggregate shock sequence. C.2 preserves replacement ratio .75, not the target .71. Binary regime contrasts; identification is maintained model structure, not randomized workers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5072",
+    "before": null,
+    "after": "Nonlinear structural equilibrium: Bellman/value-function iteration, endogenous threshold/search decisions and simulated moments, calibrated by moment-distance minimization; Appendix C.1–C.3. Not OLS merely because comovement moments are regression slopes. Counterfactual model variants are recalibrated, NOT an all-parameters-fixed switch: C.1 changes b,c0,sigma_epsilon,mu,kappa and keeps rho_epsilon,delta fixed; same aggregate shock sequence. C.2 preserves replacement ratio .75, not the target .71. Binary regime contrasts; identification is maintained model structure, not randomized workers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5073",
+    "before": null,
+    "after": "Implemented worked measurement counterfactual: (13,500-6,000)/(45,000-6,000)=19% versus13,500/45,000=30%, rounded by authors. Ratio changes both numerator and denominator; nonlinear in underlying spell outcomes, Other. Not a labor-market behavioral intervention. Two/three/four-month extensions mentioned qualitatively; no invented resulting rate. H04 alternative diagnostic-only gate."
+  }
+]
+```
