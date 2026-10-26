@@ -1686759,3 +1686759,16938 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-26T20:01:54.577653+00:00 — Review Z4IHUW3G: one-paper adjudicated source-scoped coding
+
+2821 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A16942",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16943",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16944",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16945",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16946",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16947",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16948",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16949",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16950",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16951",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16952",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16953",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16954",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16955",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16956",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16957",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16958",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16959",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16960",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16961",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16962",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16963",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16964",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16965",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16966",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16967",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16968",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16969",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16970",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16971",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16972",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16973",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16974",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16975",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16976",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16977",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16978",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16979",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16980",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16981",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16982",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16983",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16984",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16985",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16986",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16987",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16988",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16989",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16990",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16991",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16992",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16993",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16994",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16995",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16996",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16997",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16998",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A16999",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17000",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17001",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17002",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17003",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17004",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17005",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17006",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17007",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17008",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17009",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17010",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17011",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17012",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17013",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17014",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17015",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17016",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17017",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17018",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17019",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17020",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17021",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17022",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17023",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17024",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17025",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17026",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17027",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17028",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17029",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17030",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17031",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17032",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17033",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17034",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17035",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17036",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17037",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17038",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17039",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17040",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17041",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17042",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17043",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17044",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17045",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17046",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17047",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17048",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17049",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17050",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17051",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17052",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17053",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17054",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17055",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17056",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17057",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17058",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17059",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17060",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17061",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17062",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17063",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17064",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17065",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17066",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17067",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17068",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17069",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17070",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17071",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17072",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17073",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17074",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17075",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17076",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17077",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17078",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17079",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17080",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17081",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17082",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17083",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17084",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17085",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17086",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17087",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17088",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17089",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17090",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17091",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17092",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17093",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17094",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17095",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17096",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17097",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17098",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17099",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17100",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17101",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17102",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17103",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17104",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16942",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16943",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16944",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16945",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16946",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16947",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16948",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16949",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16950",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16951",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16952",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16953",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16954",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16955",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16956",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16957",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16958",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16959",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16960",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16961",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16962",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16963",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16964",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16965",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16966",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16967",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16968",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16969",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16970",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16971",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16972",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16973",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16974",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16975",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16976",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16977",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16978",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16979",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16980",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16981",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16982",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16983",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16984",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16985",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16986",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16987",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16988",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16989",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16990",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16991",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16992",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16993",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16994",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16995",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16996",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16997",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16998",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B16999",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17000",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17001",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17002",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17003",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17004",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17005",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17006",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17007",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17008",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17009",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17010",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17011",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17012",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17013",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17014",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17015",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17016",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17017",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17018",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17019",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17020",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17021",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17022",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17023",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17024",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17025",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17026",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17027",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17028",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17029",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17030",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17031",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17032",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17033",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17034",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17035",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17036",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17037",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17038",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17039",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17040",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17041",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17042",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17043",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17044",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17045",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17046",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17047",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17048",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17049",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17050",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17051",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17052",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17053",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17054",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17055",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17056",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17057",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17058",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17059",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17060",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17061",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17062",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17063",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17064",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17065",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17066",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17067",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17068",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17069",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17070",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17071",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17072",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17073",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17074",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17075",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17076",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17077",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17078",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17079",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17080",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17081",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17082",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17083",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17084",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17085",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17086",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17087",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17088",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17089",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17090",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17091",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17092",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17093",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17094",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17095",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17096",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17097",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17098",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17099",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17100",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17101",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17102",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17103",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17104",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16942",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16943",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16944",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16945",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16946",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16947",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16948",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16949",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16950",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16951",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16952",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16953",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16954",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16955",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16956",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16957",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16958",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16959",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16960",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16961",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16962",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16963",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16964",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16965",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16966",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16967",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16968",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16969",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16970",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16971",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16972",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16973",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16974",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16975",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16976",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16977",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16978",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16979",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16980",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16981",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16982",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16983",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16984",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16985",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16986",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16987",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16988",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16989",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16990",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16991",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16992",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16993",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16994",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16995",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16996",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16997",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16998",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C16999",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17000",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17001",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17002",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17003",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17004",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17005",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17006",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17007",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17008",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17009",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17010",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17011",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17012",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17013",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17014",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17015",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17016",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17017",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17018",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17019",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17020",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17021",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17022",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17023",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17024",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17025",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17026",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17027",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17028",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17029",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17030",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17031",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17032",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17033",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17034",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17035",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17036",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17037",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17038",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17039",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17040",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17041",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17042",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17043",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17044",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17045",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17046",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17047",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17048",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17049",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17050",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17051",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17052",
+    "before": null,
+    "after": "hc32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17053",
+    "before": null,
+    "after": "hc33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17054",
+    "before": null,
+    "after": "hc34"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17055",
+    "before": null,
+    "after": "hc35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17056",
+    "before": null,
+    "after": "hc36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17057",
+    "before": null,
+    "after": "hc37"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17058",
+    "before": null,
+    "after": "hc38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17059",
+    "before": null,
+    "after": "hc39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17060",
+    "before": null,
+    "after": "hc40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17061",
+    "before": null,
+    "after": "hc41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17062",
+    "before": null,
+    "after": "hc42"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17063",
+    "before": null,
+    "after": "hc43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17064",
+    "before": null,
+    "after": "hc44"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17065",
+    "before": null,
+    "after": "hc45"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17066",
+    "before": null,
+    "after": "hc46"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17067",
+    "before": null,
+    "after": "hc47"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17068",
+    "before": null,
+    "after": "hc48"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17069",
+    "before": null,
+    "after": "hc49"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17070",
+    "before": null,
+    "after": "hc50"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17071",
+    "before": null,
+    "after": "hc51"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17072",
+    "before": null,
+    "after": "hc52"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17073",
+    "before": null,
+    "after": "hc53"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17074",
+    "before": null,
+    "after": "hc54"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17075",
+    "before": null,
+    "after": "hc55"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17076",
+    "before": null,
+    "after": "hc56"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17077",
+    "before": null,
+    "after": "hc57"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17078",
+    "before": null,
+    "after": "hc58"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17079",
+    "before": null,
+    "after": "hc59"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17080",
+    "before": null,
+    "after": "hc60"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17081",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17082",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17083",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17084",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17085",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17086",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17087",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17088",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17089",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17090",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17091",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17092",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17093",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17094",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17095",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17096",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17097",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17098",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17099",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17100",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17101",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17102",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17103",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17104",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16954",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16956",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16966",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16985",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16988",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16996",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16998",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K16999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17006",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17007",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17008",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17010",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17058",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17059",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17060",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17062",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17077",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17082",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17083",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17084",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17085",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17087",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17092",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17093",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17094",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17096",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17097",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17098",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17099",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K930",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K931",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K934",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K935",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K937",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K941",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K942",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16942",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16943",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16944",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16945",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16946",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16947",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16948",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16949",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16950",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16951",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16952",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16953",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16954",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16955",
+    "before": null,
+    "after": "y5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16956",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16957",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16958",
+    "before": null,
+    "after": "y6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16959",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16960",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16961",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16962",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16963",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16964",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16965",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16966",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16967",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16968",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16969",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16970",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16971",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16972",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16973",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16974",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16975",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16976",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16977",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16978",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16979",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16980",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16981",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16982",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16983",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16984",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16985",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16986",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16987",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16988",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16989",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16990",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16991",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16992",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16993",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16994",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16995",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16996",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16997",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16998",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L16999",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17000",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17001",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17002",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17003",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17004",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17005",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17006",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17007",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17008",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17009",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17010",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17011",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17012",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17013",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17014",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17015",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17016",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17017",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17018",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17019",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17020",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17021",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17022",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17023",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17024",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17025",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17026",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17027",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17028",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17029",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17030",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17031",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17032",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17033",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17034",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17035",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17036",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17037",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17038",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17039",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17040",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17041",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17042",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17043",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17044",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17045",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17046",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17047",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17048",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17049",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17050",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17051",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17052",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17053",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17054",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17055",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17056",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17057",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17058",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17059",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17060",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17061",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17062",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17063",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17064",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17065",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17066",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17067",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17068",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17069",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17070",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17071",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17072",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17073",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17074",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17075",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17076",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17077",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17078",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17079",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17080",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17081",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17082",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17083",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17084",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17085",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17086",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17087",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17088",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17089",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17090",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17091",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17092",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17093",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17094",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17095",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17096",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17097",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17098",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17099",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17100",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17101",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17102",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17103",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17104",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L930",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L931",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L932",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L933",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L934",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L936",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L937",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L938",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L941",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L942",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16942",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16943",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16944",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16945",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16946",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16947",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16948",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16949",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16950",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16951",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16952",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16953",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16954",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16955",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16956",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16957",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16958",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16959",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16960",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16961",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16962",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16963",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16964",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16965",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16966",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16967",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16968",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16969",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16970",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16971",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16972",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16973",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16974",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16975",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16976",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16977",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16978",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16979",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16980",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16981",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16982",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16983",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16984",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16985",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16986",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16987",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16988",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16989",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16990",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16991",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16992",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16993",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16994",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16995",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16996",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16997",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16998",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M16999",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17000",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17001",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17002",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17003",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17004",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17005",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17006",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17007",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17008",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17009",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17010",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17011",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17012",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17013",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17014",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17015",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17016",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17017",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17018",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17019",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17020",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17021",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17022",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17023",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17024",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17025",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17026",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17027",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17028",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17029",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17030",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17031",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17032",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17033",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17034",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17035",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17036",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17037",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17038",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17039",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17040",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17041",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17042",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17043",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17044",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17045",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17046",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17047",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17048",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17049",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17050",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17051",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17052",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17053",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17054",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17055",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17056",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17057",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17058",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17059",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17060",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17061",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17062",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17063",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17064",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17065",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17066",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17067",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17068",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17069",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17070",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17071",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17072",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17073",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17074",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17075",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17076",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17077",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17078",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17079",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17080",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17081",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17082",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17083",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17084",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17085",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17086",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17087",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17088",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17089",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17090",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17091",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17092",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17093",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17094",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17095",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17096",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17097",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17098",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17099",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17100",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17101",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17102",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17103",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17104",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M930",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M931",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M932",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M933",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M934",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M936",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M937",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M938",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M941",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M942",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16958",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16959",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16961",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16962",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16967",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16991",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16994",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N16999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17007",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17010",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17058",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17059",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17060",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17062",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17077",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17081",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17089",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17091",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17094",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17096",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N930",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N931",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N932",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N933",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N934",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16944",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16957",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16958",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16959",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16960",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16961",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16962",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16967",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16968",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16991",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16994",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O16999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17007",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17010",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17018",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17023",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17025",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17031",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17032",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17033",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17035",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17036",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17037",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17038",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17039",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17040",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17041",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17042",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17044",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17045",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17046",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17047",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17048",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17049",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17050",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17053",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17055",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17056",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17058",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17059",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17060",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17061",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17062",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17069",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17072",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17076",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17077",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17078",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17079",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17081",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17089",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17091",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17094",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17096",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O930",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O931",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O934",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16942",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16943",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16944",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16945",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16946",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16947",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16948",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16949",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16950",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16951",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16954",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16956",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16957",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16960",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16965",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16966",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16968",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16971",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16976",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16979",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16982",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16985",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16987",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16988",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16990",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16993",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16996",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16998",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P16999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17001",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17004",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17006",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17007",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17008",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17010",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17011",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17012",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17016",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17058",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17059",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17060",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17062",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17077",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17082",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17083",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17084",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17085",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17087",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17092",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17093",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17094",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17096",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17097",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17098",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17099",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P930",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P931",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P932",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P933",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P934",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P937",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P941",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P942",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16942",
+    "before": null,
+    "after": "Figure3 p.2175 local downstream discharge-share path at SSO versus its immediately pre-threshold PPS path, denominator all admissions. Qualitative graphical pairing; no digitized ordinate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16943",
+    "before": null,
+    "after": "Figure3 p.2175 local upstream discharge-share path at SSO versus its immediately pre-threshold PPS path, denominator all admissions. Qualitative graphical pairing; no digitized ordinate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16944",
+    "before": null,
+    "after": "Figure3 p.2175 local death discharge-share path at SSO versus its immediately pre-threshold PPS path, denominator all admissions. Qualitative graphical pairing; no digitized ordinate. p.2177 explicitly describes little difference around the SSO threshold; this is a verbal null comparison, not purely graphical."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16945",
+    "before": null,
+    "after": "Figure4 pp.2175–76: downstream post-discharge payments rise approximately$10,000 to$20,000 at threshold; benchmark is earlier-day downstream dischargee mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16946",
+    "before": null,
+    "after": "Figure4 p.2176: small opposite-direction upstream post-discharge-payment change at SSO, paired with upstream pre-threshold mean path. No numerical endpoint inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16947",
+    "before": null,
+    "after": "Table C.I C(1), p.2203: −0.00005 probability units (−0.005 percentage points) versus baseline30-day-forward mortality13.4%."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16948",
+    "before": null,
+    "after": "Figure B.2 and fn12: sharp PPS decline in30-day post-live-discharge mortality at SSO compared with immediately prior-day rate path; qualitative, no ordinates invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16949",
+    "before": null,
+    "after": "Table III same-row mean.158 paired with reduced-form coefficient.0000 per one-day threshold increase, p.2180. Admission-weighted PPS population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16950",
+    "before": null,
+    "after": "Table III same-row mean.253 paired with reduced-form coefficient−.0013 per one-day threshold increase, p.2180. Admission-weighted PPS population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16951",
+    "before": null,
+    "after": "Table III same-row mean.306 paired with reduced-form coefficient−.0012 per one-day threshold increase, p.2180. Admission-weighted PPS population."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16952",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): LTCH profits per admission, dollars: counterfactual8991 versus observed-schedule6518. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16953",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): Average LTCH LOS, days from day−15 origin: counterfactual17.4 versus observed-schedule19.3. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16954",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): LTCH payment per day: aggregate payments divided by average LOS, dollars: counterfactual1625 versus observed-schedule1446. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16955",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): Upstream post-discharge episode payments per initial admission, dollars: counterfactual3551 versus observed-schedule3813. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16956",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): Share of initial admissions discharged upstream: counterfactual0.11 versus observed-schedule0.11. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16957",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): Payments per upstream discharge, dollars: counterfactual33315 versus observed-schedule33669. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean. Prose p.2195 explicitly compares post-discharge payments: higher-rate changes are a few hundred dollars; lower-cap decreases are larger but small relative to LTCH-payment decreases. No new ratio is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16958",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): Downstream post-discharge episode payments per initial admission, dollars: counterfactual16009 versus observed-schedule16031. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16959",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): Share of initial admissions discharged downstream: counterfactual0.8 versus observed-schedule0.79. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16960",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): Payments per downstream discharge, dollars: counterfactual19913 versus observed-schedule20367. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean. Prose p.2195 explicitly compares post-discharge payments: higher-rate changes are a few hundred dollars; lower-cap decreases are larger but small relative to LTCH-payment decreases. No new ratio is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16961",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): Total Medicare episode payments per initial admission, dollars: counterfactual47877 versus observed-schedule47796. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16962",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): LTCH payments per admission, dollars: counterfactual16024 versus observed-schedule27953. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16963",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): LTCH profits per admission, dollars: counterfactual-407 versus observed-schedule6518. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16964",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): Average LTCH LOS, days from day−15 origin: counterfactual14.8 versus observed-schedule19.3. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16965",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): LTCH payment per day: aggregate payments divided by average LOS, dollars: counterfactual1082 versus observed-schedule1446. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16966",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): Upstream post-discharge episode payments per initial admission, dollars: counterfactual3223 versus observed-schedule3813. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16967",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): Share of initial admissions discharged upstream: counterfactual0.1 versus observed-schedule0.11. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16968",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): Payments per upstream discharge, dollars: counterfactual32561 versus observed-schedule33669. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean. Prose p.2195 explicitly compares post-discharge payments: higher-rate changes are a few hundred dollars; lower-cap decreases are larger but small relative to LTCH-payment decreases. No new ratio is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16969",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): Downstream post-discharge episode payments per initial admission, dollars: counterfactual16153 versus observed-schedule16031. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16970",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): Share of initial admissions discharged downstream: counterfactual0.83 versus observed-schedule0.79. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16971",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): Payments per downstream discharge, dollars: counterfactual19548 versus observed-schedule20367. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean. Prose p.2195 explicitly compares post-discharge payments: higher-rate changes are a few hundred dollars; lower-cap decreases are larger but small relative to LTCH-payment decreases. No new ratio is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16972",
+    "before": null,
+    "after": "Table V p.2194 columns(3) vs(1): Total Medicare episode payments per initial admission, dollars: counterfactual35399 versus observed-schedule47796. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16973",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): LTCH payments per admission, dollars: counterfactual26313 versus observed-schedule27953. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16974",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): LTCH profits per admission, dollars: counterfactual6876 versus observed-schedule6518. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16975",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): Average LTCH LOS, days from day−15 origin: counterfactual17.5 versus observed-schedule19.3. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16976",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): LTCH payment per day: aggregate payments divided by average LOS, dollars: counterfactual1501 versus observed-schedule1446. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16977",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): Upstream post-discharge episode payments per initial admission, dollars: counterfactual3583 versus observed-schedule3813. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16978",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): Share of initial admissions discharged upstream: counterfactual0.11 versus observed-schedule0.11. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16979",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): Payments per upstream discharge, dollars: counterfactual33312 versus observed-schedule33669. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16980",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): Downstream post-discharge episode payments per initial admission, dollars: counterfactual15795 versus observed-schedule16031. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16981",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): Share of initial admissions discharged downstream: counterfactual0.8 versus observed-schedule0.79. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16982",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): Payments per downstream discharge, dollars: counterfactual19674 versus observed-schedule20367. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16983",
+    "before": null,
+    "after": "Table V p.2194 columns(4) vs(1): Total Medicare episode payments per initial admission, dollars: counterfactual45691 versus observed-schedule47796. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16984",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): LTCH payments per admission, dollars: counterfactual35546 versus observed-schedule27953. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16985",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): LTCH profits per admission, dollars: counterfactual-971 versus observed-schedule6518. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16986",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): Average LTCH LOS, days from day−15 origin: counterfactual32.9 versus observed-schedule19.3. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16987",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): LTCH payment per day: aggregate payments divided by average LOS, dollars: counterfactual1080 versus observed-schedule1446. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16988",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): Upstream post-discharge episode payments per initial admission, dollars: counterfactual5911 versus observed-schedule3813. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16989",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): Share of initial admissions discharged upstream: counterfactual0.17 versus observed-schedule0.11. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16990",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): Payments per upstream discharge, dollars: counterfactual35513 versus observed-schedule33669. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16991",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): Downstream post-discharge episode payments per initial admission, dollars: counterfactual10394 versus observed-schedule16031. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16992",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): Share of initial admissions discharged downstream: counterfactual0.66 versus observed-schedule0.79. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16993",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): Payments per downstream discharge, dollars: counterfactual15648 versus observed-schedule20367. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16994",
+    "before": null,
+    "after": "Table V p.2194 columns(5) vs(1): Total Medicare episode payments per initial admission, dollars: counterfactual51851 versus observed-schedule47796. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16995",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): LTCH payments per admission, dollars: counterfactual7392 versus observed-schedule27953. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16996",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): LTCH profits per admission, dollars: counterfactual-8865 versus observed-schedule6518. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16997",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): Average LTCH LOS, days from day−15 origin: counterfactual14.7 versus observed-schedule19.3. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16998",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): LTCH payment per day: aggregate payments divided by average LOS, dollars: counterfactual504 versus observed-schedule1446. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q16999",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): Upstream post-discharge episode payments per initial admission, dollars: counterfactual3240 versus observed-schedule3813. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17000",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): Share of initial admissions discharged upstream: counterfactual0.1 versus observed-schedule0.11. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17001",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): Payments per upstream discharge, dollars: counterfactual32494 versus observed-schedule33669. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17002",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): Downstream post-discharge episode payments per initial admission, dollars: counterfactual15247 versus observed-schedule16031. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17003",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): Share of initial admissions discharged downstream: counterfactual0.83 versus observed-schedule0.79. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17004",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): Payments per downstream discharge, dollars: counterfactual18436 versus observed-schedule20367. Each contract conditions on its own realized discharge destination; the initial admission distribution alone is shared. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17005",
+    "before": null,
+    "after": "Table V p.2194 columns(6) vs(1): Total Medicare episode payments per initial admission, dollars: counterfactual25879 versus observed-schedule47796. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17006",
+    "before": null,
+    "after": "p.2195: lower-cap LTCH payments decline$11,967 or43%; Table V27,953→16,024. Prose/table effect and normalization identity unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17007",
+    "before": null,
+    "after": "p.2195: total Medicare declines$12,456 or26%; intro p.2163 says about$13,000 or25%; Table V47,796→35,399. Possible same comparison with stale numbers; unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17008",
+    "before": null,
+    "after": "p.2197 LTCH payments fall$1,655 or5.9%; Table V27,953→26,313."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17009",
+    "before": null,
+    "after": "p.2197: LOS almost2days (7%) shorter; TableV19.3→17.5 and note b adds7.5days for full LOS."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17010",
+    "before": null,
+    "after": "p.2197 estimated-cost LOS increases from19.2 to32.0days; TableV instead19.3→32.9."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17011",
+    "before": null,
+    "after": "Figure10 p.2193: higher rate per day upstream health cutoff at50% discharge probability path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17012",
+    "before": null,
+    "after": "Figure10 p.2193: higher rate per day downstream health cutoff at50% discharge probability path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17013",
+    "before": null,
+    "after": "Figure10 p.2193: higher rate per day daily upstream discharge share of initial admissions path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17014",
+    "before": null,
+    "after": "Figure10 p.2193: higher rate per day daily downstream discharge share of initial admissions path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17015",
+    "before": null,
+    "after": "Figure10 p.2193: higher rate per day daily discharge-to-death share of initial admissions path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17016",
+    "before": null,
+    "after": "Figure10 p.2193: lower cap upstream health cutoff at50% discharge probability path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17017",
+    "before": null,
+    "after": "Figure10 p.2193: lower cap downstream health cutoff at50% discharge probability path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17018",
+    "before": null,
+    "after": "Figure10 p.2193: lower cap daily upstream discharge share of initial admissions path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17019",
+    "before": null,
+    "after": "Figure10 p.2193: lower cap daily downstream discharge share of initial admissions path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17020",
+    "before": null,
+    "after": "Figure10 p.2193: lower cap daily discharge-to-death share of initial admissions path deliberately compared with corresponding observed-contract model path; no digitized endpoints."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17021",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-10 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17022",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-10 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17023",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-10 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17024",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-9 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17025",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-9 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17026",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-9 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17027",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-8 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17028",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-8 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17029",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-8 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17030",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-7 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17031",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-7 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17032",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-7 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17033",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-6 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17034",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-6 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17035",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-6 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17036",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-5 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17037",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-5 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17038",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-5 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17039",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-4 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17040",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-4 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17041",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-4 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17042",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-3 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17043",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-3 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17044",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-3 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17045",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-2 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17046",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-2 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17047",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-2 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17048",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-1 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17049",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-1 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17050",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day-1 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17051",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+0 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17052",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+0 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17053",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+0 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17054",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+2 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17055",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+2 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17056",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+2 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17057",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+3 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17058",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+3 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17059",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+3 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17060",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+4 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17061",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+4 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17062",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+4 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17063",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+5 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17064",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+5 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17065",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+5 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17066",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+6 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17067",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+6 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17068",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+6 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17069",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+7 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17070",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+7 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17071",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+7 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17072",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+8 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17073",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+8 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17074",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+8 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17075",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+9 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17076",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+9 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17077",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+9 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17078",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+10 no-jump contract point versus observed-schedule cross; Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean47796; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17079",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+10 no-jump contract point versus observed-schedule cross; LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean27953; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17080",
+    "before": null,
+    "after": "Figure11 pp.2196–97 labeled cap-day+10 no-jump contract point versus observed-schedule cross; LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars. Reference TableV observed-contract mean6518; same model/population. Qualitative point; no counterfactual ordinate invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17081",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: higher rate per day, LTCH payments per admission, dollars, counterfactual28324 versus that model observed-contract mean27953."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17082",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: higher rate per day, LTCH profits per admission, dollars, counterfactual7762 versus that model observed-contract mean5153."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17083",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: higher rate per day, Average LOS from day−15 origin, days, counterfactual17.4 versus that model observed-contract mean19.3."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17084",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: higher rate per day, Total Medicare episode payments per admission, dollars, counterfactual47916 versus that model observed-contract mean47819."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17085",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: lower cap, LTCH payments per admission, dollars, counterfactual16043 versus that model observed-contract mean27953."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17086",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: lower cap, LTCH profits per admission, dollars, counterfactual-1460 versus that model observed-contract mean5153."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17087",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: lower cap, Average LOS from day−15 origin, days, counterfactual14.8 versus that model observed-contract mean19.3."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17088",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: lower cap, Total Medicare episode payments per admission, dollars, counterfactual35471 versus that model observed-contract mean47819."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17089",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: minimum-Medicare win-win, LTCH payments per admission, dollars, counterfactual26320 versus that model observed-contract mean27953."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17090",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: minimum-Medicare win-win, LTCH profits per admission, dollars, counterfactual5640 versus that model observed-contract mean5153."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17091",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: minimum-Medicare win-win, Average LOS from day−15 origin, days, counterfactual17.5 versus that model observed-contract mean19.3."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17092",
+    "before": null,
+    "after": "TableF.I PanelB p.2218: minimum-Medicare win-win, Total Medicare episode payments per admission, dollars, counterfactual45726 versus that model observed-contract mean47819."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17093",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: higher rate per day, LTCH payments per admission, dollars, counterfactual28545 versus that model observed-contract mean28101."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17094",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: higher rate per day, LTCH profits per admission, dollars, counterfactual12454 versus that model observed-contract mean10446."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17095",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: higher rate per day, Average LOS from day−15 origin, days, counterfactual18.0 versus that model observed-contract mean19.8."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17096",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: higher rate per day, Total Medicare episode payments per admission, dollars, counterfactual48322 versus that model observed-contract mean47969."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17097",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: lower cap, LTCH payments per admission, dollars, counterfactual16506 versus that model observed-contract mean28101."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17098",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: lower cap, LTCH profits per admission, dollars, counterfactual2466 versus that model observed-contract mean10446."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17099",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: lower cap, Average LOS from day−15 origin, days, counterfactual15.7 versus that model observed-contract mean19.8."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17100",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: lower cap, Total Medicare episode payments per admission, dollars, counterfactual36211 versus that model observed-contract mean47969."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17101",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: minimum-Medicare win-win, LTCH payments per admission, dollars, counterfactual26648 versus that model observed-contract mean28101."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17102",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: minimum-Medicare win-win, LTCH profits per admission, dollars, counterfactual10421 versus that model observed-contract mean10446."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17103",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: minimum-Medicare win-win, Average LOS from day−15 origin, days, counterfactual18.2 versus that model observed-contract mean19.8."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17104",
+    "before": null,
+    "after": "TableF.I PanelC p.2218: minimum-Medicare win-win, Total Medicare episode payments per admission, dollars, counterfactual46225 versus that model observed-contract mean47969."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q930",
+    "before": null,
+    "after": "Figure3 and p.2174: all-admission discharge share rises from about2% per day before the SSO threshold to9% at the jump. Pre-threshold PPS day-share mean, not a median/other level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q931",
+    "before": null,
+    "after": "Table C.I A(1), p.2203 and fn13 p.2177: estimate0.00007; baseline daily mortality0.6%; 95% bounds +0.05/−0.04 percentage points. Baseline survivor population construction not explicit."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q932",
+    "before": null,
+    "after": "Table III p.2180: 30-day mortality mean.158; probability-unit IV coefficient.0001, coefficient/mean.0007, relative95% CI(−.035,.036). Code-3 lines112–125 computes coefficient/mean without multiplication by100; headers pp/pct are misleading. Admission-weighted DRG-year population mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q933",
+    "before": null,
+    "after": "Table III p.2180: 60-day mortality mean.253; probability-unit IV coefficient−.0045, coefficient/mean−.0176, relative95% CI(−.047,.012). Code-3 lines112–125 computes coefficient/mean without multiplication by100; headers pp/pct are misleading. Admission-weighted DRG-year population mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q934",
+    "before": null,
+    "after": "Table III p.2180: 90-day mortality mean.306; probability-unit IV coefficient−.0040, coefficient/mean−.0129, relative95% CI(−.043,.018). Code-3 lines112–125 computes coefficient/mean without multiplication by100; headers pp/pct are misleading. Admission-weighted DRG-year population mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q936",
+    "before": null,
+    "after": "Table V p.2194 columns(2) vs(1): LTCH payments per admission, dollars: counterfactual28316 versus observed-schedule27953. Same structural initial admission population. Baseline column is model-implied under observed contract, not raw sample mean. Prose p.2194 says+$362 or1%; table endpoints differ by$363; preserved rounding/source discrepancy."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q937",
+    "before": null,
+    "after": "p.2195: higher-rate profit increase$2,441 or35% relative to observed schedule; Table V prints6,518→8,991. Printed normalization baseline/estimate identity unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q938",
+    "before": null,
+    "after": "p.2194: higher-rate LOS falls1.9days or7.1%; Table V note b and fn21 add7.5days to table-origin baseline19.3 for full-admission LOS. Table-origin pairing separately recorded; no printed full-LOS scalar invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q941",
+    "before": null,
+    "after": "p.2197 total Medicare savings$2,127 or4.4%; intro4.5%; Table V47,796→45,691."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q942",
+    "before": null,
+    "after": "p.2197 profits rise$315 or4.5%; intro5.1%; Table V6,518→6,876."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16942",
+    "before": null,
+    "after": "Upstream near-doubling explicitly discussed p.2207; death has little change p.2177. Dynamic selection/pre-threshold distortion prevents established untreated-mean alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16943",
+    "before": null,
+    "after": "Upstream near-doubling explicitly discussed p.2207; death has little change p.2177. Dynamic selection/pre-threshold distortion prevents established untreated-mean alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16944",
+    "before": null,
+    "after": "Upstream near-doubling explicitly discussed p.2207; death has little change p.2177. Dynamic selection/pre-threshold distortion prevents established untreated-mean alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16945",
+    "before": null,
+    "after": "Payment-induced discharge composition changes; baseline-selected dischargees are not the same marginal target. Alignment unknown, not a patient-health treatment effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16946",
+    "before": null,
+    "after": "Treatment-dependent discharge composition; target weights unresolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16947",
+    "before": null,
+    "after": "Baseline survivor/temporal weighting not specified sufficiently for exact cutoff alignment."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16948",
+    "before": null,
+    "after": "Selected dischargee composition changes; no counterfactual benchmark for the marginal group established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16949",
+    "before": null,
+    "after": "Continuous treated-dose DiD target and untreated-dose mean not established; parallel trends alone does not align levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16950",
+    "before": null,
+    "after": "Continuous treated-dose DiD target and untreated-dose mean not established; parallel trends alone does not align levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16951",
+    "before": null,
+    "after": "Continuous treated-dose DiD target and untreated-dose mean not established; parallel trends alone does not align levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16952",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16953",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16954",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16955",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16956",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16957",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16958",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16959",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16960",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16961",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16962",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16963",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16964",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16965",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16966",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16967",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16968",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16969",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16970",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16971",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16972",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16973",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16974",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16975",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16976",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16977",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16978",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16979",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16980",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16981",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16982",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16983",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16984",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16985",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16986",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16987",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16988",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16989",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16990",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16991",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16992",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16993",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16994",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16995",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16996",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16997",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16998",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R16999",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17000",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17001",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17002",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17003",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17004",
+    "before": null,
+    "after": "calculate_counterfactual_payments.m lines24–39,73–89,94–129 constructs schedule-specific destination weights and divides by that schedule’s destination share. Unknown alignment: no fixed-selected-population untreated mean or marginal-patient weights are supplied. An aggregate composition estimand is possible, but does not itself establish the project population-alignment criterion."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17005",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17006",
+    "before": null,
+    "after": "Do not backsolve or count unresolved prose as an extra table triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17007",
+    "before": null,
+    "after": "Held identity, not two or three retained triples."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17008",
+    "before": null,
+    "after": "Unresolved printed effect/benchmark identity; table pairing separately retained."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17009",
+    "before": null,
+    "after": "Linked to separate full-duration outcome hy8; table-origin mean remains y4. Both policy means use the explicitly stated7.5-day offset and the same fixed initial population; the level difference is unchanged but the normalization baseline is not. No denominator backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17010",
+    "before": null,
+    "after": "Retained table pair independently; incompatible prose endpoints held, not silently merged."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17011",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17012",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17013",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17014",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17015",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17016",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17017",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17018",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17019",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17020",
+    "before": null,
+    "after": "Lower-cap downstream daily share increases four-fold over most pre-threshold period (p.2195); not a separate point grid. Initial population and weights held fixed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17021",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17022",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17023",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17024",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17025",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17026",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17027",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17028",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17029",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17030",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17031",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17032",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17033",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17034",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17035",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17036",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17037",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17038",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17039",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17040",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17041",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17042",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17043",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17044",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17045",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17046",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17047",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17048",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17049",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17050",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17051",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17052",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17053",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17054",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17055",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17056",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17057",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17058",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17059",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17060",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17061",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17062",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17063",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17064",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17065",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17066",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17067",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17068",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17069",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17070",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17071",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17072",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17073",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17074",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17075",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17076",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17077",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17078",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17079",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17080",
+    "before": null,
+    "after": "Prose explicitly compares contracts with observed baseline and reports signs/ranges, including reversals at long/short thresholds. Optimal+1 deduplicated to s6. Not normalization by negative plotted abscissa."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17081",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17082",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17083",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17084",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17085",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17086",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17087",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17088",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17089",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17090",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17091",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17092",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17093",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17094",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17095",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17096",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17097",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17098",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17099",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17100",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17101",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17102",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17103",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17104",
+    "before": null,
+    "after": "Same model-specific initial admission distribution and weights; use its own baseline, not main-model TableV baseline. No division in table."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R930",
+    "before": null,
+    "after": "Pre-threshold behavior is already distorted by dynamic incentives; pooled duration-bin share does not establish the no-jump counterfactual at day0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R931",
+    "before": null,
+    "after": "Unclear whether .6% is the cutoff-local untreated rate for the exact 3-day RD weights; hence unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R932",
+    "before": null,
+    "after": "Single continuous IV response; admission-weighted unconditional outcome mean is known, but causal-response weights/untreated-dose reference not established. No automatic single-binary-complier mismatch claim."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R933",
+    "before": null,
+    "after": "Single continuous IV response; admission-weighted unconditional outcome mean is known, but causal-response weights/untreated-dose reference not established. No automatic single-binary-complier mismatch claim."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R934",
+    "before": null,
+    "after": "Single continuous IV response; admission-weighted unconditional outcome mean is known, but causal-response weights/untreated-dose reference not established. No automatic single-binary-complier mismatch claim."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R935",
+    "before": null,
+    "after": "duplicate of s4/c3: same 90-day IV focal estimate, outcome and mean; confidence interval and prose merged into c3, not a second triple."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R936",
+    "before": null,
+    "after": "Same fixed initial-health distribution and model weighting (pp.2191–92); policy response is nonlinear, baseline establishes untreated policy outcome under maintained model."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R937",
+    "before": null,
+    "after": "Hold, not an additional retained triple or automatic duplicate of independently retained table comparison. Do not backsolve denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R938",
+    "before": null,
+    "after": "Linked to separate full-duration outcome hy6; table-origin mean remains y1. Both policy means use the explicitly stated7.5-day offset and the same fixed initial population; the level difference is unchanged but the normalization baseline is not. No denominator backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R939",
+    "before": null,
+    "after": "Wrong treatment after split: lower-cap result belongs h4, not higher-rate s5. Literal prose retained as unknown h4 comparison; independently established TableV pair retained there."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R940",
+    "before": null,
+    "after": "Wrong treatment after split: lower-cap result belongs h4, not higher-rate s5. Literal prose retained as unknown h4 comparison; independently established TableV pair retained there."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R941",
+    "before": null,
+    "after": "Unresolved same-benchmark/estimate identity versus retained table pair; do not invent denominator or mark definite duplicate."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R942",
+    "before": null,
+    "after": "Unresolved same-benchmark/estimate identity versus retained table pair; do not invent denominator or mark definite duplicate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12579",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12580",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12581",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12582",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12583",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12584",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12585",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12586",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12587",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12588",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12589",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12590",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12591",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12592",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12593",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12594",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12595",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12596",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12597",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12598",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12599",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12600",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12601",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12602",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12603",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12604",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12605",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12606",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12607",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12608",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12609",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12610",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12611",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12612",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12613",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12614",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12615",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12616",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12617",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12618",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12619",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12620",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12621",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12622",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12623",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12624",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12625",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12626",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12627",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12628",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12629",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12630",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12631",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12632",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12633",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12634",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12635",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12636",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12637",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12638",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12639",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12640",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12641",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12642",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12643",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12644",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12645",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12646",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12647",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12648",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12649",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12650",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12651",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12652",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12653",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12654",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12655",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12656",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12657",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12658",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12659",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12660",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12661",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12662",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12663",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12664",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12665",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12666",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12667",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12668",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12669",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12670",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12671",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12579",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12580",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12581",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12582",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12583",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12584",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12585",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12586",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12587",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12588",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12589",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12590",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12591",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12592",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12593",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12594",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12595",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12596",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12597",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12598",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12599",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12600",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12601",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12602",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12603",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12604",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12605",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12606",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12607",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12608",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12609",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12610",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12611",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12612",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12613",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12614",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12615",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12616",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12617",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12618",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12619",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12620",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12621",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12622",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12623",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12624",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12625",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12626",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12627",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12628",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12629",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12630",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12631",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12632",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12633",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12634",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12635",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12636",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12637",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12638",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12639",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12640",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12641",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12642",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12643",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12644",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12645",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12646",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12647",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12648",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12649",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12650",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12651",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12652",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12653",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12654",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12655",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12656",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12657",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12658",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12659",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12660",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12661",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12662",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12663",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12664",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12665",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12666",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12667",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12668",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12669",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12670",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12671",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12579",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12580",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12581",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12582",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12583",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12584",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12585",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12586",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12587",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12588",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12589",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12590",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12591",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12592",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12593",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12594",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12595",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12596",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12597",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12598",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12599",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12600",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12601",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12602",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12603",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12604",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12605",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12606",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12607",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12608",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12609",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12610",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12611",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12612",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12613",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12614",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12615",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12616",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12617",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12618",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12619",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12620",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12621",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12622",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12623",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12624",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12625",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12626",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12627",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12628",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12629",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12630",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12631",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12632",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12633",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12634",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12635",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12636",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12637",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12638",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12639",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12640",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12641",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12642",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12643",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12644",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12645",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12646",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12647",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12648",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12649",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12650",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12651",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12652",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12653",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12654",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12655",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12656",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12657",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12658",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12659",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12660",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12661",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12662",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12663",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12664",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12665",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12666",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12667",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12668",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12669",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12670",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12671",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12579",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12580",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12581",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12582",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12583",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12584",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12585",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12591",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12592",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12593",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12594",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12595",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12596",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12597",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12601",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12603",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12604",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12605",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12606",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12607",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12608",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12609",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12610",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12611",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12612",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12614",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12615",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12616",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12618",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12623",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12624",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12625",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12626",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12627",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12628",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12629",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12630",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12631",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12632",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12633",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12635",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12636",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12637",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12638",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12639",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12640",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12641",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12642",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12645",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12648",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12649",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12650",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12651",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12652",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12653",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12654",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12655",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12656",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12657",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12658",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12659",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12660",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12662",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12663",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12664",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12665",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12666",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12668",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12671",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3375",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3376",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3378",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3379",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3380",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3388",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3390",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3391",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3392",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3393",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3399",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12579",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12580",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12581",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12582",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12583",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12584",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12585",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12586",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12587",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12588",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12589",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12590",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12591",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12592",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12593",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12594",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12595",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12596",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12597",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12598",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12599",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12600",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12601",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12602",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12603",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12604",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12605",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12606",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12607",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12608",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12609",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12610",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12611",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12612",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12613",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12614",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12615",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12616",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12618",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12619",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12620",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12622",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12623",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12624",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12625",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12626",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12627",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12628",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12629",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12630",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12631",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12632",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12633",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12634",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12635",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12636",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12637",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12638",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12640",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12641",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12642",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12643",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12644",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12645",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12646",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12647",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12648",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12649",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12650",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12651",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12652",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12653",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12654",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12655",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12656",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12657",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12658",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12659",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12660",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12661",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12662",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12663",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12664",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12665",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12666",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12667",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12668",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12669",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12670",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12671",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3374",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3375",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3376",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3377",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3378",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3379",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3380",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3386",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3387",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3388",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3389",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3390",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3391",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3392",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3393",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3394",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3395",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3396",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3397",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3398",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3399",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12579",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12580",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12581",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12582",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12583",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12584",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12585",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12586",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12587",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12588",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12589",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12590",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12591",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12592",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12593",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12594",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12595",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12596",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12597",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12598",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12599",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12600",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12601",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12602",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12603",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12604",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12605",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12606",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12607",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12608",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12609",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12610",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12611",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12612",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12613",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12614",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12615",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12616",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12617",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12618",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12619",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12620",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12621",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12622",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12623",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12624",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12625",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12626",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12627",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12628",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12629",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12630",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12631",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12632",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12633",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12634",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12635",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12636",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12637",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12638",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12639",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12640",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12641",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12642",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12643",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12644",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12645",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12646",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12647",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12648",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12649",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12650",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12651",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12652",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12653",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12654",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12655",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12656",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12657",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12658",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12659",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12660",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12661",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12662",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12663",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12664",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12665",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12666",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12667",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12668",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12669",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12670",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12671",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3374",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3375",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3376",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3377",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3378",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3379",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3380",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3381",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3382",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3386",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3387",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3388",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3389",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3390",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3391",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3392",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3393",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3394",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3395",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3396",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3397",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3398",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3399",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12579",
+    "before": null,
+    "after": "Figure3 bottom-right: share of all LTCH admissions discharged due to death on each relative day; not survivor-conditional hazard."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12580",
+    "before": null,
+    "after": "30-day post-live-discharge mortality rate by discharge day, Figure B.2; selected live dischargees, not individual mortality indicator in a reported regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12581",
+    "before": null,
+    "after": "Individual1-day mortality indicator (dependent variable), slope-change parameter per relative day in Table C.I B; estimates−.00013,.00004,.00002."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12582",
+    "before": null,
+    "after": "Average LTCH LOS in days; DRG×rate-year mean, weighted by admission count. Figure6/TableIII."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12583",
+    "before": null,
+    "after": "30-day mortality since admission rate; DRG×rate-year mean, weighted by admission count. Figure6/TableIII."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12584",
+    "before": null,
+    "after": "60-day mortality since admission rate; DRG×rate-year mean, weighted by admission count. Figure6/TableIII."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12585",
+    "before": null,
+    "after": "90-day mortality since admission rate; DRG×rate-year mean, weighted by admission count. Figure6/TableIII."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12586",
+    "before": null,
+    "after": "LTCH payment per day: aggregate payments divided by average LOS, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12587",
+    "before": null,
+    "after": "Share of initial admissions discharged upstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12588",
+    "before": null,
+    "after": "Payments per upstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12589",
+    "before": null,
+    "after": "Share of initial admissions discharged downstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12590",
+    "before": null,
+    "after": "Payments per downstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12591",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12592",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12593",
+    "before": null,
+    "after": "Average LTCH LOS, days from day−15 origin; Table V. Add7.5days for full-admission LOS (table note b); shifted-origin reported mean, not log."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12594",
+    "before": null,
+    "after": "LTCH payment per day: aggregate payments divided by average LOS, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12595",
+    "before": null,
+    "after": "Upstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12596",
+    "before": null,
+    "after": "Share of initial admissions discharged upstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12597",
+    "before": null,
+    "after": "Payments per upstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12598",
+    "before": null,
+    "after": "Downstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12599",
+    "before": null,
+    "after": "Share of initial admissions discharged downstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12600",
+    "before": null,
+    "after": "Payments per downstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12601",
+    "before": null,
+    "after": "Total Medicare episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12602",
+    "before": null,
+    "after": "LTCH payment per day: aggregate payments divided by average LOS, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12603",
+    "before": null,
+    "after": "Upstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12604",
+    "before": null,
+    "after": "Share of initial admissions discharged upstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12605",
+    "before": null,
+    "after": "Payments per upstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12606",
+    "before": null,
+    "after": "Downstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12607",
+    "before": null,
+    "after": "Share of initial admissions discharged downstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12608",
+    "before": null,
+    "after": "Payments per downstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12609",
+    "before": null,
+    "after": "LTCH payment per day: aggregate payments divided by average LOS, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12610",
+    "before": null,
+    "after": "Upstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12611",
+    "before": null,
+    "after": "Share of initial admissions discharged upstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12612",
+    "before": null,
+    "after": "Payments per upstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12613",
+    "before": null,
+    "after": "Downstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12614",
+    "before": null,
+    "after": "Share of initial admissions discharged downstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12615",
+    "before": null,
+    "after": "Payments per downstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12616",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12617",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12618",
+    "before": null,
+    "after": "Average LTCH LOS, days from day−15 origin; Table V. Add7.5days for full-admission LOS (table note b); shifted-origin reported mean, not log."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12619",
+    "before": null,
+    "after": "LTCH payment per day: aggregate payments divided by average LOS, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12620",
+    "before": null,
+    "after": "Upstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12621",
+    "before": null,
+    "after": "Share of initial admissions discharged upstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12622",
+    "before": null,
+    "after": "Payments per upstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12623",
+    "before": null,
+    "after": "Downstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12624",
+    "before": null,
+    "after": "Share of initial admissions discharged downstream; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12625",
+    "before": null,
+    "after": "Payments per downstream discharge, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12626",
+    "before": null,
+    "after": "Total Medicare episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12627",
+    "before": null,
+    "after": "Upstream health cutoff at50% discharge probability; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12628",
+    "before": null,
+    "after": "Downstream health cutoff at50% discharge probability; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12629",
+    "before": null,
+    "after": "Daily upstream discharge share of initial admissions; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12630",
+    "before": null,
+    "after": "Daily downstream discharge share of initial admissions; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12631",
+    "before": null,
+    "after": "Daily discharge-to-death share of initial admissions; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12632",
+    "before": null,
+    "after": "Upstream health cutoff at50% discharge probability; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12633",
+    "before": null,
+    "after": "Downstream health cutoff at50% discharge probability; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12634",
+    "before": null,
+    "after": "Daily upstream discharge share of initial admissions; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12635",
+    "before": null,
+    "after": "Daily downstream discharge share of initial admissions; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12636",
+    "before": null,
+    "after": "Daily discharge-to-death share of initial admissions; Figure10. Qualitative model-implied path, no numerical ordinate inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12637",
+    "before": null,
+    "after": "Total Medicare episode payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12638",
+    "before": null,
+    "after": "LTCH payments per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12639",
+    "before": null,
+    "after": "LTCH profits per admission; Figure11. Total Medicare plotted with negative sign for display only; underlying outcome dollars."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12640",
+    "before": null,
+    "after": "LTCH payments per initial admission under fixed baseline discharge pattern, dollars; mechanical policy effect, not total behavioral response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12641",
+    "before": null,
+    "after": "LTCH payments per initial admission under fixed baseline discharge pattern, dollars; mechanical policy effect, not total behavioral response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12642",
+    "before": null,
+    "after": "Downstream discharge value, dollars; v1d=6.63 thousand per health-index unit; TableIV/pp.2188–89. Nonlinear fitted procedure; not a logged-outcome regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12643",
+    "before": null,
+    "after": "Upstream discharge value, dollars; v1u=−31.12 thousand per health-index unit; TableIV/pp.2188–89. Nonlinear fitted procedure; not a logged-outcome regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12644",
+    "before": null,
+    "after": "Downstream post-discharge expected episode payments, dollars; exponential equation10, health semi-elasticity−.28; TableIV/pp.2188–89. Nonlinear fitted procedure; not a logged-outcome regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12645",
+    "before": null,
+    "after": "Upstream post-discharge expected episode payments, dollars; exponential equation10, health semi-elasticity−.77; TableIV/pp.2188–89. Nonlinear fitted procedure; not a logged-outcome regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12646",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12647",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12648",
+    "before": null,
+    "after": "Average LOS from day−15 origin, days; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12649",
+    "before": null,
+    "after": "Total Medicare episode payments per admission, dollars; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12650",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12651",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12652",
+    "before": null,
+    "after": "Average LOS from day−15 origin, days; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12653",
+    "before": null,
+    "after": "Total Medicare episode payments per admission, dollars; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12654",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12655",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12656",
+    "before": null,
+    "after": "Average LOS from day−15 origin, days; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12657",
+    "before": null,
+    "after": "Total Medicare episode payments per admission, dollars; TableF.I B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12658",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12659",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12660",
+    "before": null,
+    "after": "Average LOS from day−15 origin, days; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12661",
+    "before": null,
+    "after": "Total Medicare episode payments per admission, dollars; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12662",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12663",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12664",
+    "before": null,
+    "after": "Average LOS from day−15 origin, days; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12665",
+    "before": null,
+    "after": "Total Medicare episode payments per admission, dollars; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12666",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12667",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12668",
+    "before": null,
+    "after": "Average LOS from day−15 origin, days; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12669",
+    "before": null,
+    "after": "Total Medicare episode payments per admission, dollars; TableF.I C."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12670",
+    "before": null,
+    "after": "Full-admission LTCH length of stay in days; p.2194, Table V note b and fn21. Authors add7.5days to day−15-origin table means. Distinct reported scale from y1; prose percent reduction uses the full-duration baseline. No unprinted baseline scalar supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12671",
+    "before": null,
+    "after": "Full-admission LTCH length of stay in days; p.2197, with Table V note b p.2194. Authors add7.5days to day−15-origin table means. Distinct reported scale from y4; prose percent reduction uses the full-duration baseline. No unprinted baseline scalar supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3379",
+    "before": null,
+    "after": "duplicate of s1/y2: Figure3 downstream admission-denominator discharge share."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3380",
+    "before": null,
+    "after": "duplicate of s1/y3: Figure3 upstream admission-denominator discharge share."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3383",
+    "before": null,
+    "after": "DRG×rate-year mean mortality since admission; admission-count weighted in 2SLS. Table III probability units; do not read 0.0001 as already percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3384",
+    "before": null,
+    "after": "DRG×rate-year mean mortality since admission; admission-count weighted in 2SLS. Table III probability units; do not read 0.0001 as already percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3385",
+    "before": null,
+    "after": "DRG×rate-year mean mortality since admission; admission-count weighted in 2SLS. Table III probability units; do not read 0.0001 as already percentage points."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3386",
+    "before": null,
+    "after": "Average LTCH LOS, days from day−15 origin; Table V. Add7.5days for full-admission LOS (table note b); shifted-origin reported mean, not log."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3387",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3388",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3389",
+    "before": null,
+    "after": "Total Medicare episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3390",
+    "before": null,
+    "after": "Upstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3391",
+    "before": null,
+    "after": "Downstream post-discharge episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3392",
+    "before": null,
+    "after": "Total Medicare episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3393",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3394",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3395",
+    "before": null,
+    "after": "Average LTCH LOS, days from day−15 origin; Table V. Add7.5days for full-admission LOS (table note b); shifted-origin reported mean, not log."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3396",
+    "before": null,
+    "after": "Average LTCH LOS, days from day−15 origin; Table V. Add7.5days for full-admission LOS (table note b); shifted-origin reported mean, not log."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3397",
+    "before": null,
+    "after": "LTCH payments per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3398",
+    "before": null,
+    "after": "LTCH profits per admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3399",
+    "before": null,
+    "after": "Total Medicare episode payments per initial admission, dollars; Table V. Model-predicted mean under fixed initial patient distribution."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E154",
+    "before": null,
+    "after": "DONE — full available-source review and focused independent audit accepted; not omission-free certification or empirical replication. Graphical local-mean RD and direct mortality-slope RD retained under project convention; binary threshold eligibility, not Wald/kink IV, with formal-estimator/level-jump alternatives explicit. LOS reduced form substantive; structural health-response joint SMM and model-derived mechanical policies Other, not every primitive; conditional accounting alternative preserved. Full-duration s5/hy6 and s6/hy8 transform none linked from s5/c3 and s6/hc13; shifted table outcomes unchanged, no denominator backsolve. Five verbal corrections and ten schedule-specific selected-destination notes; unknown alignment not proven by common initial admissions. Bounded Figure10 paths and Figure11 named contracts, no invented ordinates; reversals and source conflicts preserved. Seven benchmark-identity holds unchanged unknown, not retained or merged. Original model fields and IDs preserved. Targeted public-code inspection, no restricted-data execution or empirical replication."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5362",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5363",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5364",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5365",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5366",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5367",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5368",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5369",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5370",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5371",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5372",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5373",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5374",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5375",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5376",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5377",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5378",
+    "before": null,
+    "after": "Z4IHUW3G"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5362",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5363",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5364",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5365",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5366",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5367",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5368",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5369",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5370",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5371",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5372",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5373",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5374",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5375",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5376",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5377",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5378",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1324",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1325",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1326",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1327",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1328",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1329",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1330",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5362",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5363",
+    "before": null,
+    "after": "RD"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5364",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5365",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5366",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5367",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5368",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5369",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5370",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5371",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5372",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5373",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5374",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5375",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5376",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5377",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5378",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5364",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5372",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1330",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5372",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5373",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5375",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5376",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5378",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1324",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1325",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1326",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1327",
+    "before": null,
+    "after": "single continuous"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1328",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1329",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1330",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5362",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5363",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5364",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5365",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5366",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5367",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5368",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5369",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5370",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5371",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5372",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5373",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5374",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5375",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5376",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5377",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5378",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1324",
+    "before": null,
+    "after": "SSO-threshold local graphical mean/share contrasts in discharge timing: total, downstream, upstream and death within LTCH. Figure 3 pp.2174–77. Connected empirical day shares, not fitted local-polynomial regressions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1325",
+    "before": null,
+    "after": "SSO-threshold change in mean post-discharge episode payments conditional on downstream/upstream discharge, Figure 4 pp.2175–76; local graphical means, not a fitted RD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1326",
+    "before": null,
+    "after": "Direct post-SSO cutoff effects on individual 1-day and 30-day-forward mortality indicators, unconditional on care location but conditional on surviving to the day; Table C.I A/C, equations C.1/C.2, Figures 5/C.1 pp.2177–78,2203–05."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1327",
+    "before": null,
+    "after": "Admission-count-weighted DRG×rate-year 2SLS effect of average LTCH LOS (days) on 30/60/90-day admission mortality; excluded instrument Kink=SSO threshold days; rate-year and DRG fixed effects. Table III / Figure 6 pp.2178–80."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1328",
+    "before": null,
+    "after": "Higher-rate-per-day no-jump contract versus observed PPS: structural dynamic-discharge counterfactual, Table V(2) vs (1), pp.2192–95."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1329",
+    "before": null,
+    "after": "Optimal win-win contract (cap +1 day, per diem 1,931; cap32,830) versus observed PPS, Table V(4) vs (1), Figure11 +1 point, pp.2195–97."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1330",
+    "before": null,
+    "after": "Estimated-cost capped per-diem contract versus observed PPS, Table V(5) vs (1), p.2197."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5362",
+    "before": null,
+    "after": "Local graphical SSO-threshold composition response in30-day post-live-discharge mortality, Figure B.2 p.2202 and fn12 p.2175."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5363",
+    "before": null,
+    "after": "Change in slope of individual1-day mortality hazard at SSO, beta1 from local-linear equation C.1; Table C.I Panel B, pp.2203–04, bandwidths3/5/10."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5364",
+    "before": null,
+    "after": "Within-DRG over-time SSO-threshold dose shifts on mean LOS and30/60/90-day mortality; equation1, Figure6/TableIII reduced form pp.2178–80."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5365",
+    "before": null,
+    "after": "Lower-cap no-jump contract versus observed PPS, Table V(3) vs(1), pp.2192–95."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5366",
+    "before": null,
+    "after": "SNF opportunity-cost507-dollar per diem capped at60days versus observed PPS, Table V(6) vs(1), p.2197."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5367",
+    "before": null,
+    "after": "higher rate per day versus observed PPS, Figure10 p.2193: upstream/downstream discharge-policy health cutoffs and daily admission-share discharges upstream/downstream/to death."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5368",
+    "before": null,
+    "after": "lower cap versus observed PPS, Figure10 p.2193: upstream/downstream discharge-policy health cutoffs and daily admission-share discharges upstream/downstream/to death."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5369",
+    "before": null,
+    "after": "Win-win no-jump contract family, cap-day offsets−10…+10 except optimal+1 already s6; Figure11 bottom panels pp.2196–97."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5370",
+    "before": null,
+    "after": "Mechanical higher-rate-per-day contract effect holding baseline discharge pattern fixed, pp.2194–95; LTCH payments per admission (+$1,748)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5371",
+    "before": null,
+    "after": "Mechanical lower-cap contract effect holding baseline discharge pattern fixed, pp.2194–95; LTCH payments per admission (−$8,851)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5372",
+    "before": null,
+    "after": "Structurally estimated health-index response of downstream/upstream discharge continuation value and post-discharge payments, TableIV and pp.2188–89; continuous h."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5373",
+    "before": null,
+    "after": "higher rate per day contract versus observed schedule under time-varying health process; Table F.I PanelB p.2218."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5374",
+    "before": null,
+    "after": "lower cap contract versus observed schedule under time-varying health process; Table F.I PanelB p.2218."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5375",
+    "before": null,
+    "after": "minimum-Medicare win-win contract versus observed schedule under time-varying health process; Table F.I PanelB p.2218."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5376",
+    "before": null,
+    "after": "higher rate per day contract versus observed schedule under post-PPS-only estimation; Table F.I PanelC p.2218."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5377",
+    "before": null,
+    "after": "lower cap contract versus observed schedule under post-PPS-only estimation; Table F.I PanelC p.2218."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5378",
+    "before": null,
+    "after": "minimum-Medicare win-win contract versus observed schedule under post-PPS-only estimation; Table F.I PanelC p.2218."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1324",
+    "before": null,
+    "after": "Direct local-mean cutoff contrast under the project RD convention (Figure3 pp.2174–77; code-0 lines73–96,162–171). Author interprets the payment jump as causing discharge responses. Connected daily admission shares, not fitted RD or survivor hazards; pre-PPS overlay is not a DiD estimate. Anticipatory behavior limits untreated-baseline interpretation, not author-intention inclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1325",
+    "before": null,
+    "after": "Direct local graphical mean contrast (code-2 lines14–44), retained RD under local-mean convention. This is payment-induced composition, not discharge causing the same patient to become sicker. Destination-conditioned day means do not recover a fixed marginal-patient counterfactual. Destination-share outcomes remain inactive duplicates of s1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1326",
+    "before": null,
+    "after": "Linear probability local-polynomial RD, bandwidths 3/5/10 and linear/quadratic forms grouped. Slope-change estimand separately h2. Table C.I A(3) is positive 0.00039, p=.003 despite broad prose null; fn13 stale Table F.I means C.I."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1327",
+    "before": null,
+    "after": "code-3 lines 107–125 confirms single scalar nonbinary excluded instrument and n_stays weights. Table III IV(pp) entries are probability-unit coefficients, IV(pct.) entries fractions; prose uses percentage points/percent. Continuous IV weighting is not established by the admission-weighted population mean."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1328",
+    "before": null,
+    "after": "Split lower-cap treatment to h4 and graphical response outcomes to h16. Nonlinear SMM dynamic model; baseline and counterfactual hold initial patient-health distribution fixed. Final table values conflict with several prose calculations; do not silently reconcile."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1329",
+    "before": null,
+    "after": "Remaining named cap-day contracts retained in h6; +1 point deduplicated here. Utility held harmless does not imply profits rise for every other contract. Table/prose conflicts held separately."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1330",
+    "before": null,
+    "after": "Split SNF opportunity-cost contract to h5. Table per diem1,109 differs from prose1,091; table LOS32.9 differs from prose32.0; do not replace printed values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5362",
+    "before": null,
+    "after": "FigureB.2 and fn12 p.2175 explicitly interpret the cutoff fall as discharge composition. Retain direct local-mean RD, not IV or a formal fitted RD claim; neither post-discharge mortality nor health effects are identified for fixed marginal patients by this plot."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5363",
+    "before": null,
+    "after": "TableC.I PanelB / equationC.1 p.2203 and code-1 lines30–53: separately reported local-polynomial slope change beta1, not nuisance trend. Retain RD as a direct cutoff response under the project local-polynomial convention, not an instrumented regression-kink/Wald effect. Binary denotes threshold eligibility, not the day×post regressor; outcome remains individual mortality indicator. A level-only RD taxonomy would require parent adjudication; no such restriction is stated in project rules."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5364",
+    "before": null,
+    "after": "Paper explicitly calls difference-in-differences; weighted linear DRG/year FE implementation, not modern DiD. LOS included because explicitly interpreted provider response, beyond instrument relevance. n_stays weights confirmed code-3. Mortality reduced forms have substantive incentive-effect interpretation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5365",
+    "before": null,
+    "after": "Separate payment intervention from s5; nonlinear SMM model. Figure10 response paths separately h17. Table and prose inconsistent amounts preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5366",
+    "before": null,
+    "after": "Nonlinear structural simulation; admission/health population held fixed, not out-of-model entry/exit response."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5367",
+    "before": null,
+    "after": "Structural counterfactual paths, distinct from TableV totals. No day-by-day grid; one named path comparison per outcome. Death-at-LTCH composition changes despite assumed no effect on total mortality."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5368",
+    "before": null,
+    "after": "Structural counterfactual paths, distinct from TableV totals. No day-by-day grid; one named path comparison per outcome. Death-at-LTCH composition changes despite assumed no effect on total mortality."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5369",
+    "before": null,
+    "after": "21 implemented, labeled contracts; continuous/multivalued cap-day treatment support, not a binary pooled exposure. Exact named graphical pairs retained without digitizing values or inventing intermediate contracts."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5370",
+    "before": null,
+    "after": "Separate fixed-behavior structural accounting estimand. Matlab calculate_counterfactual_payments Bld uses model baseline discharge shares, not raw patient vector; conditional fixed-share payment aggregation is linear, full fitted baseline pipeline nonlinear. No empirical replication."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5371",
+    "before": null,
+    "after": "Separate fixed-behavior structural accounting estimand. Matlab calculate_counterfactual_payments Bld uses model baseline discharge shares, not raw patient vector; conditional fixed-share payment aggregation is linear, full fitted baseline pipeline nonlinear. No empirical replication."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5372",
+    "before": null,
+    "after": "Includes explicitly quantified value changes($1,510/−$7,087 for0.1 health SD) and payment semi-elasticities−.28/−.77. Full joint SMM recovery, not OLS despite affine value functions. Health SD is treatment SD, no qualifying own-outcome SD comparison. Auxiliary health distributions/cost levels excluded individually."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5373",
+    "before": null,
+    "after": "Distinct substantive model/estimand sensitivity, four outcomes jointly. PanelA is exact repetition of TableV; not separately counted. PanelC win-win profits decline10,446→10,421; keep reversal. Exact selected cap-day for alternative fitted win-win not separately asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5374",
+    "before": null,
+    "after": "Distinct substantive model/estimand sensitivity, four outcomes jointly. PanelA is exact repetition of TableV; not separately counted. PanelC win-win profits decline10,446→10,421; keep reversal. Exact selected cap-day for alternative fitted win-win not separately asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5375",
+    "before": null,
+    "after": "Distinct substantive model/estimand sensitivity, four outcomes jointly. PanelA is exact repetition of TableV; not separately counted. PanelC win-win profits decline10,446→10,421; keep reversal. Exact selected cap-day for alternative fitted win-win not separately asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5376",
+    "before": null,
+    "after": "Distinct substantive model/estimand sensitivity, four outcomes jointly. PanelA is exact repetition of TableV; not separately counted. PanelC win-win profits decline10,446→10,421; keep reversal. Exact selected cap-day for alternative fitted win-win not separately asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5377",
+    "before": null,
+    "after": "Distinct substantive model/estimand sensitivity, four outcomes jointly. PanelA is exact repetition of TableV; not separately counted. PanelC win-win profits decline10,446→10,421; keep reversal. Exact selected cap-day for alternative fitted win-win not separately asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5378",
+    "before": null,
+    "after": "Distinct substantive model/estimand sensitivity, four outcomes jointly. PanelA is exact repetition of TableV; not separately counted. PanelC win-win profits decline10,446→10,421; keep reversal. Exact selected cap-day for alternative fitted win-win not separately asserted."
+  }
+]
+```
