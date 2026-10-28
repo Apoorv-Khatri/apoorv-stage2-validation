@@ -1783683,3 +1783683,3954 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T18:22:44.207412+00:00 — Review 8UABWVAN: one-paper adjudicated source-scoped coding
+
+657 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A17379",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17380",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17379",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17380",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17379",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17380",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17379",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17380",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17379",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17380",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17379",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17380",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17379",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17380",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17379",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17380",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17379",
+    "before": null,
+    "after": "p276 fn28: written-policy adoption prevalence increases from 1.5% in pre-regulation firms to 58% in the post-period; authors attribute the increase to regulation. Pre-period same-outcome rate is the stated baseline, not a computed ratio. Full sample firms, not ICC regression partitions."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17380",
+    "before": null,
+    "after": "p276 fn29: committee delegation prevalence increases from 12% in pre-regulation firms to 83% in the post-period; authors attribute the increase to regulation. Pre-period same-outcome rate is the stated baseline, not a computed ratio. Full sample firms, not ICC regression partitions."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17379",
+    "before": null,
+    "after": "Source does not establish that historical pre-period prevalence represents the post-period untreated counterfactual under changing time conditions. Neither parallel trends nor alignment construction supplied. No ratio or new arithmetic attributed to authors."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17380",
+    "before": null,
+    "after": "Source does not establish that historical pre-period prevalence represents the post-period untreated counterfactual under changing time conditions. Neither parallel trends nor alignment construction supplied. No ratio or new arithmetic attributed to authors."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13582",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13583",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13584",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13585",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13586",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13587",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13588",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13589",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13590",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13591",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13592",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13593",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13594",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13595",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13596",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13597",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13598",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13599",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13600",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13601",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13602",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13603",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13604",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13605",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13606",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13607",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13608",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13609",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13610",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13611",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13612",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13613",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13614",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13615",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13616",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13617",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13618",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13619",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13582",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13583",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13584",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13585",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13586",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13587",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13588",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13589",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13590",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13591",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13592",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13593",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13594",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13595",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13596",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13597",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13598",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13599",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13600",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13601",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13602",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13603",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13604",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13605",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13606",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13607",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13608",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13609",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13610",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13611",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13612",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13613",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13614",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13615",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13616",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13617",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13618",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13619",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13582",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13583",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13584",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13585",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13586",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13587",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13588",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13589",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13590",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13591",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13592",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13593",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13594",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13595",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13596",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13597",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13598",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13599",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13600",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13601",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13602",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13603",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13604",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13605",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13606",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13607",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13608",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13609",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13610",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13611",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13612",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13613",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13614",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13615",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13616",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13617",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13618",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13619",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13582",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13586",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13589",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13590",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13592",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13593",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13595",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13596",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13597",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13599",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13600",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13601",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13602",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13604",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13610",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13611",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13612",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13613",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13614",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13615",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13617",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13619",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3564",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3566",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3567",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3568",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3570",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3571",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13582",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13583",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13584",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13585",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13586",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13587",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13588",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13589",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13590",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13592",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13593",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13595",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13596",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13597",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13598",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13599",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13600",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13601",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13602",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13603",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13604",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13605",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13610",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13611",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13612",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13613",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13614",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13615",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13617",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13619",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3567",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3571",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13582",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13583",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13584",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13585",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13586",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13587",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13588",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13589",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13590",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13592",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13593",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13595",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13596",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13597",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13598",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13599",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13600",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13601",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13602",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13603",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13604",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13605",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13610",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13611",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13612",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13613",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13614",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13615",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13617",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13619",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3564",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3565",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3566",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3567",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3568",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3569",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3570",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3571",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3572",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3573",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13582",
+    "before": null,
+    "after": "Any disclosed RPT above $120,000, firm-year 0/1 indicator (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13583",
+    "before": null,
+    "after": "Any disclosed RPT above $120,000, firm-year 0/1 indicator (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13584",
+    "before": null,
+    "after": "Any disclosed RPT above $120,000, firm-year 0/1 indicator (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13585",
+    "before": null,
+    "after": "Indicator of any business RPT above $120,000; firm-year binary response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13586",
+    "before": null,
+    "after": "Indicator of any non-business RPT above $120,000; firm-year binary response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13587",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13588",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13589",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13590",
+    "before": null,
+    "after": "Peters-Taylor Tobin Q, firm value scaled by physical plus intangible capital (p284 fn31); no log/SD transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13591",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13592",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13593",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13594",
+    "before": null,
+    "after": "Peters-Taylor Tobin Q, firm value scaled by physical plus intangible capital (p284 fn31); no log/SD transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13595",
+    "before": null,
+    "after": "Peters-Taylor Tobin Q, firm value scaled by physical plus intangible capital (p284 fn31); no log/SD transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13596",
+    "before": null,
+    "after": "Peters-Taylor Tobin Q, firm value scaled by physical plus intangible capital (p284 fn31); no log/SD transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13597",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13598",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13599",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13600",
+    "before": null,
+    "after": "Number of disclosed RPTs above $120,000; untransformed firm-year count (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13601",
+    "before": null,
+    "after": "Any disclosed RPT above $120,000, firm-year 0/1 indicator (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13602",
+    "before": null,
+    "after": "Total disclosed RPT count regardless of amount, including unreported amounts."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13603",
+    "before": null,
+    "after": "Any disclosed RPT regardless of amount, 0/1 indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13604",
+    "before": null,
+    "after": "Number of disclosed RPTs above $120,000; untransformed firm-year count (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13605",
+    "before": null,
+    "after": "Any disclosed RPT above $120,000, firm-year 0/1 indicator (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13606",
+    "before": null,
+    "after": "Individual Claus-Thomas implied cost of equity, not the four-model average; zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13607",
+    "before": null,
+    "after": "Individual GLS implied cost of equity, not the four-model average; zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13608",
+    "before": null,
+    "after": "Individual Ohlson-Juettner implied cost of equity, not the four-model average; zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13609",
+    "before": null,
+    "after": "Individual Easton implied cost of equity, not the four-model average; zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13610",
+    "before": null,
+    "after": "Individual Claus-Thomas implied cost of equity, not the four-model average; zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13611",
+    "before": null,
+    "after": "Individual GLS implied cost of equity, not the four-model average; zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13612",
+    "before": null,
+    "after": "Individual Ohlson-Juettner implied cost of equity, not the four-model average; zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13613",
+    "before": null,
+    "after": "Individual Easton implied cost of equity, not the four-model average; zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13614",
+    "before": null,
+    "after": "Indicator of formal written RPT policy; firm-level binary variable summarized as prevalence."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13615",
+    "before": null,
+    "after": "Indicator of designated formal committee approving RPTs; firm-level binary variable summarized as prevalence."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13616",
+    "before": null,
+    "after": "Average of CT, GLS, OJ and Easton implied cost of equity, percentage-point scale. Actual-initiation-timing rerun, p270 fn17; no outcome SD normalization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13617",
+    "before": null,
+    "after": "Average of CT, GLS, OJ and Easton implied cost of equity, percentage-point scale. Actual-initiation-timing rerun, p270 fn17; no outcome SD normalization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13618",
+    "before": null,
+    "after": "Peters-Taylor Tobin Q, untransformed firm value scaled by physical plus intangible capital. Actual-initiation-timing rerun, p270 fn17; no outcome SD normalization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13619",
+    "before": null,
+    "after": "Peters-Taylor Tobin Q, untransformed firm value scaled by physical plus intangible capital. Actual-initiation-timing rerun, p270 fn17; no outcome SD normalization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3564",
+    "before": null,
+    "after": "Number of disclosed RPTs above $120,000; untransformed firm-year count (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3565",
+    "before": null,
+    "after": "Reallocated to h1/hy1; original model record preserved. Not an additional outcome of the narrowed retained setting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3566",
+    "before": null,
+    "after": "Number of disclosed RPTs above $120,000; untransformed firm-year count (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3567",
+    "before": null,
+    "after": "Reallocated to h2/hy1; original model record preserved. Not an additional outcome of the narrowed retained setting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3568",
+    "before": null,
+    "after": "Number of disclosed RPTs above $120,000; untransformed firm-year count (Eq1; Appendix A)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3569",
+    "before": null,
+    "after": "Reallocated to h3/hy1; original model record preserved. Not an additional outcome of the narrowed retained setting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3570",
+    "before": null,
+    "after": "Business RPT count above $120,000; sales, purchases, leasing and M&A; Eq1/Table4E."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3571",
+    "before": null,
+    "after": "Non-business RPT count above $120,000; Eq1/Table4E."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3572",
+    "before": null,
+    "after": "Reallocated to h4/hy1; original model record preserved. Not an additional outcome of the narrowed retained setting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3573",
+    "before": null,
+    "after": "Reallocated to h4/hy2; original model record preserved. Not an additional outcome of the narrowed retained setting."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3574",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3575",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3576",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3577",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3578",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3579",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3580",
+    "before": null,
+    "after": "Implied cost of equity capital: average of CT, GLS, OJ and Easton estimates; reported percentage-point scale. No zero frequency established for this estimation sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3581",
+    "before": null,
+    "after": "Peters-Taylor Tobin Q, firm value scaled by physical plus intangible capital (p284 fn31); no log/SD transformation; zero mass not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3582",
+    "before": null,
+    "after": "Peters-Taylor Tobin Q, firm value scaled by physical plus intangible capital (p284 fn31); no log/SD transformation; zero mass not established."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E168",
+    "before": null,
+    "after": "DONE — full available final 28-page article review and focused independent audit accepted by parent. 41 retained settings, 57 physical outcomes (52 active), two retained comparisons; every setting searched. Table4 count and binary implementations unknown consistently under mixed adjusted/pseudo fit; linear conventional DiD leading alternative, no invented nonlinear estimator. Table6 FE follows explicit industry-heterogeneity rationale, with incidental-controls OLS alternative; actual post-period RPT slopes, not governance-adoption effects. Fn17 all-tests timing reruns include minimum aggregate ICC/Q count/binary families h25–h28 coded conventional DiD under linear Eq2 ICC/Eq3 Q and fn17 all-tests staggered-DID rerun wording; exact unreported timing allocations remain unknown, no modern-DiD claim; Eq1-only and full-grid alternatives held without unseen component grids. Fn28/29 explicit pre/post prevalence contrasts linked to parameter-specific causal attribution retained as OLS mean-contrast class, not software claim; descriptive-explanation exclusion is a genuine boundary alternative, not categorically inconsistent with other inclusions. Two verbal outcome-mean comparisons, no division, unknown counterfactual alignment; no calculated differences or ratios. CGQ and other controls associated, not own causal parameters. Source signs, nulls and main roles preserved. Bounded untabulated robustness scope and alternatives retained. Publisher/archive access limits and targeted manuscript methods check do not establish supplement absence. No empirical replication or omission-free claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5837",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5838",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5839",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5840",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5841",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5842",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5843",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5844",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5845",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5846",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5847",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5848",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5849",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5850",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5851",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5852",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5853",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5854",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5855",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5856",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5857",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5858",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5859",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5860",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5861",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5862",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5863",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5864",
+    "before": null,
+    "after": "8UABWVAN"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5837",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5838",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5839",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5840",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5841",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5842",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5843",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5844",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5845",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5846",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5847",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5848",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5849",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5850",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5851",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5852",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5853",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5854",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5855",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5856",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5857",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5858",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5859",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5860",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5861",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5862",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5863",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5864",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5841",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5845",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5848",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5849",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5852",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5853",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5854",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5855",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5856",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5857",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5858",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5859",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5860",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5861",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5863",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5864",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1412",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1413",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1414",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1415",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1416",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1417",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1418",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1419",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1420",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1421",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1422",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1423",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1424",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5837",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5838",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5839",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5840",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5841",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5842",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5843",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5844",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5845",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5846",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5847",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5848",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5849",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5850",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5851",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5852",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5853",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5854",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5855",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5856",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5857",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5858",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5859",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5860",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5861",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5862",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5863",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5864",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5841",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5848",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5849",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5852",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5853",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5854",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5855",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5856",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5857",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5858",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5859",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5860",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5864",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1412",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1413",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1414",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1415",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1416",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1417",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1418",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1419",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1420",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1421",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1422",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1423",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1424",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5839",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5841",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5845",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5847",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5848",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5849",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5851",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5852",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5853",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5854",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5856",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5857",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5858",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1412",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1413",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1414",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1415",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1416",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1417",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1418",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1419",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1420",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1421",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1422",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1423",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1424",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5837",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5838",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5839",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5840",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5841",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5842",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5843",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5844",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5845",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5846",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5847",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5848",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5849",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5850",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5851",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5852",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5853",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5854",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5855",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5856",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5857",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5858",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5859",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5860",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5861",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5862",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5863",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5864",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1412",
+    "before": null,
+    "after": "SEC disclosure mandate effect on RPT count; overall Table4A p277; Eq1 pp269-270"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1413",
+    "before": null,
+    "after": "SEC disclosure mandate effect on RPT count; monitoring heterogeneity Table4B p278 aggregate monitoring split"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1414",
+    "before": null,
+    "after": "SEC disclosure mandate effect on RPT count; monitoring heterogeneity Table4C p278 individual monitoring splits"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1415",
+    "before": null,
+    "after": "SEC disclosure mandate effect on business and non-business RPT counts. Table4E p279 cols1-2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1416",
+    "before": null,
+    "after": "Post-regulation change in outcome slope per additional RPT above $120,000, both disclosure-status groups. Table5A p280, Eq2 p270"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1417",
+    "before": null,
+    "after": "Post-regulation change in outcome slope per additional RPT above $120,000, both disclosure-status groups. Table5B p281 aggregate monitoring"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1418",
+    "before": null,
+    "after": "Post-regulation change in outcome slope per additional RPT above $120,000, both disclosure-status groups. Table5C and E pp281-282 individual monitoring, count columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1419",
+    "before": null,
+    "after": "Post-regulation change in outcome slope per additional non-business RPT; conditioning on business RPT, both disclosure-status groups. Table5G p283 cols1-2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1420",
+    "before": null,
+    "after": "Post-period RPT-count effect on ICC, stratified by written policy. Table6A p284 cols1-2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1421",
+    "before": null,
+    "after": "Post-period RPT-count effect on ICC, stratified by designated committee. Table6B p284 cols1-2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1422",
+    "before": null,
+    "after": "Post-period RPT-count effect on ICC, stratified by long versus short governance disclosure. Table6C p285 cols1-2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1423",
+    "before": null,
+    "after": "Post-regulation change in outcome slope per additional RPT above $120,000, both disclosure-status groups. Table7A p286 Eq3 p282"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1424",
+    "before": null,
+    "after": "Post-regulation change in outcome slope per additional non-business RPT; conditioning on business RPT, both disclosure-status groups. Table7B p287 cols1-2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5837",
+    "before": null,
+    "after": "SEC disclosure mandate effect on any-RPT indicator; overall Table4A p277; Eq1 pp269-270"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5838",
+    "before": null,
+    "after": "SEC disclosure mandate effect on any-RPT indicator; same monitoring heterogeneity Table4B p278 aggregate monitoring split"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5839",
+    "before": null,
+    "after": "SEC disclosure mandate effect on any-RPT indicator; same monitoring heterogeneity Table4D p279 individual monitoring splits"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5840",
+    "before": null,
+    "after": "SEC disclosure mandate effect on business and non-business RPT indicators. Table4E p279 cols3-4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5841",
+    "before": null,
+    "after": "Post-regulation change in outcome contrast for any-RPT versus no-RPT, both disclosure-status groups. Table5A p280, Eq2 p270"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5842",
+    "before": null,
+    "after": "Post-regulation change in outcome contrast for any-RPT versus no-RPT, both disclosure-status groups. Table5B p281 aggregate monitoring"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5843",
+    "before": null,
+    "after": "Post-regulation change in outcome contrast for any-RPT versus no-RPT, both disclosure-status groups. Table5D and F pp282-283 individual monitoring, indicator columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5844",
+    "before": null,
+    "after": "Post-regulation change in outcome contrast for any-RPT versus no-RPT, both disclosure-status groups. Table7A p286 Eq3 p282"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5845",
+    "before": null,
+    "after": "Post-regulation change in outcome slope per additional business RPT; conditioning on the other type, both disclosure-status groups. Table5G p283 cols1-2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5846",
+    "before": null,
+    "after": "Post-regulation change in outcome contrast for any non-business RPT versus none; conditioning on the other type, both disclosure-status groups. Table5G p283 cols3-4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5847",
+    "before": null,
+    "after": "Post-regulation change in outcome contrast for any business RPT versus none; conditioning on the other type, both disclosure-status groups. Table5G p283 cols3-4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5848",
+    "before": null,
+    "after": "Post-regulation change in outcome slope per additional business RPT; conditioning on the other type, both disclosure-status groups. Table7B p287 cols1-2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5849",
+    "before": null,
+    "after": "Post-regulation change in outcome contrast for any non-business RPT versus none; conditioning on the other type, both disclosure-status groups. Table7B p287 cols3-4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5850",
+    "before": null,
+    "after": "Post-regulation change in outcome contrast for any business RPT versus none; conditioning on the other type, both disclosure-status groups. Table7B p287 cols3-4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5851",
+    "before": null,
+    "after": "Post-period any-RPT versus no-RPT effect on ICC, stratified by written policy. Table6A p284 cols3-4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5852",
+    "before": null,
+    "after": "Post-period any-RPT versus no-RPT effect on ICC, stratified by designated committee. Table6B p284 cols3-4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5853",
+    "before": null,
+    "after": "Post-period any-RPT versus no-RPT effect on ICC, stratified by long versus short governance disclosure. Table6C p285 cols3-4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5854",
+    "before": null,
+    "after": "Regulatory disclosure effect on RPT occurrence conditional on external monitoring (institutional ownership, industry competition and analyst coverage); supported minimum family. p267 fn13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5855",
+    "before": null,
+    "after": "Regulatory effect with all transaction amounts included, rather than only RPTs above $120,000. p269 fn16; p271 fn21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5856",
+    "before": null,
+    "after": "Regulatory exposure using actual initiation timing for firms first disclosing in 2010; staggered DID rerun, supported minimum occurrence family. p270 fn17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5857",
+    "before": null,
+    "after": "Post-regulation change in individual-component ICC RPT-count slope, Newly- and Already-Disclosed groups. pp274,276 untabulated individual ICC models"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5858",
+    "before": null,
+    "after": "Post-regulation change in individual-component ICC any-RPT contrast, Newly- and Already-Disclosed groups. pp274,276 untabulated individual ICC models"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5859",
+    "before": null,
+    "after": "SEC regulation effect on written-policy adoption inferred from pre/post prevalence change; no untreated comparison group.  p276 fn28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5860",
+    "before": null,
+    "after": "SEC regulation effect on committee delegation inferred from pre/post prevalence change; no untreated comparison group.  p276 fn29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5861",
+    "before": null,
+    "after": "Actual-initiation-timing staggered rerun: post-regulation change in ICC slope per additional RPT, both disclosure-status groups. p270 fn17 all-tests statement; Eq2 p270."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5862",
+    "before": null,
+    "after": "Actual-initiation-timing staggered rerun: post-regulation change in ICC contrast for any RPT versus no RPT, both disclosure-status groups. p270 fn17 all-tests statement; Eq2 p270."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5863",
+    "before": null,
+    "after": "Actual-initiation-timing staggered rerun: post-regulation change in Tobin Q slope per additional RPT, both disclosure-status groups. p270 fn17 all-tests statement; Eq3 p282."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5864",
+    "before": null,
+    "after": "Actual-initiation-timing staggered rerun: post-regulation change in Tobin Q contrast for any RPT versus no RPT, both disclosure-status groups. p270 fn17 all-tests statement; Eq3 p282."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1412",
+    "before": null,
+    "after": "Conventional differential pre/post regulatory exposure, Newly-Disclosed versus Already-Disclosed firms; 2004, 2007, 2010. Industry controls and clustered SE do not override DiD. Null/high-monitoring/business effects retained. Not modern DiD merely because staggered alternative exists. Independent audit: Eq1 pp269-270 is linear notation, but Table4A-D pp277-279 uses Adj. or Pseudo R2 without allocating the fit measure or naming the implemented estimator. Apply uncertainty consistently to counts and indicators. Conventional linear DiD is the leading alternative; a nonlinear count or binary response model would be Other only if established. No logit, Poisson, or marginal-effect implementation is inferred. Panel E Adj R2 favors linear estimation but does not resolve the family-level conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1413",
+    "before": null,
+    "after": "Conventional differential pre/post regulatory exposure, Newly-Disclosed versus Already-Disclosed firms; 2004, 2007, 2010. Industry controls and clustered SE do not override DiD. Null/high-monitoring/business effects retained. Not modern DiD merely because staggered alternative exists. Independent audit: Eq1 pp269-270 is linear notation, but Table4A-D pp277-279 uses Adj. or Pseudo R2 without allocating the fit measure or naming the implemented estimator. Apply uncertainty consistently to counts and indicators. Conventional linear DiD is the leading alternative; a nonlinear count or binary response model would be Other only if established. No logit, Poisson, or marginal-effect implementation is inferred. Panel E Adj R2 favors linear estimation but does not resolve the family-level conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1414",
+    "before": null,
+    "after": "Conventional differential pre/post regulatory exposure, Newly-Disclosed versus Already-Disclosed firms; 2004, 2007, 2010. Industry controls and clustered SE do not override DiD. Null/high-monitoring/business effects retained. Not modern DiD merely because staggered alternative exists. Independent audit: Eq1 pp269-270 is linear notation, but Table4A-D pp277-279 uses Adj. or Pseudo R2 without allocating the fit measure or naming the implemented estimator. Apply uncertainty consistently to counts and indicators. Conventional linear DiD is the leading alternative; a nonlinear count or binary response model would be Other only if established. No logit, Poisson, or marginal-effect implementation is inferred. Panel E Adj R2 favors linear estimation but does not resolve the family-level conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1415",
+    "before": null,
+    "after": "Conventional differential pre/post regulatory exposure, Newly-Disclosed versus Already-Disclosed firms; 2004, 2007, 2010. Industry controls and clustered SE do not override DiD. Null/high-monitoring/business effects retained. Not modern DiD merely because staggered alternative exists. Visual verification: business count coefficient is -0.125, not +0.125; non-business -0.285. Independent audit: Eq1 pp269-270 is linear notation, but Table4A-D pp277-279 uses Adj. or Pseudo R2 without allocating the fit measure or naming the implemented estimator. Apply uncertainty consistently to counts and indicators. Conventional linear DiD is the leading alternative; a nonlinear count or binary response model would be Other only if established. No logit, Poisson, or marginal-effect implementation is inferred. Panel E Adj R2 favors linear estimation but does not resolve the family-level conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1416",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1417",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1418",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1419",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1420",
+    "before": null,
+    "after": "Post-period RPT slope stratified by governance choice, not an implemented direct policy-choice coefficient or DiD. Causal intention supported by pp265,281,285-286 and abstract: firms benefit from governance choices. Retain null/positive counterpart estimates. Linear ICC model with year and industry FE; p270 explicitly says industry FE control industry heterogeneity, so FE under identifying-heterogeneity reading (two dimensions, not HDFE). OLS is the narrower alternative if those FE are judged incidental rather than identifying. No treatment randomization. Estimated ICC outcome alone does not make Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1421",
+    "before": null,
+    "after": "Post-period RPT slope stratified by governance choice, not an implemented direct policy-choice coefficient or DiD. Causal intention supported by pp265,281,285-286 and abstract: firms benefit from governance choices. Retain null/positive counterpart estimates. Linear ICC model with year and industry FE; p270 explicitly says industry FE control industry heterogeneity, so FE under identifying-heterogeneity reading (two dimensions, not HDFE). OLS is the narrower alternative if those FE are judged incidental rather than identifying. No treatment randomization. Estimated ICC outcome alone does not make Other. Correct model sign: no-committee #RPT slope is +0.121 (t=+1.97), versus -0.065 with committee."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1422",
+    "before": null,
+    "after": "Post-period RPT slope stratified by governance choice, not an implemented direct policy-choice coefficient or DiD. Causal intention supported by pp265,281,285-286 and abstract: firms benefit from governance choices. Retain null/positive counterpart estimates. Linear ICC model with year and industry FE; p270 explicitly says industry FE control industry heterogeneity, so FE under identifying-heterogeneity reading (two dimensions, not HDFE). OLS is the narrower alternative if those FE are judged incidental rather than identifying. No treatment randomization. Estimated ICC outcome alone does not make Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1423",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1424",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5837",
+    "before": null,
+    "after": "Eq1 is written linearly, but Table4 labels fit Adj. or Pseudo R2 and never names the binary-response implementation. Keep unknown rather than assert logit/probit or a linear probability model. Alternatives: DiD_conventional if linear; Other if nonlinear DiD. Coefficients are not established percentage-point effects. Targeted accepted-manuscript estimator search supplies no explicit resolution. Independent audit: Eq1 pp269-270 is linear notation, but Table4A-D pp277-279 uses Adj. or Pseudo R2 without allocating the fit measure or naming the implemented estimator. Apply uncertainty consistently to counts and indicators. Conventional linear DiD is the leading alternative; a nonlinear count or binary response model would be Other only if established. No logit, Poisson, or marginal-effect implementation is inferred. Panel E Adj R2 favors linear estimation but does not resolve the family-level conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5838",
+    "before": null,
+    "after": "Eq1 is written linearly, but Table4 labels fit Adj. or Pseudo R2 and never names the binary-response implementation. Keep unknown rather than assert logit/probit or a linear probability model. Alternatives: DiD_conventional if linear; Other if nonlinear DiD. Coefficients are not established percentage-point effects. Targeted accepted-manuscript estimator search supplies no explicit resolution. Independent audit: Eq1 pp269-270 is linear notation, but Table4A-D pp277-279 uses Adj. or Pseudo R2 without allocating the fit measure or naming the implemented estimator. Apply uncertainty consistently to counts and indicators. Conventional linear DiD is the leading alternative; a nonlinear count or binary response model would be Other only if established. No logit, Poisson, or marginal-effect implementation is inferred. Panel E Adj R2 favors linear estimation but does not resolve the family-level conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5839",
+    "before": null,
+    "after": "Eq1 is written linearly, but Table4 labels fit Adj. or Pseudo R2 and never names the binary-response implementation. Keep unknown rather than assert logit/probit or a linear probability model. Alternatives: DiD_conventional if linear; Other if nonlinear DiD. Coefficients are not established percentage-point effects. Targeted accepted-manuscript estimator search supplies no explicit resolution. Independent audit: Eq1 pp269-270 is linear notation, but Table4A-D pp277-279 uses Adj. or Pseudo R2 without allocating the fit measure or naming the implemented estimator. Apply uncertainty consistently to counts and indicators. Conventional linear DiD is the leading alternative; a nonlinear count or binary response model would be Other only if established. No logit, Poisson, or marginal-effect implementation is inferred. Panel E Adj R2 favors linear estimation but does not resolve the family-level conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5840",
+    "before": null,
+    "after": "Eq1 is written linearly, but Table4 labels fit Adj. or Pseudo R2 and never names the binary-response implementation. Keep unknown rather than assert logit/probit or a linear probability model. Alternatives: DiD_conventional if linear; Other if nonlinear DiD. Coefficients are not established percentage-point effects. Targeted accepted-manuscript estimator search supplies no explicit resolution. Table4E uses Adj R2 alone but belongs to the unresolved Eq1 binary-response family. Business indicator is -0.180, not +0.180; non-business -0.554. Independent audit: Eq1 pp269-270 is linear notation, but Table4A-D pp277-279 uses Adj. or Pseudo R2 without allocating the fit measure or naming the implemented estimator. Apply uncertainty consistently to counts and indicators. Conventional linear DiD is the leading alternative; a nonlinear count or binary response model would be Other only if established. No logit, Poisson, or marginal-effect implementation is inferred. Panel E Adj R2 favors linear estimation but does not resolve the family-level conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5841",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5842",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5843",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5844",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5845",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other. Null business-type contrast is a substantive H2b/valuation comparison, not diagnostic-only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5846",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other. Null business-type contrast is a substantive H2b/valuation comparison, not diagnostic-only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5847",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other. Null business-type contrast is a substantive H2b/valuation comparison, not diagnostic-only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5848",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other. Null business-type contrast is a substantive H2b/valuation comparison, not diagnostic-only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5849",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other. Null business-type contrast is a substantive H2b/valuation comparison, not diagnostic-only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5850",
+    "before": null,
+    "after": "Linear reported-outcome equation; conventional pre/post change in RPT slope, estimated separately for Newly- and Already-Disclosed firms. Actual focal regressor is RPT x Post, not a coefficient on committee/written policy or merely Post. Maintain author regulatory-effect interpretation; separate count dose from binary RPT occurrence. Already-disclosed nulls/reversals stay in the same-location family; between-group nonsignificance is not exclusion. Industry FE/estimated ICC construction do not turn this into Other. Null business-type contrast is a substantive H2b/valuation comparison, not diagnostic-only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5851",
+    "before": null,
+    "after": "Post-period RPT slope stratified by governance choice, not an implemented direct policy-choice coefficient or DiD. Causal intention supported by pp265,281,285-286 and abstract: firms benefit from governance choices. Retain null/positive counterpart estimates. Linear ICC model with year and industry FE; p270 explicitly says industry FE control industry heterogeneity, so FE under identifying-heterogeneity reading (two dimensions, not HDFE). OLS is the narrower alternative if those FE are judged incidental rather than identifying. No treatment randomization. Estimated ICC outcome alone does not make Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5852",
+    "before": null,
+    "after": "Post-period RPT slope stratified by governance choice, not an implemented direct policy-choice coefficient or DiD. Causal intention supported by pp265,281,285-286 and abstract: firms benefit from governance choices. Retain null/positive counterpart estimates. Linear ICC model with year and industry FE; p270 explicitly says industry FE control industry heterogeneity, so FE under identifying-heterogeneity reading (two dimensions, not HDFE). OLS is the narrower alternative if those FE are judged incidental rather than identifying. No treatment randomization. Estimated ICC outcome alone does not make Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5853",
+    "before": null,
+    "after": "Post-period RPT slope stratified by governance choice, not an implemented direct policy-choice coefficient or DiD. Causal intention supported by pp265,281,285-286 and abstract: firms benefit from governance choices. Retain null/positive counterpart estimates. Linear ICC model with year and industry FE; p270 explicitly says industry FE control industry heterogeneity, so FE under identifying-heterogeneity reading (two dimensions, not HDFE). OLS is the narrower alternative if those FE are judged incidental rather than identifying. No treatment randomization. Estimated ICC outcome alone does not make Other."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5854",
+    "before": null,
+    "after": "Untabulated consistent external-monitoring results are substantive mechanism robustness. Eq1 count DiD is plausible, binary implementation unresolved; no printed coefficients, partition cutoffs, separate panel grid or benchmark. Do not invent external-monitoring effects on every ICC/Q outcome."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5855",
+    "before": null,
+    "after": "Distinct outcome-definition robustness, inferences unchanged. Minimum occurrence family; count linear conventional DiD plausible, indicator estimator unresolved. Fn21 repeats the any-amount definition, not another setting. Full downstream outcome-by-treatment replication grid held."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5856",
+    "before": null,
+    "after": "p270 fn17 explicitly reports staggered DID reruns of all tests, not a named modern estimator. This retained occurrence family has unresolved count/indicator implementation consistent with Eq1/Table4. Separate linear ICC and Q count-dose/binary-contrast families are h25-h28. No unreported coefficients or monitoring/type/individual-ICC Cartesian grid asserted; detailed allocations remain unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5857",
+    "before": null,
+    "after": "Separate outcome set from average ICC. Authors run the test for each measure; GLS/OJ significant, CT/Easton not. Keep substantive nulls. Eq2 linear on generated ICC outcome, not structural causal estimator merely because ICC is estimated. No numerical component effects, level comparisons, or normalization reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5858",
+    "before": null,
+    "after": "Separate outcome set from average ICC. Authors run the test for each measure; GLS/OJ significant, CT/Easton not. Keep substantive nulls. Eq2 linear on generated ICC outcome, not structural causal estimator merely because ICC is estimated. No numerical component effects, level comparisons, or normalization reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5859",
+    "before": null,
+    "after": "Authors explicitly attribute increase mainly/seemingly to the regulation. Unadjusted pre/post mean contrast, not DiD or RCT. Minimum broad author-intention reading; narrower descriptive-only exclusion is held for independent audit. No causal identification asserted by reviewer."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5860",
+    "before": null,
+    "after": "Authors explicitly attribute increase mainly/seemingly to the regulation. Unadjusted pre/post mean contrast, not DiD or RCT. Minimum broad author-intention reading; narrower descriptive-only exclusion is held for independent audit. No causal identification asserted by reviewer."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5861",
+    "before": null,
+    "after": "Supported aggregate linear-outcome family from the explicit all-tests rerun statement; numeric results, exact monitoring/type partitions and component-ICC allocation are not reported. Conventional DiD under the stated linear equations; staggered timing alone is not modern DiD. Focal regressor RPT x Post, not a direct governance-choice coefficient or merely Post. No benchmark or numerical coefficient supplied for the rerun. Narrow alternative: retain only h20 because fn17 is attached to Eq1; broader alternative: replicate every panel and ICC component, not adopted without exact allocation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5862",
+    "before": null,
+    "after": "Supported aggregate linear-outcome family from the explicit all-tests rerun statement; numeric results, exact monitoring/type partitions and component-ICC allocation are not reported. Conventional DiD under the stated linear equations; staggered timing alone is not modern DiD. Focal regressor RPT x Post, not a direct governance-choice coefficient or merely Post. No benchmark or numerical coefficient supplied for the rerun. Narrow alternative: retain only h20 because fn17 is attached to Eq1; broader alternative: replicate every panel and ICC component, not adopted without exact allocation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5863",
+    "before": null,
+    "after": "Supported aggregate linear-outcome family from the explicit all-tests rerun statement; numeric results, exact monitoring/type partitions and component-ICC allocation are not reported. Conventional DiD under the stated linear equations; staggered timing alone is not modern DiD. Focal regressor RPT x Post, not a direct governance-choice coefficient or merely Post. No benchmark or numerical coefficient supplied for the rerun. Narrow alternative: retain only h20 because fn17 is attached to Eq1; broader alternative: replicate every panel and ICC component, not adopted without exact allocation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5864",
+    "before": null,
+    "after": "Supported aggregate linear-outcome family from the explicit all-tests rerun statement; numeric results, exact monitoring/type partitions and component-ICC allocation are not reported. Conventional DiD under the stated linear equations; staggered timing alone is not modern DiD. Focal regressor RPT x Post, not a direct governance-choice coefficient or merely Post. No benchmark or numerical coefficient supplied for the rerun. Narrow alternative: retain only h20 because fn17 is attached to Eq1; broader alternative: replicate every panel and ICC component, not adopted without exact allocation."
+  }
+]
+```
