@@ -1733496,3 +1733496,102 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T10:10:03.950053+00:00 — Review 3LH8CRP3: one-paper adjudicated source-scoped coding
+
+15 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R977",
+    "before": null,
+    "after": "Section 2 p. 345/Table 1: over 75% is a within-topic archival publication share; the prose offers a qualitative data-availability explanation, not a focal implemented effect compared with a same-outcome benchmark. Mere availability of other group shares does not establish deliberate effect-benchmark pairing. Parent s1 rejected."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R978",
+    "before": null,
+    "after": "Section 2 p. 345: 53% financial-reporting topic, 63% archival method and 40% joint financial/archival are marginal/joint descriptive publication shares, not a causal estimate and same-outcome benchmark. Parent s1 rejected."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3488",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3489",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3488",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3489",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3488",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3489",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3488",
+    "before": null,
+    "after": "Spurious as a causal outcome: descriptive publication counts/shares in Section 2/Table 1 (pp. 345-347); parent s1 is rejected. Original definition and ID preserved. No new journal-mission setting or outcome is appended."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3489",
+    "before": null,
+    "after": "Spurious as a causal outcome: descriptive publication counts/shares in Section 2/Table 1 (pp. 345-347); parent s1 is rejected. Original definition and ID preserved. No new journal-mission setting or outcome is appended."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E161",
+    "before": null,
+    "after": "DONE — full available-source review and complete independent reread of all 55 PDF pages accepted. Section 2/Table 1 is original descriptive publication classification with genuinely causal explanations, but no designated implemented availability- or journal-mission-effect contrast. Reject s1 symmetrically with proposed h1; no h1/hy1 append. Both original outcomes inactive and both comparisons rejected; physical 1 setting, 2 outcomes, 2 comparisons retained, zero active causal coverage. Exclusion is not for weak identification, absence of regression, conceptual-paper status or consistent-with language alone. Moderate confidence; plausible inclusion interpretation remains held. If reopened, supporting motivation is better supported; unknown method is preferable to invented OLS only if the causal gate is accepted but implementation remains unresolved. Current descriptive procedure is known and gate-excluded. c1 is a within-topic share, c2 marginal/joint shares, neither a deliberate effect-benchmark pair. Original model fields and IDs preserved. Full source census and competing interpretations documented; no omission-free claim, separate supplement verification or empirical replication."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1377",
+    "before": null,
+    "after": "Spurious causal setting: Section 2/Table 1 (printed pp. 343, 345-347; PDF pp. 3, 5-7) classifies published papers by topic, method and journal. Data-access and journal-mission explanations motivate the methodological framework but are not implemented treatment-effect contrasts. Neither a high/low availability contrast nor a journal-mission effect estimator is specified. Exclusion is not based on weak identification or lack of statistical significance; no OLS/FE effect is supplied."
+  }
+]
+```
