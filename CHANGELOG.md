@@ -1790229,3 +1790229,2370 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T20:24:06.467652+00:00 — Review BUU6Q229: one-paper adjudicated source-scoped coding
+
+393 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L990",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L991",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L992",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L993",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L994",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L995",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M990",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M991",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M992",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M993",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M994",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M995",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P990",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P991",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P992",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P993",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P994",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P995",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q990",
+    "before": null,
+    "after": "Printed p158 (PDF22), Table4 cols1,4,7 no-FE WLS: one SD increase in Inflex at VSBY=0; reported magnitude 0.4%, 12% of corresponding sample mean. Table3A Compustat-CRSP sample mean 0.033; dispersion is percentile-rank scale. Author percentages retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q991",
+    "before": null,
+    "after": "Printed p158 (PDF22), Table4 cols1,4,7 no-FE WLS: one SD increase in Inflex at VSBY=0; reported magnitude 0.7%, 7.4% of corresponding sample mean. Table3A Compustat-CRSP sample mean 0.094; dispersion is percentile-rank scale. Author percentages retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q992",
+    "before": null,
+    "after": "Printed p158 (PDF22), Table4 cols1,4,7 no-FE WLS: one SD increase in Inflex at VSBY=0; reported magnitude 4.3%, 10% of corresponding sample mean. Table3A Compustat-CRSP sample mean 0.424; dispersion is percentile-rank scale. Author percentages retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q993",
+    "before": null,
+    "after": "Printed p158 (PDF22), Table4 cols1,4,7 no-FE WLS: one SD increase in VSBY for fully inflexible-price firms; reported magnitude 0.4%, 12.2% of corresponding sample mean. Table3A Compustat-CRSP sample mean 0.033; dispersion is percentile-rank scale. Author percentages retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q994",
+    "before": null,
+    "after": "Printed p158 (PDF22), Table4 cols1,4,7 no-FE WLS: one SD increase in VSBY for fully inflexible-price firms; reported magnitude 1.85%, 19.7% of corresponding sample mean. Table3A Compustat-CRSP sample mean 0.094; dispersion is percentile-rank scale. Author percentages retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q995",
+    "before": null,
+    "after": "Printed p158 (PDF22), Table4 cols1,4,7 no-FE WLS: one SD increase in VSBY for fully inflexible-price firms; reported magnitude 4.8%, 11.3% of corresponding sample mean. Table3A Compustat-CRSP sample mean 0.424; dispersion is percentile-rank scale. Author percentages retained, not recomputed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R990",
+    "before": null,
+    "after": "Continuous conditional regression target and asset-weighted estimand versus unconditional descriptive mean; counterfactual level and matching weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R991",
+    "before": null,
+    "after": "Continuous conditional regression target and asset-weighted estimand versus unconditional descriptive mean; counterfactual level and matching weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R992",
+    "before": null,
+    "after": "Continuous conditional regression target and asset-weighted estimand versus unconditional descriptive mean; counterfactual level and matching weights not established."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R993",
+    "before": null,
+    "after": "The fully inflexible-price phrase evaluates the VSBY slope at Inflex=0 in a full-sample asset-weighted regression, not a separately estimated fully-inflexible subsample. Overall descriptive means are linked, but conditional untreated outcome levels, target population and matching weights are not established. Alignment unresolved, not established aligned or a proven subgroup-weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R994",
+    "before": null,
+    "after": "The fully inflexible-price phrase evaluates the VSBY slope at Inflex=0 in a full-sample asset-weighted regression, not a separately estimated fully-inflexible subsample. Overall descriptive means are linked, but conditional untreated outcome levels, target population and matching weights are not established. Alignment unresolved, not established aligned or a proven subgroup-weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R995",
+    "before": null,
+    "after": "The fully inflexible-price phrase evaluates the VSBY slope at Inflex=0 in a full-sample asset-weighted regression, not a separately estimated fully-inflexible subsample. Overall descriptive means are linked, but conditional untreated outcome levels, target population and matching weights are not established. Alignment unresolved, not established aligned or a proven subgroup-weight mismatch."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13657",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13658",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13659",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13660",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13661",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13662",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13663",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13664",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13665",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13666",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13667",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13668",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13669",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13670",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13671",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13672",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13673",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13674",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13675",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13676",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13677",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13678",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13679",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13680",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13681",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13682",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13683",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13684",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13685",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13686",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13687",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13688",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13689",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13690",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13691",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13692",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13693",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13694",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13695",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13696",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13697",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13657",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13658",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13659",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13660",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13661",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13662",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13663",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13664",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13665",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13666",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13667",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13668",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13669",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13670",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13671",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13672",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13673",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13674",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13675",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13676",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13677",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13678",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13679",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13680",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13681",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13682",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13683",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13684",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13685",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13686",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13687",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13688",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13689",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13690",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13691",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13692",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13693",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13694",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13695",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13696",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13697",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13657",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13658",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13659",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13660",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13661",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13662",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13663",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13664",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13665",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13666",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13667",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13668",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13669",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13670",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13671",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13672",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13673",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13674",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13675",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13676",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13677",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13678",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13679",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13680",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13681",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13682",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13683",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13684",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13685",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13686",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13687",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13688",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13689",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13690",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13691",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13692",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13693",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13694",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13695",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13696",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13697",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13657",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13658",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13659",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13660",
+    "before": null,
+    "after": "CAR[-1,+1] around earnings announcement; six Size-BM portfolio-adjusted daily returns cumulated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13661",
+    "before": null,
+    "after": "CAR from day+2 after current announcement until day before next quarterly announcement; six Size-BM portfolio adjustment."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13662",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13663",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13664",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13665",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13666",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13667",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13668",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13669",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13670",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13671",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13672",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13673",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13674",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13675",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13676",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13677",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13678",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13679",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13680",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13681",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13682",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13683",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13684",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13685",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13686",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13687",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13688",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13689",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13690",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13691",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13692",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13693",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13694",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13695",
+    "before": null,
+    "after": "Annual average daily relative bid-ask spread, July t through June t+1; level, not a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13696",
+    "before": null,
+    "after": "PIN probability of informed trading (continuous estimated rate, not a binary observation); level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13697",
+    "before": null,
+    "after": "Percentile-rank form of two-year-ahead analyst EPS forecast standard deviation divided by stock price; rank outcome, not raw dispersion or outcome-SD units."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E170",
+    "before": null,
+    "after": "DONE — parent accepted full available-source first review and focused independent audit. 22 retained settings, 54 active outcomes, six retained comparisons; every setting searched. Six deliberate verbal and divided outcome-mean comparisons remain on original s1 OLS/WLS; all alignments unknown because conditional target populations, weights and untreated levels are unestablished. c4–c6 evaluate a full-sample interaction endpoint, not an established subgroup regression; literal subgroup-mismatch alternative held. Joint Inflex/visibility mechanism retained without routine-control grids; actual OLS/FE column splits and five IV nonbinary excluded sets preserved. h14 alternative visibility and h15 alternative weights are minimum implemented families with unknown method allocation, no Cartesian grid; narrower routine-weight scope alternative held, unlike prior unallocated h9 withdrawal. All source contradictions, nulls and competing scope alternatives held. Coefficient/effect ratios excluded as not same-outcome levels; no inferred denominators. Inherited full 43-page/24-footnote article, official 15-page appendix and three-page datasheet coverage; independent audit focused, not a fresh exhaustive second read or empirical replication; code construction only. Historical candidate pending status preserved externally; no omission-free claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5880",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5881",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5882",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5883",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5884",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5885",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5886",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5887",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5888",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5889",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5890",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5891",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5892",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5893",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5894",
+    "before": null,
+    "after": "BUU6Q229"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5880",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5881",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5882",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5883",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5884",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5885",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5886",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5887",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5888",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5889",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5890",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5891",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5892",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5893",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5894",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5880",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5882",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5884",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5885",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5886",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5887",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5888",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5889",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5890",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5891",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5893",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5894",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1431",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1432",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1433",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1434",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1435",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1436",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1437",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5880",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5881",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5882",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5883",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5884",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5885",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5886",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5887",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5888",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5889",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5890",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5891",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5892",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5893",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5894",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5881",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5882",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5883",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5884",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5885",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5888",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5889",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5891",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5893",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1431",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1432",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5880",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5881",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5882",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5883",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5884",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5885",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5888",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5889",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5891",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5893",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1431",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1432",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1433",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1434",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1435",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1436",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1437",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5880",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5881",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5882",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5883",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5884",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5885",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5886",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5887",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5888",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5889",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5890",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5891",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5892",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5893",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5894",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1431",
+    "before": null,
+    "after": "Table 4 columns 1,4,7: asset-weighted linear regressions without FE of Inflex, VSBY and their interaction on bid-ask spread, PIN and percentile-rank dispersion. Inflex=-FPA; VSBY continuous. FE columns separated to h1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1436",
+    "before": null,
+    "after": "Table8 Panel A cols2-4: output-price inflexibility moderates the CAR[-1,+1] response to percentile-rank earnings surprise. Asset-weighted linear models with year-quarter and industry/firm FE. No-FE col1 separated to h2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1437",
+    "before": null,
+    "after": "Table8 Panel B cols2-4: output-price inflexibility moderates post-announcement CAR from day+2 to before the next announcement. Asset-weighted linear FE; no-FE col1 separated to h3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5880",
+    "before": null,
+    "after": "Table4 cols2,3,5,6,8,9: Inflex and VSBY interaction effects on information-asymmetry outcomes, asset-weighted; year plus industry/firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5881",
+    "before": null,
+    "after": "Table8A col1: no-FE asset-weighted Inflex × SUE effect on announcement CAR."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5882",
+    "before": null,
+    "after": "Table8B col1: no-FE asset-weighted Inflex × SUE effect on post-announcement CAR."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5883",
+    "before": null,
+    "after": "Appendix TableA.3 cols1,4,7: unweighted OLS Inflex/VSBY mechanism among firms above 67th asset percentile; no FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5884",
+    "before": null,
+    "after": "Appendix TableA.3 cols2,3,5,6,8,9: unweighted linear regressions with year and industry/firm FE among larger firms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5885",
+    "before": null,
+    "after": "Appendix TableA.4 PanelA: Inflex × VSBY effects with operating-income fundamental volatility and its VSBY interaction controlled. Asset-weighted; firm FE plus one alternative industry×year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5886",
+    "before": null,
+    "after": "Appendix TableA.4 PanelB: Inflex × VSBY effects controlling return volatility and its VSBY interaction. Asset-weighted; firm plus one industry×year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5887",
+    "before": null,
+    "after": "Appendix TableA.5 cols1,4,7: no-FE asset-weighted Inflex/VSBY mechanism in low-wage-share sectors."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5888",
+    "before": null,
+    "after": "Appendix TableA.5 cols2,3,5,6,8,9: low-wage-share sample with year and industry/firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5889",
+    "before": null,
+    "after": "Appendix TableA.6: Inflex × input-cost visibility constructed from annual coarser 71-BEA-industry IO tables; asset-weighted firm/year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5890",
+    "before": null,
+    "after": "Appendix TableA.8 PanelB: IV VSBY and Inflex × VSBY using alternate pre-event visibility reference; firm/year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5891",
+    "before": null,
+    "after": "Appendix TableA.10 second stage: VSBY and Inflex × VSBY instrumented by raw visibility-change exposure rather than percentile rank."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5892",
+    "before": null,
+    "after": "Appendix TableA.11 PanelB: coarser 71-BEA-industry VSBY and Inflex interaction, instrumented by coarser exposure rank; firm/year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5893",
+    "before": null,
+    "after": "Main fn13 p152: baseline information-asymmetry results repeated with own-sector input share and publication included in VSBY construction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5894",
+    "before": null,
+    "after": "Main fn17 p155: baseline information-asymmetry results robust to weighting by firm sales or market values instead of assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1431",
+    "before": null,
+    "after": "Printed FE rows on p160 show no FE in columns 1,4,7. Six p158 mean comparisons belong here, not FE or IV. Joint focal price-rigidity/public-information mechanism; routine control coefficients are not separate causal treatments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1432",
+    "before": null,
+    "after": "Table6 second stage; Table5 is diagnostic first stage. Two excluded nonbinary instruments jointly: Post × deltaRank and Inflex × Post × deltaRank. Category other, not single continuous or mixed; Post is not a standalone excluded instrument. Continuous VSBY receipt and its rigidity interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1433",
+    "before": null,
+    "after": "Eq8/Figure5 pp168-169: continuous exposure/rank × Inflex × event time; substantive negative post-event response retained, not just pretrend diagnostics. Not modern DiD; no binary high/low cutoff implemented. No outcome-level benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1434",
+    "before": null,
+    "after": "Table7 cols1-2 explicitly linear probability, year-quarter plus industry/firm FE (two dimensions); Question is binary but treatment is continuous. Retain null interaction in col1. Presentation is discussed as a control, not a distinct intended causal intervention."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1435",
+    "before": null,
+    "after": "Table7 cols3-4 explicit linear IV; two nonbinary excluded instruments Post × deltaRank and Inflex × Post × deltaRank (other). Analyst-demand channel appears in abstract; main=1 consistently with s4. The 21% is attenuation of a slope, not normalization by Question mean."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1436",
+    "before": null,
+    "after": "The 15% increase concerns the earnings-response slope, not CAR divided by CAR mean/SD. Upstream rank transformation of SUE does not make the reported CAR regression nonlinear."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1437",
+    "before": null,
+    "after": "Substantive null rejects transaction-cost alternative, not excluded merely because insignificant. CAR is a cumulative-return level over a later window, not a first-differenced dependent variable."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5880",
+    "before": null,
+    "after": "Two FE dimensions, not HDFE. Conditional VSBY and rigidity effects and flexible-price nulls remain within the focal moderated mechanism. Do not transfer six no-FE mean comparisons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5881",
+    "before": null,
+    "after": "Interaction 0.084; no FE in printed col1; economic 15% is a slope ratio, not same-outcome level benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5882",
+    "before": null,
+    "after": "Interaction 0.023, insignificant; substantive transaction-cost falsification retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5883",
+    "before": null,
+    "after": "Main fn17 incorrectly points to A.2; actual regression is A.3. Larger-firm robustness separately reported; no linked outcome mean/SD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5884",
+    "before": null,
+    "after": "Do not code OLS solely from table title: identifying FE take priority. PIN interaction col6 -0.034 is insignificant and retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5885",
+    "before": null,
+    "after": "One of SIC1, FF48, HP50 industry-year sets per column, not three simultaneous sets. Two absorbed dimensions, not HDFE. Main p158 attenuation 24%,8%,24% compares coefficient estimates, not outcome levels."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5886",
+    "before": null,
+    "after": "Alternative industry classifications grouped as routine variants. Extra unlabeled standard-error row retained as source anomaly, no invented regressor."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5887",
+    "before": null,
+    "after": "Source discrepancy: main p161 says below 50th percentile (25%); appendix note says below 20%. Preserve both, do not silently repair cutoff."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5888",
+    "before": null,
+    "after": "Main cutoff 25%/median versus appendix20% unresolved. PIN interaction col6 -0.025 insignificant retained; no binary treatment from sample cutoff."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5889",
+    "before": null,
+    "after": "Distinct treatment measurement and separately reported robustness; all three outcomes. VSBY PIN and dispersion main coefficients insignificant retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5890",
+    "before": null,
+    "after": "Two excluded nonbinary instruments Post × deltaRank and Inflex × Post × deltaRank. Source dates conflict: title December2003, opening note December2013, detailed note November2003; main p164 says November2013 but symbol200311. First stage PanelA diagnostic. No silent date repair."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5891",
+    "before": null,
+    "after": "Excluded instruments jointly Post × deltaVSBY(200401 minus 200212) and Inflex × that interaction: two nonbinary, other. A.9 first stages excluded as diagnostics. Industry/year and firm/year variants grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5892",
+    "before": null,
+    "after": "Two nonbinary excluded instruments Post × deltaRank_h and Inflex × that interaction, other. PanelA diagnostic first stage. Main effects with nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5893",
+    "before": null,
+    "after": "Untabulated reported substantive robustness, not an invented coefficient grid. Baseline contains OLS and FE; exact repeated subset unreported, so method unknown (linear OLS/FE alternatives), confidently not IV in this baseline construction check. This is minimally allocatable to an explicit alternative VSBY construction and the baseline information-asymmetry outcome family, unlike an unspecified robustness placeholder. Exact OLS/FE allocation remains unreported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5894",
+    "before": null,
+    "after": "Untabulated reported substantive weighting family; exact OLS/FE allocation and per-weight grid not printed. Retain minimum grouped family, method unknown; no invented separate coefficients. Not Matching: weights are firm-size weights, not treatment balancing. Sales/market-value weights identify alternative size-weighted target implementations, not propensity weighting. Retained as one minimum untabulated reported family; do not infer separate per-weight or per-estimator grids. A narrower routine-weight convention would merge this family into s1/h1."
+  }
+]
+```
