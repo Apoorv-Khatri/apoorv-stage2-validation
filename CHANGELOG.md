@@ -1766511,3 +1766511,6528 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T16:19:59.700972+00:00 — Review 55NIGRTI: one-paper adjudicated source-scoped coding
+
+1086 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A13385",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13386",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13387",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13388",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13389",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13390",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13391",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13392",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13393",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13394",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13395",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13396",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13397",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13398",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13399",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13400",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13401",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13402",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13403",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13404",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13405",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13406",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13407",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13408",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13409",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13410",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13411",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13412",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13413",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13414",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13415",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13416",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13417",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13418",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13419",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13420",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13421",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13422",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13423",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13424",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13425",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13426",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13427",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13428",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13429",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13430",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13431",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13432",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13433",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13434",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13435",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13436",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13437",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13438",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13439",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13440",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13441",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13442",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13443",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13444",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13445",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13446",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13447",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13448",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13449",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13450",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13451",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13452",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13453",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13454",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13455",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13456",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13457",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13458",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13459",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13460",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13461",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13462",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13463",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13464",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13465",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13466",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13467",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13468",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13469",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13470",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13471",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13472",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13473",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13474",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13475",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13476",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13477",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13478",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13479",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13480",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13481",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13482",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13483",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13484",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13485",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13486",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13487",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13488",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13489",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13490",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13491",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13492",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13493",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13494",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13495",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13496",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13497",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13498",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13499",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13500",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13501",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13502",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13503",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13504",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13505",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13506",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13507",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13508",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13509",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13510",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13511",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13512",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13513",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13514",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13515",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13516",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13517",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13518",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13519",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13520",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13521",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13385",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13386",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13387",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13388",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13389",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13390",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13391",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13392",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13393",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13394",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13395",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13396",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13397",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13398",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13399",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13400",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13401",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13402",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13403",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13404",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13405",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13406",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13407",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13408",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13409",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13410",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13411",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13412",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13413",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13414",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13415",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13416",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13417",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13418",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13419",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13420",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13421",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13422",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13423",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13424",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13425",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13426",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13427",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13428",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13429",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13430",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13431",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13432",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13433",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13434",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13435",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13436",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13437",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13438",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13439",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13440",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13441",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13442",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13443",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13444",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13445",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13446",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13447",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13448",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13449",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13450",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13451",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13452",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13453",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13454",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13455",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13456",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13457",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13458",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13459",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13460",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13461",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13462",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13463",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13464",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13465",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13466",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13467",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13468",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13469",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13470",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13471",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13472",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13473",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13474",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13475",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13476",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13477",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13478",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13479",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13480",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13481",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13482",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13483",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13484",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13485",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13486",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13487",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13488",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13489",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13490",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13491",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13492",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13493",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13494",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13495",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13496",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13497",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13498",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13499",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13500",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13501",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13502",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13503",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13504",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13505",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13506",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13507",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13508",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13509",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13510",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13511",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13512",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13513",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13514",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13515",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13516",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13517",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13518",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13519",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13520",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13521",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13385",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13386",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13387",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13388",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13389",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13390",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13391",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13392",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13393",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13394",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13395",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13396",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13397",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13398",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13399",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13400",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13401",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13402",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13403",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13404",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13405",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13406",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13407",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13408",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13409",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13410",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13411",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13412",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13413",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13414",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13415",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13416",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13417",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13418",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13419",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13420",
+    "before": null,
+    "after": "hy12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13421",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13422",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13423",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13424",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13425",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13426",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13427",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13428",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13429",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13430",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13431",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13432",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13433",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13434",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13435",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13436",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13437",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13438",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13439",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13440",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13441",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13442",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13443",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13444",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13445",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13446",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13447",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13448",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13449",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13450",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13451",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13452",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13453",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13454",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13455",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13456",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13457",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13458",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13459",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13460",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13461",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13462",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13463",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13464",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13465",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13466",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13467",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13468",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13469",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13470",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13471",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13472",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13473",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13474",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13475",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13476",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13477",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13478",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13479",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13480",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13481",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13482",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13483",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13484",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13485",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13486",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13487",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13488",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13489",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13490",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13491",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13492",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13493",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13494",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13495",
+    "before": null,
+    "after": "hy11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13496",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13497",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13498",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13499",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13500",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13501",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13502",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13503",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13504",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13505",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13506",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13507",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13508",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13509",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13510",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13511",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13512",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13513",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13514",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13515",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13516",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13517",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13518",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13519",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13520",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13521",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13388",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13390",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13391",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13392",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13393",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13394",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13395",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13396",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13397",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13398",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13399",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13400",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13401",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13402",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13403",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13405",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13406",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13407",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13408",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13409",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13410",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13411",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13412",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13413",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13414",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13415",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13416",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13417",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13418",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13419",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13420",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13421",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13422",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13423",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13424",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13425",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13426",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13428",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13429",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13431",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13432",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13438",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13450",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13454",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13455",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13456",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13458",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13460",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13464",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13466",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13467",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13468",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13469",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13473",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13475",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13476",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13477",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13478",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13479",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13484",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13485",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13486",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13487",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13488",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13490",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13491",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13494",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13495",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13499",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13503",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13504",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13507",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13510",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13385",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13386",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13387",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13388",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13389",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13390",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13391",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13392",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13393",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13394",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13395",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13396",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13397",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13398",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13399",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13400",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13401",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13402",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13403",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13404",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13405",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13406",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13407",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13408",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13409",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13410",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13411",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13412",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13413",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13414",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13415",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13416",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13417",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13418",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13419",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13420",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13421",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13422",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13423",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13424",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13425",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13426",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13427",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13428",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13429",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13430",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13431",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13432",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13433",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13434",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13435",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13436",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13437",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13438",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13439",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13440",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13441",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13442",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13443",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13444",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13445",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13446",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13447",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13448",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13450",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13451",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13452",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13453",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13454",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13455",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13456",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13457",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13458",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13459",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13460",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13461",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13462",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13463",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13464",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13465",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13466",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13467",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13468",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13469",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13470",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13471",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13472",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13473",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13474",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13475",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13476",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13477",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13478",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13479",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13480",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13481",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13482",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13483",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13484",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13485",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13486",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13487",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13488",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13489",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13492",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13493",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13494",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13495",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13496",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13497",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13498",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13499",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13500",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13503",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13504",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13505",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13506",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13507",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13509",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13510",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13511",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13512",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13513",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13514",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13517",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13518",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13519",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13385",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13386",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13387",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13388",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13389",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13390",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13391",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13392",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13393",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13394",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13395",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13396",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13397",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13398",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13399",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13400",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13401",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13402",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13403",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13404",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13405",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13406",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13407",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13408",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13409",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13410",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13411",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13412",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13413",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13414",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13415",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13416",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13417",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13418",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13419",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13420",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13421",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13422",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13423",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13424",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13425",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13426",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13427",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13428",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13429",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13430",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13431",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13432",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13433",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13434",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13435",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13436",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13437",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13438",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13439",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13440",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13441",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13442",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13443",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13444",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13445",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13446",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13447",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13448",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13449",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13450",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13451",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13452",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13453",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13454",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13455",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13456",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13457",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13458",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13459",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13460",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13461",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13462",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13463",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13464",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13465",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13466",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13467",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13468",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13469",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13470",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13471",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13472",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13473",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13474",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13475",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13476",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13477",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13478",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13479",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13480",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13481",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13482",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13483",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13484",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13485",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13486",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13487",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13488",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13489",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13492",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13493",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13494",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13495",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13496",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13497",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13498",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13499",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13500",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13501",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13502",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13503",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13504",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13505",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13506",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13507",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13508",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13509",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13510",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13511",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13512",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13513",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13514",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13515",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13516",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13517",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13518",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13519",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13520",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13521",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13385",
+    "before": null,
+    "after": "Online Appendix Table 2, column 1: ordinal response rating for \"The company is controversial\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13386",
+    "before": null,
+    "after": "Online Appendix Table 2, column 2: ordinal response rating for \"The company is large\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13387",
+    "before": null,
+    "after": "Online Appendix Table 2, column 3: ordinal response rating for \"The company’s products or services are popular\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13388",
+    "before": null,
+    "after": "Online Appendix Table 2, column 4: ordinal response rating for \"The company is experiencing high growth\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13389",
+    "before": null,
+    "after": "Online Appendix Table 2, column 5: ordinal response rating for \"The company’s senior management (e.g., CEO, CFO) is well known\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13390",
+    "before": null,
+    "after": "Online Appendix Table 2, column 6: ordinal response rating for \"The company’s stock performance has been weak\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13391",
+    "before": null,
+    "after": "Online Appendix Table 2, column 7: ordinal response rating for \"The company’s senior management (e.g., CEO, CFO) is accessible to you\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13392",
+    "before": null,
+    "after": "Online Appendix Table 2, column 8: ordinal response rating for \"The company’s stock performance has been strong\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13393",
+    "before": null,
+    "after": "Online Appendix Table 2, column 9: ordinal response rating for \"The company’s media relations staff is helpful to you\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13394",
+    "before": null,
+    "after": "Online Appendix Table 2, column 10: ordinal response rating for \"The company is covered by many financial analysts\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13395",
+    "before": null,
+    "after": "Online Appendix Table 2, column 11: ordinal response rating for \"The company is headquartered near you\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13396",
+    "before": null,
+    "after": "Online Appendix Table 2, column 12: ordinal response rating for \"The company is covered by few financial analysts\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13397",
+    "before": null,
+    "after": "Online Appendix Table 3, column 1: ordinal response rating for \"Corporate fraud\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13398",
+    "before": null,
+    "after": "Online Appendix Table 3, column 2: ordinal response rating for \"Mergers and acquisitions\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13399",
+    "before": null,
+    "after": "Online Appendix Table 3, column 3: ordinal response rating for \"Insider trading\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13400",
+    "before": null,
+    "after": "Online Appendix Table 3, column 4: ordinal response rating for \"IPOs\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13401",
+    "before": null,
+    "after": "Online Appendix Table 3, column 5: ordinal response rating for \"CEO turnover\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13402",
+    "before": null,
+    "after": "Online Appendix Table 3, column 6: ordinal response rating for \"CEO pay\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13403",
+    "before": null,
+    "after": "Online Appendix Table 3, column 7: ordinal response rating for \"Regulatory proceedings\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13404",
+    "before": null,
+    "after": "Online Appendix Table 3, column 8: ordinal response rating for \"Earnings announcements\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13405",
+    "before": null,
+    "after": "Online Appendix Table 3, column 9: ordinal response rating for \"New products or services\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13406",
+    "before": null,
+    "after": "Online Appendix Table 3, column 10: ordinal response rating for \"Management forecasts of future earnings\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13407",
+    "before": null,
+    "after": "Online Appendix Table 3, column 11: ordinal response rating for \"Accounting restatements\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13408",
+    "before": null,
+    "after": "Online Appendix Table 3, column 12: ordinal response rating for \"Corporate social responsibility\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13409",
+    "before": null,
+    "after": "Online Appendix Table 4, column 1: ordinal response rating for \"The CEO has a colorful personality\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13410",
+    "before": null,
+    "after": "Online Appendix Table 4, column 2: ordinal response rating for \"The CEO is accessible to you\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13411",
+    "before": null,
+    "after": "Online Appendix Table 4, column 3: ordinal response rating for \"The CEO’s company has recently performed poorly\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13412",
+    "before": null,
+    "after": "Online Appendix Table 4, column 4: ordinal response rating for \"The CEO is new to his/her role\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13413",
+    "before": null,
+    "after": "Online Appendix Table 4, column 5: ordinal response rating for \"The CEO’s company is large\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13414",
+    "before": null,
+    "after": "Online Appendix Table 4, column 6: ordinal response rating for \"The CEO has unusually high compensation\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13415",
+    "before": null,
+    "after": "Online Appendix Table 4, column 7: ordinal response rating for \"The CEO is a founder of his/her company\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13416",
+    "before": null,
+    "after": "Online Appendix Table 4, column 8: ordinal response rating for \"The CEO’s company has recently performed well\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13417",
+    "before": null,
+    "after": "Online Appendix Table 4, column 9: ordinal response rating for \"The CEO has extensive experience in his/her role\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13418",
+    "before": null,
+    "after": "Online Appendix Table 4, column 10: ordinal response rating for \"The CEO is frequently mentioned or quoted in company communications\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13419",
+    "before": null,
+    "after": "Online Appendix Table 4, column 11: ordinal response rating for \"The CEO frequently posts on social media\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13420",
+    "before": null,
+    "after": "Online Appendix Table 4, column 12: ordinal response rating for \"The CEO is frequently promoted by media relations\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13421",
+    "before": null,
+    "after": "Online Appendix Table 5, column 1: ordinal response rating for \"The analyst has considerable experience covering the company in question\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13422",
+    "before": null,
+    "after": "Online Appendix Table 5, column 2: ordinal response rating for \"The analyst has provided helpful commentary in the past\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13423",
+    "before": null,
+    "after": "Online Appendix Table 5, column 3: ordinal response rating for \"The analyst’s opinion of the stock is different from the views of other analysts\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13424",
+    "before": null,
+    "after": "Online Appendix Table 5, column 4: ordinal response rating for \"The analyst’s employer is prominent or visible\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13425",
+    "before": null,
+    "after": "Online Appendix Table 5, column 5: ordinal response rating for \"The analyst’s opinion of the stock is consistent with the views of other analysts\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13426",
+    "before": null,
+    "after": "Online Appendix Table 5, column 6: ordinal response rating for \"The analyst has an unfavorable opinion of the stock\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13427",
+    "before": null,
+    "after": "Online Appendix Table 5, column 7: ordinal response rating for \"The analyst is a member of Institutional Investor’s All-America Research Team (i.e., an “All Star” analyst)\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13428",
+    "before": null,
+    "after": "Online Appendix Table 5, column 8: ordinal response rating for \"The analyst has a favorable opinion of the stock\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13429",
+    "before": null,
+    "after": "Online Appendix Table 6, column 1: ordinal response rating for \"Private phone calls with the company’s management\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13430",
+    "before": null,
+    "after": "Online Appendix Table 6, column 2: ordinal response rating for \"Legal or regulatory proceedings\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13431",
+    "before": null,
+    "after": "Online Appendix Table 6, column 3: ordinal response rating for \"Financial analyst reports\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13432",
+    "before": null,
+    "after": "Online Appendix Table 6, column 4: ordinal response rating for \"Press releases or 8-K reports\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13433",
+    "before": null,
+    "after": "Online Appendix Table 6, column 5: ordinal response rating for \"Industry reports\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13434",
+    "before": null,
+    "after": "Online Appendix Table 6, column 6: ordinal response rating for \"Public earnings conference calls\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13435",
+    "before": null,
+    "after": "Online Appendix Table 6, column 7: ordinal response rating for \"10-K or 10-Q reports\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13436",
+    "before": null,
+    "after": "Online Appendix Table 6, column 8: ordinal response rating for \"Stock market trading data\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13437",
+    "before": null,
+    "after": "Online Appendix Table 6, column 9: ordinal response rating for \"Existing media coverage in the financial press\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13438",
+    "before": null,
+    "after": "Online Appendix Table 6, column 10: ordinal response rating for \"Proxy statements\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13439",
+    "before": null,
+    "after": "Online Appendix Table 6, column 11: ordinal response rating for \"Social media\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13440",
+    "before": null,
+    "after": "Online Appendix Table 7, column 1: ordinal response rating for \"Media relations contacts at the company\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13441",
+    "before": null,
+    "after": "Online Appendix Table 7, column 2: ordinal response rating for \"Senior management of the company (e.g., CEO, CFO)\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13442",
+    "before": null,
+    "after": "Online Appendix Table 7, column 3: ordinal response rating for \"Financial analysts\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13443",
+    "before": null,
+    "after": "Online Appendix Table 7, column 4: ordinal response rating for \"Representatives from the company’s industry or trade organizations\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13444",
+    "before": null,
+    "after": "Online Appendix Table 7, column 5: ordinal response rating for \"Institutional investors\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13445",
+    "before": null,
+    "after": "Online Appendix Table 7, column 6: ordinal response rating for \"Activist investors\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13446",
+    "before": null,
+    "after": "Online Appendix Table 7, column 7: ordinal response rating for \"The company’s customers\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13447",
+    "before": null,
+    "after": "Online Appendix Table 7, column 8: ordinal response rating for \"Members of the company’s board of directors\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13448",
+    "before": null,
+    "after": "Online Appendix Table 7, column 9: ordinal response rating for \"Mid-level management of the company (e.g., regional managers, product managers)\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13449",
+    "before": null,
+    "after": "Online Appendix Table 8, column 1: ordinal response rating for \"Comparing the company’s earnings to prior-period earnings\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13450",
+    "before": null,
+    "after": "Online Appendix Table 8, column 2: ordinal response rating for \"Contacting sources external to the company (e.g., financial analysts) for commentary\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13451",
+    "before": null,
+    "after": "Online Appendix Table 8, column 3: ordinal response rating for \"Assessing the stock market reaction to the earnings release\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13452",
+    "before": null,
+    "after": "Online Appendix Table 8, column 4: ordinal response rating for \"Comparing the company’s earnings to financial analysts’ expectations\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13453",
+    "before": null,
+    "after": "Online Appendix Table 8, column 5: ordinal response rating for \"Comparing the company’s earnings to management’s stated expectations\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13454",
+    "before": null,
+    "after": "Online Appendix Table 8, column 6: ordinal response rating for \"Listening to the company’s earnings conference call\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13455",
+    "before": null,
+    "after": "Online Appendix Table 8, column 7: ordinal response rating for \"Evaluating managers’ explanations for reported earnings\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13456",
+    "before": null,
+    "after": "Online Appendix Table 8, column 8: ordinal response rating for \"Comparing the company’s earnings to the earnings of industry peers\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13457",
+    "before": null,
+    "after": "Online Appendix Table 8, column 9: ordinal response rating for \"Contacting sources inside the company (e.g., management) for commentary\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13458",
+    "before": null,
+    "after": "Online Appendix Table 8, column 10: ordinal response rating for \"Entering the earnings conference call queue to ask a question during the call\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13459",
+    "before": null,
+    "after": "Online Appendix Table 8, column 11: ordinal response rating for \"Evaluating differences between GAAP earnings and non-GAAP (i.e. pro forma) earnings\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13460",
+    "before": null,
+    "after": "Online Appendix Table 9, column 1: ordinal response rating for \"Sharing or promoting your articles\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13461",
+    "before": null,
+    "after": "Online Appendix Table 9, column 2: ordinal response rating for \"Staying informed about what other journalists are writing\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13462",
+    "before": null,
+    "after": "Online Appendix Table 9, column 3: ordinal response rating for \"Identifying issues or events to potentially cover\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13463",
+    "before": null,
+    "after": "Online Appendix Table 9, column 4: ordinal response rating for \"Staying informed about company news and disclosures\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13464",
+    "before": null,
+    "after": "Online Appendix Table 9, column 5: ordinal response rating for \"Developing and maintaining professional relationships with contacts in the business community\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13465",
+    "before": null,
+    "after": "Online Appendix Table 9, column 6: ordinal response rating for \"Gathering information for your articles\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13466",
+    "before": null,
+    "after": "Online Appendix Table 9, column 7: ordinal response rating for \"Interacting directly with readers\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13467",
+    "before": null,
+    "after": "Online Appendix Table 9, column 8: ordinal response rating for \"Staying informed about investor sentiment\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13468",
+    "before": null,
+    "after": "Online Appendix Table 10, column 1: ordinal response rating for \"The accuracy of your articles\". Main Table10 reports 0.00% at 0 or1; N at most457 rules out a positive count hidden by two-decimal rounding; appendix N456."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13469",
+    "before": null,
+    "after": "Online Appendix Table 10, column 2: ordinal response rating for \"The extent to which your articles cover issues or events in a timely manner\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13470",
+    "before": null,
+    "after": "Online Appendix Table 10, column 3: ordinal response rating for \"The extent to which your articles contain exclusive content\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13471",
+    "before": null,
+    "after": "Online Appendix Table 10, column 4: ordinal response rating for \"The depth of reporting in your articles\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13472",
+    "before": null,
+    "after": "Online Appendix Table 10, column 5: ordinal response rating for \"Your working relationships with your editors\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13473",
+    "before": null,
+    "after": "Online Appendix Table 10, column 6: ordinal response rating for \"The number of people who read your articles\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13474",
+    "before": null,
+    "after": "Online Appendix Table 10, column 7: ordinal response rating for \"Your ability to gain access to senior management of companies you write about\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13475",
+    "before": null,
+    "after": "Online Appendix Table 10, column 8: ordinal response rating for \"The extent to which your articles lead to changes in corporate behavior\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13476",
+    "before": null,
+    "after": "Online Appendix Table 10, column 9: ordinal response rating for \"The number of published articles you write\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13477",
+    "before": null,
+    "after": "Online Appendix Table 10, column 10: ordinal response rating for \"The extent to which the stock market reacts to your articles\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13478",
+    "before": null,
+    "after": "Online Appendix Table 10, column 11: ordinal response rating for \"The number of people who “like” or share your articles through social media\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13479",
+    "before": null,
+    "after": "Online Appendix Table 11, column 1: ordinal response rating for \"Monitoring companies to hold them accountable\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13480",
+    "before": null,
+    "after": "Online Appendix Table 11, column 2: ordinal response rating for \"Providing insight or analysis on corporate news\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13481",
+    "before": null,
+    "after": "Online Appendix Table 11, column 3: ordinal response rating for \"Improving the financial literacy of readers\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13482",
+    "before": null,
+    "after": "Online Appendix Table 11, column 4: ordinal response rating for \"Disseminating corporate news to a broad audience\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13483",
+    "before": null,
+    "after": "Online Appendix Table 11, column 5: ordinal response rating for \"Promoting social or economic justice\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13484",
+    "before": null,
+    "after": "Online Appendix Table 11, column 6: ordinal response rating for \"Entertaining readers\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13485",
+    "before": null,
+    "after": "Online Appendix Table 12, column 1: ordinal response rating for \"Competition for readers\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13486",
+    "before": null,
+    "after": "Online Appendix Table 12, column 2: ordinal response rating for \"Pressure on journalists to cover issues or events in a timely manner\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13487",
+    "before": null,
+    "after": "Online Appendix Table 12, column 3: ordinal response rating for \"The number of articles journalists are expected to write\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13488",
+    "before": null,
+    "after": "Online Appendix Table 12, column 4: ordinal response rating for \"Sensitivity of corporate managers to unfavorable media coverage\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13489",
+    "before": null,
+    "after": "Online Appendix Table 12, column 5: ordinal response rating for \"Complexity of companies’ financial disclosures\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13490",
+    "before": null,
+    "after": "Online Appendix Table 12, column 6: ordinal response rating for \"The influence of media relations personnel on financial journalism\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13491",
+    "before": null,
+    "after": "Online Appendix Table 12, column 7: ordinal response rating for \"The depth of reporting expected of journalists\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13492",
+    "before": null,
+    "after": "Online Appendix Table 12, column 8: ordinal response rating for \"The accuracy expected of journalists\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13493",
+    "before": null,
+    "after": "Online Appendix Table 12, column 9: ordinal response rating for \"Oversight by editors\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13494",
+    "before": null,
+    "after": "Online Appendix Table 12, column 10: ordinal response rating for \"The influence of financial analysts on financial journalism\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13495",
+    "before": null,
+    "after": "Online Appendix Table 12, column 11: ordinal response rating for \"Journalists’ access to management of the companies they write about\". Instrument/main scale -3 to +3 (0=no change) versus appendix 0 to6; whether recoded by a level shift is unresolved; not a treatment-time contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13496",
+    "before": null,
+    "after": "Online Appendix Table 13, column 1: ordinal response rating for \"Readers whose primary interest in reading articles is to be informed\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13497",
+    "before": null,
+    "after": "Online Appendix Table 13, column 2: ordinal response rating for \"Readers with extensive knowledge about business and financial topics\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13498",
+    "before": null,
+    "after": "Online Appendix Table 13, column 3: ordinal response rating for \"Readers who are professional investors (e.g., money managers)\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13499",
+    "before": null,
+    "after": "Online Appendix Table 13, column 4: ordinal response rating for \"Readers who are non-professional investors (e.g., retail investors)\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13500",
+    "before": null,
+    "after": "Online Appendix Table 13, column 5: ordinal response rating for \"Readers with limited knowledge about business and financial topics\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13501",
+    "before": null,
+    "after": "Online Appendix Table 13, column 6: ordinal response rating for \"Readers whose primary interest in reading articles is to be entertained\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13502",
+    "before": null,
+    "after": "Online Appendix Table 13, column 7: ordinal response rating for \"Readers whose political views are liberal\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13503",
+    "before": null,
+    "after": "Online Appendix Table 13, column 8: ordinal response rating for \"Readers whose political views are conservative\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13504",
+    "before": null,
+    "after": "Online Appendix Table 13, column 9: ordinal response rating for \"Readers who prefer articles that portray companies in an unfavorable light\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13505",
+    "before": null,
+    "after": "Online Appendix Table 13, column 10: ordinal response rating for \"Readers who prefer articles that portray companies in a favorable light\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13506",
+    "before": null,
+    "after": "Online Appendix Table 14, column 1: ordinal response rating for \"A member of the company’s media relations staff reaches out to you to discuss the article\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13507",
+    "before": null,
+    "after": "Online Appendix Table 14, column 2: ordinal response rating for \"More scrutiny of the article by your editors than is typical\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13508",
+    "before": null,
+    "after": "Online Appendix Table 14, column 3: ordinal response rating for \"More readers of the article than is typical\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13509",
+    "before": null,
+    "after": "Online Appendix Table 14, column 4: ordinal response rating for \"More sharing of the article on social media than is typical\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13510",
+    "before": null,
+    "after": "Online Appendix Table 14, column 5: ordinal response rating for \"Loss of access to the company’s management\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13511",
+    "before": null,
+    "after": "Online Appendix Table 14, column 6: ordinal response rating for \"Increased credibility as a reporter\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13512",
+    "before": null,
+    "after": "Online Appendix Table 14, column 7: ordinal response rating for \"Positive feedback from your superior\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13513",
+    "before": null,
+    "after": "Online Appendix Table 14, column 8: ordinal response rating for \"Reluctance of financial analysts to be quoted in the article\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13514",
+    "before": null,
+    "after": "Online Appendix Table 14, column 9: ordinal response rating for \"Loss of advertising revenue for your outlet\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13515",
+    "before": null,
+    "after": "Online Appendix Table 14, column 10: ordinal response rating for \"Negative feedback from your superior\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13516",
+    "before": null,
+    "after": "Online Appendix Table 15, column 1: ordinal response rating for \"The company’s stock price decreases—if the article is unfavorable\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13517",
+    "before": null,
+    "after": "Online Appendix Table 15, column 2: ordinal response rating for \"The company’s stock price increases—if the article is favorable\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13518",
+    "before": null,
+    "after": "Online Appendix Table 15, column 3: ordinal response rating for \"The company takes action to address the issues raised in the article\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13519",
+    "before": null,
+    "after": "Online Appendix Table 15, column 4: ordinal response rating for \"Regulatory action is prompted or informed by the article\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13520",
+    "before": null,
+    "after": "Online Appendix Table 15, column 5: ordinal response rating for \"Consumers change their behavior as a result of the article\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13521",
+    "before": null,
+    "after": "Online Appendix Table 15, column 6: ordinal response rating for \"Financial analysts change their views about the company as a result of the article\". Raw 0-to-6 rating, not occurrence of the underlying event. Exact-zero mass not established by combined 0/1 shares."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E166",
+    "before": null,
+    "after": "DONE — full available-source review of final 19-page article and official DOCX appendix, including all text/tables/footnotes and 21 survey images; full independent reread and consequential causal-intention adjudication accepted by parent. 14 retained supporting political-orientation settings, 137 active ordinal outcomes, zero comparisons after every-setting sweep. Main p5 footnote7 affirmative current political-influence language and appendix pointer cover all fourteen Liberal families including nulls/reversals, not only highlighted results. Descriptive p17 wording supports contested zero alternative; gender future-research/comparative wording lacks equivalent affirmative present claim, so 28-family alternative held; full154 unsupported. All methods unknown with OLS leading alternative, not invented ordered models; binary Liberal contrast, supporting main=0. Belief distributions are not corporate causal effects; randomized item order was not an analyzed RCT. Accuracy zero mass=0 from combined0/1 share0.00% and N<=457. Table12 instrument -3..+3 versus appendix0..6 remains unresolved: transform unknown, zero mass unknown, no certified level shift. Scope alternatives and source limitations preserved; no empirical replication or omission-free claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5765",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5766",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5767",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5768",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5769",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5770",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5771",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5772",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5773",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5774",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5775",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5776",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5777",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5778",
+    "before": null,
+    "after": "55NIGRTI"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5765",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5766",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5767",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5768",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5769",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5770",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5771",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5772",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5773",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5774",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5775",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5776",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5777",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5778",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5765",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5766",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5767",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5768",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5769",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5770",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5771",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5772",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5773",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5774",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5775",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5776",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5777",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5778",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5765",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5770",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5771",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5772",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5773",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5776",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5778",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5765",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5766",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5767",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5768",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5769",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5770",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5771",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5772",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5773",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5774",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5775",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5776",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5777",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5778",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5765",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5766",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5767",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5768",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5769",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5770",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5771",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5772",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5773",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5774",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5775",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5776",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5777",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5778",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5765",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 2, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5766",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 3, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5767",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 4, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5768",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 5, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5769",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 6, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5770",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 7, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5771",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 8, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5772",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 9, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5773",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 10, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5774",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 11, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5775",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 12, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5776",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 13, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5777",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 14, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5778",
+    "before": null,
+    "after": "Liberal (somewhat/very liberal=1 versus all others=0) contrast in ordinal survey-response ratings; Online Appendix Table 15, all reported outcome columns; adjusted demographic regression equation (1), industry controls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5765",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5766",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5767",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5768",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5769",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5770",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5771",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5772",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5773",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5774",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5775",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark. Table12 scale conflict: instrument/main -3..+3 versus appendix 0..6; actual level shift unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5776",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5777",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5778",
+    "before": null,
+    "after": "Main p5 fn7 affirmatively describes how political views influence financial journalists and points to additional appendix results. Retain full Liberal family including nulls/reversals; p17 association wording supports zero alternative. Scope reversal pending parent adjudication. OLS leading implementation but not explicit; industry dummies are not identifying FE. Supporting result; no linked magnitude benchmark."
+  }
+]
+```
