@@ -1719699,3 +1719699,9270 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T06:46:02.108523+00:00 — Review 2CEUWX4B: one-paper adjudicated source-scoped coding
+
+1543 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A17112",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17113",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17114",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17115",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17116",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17117",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17118",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17119",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17120",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17121",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17122",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17123",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17124",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17125",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17126",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17127",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17128",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17129",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17130",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17131",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17132",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17133",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17134",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17135",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17136",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17137",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17138",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17139",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17140",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17141",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17142",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17143",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17144",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17145",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17146",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17147",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17148",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17149",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17150",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17151",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17152",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17153",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17154",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17155",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17156",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17157",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17158",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17159",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17160",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17161",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17162",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17163",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17164",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17165",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17166",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17167",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17168",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17169",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17170",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17171",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17172",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17173",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17174",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17175",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17176",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17177",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17178",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17179",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17180",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17181",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17182",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17183",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17184",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17185",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17186",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17187",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17188",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17189",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17190",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17191",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17192",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17193",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17194",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17195",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17196",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17197",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17198",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17199",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17200",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17201",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17202",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17203",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17204",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17205",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17206",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17207",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17208",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17209",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17210",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17211",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17212",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17213",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17214",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17215",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17216",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17217",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17218",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17219",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17112",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17113",
+    "before": null,
+    "after": "s3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17114",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17115",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17116",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17117",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17118",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17119",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17120",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17121",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17122",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17123",
+    "before": null,
+    "after": "s7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17124",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17125",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17126",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17127",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17128",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17129",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17130",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17131",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17132",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17133",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17134",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17135",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17136",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17137",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17138",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17139",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17140",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17141",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17142",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17143",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17144",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17145",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17146",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17147",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17148",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17149",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17150",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17151",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17152",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17153",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17154",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17155",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17156",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17157",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17158",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17159",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17160",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17161",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17162",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17163",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17164",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17165",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17166",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17167",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17168",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17169",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17170",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17171",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17172",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17173",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17174",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17175",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17176",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17177",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17178",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17179",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17180",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17181",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17182",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17183",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17184",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17185",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17186",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17187",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17188",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17189",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17190",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17191",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17192",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17193",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17194",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17195",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17196",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17197",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17198",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17199",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17200",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17201",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17202",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17203",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17204",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17205",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17206",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17207",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17208",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17209",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17210",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17211",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17212",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17213",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17214",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17215",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17216",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17217",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17218",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17219",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17112",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17113",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17114",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17115",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17116",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17117",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17118",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17119",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17120",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17121",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17122",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17123",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17124",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17125",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17126",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17127",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17128",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17129",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17130",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17131",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17132",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17133",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17134",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17135",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17136",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17137",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17138",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17139",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17140",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17141",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17142",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17143",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17144",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17145",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17146",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17147",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17148",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17149",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17150",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17151",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17152",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17153",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17154",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17155",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17156",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17157",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17158",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17159",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17160",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17161",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17162",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17163",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17164",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17165",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17166",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17167",
+    "before": null,
+    "after": "hc32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17168",
+    "before": null,
+    "after": "hc33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17169",
+    "before": null,
+    "after": "hc34"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17170",
+    "before": null,
+    "after": "hc35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17171",
+    "before": null,
+    "after": "hc36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17172",
+    "before": null,
+    "after": "hc37"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17173",
+    "before": null,
+    "after": "hc38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17174",
+    "before": null,
+    "after": "hc39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17175",
+    "before": null,
+    "after": "hc40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17176",
+    "before": null,
+    "after": "hc41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17177",
+    "before": null,
+    "after": "hc42"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17178",
+    "before": null,
+    "after": "hc43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17179",
+    "before": null,
+    "after": "hc44"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17180",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17181",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17182",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17183",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17184",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17185",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17186",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17187",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17188",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17189",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17190",
+    "before": null,
+    "after": "hc15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17191",
+    "before": null,
+    "after": "hc16"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17192",
+    "before": null,
+    "after": "hc17"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17193",
+    "before": null,
+    "after": "hc18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17194",
+    "before": null,
+    "after": "hc19"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17195",
+    "before": null,
+    "after": "hc20"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17196",
+    "before": null,
+    "after": "hc21"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17197",
+    "before": null,
+    "after": "hc22"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17198",
+    "before": null,
+    "after": "hc23"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17199",
+    "before": null,
+    "after": "hc24"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17200",
+    "before": null,
+    "after": "hc25"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17201",
+    "before": null,
+    "after": "hc26"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17202",
+    "before": null,
+    "after": "hc27"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17203",
+    "before": null,
+    "after": "hc28"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17204",
+    "before": null,
+    "after": "hc29"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17205",
+    "before": null,
+    "after": "hc30"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17206",
+    "before": null,
+    "after": "hc31"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17207",
+    "before": null,
+    "after": "hc32"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17208",
+    "before": null,
+    "after": "hc33"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17209",
+    "before": null,
+    "after": "hc34"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17210",
+    "before": null,
+    "after": "hc35"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17211",
+    "before": null,
+    "after": "hc36"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17212",
+    "before": null,
+    "after": "hc37"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17213",
+    "before": null,
+    "after": "hc38"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17214",
+    "before": null,
+    "after": "hc39"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17215",
+    "before": null,
+    "after": "hc40"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17216",
+    "before": null,
+    "after": "hc41"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17217",
+    "before": null,
+    "after": "hc42"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17218",
+    "before": null,
+    "after": "hc43"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17219",
+    "before": null,
+    "after": "hc44"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17121",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17127",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17128",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17136",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17137",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17138",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17148",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17149",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17150",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17151",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17152",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17153",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17154",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17155",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17156",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17159",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17160",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17161",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17162",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17163",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17164",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17166",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17167",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17168",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17169",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17170",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17171",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17172",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17173",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17174",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17175",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17176",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17177",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17178",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17179",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17180",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17181",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17182",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17183",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17184",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17185",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17186",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17187",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17188",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17189",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17190",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17191",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17192",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17193",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17194",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17195",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17196",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17197",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17198",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17199",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17200",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17203",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17204",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17207",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17208",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17209",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17210",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17211",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17212",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17213",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17214",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17215",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17216",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17217",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17218",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17219",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K957",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17112",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17113",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17114",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17115",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17116",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17117",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17118",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17119",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17120",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17121",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17122",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17123",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17124",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17125",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17126",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17127",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17128",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17129",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17130",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17131",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17132",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17133",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17134",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17135",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17136",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17137",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17138",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17139",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17140",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17141",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17142",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17143",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17144",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17145",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17146",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17147",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17148",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17149",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17150",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17151",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17152",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17153",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17154",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17155",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17156",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17157",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17158",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17159",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17160",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17161",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17162",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17163",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17164",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17165",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17166",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17167",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17168",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17169",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17170",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17171",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17172",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17173",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17174",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17175",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17176",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17177",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17178",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17179",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17180",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17181",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17182",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17183",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17184",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17185",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17186",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17187",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17188",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17189",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17190",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17191",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17192",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17193",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17194",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17195",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17196",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17197",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17198",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17199",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17200",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17201",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17202",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17203",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17204",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17205",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17206",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17207",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17208",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17209",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17210",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17211",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17212",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17213",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17214",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17215",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17216",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17217",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17218",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17219",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L958",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L959",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L960",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L961",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L962",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L963",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L964",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L965",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17112",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17113",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17114",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17115",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17116",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17117",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17118",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17119",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17120",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17121",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17122",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17123",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17124",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17125",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17126",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17127",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17128",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17129",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17130",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17131",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17132",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17133",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17134",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17135",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17136",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17137",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17138",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17139",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17140",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17141",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17142",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17143",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17144",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17145",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17146",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17147",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17148",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17149",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17150",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17151",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17152",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17153",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17154",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17155",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17156",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17157",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17158",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17159",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17160",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17161",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17162",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17163",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17164",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17165",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17166",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17167",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17168",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17169",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17170",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17171",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17172",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17173",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17174",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17175",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17176",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17177",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17178",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17179",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17180",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17181",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17182",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17183",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17184",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17185",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17186",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17187",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17188",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17189",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17190",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17191",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17192",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17193",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17194",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17195",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17196",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17197",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17198",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17199",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17200",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17201",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17202",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17203",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17204",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17205",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17206",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17207",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17208",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17209",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17210",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17211",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17212",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17213",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17214",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17215",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17216",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17217",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17218",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17219",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M958",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M959",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M960",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M961",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M962",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M963",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M964",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M965",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17125",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17126",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17127",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17128",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17131",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17132",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17134",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17135",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17136",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17137",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17138",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17139",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17140",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17141",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17148",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17157",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17159",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17160",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17169",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17180",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17181",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17182",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17183",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17184",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17188",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17189",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17192",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17195",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17196",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17197",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17198",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17206",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17207",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17208",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17209",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17210",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17211",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17215",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17216",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17217",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17218",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17125",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17126",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17127",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17128",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17131",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17132",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17134",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17135",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17136",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17137",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17138",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17139",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17140",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17141",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17148",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17149",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17150",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17151",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17152",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17153",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17154",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17155",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17156",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17157",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17158",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17159",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17160",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17161",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17162",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17163",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17164",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17165",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17166",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17167",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17168",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17169",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17170",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17171",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17172",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17173",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17174",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17175",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17176",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17177",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17178",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17179",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17180",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17181",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17182",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17183",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17184",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17185",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17186",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17187",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17188",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17189",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17190",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17191",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17192",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17193",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17194",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17195",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17196",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17197",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17198",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17199",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17200",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17201",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17202",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17206",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17207",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17208",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17209",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17210",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17211",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17212",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17213",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17214",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17215",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17216",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17217",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17218",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17219",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17112",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17113",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17114",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17115",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17116",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17117",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17118",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17119",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17120",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17121",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17122",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17123",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17125",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17126",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17127",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17128",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17129",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17131",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17132",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17133",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17134",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17135",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17136",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17137",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17138",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17139",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17140",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17141",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17142",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17143",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17144",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17145",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17146",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17147",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17148",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17149",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17150",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17151",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17152",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17153",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17154",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17155",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17156",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17157",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17158",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17159",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17160",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17161",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17162",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17163",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17164",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17165",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17166",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17167",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17168",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17169",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17170",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17171",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17172",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17173",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17174",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17175",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17176",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17177",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17178",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17179",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17180",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17181",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17182",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17183",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17184",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17185",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17186",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17187",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17188",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17189",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17190",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17191",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17192",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17193",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17194",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17195",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17196",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17197",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17198",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17199",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17200",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17201",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17202",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17203",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17204",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17205",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17206",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17207",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17208",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17209",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17210",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17211",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17212",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17213",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17214",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17215",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17216",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17217",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17218",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17219",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P958",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P959",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P960",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P961",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P962",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17112",
+    "before": null,
+    "after": "Table 4 Panel A col.1, printed pp.97-99: NegEcon = -0.02; own-outcome mean = 0.71; unconditional full issue-year sample, cols.1-4. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17113",
+    "before": null,
+    "after": "Table 4 Panel A col.4, printed pp.97-99: NegEcon = 0.01; own-outcome mean = -5.21; unconditional full issue-year sample, cols.1-4. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17114",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon (conditional lower-order) = 0.06; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17115",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon (conditional lower-order) = 0.07; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17116",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon (conditional lower-order) = -0.00; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17117",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon (conditional lower-order) = -0.04; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17118",
+    "before": null,
+    "after": "Table 4 Panel B col.4, printed pp.98-99: NegFiscal = 0.01; own-outcome mean = -5.24; unconditional expense-data issue-year sample, cols.1-4. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17119",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal (conditional lower-order) = -0.15; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17120",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal (conditional lower-order) = -0.61; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17121",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal (conditional lower-order) = -0.04; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17122",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal (conditional lower-order) = -0.11; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17123",
+    "before": null,
+    "after": "Table 5 col.3, printed pp.99-100: Post_EMMA x Non_General = -0.03; own-outcome mean = 0.04; pre-EMMA unconditional issue-year sample. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets. Prose reports 75% relative magnitude; retain rounded printed coefficient/mean without replacing the paper ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17124",
+    "before": null,
+    "after": "Table 5 col.1, printed pp.99-100: Post_EMMA x AfterEMMA = 0.00; own-outcome mean = 0.67; pre-EMMA unconditional issue-year sample. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17125",
+    "before": null,
+    "after": "Table 5 col.2, printed pp.99-100: Post_EMMA x AfterEMMA = 0.02; own-outcome mean = 0.98; pre-EMMA unconditional issue-year sample. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17126",
+    "before": null,
+    "after": "Table 5 col.3, printed pp.99-100: Post_EMMA x AfterEMMA = -0.00; own-outcome mean = 0.04; pre-EMMA unconditional issue-year sample. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17127",
+    "before": null,
+    "after": "Table 5 col.4, printed pp.99-100: Post_EMMA x AfterEMMA = -0.01; own-outcome mean = -5.28; pre-EMMA unconditional issue-year sample. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17128",
+    "before": null,
+    "after": "Table 5 col.1, printed pp.99-100: Post_EMMA x Pre_Refunded = -0.07; own-outcome mean = 0.67; pre-EMMA unconditional issue-year sample. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17129",
+    "before": null,
+    "after": "Table 5 col.2, printed pp.99-100: Post_EMMA x Pre_Refunded = -0.20; own-outcome mean = 0.98; pre-EMMA unconditional issue-year sample. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations. Prose reports 20% relative magnitude; retain rounded printed coefficient/mean without replacing the paper ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17130",
+    "before": null,
+    "after": "Table 5 col.3, printed pp.99-100: Post_EMMA x Pre_Refunded = -0.02; own-outcome mean = 0.04; pre-EMMA unconditional issue-year sample. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17131",
+    "before": null,
+    "after": "Table 5 col.4, printed pp.99-100: Post_EMMA x Pre_Refunded = -0.06; own-outcome mean = -5.28; pre-EMMA unconditional issue-year sample. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17132",
+    "before": null,
+    "after": "Table 3 col.1, printed pp.96-97: New Issue = 0.03; own-outcome mean = 0.68; pre-Ambac unconditional issue-year sample, cols.1-4. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17133",
+    "before": null,
+    "after": "Table 3 col.2, printed pp.96-97: New Issue = 0.07; own-outcome mean = 1.01; pre-Ambac unconditional issue-year sample, cols.1-4. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17134",
+    "before": null,
+    "after": "Table 3 col.3, printed pp.96-97: New Issue = 0.01; own-outcome mean = 0.05; pre-Ambac unconditional issue-year sample, cols.1-4. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17135",
+    "before": null,
+    "after": "Table 3 col.4, printed pp.96-97: New Issue = -0.02; own-outcome mean = -5.25; pre-Ambac unconditional issue-year sample, cols.1-4. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17136",
+    "before": null,
+    "after": "Table 3 col.5, printed pp.96-97: New Issue = 0.03; own-outcome mean = 0.72; pre-Ambac unconditional restricted sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17137",
+    "before": null,
+    "after": "Table 3 col.6, printed pp.96-97: New Issue = 0.05; own-outcome mean = 1.09; pre-Ambac unconditional restricted sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17138",
+    "before": null,
+    "after": "Table 3 col.7, printed pp.96-97: New Issue = 0.01; own-outcome mean = 0.06; pre-Ambac unconditional restricted sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17139",
+    "before": null,
+    "after": "Table 3 col.8, printed pp.96-97: New Issue = -0.02; own-outcome mean = -5.23; pre-Ambac unconditional restricted sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17140",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x NewIssue (differential, not total effect) = 0.01; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17141",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x NewIssue (differential, not total effect) = -0.05; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17142",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x NewIssue (differential, not total effect) = 0.03; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17143",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x NewIssue (differential, not total effect) = -0.04; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17144",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x General (differential, not total effect) = -0.09; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17145",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x General (differential, not total effect) = -0.25; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17146",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x General (differential, not total effect) = -0.04; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17147",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x General (differential, not total effect) = -0.08; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17148",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x ShortTerm (differential, not total effect) = -0.04; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17149",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x ShortTerm (differential, not total effect) = -0.06; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17150",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x ShortTerm (differential, not total effect) = -0.08; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17151",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x ShortTerm (differential, not total effect) = -0.18; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17152",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x IncumbentsRun (differential, not total effect) = -0.03; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17153",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x IncumbentsRun (differential, not total effect) = -0.10; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17154",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x IncumbentsRun (differential, not total effect) = -0.08; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17155",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x IncumbentsRun (differential, not total effect) = 0.08; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17156",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x IncumbentsLose (differential, not total effect) = 0.01; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17157",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x IncumbentsLose (differential, not total effect) = -0.07; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17158",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x IncumbentsLose (differential, not total effect) = 0.00; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17159",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x IncumbentsLose (differential, not total effect) = 0.12; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17160",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x PolComp (differential, not total effect) = -0.01; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17161",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x PolComp (differential, not total effect) = 0.15; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17162",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x PolComp (differential, not total effect) = -0.04; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17163",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x PolComp (differential, not total effect) = 0.12; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17164",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x Controller (differential, not total effect) = 0.06; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17165",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x Controller (differential, not total effect) = -0.06; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17166",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x Controller (differential, not total effect) = -0.03; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17167",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x Controller (differential, not total effect) = 0.08; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17168",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x Council_Mgr (differential, not total effect) = 0.01; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17169",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x Council_Mgr (differential, not total effect) = 0.15; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17170",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x Council_Mgr (differential, not total effect) = 0.02; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17171",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x Council_Mgr (differential, not total effect) = 0.12; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17172",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x TermLimit (differential, not total effect) = 0.07; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17173",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x TermLimit (differential, not total effect) = -0.04; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17174",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x TermLimit (differential, not total effect) = -0.10; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17175",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x TermLimit (differential, not total effect) = -0.13; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17176",
+    "before": null,
+    "after": "Table 4 Panel A col.5, printed pp.97-99: NegEcon x Recall (differential, not total effect) = -0.06; own-outcome mean = 0.77; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17177",
+    "before": null,
+    "after": "Table 4 Panel A col.6, printed pp.97-99: NegEcon x Recall (differential, not total effect) = -0.05; own-outcome mean = 1.15; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17178",
+    "before": null,
+    "after": "Table 4 Panel A col.7, printed pp.97-99: NegEcon x Recall (differential, not total effect) = 0.06; own-outcome mean = 0.08; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17179",
+    "before": null,
+    "after": "Table 4 Panel A col.8, printed pp.97-99: NegEcon x Recall (differential, not total effect) = 0.04; own-outcome mean = -5.13; unconditional political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17180",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x NewIssue (differential, not total effect) = 0.06; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17181",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x NewIssue (differential, not total effect) = -0.09; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17182",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x NewIssue (differential, not total effect) = 0.05; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17183",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x NewIssue (differential, not total effect) = 0.03; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17184",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x Welfare (differential, not total effect) = -0.18; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17185",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x Welfare (differential, not total effect) = 0.22; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17186",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x Welfare (differential, not total effect) = -0.11; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17187",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x Welfare (differential, not total effect) = 1.15; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17188",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x ShortTerm (differential, not total effect) = 0.04; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17189",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x ShortTerm (differential, not total effect) = 0.16; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17190",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x ShortTerm (differential, not total effect) = 0.05; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17191",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x ShortTerm (differential, not total effect) = -0.16; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17192",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x IncumbentsRun (differential, not total effect) = 0.03; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17193",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x IncumbentsRun (differential, not total effect) = 0.09; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17194",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x IncumbentsRun (differential, not total effect) = -0.02; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17195",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x IncumbentsRun (differential, not total effect) = 0.14; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17196",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x IncumbentsLose (differential, not total effect) = -0.07; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17197",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x IncumbentsLose (differential, not total effect) = 0.18; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17198",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x IncumbentsLose (differential, not total effect) = 0.06; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17199",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x IncumbentsLose (differential, not total effect) = 0.07; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17200",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x PolComp (differential, not total effect) = 0.14; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17201",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x PolComp (differential, not total effect) = 0.35; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17202",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x PolComp (differential, not total effect) = 0.11; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17203",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x PolComp (differential, not total effect) = 0.18; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17204",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x Controller (differential, not total effect) = 0.09; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17205",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x Controller (differential, not total effect) = 0.14; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17206",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x Controller (differential, not total effect) = -0.05; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17207",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x Controller (differential, not total effect) = 0.02; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17208",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x Council_Mgr (differential, not total effect) = -0.12; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17209",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x Council_Mgr (differential, not total effect) = -0.05; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17210",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x Council_Mgr (differential, not total effect) = 0.09; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17211",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x Council_Mgr (differential, not total effect) = 0.12; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17212",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x TermLimit (differential, not total effect) = 0.00; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17213",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x TermLimit (differential, not total effect) = 0.03; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17214",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x TermLimit (differential, not total effect) = -0.04; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17215",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x TermLimit (differential, not total effect) = -0.10; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17216",
+    "before": null,
+    "after": "Table 4 Panel B col.5, printed pp.98-99: NegFiscal x Recall (differential, not total effect) = 0.01; own-outcome mean = 0.81; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17217",
+    "before": null,
+    "after": "Table 4 Panel B col.6, printed pp.98-99: NegFiscal x Recall (differential, not total effect) = -0.23; own-outcome mean = 1.12; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17218",
+    "before": null,
+    "after": "Table 4 Panel B col.7, printed pp.98-99: NegFiscal x Recall (differential, not total effect) = -0.06; own-outcome mean = 0.11; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17219",
+    "before": null,
+    "after": "Table 4 Panel B col.8, printed pp.98-99: NegFiscal x Recall (differential, not total effect) = -0.06; own-outcome mean = -5.15; unconditional expense and political-data restricted issue-year sample, cols.5-8. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q958",
+    "before": null,
+    "after": "Table 4 Panel A col.2, printed pp.97-99: NegEcon = -0.08; own-outcome mean = 1.09; unconditional full issue-year sample, cols.1-4. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations. Prose reports 7% relative magnitude; retain rounded printed coefficient/mean without replacing the paper ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q959",
+    "before": null,
+    "after": "Table 4 Panel A col.3, printed pp.97-99: NegEcon = -0.02; own-outcome mean = 0.06; unconditional full issue-year sample, cols.1-4. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets. Prose reports 33% relative magnitude; retain rounded printed coefficient/mean without replacing the paper ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q960",
+    "before": null,
+    "after": "Table 4 Panel B col.1, printed pp.98-99: NegFiscal = -0.03; own-outcome mean = 0.76; unconditional expense-data issue-year sample, cols.1-4. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome. Prose reports 4% relative magnitude; retain rounded printed coefficient/mean without replacing the paper ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q961",
+    "before": null,
+    "after": "Table 4 Panel B col.2, printed pp.98-99: NegFiscal = -0.12; own-outcome mean = 1.14; unconditional expense-data issue-year sample, cols.1-4. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations. Prose reports 11% relative magnitude; retain rounded printed coefficient/mean without replacing the paper ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q962",
+    "before": null,
+    "after": "Table 4 Panel B col.3, printed pp.98-99: NegFiscal = -0.02; own-outcome mean = 0.09; unconditional expense-data issue-year sample, cols.1-4. Outcome: Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets. Prose reports 22% relative magnitude; retain rounded printed coefficient/mean without replacing the paper ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q963",
+    "before": null,
+    "after": "Table 5 col.1, printed pp.99-100: Post_EMMA x Non_General = 0.06; own-outcome mean = 0.67; pre-EMMA unconditional issue-year sample. Outcome: Filing Indicator: at least one financial statement in issue-year; individual binary outcome. Prose reports 9% relative magnitude; retain rounded printed coefficient/mean without replacing the paper ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q964",
+    "before": null,
+    "after": "Table 5 col.2, printed pp.99-100: Post_EMMA x Non_General = 0.27; own-outcome mean = 0.98; pre-EMMA unconditional issue-year sample. Outcome: Filing Count: number of statements in issue-year, including nonfiling zero observations. Prose reports 28% relative magnitude; retain rounded printed coefficient/mean without replacing the paper ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q965",
+    "before": null,
+    "after": "Table 5 col.4, printed pp.99-100: Post_EMMA x Non_General = 0.06; own-outcome mean = -5.28; pre-EMMA unconditional issue-year sample. Outcome: Timeliness: negative natural log of days between period-end and first report, conditional on filing."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17112",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17113",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17114",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17115",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17116",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17117",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17118",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17119",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17120",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17121",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17122",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17123",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17124",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17125",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17126",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17127",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17128",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17129",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17130",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17131",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17132",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17133",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17134",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17135",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17136",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17137",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17138",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17139",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17140",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17141",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17142",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17143",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17144",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17145",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17146",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17147",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17148",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17149",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17150",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17151",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17152",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17153",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17154",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17155",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17156",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17157",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17158",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17159",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17160",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17161",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17162",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17163",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17164",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17165",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17166",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17167",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17168",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17169",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17170",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17171",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17172",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17173",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17174",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17175",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17176",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17177",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17178",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17179",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17180",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17181",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17182",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17183",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17184",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17185",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17186",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17187",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17188",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17189",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17190",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17191",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17192",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17193",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17194",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17195",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17196",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17197",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17198",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17199",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17200",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17201",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17202",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17203",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17204",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17205",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17206",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17207",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17208",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17209",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17210",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17211",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17212",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17213",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17214",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17215",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17216",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17217",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17218",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17219",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown. Eligibility adopts the same-column rule for focal heterogeneous treatment parameters; stricter differential-specific benchmark exclusion is an explicit audit alternative."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R956",
+    "before": null,
+    "after": "Parent s1 excluded under explicit p.95 causal disclaimer; magnitude evidence preserved in frozen upstream, not retained as a causal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R957",
+    "before": null,
+    "after": "Parent s1 excluded under explicit p.95 causal disclaimer; magnitude evidence preserved in frozen upstream, not retained as a causal comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R958",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R959",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R960",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R961",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R962",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Unconditional pooled mean does not establish the focal conditional/differential untreated target population, period and regression weights; alignment unknown."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R963",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R964",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R965",
+    "before": null,
+    "after": "Same-column deliberate own-outcome mean pairing, including nulls/reversals. Pooled pre-period sample includes both exposed and comparison groups; not the treated-group untreated baseline. Parallel trends alone does not establish mean-level equality. Correct existing row: the 6% timelier claim is a log interpretation, not an own-outcome level benchmark; retain only the independently printed mean -5.28 pairing, verbal=0 and divided=0."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R966",
+    "before": null,
+    "after": "Wrong-setting after treatment split: Pre_Refunded contrast retained under h2 with its Table 5 mean pairing. Original row/ID preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12840",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12841",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12842",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12843",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12844",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12845",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12846",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12847",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12848",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12849",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12850",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12851",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12852",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12853",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12840",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12841",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12842",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12843",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12844",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12845",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12846",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12847",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12848",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12849",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12850",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12851",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12852",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12853",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12840",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12841",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12842",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12843",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12844",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12845",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12846",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12847",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12848",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12849",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12850",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12851",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12852",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12853",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12843",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12847",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12848",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12849",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12851",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12852",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12853",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3438",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3439",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3440",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3441",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3442",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3443",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3445",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3450",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3455",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3457",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3459",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12840",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12841",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12843",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12845",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12846",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12847",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12848",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12849",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12850",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12851",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12852",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12853",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3438",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3439",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3440",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3441",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3442",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3443",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3445",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3447",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3448",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3449",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3450",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3453",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3457",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3461",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3463",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3465",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12840",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12841",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12842",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12843",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12844",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12845",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12846",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12847",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12848",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12849",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12850",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12851",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12852",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12853",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3438",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3439",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3440",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3441",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3442",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3443",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3444",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3445",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3446",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3447",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3448",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3449",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3450",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3451",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3452",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3453",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3454",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3455",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3456",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3457",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3458",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3459",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3460",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3461",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3462",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3463",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3464",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3465",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12840",
+    "before": null,
+    "after": "Filing Indicator: at least one financial statement in issue-year; individual binary outcome. Tables 3-5 and Appendix Panel A, pp.96-101."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12841",
+    "before": null,
+    "after": "Filing Count: number of statements in issue-year, including nonfiling zero observations. Tables 3-5 and Appendix Panel A, pp.96-101."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12842",
+    "before": null,
+    "after": "Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets. Tables 3-5 and Appendix Panel A, pp.96-101."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12843",
+    "before": null,
+    "after": "Timeliness: negative natural log of days between period-end and first report, conditional on filing. Appendix p.101 and all regression captions establish -log(lag), despite p.92 prose omitting the minus sign. Code other for signed log; a one-day lag would map to zero, but no observed one-day mass is reported, so zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12844",
+    "before": null,
+    "after": "Filing Indicator: at least one financial statement in issue-year; individual binary outcome. Tables 3-5 and Appendix Panel A, pp.96-101."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12845",
+    "before": null,
+    "after": "Filing Count: number of statements in issue-year, including nonfiling zero observations. Tables 3-5 and Appendix Panel A, pp.96-101."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12846",
+    "before": null,
+    "after": "Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets. Tables 3-5 and Appendix Panel A, pp.96-101."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12847",
+    "before": null,
+    "after": "Timeliness: negative natural log of days between period-end and first report, conditional on filing. Appendix p.101 and all regression captions establish -log(lag), despite p.92 prose omitting the minus sign. Code other for signed log; a one-day lag would map to zero, but no observed one-day mass is reported, so zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12848",
+    "before": null,
+    "after": "Filing Indicator: at least one financial statement in issue-year; individual binary outcome. Tables 3-5 and Appendix Panel A, pp.96-101."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12849",
+    "before": null,
+    "after": "Filing Count: number of statements in issue-year, including nonfiling zero observations. Tables 3-5 and Appendix Panel A, pp.96-101."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12850",
+    "before": null,
+    "after": "Budget Indicator: separately filed budget in issue-year; individual binary outcome, excludes bundled budgets. Tables 3-5 and Appendix Panel A, pp.96-101."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12851",
+    "before": null,
+    "after": "Timeliness: negative natural log of days between period-end and first report, conditional on filing. Appendix p.101 and all regression captions establish -log(lag), despite p.92 prose omitting the minus sign. Code other for signed log; a one-day lag would map to zero, but no observed one-day mass is reported, so zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12852",
+    "before": null,
+    "after": "Filing Indicator: binary disclosure outcome expressly named in p.95 fn12 logistic robustness. Untransformed dependent indicator; observed zero mass within the unspecified robustness sample is not established. Treatment/column allocation unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12853",
+    "before": null,
+    "after": "Budget Indicator: binary disclosure outcome expressly named in p.95 fn12 logistic robustness. Untransformed dependent indicator; observed zero mass within the unspecified robustness sample is not established. Treatment/column allocation unresolved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3438",
+    "before": null,
+    "after": "Spurious for causal-setting extraction: parent s1 excluded under explicit p.95 causal disclaimer. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3439",
+    "before": null,
+    "after": "Spurious for causal-setting extraction: parent s1 excluded under explicit p.95 causal disclaimer. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3440",
+    "before": null,
+    "after": "Spurious for causal-setting extraction: parent s1 excluded under explicit p.95 causal disclaimer. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3441",
+    "before": null,
+    "after": "Spurious for causal-setting extraction: parent s1 excluded under explicit p.95 causal disclaimer. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3442",
+    "before": null,
+    "after": "Spurious for causal-setting extraction: parent s2 excluded under explicit p.95 causal disclaimer. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3443",
+    "before": null,
+    "after": "Spurious for causal-setting extraction: parent s2 excluded under explicit p.95 causal disclaimer. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3444",
+    "before": null,
+    "after": "Spurious for causal-setting extraction: parent s2 excluded under explicit p.95 causal disclaimer. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3445",
+    "before": null,
+    "after": "Spurious for causal-setting extraction: parent s2 excluded under explicit p.95 causal disclaimer. Original outcome definition preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3449",
+    "before": null,
+    "after": "Timeliness: negative natural log of days between period-end and first report, conditional on filing. Appendix p.101 and all regression captions establish -log(lag), despite p.92 prose omitting the minus sign. Code other for signed log; a one-day lag would map to zero, but no observed one-day mass is reported, so zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3453",
+    "before": null,
+    "after": "Timeliness: negative natural log of days between period-end and first report, conditional on filing. Appendix p.101 and all regression captions establish -log(lag), despite p.92 prose omitting the minus sign. Code other for signed log; a one-day lag would map to zero, but no observed one-day mass is reported, so zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3457",
+    "before": null,
+    "after": "Timeliness: negative natural log of days between period-end and first report, conditional on filing. Appendix p.101 and all regression captions establish -log(lag), despite p.92 prose omitting the minus sign. Code other for signed log; a one-day lag would map to zero, but no observed one-day mass is reported, so zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3461",
+    "before": null,
+    "after": "Timeliness: negative natural log of days between period-end and first report, conditional on filing. Appendix p.101 and all regression captions establish -log(lag), despite p.92 prose omitting the minus sign. Code other for signed log; a one-day lag would map to zero, but no observed one-day mass is reported, so zero mass unknown."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3465",
+    "before": null,
+    "after": "Timeliness: negative natural log of days between period-end and first report, conditional on filing. Appendix p.101 and all regression captions establish -log(lag), despite p.92 prose omitting the minus sign. Code other for signed log; a one-day lag would map to zero, but no observed one-day mass is reported, so zero mass unknown."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E158",
+    "before": null,
+    "after": "DONE — full available-source review and focused independent audit accepted; no omission-free outcome certification or empirical replication. Ambac s1/s2 rejected under the specific p.95 causal disclaimer; eight original outcomes inactive and 18 unwritten comparison appends withdrawn without ID reuse. Table4 heterogeneous s4/s6 each retain 44 coefficient/own-column-mean pairs, including null/reversed and conditional interactions; alignment unknown and no subgroup-total interpretation. New Issue h3 retains four outcomes/eight pairs under compulsory reporting, not blanket control admission. h1 is a supporting substantive null. h4 retains minimum logistic Filing Indicator/Budget Indicator robustness with unknown treatment allocation and no reinstated Ambac claim. h5/h6 retain minimum administrative-cost null/two-year NegEcon rebound settings with unknown methods and no allocated individual outcomes or invented outcome placeholders; the 11 retained settings count is not complete outcome certification. Physical totals: 13 settings, 42 outcomes, 119 comparisons; 34 active outcomes and 116 retained/3 rejected comparisons. Broader held alternatives, printed conflicts, original model fields and IDs preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5536",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5537",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5538",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5539",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5540",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5541",
+    "before": null,
+    "after": "2CEUWX4B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5536",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5537",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5538",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5539",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5540",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5541",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1363",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5540",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1364",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1365",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1366",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1367",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1368",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5536",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5537",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5538",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5539",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5540",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5541",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5538",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5539",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5540",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5541",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5536",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5538",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5539",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5540",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5541",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1364",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1365",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1366",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1367",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1368",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5536",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5537",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5538",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5539",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5540",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5541",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1368",
+    "before": null,
+    "after": "Table 5 cols.1-4, post-EMMA differential response for Non_General versus general issuers only. AfterEMMA and Pre_Refunded contrasts are split to h1 and h2. Four disclosure outcomes; conventional DiD with issue/year FE and group trends."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5536",
+    "before": null,
+    "after": "Table 5 cols.1-4: post-EMMA differential disclosure response for issuers with subsequent issuance (AfterEMMA) versus others. Substantive null for capital-market incentives, p.100. All four disclosure outcomes. Conventional DiD with issue/year FE and group trends. Future issuance is observed, not randomized or established predetermined."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5537",
+    "before": null,
+    "after": "Table 5 cols.1-4: post-EMMA differential disclosure response for pre-refunded versus other issues. All four disclosure outcomes; pre-refunded issues lack continuing-disclosure requirement. Conventional DiD with issue/year FE and group trends; pre-refunding status is measured as of December 31, 2011."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5538",
+    "before": null,
+    "after": "Table 3 cols.1-8: current-year New Issue indicator and four disclosure outcomes, included within the joint panel specification. P.97 explicitly attributes greater disclosure quantity to compulsory reporting in issuance years and reports lower timeliness. FE coefficient, not a separately estimated model and not the Post_Ambac treatment effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5539",
+    "before": null,
+    "after": "Sec.3.2 p.95 fn12: implemented logistic robustness for Filing Indicator and Budget Indicator; coefficient signs consistent with OLS. Minimum single reported robustness scope; exact event/treatment and column allocation are not stated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5540",
+    "before": null,
+    "after": "Sec.4.2.1 p.97 fn14: substantive administrative-cost mechanism check following a local economic downturn (NegEcon). No variation in disclosure in the presence of high administrative costs."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5541",
+    "before": null,
+    "after": "Sec.4.2.1 p.97 fn14: disclosure rebound two years after a local economic downturn (NegEcon), interpreted as temporary purposeful suppression rather than persistent administrative cost-cutting."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1362",
+    "before": null,
+    "after": "Excluded: Sec.3.2 p.95 explicitly states that causal interpretations cannot be drawn from the insured/uninsured regressions because insurance is not randomly assigned. Nearby identifying-FE and treatment-effect language does not override this parameter-specific author disclaimer. Not a blanket exclusion of other coefficients or settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1363",
+    "before": null,
+    "after": "Excluded: Sec.3.2 p.95 explicitly states that causal interpretations cannot be drawn from the insured/uninsured regressions because insurance is not randomly assigned. Nearby identifying-FE and treatment-effect language does not override this parameter-specific author disclaimer. Not a blanket exclusion of other coefficients or settings."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1364",
+    "before": null,
+    "after": "Issue and year fixed effects identify within-issue changes (Sec. 3.2, p.95); two FE dimensions, not HDFE. Outcome linearity is assessed in each reported disclosure outcome; no outcome-adaptive estimation is established. Recurrent binary negative-outcome indicator with issue/year FE, not a named modern DiD and not automatically conventional DiD from staggered timing. Broad author interpretation of suppression retained; correlations language and endogeneity remain."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1365",
+    "before": null,
+    "after": "Issue and year fixed effects identify within-issue changes (Sec. 3.2, p.95); two FE dimensions, not HDFE. Outcome linearity is assessed in each reported disclosure outcome; no outcome-adaptive estimation is established. Recurrent binary negative-outcome indicator with issue/year FE, not a named modern DiD and not automatically conventional DiD from staggered timing. Broad author interpretation of suppression retained; correlations language and endogeneity remain. Retain lower-order conditional effect and differential interaction coefficients, including substantive nulls/reversals; do not treat interactions as subgroup total effects. Same underlying binary event treatment, heterogeneous modifiers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1366",
+    "before": null,
+    "after": "Issue and year fixed effects identify within-issue changes (Sec. 3.2, p.95); two FE dimensions, not HDFE. Outcome linearity is assessed in each reported disclosure outcome; no outcome-adaptive estimation is established. Recurrent binary negative-outcome indicator with issue/year FE, not a named modern DiD and not automatically conventional DiD from staggered timing. Broad author interpretation of suppression retained; correlations language and endogeneity remain."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1367",
+    "before": null,
+    "after": "Issue and year fixed effects identify within-issue changes (Sec. 3.2, p.95); two FE dimensions, not HDFE. Outcome linearity is assessed in each reported disclosure outcome; no outcome-adaptive estimation is established. Recurrent binary negative-outcome indicator with issue/year FE, not a named modern DiD and not automatically conventional DiD from staggered timing. Broad author interpretation of suppression retained; correlations language and endogeneity remain. Retain lower-order conditional effect and differential interaction coefficients, including substantive nulls/reversals; do not treat interactions as subgroup total effects. Same underlying binary event treatment, heterogeneous modifiers."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1368",
+    "before": null,
+    "after": "Issue and year fixed effects identify within-issue changes (Sec. 3.2, p.95); two FE dimensions, not HDFE. Outcome linearity is assessed in each reported disclosure outcome; no outcome-adaptive estimation is established."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5536",
+    "before": null,
+    "after": "Supporting substantive null (p.100), not diagnostic. The introduction highlights Non_General and Pre_Refunded contrasts, not this future-issuance null; conclusion does not make it a separate central result. Method remains conventional DiD, independent of main-role coding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5537",
+    "before": null,
+    "after": "Main dissemination-cost evidence explicitly discussed in the introduction p.88. Issue/year FE and group trends; conventional DiD. No extension of the Ambac-specific causal disclaimer."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5538",
+    "before": null,
+    "after": "Issue and year fixed effects identify within-issue changes (Sec. 3.2, p.95); two FE dimensions, not HDFE. Outcome linearity is assessed in each reported disclosure outcome; no outcome-adaptive estimation is established. Included-regressor gate for h3 is parameter-specific: compulsory-reporting attribution, not automatic causality of all controls. All four reported outcomes retained under the explicitly interpreted New Issue parameter; Budget Indicator is not removed merely because p.97 singles out quantity and timeliness. Later repeated New Issue control rows are not promoted to separate substantive results without distinct attribution."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5539",
+    "before": null,
+    "after": "Nonlinear logistic estimator, not FE/OLS merely because compared with those estimates. No inferred treatment-by-outcome or heterogeneity grid; no claimed Ambac causal reinstatement. Treatment-specific identity/splits remain unresolved pending parent adjudication. Both named outcomes retained individually; no numerical effect or benchmark supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5540",
+    "before": null,
+    "after": "Minimum reported mechanism scope. Binary downturn exposure; coding of administrative-cost modifier, exact estimator and individual disclosure outcomes not reported. Do not infer FE from the neighboring table or invent a four-outcome grid. No Outcomes placeholder or comparison appended; outcome allocation remains held."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5541",
+    "before": null,
+    "after": "Minimum separately reported dynamic horizon; method and precise lag implementation unresolved. Binary downturn exposure; no assumed distributed-lag grid, coefficient, denominator or individual disclosure-outcome allocation. No Outcomes placeholder appended; outcome allocation remains held."
+  }
+]
+```
