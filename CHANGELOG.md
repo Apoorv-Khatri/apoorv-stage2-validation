@@ -1797222,3 +1797222,12144 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T22:43:31.556572+00:00 — Review E5N6TXU4: one-paper adjudicated source-scoped coding
+
+2022 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A17433",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17434",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17433",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17434",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17433",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17434",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1007",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L1006",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17433",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17434",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M1006",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17433",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17434",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N1006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17433",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17434",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O1006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17433",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17434",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P1006",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17433",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17434",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q1006",
+    "before": null,
+    "after": "p404 Table8A col1: q effect0.188 equals14% of full-sample unconditional q mean1.34 (Table2)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17433",
+    "before": null,
+    "after": "p402 Table7 cols1 and2 each -0.017 CAR; explicit sample mean market value about$2.7b converts effect into $45.9m equity-value loss relative to nondissenting-director resignations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17434",
+    "before": null,
+    "after": "p402 Table7 cols1 and2 each -0.017 CAR; explicit sample mean market value about$2.7b converts effect into $45.9m equity-value loss relative to nondissenting-director resignations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1006",
+    "before": null,
+    "after": "Matched treated rejection target versus full 1629-firm-year unconditional mean; not untreated counterfactual for treated firms. Parallel trends does not equate levels."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1007",
+    "before": null,
+    "after": "p407 -0.142 interpreted as14.2 percent: probability-point interpretation only, no stated benchmark. Table2 mean0.03 is not explicitly linked. Not other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17433",
+    "before": null,
+    "after": "p402 deliberately maps the corresponding -0.017 return contrast to average equity-value loss using stated sample mean market value $2.7b. Eligible raw-wealth translation, not a separate dollar regression or an invented CAR mean. Multiplication, so divided=0. Untreated target market-value level/weights not established for adjusted OLS; aligned=unknown. Narrow same-estimated-CAR-only exclusion considered and rejected under instructions section6 explicit proportional-to-dollar rule."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17434",
+    "before": null,
+    "after": "p402 deliberately maps the corresponding -0.017 return contrast to average equity-value loss using stated sample mean market value $2.7b. Eligible raw-wealth translation, not a separate dollar regression or an invented CAR mean. Multiplication, so divided=0. Untreated target market-value level/weights not established for adjusted OLS; aligned=unknown. Narrow same-estimated-CAR-only exclusion considered and rejected under instructions section6 explicit proportional-to-dollar rule."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13708",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13709",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13710",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13711",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13712",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13713",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13714",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13715",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13716",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13717",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13718",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13719",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13720",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13721",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13722",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13723",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13724",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13725",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13726",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13727",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13728",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13729",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13730",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13731",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13732",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13733",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13734",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13735",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13736",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13737",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13738",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13739",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13740",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13741",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13742",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13743",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13744",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13745",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13746",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13747",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13748",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13749",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13750",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13751",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13752",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13753",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13754",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13755",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13756",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13757",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13758",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13759",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13760",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13761",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13762",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13763",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13764",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13765",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13766",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13767",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13768",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13769",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13770",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13771",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13772",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13773",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13774",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13775",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13776",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13777",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13778",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13779",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13780",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13781",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13782",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13783",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13784",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13785",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13786",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13787",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13788",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13789",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13790",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13791",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13792",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13793",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13794",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13795",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13796",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13797",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13798",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13799",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13800",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13801",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13802",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13803",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13804",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13805",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13806",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13807",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13808",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13809",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13810",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13811",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13812",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13813",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13814",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13815",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13816",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13817",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13818",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13819",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13820",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13821",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13822",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13823",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13824",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13825",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13826",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13827",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13828",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13829",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13830",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13831",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13832",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13833",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13834",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13835",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13836",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13837",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13838",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13839",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13840",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13841",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13842",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13843",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13844",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13845",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13708",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13709",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13710",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13711",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13712",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13713",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13714",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13715",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13716",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13717",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13718",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13719",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13720",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13721",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13722",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13723",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13724",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13725",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13726",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13727",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13728",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13729",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13730",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13731",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13732",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13733",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13734",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13735",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13736",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13737",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13738",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13739",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13740",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13741",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13742",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13743",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13744",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13745",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13746",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13747",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13748",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13749",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13750",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13751",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13752",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13753",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13754",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13755",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13756",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13757",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13758",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13759",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13760",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13761",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13762",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13763",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13764",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13765",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13766",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13767",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13768",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13769",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13770",
+    "before": null,
+    "after": "h59"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13771",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13772",
+    "before": null,
+    "after": "h61"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13773",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13774",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13775",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13776",
+    "before": null,
+    "after": "h65"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13777",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13778",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13779",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13780",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13781",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13782",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13783",
+    "before": null,
+    "after": "h72"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13784",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13785",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13786",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13787",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13788",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13789",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13790",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13791",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13792",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13793",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13794",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13795",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13796",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13797",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13798",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13799",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13800",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13801",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13802",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13803",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13804",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13805",
+    "before": null,
+    "after": "h79"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13806",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13807",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13808",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13809",
+    "before": null,
+    "after": "h83"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13810",
+    "before": null,
+    "after": "h84"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13811",
+    "before": null,
+    "after": "h85"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13812",
+    "before": null,
+    "after": "h86"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13813",
+    "before": null,
+    "after": "h87"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13814",
+    "before": null,
+    "after": "h88"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13815",
+    "before": null,
+    "after": "h89"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13816",
+    "before": null,
+    "after": "h90"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13817",
+    "before": null,
+    "after": "h91"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13818",
+    "before": null,
+    "after": "h92"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13819",
+    "before": null,
+    "after": "h93"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13820",
+    "before": null,
+    "after": "h94"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13821",
+    "before": null,
+    "after": "h95"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13822",
+    "before": null,
+    "after": "h96"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13823",
+    "before": null,
+    "after": "h97"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13824",
+    "before": null,
+    "after": "h98"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13825",
+    "before": null,
+    "after": "h99"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13826",
+    "before": null,
+    "after": "h100"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13827",
+    "before": null,
+    "after": "h101"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13828",
+    "before": null,
+    "after": "h102"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13829",
+    "before": null,
+    "after": "h103"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13830",
+    "before": null,
+    "after": "h104"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13831",
+    "before": null,
+    "after": "h105"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13832",
+    "before": null,
+    "after": "h106"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13833",
+    "before": null,
+    "after": "h107"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13834",
+    "before": null,
+    "after": "h108"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13835",
+    "before": null,
+    "after": "h109"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13836",
+    "before": null,
+    "after": "h109"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13837",
+    "before": null,
+    "after": "h110"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13838",
+    "before": null,
+    "after": "h111"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13839",
+    "before": null,
+    "after": "h111"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13840",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13841",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13842",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13843",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13844",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13845",
+    "before": null,
+    "after": "h113"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13708",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13709",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13710",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13711",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13712",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13713",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13714",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13715",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13716",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13717",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13718",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13719",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13720",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13721",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13722",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13723",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13724",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13725",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13726",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13727",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13728",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13729",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13730",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13731",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13732",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13733",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13734",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13735",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13736",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13737",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13738",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13739",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13740",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13741",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13742",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13743",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13744",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13745",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13746",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13747",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13748",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13749",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13750",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13751",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13752",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13753",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13754",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13755",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13756",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13757",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13758",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13759",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13760",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13761",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13762",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13763",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13764",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13765",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13766",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13767",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13768",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13769",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13770",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13771",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13772",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13773",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13774",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13775",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13776",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13777",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13778",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13779",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13780",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13781",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13782",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13783",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13784",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13785",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13786",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13787",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13788",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13789",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13790",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13791",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13792",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13793",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13794",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13795",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13796",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13797",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13798",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13799",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13800",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13801",
+    "before": null,
+    "after": "hy9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13802",
+    "before": null,
+    "after": "hy10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13803",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13804",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13805",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13806",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13807",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13808",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13809",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13810",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13811",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13812",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13813",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13814",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13815",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13816",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13817",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13818",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13819",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13820",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13821",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13822",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13823",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13824",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13825",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13826",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13827",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13828",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13829",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13830",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13831",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13832",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13833",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13834",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13835",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13836",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13837",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13838",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13839",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13840",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13841",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13842",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13843",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13844",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13845",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13725",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13726",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13727",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13728",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13731",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13735",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13737",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13739",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13779",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13780",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13782",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13789",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13793",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13794",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13798",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13799",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13800",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13801",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13802",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13824",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13831",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13833",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13838",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13839",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13840",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13841",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13842",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13845",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3645",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3648",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3649",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3650",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3652",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3653",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3654",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3655",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3657",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3658",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13709",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13710",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13711",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13714",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13715",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13725",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13726",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13727",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13728",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13729",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13732",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13733",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13735",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13738",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13740",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13766",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13767",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13768",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13769",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13774",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13775",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13777",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13779",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13780",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13781",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13782",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13783",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13784",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13788",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13789",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13790",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13791",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13792",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13793",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13794",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13795",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13796",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13797",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13798",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13799",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13800",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13801",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13802",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13803",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13804",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13824",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13831",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13832",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13833",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13835",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13837",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13838",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13839",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13840",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13841",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13842",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13843",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13844",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13845",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3644",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3645",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3646",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3647",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3648",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3649",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3650",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3652",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3653",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3654",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3655",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3657",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3658",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13709",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13710",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13711",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13714",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13715",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13719",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13720",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13723",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13724",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13725",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13726",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13727",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13728",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13729",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13730",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13731",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13732",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13733",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13734",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13735",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13736",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13737",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13738",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13739",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13740",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13743",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13744",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13745",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13748",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13749",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13750",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13751",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13752",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13753",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13754",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13755",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13756",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13757",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13758",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13759",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13760",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13766",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13767",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13768",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13769",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13774",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13775",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13777",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13779",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13780",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13781",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13782",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13783",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13784",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13787",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13788",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13789",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13790",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13791",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13792",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13793",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13794",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13795",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13796",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13797",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13798",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13799",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13800",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13801",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13802",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13803",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13804",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13806",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13807",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13808",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13812",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13813",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13815",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13816",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13817",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13819",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13820",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13821",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13822",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13823",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13824",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13825",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13828",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13829",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13830",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13831",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13832",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13833",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13834",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13835",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13836",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13837",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13838",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13839",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13840",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13841",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13842",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13843",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13844",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13845",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3643",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3644",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3645",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3646",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3647",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3648",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3649",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3650",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3651",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3652",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3653",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3654",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3655",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3656",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3657",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3658",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13708",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13709",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13710",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13711",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13712",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13713",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13714",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13715",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13716",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13717",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13718",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13719",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13720",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13721",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13722",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13723",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13724",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13725",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13726",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13727",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13728",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13729",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13730",
+    "before": null,
+    "after": "Forced CEO turnover indicator; involuntary departure or no other position in firm/affiliate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13731",
+    "before": null,
+    "after": "R&D expenditures/assets; Table2 zero median and 25th percentile support zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13732",
+    "before": null,
+    "after": "Capital expenditures/assets; zero mass not established by positive quartiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13733",
+    "before": null,
+    "after": "Abnormal Accruals: residual-based modified Dechow–Dichev measure, industry-year, inputs scaled by lagged assets (p407/AppendixA p413). Definition says absolute residual, but Table2 p393 visibly reports mean -0.00, Q25 -0.02, median -0.00, Q75 0.02: signed versus absolute domain unresolved. Binary=0 and transform=other (generated residual measure) hold under either interpretation; zero mass unknown, rounded zero is not evidence of an atom."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13734",
+    "before": null,
+    "after": "Restatement indicator for irregularities involving investigations/lawsuits/unfavorable audit opinions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13735",
+    "before": null,
+    "after": "Forced CEO turnover indicator; involuntary departure or no other position in firm/affiliate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13736",
+    "before": null,
+    "after": "Forced CEO turnover indicator; involuntary departure or no other position in firm/affiliate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13737",
+    "before": null,
+    "after": "R&D expenditures/assets; Table2 zero median and 25th percentile support zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13738",
+    "before": null,
+    "after": "Capital expenditures/assets; zero mass not established by positive quartiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13739",
+    "before": null,
+    "after": "R&D expenditures/assets; Table2 zero median and 25th percentile support zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13740",
+    "before": null,
+    "after": "Capital expenditures/assets; zero mass not established by positive quartiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13741",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13742",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13743",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13744",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13745",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13746",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13747",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13748",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13749",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13750",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13751",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13752",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13753",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13754",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13755",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13756",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13757",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13758",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13759",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13760",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13761",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13762",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13763",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13764",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13765",
+    "before": null,
+    "after": "Dissent-or-absence indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13766",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13767",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13768",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13769",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13770",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13771",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13772",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13773",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13774",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13775",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13776",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13777",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13778",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13779",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13780",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13781",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13782",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13783",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13784",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13785",
+    "before": null,
+    "after": "Proposal rejection: rejected/deferred/modified indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13786",
+    "before": null,
+    "after": "Proposal rejection: rejected/deferred/modified indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13787",
+    "before": null,
+    "after": "Proposal rejection: rejected/deferred/modified indicator."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13788",
+    "before": null,
+    "after": "Tobin’s q; market equity plus book debt divided by total assets, winsorized 1/99 percentiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13789",
+    "before": null,
+    "after": "Total Volatility; annual daily-return risk measure, Appendix A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13790",
+    "before": null,
+    "after": "Idiosyncratic Volatility; annual daily-return risk measure, Appendix A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13791",
+    "before": null,
+    "after": "Systematic Volatility; annual daily-return risk measure, Appendix A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13792",
+    "before": null,
+    "after": "ROA: net income/assets, winsorized 1/99 percentiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13793",
+    "before": null,
+    "after": "Tobin’s q; market equity plus book debt divided by total assets, winsorized 1/99 percentiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13794",
+    "before": null,
+    "after": "Total Volatility; annual daily-return risk measure, Appendix A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13795",
+    "before": null,
+    "after": "Idiosyncratic Volatility; annual daily-return risk measure, Appendix A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13796",
+    "before": null,
+    "after": "Systematic Volatility; annual daily-return risk measure, Appendix A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13797",
+    "before": null,
+    "after": "ROA: net income/assets, winsorized 1/99 percentiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13798",
+    "before": null,
+    "after": "Reallocated from bundled fn35 family to its distinct Table8B simple/sensitivity estimand; original ID and physical row retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13799",
+    "before": null,
+    "after": "Reallocated from bundled fn35 family to its distinct Table8B simple/sensitivity estimand; original ID and physical row retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13800",
+    "before": null,
+    "after": "Reallocated from bundled fn35 family to its distinct Table8B simple/sensitivity estimand; original ID and physical row retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13801",
+    "before": null,
+    "after": "Reallocated from bundled fn35 family to its distinct Table8B simple/sensitivity estimand; original ID and physical row retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13802",
+    "before": null,
+    "after": "Reallocated from bundled fn35 family to its distinct Table8B simple/sensitivity estimand; original ID and physical row retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13803",
+    "before": null,
+    "after": "Explicit dollar translation of CAR effect into shareholder equity-value loss; not separately estimated dollar regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13804",
+    "before": null,
+    "after": "Explicit dollar translation of CAR effect into shareholder equity-value loss; not separately estimated dollar regression."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13805",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13806",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13807",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13808",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13809",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13810",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13811",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13812",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13813",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13814",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13815",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13816",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13817",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13818",
+    "before": null,
+    "after": "Dissent-or-absence indicator; fn20 p392."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13819",
+    "before": null,
+    "after": "Dissent-or-absence indicator; fn20 p392."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13820",
+    "before": null,
+    "after": "Dissent-or-absence indicator; fn20 p392."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13821",
+    "before": null,
+    "after": "Dissent-or-absence indicator; fn20 p392."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13822",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13823",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13824",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13825",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13826",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13827",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13828",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13829",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13830",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13831",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13832",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13833",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13834",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13835",
+    "before": null,
+    "after": "Abnormal Accruals: residual-based modified Dechow–Dichev measure, industry-year, inputs scaled by lagged assets (p407/AppendixA p413). Definition says absolute residual, but Table2 p393 visibly reports mean -0.00, Q25 -0.02, median -0.00, Q75 0.02: signed versus absolute domain unresolved. Binary=0 and transform=other (generated residual measure) hold under either interpretation; zero mass unknown, rounded zero is not evidence of an atom."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13836",
+    "before": null,
+    "after": "Restatement indicator for irregularities involving investigations/lawsuits/unfavorable audit opinions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13837",
+    "before": null,
+    "after": "Forced CEO turnover indicator; involuntary departure or no other position in firm/affiliate."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13838",
+    "before": null,
+    "after": "R&D expenditures/assets; Table2 zero median and 25th percentile support zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13839",
+    "before": null,
+    "after": "Capital expenditures/assets; zero mass not established by positive quartiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13840",
+    "before": null,
+    "after": "Board Age Dispersion; actual first-stage dependent variable, Table6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13841",
+    "before": null,
+    "after": "Board Tenure Dispersion; actual first-stage dependent variable, Table6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13842",
+    "before": null,
+    "after": "Board Experience Dispersion; actual first-stage dependent variable, Table6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13843",
+    "before": null,
+    "after": "Board Gender Dispersion; actual first-stage dependent variable, Table6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13844",
+    "before": null,
+    "after": "Board Country Dispersion; actual first-stage dependent variable, Table6."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13845",
+    "before": null,
+    "after": "Board independence ratio: share of directors independent; fn28 p400 and Table2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3643",
+    "before": null,
+    "after": "Director Dissent: vote against proposal indicator; Appendix A and table notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3644",
+    "before": null,
+    "after": "Three-day market-model abnormal cumulative stock return CAR[-1,+1] around resignation; return level, not first difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3645",
+    "before": null,
+    "after": "Tobin’s q; market equity plus book debt divided by total assets, winsorized 1/99 percentiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3646",
+    "before": null,
+    "after": "Total Volatility; annual daily-return risk measure, Appendix A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3647",
+    "before": null,
+    "after": "Idiosyncratic Volatility; annual daily-return risk measure, Appendix A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3648",
+    "before": null,
+    "after": "Systematic Volatility; annual daily-return risk measure, Appendix A."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3649",
+    "before": null,
+    "after": "ROA: net income/assets, winsorized 1/99 percentiles."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3650",
+    "before": null,
+    "after": "Abnormal Accruals: residual-based modified Dechow–Dichev measure, industry-year, inputs scaled by lagged assets (p407/AppendixA p413). Definition says absolute residual, but Table2 p393 visibly reports mean -0.00, Q25 -0.02, median -0.00, Q75 0.02: signed versus absolute domain unresolved. Binary=0 and transform=other (generated residual measure) hold under either interpretation; zero mass unknown, rounded zero is not evidence of an atom."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3651",
+    "before": null,
+    "after": "Restatement indicator for irregularities involving investigations/lawsuits/unfavorable audit opinions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3652",
+    "before": null,
+    "after": "Reallocated to distinct CEO sensitivity or investment-interaction setting; original record/ID preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3653",
+    "before": null,
+    "after": "Reallocated to distinct CEO sensitivity or investment-interaction setting; original record/ID preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3654",
+    "before": null,
+    "after": "Reallocated to distinct CEO sensitivity or investment-interaction setting; original record/ID preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3655",
+    "before": null,
+    "after": "Abnormal Accruals: residual-based modified Dechow–Dichev measure, industry-year, inputs scaled by lagged assets (p407/AppendixA p413). Definition says absolute residual, but Table2 p393 visibly reports mean -0.00, Q25 -0.02, median -0.00, Q75 0.02: signed versus absolute domain unresolved. Binary=0 and transform=other (generated residual measure) hold under either interpretation; zero mass unknown, rounded zero is not evidence of an atom."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3656",
+    "before": null,
+    "after": "Restatement indicator for irregularities involving investigations/lawsuits/unfavorable audit opinions."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3657",
+    "before": null,
+    "after": "Reallocated to distinct Table9 interaction settings; original ID retained."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3658",
+    "before": null,
+    "after": "Reallocated to distinct Table9 interaction settings; original ID retained."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E173",
+    "before": null,
+    "after": "DONE — parent accepted independent adjudication. 121 retained settings; 157 physical/147 active outcomes; four physical/three retained comparisons. Allocated robustness and binary median-high contrasts split; substantive reform composition and independence-null channels distinct from IV receipt. Five single-binary-instrument IV column pairs preserved. Table9 central roles retained. Two explicit raw-wealth translations retained: verbal=1 divided=0 aligned=unknown, not dollar regressions. Matched q comparison unaligned; restatement percentage rejected without a base. Signed/absolute accrual conflict unresolved, residual transform other, zero mass unknown. Reallocated outcomes preserved inactive. Full 32-page first review and focused expanded independent audit; blocked official publisher and unverified supplement absence inherited. Alternatives held. Historical status unchanged; no empirical replication or zero-error claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5905",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5906",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5907",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5908",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5909",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5910",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5911",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5912",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5913",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5914",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5915",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5916",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5917",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5918",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5919",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5920",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5921",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5922",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5923",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5924",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5925",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5926",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5927",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5928",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5929",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5930",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5931",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5932",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5933",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5934",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5935",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5936",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5937",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5938",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5939",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5940",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5941",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5942",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5943",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5944",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5945",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5946",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5947",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5948",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5949",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5950",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5951",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5952",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5953",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5954",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5955",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5956",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5957",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5958",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5959",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5960",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5961",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5962",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5963",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5964",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5965",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5966",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5967",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5968",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5969",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5970",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5971",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5972",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5973",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5974",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5975",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5976",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5977",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5978",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5979",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5980",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5981",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5982",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5983",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5984",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5985",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5986",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5987",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5988",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5989",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5990",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5991",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5992",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5993",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5994",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5995",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5996",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5997",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5998",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5999",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6000",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6001",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6002",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6003",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6004",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6005",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6006",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6007",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6008",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6009",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6010",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6011",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6012",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6013",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6014",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6015",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6016",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6017",
+    "before": null,
+    "after": "E5N6TXU4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5905",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5906",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5907",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5908",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5909",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5910",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5911",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5912",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5913",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5914",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5915",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5916",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5917",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5918",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5919",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5920",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5921",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5922",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5923",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5924",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5925",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5926",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5927",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5928",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5929",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5930",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5931",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5932",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5933",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5934",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5935",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5936",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5937",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5938",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5939",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5940",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5941",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5942",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5943",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5944",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5945",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5946",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5947",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5948",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5949",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5950",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5951",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5952",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5953",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5954",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5955",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5956",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5957",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5958",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5959",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5960",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5961",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5962",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5963",
+    "before": null,
+    "after": "h59"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5964",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5965",
+    "before": null,
+    "after": "h61"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5966",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5967",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5968",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5969",
+    "before": null,
+    "after": "h65"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5970",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5971",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5972",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5973",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5974",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5975",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5976",
+    "before": null,
+    "after": "h72"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5977",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5978",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5979",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5980",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5981",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5982",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5983",
+    "before": null,
+    "after": "h79"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5984",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5985",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5986",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5987",
+    "before": null,
+    "after": "h83"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5988",
+    "before": null,
+    "after": "h84"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5989",
+    "before": null,
+    "after": "h85"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5990",
+    "before": null,
+    "after": "h86"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5991",
+    "before": null,
+    "after": "h87"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5992",
+    "before": null,
+    "after": "h88"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5993",
+    "before": null,
+    "after": "h89"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5994",
+    "before": null,
+    "after": "h90"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5995",
+    "before": null,
+    "after": "h91"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5996",
+    "before": null,
+    "after": "h92"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5997",
+    "before": null,
+    "after": "h93"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5998",
+    "before": null,
+    "after": "h94"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5999",
+    "before": null,
+    "after": "h95"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6000",
+    "before": null,
+    "after": "h96"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6001",
+    "before": null,
+    "after": "h97"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6002",
+    "before": null,
+    "after": "h98"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6003",
+    "before": null,
+    "after": "h99"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6004",
+    "before": null,
+    "after": "h100"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6005",
+    "before": null,
+    "after": "h101"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6006",
+    "before": null,
+    "after": "h102"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6007",
+    "before": null,
+    "after": "h103"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6008",
+    "before": null,
+    "after": "h104"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6009",
+    "before": null,
+    "after": "h105"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6010",
+    "before": null,
+    "after": "h106"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6011",
+    "before": null,
+    "after": "h107"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6012",
+    "before": null,
+    "after": "h108"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6013",
+    "before": null,
+    "after": "h109"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6014",
+    "before": null,
+    "after": "h110"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6015",
+    "before": null,
+    "after": "h111"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6016",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6017",
+    "before": null,
+    "after": "h113"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5907",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5908",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5910",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5911",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5912",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5913",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5915",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5916",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5918",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5919",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5924",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5925",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5926",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5928",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5929",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5930",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5931",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5934",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5935",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5939",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5940",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5954",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5955",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5956",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5957",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5958",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5963",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5964",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5965",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5966",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5978",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5979",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5983",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5985",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5988",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5989",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5992",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5996",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5998",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6004",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6005",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6007",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6010",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1452",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1453",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1454",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1455",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1456",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1457",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1458",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1459",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5905",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5906",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5907",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5908",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5909",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5910",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5911",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5912",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5913",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5914",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5915",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5916",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5917",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5918",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5919",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5920",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5921",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5922",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5923",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5924",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5925",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5926",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5927",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5928",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5929",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5930",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5931",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5932",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5933",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5934",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5935",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5936",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5937",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5938",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5939",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5940",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5941",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5942",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5943",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5944",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5945",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5946",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5947",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5948",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5949",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5950",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5951",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5952",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5953",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5954",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5955",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5956",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5957",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5958",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5959",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5960",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5961",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5962",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5963",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5964",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5965",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5966",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5967",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5968",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5969",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5970",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5971",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5972",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5973",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5974",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5975",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5976",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5977",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5978",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5979",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5980",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5981",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5982",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5983",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5984",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5985",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5986",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5987",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5988",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5989",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5990",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5991",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5992",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5993",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5994",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5995",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5996",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5997",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5998",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5999",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6000",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6001",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6002",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6003",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6004",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6005",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6006",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6007",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6008",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6009",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6010",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6011",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6012",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6013",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6014",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6015",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6016",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6017",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1452",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1453",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1454",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1455",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5905",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5907",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5908",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5909",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5910",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5911",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5912",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5913",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5914",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5915",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5916",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5918",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5919",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5924",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5925",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5926",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5928",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5929",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5930",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5931",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5934",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5935",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5936",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5937",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5938",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5941",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5942",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5943",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5944",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5945",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5946",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5947",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5948",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5949",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5950",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5951",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5952",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5953",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5957",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5958",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5959",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5960",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5961",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5962",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5977",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5980",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5981",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5982",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5984",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5985",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5990",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5991",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5993",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5994",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5995",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5997",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5998",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5999",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6000",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6001",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6002",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6003",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6006",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6007",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6008",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6009",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6010",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6011",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6012",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6013",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6014",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6015",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6016",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6017",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1452",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1453",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1454",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1455",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1456",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1457",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1458",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1459",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5906",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5907",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5908",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5909",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5910",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5911",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5912",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5913",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5914",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5915",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5916",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5917",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5918",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5919",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5920",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5921",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5922",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5923",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5924",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5925",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5926",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5927",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5928",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5929",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5930",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5931",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5932",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5933",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5934",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5935",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5936",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5937",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5938",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5939",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5940",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5941",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5942",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5943",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5944",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5945",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5946",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5947",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5957",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5958",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5959",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5960",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5961",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5962",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5967",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5968",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5991",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5994",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5997",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5998",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6006",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6007",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6009",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6010",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6014",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6015",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6016",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1452",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1453",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1454",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1455",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1456",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1457",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1458",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1459",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5905",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5906",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5907",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5908",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5909",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5910",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5911",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5912",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5913",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5914",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5915",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5916",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5917",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5918",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5919",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5920",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5921",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5922",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5923",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5924",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5925",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5926",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5927",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5928",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5929",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5930",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5931",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5932",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5933",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5934",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5935",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5936",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5937",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5938",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5939",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5940",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5941",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5942",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5943",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5944",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5945",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5946",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5947",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5948",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5949",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5950",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5951",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5952",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5953",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5954",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5955",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5956",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5957",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5958",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5959",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5960",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5961",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5962",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5963",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5964",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5965",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5966",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5967",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5968",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5969",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5970",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5971",
+    "before": null,
+    "after": "single binary"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5972",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5973",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5974",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5975",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5976",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5977",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5978",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5979",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5980",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5981",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5982",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5983",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5984",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5985",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5986",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5987",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5988",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5989",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5990",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5991",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5992",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5993",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5994",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5995",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5996",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5997",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5998",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5999",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6000",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6001",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6002",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6003",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6004",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6005",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6006",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6007",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6008",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6009",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6010",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6011",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6012",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6013",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6014",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6015",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6016",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6017",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1452",
+    "before": null,
+    "after": "Table3 cols1–6, pp392–395; proposal FE: Director Age Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1453",
+    "before": null,
+    "after": "Table5 PanelA pp398–399; firm/year/proposal-type FE: Board Age Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1454",
+    "before": null,
+    "after": "Table6 col2 p401: instrumented Board Age Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1455",
+    "before": null,
+    "after": "p402 untabulated reform exposure Treatment×Post effect on Director Dissent, including stated proposal/governance subgroup variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1456",
+    "before": null,
+    "after": "Table7 col1 pp402–403: resignation of director with Ever dissented before versus resignation without corresponding dissent history; adjusted CAR effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1457",
+    "before": null,
+    "after": "Table8A pp404–407: proposal rejection×post on q, total/idiosyncratic/systematic volatility and ROA, matched sample firm/year FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1458",
+    "before": null,
+    "after": "Table8B cols1–4 pp405–407: rejection×post effects on abnormal accruals and restatement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1459",
+    "before": null,
+    "after": "Table9 cols1,3 p409: rejection of monitoring-related proposals×post on abnormal accruals and restatement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5905",
+    "before": null,
+    "after": "Table3 cols1–6, pp392–395; proposal FE: Director Tenure Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5906",
+    "before": null,
+    "after": "Table3 cols1–6, pp392–395; proposal FE: Director Experience Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5907",
+    "before": null,
+    "after": "Table3 cols1–6, pp392–395; proposal FE: Director Gender Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5908",
+    "before": null,
+    "after": "Table3 cols1–6, pp392–395; proposal FE: Director Country Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5909",
+    "before": null,
+    "after": "Table5 PanelA pp398–399; firm/year/proposal-type FE: Board Tenure Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5910",
+    "before": null,
+    "after": "Table5 PanelA pp398–399; firm/year/proposal-type FE: Board Experience Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5911",
+    "before": null,
+    "after": "Table5 PanelA pp398–399; firm/year/proposal-type FE: Board Gender Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5912",
+    "before": null,
+    "after": "Table5 PanelA pp398–399; firm/year/proposal-type FE: Board Country Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5913",
+    "before": null,
+    "after": "Table5 PanelB p399; director plus firm/year/proposal-type FE: Board Age Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5914",
+    "before": null,
+    "after": "Table5 PanelB p399; director plus firm/year/proposal-type FE: Board Tenure Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5915",
+    "before": null,
+    "after": "Table5 PanelB p399; director plus firm/year/proposal-type FE: Board Experience Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5916",
+    "before": null,
+    "after": "Table5 PanelB p399; director plus firm/year/proposal-type FE: Board Gender Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5917",
+    "before": null,
+    "after": "Table5 PanelB p399; director plus firm/year/proposal-type FE: Board Country Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5918",
+    "before": null,
+    "after": "Table6 col4 p401: instrumented Board Tenure Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5919",
+    "before": null,
+    "after": "Table6 col6 p401: instrumented Board Experience Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5920",
+    "before": null,
+    "after": "Table6 col8 p401: instrumented Board Gender Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5921",
+    "before": null,
+    "after": "Table6 col10 p401: instrumented Board Country Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5922",
+    "before": null,
+    "after": "Table7 col2 pp402–403: resignation of director with Ever dissented at focal firm versus resignation without corresponding dissent history; adjusted CAR effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5923",
+    "before": null,
+    "after": "Table7 col3 pp402–403: resignation of director with Ever dissented before on monitoring proposals versus resignation without corresponding dissent history; adjusted CAR effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5924",
+    "before": null,
+    "after": "Table7 col4 pp402–403: resignation of director with Ever dissented before on advisory proposals versus resignation without corresponding dissent history; adjusted CAR effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5925",
+    "before": null,
+    "after": "Table7 col5 pp402–403: resignation of director with Ever dissented at focal firm on monitoring proposals versus resignation without corresponding dissent history; adjusted CAR effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5926",
+    "before": null,
+    "after": "Table7 col6 pp402–403: resignation of director with Ever dissented at focal firm on advisory proposals versus resignation without corresponding dissent history; adjusted CAR effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5927",
+    "before": null,
+    "after": "Table8B cols5–6: rejection×post×High ROA change in forced CEO turnover-performance sensitivity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5928",
+    "before": null,
+    "after": "Table8B cols7–10: rejection×post×Overinvest effects on R&D/assets and CAPEX/assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5929",
+    "before": null,
+    "after": "Table9 cols2,4: advisory-related rejection×post on abnormal accruals and restatement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5930",
+    "before": null,
+    "after": "Table9 col5: monitoring-related rejection×post×High ROA on forced CEO turnover."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5931",
+    "before": null,
+    "after": "Table9 col6: advisory-related rejection×post×High ROA on forced CEO turnover."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5932",
+    "before": null,
+    "after": "Table9 cols7,9: monitoring-related rejection×post×Overinvest on R&D/assets and CAPEX/assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5933",
+    "before": null,
+    "after": "Table9 cols8,10: advisory-related rejection×post×Overinvest on R&D/assets and CAPEX/assets."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5934",
+    "before": null,
+    "after": "Table4 PanelA (dissenting firms) pp396–397; proposal FE: Director Age Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5935",
+    "before": null,
+    "after": "Table4 PanelA (dissenting firms) pp396–397; proposal FE: Director Tenure Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5936",
+    "before": null,
+    "after": "Table4 PanelA (dissenting firms) pp396–397; proposal FE: Director Experience Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5937",
+    "before": null,
+    "after": "Table4 PanelA (dissenting firms) pp396–397; proposal FE: Director Gender Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5938",
+    "before": null,
+    "after": "Table4 PanelA (dissenting firms) pp396–397; proposal FE: Director Country Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5939",
+    "before": null,
+    "after": "Table4 PanelB (financial/utilities included) pp396–397; proposal FE: Director Age Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5940",
+    "before": null,
+    "after": "Table4 PanelB (financial/utilities included) pp396–397; proposal FE: Director Tenure Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5941",
+    "before": null,
+    "after": "Table4 PanelB (financial/utilities included) pp396–397; proposal FE: Director Experience Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5942",
+    "before": null,
+    "after": "Table4 PanelB (financial/utilities included) pp396–397; proposal FE: Director Gender Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5943",
+    "before": null,
+    "after": "Table4 PanelB (financial/utilities included) pp396–397; proposal FE: Director Country Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5944",
+    "before": null,
+    "after": "Table4C median-high contrasts after kernel matching; proposal FE: High Age Diversity Director effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5945",
+    "before": null,
+    "after": "Table4C median-high contrasts after kernel matching; proposal FE: High Tenure Diversity Director effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5946",
+    "before": null,
+    "after": "Table4C median-high contrasts after kernel matching; proposal FE: Director Experience Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5947",
+    "before": null,
+    "after": "Table4C median-high contrasts after kernel matching; proposal FE: Director Gender Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5948",
+    "before": null,
+    "after": "Table4C median-high contrasts after kernel matching; proposal FE: Director Country Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5949",
+    "before": null,
+    "after": "fn13 p390 binary recoding of director-level diversity: Extreme-decile age diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5950",
+    "before": null,
+    "after": "fn13 p390 binary recoding of director-level diversity: Extreme-decile tenure diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5951",
+    "before": null,
+    "after": "fn13 p390 actual minority-composition coding robustness: Director Experience Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5952",
+    "before": null,
+    "after": "fn13 p390 actual minority-composition coding robustness: Director Gender Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5953",
+    "before": null,
+    "after": "fn13 p390 actual minority-composition coding robustness: Director Country Diversity effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5954",
+    "before": null,
+    "after": "fn14 p390 oldest-youngest/longest-shortest board dispersion: Board Age Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5955",
+    "before": null,
+    "after": "fn14 p390 oldest-youngest/longest-shortest board dispersion: Board Tenure Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5956",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Director Age Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5957",
+    "before": null,
+    "after": "fn19 p392 probit robustness to Eq1: Director Age Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5958",
+    "before": null,
+    "after": "fn20 p392 Eq1 dissent-or-absence outcome robustness: Director Age Diversity effect on dissent-or-absence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5959",
+    "before": null,
+    "after": "fn22 p395: Incumbent Executive Director indicator effect on director dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5960",
+    "before": null,
+    "after": "fn22 p395: Professional Director indicator effect on director dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5961",
+    "before": null,
+    "after": "fn22 p395: Professor indicator effect on director dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5962",
+    "before": null,
+    "after": "fn23 p395 entropy-matching replacement of Table4C: High Age Diversity Director effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5963",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: Board Age Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5964",
+    "before": null,
+    "after": "p397 untabulated Table5A with additional CEO FE: Board Age Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5965",
+    "before": null,
+    "after": "p397 untabulated Table5A with additional CEO FE: Board Tenure Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5966",
+    "before": null,
+    "after": "p397 untabulated Table5A with additional CEO FE: Board Experience Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5967",
+    "before": null,
+    "after": "p397 untabulated Table5A with additional CEO FE: Board Gender Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5968",
+    "before": null,
+    "after": "p397 untabulated Table5A with additional CEO FE: Board Country Dispersion effect on Director Dissent; all single-variable and joint specifications at this location grouped; nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5969",
+    "before": null,
+    "after": "pp400–402 untabulated Board Experience Dispersion instrumented effect on dissent with alternative treatment/control definitions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5970",
+    "before": null,
+    "after": "pp400–402 untabulated Board Gender Dispersion instrumented effect on dissent with alternative treatment/control definitions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5971",
+    "before": null,
+    "after": "fn28 p400: instrumented board independence ratio effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5972",
+    "before": null,
+    "after": "p402 untabulated resignation/Ever dissented before CAR regression replacing industry with firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5973",
+    "before": null,
+    "after": "p402 untabulated resignation/Ever dissented at focal firm CAR regression replacing industry with firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5974",
+    "before": null,
+    "after": "p402 untabulated resignation/Ever dissented before on monitoring proposals CAR regression replacing industry with firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5975",
+    "before": null,
+    "after": "p402 untabulated resignation/Ever dissented before on advisory proposals CAR regression replacing industry with firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5976",
+    "before": null,
+    "after": "p402 untabulated resignation/Ever dissented at focal firm on monitoring proposals CAR regression replacing industry with firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5977",
+    "before": null,
+    "after": "p402 untabulated resignation/Ever dissented at focal firm on advisory proposals CAR regression replacing industry with firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5978",
+    "before": null,
+    "after": "fn10 p387/fn32 p404: Board Tenure Dispersion effect on proposal rejection."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5979",
+    "before": null,
+    "after": "fn10 p387/fn32 p404: Board Experience Dispersion effect on proposal rejection."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5980",
+    "before": null,
+    "after": "fn10 p387/fn32 p404: Board Gender Dispersion effect on proposal rejection."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5981",
+    "before": null,
+    "after": "fn33 p404 less restrictive matched sample: proposal rejection effects on firm value/risk."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5982",
+    "before": null,
+    "after": "fn35 p408: partial dissension without rejection versus neither dissension nor rejection; Table8A simple DiD effects on q, risk and ROA."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5983",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Director Tenure Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5984",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Director Experience Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5985",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Director Gender Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5986",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Director Country Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5987",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Board Age Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5988",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Board Tenure Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5989",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Board Experience Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5990",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Board Gender Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5991",
+    "before": null,
+    "after": "p390 and fn16 attending-director-only diversity construction: Board Country Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5992",
+    "before": null,
+    "after": "fn19 p392 probit robustness to Eq1: Director Tenure Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5993",
+    "before": null,
+    "after": "fn19 p392 probit robustness to Eq1: Director Experience Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5994",
+    "before": null,
+    "after": "fn19 p392 probit robustness to Eq1: Director Gender Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5995",
+    "before": null,
+    "after": "fn19 p392 probit robustness to Eq1: Director Country Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5996",
+    "before": null,
+    "after": "fn20 p392 Eq1 dissent-or-absence outcome robustness: Director Tenure Diversity effect on dissent-or-absence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5997",
+    "before": null,
+    "after": "fn20 p392 Eq1 dissent-or-absence outcome robustness: Director Experience Diversity effect on dissent-or-absence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5998",
+    "before": null,
+    "after": "fn20 p392 Eq1 dissent-or-absence outcome robustness: Director Gender Diversity effect on dissent-or-absence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5999",
+    "before": null,
+    "after": "fn20 p392 Eq1 dissent-or-absence outcome robustness: Director Country Diversity effect on dissent-or-absence."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6000",
+    "before": null,
+    "after": "fn23 p395 entropy-matching replacement of Table4C: High Tenure Diversity Director effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6001",
+    "before": null,
+    "after": "fn23 p395 entropy-matching replacement of Table4C: Director Experience Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6002",
+    "before": null,
+    "after": "fn23 p395 entropy-matching replacement of Table4C: Director Gender Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6003",
+    "before": null,
+    "after": "fn23 p395 entropy-matching replacement of Table4C: Director Country Diversity effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6004",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: Board Tenure Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6005",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: Board Experience Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6006",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: Board Gender Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6007",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: Board Country Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6008",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: High Board Age Dispersion (sample-median contrast) effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6009",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: High Board Tenure Dispersion (sample-median contrast) effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6010",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: High Board Experience Dispersion (sample-median contrast) effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6011",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: Board Gender Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6012",
+    "before": null,
+    "after": "p397 and fn25 untabulated board-diversity repeats of Table4: Board Country Dispersion effect on Director Dissent."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6013",
+    "before": null,
+    "after": "fn35 p408 partial dissension without rejection versus neither dissent nor rejection; Table8B simple effects on abnormal accruals and restatement."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6014",
+    "before": null,
+    "after": "fn35 p408 partial dissension without rejection versus neither dissent nor rejection; Table8B High ROA interaction: forced CEO turnover-performance sensitivity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6015",
+    "before": null,
+    "after": "fn35 p408 partial dissension without rejection versus neither dissent nor rejection; Table8B Overinvest interaction: R&D/assets and CAPEX/assets investment sensitivity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6016",
+    "before": null,
+    "after": "Table6 cols1/3/5/7/9 pp400–401: 2004 reform noncompliance×post effects on the five board-diversity measures."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6017",
+    "before": null,
+    "after": "fn28 p400: 2004 reform noncompliance×post effect on board independence ratio."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1452",
+    "before": null,
+    "after": "One identifying proposal FE dimension. Scaling all diversity measures by10 does not change support; continuous age/tenure versus binary experience/gender/country split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1453",
+    "before": null,
+    "after": "Three separate FE sets explicitly address heterogeneity on p392. PanelB additionally includes director FE; model incorrectly described it as replacing firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1454",
+    "before": null,
+    "after": "Endogenous receipt: Board Age Dispersion; sole excluded instrument Treatment×Post (noncompliant firm × 2004–2006), single binary. Own first stage col1; reported second-stage coefficient -0.605. Actual treatment support, not binary instrument, determines Human_binary. Reform-on-diversity mechanism is separately coded; no significance/credibility gate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1455",
+    "before": null,
+    "after": "Separate direct reform effect, not IV receipt. Pretrend portion diagnostic; post effect substantive."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1456",
+    "before": null,
+    "after": "OLS with industry/year dummies; identification argument is plausibly exogenous departures, not an identifying within-firm design. Observational causal intention explicit. Coefficients -0.017,-0.017,-0.023,-0.019,-0.019,-0.016 by column."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1457",
+    "before": null,
+    "after": "Matching is preprocessing. Parallel trends, not a modern estimator. Outcomes are levels; effects are changes in relative levels. Null systematic risk and ROA retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1458",
+    "before": null,
+    "after": "Distinct sensitivity estimands in cols5–10 moved to new settings. Accrual absolute definition conflicts with Table2 signed distribution; preserved, not silently repaired."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1459",
+    "before": null,
+    "after": "Split advisory and distinct sensitivity estimands; both null and positive effects retained. Main: introduction p388 and conclusion p410 explicitly emphasize monitoring-related rejections and governance/R&D mechanisms; Table9 materially supports this central conclusion, not merely routine robustness. Null counterpart treatments remain in the same substantive channel analysis."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5905",
+    "before": null,
+    "after": "One identifying proposal FE dimension. Scaling all diversity measures by10 does not change support; continuous age/tenure versus binary experience/gender/country split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5906",
+    "before": null,
+    "after": "One identifying proposal FE dimension. Scaling all diversity measures by10 does not change support; continuous age/tenure versus binary experience/gender/country split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5907",
+    "before": null,
+    "after": "One identifying proposal FE dimension. Scaling all diversity measures by10 does not change support; continuous age/tenure versus binary experience/gender/country split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5908",
+    "before": null,
+    "after": "One identifying proposal FE dimension. Scaling all diversity measures by10 does not change support; continuous age/tenure versus binary experience/gender/country split."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5909",
+    "before": null,
+    "after": "Three separate FE sets explicitly address heterogeneity on p392. PanelB additionally includes director FE; model incorrectly described it as replacing firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5910",
+    "before": null,
+    "after": "Three separate FE sets explicitly address heterogeneity on p392. PanelB additionally includes director FE; model incorrectly described it as replacing firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5911",
+    "before": null,
+    "after": "Three separate FE sets explicitly address heterogeneity on p392. PanelB additionally includes director FE; model incorrectly described it as replacing firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5912",
+    "before": null,
+    "after": "Three separate FE sets explicitly address heterogeneity on p392. PanelB additionally includes director FE; model incorrectly described it as replacing firm FE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5918",
+    "before": null,
+    "after": "Endogenous receipt: Board Tenure Dispersion; sole excluded instrument Treatment×Post (noncompliant firm × 2004–2006), single binary. Own first stage col3; reported second-stage coefficient -1.700. Actual treatment support, not binary instrument, determines Human_binary. Reform-on-diversity mechanism is separately coded; no significance/credibility gate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5919",
+    "before": null,
+    "after": "Endogenous receipt: Board Experience Dispersion; sole excluded instrument Treatment×Post (noncompliant firm × 2004–2006), single binary. Own first stage col5; reported second-stage coefficient 0.658. Actual treatment support, not binary instrument, determines Human_binary. Reform-on-diversity mechanism is separately coded; no significance/credibility gate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5920",
+    "before": null,
+    "after": "Endogenous receipt: Board Gender Dispersion; sole excluded instrument Treatment×Post (noncompliant firm × 2004–2006), single binary. Own first stage col7; reported second-stage coefficient 1.131. Actual treatment support, not binary instrument, determines Human_binary. Reform-on-diversity mechanism is separately coded; no significance/credibility gate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5921",
+    "before": null,
+    "after": "Endogenous receipt: Board Country Dispersion; sole excluded instrument Treatment×Post (noncompliant firm × 2004–2006), single binary. Own first stage col9; reported second-stage coefficient -18.411. Actual treatment support, not binary instrument, determines Human_binary. Reform-on-diversity mechanism is separately coded; no significance/credibility gate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5922",
+    "before": null,
+    "after": "OLS with industry/year dummies; identification argument is plausibly exogenous departures, not an identifying within-firm design. Observational causal intention explicit. Coefficients -0.017,-0.017,-0.023,-0.019,-0.019,-0.016 by column."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5923",
+    "before": null,
+    "after": "OLS with industry/year dummies; identification argument is plausibly exogenous departures, not an identifying within-firm design. Observational causal intention explicit. Coefficients -0.017,-0.017,-0.023,-0.019,-0.019,-0.016 by column."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5924",
+    "before": null,
+    "after": "OLS with industry/year dummies; identification argument is plausibly exogenous departures, not an identifying within-firm design. Observational causal intention explicit. Coefficients -0.017,-0.017,-0.023,-0.019,-0.019,-0.016 by column."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5925",
+    "before": null,
+    "after": "OLS with industry/year dummies; identification argument is plausibly exogenous departures, not an identifying within-firm design. Observational causal intention explicit. Coefficients -0.017,-0.017,-0.023,-0.019,-0.019,-0.016 by column."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5926",
+    "before": null,
+    "after": "OLS with industry/year dummies; identification argument is plausibly exogenous departures, not an identifying within-firm design. Observational causal intention explicit. Coefficients -0.017,-0.017,-0.023,-0.019,-0.019,-0.016 by column."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5927",
+    "before": null,
+    "after": "High ROA binary; lower-order terms not separate intended effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5928",
+    "before": null,
+    "after": "Reject exposure binary; Overinvest is continuous ranked moderator [0,1], not binary as model description suggests. R&D significant; CAPEX null retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5929",
+    "before": null,
+    "after": "Both substantive nulls retained. Main: introduction p388 and conclusion p410 explicitly emphasize monitoring-related rejections and governance/R&D mechanisms; Table9 materially supports this central conclusion, not merely routine robustness. Null counterpart treatments remain in the same substantive channel analysis."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5930",
+    "before": null,
+    "after": "Monitoring -1.191; advisory -0.212, null; linear LPM. Main: introduction p388 and conclusion p410 explicitly emphasize monitoring-related rejections and governance/R&D mechanisms; Table9 materially supports this central conclusion, not merely routine robustness. Null counterpart treatments remain in the same substantive channel analysis."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5931",
+    "before": null,
+    "after": "Monitoring -1.191; advisory -0.212, null; linear LPM. Main: introduction p388 and conclusion p410 explicitly emphasize monitoring-related rejections and governance/R&D mechanisms; Table9 materially supports this central conclusion, not merely routine robustness. Null counterpart treatments remain in the same substantive channel analysis."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5932",
+    "before": null,
+    "after": "Full table includes CAPEX omitted by model. Triple terms monitoring 0.003/0.695, advisory -0.018/-0.379; only advisory R&D significant. Main: introduction p388 and conclusion p410 explicitly emphasize monitoring-related rejections and governance/R&D mechanisms; Table9 materially supports this central conclusion, not merely routine robustness. Null counterpart treatments remain in the same substantive channel analysis."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5933",
+    "before": null,
+    "after": "Full table includes CAPEX omitted by model. Triple terms monitoring 0.003/0.695, advisory -0.018/-0.379; only advisory R&D significant. Main: introduction p388 and conclusion p410 explicitly emphasize monitoring-related rejections and governance/R&D mechanisms; Table9 materially supports this central conclusion, not merely routine robustness. Null counterpart treatments remain in the same substantive channel analysis."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5944",
+    "before": null,
+    "after": "Matching does not override identifying proposal FE. Text experience wording inconsistent with indicator definition; retain actual unlike-focal-industry coding from AppendixA."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5945",
+    "before": null,
+    "after": "Matching does not override identifying proposal FE. Text experience wording inconsistent with indicator definition; retain actual unlike-focal-industry coding from AppendixA."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5946",
+    "before": null,
+    "after": "Matching does not override identifying proposal FE. Text experience wording inconsistent with indicator definition; retain actual unlike-focal-industry coding from AppendixA."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5947",
+    "before": null,
+    "after": "Matching does not override identifying proposal FE. Text experience wording inconsistent with indicator definition; retain actual unlike-focal-industry coding from AppendixA."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5948",
+    "before": null,
+    "after": "Matching does not override identifying proposal FE. Text experience wording inconsistent with indicator definition; retain actual unlike-focal-industry coding from AppendixA."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5949",
+    "before": null,
+    "after": "Lowest OR highest decile versus middle directors. Not the Table4 median-high contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5950",
+    "before": null,
+    "after": "Lowest OR highest decile versus middle directors. Not the Table4 median-high contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5951",
+    "before": null,
+    "after": "Actual board minority indicator contrasts, not automatically female/non-Korean. No invented coefficient values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5952",
+    "before": null,
+    "after": "Actual board minority indicator contrasts, not automatically female/non-Korean. No invented coefficient values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5953",
+    "before": null,
+    "after": "Actual board minority indicator contrasts, not automatically female/non-Korean. No invented coefficient values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5954",
+    "before": null,
+    "after": "Board regression framework; unreported FE variant allocation held, all documented baseline variants satisfy HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5955",
+    "before": null,
+    "after": "Board regression framework; unreported FE variant allocation held, all documented baseline variants satisfy HDFE."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5956",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5957",
+    "before": null,
+    "after": "Probit explicit; footnote anchored to director-level Eq1 with Director Diversity defined as one of five named measures. No evidence requiring a board-probit grid; that broader reading held. No coefficients inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5958",
+    "before": null,
+    "after": "Five Eq1 director-diversity treatments are allocated by the immediately adjacent equation definition; outcome recoding does not make treatment unknown. Proposal FE; no fabricated numeric effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5959",
+    "before": null,
+    "after": "Parameter-specific career-options/income interpretation overrides routine-control exclusion. Incumbent-executive null and professional negative retained; Professor Table3 positive is not a new duplicate of a diversity treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5960",
+    "before": null,
+    "after": "Parameter-specific career-options/income interpretation overrides routine-control exclusion. Incumbent-executive null and professional negative retained; Professor Table3 positive is not a new duplicate of a diversity treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5961",
+    "before": null,
+    "after": "Parameter-specific career-options/income interpretation overrides routine-control exclusion. Incumbent-executive null and professional negative retained; Professor Table3 positive is not a new duplicate of a diversity treatment."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5962",
+    "before": null,
+    "after": "Explicit replacement of kernel matching in the five-treatment high/low Table4C analysis; all implemented contrasts binary. Identifying proposal FE takes precedence over matching; no invented coefficient values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5963",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5964",
+    "before": null,
+    "after": "Adds CEO FE to firm/year/proposal-type FE to address precommunication; reported results same."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5965",
+    "before": null,
+    "after": "Adds CEO FE to firm/year/proposal-type FE to address precommunication; reported results same."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5966",
+    "before": null,
+    "after": "Adds CEO FE to firm/year/proposal-type FE to address precommunication; reported results same."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5967",
+    "before": null,
+    "after": "Adds CEO FE to firm/year/proposal-type FE to address precommunication; reported results same."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5968",
+    "before": null,
+    "after": "Adds CEO FE to firm/year/proposal-type FE to address precommunication; reported results same."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5969",
+    "before": null,
+    "after": "Three definitions grouped as disclosed variants of same reform×post instrument, single binary; no coefficient grid invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5970",
+    "before": null,
+    "after": "Three definitions grouped as disclosed variants of same reform×post instrument, single binary; no coefficient grid invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5971",
+    "before": null,
+    "after": "Explicit null causal channel test qualifies; sole binary Treatment×Post instrument; first-stage null itself diagnostic."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5972",
+    "before": null,
+    "after": "Firm/year FE robustness changes identifying within-firm adjustment; no numerical estimates reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5973",
+    "before": null,
+    "after": "Firm/year FE robustness changes identifying within-firm adjustment; no numerical estimates reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5974",
+    "before": null,
+    "after": "Firm/year FE robustness changes identifying within-firm adjustment; no numerical estimates reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5975",
+    "before": null,
+    "after": "Firm/year FE robustness changes identifying within-firm adjustment; no numerical estimates reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5976",
+    "before": null,
+    "after": "Firm/year FE robustness changes identifying within-firm adjustment; no numerical estimates reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5977",
+    "before": null,
+    "after": "Firm/year FE robustness changes identifying within-firm adjustment; no numerical estimates reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5978",
+    "before": null,
+    "after": "Same untabulated result repeated, merged. Author explicitly interprets diversity as changing acceptance of diverse thoughts; implemented response estimator not stated (linear FE versus nonlinear alternatives)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5979",
+    "before": null,
+    "after": "Same untabulated result repeated, merged. Author explicitly interprets diversity as changing acceptance of diverse thoughts; implemented response estimator not stated (linear FE versus nonlinear alternatives)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5980",
+    "before": null,
+    "after": "Same untabulated result repeated, merged. Author explicitly interprets diversity as changing acceptance of diverse thoughts; implemented response estimator not stated (linear FE versus nonlinear alternatives)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5981",
+    "before": null,
+    "after": "62 treated+62 controls,505 observations; Eq2 conventional DiD. Minimum clearly allocated Table8A family; no invented extension to B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5982",
+    "before": null,
+    "after": "Footnote explicitly repeats Table8 with a new matched treatment contrast; substantive null mechanism. Separate A, B financial reporting, turnover sensitivity and investment sensitivity; no numerical estimates inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5983",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5984",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5985",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5986",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5987",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5988",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5989",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5990",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5991",
+    "before": null,
+    "after": "Text explicitly repeats both director and board measures using attendees. Split named treatments and their known support; director proposal FE versus board identifying firm/year/proposal-type FE. Board director-FE variants grouped, no unreported coefficient grid. Narrower reading only changes director age/tenure numerically; unchanged binary construction still part of reported attendee-sample robustness."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5992",
+    "before": null,
+    "after": "Probit explicit; footnote anchored to director-level Eq1 with Director Diversity defined as one of five named measures. No evidence requiring a board-probit grid; that broader reading held. No coefficients inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5993",
+    "before": null,
+    "after": "Probit explicit; footnote anchored to director-level Eq1 with Director Diversity defined as one of five named measures. No evidence requiring a board-probit grid; that broader reading held. No coefficients inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5994",
+    "before": null,
+    "after": "Probit explicit; footnote anchored to director-level Eq1 with Director Diversity defined as one of five named measures. No evidence requiring a board-probit grid; that broader reading held. No coefficients inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5995",
+    "before": null,
+    "after": "Probit explicit; footnote anchored to director-level Eq1 with Director Diversity defined as one of five named measures. No evidence requiring a board-probit grid; that broader reading held. No coefficients inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5996",
+    "before": null,
+    "after": "Five Eq1 director-diversity treatments are allocated by the immediately adjacent equation definition; outcome recoding does not make treatment unknown. Proposal FE; no fabricated numeric effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5997",
+    "before": null,
+    "after": "Five Eq1 director-diversity treatments are allocated by the immediately adjacent equation definition; outcome recoding does not make treatment unknown. Proposal FE; no fabricated numeric effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5998",
+    "before": null,
+    "after": "Five Eq1 director-diversity treatments are allocated by the immediately adjacent equation definition; outcome recoding does not make treatment unknown. Proposal FE; no fabricated numeric effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5999",
+    "before": null,
+    "after": "Five Eq1 director-diversity treatments are allocated by the immediately adjacent equation definition; outcome recoding does not make treatment unknown. Proposal FE; no fabricated numeric effects."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6000",
+    "before": null,
+    "after": "Explicit replacement of kernel matching in the five-treatment high/low Table4C analysis; all implemented contrasts binary. Identifying proposal FE takes precedence over matching; no invented coefficient values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6001",
+    "before": null,
+    "after": "Explicit replacement of kernel matching in the five-treatment high/low Table4C analysis; all implemented contrasts binary. Identifying proposal FE takes precedence over matching; no invented coefficient values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6002",
+    "before": null,
+    "after": "Explicit replacement of kernel matching in the five-treatment high/low Table4C analysis; all implemented contrasts binary. Identifying proposal FE takes precedence over matching; no invented coefficient values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6003",
+    "before": null,
+    "after": "Explicit replacement of kernel matching in the five-treatment high/low Table4C analysis; all implemented contrasts binary. Identifying proposal FE takes precedence over matching; no invented coefficient values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6004",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6005",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6006",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6007",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6008",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6009",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6010",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6011",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6012",
+    "before": null,
+    "after": "First five: dissent-firm/industry-inclusion sample variants grouped at one untabulated location. Last five: explicitly stated matched high/low estimands, including median-split age/tenure/experience in fn25. Do not merge continuous and binary contrasts into unknown. Firm/year/proposal-type identifying FE retained; director-FE variant allocation unprinted. No invented panel/column grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6013",
+    "before": null,
+    "after": "Explicit repeat of Table8 estimands; generally insignificant substantive mechanism, not diagnostic exclusion. No reported coefficients; no additional unreported Cartesian grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6014",
+    "before": null,
+    "after": "Explicit repeat of Table8 estimands; generally insignificant substantive mechanism, not diagnostic exclusion. No reported coefficients; no additional unreported Cartesian grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6015",
+    "before": null,
+    "after": "Explicit repeat of Table8 estimands; generally insignificant substantive mechanism, not diagnostic exclusion. No reported coefficients; no additional unreported Cartesian grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6016",
+    "before": null,
+    "after": "Separate reform assignment effects, not IV receipt. p400 interprets increases in experience/gender and reduced tenure dispersion as replacement of long- and short-tenured directors owing to shortage of qualified financial/accounting experts. This workforce-composition mechanism exceeds instrument relevance alone; include null age/country in same outcome family. p387 relevance-only language supports a narrower exclusion alternative, retained in audit. Supporting role, not central main-result status."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6017",
+    "before": null,
+    "after": "Authors explicitly conclude the 2004 rule does not affect treatment firms’ board independence, ruling out a governance channel. Separate substantive reform-effect null from the IV-receipt null h67; exclude relevance-only first-stage interpretation as a documented narrower alternative."
+  }
+]
+```
