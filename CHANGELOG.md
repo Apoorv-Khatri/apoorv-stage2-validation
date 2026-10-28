@@ -1796481,3 +1796481,744 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T21:55:35.575938+00:00 — Review DZ6M7Z23: one-paper adjudicated source-scoped coding
+
+122 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K1000",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1001",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1002",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1003",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1004",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1005",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K999",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1000",
+    "before": null,
+    "after": "Table3 raw descriptive means are not the Table4 adjusted PPML contrast. Fn17 predictions are distinct triples and would qualify if s1 were retained; alignment uncertainty is not an exclusion reason. Independent audit rejects original link irrespective of causal-scope decision; no automatic transfer. Parent setting excluded separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1001",
+    "before": null,
+    "after": "Table3 raw descriptive means are not the Table4 adjusted PPML contrast. Fn17 predictions are distinct triples and would qualify if s1 were retained; alignment uncertainty is not an exclusion reason. Independent audit rejects original link irrespective of causal-scope decision; no automatic transfer. Parent setting excluded separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1002",
+    "before": null,
+    "after": "Table7A raw-duration means are not deliberately linked benchmarks for adjusted B/C effects; same-period labels do not establish linkage, and implementation changes the outcome scale. Independent audit rejects original link irrespective of causal-scope decision; no automatic transfer. Parent setting excluded separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1003",
+    "before": null,
+    "after": "Table7A raw-duration means are not deliberately linked benchmarks for adjusted B/C effects; same-period labels do not establish linkage, and implementation changes the outcome scale. Independent audit rejects original link irrespective of causal-scope decision; no automatic transfer. Parent setting excluded separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1004",
+    "before": null,
+    "after": "Table7A raw-duration means are not deliberately linked benchmarks for adjusted B/C effects; same-period labels do not establish linkage, and implementation changes the outcome scale. Independent audit rejects original link irrespective of causal-scope decision; no automatic transfer. Parent setting excluded separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1005",
+    "before": null,
+    "after": "Table7A raw-duration means are not deliberately linked benchmarks for adjusted B/C effects; same-period labels do not establish linkage, and implementation changes the outcome scale. Independent audit rejects original link irrespective of causal-scope decision; no automatic transfer. Parent setting excluded separately."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R999",
+    "before": null,
+    "after": "Table3 raw descriptive means are not the Table4 adjusted PPML contrast. Fn17 predictions are distinct triples and would qualify if s1 were retained; alignment uncertainty is not an exclusion reason. Independent audit rejects original link irrespective of causal-scope decision; no automatic transfer. Parent setting excluded separately."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3619",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3620",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3621",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3622",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3623",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3624",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3627",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3628",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3629",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3630",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3631",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3632",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3633",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3634",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3635",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3636",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3637",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3638",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3639",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3619",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3620",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3621",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3622",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3623",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3624",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3627",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3628",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3629",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3630",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3631",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3632",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3633",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3634",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3635",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3636",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3637",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3638",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3619",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3620",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3621",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3622",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3623",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3624",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3625",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3626",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3627",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3628",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3629",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3630",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3631",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3632",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3633",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3634",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3635",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3636",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3637",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3638",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3639",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3619",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3620",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3621",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3622",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3623",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3624",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3625",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3626",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3627",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3628",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3629",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3630",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3631",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3632",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3633",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3634",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3635",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3636",
+    "before": null,
+    "after": "Inactive because parent is excluded by independent parameter-specific author-intention adjudication; not an assertion that the outcome is spurious. Conditional coding, source conflicts and broad-scope alternative preserved in held-ledger and AUDIT.md."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3637",
+    "before": null,
+    "after": "Section6.2.3 p163: Firm monetary penalties. Untabulated IPWRA outcome scale/zero handling is unstated. Raw penalty zeros established in main sample (pp142-145), but this does not identify zeros on the implemented transformed response. No actual first-difference outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3638",
+    "before": null,
+    "after": "Section6.2.3 p163: Employee monetary penalties. Untabulated IPWRA outcome scale/zero handling is unstated. Raw penalty zeros established in main sample (pp142-145), but this does not identify zeros on the implemented transformed response. No actual first-difference outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3639",
+    "before": null,
+    "after": "Section6.2.3 p163: Total monetary penalties, explicitly firm plus employee penalties. Untabulated IPWRA outcome scale/zero handling is unstated. Raw penalty zeros established in main sample (pp142-145), but this does not identify zeros on the implemented transformed response. No actual first-difference outcome."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E172",
+    "before": null,
+    "after": "DONE — parent accepted parameter-specific independent adjudication and full available-source review. Retain s9 only: one setting, three active monetary outcomes (including two nulls), zero comparisons; physical nine settings, 21 outcomes, seven comparisons preserved; no additions or withdrawals. First-person same-action ATT treated counterfactual implementation on p163 warrants causal intention, not identification credibility; ambiguous main-family increase/allows language in association context is resolved by explicit descriptive intention pp161/164, not a blanket disclaimer. All narrower/broader scope alternatives held. s9 method unknown: linear IPWRA Matching versus nonlinear Other; no implementation/default inferred, no fourth prison outcome. All seven comparisons rejected for independent linkage defects. Fn17 three genuine predicted-level pairs held solely because s1 excluded, not alignment uncertainty; raw groups not relabeled predictions. Shifted-duration/log/unknown-transform and source contradictions preserved. Independent full 49-page article, seven-page appendix and 614 Stata lines read; datasheet/SAS coverage inherited from first review. No empirical replication or omission-free claim. Historical candidate status preserved; parent acceptance external."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1447",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1448",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1449",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1450",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1451",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1451",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1451",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1451",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1451",
+    "before": null,
+    "after": "Section6.2.3 p163: binary whistleblower involvement; inverse-probability-weighted regression adjustment estimating average treatment effects on actions with whistleblower involvement (ATT wording). Firm penalties, employee penalties and their sum; first two null, total positive at p<0.10. No numerical effects reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1443",
+    "before": null,
+    "after": "Independent audit: Table4 pp145-146: the prison-sentence increase wording is an ambiguous conditional contrast in a family introduced as associations; fn17 explicitly says associated with predicted increases. Read with pp161/164, no affirmative implemented causal interpretation sufficient to retain this family. Fn17 has three otherwise eligible comparisons, held only on scope. This is author-intention, not identification-quality, adjudication. Broader interpretation remains a parent decision; see AUDIT.md."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1444",
+    "before": null,
+    "after": "Independent audit: Table5B pp149-151: type mechanisms and regulator quotations motivate the design, but actual tipster/nontipster findings and tested differences are interpreted as associations. Both positive and null outcomes excluded consistently; timing-definition conflicts preserved externally. This is author-intention, not identification-quality, adjudication. Broader interpretation remains a parent decision; see AUDIT.md."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1445",
+    "before": null,
+    "after": "Independent audit: Table6 pp151-152: information allows a more successful case is mechanism motivation; the implemented overall/type penalty results are explicitly associated with WB. Overall, tipster, nontipster and tested difference all considered; no significance-based selection. This is author-intention, not identification-quality, adjudication. Broader interpretation remains a parent decision; see AUDIT.md."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1446",
+    "before": null,
+    "after": "Independent audit: Table7B/C discovery pp153-157: expedite/prolong question motivates the study; reported overall/type results and inference remain association-framed. Code logs raw duration and resets negative raw cases to zero, not proven log1p. Raw PanelA means are not adjusted-effect benchmarks. This is author-intention, not identification-quality, adjudication. Broader interpretation remains a parent decision; see AUDIT.md."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1447",
+    "before": null,
+    "after": "Independent audit: Table7B/C proceedings pp153-157: overall/type and difference results remain association-framed, including null overall result. Fn19 all-case hazard considered separately, not silently omitted. Code adds one day to end date; raw PanelA means differ from implemented survival duration. This is author-intention, not identification-quality, adjudication. Broader interpretation remains a parent decision; see AUDIT.md."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1448",
+    "before": null,
+    "after": "Independent audit: Table8A logit pp157-158: explicitly association-framed sensitivity results, including null employee-penalty incidence. 8.58%/6.64% likelihood statements give no base probabilities; no invented normalized comparison. This is author-intention, not identification-quality, adjudication. Broader interpretation remains a parent decision; see AUDIT.md."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1449",
+    "before": null,
+    "after": "Independent audit: Table8A Tobit pp157-158: association-framed alternative estimator, all three outcomes considered including nulls. Logged-response construction and zero handling are not allocated by source/code; do not infer log1p. This is author-intention, not identification-quality, adjudication. Broader interpretation remains a parent decision; see AUDIT.md."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1450",
+    "before": null,
+    "after": "Independent audit: Table8A OLS pp157-158: association-framed alternative estimator, all three outcomes considered including nulls. Industry indicators alone are not identifying FE. Table8C logged/LPM coefficient displays separately assessed as sensitivity inputs, not automatically promoted or duplicated. This is author-intention, not identification-quality, adjudication. Broader interpretation remains a parent decision; see AUDIT.md."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1451",
+    "before": null,
+    "after": "Independent audit: Section6.2.3 p163: retained because the authors explicitly implement an average treatment effect on WB-involved enforcement actions, following the same-action missing-counterfactual discussion; not merely because IPWRA is named. Subsequent association wording and pp161/164 disclaimers considered but do not erase this specific intended counterfactual target. Outcome-model family/scale unreported and IPWRA absent from official code: Matching if linear, Other if nonlinear; unknown rather than a software default. Literal independence wording is imprecise. Both null monetary components and positive total retained; no allocatable prison result or outcome benchmark."
+  }
+]
+```
