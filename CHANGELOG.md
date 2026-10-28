@@ -1714338,3 +1714338,5364 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T05:54:39.126924+00:00 — Review 29PX3PXF: one-paper adjudicated source-scoped coding
+
+892 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K948",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K949",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K950",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K951",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K952",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K953",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q948",
+    "before": null,
+    "after": "Table3B/C pp.855–856, fn18; Table4B/section4.4.1 pp.857–859. −.267 × .23 is the stated example, with no division by .88. Treatment-SD changes and debt-effect versus equity-effect comparisons are not own-outcome benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q949",
+    "before": null,
+    "after": "Table3B/C pp.855–856, fn18; Table4B/section4.4.1 pp.857–859. −.267 × .23 is the stated example, with no division by .88. Treatment-SD changes and debt-effect versus equity-effect comparisons are not own-outcome benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q950",
+    "before": null,
+    "after": "Table3B/C pp.855–856, fn18; Table4B/section4.4.1 pp.857–859. −.267 × .23 is the stated example, with no division by .88. Treatment-SD changes and debt-effect versus equity-effect comparisons are not own-outcome benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q951",
+    "before": null,
+    "after": "Table3B/C pp.855–856, fn18; Table4B/section4.4.1 pp.857–859. −.267 × .23 is the stated example, with no division by .88. Treatment-SD changes and debt-effect versus equity-effect comparisons are not own-outcome benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q952",
+    "before": null,
+    "after": "Table3B/C pp.855–856, fn18; Table4B/section4.4.1 pp.857–859. −.267 × .23 is the stated example, with no division by .88. Treatment-SD changes and debt-effect versus equity-effect comparisons are not own-outcome benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q953",
+    "before": null,
+    "after": "Table3B/C pp.855–856, fn18; Table4B/section4.4.1 pp.857–859. −.267 × .23 is the stated example, with no division by .88. Treatment-SD changes and debt-effect versus equity-effect comparisons are not own-outcome benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q954",
+    "before": null,
+    "after": "Table3B/C pp.855–856, fn18; Table4B/section4.4.1 pp.857–859. −.267 × .23 is the stated example, with no division by .88. Treatment-SD changes and debt-effect versus equity-effect comparisons are not own-outcome benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q955",
+    "before": null,
+    "after": "Table3B/C pp.855–856, fn18; Table4B/section4.4.1 pp.857–859. −.267 × .23 is the stated example, with no division by .88. Treatment-SD changes and debt-effect versus equity-effect comparisons are not own-outcome benchmarks."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R948",
+    "before": null,
+    "after": "Rejected: p.856 footnote18 explicitly defines economic significance as coefficient × SD of the TREATMENT and says same calculation throughout paper. Table2 Shelter Score mean .88 is not linked as denominator or paired in regression table. Printed percentages are probability-scale changes, not percentages of outcome mean. No retained comparison moved to split parent."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R949",
+    "before": null,
+    "after": "Rejected: p.856 footnote18 explicitly defines economic significance as coefficient × SD of the TREATMENT and says same calculation throughout paper. Table2 Shelter Score mean .88 is not linked as denominator or paired in regression table. Printed percentages are probability-scale changes, not percentages of outcome mean. No retained comparison moved to split parent."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R950",
+    "before": null,
+    "after": "Rejected: p.856 footnote18 explicitly defines economic significance as coefficient × SD of the TREATMENT and says same calculation throughout paper. Table2 Shelter Score mean .88 is not linked as denominator or paired in regression table. Printed percentages are probability-scale changes, not percentages of outcome mean. No retained comparison moved to split parent."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R951",
+    "before": null,
+    "after": "Rejected: p.856 footnote18 explicitly defines economic significance as coefficient × SD of the TREATMENT and says same calculation throughout paper. Table2 Shelter Score mean .88 is not linked as denominator or paired in regression table. Printed percentages are probability-scale changes, not percentages of outcome mean. No retained comparison moved to split parent."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R952",
+    "before": null,
+    "after": "Rejected: p.856 footnote18 explicitly defines economic significance as coefficient × SD of the TREATMENT and says same calculation throughout paper. Table2 Shelter Score mean .88 is not linked as denominator or paired in regression table. Printed percentages are probability-scale changes, not percentages of outcome mean. No retained comparison moved to split parent."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R953",
+    "before": null,
+    "after": "Rejected: p.856 footnote18 explicitly defines economic significance as coefficient × SD of the TREATMENT and says same calculation throughout paper. Table2 Shelter Score mean .88 is not linked as denominator or paired in regression table. Printed percentages are probability-scale changes, not percentages of outcome mean. No retained comparison moved to split parent."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R954",
+    "before": null,
+    "after": "Rejected: p.856 footnote18 explicitly defines economic significance as coefficient × SD of the TREATMENT and says same calculation throughout paper. Table2 Shelter Score mean .88 is not linked as denominator or paired in regression table. Printed percentages are probability-scale changes, not percentages of outcome mean. No retained comparison moved to split parent."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R955",
+    "before": null,
+    "after": "Rejected: p.856 footnote18 explicitly defines economic significance as coefficient × SD of the TREATMENT and says same calculation throughout paper. Table2 Shelter Score mean .88 is not linked as denominator or paired in regression table. Printed percentages are probability-scale changes, not percentages of outcome mean. No retained comparison moved to split parent."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12782",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12783",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12784",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12785",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12786",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12787",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12788",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12789",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12790",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12791",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12792",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12793",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12794",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12795",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12796",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12797",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12798",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12799",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12800",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12801",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12802",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12803",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12804",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12805",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12806",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12807",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12808",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12809",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12810",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12811",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12812",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12813",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12814",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12815",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12816",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12817",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12818",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12819",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12820",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12821",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12822",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12823",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12824",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12825",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12826",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12827",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12828",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12829",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12830",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12831",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12832",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12833",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12834",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12835",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12836",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12837",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12838",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12839",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12782",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12783",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12784",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12785",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12786",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12787",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12788",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12789",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12790",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12791",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12792",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12793",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12794",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12795",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12796",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12797",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12798",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12799",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12800",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12801",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12802",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12803",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12804",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12805",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12806",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12807",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12808",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12809",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12810",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12811",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12812",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12813",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12814",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12815",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12816",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12817",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12818",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12819",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12820",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12821",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12822",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12823",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12824",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12825",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12826",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12827",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12828",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12829",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12830",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12831",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12832",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12833",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12834",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12835",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12836",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12837",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12838",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12839",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12782",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12783",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12784",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12785",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12786",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12787",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12788",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12789",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12790",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12791",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12792",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12793",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12794",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12795",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12796",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12797",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12798",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12799",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12800",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12801",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12802",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12803",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12804",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12805",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12806",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12807",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12808",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12809",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12810",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12811",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12812",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12813",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12814",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12815",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12816",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12817",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12818",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12819",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12820",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12821",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12822",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12823",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12824",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12825",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12826",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12827",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12828",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12829",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12830",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12831",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12832",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12833",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12834",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12835",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12836",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12837",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12838",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12839",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12786",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12796",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12803",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12807",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12814",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12818",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12822",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12826",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12783",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12786",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12792",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12796",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12799",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12803",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12807",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12811",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12814",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12818",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12822",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12826",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12828",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12830",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12834",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3435",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12782",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12783",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12784",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12785",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12786",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12787",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12788",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12789",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12790",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12791",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12792",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12793",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12794",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12795",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12796",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12797",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12798",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12799",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12800",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12801",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12802",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12803",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12804",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12805",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12806",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12807",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12808",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12809",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12810",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12811",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12812",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12813",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12814",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12815",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12816",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12817",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12818",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12819",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12820",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12821",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12822",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12823",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12824",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12825",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12826",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12827",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12828",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12829",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12830",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12831",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12832",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12833",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12834",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12835",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12836",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12837",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12838",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12839",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3429",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3430",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3431",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3432",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3433",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3434",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3435",
+    "before": null,
+    "after": "Shelter Score: Lisowsky predicted probability of tax sheltering, not the binary TaxShelter training indicator; reported level. Appendix A pp.871–872 and section3.1 p.846."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3436",
+    "before": null,
+    "after": "Average five-year cash effective tax rate, section4.6.3 p.869; positive CEO debt effect. Exact averaging/winsorization construction not supplied here."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3437",
+    "before": null,
+    "after": "Discretionary permanent book–tax differences, section4.6.3 p.869; negative CEO debt effect. Residualized constructed outcome; exact final scaling not supplied."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E157",
+    "before": null,
+    "after": "DONE — full available-source review and focused independent audit accepted; no omission-free certification or empirical replication. Eight Table5 3SLS scopes remain method/type unknown: covariance estimation alone does not establish nonlinearity of focal outcome coefficients; conditional/equivalent linear system IV versus genuinely noncancelling outcome-adaptive Other alternatives retained. Fitted-debt moderation and Clawback remain unknown; broad author-labelled IV alternative retained, no author-error claim. Vega is retained in joint IV, not separately instrumented. Alternative outcomes retain minimum s8 scope with unknown treatment support, explicit 2SLS and both original outcome IDs; unwritten h59–h61 and six outcome appends withdrawn, IDs held and not reused. All eight treatment-SD comparisons rejected after full-setting search; zero retained comparisons, no .88 denominator backsolve. Pension freeze and component methods remain unknown. Printed source conflicts and joint CFO nulls preserved. Original model fields and IDs unchanged. No separate supplement or implementation code recovered by bounded search."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5478",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5479",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5480",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5481",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5482",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5483",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5484",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5485",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5486",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5487",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5488",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5489",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5490",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5491",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5492",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5493",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5494",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5495",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5496",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5497",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5498",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5499",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5500",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5501",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5502",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5503",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5504",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5505",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5506",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5507",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5508",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5509",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5510",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5511",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5512",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5513",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5514",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5515",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5516",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5517",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5518",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5519",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5520",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5521",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5522",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5523",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5524",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5525",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5526",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5527",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5528",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5529",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5530",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5531",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5532",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5533",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5534",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5535",
+    "before": null,
+    "after": "29PX3PXF"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5478",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5479",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5480",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5481",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5482",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5483",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5484",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5485",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5486",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5487",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5488",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5489",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5490",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5491",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5492",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5493",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5494",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5495",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5496",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5497",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5498",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5499",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5500",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5501",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5502",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5503",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5504",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5505",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5506",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5507",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5508",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5509",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5510",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5511",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5512",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5513",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5514",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5515",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5516",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5517",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5518",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5519",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5520",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5521",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5522",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5523",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5524",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5525",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5526",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5527",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5528",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5529",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5530",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5531",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5532",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5533",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5534",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5535",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1354",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1355",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1357",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1358",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1359",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1360",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1361",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5479",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5487",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5489",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5490",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5491",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5493",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5495",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5512",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5513",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5515",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5516",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5517",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5519",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5520",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5521",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5527",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5528",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5533",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5534",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5535",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1354",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1355",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1356",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1357",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1358",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1359",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1360",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1361",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5478",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5479",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5480",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5481",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5482",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5483",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5484",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5485",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5486",
+    "before": null,
+    "after": "IV"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5487",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5488",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5489",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5492",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5493",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5494",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5495",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5496",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5497",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5498",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5499",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5500",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5503",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5504",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5505",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5506",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5507",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5509",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5510",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5511",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5512",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5513",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5514",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5517",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5518",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5519",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5522",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5523",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5524",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5525",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5526",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5527",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5528",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5529",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5530",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5531",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5532",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5533",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5534",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5535",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1357",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1360",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1361",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5478",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5479",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5484",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5485",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5486",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5487",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5488",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5490",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5491",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5492",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5494",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5495",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5496",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5497",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5498",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5500",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5501",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5502",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5504",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5505",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5506",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5508",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5509",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5511",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5514",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5518",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5532",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5533",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5534",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5535",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1354",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1355",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1357",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1361",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5479",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5484",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5485",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5486",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5487",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5488",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5489",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5490",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5491",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5492",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5493",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5494",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5495",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5496",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5497",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5498",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5499",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5500",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5501",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5502",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5503",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5504",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5505",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5506",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5507",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5508",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5509",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5510",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5511",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5512",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5513",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5514",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5515",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5516",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5517",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5518",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5519",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5520",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5521",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5522",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5523",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5524",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5525",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5526",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5529",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5532",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5533",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1354",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1355",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1356",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1357",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1358",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1359",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1360",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1361",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5478",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5479",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5480",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5481",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5482",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5483",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5484",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5485",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5486",
+    "before": null,
+    "after": "mixed"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5487",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5488",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5489",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5490",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5491",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5492",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5493",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5494",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5495",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5496",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5497",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5498",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5499",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5500",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5501",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5502",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5503",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5504",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5505",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5506",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5507",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5508",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5509",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5510",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5511",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5512",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5513",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5514",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5515",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5516",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5517",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5518",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5519",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5520",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5521",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5522",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5523",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5524",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5525",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5526",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5527",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5528",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5529",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5530",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5531",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5532",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5533",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5534",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5535",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1354",
+    "before": null,
+    "after": "Ln(1 + DECEO) effect on Shelter Score; Table3B pp.853–856, column1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1355",
+    "before": null,
+    "after": "Ln(1 + DECEO) effect on Shelter Score moderated by Speculative; Table6A p.862, column1. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1356",
+    "before": null,
+    "after": "Ln(1 + DECEO) effect on Shelter Score moderated by Cash-Out; Table7A p.866, column1. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1357",
+    "before": null,
+    "after": "Ln(1 + DECFO) effect on Shelter Score; Table4B pp.857–859, column1."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1358",
+    "before": null,
+    "after": "Ln(1 + DECEO) partial effect on Shelter Score in joint CEO/CFO endogenous-debt system, Table5 pp.857,860–861, matched specification1; both endogenous doses enter jointly."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1359",
+    "before": null,
+    "after": "One-year-lagged Ln(1 + DECEO) effect on current Shelter Score; section4.6.1 pp.867,869; all four measures for each executive explicitly significantly negative, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1360",
+    "before": null,
+    "after": "Pension hard-freeze exposure and Shelter Score, section4.6.1 p.869: three years before/after freezes; post-freeze score higher than at nonfreeze firms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1361",
+    "before": null,
+    "after": "CEO inside debt effect on average five-year cash effective tax rate and discretionary permanent book-tax differences; section4.6.3 p.869, untabulated 2SLS reestimation. Minimum established treatment scope; exact inside-debt coding unspecified."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5478",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) effect on Shelter Score; Table3B pp.853–856, column2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5479",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} effect on Shelter Score; Table3B pp.853–856, column3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5480",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets effect on Shelter Score; Table3B pp.853–856, column4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5481",
+    "before": null,
+    "after": "Ln(1 + DECFO/Firm) effect on Shelter Score; Table4B pp.857–859, column2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5482",
+    "before": null,
+    "after": "1{DECFO/Firm > 1} effect on Shelter Score; Table4B pp.857–859, column3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5483",
+    "before": null,
+    "after": "Debt CompCFO/lagged total assets effect on Shelter Score; Table4B pp.857–859, column4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5484",
+    "before": null,
+    "after": "Ln(VegaCEO) effect on Shelter Score in joint 2SLS equations, Table3B columns1–4 p.855; positive coefficients .020/.018/.018/.014; p.856 explicitly says higher equity risk incentives encourage risky tax shelters."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5485",
+    "before": null,
+    "after": "Debt CompCEO/lagged assets effect on Shelter Score by DECEO/Firm >1 versus <1 subgroups, Table3C pp.855–856: coefficients −.043 and −.009; full-sample −.021 repeats Table3B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5486",
+    "before": null,
+    "after": "Ln(VegaCEO) effect on Shelter Score in Table3C high/low DECEO/Firm subgroups pp.855–856: .018/.013; full-sample .014 repeats Table3B."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5487",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) partial effect on Shelter Score in joint CEO/CFO endogenous-debt system, Table5 pp.857,860–861, matched specification2; both endogenous doses enter jointly."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5488",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} partial effect on Shelter Score in joint CEO/CFO endogenous-debt system, Table5 pp.857,860–861, matched specification3; both endogenous doses enter jointly."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5489",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets partial effect on Shelter Score in joint CEO/CFO endogenous-debt system, Table5 pp.857,860–861, matched specification4; both endogenous doses enter jointly."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5490",
+    "before": null,
+    "after": "Ln(1 + DECFO) partial effect on Shelter Score in joint CEO/CFO endogenous-debt system, Table5 pp.857,860–861, matched specification1; both endogenous doses enter jointly."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5491",
+    "before": null,
+    "after": "Ln(1 + DECFO/Firm) partial effect on Shelter Score in joint CEO/CFO endogenous-debt system, Table5 pp.857,860–861, matched specification2; both endogenous doses enter jointly."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5492",
+    "before": null,
+    "after": "1{DECFO/Firm > 1} partial effect on Shelter Score in joint CEO/CFO endogenous-debt system, Table5 pp.857,860–861, matched specification3; both endogenous doses enter jointly."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5493",
+    "before": null,
+    "after": "Debt CompCFO/lagged total assets partial effect on Shelter Score in joint CEO/CFO endogenous-debt system, Table5 pp.857,860–861, matched specification4; both endogenous doses enter jointly."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5494",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) effect on Shelter Score moderated by Speculative; Table6A p.862, column2. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5495",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} effect on Shelter Score moderated by Speculative; Table6A p.862, column3. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5496",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets effect on Shelter Score moderated by Speculative; Table6A p.862, column4. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5497",
+    "before": null,
+    "after": "Ln(1 + DECEO) effect on Shelter Score moderated by BL; Table6B p.862, column1. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5498",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) effect on Shelter Score moderated by BL; Table6B p.862, column2. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5499",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} effect on Shelter Score moderated by BL; Table6B p.862, column3. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5500",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets effect on Shelter Score moderated by BL; Table6B p.862, column4. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5501",
+    "before": null,
+    "after": "Ln(1 + DECEO) effect on Shelter Score moderated by PViol; Table6C p.863, column1. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5502",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) effect on Shelter Score moderated by PViol; Table6C p.863, column2. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5503",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} effect on Shelter Score moderated by PViol; Table6C p.863, column3. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5504",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets effect on Shelter Score moderated by PViol; Table6C p.863, column4. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5505",
+    "before": null,
+    "after": "Ln(1 + DECEO) effect on Shelter Score moderated by IRSFines; Table6D p.863, column1. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5506",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) effect on Shelter Score moderated by IRSFines; Table6D p.863, column2. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5507",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} effect on Shelter Score moderated by IRSFines; Table6D p.863, column3. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5508",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets effect on Shelter Score moderated by IRSFines; Table6D p.863, column4. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5509",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) effect on Shelter Score moderated by Cash-Out; Table7A p.866, column2. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5510",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} effect on Shelter Score moderated by Cash-Out; Table7A p.866, column3. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5511",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets effect on Shelter Score moderated by Cash-Out; Table7A p.866, column4. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5512",
+    "before": null,
+    "after": "Ln(1 + DECEO) effect on Shelter Score moderated by Clawback; Table7B p.866, column1. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5513",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) effect on Shelter Score moderated by Clawback; Table7B p.866, column2. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5514",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} effect on Shelter Score moderated by Clawback; Table7B p.866, column3. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5515",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets effect on Shelter Score moderated by Clawback; Table7B p.866, column4. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5516",
+    "before": null,
+    "after": "Ln(1 + DECEO) effect on Shelter Score moderated by Ind Board; Table8A p.868, column1. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5517",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) effect on Shelter Score moderated by Ind Board; Table8A p.868, column2. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5518",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} effect on Shelter Score moderated by Ind Board; Table8A p.868, column3. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5519",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets effect on Shelter Score moderated by Ind Board; Table8A p.868, column4. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5520",
+    "before": null,
+    "after": "Ln(1 + DECEO) effect on Shelter Score moderated by CEO Chair; Table8B p.868, column1. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5521",
+    "before": null,
+    "after": "Ln(1 + DECEO/Firm) effect on Shelter Score moderated by CEO Chair; Table8B p.868, column2. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5522",
+    "before": null,
+    "after": "1{DECEO/Firm > 1} effect on Shelter Score moderated by CEO Chair; Table8B p.868, column3. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5523",
+    "before": null,
+    "after": "Debt CompCEO/lagged total assets effect on Shelter Score moderated by CEO Chair; Table8B p.868, column4. Baseline and interaction parameters jointly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5524",
+    "before": null,
+    "after": "Clawback adoption main effect on Shelter Score in Table7B, columns1–4 pp.865–866: .052/.111/.064/.119; distinct from inside-debt moderation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5525",
+    "before": null,
+    "after": "One-year-lagged Ln(1 + DECEO/Firm) effect on current Shelter Score; section4.6.1 pp.867,869; all four measures for each executive explicitly significantly negative, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5526",
+    "before": null,
+    "after": "One-year-lagged 1{DECEO/Firm > 1} effect on current Shelter Score; section4.6.1 pp.867,869; all four measures for each executive explicitly significantly negative, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5527",
+    "before": null,
+    "after": "One-year-lagged Debt CompCEO/lagged total assets effect on current Shelter Score; section4.6.1 pp.867,869; all four measures for each executive explicitly significantly negative, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5528",
+    "before": null,
+    "after": "One-year-lagged Ln(1 + DECFO) effect on current Shelter Score; section4.6.1 pp.867,869; all four measures for each executive explicitly significantly negative, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5529",
+    "before": null,
+    "after": "One-year-lagged Ln(1 + DECFO/Firm) effect on current Shelter Score; section4.6.1 pp.867,869; all four measures for each executive explicitly significantly negative, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5530",
+    "before": null,
+    "after": "One-year-lagged 1{DECFO/Firm > 1} effect on current Shelter Score; section4.6.1 pp.867,869; all four measures for each executive explicitly significantly negative, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5531",
+    "before": null,
+    "after": "One-year-lagged Debt CompCFO/lagged total assets effect on current Shelter Score; section4.6.1 pp.867,869; all four measures for each executive explicitly significantly negative, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5532",
+    "before": null,
+    "after": "CEO pension benefits effect on Shelter Score, separate-component model; section4.6.2 p.869; negative effect explicitly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5533",
+    "before": null,
+    "after": "CEO pension benefits effect on Shelter Score, joint model containing both components; section4.6.2 p.869; negative effect explicitly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5534",
+    "before": null,
+    "after": "CEO deferred compensation effect on Shelter Score, separate-component model; section4.6.2 p.869; negative effect explicitly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5535",
+    "before": null,
+    "after": "CEO deferred compensation effect on Shelter Score, joint model containing both components; section4.6.2 p.869; negative effect explicitly reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1354",
+    "before": null,
+    "after": "Linear 2SLS in the reported constructed Shelter Score. Excluded instruments: executive age (nonbinary), Best Employer, Frozen and SayonPay Pass (three binary); mixed. Industry/year controls do not supersede IV. Upstream logistic prediction constructs the outcome; not the downstream effect estimator. No claim that these moments prove exclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1355",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1356",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1357",
+    "before": null,
+    "after": "Linear 2SLS in the reported constructed Shelter Score. Excluded instruments: executive age (nonbinary), Best Employer, Frozen and SayonPay Pass (three binary); mixed. Industry/year controls do not supersede IV. Upstream logistic prediction constructs the outcome; not the downstream effect estimator. No claim that these moments prove exclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1358",
+    "before": null,
+    "after": "Table5 and section4.4.2 pp.857,860-861 identify 3SLS with endogenous CEO and CFO debt, but omit first/second stages and full system/instrument allocation. Under the instructions linear-in-reported-outcome rule, conditional system IV is the conventional alternative; a genuinely outcome-adaptive feasible system would be Other. Estimated covariance alone does not establish nonlinearity of these focal coefficients: common-instrument or single-equation reductions can cancel weighting. The source does not settle that implementation/domain, so method and instrument type are unknown rather than asserting Other or textbook IV. No invented instruments; all eight partial effects including CFO column3/4 nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1359",
+    "before": null,
+    "after": "Explicit OLS reestimation of equation3; timing argument supports causal intention despite persistent omitted-variable risk. Industry/year dummy controls do not establish identifying FE. No invented coefficients or outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1360",
+    "before": null,
+    "after": "Natural-shock causal interpretation retained. Source does not state the actual estimator or establish a treated-minus-control change contrast rather than post-period comparison. Conventional DiD is plausible but not verified; no equation/coefficient supplied. Method/IV type unknown; implemented binary freeze contrast retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1361",
+    "before": null,
+    "after": "Section4.6.3 explicitly states 2SLS and both outcome directions, but unlike section4.6.1 does not state all four debt measures were used. Retain one minimum CEO-debt scope with unknown treatment support; hold the four-coding grid rather than manufacture three additional settings and six outcomes. Mixed instruments follows reestimation of the established CEO 2SLS model (age, Best Employer, Frozen, SayonPay Pass), not an independently displayed new first stage. Footnote21 points to AppendixB, which does not define these two outcomes; exact construction remains unreported. These outcomes are not the logistic Shelter Score. No numeric coefficients or benchmarks supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5478",
+    "before": null,
+    "after": "Linear 2SLS in the reported constructed Shelter Score. Excluded instruments: executive age (nonbinary), Best Employer, Frozen and SayonPay Pass (three binary); mixed. Industry/year controls do not supersede IV. Upstream logistic prediction constructs the outcome; not the downstream effect estimator. No claim that these moments prove exclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5479",
+    "before": null,
+    "after": "Linear 2SLS in the reported constructed Shelter Score. Excluded instruments: executive age (nonbinary), Best Employer, Frozen and SayonPay Pass (three binary); mixed. Industry/year controls do not supersede IV. Upstream logistic prediction constructs the outcome; not the downstream effect estimator. No claim that these moments prove exclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5480",
+    "before": null,
+    "after": "Linear 2SLS in the reported constructed Shelter Score. Excluded instruments: executive age (nonbinary), Best Employer, Frozen and SayonPay Pass (three binary); mixed. Industry/year controls do not supersede IV. Upstream logistic prediction constructs the outcome; not the downstream effect estimator. No claim that these moments prove exclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5481",
+    "before": null,
+    "after": "Linear 2SLS in the reported constructed Shelter Score. Excluded instruments: executive age (nonbinary), Best Employer, Frozen and SayonPay Pass (three binary); mixed. Industry/year controls do not supersede IV. Upstream logistic prediction constructs the outcome; not the downstream effect estimator. No claim that these moments prove exclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5482",
+    "before": null,
+    "after": "Linear 2SLS in the reported constructed Shelter Score. Excluded instruments: executive age (nonbinary), Best Employer, Frozen and SayonPay Pass (three binary); mixed. Industry/year controls do not supersede IV. Upstream logistic prediction constructs the outcome; not the downstream effect estimator. No claim that these moments prove exclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5483",
+    "before": null,
+    "after": "Linear 2SLS in the reported constructed Shelter Score. Excluded instruments: executive age (nonbinary), Best Employer, Frozen and SayonPay Pass (three binary); mixed. Industry/year controls do not supersede IV. Upstream logistic prediction constructs the outcome; not the downstream effect estimator. No claim that these moments prove exclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5484",
+    "before": null,
+    "after": "Joint estimator IV; Vega is an included exogenous regressor, NOT instrumented by the four excluded instruments for inside debt. Instrument category describes the equation, not a Vega first stage. Parameter-specific OLS/unknown taxonomy alternative requires adjudication. Nonbinary included regressor; no additional model is invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5485",
+    "before": null,
+    "after": "Linear 2SLS in the reported constructed Shelter Score. Excluded instruments: executive age (nonbinary), Best Employer, Frozen and SayonPay Pass (three binary); mixed. Industry/year controls do not supersede IV. Upstream logistic prediction constructs the outcome; not the downstream effect estimator. No claim that these moments prove exclusion. Separate displayed subgroup location; no new full-sample duplicate. Treatment is continuous within subgroups, not the splitting indicator. Economic significance is coefficient times treatment SD, not outcome normalization."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5486",
+    "before": null,
+    "after": "Included exogenous risk-incentive slope inside joint IV equation. Explicit comparison of causal incentive impacts passes author-intention gate. No claimed excluded instrument for Vega itself; mixed describes inside-debt first stage. Subgroup controls are not separate treatments."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5487",
+    "before": null,
+    "after": "Table5 and section4.4.2 pp.857,860-861 identify 3SLS with endogenous CEO and CFO debt, but omit first/second stages and full system/instrument allocation. Under the instructions linear-in-reported-outcome rule, conditional system IV is the conventional alternative; a genuinely outcome-adaptive feasible system would be Other. Estimated covariance alone does not establish nonlinearity of these focal coefficients: common-instrument or single-equation reductions can cancel weighting. The source does not settle that implementation/domain, so method and instrument type are unknown rather than asserting Other or textbook IV. No invented instruments; all eight partial effects including CFO column3/4 nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5488",
+    "before": null,
+    "after": "Table5 and section4.4.2 pp.857,860-861 identify 3SLS with endogenous CEO and CFO debt, but omit first/second stages and full system/instrument allocation. Under the instructions linear-in-reported-outcome rule, conditional system IV is the conventional alternative; a genuinely outcome-adaptive feasible system would be Other. Estimated covariance alone does not establish nonlinearity of these focal coefficients: common-instrument or single-equation reductions can cancel weighting. The source does not settle that implementation/domain, so method and instrument type are unknown rather than asserting Other or textbook IV. No invented instruments; all eight partial effects including CFO column3/4 nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5489",
+    "before": null,
+    "after": "Table5 and section4.4.2 pp.857,860-861 identify 3SLS with endogenous CEO and CFO debt, but omit first/second stages and full system/instrument allocation. Under the instructions linear-in-reported-outcome rule, conditional system IV is the conventional alternative; a genuinely outcome-adaptive feasible system would be Other. Estimated covariance alone does not establish nonlinearity of these focal coefficients: common-instrument or single-equation reductions can cancel weighting. The source does not settle that implementation/domain, so method and instrument type are unknown rather than asserting Other or textbook IV. No invented instruments; all eight partial effects including CFO column3/4 nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5490",
+    "before": null,
+    "after": "Table5 and section4.4.2 pp.857,860-861 identify 3SLS with endogenous CEO and CFO debt, but omit first/second stages and full system/instrument allocation. Under the instructions linear-in-reported-outcome rule, conditional system IV is the conventional alternative; a genuinely outcome-adaptive feasible system would be Other. Estimated covariance alone does not establish nonlinearity of these focal coefficients: common-instrument or single-equation reductions can cancel weighting. The source does not settle that implementation/domain, so method and instrument type are unknown rather than asserting Other or textbook IV. No invented instruments; all eight partial effects including CFO column3/4 nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5491",
+    "before": null,
+    "after": "Table5 and section4.4.2 pp.857,860-861 identify 3SLS with endogenous CEO and CFO debt, but omit first/second stages and full system/instrument allocation. Under the instructions linear-in-reported-outcome rule, conditional system IV is the conventional alternative; a genuinely outcome-adaptive feasible system would be Other. Estimated covariance alone does not establish nonlinearity of these focal coefficients: common-instrument or single-equation reductions can cancel weighting. The source does not settle that implementation/domain, so method and instrument type are unknown rather than asserting Other or textbook IV. No invented instruments; all eight partial effects including CFO column3/4 nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5492",
+    "before": null,
+    "after": "Table5 and section4.4.2 pp.857,860-861 identify 3SLS with endogenous CEO and CFO debt, but omit first/second stages and full system/instrument allocation. Under the instructions linear-in-reported-outcome rule, conditional system IV is the conventional alternative; a genuinely outcome-adaptive feasible system would be Other. Estimated covariance alone does not establish nonlinearity of these focal coefficients: common-instrument or single-equation reductions can cancel weighting. The source does not settle that implementation/domain, so method and instrument type are unknown rather than asserting Other or textbook IV. No invented instruments; all eight partial effects including CFO column3/4 nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5493",
+    "before": null,
+    "after": "Table5 and section4.4.2 pp.857,860-861 identify 3SLS with endogenous CEO and CFO debt, but omit first/second stages and full system/instrument allocation. Under the instructions linear-in-reported-outcome rule, conditional system IV is the conventional alternative; a genuinely outcome-adaptive feasible system would be Other. Estimated covariance alone does not establish nonlinearity of these focal coefficients: common-instrument or single-equation reductions can cancel weighting. The source does not settle that implementation/domain, so method and instrument type are unknown rather than asserting Other or textbook IV. No invented instruments; all eight partial effects including CFO column3/4 nulls retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5494",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5495",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5496",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5497",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. AppendixB also includes actual bankruptcy/liquidation DLRSN02/03, whereas prose abbreviates as Z-score<1.8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5498",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. AppendixB also includes actual bankruptcy/liquidation DLRSN02/03, whereas prose abbreviates as Z-score<1.8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5499",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. AppendixB also includes actual bankruptcy/liquidation DLRSN02/03, whereas prose abbreviates as Z-score<1.8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5500",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. AppendixB also includes actual bankruptcy/liquidation DLRSN02/03, whereas prose abbreviates as Z-score<1.8."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5501",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5502",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5503",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5504",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5505",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. p.864 defines IRS fines AND underfunded pension; AppendixB p.873 instead permits negative operating cash flow OR underfunding. Preserve conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5506",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. p.864 defines IRS fines AND underfunded pension; AppendixB p.873 instead permits negative operating cash flow OR underfunding. Preserve conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5507",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. p.864 defines IRS fines AND underfunded pension; AppendixB p.873 instead permits negative operating cash flow OR underfunding. Preserve conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5508",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. p.864 defines IRS fines AND underfunded pension; AppendixB p.873 instead permits negative operating cash flow OR underfunding. Preserve conflict."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5509",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5510",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5511",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5512",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5513",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5514",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5515",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5516",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. Section4.5.3/Table8A describe percentage of independent directors; AppendixB p.873 defines indicator above50%. Moderator support unresolved, but does not change focal debt treatment coding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5517",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. Section4.5.3/Table8A describe percentage of independent directors; AppendixB p.873 defines indicator above50%. Moderator support unresolved, but does not change focal debt treatment coding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5518",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. Section4.5.3/Table8A describe percentage of independent directors; AppendixB p.873 defines indicator above50%. Moderator support unresolved, but does not change focal debt treatment coding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5519",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect. Section4.5.3/Table8A describe percentage of independent directors; AppendixB p.873 defines indicator above50%. Moderator support unresolved, but does not change focal debt treatment coding."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5520",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5521",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5522",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5523",
+    "before": null,
+    "after": "Sections4.5.1–4.5.3 describe predicting inside debt in first stage, then interacting the fitted value with the moderator in second stage. Linear in reported Shelter Score conditional on generated regressors. Exact excluded interaction instruments/projection compatibility are not reported; conventional joint 2SLS implementation is not certified. Method/IV type unknown, with author-labelled IV/mixed a broad-convention alternative; not Other merely for uncertainty. Industry and year controls are not an identifying-FE split. Retain baseline and differential including nulls; differential is not total high-group effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5524",
+    "before": null,
+    "after": "p.865 explicitly interprets positive main effect as clawbacks not deterring tax sheltering and consistent with substitution away from earnings management. Included exogenous binary regressor in author-described two-stage interacted-debt model, not separately randomized or separately instrumented; exact joint projection unresolved as in surrounding Table7B. Broad gate includes this substantive null of deterrence; narrower association-only gate is an audit alternative."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5525",
+    "before": null,
+    "after": "Explicit OLS reestimation of equation3; timing argument supports causal intention despite persistent omitted-variable risk. Industry/year dummy controls do not establish identifying FE. No invented coefficients or outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5526",
+    "before": null,
+    "after": "Explicit OLS reestimation of equation3; timing argument supports causal intention despite persistent omitted-variable risk. Industry/year dummy controls do not establish identifying FE. No invented coefficients or outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5527",
+    "before": null,
+    "after": "Explicit OLS reestimation of equation3; timing argument supports causal intention despite persistent omitted-variable risk. Industry/year dummy controls do not establish identifying FE. No invented coefficients or outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5528",
+    "before": null,
+    "after": "Explicit OLS reestimation of equation3; timing argument supports causal intention despite persistent omitted-variable risk. Industry/year dummy controls do not establish identifying FE. No invented coefficients or outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5529",
+    "before": null,
+    "after": "Explicit OLS reestimation of equation3; timing argument supports causal intention despite persistent omitted-variable risk. Industry/year dummy controls do not establish identifying FE. No invented coefficients or outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5530",
+    "before": null,
+    "after": "Explicit OLS reestimation of equation3; timing argument supports causal intention despite persistent omitted-variable risk. Industry/year dummy controls do not establish identifying FE. No invented coefficients or outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5531",
+    "before": null,
+    "after": "Explicit OLS reestimation of equation3; timing argument supports causal intention despite persistent omitted-variable risk. Industry/year dummy controls do not establish identifying FE. No invented coefficients or outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5532",
+    "before": null,
+    "after": "Minimum established distinct component/estimand scope. Authors say reestimate our model without specifying component scaling/support, instruments or whether joint model uses 2SLS/3SLS. Do not infer full four-coding grid or certify binary/continuous treatment from component name. Both-component coefficient equality test is not an outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5533",
+    "before": null,
+    "after": "Minimum established distinct component/estimand scope. Authors say reestimate our model without specifying component scaling/support, instruments or whether joint model uses 2SLS/3SLS. Do not infer full four-coding grid or certify binary/continuous treatment from component name. Both-component coefficient equality test is not an outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5534",
+    "before": null,
+    "after": "Minimum established distinct component/estimand scope. Authors say reestimate our model without specifying component scaling/support, instruments or whether joint model uses 2SLS/3SLS. Do not infer full four-coding grid or certify binary/continuous treatment from component name. Both-component coefficient equality test is not an outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5535",
+    "before": null,
+    "after": "Minimum established distinct component/estimand scope. Authors say reestimate our model without specifying component scaling/support, instruments or whether joint model uses 2SLS/3SLS. Do not infer full four-coding grid or certify binary/continuous treatment from component name. Both-component coefficient equality test is not an outcome benchmark."
+  }
+]
+```
