@@ -1728966,3 +1728966,150 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T07:34:06.837477+00:00 — Review 32LFUFMV: one-paper adjudicated source-scoped coding
+
+23 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "H3466",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3467",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3466",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3467",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3466",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3467",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3468",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3469",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3466",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s1 is a forecast validation / return-predictability analysis, not an author-interpreted causal setting. Original measured outcome preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3467",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s2 is a forecast validation / return-predictability analysis, not an author-interpreted causal setting. Original measured outcome preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3468",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is a forecast validation / return-predictability analysis, not an author-interpreted causal setting. Original measured outcome preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3469",
+    "before": null,
+    "after": "spurious as a causal outcome: parent s3 is a forecast validation / return-predictability analysis, not an author-interpreted causal setting. Original measured outcome preserved."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E159",
+    "before": null,
+    "after": "DONE — full available-source review and independent audit accepted. All three original settings rejected and four original outcomes inactive; no additions or comparisons. Eq.4/Table 9 EAC and MAD interactions validate forecast accuracy. Table 10 implemented cross-rule portfolio/payoff contrasts were considered, but author interpretation remains forecast accuracy/usefulness validation, not an attributed policy-intervention effect. Exclusion is not based merely on simulation, weak identification or changed holdings; the broader policy-backtest inclusion alternative remains material. Table 8 predictors, algorithm tuning and robustness follow the same prediction gate. Source conflicts and conditional FF5 minimum scope preserved; reopening the portfolio gate requires a new outcome/comparison audit, not a fabricated causal grid. Original model fields and IDs preserved. No external supplement verified or empirical replication performed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1369",
+    "before": null,
+    "after": "Excluded: Section VIII EAC tests, Eq. (4), Table 9A, pp. 132-135 assess contemporaneous earnings-return association as a forecast-accuracy/usefulness criterion, not a causal effect of unexpected earnings or adoption of k-NN. Firm/year-by-ALT controls do not establish causal intent. See abstract and p. 135 interpretation: larger EAC implies forecasts are more accurate."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1370",
+    "before": null,
+    "after": "Excluded: Table 9B and p. 135 assess MAD as an ex ante predictor of forecast accuracy through EAC heterogeneity. The authors interpret high/low EAC as high/low expected accuracy, not an intervention on MAD or causal change in market returns. Interaction and fixed effects alone do not make this causal."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1371",
+    "before": null,
+    "after": "Excluded: Table 10A/B, pp. 135-136 evaluates forecast usefulness through equal-weighted UP-minus-DOWN returns, MAD sorts and alternate-forecast portfolio differences. The implemented strategy and cross-rule contrasts are acknowledged, not dismissed because they are backtests or weakly identified. The parameter-specific interpretation is that MAD predicts forecast accuracy and usefulness (p. 136), not a causal effect of portfolio assignment, MAD, or adoption of a forecasting rule. A causal portfolio-policy interpretation is possible under an additional convention but is not asserted here by the authors. This decision does not require fixed portfolio holdings or a quasi-experiment."
+  }
+]
+```
