@@ -1744020,3 +1744020,3900 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T13:05:06.844266+00:00 — Review 3WC4PJQZ: one-paper adjudicated source-scoped coding
+
+648 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "K980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R980",
+    "before": null,
+    "after": "PDF p.11/Table 4 A[6]: 1% MVE is a treatment increment; 3.37% is the reported probability change, not a ratio to an outcome mean. No same-outcome benchmark; not other_level."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R981",
+    "before": null,
+    "after": "PDF pp.20-22/Table 8 B: approximately 10% MVE and sales percentiles 5.2%,16.5% are treatment levels. Warning coefficient versus interaction is not comparison with a stated untreated SUED outcome level. Reject; retain table/prose sign inconsistency in setting Notes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13118",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13119",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13120",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13121",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13122",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13123",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13124",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13125",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13126",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13127",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13128",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13129",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13130",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13131",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13132",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13133",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13134",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13135",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13136",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13137",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13138",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13139",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13140",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13141",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13142",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13143",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13144",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13145",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13146",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13147",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13148",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13149",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13150",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13151",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13152",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13153",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13154",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13155",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13156",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13157",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13158",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13159",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13160",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13161",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13162",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13163",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13164",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13165",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13118",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13119",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13120",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13121",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13122",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13123",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13124",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13125",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13126",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13127",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13128",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13129",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13130",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13131",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13132",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13133",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13134",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13135",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13136",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13137",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13138",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13139",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13140",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13141",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13142",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13143",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13144",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13145",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13146",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13147",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13148",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13149",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13150",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13151",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13152",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13153",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13154",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13155",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13156",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13157",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13158",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13159",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13160",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13161",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13162",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13163",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13164",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13165",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13118",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13119",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13120",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13121",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13122",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13123",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13124",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13125",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13126",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13127",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13128",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13129",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13130",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13131",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13132",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13133",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13134",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13135",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13136",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13137",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13138",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13139",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13140",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13141",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13142",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13143",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13144",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13145",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13146",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13147",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13148",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13149",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13150",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13151",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13152",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13153",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13154",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13155",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13156",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13157",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13158",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13159",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13160",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13161",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13162",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13163",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13164",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13165",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13162",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3523",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13157",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13158",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13162",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13165",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3523",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3524",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3526",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13157",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13158",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13162",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13165",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3523",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3524",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3526",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13118",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 4 A, PDF pp.11-12. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13119",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 4 A, PDF pp.11-12. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13120",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 4 A, PDF pp.11-12. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13121",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 4 A, PDF pp.11-12. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13122",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 4 B, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13123",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 4 B, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13124",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 4 B, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13125",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 4 B, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13126",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13127",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13128",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13129",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13130",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13131",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13132",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13133",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13134",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13135",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 4 C, PDF pp.13-14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13136",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 5 A, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13137",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 5 A, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13138",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 5 A, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13139",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 5 A, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13140",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 5 A, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13141",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 5 A, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13142",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 5 A, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13143",
+    "before": null,
+    "after": "N_FORECAST indicator; Table 5 A, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13144",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 5 B, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13145",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 5 B, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13146",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 5 B, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13147",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 5 B, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13148",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 5 B, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13149",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 5 B, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13150",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 5 B, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13151",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 5 B, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13152",
+    "before": null,
+    "after": "P_FORECAST indicator; Table 5 B, PDF pp.14-16. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13153",
+    "before": null,
+    "after": "N_FORECAST indicator; Section 5.1 footnote 18, PDF p.11. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13154",
+    "before": null,
+    "after": "N_FORECAST indicator; Section 5.1 footnote 18, PDF p.11. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13155",
+    "before": null,
+    "after": "C_FORECAST indicator; Section 5.1 footnote 19, PDF p.14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13156",
+    "before": null,
+    "after": "C_FORECAST indicator; Section 5.1 footnote 19, PDF p.14. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13157",
+    "before": null,
+    "after": "WARN indicator; Table 7 [1], equation (2), PDF pp.17-19. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13158",
+    "before": null,
+    "after": "SUED indicator; Table 8 A [1]-[6], PDF pp.19-21. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13159",
+    "before": null,
+    "after": "SUED indicator; Table 8 A [4], PDF pp.20-21. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13160",
+    "before": null,
+    "after": "SUED indicator; Table 8 A [4], PDF pp.20-21. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13161",
+    "before": null,
+    "after": "SUED indicator; Table 8 A [5], PDF pp.20-21. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13162",
+    "before": null,
+    "after": "SUED indicator; Table 8 A [6], PDF pp.20-21. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13163",
+    "before": null,
+    "after": "SUED indicator; Table 8 B, PDF pp.20-22. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13164",
+    "before": null,
+    "after": "SUED indicator; Section 6.3 untabulated added initial stage, PDF p.20. Definition: Appendix A (forecast news relative to prevailing consensus) or Appendix B (SUED=earnings-related litigation)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13165",
+    "before": null,
+    "after": "SUED indicator for earnings-related lawsuit in the lawsuit/control sample, untransformed; Section 6.3 added initial-stage robustness (PDF p.20), equation (7), Appendix B. Both SUED=0 control firms and SUED=1 lawsuit firms documented in Table 6; no sample restriction stated for this robustness."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3523",
+    "before": null,
+    "after": "Spurious within narrowed s3: P_FORECAST belongs to the separately added Table 5 Panel B opportunistic GREEN_SALES setting; original model record retained."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E163",
+    "before": null,
+    "after": "DONE — full available final-source review (24 pages) and focused independent consequential-gate audit accepted by parent. All 49 settings retained/Other, six binary; 55 physical outcomes, 54 active; two comparisons rejected and no qualifying same-outcome benchmarks. Distinct h43 binary silence contrast retained within the joint unexpected-sales procedure, h42 generated-sales dose retained for final SUED only; intermediate Eq.(6) is not a separately endorsed substantive outcome. Table 7[1] preemption endorsed; [2] parameter expressly diagnostic and excluded by source intent, not weak identification. Table 8B negative interaction -57.742 and marginal effect -10.829 preserved alongside conflicting 10%-MVE narrative; no threshold repair. Footnotes 18/19 supported minimum allocations retained, unseen windows and other unsupported grids held; original model fields/IDs and inactive s3/y2 preserved. All settings received a benchmark sweep. Bounded official/version searches found no verified distinct supplement; no draft substitution, empirical replication, exhaustive-search or omission-free claim. Full critical conflicts, held allocations and source limitations remain in the pinned independent audit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5638",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5639",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5640",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5641",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5642",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5643",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5644",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5645",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5646",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5647",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5648",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5649",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5650",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5651",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5652",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5653",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5654",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5655",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5656",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5657",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5658",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5659",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5660",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5661",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5662",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5663",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5664",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5665",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5666",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5667",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5668",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5669",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5670",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5671",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5672",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5673",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5674",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5675",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5676",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5677",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5678",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5679",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5680",
+    "before": null,
+    "after": "3WC4PJQZ"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5638",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5639",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5640",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5641",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5642",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5643",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5644",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5645",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5646",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5647",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5648",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5649",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5650",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5651",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5652",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5653",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5654",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5655",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5656",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5657",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5658",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5659",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5660",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5661",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5662",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5663",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5664",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5665",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5666",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5667",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5668",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5669",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5670",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5671",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5672",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5673",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5674",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5675",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5676",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5677",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5678",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5679",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5680",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1390",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5639",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5640",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5643",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5644",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5646",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5647",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5648",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5649",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5650",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5652",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5653",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5654",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5655",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5656",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5657",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5658",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5659",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5661",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5662",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5663",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5664",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5665",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5666",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5668",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5669",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5670",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5671",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5675",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1389",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1390",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1391",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1392",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1393",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1394",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5638",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5639",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5640",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5641",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5642",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5643",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5644",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5645",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5646",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5647",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5648",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5649",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5650",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5651",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5652",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5653",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5654",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5655",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5656",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5657",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5658",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5659",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5660",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5661",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5662",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5663",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5664",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5665",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5666",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5667",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5668",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5669",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5670",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5671",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5672",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5673",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5674",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5675",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5676",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5677",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5678",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5679",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5680",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1389",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1390",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1391",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1393",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5638",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5639",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5640",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5641",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5642",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5645",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5648",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5649",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5650",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5651",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5652",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5653",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5654",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5655",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5656",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5657",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5658",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5659",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5660",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5662",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5663",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5664",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5665",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5666",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5667",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5668",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5671",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5672",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5674",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5675",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5677",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5678",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5679",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5680",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1389",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1390",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1391",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1392",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1393",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1394",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5638",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5639",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5640",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5641",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5642",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5643",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5645",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5648",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5649",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5650",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5651",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5652",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5653",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5654",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5655",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5656",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5657",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5658",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5659",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5661",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5662",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5663",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5664",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5665",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5666",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5667",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5668",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5669",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5670",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5671",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5672",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5673",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5674",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5675",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5676",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5677",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5679",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1389",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1390",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1391",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1392",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1393",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1394",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5638",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5639",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5640",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5641",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5642",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5643",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5644",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5645",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5646",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5647",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5648",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5649",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5650",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5651",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5652",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5653",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5654",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5655",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5656",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5657",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5658",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5659",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5660",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5661",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5662",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5663",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5664",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5665",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5666",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5667",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5668",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5669",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5670",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5671",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5672",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5673",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5674",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5675",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5676",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5677",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5678",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5679",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5680",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1389",
+    "before": null,
+    "after": "GREEN_SALES intensity (including CEO/CFO sample variant) -> N_FORECAST. Table 4 A, PDF pp.11-12. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1390",
+    "before": null,
+    "after": "GREEN_SALES intensity (including CEO/CFO sample variant) -> P_FORECAST. Table 4 B, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1391",
+    "before": null,
+    "after": "Opportunistic GREEN_SALES intensity -> N_FORECAST. Table 5 A, PDF pp.14-15. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1392",
+    "before": null,
+    "after": "WARN versus no warning, predicted-value deterrence effect -> SUED. Table 7 [4],[6], equations (4)-(5), PDF pp.18-19. Nonlinear predicted-value simultaneous-equations litigation framework; not linear 2SLS. Observed disclosure treatment is binary even though fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1393",
+    "before": null,
+    "after": "Class-period total SALES dose and its interaction with SILENCE; CEO/CFO variant -> SUED. Table 8 A [2],[3],[6], PDF pp.19-21. Nonlinear predicted-value simultaneous-equations litigation framework; not linear 2SLS. Observed disclosure treatment is binary even though fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1394",
+    "before": null,
+    "after": "WARN versus no warning conditional on sales -> SUED. Table 8 B, PDF pp.20-22. Nonlinear predicted-value simultaneous-equations litigation framework; not linear 2SLS. Observed disclosure treatment is binary even though fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5638",
+    "before": null,
+    "after": "LAG_GREEN_SALES continuous intensity/probability -> N_FORECAST. Table 4 A, PDF pp.11-12. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5639",
+    "before": null,
+    "after": "LAG_YELLOW_SALES continuous intensity/probability -> N_FORECAST. Table 4 A, PDF pp.11-12. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5640",
+    "before": null,
+    "after": "LAG_RED_SALES continuous intensity/probability -> N_FORECAST. Table 4 A, PDF pp.11-12. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5641",
+    "before": null,
+    "after": "LITIGATION_RISK continuous intensity/probability -> N_FORECAST. Table 4 A, PDF pp.11-12. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5642",
+    "before": null,
+    "after": "LAG_GREEN_SALES continuous intensity/probability -> P_FORECAST. Table 4 B, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5643",
+    "before": null,
+    "after": "LAG_YELLOW_SALES continuous intensity/probability -> P_FORECAST. Table 4 B, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5644",
+    "before": null,
+    "after": "LAG_RED_SALES continuous intensity/probability -> P_FORECAST. Table 4 B, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5645",
+    "before": null,
+    "after": "LITIGATION_RISK continuous intensity/probability -> P_FORECAST. Table 4 B, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5646",
+    "before": null,
+    "after": "GREEN_SALES continuous intensity/probability -> N_FORECAST, P_FORECAST. Table 4 C, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5647",
+    "before": null,
+    "after": "LAG_GREEN_SALES continuous intensity/probability -> N_FORECAST, P_FORECAST. Table 4 C, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5648",
+    "before": null,
+    "after": "LAG_YELLOW_SALES continuous intensity/probability -> N_FORECAST, P_FORECAST. Table 4 C, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5649",
+    "before": null,
+    "after": "LAG_RED_SALES continuous intensity/probability -> N_FORECAST, P_FORECAST. Table 4 C, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5650",
+    "before": null,
+    "after": "LITIGATION_RISK continuous intensity/probability -> N_FORECAST, P_FORECAST. Table 4 C, PDF pp.13-14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5651",
+    "before": null,
+    "after": "Opportunistic LAG_GREEN_SALES intensity -> N_FORECAST. Table 5 A, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5652",
+    "before": null,
+    "after": "Opportunistic LAG_YELLOW_SALES intensity -> N_FORECAST. Table 5 A, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5653",
+    "before": null,
+    "after": "Opportunistic LAG_RED_SALES intensity -> N_FORECAST. Table 5 A, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5654",
+    "before": null,
+    "after": "Routine GREEN_SALES intensity -> N_FORECAST. Table 5 A, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5655",
+    "before": null,
+    "after": "Routine LAG_GREEN_SALES intensity -> N_FORECAST. Table 5 A, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5656",
+    "before": null,
+    "after": "Routine LAG_YELLOW_SALES intensity -> N_FORECAST. Table 5 A, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5657",
+    "before": null,
+    "after": "Routine LAG_RED_SALES intensity -> N_FORECAST. Table 5 A, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5658",
+    "before": null,
+    "after": "LITIGATION_RISK predicted ex ante probability -> N_FORECAST. Table 5 A, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5659",
+    "before": null,
+    "after": "Opportunistic GREEN_SALES intensity -> P_FORECAST. Table 5 B, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5660",
+    "before": null,
+    "after": "Opportunistic LAG_GREEN_SALES intensity -> P_FORECAST. Table 5 B, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5661",
+    "before": null,
+    "after": "Opportunistic LAG_YELLOW_SALES intensity -> P_FORECAST. Table 5 B, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5662",
+    "before": null,
+    "after": "Opportunistic LAG_RED_SALES intensity -> P_FORECAST. Table 5 B, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5663",
+    "before": null,
+    "after": "Routine GREEN_SALES intensity -> P_FORECAST. Table 5 B, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5664",
+    "before": null,
+    "after": "Routine LAG_GREEN_SALES intensity -> P_FORECAST. Table 5 B, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5665",
+    "before": null,
+    "after": "Routine LAG_YELLOW_SALES intensity -> P_FORECAST. Table 5 B, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5666",
+    "before": null,
+    "after": "Routine LAG_RED_SALES intensity -> P_FORECAST. Table 5 B, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5667",
+    "before": null,
+    "after": "LITIGATION_RISK predicted ex ante probability -> P_FORECAST. Table 5 B, PDF pp.14-16. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5668",
+    "before": null,
+    "after": "contemporaneous YELLOW_SALES intensity -> N_FORECAST. Section 5.1 footnote 18, PDF p.11. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5669",
+    "before": null,
+    "after": "contemporaneous RED_SALES intensity -> N_FORECAST. Section 5.1 footnote 18, PDF p.11. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5670",
+    "before": null,
+    "after": "Insider selling intensity -> C_FORECAST (confirming current earnings expectations). Section 5.1 footnote 19, PDF p.14/printed p.132. Untabulated logistic disclosure analysis reports no significant relation. Exact selling-window breakdown is unreported; retain one supported selling-treatment scope without asserting every window was separately reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5671",
+    "before": null,
+    "after": "LITIGATION_RISK ex ante probability -> C_FORECAST. Section 5.1 footnote 19, PDF p.14. Logistic disclosure regression; industry/time controls do not override nonlinear Other classification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5672",
+    "before": null,
+    "after": "SUED versus non-sued firms (realized litigation as proxy for litigation risk) -> WARN. Table 7 [1], equation (2), PDF pp.17-19. Logistic single-stage preemption regression; not a predicted-value treatment estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5673",
+    "before": null,
+    "after": "SILENCE versus WARN conditional on trading -> SUED. Table 8 A [1]-[6], PDF pp.19-21. Nonlinear predicted-value simultaneous-equations litigation framework; not linear 2SLS. Observed disclosure treatment is binary even though fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5674",
+    "before": null,
+    "after": "Opportunistic SALES_OPP dose and interaction with SILENCE -> SUED. Table 8 A [4], PDF pp.20-21. Nonlinear predicted-value simultaneous-equations litigation framework; not linear 2SLS. Observed disclosure treatment is binary even though fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5675",
+    "before": null,
+    "after": "Routine SALES_ROU dose and interaction with SILENCE -> SUED. Table 8 A [4], PDF pp.20-21. Nonlinear predicted-value simultaneous-equations litigation framework; not linear 2SLS. Observed disclosure treatment is binary even though fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5676",
+    "before": null,
+    "after": "Abnormal SALES_AB dose and interaction with SILENCE -> SUED. Table 8 A [5], PDF pp.20-21. Nonlinear predicted-value simultaneous-equations litigation framework; not linear 2SLS. Observed disclosure treatment is binary even though fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5677",
+    "before": null,
+    "after": "GOOD versus no good-news forecast conditional on SILENCE -> SUED. Table 8 A [6], PDF pp.20-21. Nonlinear predicted-value simultaneous-equations litigation framework; not linear 2SLS. Observed disclosure treatment is binary even though fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5678",
+    "before": null,
+    "after": "Class-period SALES dose conditional on WARN -> SUED. Table 8 B, PDF pp.20-22. Nonlinear predicted-value simultaneous-equations litigation framework; not linear 2SLS. Observed disclosure treatment is binary even though fitted probabilities are continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5679",
+    "before": null,
+    "after": "Unexpected insider-sales dose, including its interaction with predicted SILENCE, affects SUED in the untabulated joint trading/disclosure/litigation procedure. Section 6.3, PDF p.20 (printed p.138), added initial stage following Cheng and Lo (2006); generated unexpected sales enters equations (6) and (7). Nonlinear final litigation equation: Other. Exact initial-stage estimator, residual units and numerical effects are not supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5680",
+    "before": null,
+    "after": "SILENCE (no warning) versus warning conditional on generated unexpected insider sales -> SUED. Section 6.3 untabulated joint trading/disclosure/litigation robustness, PDF p.20/printed p.138: added initial stage following Cheng and Lo (2006), unexpected sales used in equations (6) and (7), with all results stated robust. Nonlinear predicted-value litigation equation (Other); underlying disclosure contrast binary, fitted probability continuous."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1389",
+    "before": null,
+    "after": "Author-intended effect, not a claim that observational identification is valid. No qualifying same-outcome benchmark found at this result location or its linked prose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1390",
+    "before": null,
+    "after": "Author-intended effect, not a claim that observational identification is valid. No qualifying same-outcome benchmark found at this result location or its linked prose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1391",
+    "before": null,
+    "after": "Narrowed to Panel A opportunistic current green-window sales. Distinct treatment windows, routine sales, litigation risk and Panel B allocated separately. Original y2 moved substantively to new Panel B setting; original model fields retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1392",
+    "before": null,
+    "after": "Retain two-stage deterrence effect only. Exclude diagnostic first stages [3],[5]. Single-stage preemption [1] separately included; [2] held diagnostic-only because adverse causal interpretation explicitly attributed to endogeneity. Non-dismissed sample variant grouped. Nonlinear likelihood, not IV code."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1393",
+    "before": null,
+    "after": "Nonbinary sales-dose effect conditional on silence; retain main dose and interaction as one conditional response. Distinct disclosure contrast, opportunistic/routine/abnormal measures and GOOD contrasts allocated separately. Model mixed/unknown label replaced by nonbinary implemented sales dose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1394",
+    "before": null,
+    "after": "Visual source check: WARN coefficient -2.552, marginal effect -0.479; SALES 58.705, 11.010; SALES x WARN -57.742, -10.829 (model reverses interaction sign). Authors nevertheless describe a roughly 10%-MVE offset threshold. Preserve source inconsistency, do not repair or infer a grid. Binary warning contrast at differing sales levels; continuous sales effect separately recorded."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5638",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5639",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5640",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5641",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5642",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5643",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5644",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5645",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5646",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5647",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5648",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5649",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5650",
+    "before": null,
+    "after": "Include null/reversal window contrast symmetrically with green-window hypothesis; not a routine control. H2 gives litigation risk independent substantive status. Same-location sample and CEO/CFO variants grouped. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5651",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5652",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5653",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5654",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5655",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5656",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5657",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5658",
+    "before": null,
+    "after": "Author-intended effect, not a claim that observational identification is valid. No qualifying same-outcome benchmark found at this result location or its linked prose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5659",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5660",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5661",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5662",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5663",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5664",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5665",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5666",
+    "before": null,
+    "after": "Routine and non-green null contrasts implement the same substantive trading mechanism test and are retained symmetrically; no outcome benchmark. Table 5 caption references Table 3 controls in error; actual controls named below table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5667",
+    "before": null,
+    "after": "Author-intended effect, not a claim that observational identification is valid. No qualifying same-outcome benchmark found at this result location or its linked prose."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5668",
+    "before": null,
+    "after": "Untabulated implemented additional-window regressions: no RED relation, limited YELLOW relation (2 of 6 specifications at 0.10); retained despite null result. No numerical effect or benchmark supplied; do not invent values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5669",
+    "before": null,
+    "after": "Untabulated implemented additional-window regressions: no RED relation, limited YELLOW relation (2 of 6 specifications at 0.10); retained despite null result. No numerical effect or benchmark supplied; do not invent values."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5670",
+    "before": null,
+    "after": "Independent audit supports a minimum aggregate selling scope and separate ex ante litigation-risk effect h34. Do not invent coefficient-by-window combinations from the plural selling behavior. Confirming forecasts are defined by equality to prevailing consensus (Appendix A). No numerical effect or same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5671",
+    "before": null,
+    "after": "Confirming forecast likelihood decreases with litigation risk; substantive reversed/alternative outcome test, not diagnostic. No effect magnitude or benchmark supplied."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5672",
+    "before": null,
+    "after": "Independent gate adjudication: Table 7 caption (PDF p.19/printed p.137) explicitly says [1] confirms a preemption effect; p.18 endorses greater litigation risk increasing warning. SUED is the binary realized-risk proxy, not a literal future-lawsuit intervention. Include despite diagnostic use/weak identification. By contrast [2] only appears adverse absent endogeneity correction and is expressly disavowed, so exclude that parameter; this is parameter-specific intent, not asymmetry based on sign. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5673",
+    "before": null,
+    "after": "Independent audit: binary silence versus warning conditional on sales, estimated through a continuous predicted-silence regressor. Distinct from sales-dose effects; main and interaction terms jointly characterize a conditional contrast, not extra treatments. Table 8 A[1] repeats the basic FLS result; do not count it again as an additional setting beyond this panel allocation. Column [6] silence 0.326 (t=1.60) is insignificant. Joint unexpected-sales procedure has its own h43; no benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5674",
+    "before": null,
+    "after": "Conditional trading dose effect: main and interaction jointly characterize effect across silence. Routine null/reversed contrast retained. SALES_AB is shares differential scaled by shares outstanding, not dollar sales/MVE. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5675",
+    "before": null,
+    "after": "Conditional trading dose effect: main and interaction jointly characterize effect across silence. Routine null/reversed contrast retained. SALES_AB is shares differential scaled by shares outstanding, not dollar sales/MVE. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5676",
+    "before": null,
+    "after": "Conditional trading dose effect: main and interaction jointly characterize effect across silence. Routine null/reversed contrast retained. SALES_AB is shares differential scaled by shares outstanding, not dollar sales/MVE. No same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5677",
+    "before": null,
+    "after": "GOOD and GOOD x SILENCE separately interpreted by authors; binary forecast contrast. Main GOOD 0.155 is not significant (t=1.52), interaction 0.545 t=1.98. Preserve this qualification, no benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5678",
+    "before": null,
+    "after": "Same published model as s6 but distinct dose treatment. Negative SALES x WARN -57.742 conflicts with positive sign in model description and simple offset narrative; source conflict held for audit. No outcome-mean/SD/level benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5679",
+    "before": null,
+    "after": "Independent audit: retain the implemented generated-sales procedure, not ordinary observed SALES_AB and not a conjectured linear IV. The disclosure equation is intermediate, with no separately interpreted disclosure-outcome effect reported here. The same joint procedure also changes the binary silence contrast: separately allocated h43. No assumed routine/opportunistic/GOOD/window grid or inferred initial-stage algorithm; no same-outcome benchmark."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5680",
+    "before": null,
+    "after": "Added by focused independent audit: changing the jointly generated trading/disclosure procedure changes the silence estimand implementation as well as the dose treatment in h42. Include the minimum explicitly supported Eq.(7) disclosure contrast; do not duplicate a separate WARN complement or assume GOOD, routine/opportunistic, abnormal-share or window-specific grid. No new disclosure outcome from intermediate Eq.(6). No numeric coefficients or same-outcome benchmark supplied."
+  }
+]
+```
