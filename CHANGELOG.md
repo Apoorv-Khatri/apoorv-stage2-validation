@@ -1757724,3 +1757724,8790 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T14:55:17.586919+00:00 — Review 4NLB8EN5: one-paper adjudicated source-scoped coding
+
+1463 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Outcomes",
+    "cell": "A13224",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13225",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13226",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13227",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13228",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13229",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13230",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13231",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13232",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13233",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13234",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13235",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13236",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13237",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13238",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13239",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13240",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13241",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13242",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13243",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13244",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13245",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13246",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13247",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13248",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13249",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13250",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13251",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13252",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13253",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13254",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13255",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13256",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13257",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13258",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13259",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13260",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13261",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13262",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13263",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13264",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13265",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13266",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13267",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13268",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13269",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13270",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13271",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13272",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13273",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13274",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13275",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13276",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13277",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13278",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13279",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13280",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13281",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13282",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13283",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13284",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13285",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13286",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13287",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13288",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13289",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13290",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13291",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13292",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13293",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13294",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13295",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13296",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13297",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13298",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13299",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13300",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13301",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13302",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13303",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13304",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13305",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13306",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13307",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13308",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13309",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13310",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13311",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13312",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13313",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13314",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13315",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13316",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13317",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13318",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13319",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13320",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13321",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13322",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13323",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13324",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13325",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13326",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13327",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13328",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13329",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13330",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13331",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13332",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13333",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13334",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13335",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13336",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13337",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13338",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13339",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13340",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13341",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13342",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13343",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13344",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13345",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13346",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13347",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13348",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13349",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13350",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13351",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13352",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13353",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13354",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13355",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13356",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13357",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13358",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13359",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13360",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13361",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13362",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13363",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13364",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13365",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13366",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13367",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13368",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13369",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13370",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13371",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13372",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13373",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13374",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13375",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13376",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13377",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13378",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13379",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13380",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13381",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13382",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13383",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13384",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13224",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13225",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13226",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13227",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13228",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13229",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13230",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13231",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13232",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13233",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13234",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13235",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13236",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13237",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13238",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13239",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13240",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13241",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13242",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13243",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13244",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13245",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13246",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13247",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13248",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13249",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13250",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13251",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13252",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13253",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13254",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13255",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13256",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13257",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13258",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13259",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13260",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13261",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13262",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13263",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13264",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13265",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13266",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13267",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13268",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13269",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13270",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13271",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13272",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13273",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13274",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13275",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13276",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13277",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13278",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13279",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13280",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13281",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13282",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13283",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13284",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13285",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13286",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13287",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13288",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13289",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13290",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13291",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13292",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13293",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13294",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13295",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13296",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13297",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13298",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13299",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13300",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13301",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13302",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13303",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13304",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13305",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13306",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13307",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13308",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13309",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13310",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13311",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13312",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13313",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13314",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13315",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13316",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13317",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13318",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13319",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13320",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13321",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13322",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13323",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13324",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13325",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13326",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13327",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13328",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13329",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13330",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13331",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13332",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13333",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13334",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13335",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13336",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13337",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13338",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13339",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13340",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13341",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13342",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13343",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13344",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13345",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13346",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13347",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13348",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13349",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13350",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13351",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13352",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13353",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13354",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13355",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13356",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13357",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13358",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13359",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13360",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13361",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13362",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13363",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13364",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13365",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13366",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13367",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13368",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13369",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13370",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13371",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13372",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13373",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13374",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13375",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13376",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13377",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13378",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13379",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13380",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13381",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13382",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13383",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13384",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13224",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13225",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13226",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13227",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13228",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13229",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13230",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13231",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13232",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13233",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13234",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13235",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13236",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13237",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13238",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13239",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13240",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13241",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13242",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13243",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13244",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13245",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13246",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13247",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13248",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13249",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13250",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13251",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13252",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13253",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13254",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13255",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13256",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13257",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13258",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13259",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13260",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13261",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13262",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13263",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13264",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13265",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13266",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13267",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13268",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13269",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13270",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13271",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13272",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13273",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13274",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13275",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13276",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13277",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13278",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13279",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13280",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13281",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13282",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13283",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13284",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13285",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13286",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13287",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13288",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13289",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13290",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13291",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13292",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13293",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13294",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13295",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13296",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13297",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13298",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13299",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13300",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13301",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13302",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13303",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13304",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13305",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13306",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13307",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13308",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13309",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13310",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13311",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13312",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13313",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13314",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13315",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13316",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13317",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13318",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13319",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13320",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13321",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13322",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13323",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13324",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13325",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13326",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13327",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13328",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13329",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13330",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13331",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13332",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13333",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13334",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13335",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13336",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13337",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13338",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13339",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13340",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13341",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13342",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13343",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13344",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13345",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13346",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13347",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13348",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13349",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13350",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13351",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13352",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13353",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13354",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13355",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13356",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13357",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13358",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13359",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13360",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13361",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13362",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13363",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13364",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13365",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13366",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13367",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13368",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13369",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13370",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13371",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13372",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13373",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13374",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13375",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13376",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13377",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13378",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13379",
+    "before": null,
+    "after": "hy7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13380",
+    "before": null,
+    "after": "hy8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13381",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13382",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13383",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13384",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13225",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13228",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13229",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13230",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13231",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13232",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13233",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13234",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13235",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13236",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13237",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13238",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13239",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13240",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13241",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13242",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13243",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13244",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13245",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13246",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13247",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13248",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13253",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13254",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13255",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13256",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13269",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13270",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13271",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13272",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13273",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13274",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13275",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13276",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13277",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13278",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13279",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13280",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13281",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13282",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13283",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13284",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13285",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13286",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13287",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13288",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13289",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13290",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13291",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13292",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13301",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13302",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13303",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13304",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13305",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13306",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13307",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13308",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13334",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13335",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13336",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13341",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13342",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13343",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13345",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13347",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13348",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13351",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13352",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13353",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13357",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13361",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13363",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13364",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13365",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13367",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13372",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13373",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13375",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13376",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13378",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13379",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13380",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13383",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13384",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3544",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3545",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3546",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3547",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13224",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13225",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13226",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13227",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13228",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13229",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13230",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13231",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13232",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13233",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13234",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13235",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13236",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13237",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13238",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13239",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13240",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13241",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13242",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13243",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13244",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13245",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13246",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13247",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13248",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13253",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13254",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13255",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13256",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13269",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13270",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13271",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13272",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13273",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13274",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13275",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13276",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13277",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13278",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13279",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13280",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13281",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13282",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13283",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13284",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13285",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13286",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13287",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13288",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13289",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13290",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13291",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13292",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13301",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13302",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13303",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13304",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13305",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13306",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13307",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13308",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13333",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13334",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13335",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13336",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13337",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13338",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13339",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13340",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13341",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13342",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13343",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13344",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13345",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13346",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13347",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13348",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13349",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13350",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13351",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13352",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13353",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13354",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13355",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13356",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13357",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13358",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13359",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13360",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13361",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13362",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13363",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13364",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13365",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13366",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13367",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13368",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13369",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13370",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13372",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13373",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13374",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13375",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13376",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13377",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13378",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13379",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13380",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13383",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13384",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3544",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3545",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3546",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3547",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13224",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13225",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13226",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13227",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13228",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13229",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13230",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13231",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13232",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13233",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13234",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13235",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13236",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13237",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13238",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13239",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13240",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13241",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13242",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13243",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13244",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13245",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13246",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13247",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13248",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13253",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13254",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13255",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13256",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13269",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13270",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13271",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13272",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13273",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13274",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13275",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13276",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13277",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13278",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13279",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13280",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13281",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13282",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13283",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13284",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13285",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13286",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13287",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13288",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13289",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13290",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13291",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13292",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13301",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13302",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13303",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13304",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13305",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13306",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13307",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13308",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13333",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13334",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13335",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13336",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13337",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13338",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13339",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13340",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13341",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13342",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13343",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13344",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13345",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13346",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13347",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13348",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13349",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13350",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13351",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13352",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13353",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13354",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13355",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13356",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13357",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13358",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13359",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13360",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13361",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13362",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13363",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13364",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13365",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13366",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13367",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13368",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13369",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13370",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13371",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13372",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13373",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13374",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13375",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13376",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13377",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13378",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13379",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13380",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13383",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13384",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3544",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3545",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3546",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3547",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13224",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13225",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13226",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13227",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13228",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13229",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13230",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13231",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13232",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13233",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13234",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13235",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13236",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13237",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13238",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13239",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13240",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13241",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13242",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13243",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13244",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13245",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13246",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13247",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13248",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13249",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13250",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13251",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13252",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13253",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13254",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13255",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13256",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13257",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13258",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13259",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13260",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13261",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13262",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13263",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13264",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13265",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13266",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13267",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13268",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13269",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13270",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13271",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13272",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13273",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13274",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13275",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13276",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13277",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13278",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13279",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13280",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13281",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13282",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13283",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13284",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13285",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13286",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13287",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13288",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13289",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for inspected engagements. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13290",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: General audit procedures for clients that were not inspected. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13291",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Quality control systems. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13292",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Culture or tone at the top. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13293",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13294",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13295",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13296",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13297",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13298",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13299",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13300",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13301",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13302",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13303",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13304",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13305",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13306",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13307",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13308",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13309",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13310",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13311",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13312",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13313",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13314",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13315",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13316",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13317",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13318",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13319",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13320",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13321",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13322",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13323",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13324",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13325",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13326",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13327",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13328",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13329",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13330",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13331",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13332",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13333",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13334",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13335",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13336",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13337",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13338",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13339",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13340",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13341",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13342",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13343",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13344",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13345",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13346",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13347",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13348",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13349",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13350",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13351",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13352",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13353",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13354",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13355",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13356",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13357",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13358",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13359",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13360",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13361",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13362",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13363",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13364",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13365",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13366",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13367",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13368",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13369",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13370",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13371",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13372",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13373",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing documentation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13374",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Firm-wide training. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13375",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing audit effort. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13376",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Increasing scrutiny of estimates. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13377",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing the AQR process. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13378",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing controls over independence. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13379",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Removing low quality partners from public company audits. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13380",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Changing partner compensation. Not the aggregated percentage agreeing displayed in main figures. Zero is an allowed category; observed zero frequency in regression sample not established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13381",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Tamper with closed files to fix them for inspection. 0=Never, 4=Very often; not binary and not the percentage agreeing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13382",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Inappropriately obtain confidential information about inspections. 0=Never, 4=Very often; not binary and not the percentage agreeing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13383",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Tamper with closed files to fix them for inspection. 0=Never, 4=Very often; not binary and not the percentage agreeing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13384",
+    "before": null,
+    "after": "Inspector-level 0-4 Likert rating: Inappropriately obtain confidential information about inspections. 0=Never, 4=Very often; not binary and not the percentage agreeing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3544",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3545",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3546",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3547",
+    "before": null,
+    "after": "Absolute value of country-industry-year residual from the Dechow-style accrual regression printed in Table 3 notes (also Tables 4-6); company-year audit-quality proxy, Compustat Global 1998-2019; continuous variables winsorized 1/99 percentiles. Absolute residual transformation; not a binary outcome. Source equation mixes raw total-accrual definition with scaled regressors; do not silently repair units. Observed zero mass not reported."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E165",
+    "before": null,
+    "after": "DONE — full available-source review of final 26-page article and official Elsevier DOCX supplement, including nine chart caches; focused independent consequential-gate audit accepted by parent. 53 retained settings and 165 active outcomes; every setting searched for comparisons, none qualifies. Main 29 conventional DiD contrasts use binary first-likely-inspection exposure and dichotomized moderators or program presence, not generic post alone. Any-program s3 supporting; formal-program contrast main. Appendix 24 methods unknown: coefficients/t-statistics/R-squared favor OLS but do not explicitly establish implementation; OLS leading alternative, no invented ordered model. IA-1 and IA-2 affirmative family interpretation retains eleven characteristics each including nulls; narrower individual-mechanism alternative held explicitly. IA-3 corruption and disclosure only, both outcomes; remaining nine lack affirmative family endorsement. Survey beliefs including tension distributions are not implemented intervention contrasts. Signs, units, zero-mass and scale uncertainties preserved; no invented benchmark ratios or total effects. Full audit/source limitations and conditional scope alternatives retained. No empirical replication or omission-free claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5716",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5717",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5718",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5719",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5720",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5721",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5722",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5723",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5724",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5725",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5726",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5727",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5728",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5729",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5730",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5731",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5732",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5733",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5734",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5735",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5736",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5737",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5738",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5739",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5740",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5741",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5742",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5743",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5744",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5745",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5746",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5747",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5748",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5749",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5750",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5751",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5752",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5753",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5754",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5755",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5756",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5757",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5758",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5759",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5760",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5761",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5762",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5763",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5764",
+    "before": null,
+    "after": "4NLB8EN5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5716",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5717",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5718",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5719",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5720",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5721",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5722",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5723",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5724",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5725",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5726",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5727",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5728",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5729",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5730",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5731",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5732",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5733",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5734",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5735",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5736",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5737",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5738",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5739",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5740",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5741",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5742",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5743",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5744",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5745",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5746",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5747",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5748",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5749",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5750",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5751",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5752",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5753",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5754",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5755",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5756",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5757",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5758",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5759",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5760",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5761",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5762",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5763",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5764",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1402",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1403",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1404",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1405",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5733",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5735",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5741",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5743",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5744",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5745",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5752",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5754",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5755",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5756",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5763",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1402",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1403",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1404",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1405",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5716",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5717",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5718",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5719",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5720",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5721",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5722",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5723",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5724",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5725",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5726",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5727",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5728",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5729",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5730",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5731",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5732",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5733",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5734",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5735",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5736",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5737",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5738",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5739",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5740",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5741",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5742",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5743",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5744",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5745",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5746",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5747",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5748",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5749",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5750",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5751",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5752",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5753",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5754",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5755",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5756",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5757",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5758",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5759",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5760",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5761",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5762",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5763",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5764",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1402",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1403",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1404",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1405",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5729",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5730",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5731",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5732",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5733",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5734",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5735",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5736",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5737",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5738",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5739",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5740",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5742",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5746",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5747",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5748",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5749",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5750",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5751",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5753",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5757",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5758",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5759",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5760",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5761",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5762",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5763",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5764",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1402",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1403",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1404",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1405",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5716",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5717",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5718",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5719",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5720",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5721",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5722",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5723",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5724",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5725",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5726",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5727",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5728",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5729",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5730",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5731",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5732",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5733",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5734",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5735",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5736",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5737",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5738",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5739",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5740",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5741",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5742",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5743",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5744",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5745",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5746",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5747",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5748",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5749",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5750",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5751",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5752",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5753",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5754",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5755",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5756",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5757",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5758",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5759",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5760",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5761",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5762",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5763",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5764",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1402",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1403",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1404",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1405",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5716",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5717",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5718",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5719",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5720",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5721",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5722",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5723",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5724",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5725",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5726",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5727",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5728",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5729",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5730",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5731",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5732",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5733",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5734",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5735",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5736",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5737",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5738",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5739",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5740",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5741",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5742",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5743",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5744",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5745",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5746",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5747",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5748",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5749",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5750",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5751",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5752",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5753",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5754",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5755",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5756",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5757",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5758",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5759",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5760",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5761",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5762",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5763",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5764",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1402",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by DOCUMENTATION. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.004 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1403",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by TAMPER WITH CLOSED FILES. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.001 (not the total post effect). Table 4 columns 1-2, p15; interpretation p13; focal column 1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1404",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by EVALUATION PROGRAM (formal or informal). Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.001 (not the total post effect). Table 5 columns 1-2, p22; interpretation p21; focal column 1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1405",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by SENIORITY BY POB EMPLOY.. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.005 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5716",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by FIRM-WIDE TRAINING. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.006 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5717",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by SCRUTINY OF ESTIMATES. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.005 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5718",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by AUDIT & TESTING EFFORT. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.004 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5719",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by CHG. AUDIT CHECKLIST. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient 0.001 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5720",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by CHG. PROCEDURE MANUAL. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.003 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5721",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by CHG. CONT. OVER INDEP.. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.003 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5722",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by CHG. AQ REVIEW PROCESS. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.001 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5723",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by CHG. MAT. THRESHOLD. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient 0.002 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5724",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by REMOVE LOW QTY PARTNER. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.004 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5725",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by CHG. PARTNER COMP.. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient 0.000 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5726",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by CHG. MANAGER COMP.. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient 0.005 (not the total post effect). Table 3 columns 1-12, pp11-14; focal column 12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5727",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by OBTAIN CONFIDENTIAL INFORMATION. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient 0.004 (not the total post effect). Table 4 columns 1-2, p15; interpretation p13; focal column 2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5728",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by FORMAL EVALUATION PROGRAM. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.003 (not the total post effect). Table 5 columns 1-2, p22; interpretation p21; focal column 2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5729",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by SENIORITY BY AGE. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.003 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5730",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by #DEFICIENCIES DETECT. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.003 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5731",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by #QC DEFICIENCIES DETECT. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient 0.001 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5732",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by POS. AUDITOR FEEDBACK. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient 0.002 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5733",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by PERCEPT. MORAL VALUES. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient 0.003 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5734",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by PERCEPT. EMOTIONAL INTEL.. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.006 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5735",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by PERCEPT. WORK ETHIC. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.002 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5736",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by ABILITY DIFF. TENSION. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.006 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5737",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by TEAM LEAD FEEDBACK. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.001 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5738",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by TEAM MEMBER FEEDBACK. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.004 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5739",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by EVALS. OF INSPECTIONS. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient 0.002 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5740",
+    "before": null,
+    "after": "Post-first-likely-POB-inspection exposure (0/1) effect on unsigned discretionary accruals, with differential effect by PROMO. OPPORTUNITIES. Company and year FE TWFE staggered adoption Eq(1); interaction coefficient -0.006 (not the total post effect). Table 6 columns 1-13, p23; interpretation p21; focal column 13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5741",
+    "before": null,
+    "after": "Corruption index effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5742",
+    "before": null,
+    "after": "Disclose inspection report effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5743",
+    "before": null,
+    "after": "Inspection frequency effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5744",
+    "before": null,
+    "after": "Inspection program age effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5745",
+    "before": null,
+    "after": "Firms per inspector effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5746",
+    "before": null,
+    "after": "CPA effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5747",
+    "before": null,
+    "after": "Age < 41 effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5748",
+    "before": null,
+    "after": "Sr. Manager or above effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5749",
+    "before": null,
+    "after": "Hired from audit firm effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5750",
+    "before": null,
+    "after": "No. inspections > 10 effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5751",
+    "before": null,
+    "after": "No. Big-4 inspections > 2 effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.1, Table IA-1; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5752",
+    "before": null,
+    "after": "Corruption index effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5753",
+    "before": null,
+    "after": "Disclose inspection report effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5754",
+    "before": null,
+    "after": "Inspection frequency effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5755",
+    "before": null,
+    "after": "Inspection program age effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5756",
+    "before": null,
+    "after": "Firms per inspector effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5757",
+    "before": null,
+    "after": "CPA effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5758",
+    "before": null,
+    "after": "Age < 41 effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5759",
+    "before": null,
+    "after": "Sr. Manager or above effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5760",
+    "before": null,
+    "after": "Hired from audit firm effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5761",
+    "before": null,
+    "after": "No. inspections > 10 effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5762",
+    "before": null,
+    "after": "No. Big-4 inspections > 2 effect on inspector-reported auditor responses to inspection feedback; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.2, Table IA-2; all reported outcome columns"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5763",
+    "before": null,
+    "after": "Corruption index effect on inspector-perceived auditor gaming; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.3, Table IA-3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5764",
+    "before": null,
+    "after": "Disclose inspection report effect on inspector-perceived auditor gaming; cross-sectional regression; estimator not explicitly specified, OLS is the leading alternative; no identifying FE reported. Internet Appendix section 2.3, Table IA-3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1402",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1403",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1404",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. Independent audit: any formal-or-informal evaluation program (Table5 col1) is supporting, Human_main=0; introduction p4 specifically highlights FORMAL programs. Formal-program col2 remains main. This role decision is source emphasis, not a significance gate; the any-program null remains retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1405",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5716",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5717",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5718",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5719",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5720",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5721",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5722",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5723",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5724",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5725",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5726",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. Footnote24 explicitly reports positive significant reversal without explanation. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5727",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5728",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. Formal evaluation supports introduction p4 central conclusion, hence main=1 for this result family. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5729",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5730",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5731",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5732",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5733",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5734",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5735",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5736",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5737",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5738",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5739",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5740",
+    "before": null,
+    "after": "Narrow original table bundle to one substantive moderator contrast; other moderator estimands allocated separately. POST INSPECTION turns on after one/two/three years depending on inspection frequency; not just a common post dummy. Conventional staggered TWFE, not modern DiD or standalone FE. Survey moderator above-median POB-average indicator except Table5 program-presence indicators. Include base and differential effects, nulls and reversals. Concurrent reforms/measurement error limit identification but do not negate author intent. No IV. "
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5741",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5742",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5743",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5744",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5745",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5746",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5747",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5748",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5749",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5750",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5751",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5752",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5753",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5754",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5755",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5756",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5757",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5758",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5759",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5760",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5761",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5762",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. IA section 2.1 explicitly examines whether country/POB/inspector characteristics affect auditor responses and concludes backgrounds/prior experience influence responses; section 2.2 concludes individual characteristics matter. This affirmative family-level interpretation encompasses the predeclared eleven characteristics, including nulls, hired-from-audit-firm and >2 Big-4 inspections. Those two have weaker individual support, explicitly retained with narrower-scope alternative in audit ledger. IA-1 control-set variants grouped. Treatment frequency/program-age coding not fully reported; no invented scale."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5763",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. Section 2.3 substantively interprets corruption and disclosure-pressure/gaming mechanisms. Retain both outcomes, including the negative nonsignificant disclosure/tampering coefficient; do not gate on significance. Other nine covariates remain unallocated without causal interpretation here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5764",
+    "before": null,
+    "after": "Independent audit: estimator unresolved. Appendix Tables IA-1/2/3 report coefficients, t-statistics and R-squared for untransformed 0-4 ratings, but neither text nor notes explicitly name OLS or give the effect-regression equation. These clues favor OLS without uniquely establishing implementation. Human_method=unknown, not Other or invented ordered logit. Non-IV classification supported by no instrument/first stage in the specified analysis. Section 2.3 substantively interprets corruption and disclosure-pressure/gaming mechanisms. Retain both outcomes, including the negative nonsignificant disclosure/tampering coefficient; do not gate on significance. Other nine covariates remain unallocated without causal interpretation here."
+  }
+]
+```
