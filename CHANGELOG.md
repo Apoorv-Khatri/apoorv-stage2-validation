@@ -1787634,3 +1787634,2598 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T19:24:23.193363+00:00 — Review B2FISBM9: one-paper adjudicated source-scoped coding
+
+431 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A17381",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17382",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17383",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17384",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17385",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17386",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17387",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17381",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17382",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17383",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17384",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17385",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17386",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17387",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17381",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17382",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17383",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17384",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17385",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17386",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17387",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17384",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17385",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K988",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17381",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17382",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17383",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17384",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17385",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17386",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17387",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L986",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L987",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L988",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17381",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17382",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17383",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17384",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17385",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17386",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17387",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M986",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M987",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M988",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17382",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17383",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17384",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17386",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17387",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N988",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17381",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17383",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17384",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17385",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17387",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O986",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O987",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O988",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17381",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17382",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17383",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17384",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17385",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17386",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17387",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P986",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P987",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P988",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17381",
+    "before": null,
+    "after": "p379 Table7 col2 discussion: AQ falls -0.0377, mean 0.0809 to 0.0433; author calls about 50% increase in accounting quality."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17382",
+    "before": null,
+    "after": "Table8 p380 Firm3 row: positive-minus-negative mean contrast -0.0449 AQ units deliberately paired with positive-style third-firm mean AQ 0.0200; no effect/base normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17383",
+    "before": null,
+    "after": "Table8 p380 Firm3 row: positive-minus-negative mean contrast -0.0449 AQ units deliberately paired with negative-style third-firm mean AQ 0.0650; no effect/base normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17384",
+    "before": null,
+    "after": "Table8 p380 Firm3 row: positive-minus-negative median contrast -0.0251 AQ units deliberately paired with positive-style third-firm median AQ 0.0172; no effect/base normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17385",
+    "before": null,
+    "after": "Table8 p380 Firm3 row: positive-minus-negative median contrast -0.0251 AQ units deliberately paired with negative-style third-firm median AQ 0.0424; no effect/base normalization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17386",
+    "before": null,
+    "after": "p380 fn19: significant mean-AQ difference in 2013 between prior-classified positive and negative managers; positive-style firms mean 0.0282. Author reports levels/significance, not numerical difference or ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17387",
+    "before": null,
+    "after": "p380 fn19: significant mean-AQ difference in 2013 between prior-classified positive and negative managers; negative-style firms mean 0.0350. Author reports levels/significance, not numerical difference or ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q986",
+    "before": null,
+    "after": "Table4C p375: MFE interquartile contrast 0.0143 AQ units equals 44.62% of mean AQ; p376 describes about 50% increase. Table2A MDV/AKM firm-year mean AQ 0.032; Table4 MDV regression uses firm-manager-year observations."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q987",
+    "before": null,
+    "after": "Table4C p375: MFE interquartile contrast 0.0143 reported as 54.17% of the difference in AQ interquartile range. Exact AQ IQR denominator not separately supplied."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q988",
+    "before": null,
+    "after": "p379 Table7 col1 discussion: AQ increases 0.0407 from pre-switch mean 0.0248 to 0.0655; author calls this a 264% decrease in accounting quality. Positive-to-negative labeled switch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17381",
+    "before": null,
+    "after": "Pre-switch same-firm historical level, not established untreated subsequent AQ. Source rounded levels and effect preserved, no recomputation. Outcome domain is AQ level: the reported mean difference is the focal effect, and the explicitly linked historical mean is of that same outcome/scale. No established change-versus-level mismatch. Alignment remains unknown because the paper does not establish whether the historical level represents the relevant subsequent no-switch counterfactual/weights; this is not a generic rejection of before/after designs."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17382",
+    "before": null,
+    "after": "Positive-style group is the focal exposure, not untreated baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17383",
+    "before": null,
+    "after": "Negative-style holdout group is observed comparison population; no construction establishes its mean is positive-style target untreated counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17384",
+    "before": null,
+    "after": "Median is other_level. Parenthesized table values are medians, not standard errors; no additional quantile regression claimed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17385",
+    "before": null,
+    "after": "Median is other_level. Parenthesized table values are medians, not standard errors; no additional quantile regression claimed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17386",
+    "before": null,
+    "after": "Treated positive-style mean is not untreated baseline."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17387",
+    "before": null,
+    "after": "Observed negative-style firms, without identified reweighting/counterfactual construction for positive-style target."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R986",
+    "before": null,
+    "after": "Benchmark is pooled observed AQ, not established untreated counterfactual for the specific manager-quartile contrast; population/weights differ or are insufficiently specified. No inferred denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R987",
+    "before": null,
+    "after": "Outcome IQR is other_level, not outcome_sd. Table4C prints 25th +0.0072 and 75th -0.0071 (reversed ordering); preserve reported positive difference without silently repairing quantiles."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R988",
+    "before": null,
+    "after": "Retain actual author normalization, not a corrected percentage. 264% appears to describe post/pre level ratio rather than percentage change; source inconsistency explicitly held. Historical pre-switch level not established subsequent untreated counterfactual; no alignment proof. Outcome domain is AQ level: the reported mean difference is the focal effect, and the explicitly linked historical mean is of that same outcome/scale. No established change-versus-level mismatch. Alignment remains unknown because the paper does not establish whether the historical level represents the relevant subsequent no-switch counterfactual/weights; this is not a generic rejection of before/after designs."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R989",
+    "before": null,
+    "after": "Wrong narrowed setting: negative-to-positive Table7 col2 contrast reallocated to h1/hc1. Original model ID/evidence preserved."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13620",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13621",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13622",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13632",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13633",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13634",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13644",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13645",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13646",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13647",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13648",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13649",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13651",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13652",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13653",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13654",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13655",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13656",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13620",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13621",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13622",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13632",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13633",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13634",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13644",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13645",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13646",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13647",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13648",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13649",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13651",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13652",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13653",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13654",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13655",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13656",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13620",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13621",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13622",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13632",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13633",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13634",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13644",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13645",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13646",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13647",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13648",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13649",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13651",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13652",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13653",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13654",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13655",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13656",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13620",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13621",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13622",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13632",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13633",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13634",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13644",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13645",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13646",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13647",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3586",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3587",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3588",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3589",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3590",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3591",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3592",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3594",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3595",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3596",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3597",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3598",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3599",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13620",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13621",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13622",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13632",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13633",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13634",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13644",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13645",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13646",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13647",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3586",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3587",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3588",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3589",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3590",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3591",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3592",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3594",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3595",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3596",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3597",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3598",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3599",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13620",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13621",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13622",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13632",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13633",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13634",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13644",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13645",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13646",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13647",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3586",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3587",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3588",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3589",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3590",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3591",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3592",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3593",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3594",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3595",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3596",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3597",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3598",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3599",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13620",
+    "before": null,
+    "after": "AQ level: five-year rolling SD of accrual-model residuals (AppendixA p384). Table7 p379 reports the before/after difference in mean values as the effect contrast, not a regression with a separately first-differenced dependent variable. No additional transformation of this constructed measure."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13621",
+    "before": null,
+    "after": "Managerial ability MA-Score level: firm-year efficiency residual (AppendixA p384). Table7 p379 reports the before/after difference in mean values as the effect contrast, not a regression with a separately first-differenced dependent variable. No additional transformation of this constructed measure."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13622",
+    "before": null,
+    "after": "MA-Rank level: industry-year decile rank of MA-Score (AppendixA p384). Table7 p379 reports the before/after difference in mean values as the effect contrast, not a regression with a separately first-differenced dependent variable. Other denotes the rank transformation, not first differencing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13632",
+    "before": null,
+    "after": "AQ level: five-year rolling SD of accrual-model residuals (AppendixA p384). Table7 p379 reports the before/after difference in mean values as the effect contrast, not a regression with a separately first-differenced dependent variable. No additional transformation of this constructed measure."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13633",
+    "before": null,
+    "after": "Managerial ability MA-Score level: firm-year efficiency residual (AppendixA p384). Table7 p379 reports the before/after difference in mean values as the effect contrast, not a regression with a separately first-differenced dependent variable. No additional transformation of this constructed measure."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13634",
+    "before": null,
+    "after": "MA-Rank level: industry-year decile rank of MA-Score (AppendixA p384). Table7 p379 reports the before/after difference in mean values as the effect contrast, not a regression with a separately first-differenced dependent variable. Other denotes the rank transformation, not first differencing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13644",
+    "before": null,
+    "after": "Accounting quality AQ: five-year rolling SD of residuals from modified Dechow-Dichev accrual model; larger values mean poorer quality. Not outcome-SD standardization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13645",
+    "before": null,
+    "after": "Accounting quality AQ: five-year rolling SD of residuals from modified Dechow-Dichev accrual model; larger values mean poorer quality. Not outcome-SD standardization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13646",
+    "before": null,
+    "after": "Change in AQ across manager replacement; AQ is five-year residual SD, larger AQ means poorer quality. Reported difference, not inverse AQ."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13647",
+    "before": null,
+    "after": "Change in AQ across manager replacement; AQ is five-year residual SD, larger AQ means poorer quality. Reported difference, not inverse AQ."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13648",
+    "before": null,
+    "after": "Change in AQ across manager replacement; AQ is five-year residual SD, larger AQ means poorer quality. Reported difference, not inverse AQ."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13649",
+    "before": null,
+    "after": "Change in AQ across manager replacement; AQ is five-year residual SD, larger AQ means poorer quality. Reported difference, not inverse AQ."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13651",
+    "before": null,
+    "after": "Accounting quality AQ: five-year rolling SD of residuals from modified Dechow-Dichev accrual model; larger values mean poorer quality. Not outcome-SD standardization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13652",
+    "before": null,
+    "after": "Accounting quality AQ: five-year rolling SD of residuals from modified Dechow-Dichev accrual model; larger values mean poorer quality. Not outcome-SD standardization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13653",
+    "before": null,
+    "after": "Total discretionary accruals, not AQ residual variability; exact accrual model/scale unreported in this passage."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13654",
+    "before": null,
+    "after": "Accounting quality AQ: five-year rolling SD of residuals from modified Dechow-Dichev accrual model; larger values mean poorer quality. Not outcome-SD standardization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13655",
+    "before": null,
+    "after": "Accounting quality AQ: five-year rolling SD of residuals from modified Dechow-Dichev accrual model; larger values mean poorer quality. Not outcome-SD standardization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13656",
+    "before": null,
+    "after": "Accounting quality AQ: five-year rolling SD of residuals from modified Dechow-Dichev accrual model; larger values mean poorer quality. Not outcome-SD standardization."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3586",
+    "before": null,
+    "after": "AQ level: five-year rolling SD of accrual-model residuals (AppendixA p384). Table7 p379 reports the before/after difference in mean values as the effect contrast, not a regression with a separately first-differenced dependent variable. No additional transformation of this constructed measure."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3587",
+    "before": null,
+    "after": "Managerial ability MA-Score level: firm-year efficiency residual (AppendixA p384). Table7 p379 reports the before/after difference in mean values as the effect contrast, not a regression with a separately first-differenced dependent variable. No additional transformation of this constructed measure."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3588",
+    "before": null,
+    "after": "MA-Rank level: industry-year decile rank of MA-Score (AppendixA p384). Table7 p379 reports the before/after difference in mean values as the effect contrast, not a regression with a separately first-differenced dependent variable. Other denotes the rank transformation, not first differencing."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3589",
+    "before": null,
+    "after": "Spurious as a causal outcome in this setting: Table7 ancillary firm/compensation measure, without parameter-specific causal claim; descriptive/diagnostic scope. Original model definition and ID preserved. Broader table-heading interpretation held in independent audit. If reinstated, code the reported change domain, not underlying indicator/log level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3590",
+    "before": null,
+    "after": "Spurious as a causal outcome in this setting: Table7 ancillary firm/compensation measure, without parameter-specific causal claim; descriptive/diagnostic scope. Original model definition and ID preserved. Broader table-heading interpretation held in independent audit. If reinstated, code the reported change domain, not underlying indicator/log level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3591",
+    "before": null,
+    "after": "Spurious as a causal outcome in this setting: Table7 ancillary firm/compensation measure, without parameter-specific causal claim; descriptive/diagnostic scope. Original model definition and ID preserved. Broader table-heading interpretation held in independent audit. If reinstated, code the reported change domain, not underlying indicator/log level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3592",
+    "before": null,
+    "after": "Spurious as a causal outcome in this setting: Table7 ancillary firm/compensation measure, without parameter-specific causal claim; descriptive/diagnostic scope. Original model definition and ID preserved. Broader table-heading interpretation held in independent audit. If reinstated, code the reported change domain, not underlying indicator/log level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3593",
+    "before": null,
+    "after": "Spurious as a causal outcome in this setting: Table7 ancillary firm/compensation measure, without parameter-specific causal claim; descriptive/diagnostic scope. Original model definition and ID preserved. Broader table-heading interpretation held in independent audit. If reinstated, code the reported change domain, not underlying indicator/log level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3594",
+    "before": null,
+    "after": "Spurious as a causal outcome in this setting: Table7 ancillary firm/compensation measure, without parameter-specific causal claim; descriptive/diagnostic scope. Original model definition and ID preserved. Broader table-heading interpretation held in independent audit. If reinstated, code the reported change domain, not underlying indicator/log level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3595",
+    "before": null,
+    "after": "Spurious as a causal outcome in this setting: Table7 ancillary firm/compensation measure, without parameter-specific causal claim; descriptive/diagnostic scope. Original model definition and ID preserved. Broader table-heading interpretation held in independent audit. If reinstated, code the reported change domain, not underlying indicator/log level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3596",
+    "before": null,
+    "after": "Spurious as a causal outcome in this setting: Table7 ancillary firm/compensation measure, without parameter-specific causal claim; descriptive/diagnostic scope. Original model definition and ID preserved. Broader table-heading interpretation held in independent audit. If reinstated, code the reported change domain, not underlying indicator/log level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3597",
+    "before": null,
+    "after": "Spurious as a causal outcome in this setting: Table7 ancillary firm/compensation measure, without parameter-specific causal claim; descriptive/diagnostic scope. Original model definition and ID preserved. Broader table-heading interpretation held in independent audit. If reinstated, code the reported change domain, not underlying indicator/log level."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3598",
+    "before": null,
+    "after": "Accounting quality AQ: five-year rolling SD of residuals from modified Dechow-Dichev accrual model; larger values mean poorer quality. Not outcome-SD standardization. Third-firm holdout mean contrast."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3599",
+    "before": null,
+    "after": "Diagnostic/calibration first-two-firm AQ used to classify style, not the third-firm holdout outcome. Original record preserved; broader training-sample causal interpretation held for audit."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3600",
+    "before": null,
+    "after": "Difference in three-year average AQ around old CEO departure at new employer; not the prior-employer AQ regressor. Pearson normalization is not independently claimed as an outcome-SD magnitude comparison."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E169",
+    "before": null,
+    "after": "DONE — full available 20-page source review followed by focused independent audit and targeted domain adjudication accepted by parent. 20 retained settings; 36 physical outcomes, 26 active; 11 physical comparisons, 10 retained. Table7 mean differences are effects on level AQ/MA-Score/rank across all nine retained outcomes: nonbinary, zero mass unknown; AQ/MA-Score none, rank other. Two exact AQ historical mean comparisons eligible, divided1; printed 264% conflict preserved, alignment unknown for no-switch counterfactual/weights, not a known scale mismatch. Nine ancillary measures per contrast held; original inactive rows retained and 18 append withdrawals reserved. Generic fn13 h9/hy1 withdrawn as unallocated affirmative outcome robustness, not diagnostic-only: cumulative20 reserved rows/IDs. Pearson s6 Other for full outcome-dependent normalization; standardized-OLS alternative preserved. Table8 mean/median holdout endpoint comparisons retained; all printed contradictions and unknown minimum scopes preserved. Official color Figure2 inaccessible. No empirical replication or omission-free claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5865",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5866",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5867",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5868",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5869",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5870",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5871",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5872",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5874",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5875",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5876",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5877",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5878",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5879",
+    "before": null,
+    "after": "B2FISBM9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5865",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5866",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5867",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5868",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5869",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5870",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5871",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5872",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5874",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5875",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5876",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5877",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5878",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5879",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1425",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1426",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1427",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1428",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1429",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5865",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5866",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5867",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5868",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5869",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5870",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5871",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5872",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5874",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5875",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5876",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5877",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5878",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5879",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1425",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1426",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1427",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1428",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1429",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1430",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5865",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5866",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5867",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5868",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5869",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5870",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5871",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5872",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5874",
+    "before": null,
+    "after": "HDFE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5875",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5876",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5877",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5878",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5879",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1425",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1426",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1428",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1429",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1430",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5865",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5866",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5867",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5868",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5869",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5870",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5871",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5872",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5874",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5875",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5876",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5877",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5878",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5879",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1425",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1426",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1427",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1428",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1429",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1430",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5865",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5866",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5868",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5869",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5870",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5871",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5872",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5874",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5875",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5876",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5877",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5878",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5879",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1425",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1426",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1427",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1428",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1429",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1430",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5865",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5866",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5867",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5868",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5869",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5870",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5871",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5872",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5874",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5875",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5876",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5877",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5878",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5879",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1425",
+    "before": null,
+    "after": "MDV mover-manager identity effect on AQ, with firm, manager and year FE. Table4A cols6,8; B-C; Figure2 pp375-377"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1426",
+    "before": null,
+    "after": "AKM connected-manager identity effect on AQ, with firm, manager and year FE. Table5A cols6,8 and B p378"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1427",
+    "before": null,
+    "after": "Firm-manager spell identity effect on AQ; inseparable joint heterogeneity. Table6 cols5-6 p379; method pp370-371"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1428",
+    "before": null,
+    "after": "Positive-to-negative AQ-style manager replacement versus prior manager period; before/after mean contrasts of AQ, managerial ability MA-Score and its industry-year rank (level outcomes). Table7 col1 p379."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1429",
+    "before": null,
+    "after": "Positive versus negative AQ-style managers, classified in first two firms: mean AQ contrast in third-firm holdout. Table8 Firm3 mean row p380"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1430",
+    "before": null,
+    "after": "Incoming outside CEO prior-employer AQ versus change in new-employer AQ surrounding exogenous CEO departure. pp380-381 exogenous CEO turnover"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5865",
+    "before": null,
+    "after": "Negative-to-positive AQ-style manager replacement versus prior period; before/after mean contrasts of AQ, managerial ability MA-Score and its industry-year rank (level outcomes). Table7 col2 p379."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5866",
+    "before": null,
+    "after": "Neutral-to-neutral AQ-style manager replacement versus prior period; before/after mean contrasts of AQ, managerial ability MA-Score and its industry-year rank (level outcomes). Table7 col3 p379."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5867",
+    "before": null,
+    "after": "Positive versus negative AQ-style managers: median AQ contrast in third-firm holdout. Table8 Firm3 parenthesized median row p380"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5868",
+    "before": null,
+    "after": "Positive versus negative prior-classified manager style effect on 2013 mean AQ, classification fixed using 1992-2011 data. p380 fn19 temporal holdout"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5869",
+    "before": null,
+    "after": "Pooled manager-switch regression: positive-to-negative switch effect on AQ change. p380 fn18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5870",
+    "before": null,
+    "after": "Pooled manager-switch regression: negative-to-positive switch effect on AQ change. p380 fn18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5871",
+    "before": null,
+    "after": "Pooled manager-switch regression: remaining switch-combination contrasts on AQ change, reported as statistically insignificant. p380 fn18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5872",
+    "before": null,
+    "after": "Subsequent manager replacement after an earlier switch: AQ shifts again. p366 fn3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5874",
+    "before": null,
+    "after": "CEO/CFO-title manager identity effects on AQ in MDV full regression. p377 untabulated job-title analysis"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5875",
+    "before": null,
+    "after": "Managerial ability MA-Score substituted for manager effects as determinant of AQ; null additional explanatory power. p381 untabulated replication of Tables4-6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5876",
+    "before": null,
+    "after": "Manager identity effect on total discretionary accruals (DA-style), contrasted with AQ-style. p381 untabulated DA-style regressions"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5877",
+    "before": null,
+    "after": "Manager identity relationship with AQ after accounting for compensation contracts and governance mechanisms. p381 fn22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5878",
+    "before": null,
+    "after": "MDV manager identity effect on AQ without firm FE. Table4A cols5,7 p375"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5879",
+    "before": null,
+    "after": "AKM manager identity effect on AQ without firm FE. Table5A cols5,7 p378"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1425",
+    "before": null,
+    "after": "Linear AQ regression Eq3; manager, firm and year FE are three separate dimensions and explicitly identify incremental manager heterogeneity (pp369-371,374). HDFE, not Other because AQ is generated or results summarized by covariance. Routine controls grouped; manager+year-only partial models separately retained as FE. Manager identity is many-valued despite each dummy being binary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1426",
+    "before": null,
+    "after": "Linear AQ regression Eq3; manager, firm and year FE are three separate dimensions and explicitly identify incremental manager heterogeneity (pp369-371,374). HDFE, not Other because AQ is generated or results summarized by covariance. Routine controls grouped; manager+year-only partial models separately retained as FE. Manager identity is many-valued despite each dummy being binary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1427",
+    "before": null,
+    "after": "SPELL includes year plus firm-manager-combination FE: two dimensions, not three. Table6 shows separate firm FE only in baseline cols2,4, not spell cols5,6. Generic table equation does not override actual SPELL construction. Retain authors incremental-manager interpretation while explicitly acknowledging manager/firm effects cannot be separated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1428",
+    "before": null,
+    "after": "Table7 p379 and p381 mechanism discussion: retain AQ and MA-Score/rank changes, including nulls. Ability/rank have an explicit alternative-attribute interpretation; ROA, R&D, leverage, cash, dividends and compensation have only tabular descriptions, without parameter-specific causal interpretation. Those ancillary measures are diagnostic/descriptive here. Broader title-level causal reading is held externally. Table7 differences are effect contrasts of the named level outcomes, not a separately specified first-difference dependent variable. AQ and MA-Score have no additional transformation; MA-Rank retains its industry-year decile-rank transformation. All are nonbinary; zero mass unknown.  Source style/quartile definitions conflict across p366, p378 and Table7/8 notes; preserve author contrast labels."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1429",
+    "before": null,
+    "after": "Implemented two-valued positive-versus-negative contrast, not nonbinary merely because neutral group also shown. Mean difference -0.0449, not +0.0449; source shows means 0.0200 and 0.0650. No fitted causal regression claimed. Table8 header says n=31 but group labels 7/19/7 disagree; do not repair. Published source conflicts: intro p366 and Table7 note assign negative style to upper quartile, positive to lower; p378 body reverses these and Table8 note also reverses labels. Preserve reported contrast labels, do not silently repair or invert numeric signs. Table7 visual signs verified; no randomization, IV or DiD. Pre/post mean differences OLS family. Endogenous matching caveat does not exclude author causal intention."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1430",
+    "before": null,
+    "after": "pp380-381: implemented Pearson correlation 0.54195 (p=0.0003), 41 exogenous-departure/outside-hire cases. Actual statistic divides covariance by both empirical SDs, including the SD of the reported AQ-change outcome: full mapping is nonlinear in that outcome, so Other. Equivalent standardized bivariate OLS is the competing interpretation, but no independently fixed standardized outcome is reported. Not Other merely because covariance, generated AQ, endogenous replacement or lack of a fitted regression. Implementation is known, not unknown. fn20: outside replacement choice remains endogenous. No separate outcome-SD magnitude comparison inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5865",
+    "before": null,
+    "after": "Table7 p379 and p381 mechanism discussion: retain AQ and MA-Score/rank changes, including nulls. Ability/rank have an explicit alternative-attribute interpretation; ROA, R&D, leverage, cash, dividends and compensation have only tabular descriptions, without parameter-specific causal interpretation. Those ancillary measures are diagnostic/descriptive here. Broader title-level causal reading is held externally. Table7 differences are effect contrasts of the named level outcomes, not a separately specified first-difference dependent variable. AQ and MA-Score have no additional transformation; MA-Rank retains its industry-year decile-rank transformation. All are nonbinary; zero mass unknown.  Source style/quartile definitions conflict across p366, p378 and Table7/8 notes; preserve author contrast labels."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5866",
+    "before": null,
+    "after": "Table7 p379 and p381 mechanism discussion: retain AQ and MA-Score/rank changes, including nulls. Ability/rank have an explicit alternative-attribute interpretation; ROA, R&D, leverage, cash, dividends and compensation have only tabular descriptions, without parameter-specific causal interpretation. Those ancillary measures are diagnostic/descriptive here. Broader title-level causal reading is held externally. Table7 differences are effect contrasts of the named level outcomes, not a separately specified first-difference dependent variable. AQ and MA-Score have no additional transformation; MA-Rank retains its industry-year decile-rank transformation. All are nonbinary; zero mass unknown. Neutral-to-neutral null AQ is substantive H2 evidence (p380). Source style/quartile definitions conflict across p366, p378 and Table7/8 notes; preserve author contrast labels."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5867",
+    "before": null,
+    "after": "Difference in group medians -0.0251; medians 0.0172 and 0.0424. Nonlinear median estimand, not mean regression or an invented quantile regression. Same style-label and sample-count conflicts as s5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5868",
+    "before": null,
+    "after": "Distinct outcome horizon/holdout from third-firm test. Means 0.0282 versus 0.0350; difference significant at 10%. No numeric difference or ratio invented. Not excluded because small sample or endogenous style."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5869",
+    "before": null,
+    "after": "Author reports one regression combining all switch combinations, coefficient 0.0491. Implemented linear OLS plausible but controls/FE/reference category and functional form not stated; do not invent modern DiD, RCT or nonlinear estimator. Separate from Table7 univariate contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5870",
+    "before": null,
+    "after": "Author reports one regression combining all switch combinations, coefficient -0.0242. Implemented linear OLS plausible but controls/FE/reference category and functional form not stated; do not invent modern DiD, RCT or nonlinear estimator. Separate from Table7 univariate contrast."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5871",
+    "before": null,
+    "after": "Minimum family for explicitly reported all-other-combination nulls. Exact treatment/reference coding and outcome model not printed. Do not manufacture a full 3x3 matrix or assign individual coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5872",
+    "before": null,
+    "after": "Handful of firms switch managers again and AQ subsequently shifts again. Author uses reversal against structural self-selection. Substantive minimum qualitative family, not excluded as diagnostic merely for weak identification; exact estimator, contrast and horizon unreported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5874",
+    "before": null,
+    "after": "Explicit separately reported title-subgroup analysis of full Eq3 supports title heterogeneity; CEO/CFO subsets grouped as routine sample variants, not invented separate grids. Distinct reported location from main all-manager table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5875",
+    "before": null,
+    "after": "Substantive alternative-attribute test retained despite null. Replacing MFE in Eq3 favors identifying firm/year FE (FE), but precise implementations across MDV/AKM/SPELL not allocated. Minimum family; not Other merely because MA-Score uses DEA upstream. Exact per-method grid held."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5876",
+    "before": null,
+    "after": "Source explicitly refers to time-invariant component of regression on total discretionary accruals and estimated MFE. Likely identifying FE/HDFE if Eq3 reused; exact FE sets and discretionary-accrual measure not supplied, so unknown. Style correlation/histogram alone not separate effect or outcome-SD comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5877",
+    "before": null,
+    "after": "Authors report contracts/governance do not fully attenuate manager-AQ relationship; substantive robustness minimum family. Conditional manager effect retained, not invented causal effects of each governance/compensation variable. Actual controls, interaction grid and estimator unavailable; FE/HDFE plausible."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5878",
+    "before": null,
+    "after": "Year and manager FE only: two separately included dimensions. Partial identifying model distinguished from full firm-adjusted HDFE estimand; economic controls grouped at this location. No independent outcome-level benchmark; fit comparisons only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5879",
+    "before": null,
+    "after": "Year and manager FE only: two separately included dimensions. Partial identifying model distinguished from full firm-adjusted HDFE estimand; economic controls grouped at this location. No independent outcome-level benchmark; fit comparisons only."
+  }
+]
+```
