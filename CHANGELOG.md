@@ -1773036,3 +1773036,10650 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T17:37:33.848688+00:00 — Review 67LYDNXH: one-paper adjudicated source-scoped coding
+
+1773 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A17309",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17310",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17311",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17312",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17313",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17314",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17315",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17316",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17317",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17318",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17319",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17320",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17321",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17322",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17323",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17324",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17325",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17326",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17327",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17328",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17329",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17330",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17331",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17332",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17333",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17334",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17335",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17336",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17337",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17338",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17339",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17340",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17341",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17342",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17343",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17344",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17345",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17346",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17347",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17348",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17349",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17350",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17351",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17352",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17353",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17354",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17355",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17356",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17357",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17358",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17359",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17360",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17361",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17362",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17363",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17364",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17365",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17366",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17367",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17368",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17369",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17370",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17371",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17372",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17373",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17374",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17375",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17376",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17377",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17378",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17309",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17310",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17311",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17312",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17313",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17314",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17315",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17316",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17317",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17318",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17319",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17320",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17321",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17322",
+    "before": null,
+    "after": "s1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17323",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17324",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17325",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17326",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17327",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17328",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17329",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17330",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17331",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17332",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17333",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17334",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17335",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17336",
+    "before": null,
+    "after": "s2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17337",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17338",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17339",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17340",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17341",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17342",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17343",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17344",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17345",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17346",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17347",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17348",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17349",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17350",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17351",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17352",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17353",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17354",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17355",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17356",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17357",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17358",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17359",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17360",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17361",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17362",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17363",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17364",
+    "before": null,
+    "after": "s5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17365",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17366",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17367",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17368",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17369",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17370",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17371",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17372",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17373",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17374",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17375",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17376",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17377",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17378",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17309",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17310",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17311",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17312",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17313",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17314",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17315",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17316",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17317",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17318",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17319",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17320",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17321",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17322",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17323",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17324",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17325",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17326",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17327",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17328",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17329",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17330",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17331",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17332",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17333",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17334",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17335",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17336",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17337",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17338",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17339",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17340",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17341",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17342",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17343",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17344",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17345",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17346",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17347",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17348",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17349",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17350",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17351",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17352",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17353",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17354",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17355",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17356",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17357",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17358",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17359",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17360",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17361",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17362",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17363",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17364",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17365",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17366",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17367",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17368",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17369",
+    "before": null,
+    "after": "hc5"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17370",
+    "before": null,
+    "after": "hc6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17371",
+    "before": null,
+    "after": "hc7"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17372",
+    "before": null,
+    "after": "hc8"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17373",
+    "before": null,
+    "after": "hc9"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17374",
+    "before": null,
+    "after": "hc10"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17375",
+    "before": null,
+    "after": "hc11"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17376",
+    "before": null,
+    "after": "hc12"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17377",
+    "before": null,
+    "after": "hc13"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17378",
+    "before": null,
+    "after": "hc14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17309",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17310",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17311",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17312",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17313",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17314",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17315",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17316",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17318",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17319",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17320",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17321",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17322",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17324",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17326",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17327",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17328",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17329",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17330",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17332",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17333",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17334",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17335",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17336",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17338",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17339",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17340",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17341",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17342",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17343",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17344",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17346",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17347",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17348",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17349",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17350",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17352",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17353",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17354",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17355",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17356",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17357",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17358",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17359",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17360",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17361",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17362",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17363",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17364",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17366",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17368",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17369",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17370",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17371",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17377",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17378",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17309",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17310",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17311",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17312",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17313",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17314",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17315",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17316",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17317",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17318",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17319",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17320",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17321",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17322",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17323",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17324",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17325",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17326",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17327",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17328",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17329",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17330",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17331",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17332",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17333",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17334",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17335",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17336",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17337",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17338",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17339",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17340",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17341",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17342",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17343",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17344",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17345",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17346",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17347",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17348",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17349",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17350",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17351",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17352",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17353",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17354",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17355",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17356",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17357",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17358",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17359",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17360",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17361",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17362",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17363",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17364",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17365",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17366",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17367",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17368",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17369",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17370",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17371",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17372",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17373",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17374",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17375",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17376",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17377",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17378",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17309",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17310",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17311",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17312",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17313",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17314",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17315",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17316",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17317",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17318",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17319",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17320",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17321",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17322",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17323",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17324",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17325",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17326",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17327",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17328",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17329",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17330",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17331",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17332",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17333",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17334",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17335",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17336",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17337",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17338",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17339",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17340",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17341",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17342",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17343",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17344",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17345",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17346",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17347",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17348",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17349",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17350",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17351",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17352",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17353",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17354",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17355",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17356",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17357",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17358",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17359",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17360",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17361",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17362",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17363",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17364",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17365",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17366",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17367",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17368",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17369",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17370",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17371",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17372",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17373",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17374",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17375",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17376",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17377",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17378",
+    "before": null,
+    "after": "outcome_sd"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17309",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17311",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17313",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17320",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17321",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17323",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17324",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17325",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17329",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17330",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17331",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17334",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17335",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17336",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17341",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17342",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17343",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17345",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17347",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17348",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17351",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17352",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17353",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17357",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17361",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17363",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17364",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17365",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17367",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17372",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17373",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17375",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17376",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17378",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17309",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17311",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17313",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17314",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17315",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17316",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17317",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17319",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17320",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17321",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17322",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17323",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17324",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17325",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17327",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17328",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17329",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17330",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17331",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17333",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17334",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17335",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17336",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17337",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17339",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17341",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17342",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17343",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17344",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17345",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17347",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17348",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17349",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17350",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17351",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17352",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17353",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17355",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17356",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17357",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17358",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17359",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17361",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17362",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17363",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17364",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17365",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17367",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17369",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17370",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17371",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17372",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17373",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17375",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17376",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17377",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17378",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17309",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17310",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17311",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17312",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17313",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17314",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17315",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17316",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17317",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17318",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17319",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17320",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17321",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17322",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17323",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17324",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17325",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17326",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17327",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17328",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17329",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17330",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17331",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17332",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17333",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17334",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17335",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17336",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17337",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17338",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17339",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17340",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17341",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17342",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17343",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17344",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17345",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17346",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17347",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17348",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17349",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17350",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17351",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17352",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17353",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17354",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17355",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17356",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17357",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17358",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17359",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17360",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17361",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17362",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17363",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17364",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17365",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17366",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17367",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17368",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17369",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17370",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17371",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17372",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17374",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17375",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17376",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17377",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17378",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17309",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff -27 percentage points, deliberately beside low AQ outcome_mean 68 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17310",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff -27 percentage points, deliberately beside high AQ outcome_mean 41 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17311",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff -8 0-100 rating points, deliberately beside low AQ outcome_mean 49 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17312",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff -8 0-100 rating points, deliberately beside high AQ outcome_mean 41 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17313",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff -8 0-100 rating points, deliberately beside low AQ median other_level 60 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17314",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff -8 0-100 rating points, deliberately beside high AQ median other_level 25 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17315",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff -8 0-100 rating points, deliberately beside low AQ outcome_sd 32 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17316",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff -8 0-100 rating points, deliberately beside high AQ outcome_sd 37 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17317",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff 20 sites, deliberately beside low AQ outcome_mean 29 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17318",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff 20 sites, deliberately beside high AQ outcome_mean 49 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17319",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff 20 sites, deliberately beside low AQ median other_level 26 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17320",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff 20 sites, deliberately beside high AQ median other_level 50 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17321",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff 20 sites, deliberately beside low AQ outcome_sd 19 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17322",
+    "before": null,
+    "after": "Table 1A pp170-173 / Figure 2A: reported high-minus-low Diff 20 sites, deliberately beside high AQ outcome_sd 17 on the same outcome scale. Experiment 1, late SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17323",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff -54 percentage points, deliberately beside low AQ outcome_mean 77 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17324",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff -54 percentage points, deliberately beside high AQ outcome_mean 23 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17325",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff -37 0-100 rating points, deliberately beside low AQ outcome_mean 61 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17326",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff -37 0-100 rating points, deliberately beside high AQ outcome_mean 24 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17327",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff -37 0-100 rating points, deliberately beside low AQ median other_level 75 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17328",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff -37 0-100 rating points, deliberately beside high AQ median other_level 20 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17329",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff -37 0-100 rating points, deliberately beside low AQ outcome_sd 34 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17330",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff -37 0-100 rating points, deliberately beside high AQ outcome_sd 28 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17331",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff 4 sites, deliberately beside low AQ outcome_mean 40 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17332",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff 4 sites, deliberately beside high AQ outcome_mean 44 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17333",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff 4 sites, deliberately beside low AQ median other_level 36 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17334",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff 4 sites, deliberately beside high AQ median other_level 45 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17335",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff 4 sites, deliberately beside low AQ outcome_sd 22 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17336",
+    "before": null,
+    "after": "Table 1B pp171-173 / Figure 2B: reported high-minus-low Diff 4 sites, deliberately beside high AQ outcome_sd 24 on the same outcome scale. Experiment 1, early SOC, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17337",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff -13 percentage points, deliberately beside low AQ outcome_mean 53 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17338",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff -13 percentage points, deliberately beside high AQ outcome_mean 40 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17339",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff -1 0-100 rating points, deliberately beside low AQ outcome_mean 47 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17340",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff -1 0-100 rating points, deliberately beside high AQ outcome_mean 46 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17341",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff -1 0-100 rating points, deliberately beside low AQ median other_level 55 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17342",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff -1 0-100 rating points, deliberately beside high AQ median other_level 45 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17343",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff -1 0-100 rating points, deliberately beside low AQ outcome_sd 31 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17344",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff -1 0-100 rating points, deliberately beside high AQ outcome_sd 33 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17345",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff 135 $thousands, deliberately beside low AQ outcome_mean 235 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17346",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff 135 $thousands, deliberately beside high AQ outcome_mean 370 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17347",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff 135 $thousands, deliberately beside low AQ median other_level 112 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17348",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff 135 $thousands, deliberately beside high AQ median other_level 358 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17349",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff 135 $thousands, deliberately beside low AQ outcome_sd 208 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17350",
+    "before": null,
+    "after": "Table 2A pp174-175: reported high-minus-low Diff 135 $thousands, deliberately beside high AQ outcome_sd 113 on the same outcome scale. Experiment 2, SOC before verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17351",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff -1 percentage points, deliberately beside low AQ outcome_mean 23 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17352",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff -1 percentage points, deliberately beside high AQ outcome_mean 22 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17353",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff -6 0-100 rating points, deliberately beside low AQ outcome_mean 31 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17354",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff -6 0-100 rating points, deliberately beside high AQ outcome_mean 25 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17355",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff -6 0-100 rating points, deliberately beside low AQ median other_level 20 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17356",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff -6 0-100 rating points, deliberately beside high AQ median other_level 10 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17357",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff -6 0-100 rating points, deliberately beside low AQ outcome_sd 31 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17358",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff -6 0-100 rating points, deliberately beside high AQ outcome_sd 29 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17359",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff 186 $thousands, deliberately beside low AQ outcome_mean 175 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17360",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff 186 $thousands, deliberately beside high AQ outcome_mean 361 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17361",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff 186 $thousands, deliberately beside low AQ median other_level 100 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17362",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff 186 $thousands, deliberately beside high AQ median other_level 338 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17363",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff 186 $thousands, deliberately beside low AQ outcome_sd 145 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17364",
+    "before": null,
+    "after": "Table 2B pp175-177: reported high-minus-low Diff 186 $thousands, deliberately beside high AQ outcome_sd 156 on the same outcome scale. Experiment 3, SOC after verdict, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17365",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff -16 percentage points, deliberately beside low AQ outcome_mean 71 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17366",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff -16 percentage points, deliberately beside high AQ outcome_mean 55 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17367",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff -11 0-100 rating points, deliberately beside low AQ outcome_mean 65 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17368",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff -11 0-100 rating points, deliberately beside high AQ outcome_mean 54 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17369",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff -11 0-100 rating points, deliberately beside low AQ median other_level 75 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17370",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff -11 0-100 rating points, deliberately beside high AQ median other_level 65 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17371",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff -11 0-100 rating points, deliberately beside low AQ outcome_sd 28 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17372",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff -11 0-100 rating points, deliberately beside high AQ outcome_sd 35 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17373",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff 104 $thousands, deliberately beside low AQ outcome_mean 341 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17374",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff 104 $thousands, deliberately beside high AQ outcome_mean 445 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17375",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff 104 $thousands, deliberately beside low AQ median other_level 350 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17376",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff 104 $thousands, deliberately beside high AQ median other_level 400 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17377",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff 104 $thousands, deliberately beside low AQ outcome_sd 189 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17378",
+    "before": null,
+    "after": "Table 2C pp175,178: reported high-minus-low Diff 104 $thousands, deliberately beside high AQ outcome_sd 158 on the same outcome scale. Experiment 4, SOC after verdict; revised materials, randomized mock jurors. Negligence rates in percent; SOC in Table 2 in $thousands. No division or standardization."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17309",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17310",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17311",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17312",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17313",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17314",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17315",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17316",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17317",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17318",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17319",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17320",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17321",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17322",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17323",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17324",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17325",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17326",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17327",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17328",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17329",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17330",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17331",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17332",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17333",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17334",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17335",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17336",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17337",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17338",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17339",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17340",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17341",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17342",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17343",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17344",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17345",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17346",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17347",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17348",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17349",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17350",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17351",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17352",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17353",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17354",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17355",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17356",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17357",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17358",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17359",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17360",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17361",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17362",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17363",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17364",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17365",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17366",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17367",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17368",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17369",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17370",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17371",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17372",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17373",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. Within-experiment randomization identifies the same target population; low AQ supplies untreated-relative-to-high mean. For SD, explicitly labeled arm-specific outcome distribution in this randomized target; no complier/subgroup selection or weight mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17374",
+    "before": null,
+    "after": "Explicit table Diff with adjacent arm summary; not a ratio. High-treatment mean is not the untreated/low-quality baseline, despite the randomized population match."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17375",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17376",
+    "before": null,
+    "after": "Retained as deliberately linked other outcome level: median is nested beneath the arm mean in the exact same outcome-and-Diff block (Tables1A/B,2A/B/C), not merely elsewhere in the panel. The focal estimate remains the printed mean Diff, not a median treatment effect. Alignment n/a. Narrower no-median interpretation held for parent adjudication."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17377",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17378",
+    "before": null,
+    "after": "Eligibility retained: explicitly nested arm SD in the same outcome block as the reported Diff, not a generic descriptive table elsewhere. Alignment unresolved separately: the table identifies low/high AQ realized-outcome dispersion, but does not state a reference potential-outcome distribution for the focal average contrast. Random assignment supports population comparability, not automatic state-invariance of dispersion. Aligned=1 for both arm-specific target distributions is a reasonable alternative; neither is coded 0 merely for being treated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13522",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13523",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13524",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13525",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13526",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13527",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13528",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13529",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13530",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13531",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13532",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13533",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13534",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13535",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13536",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13537",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13538",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13539",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13540",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13541",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13542",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13543",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13544",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13545",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13546",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13547",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13548",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13549",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13550",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13551",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13552",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13553",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13554",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13555",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13556",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13557",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13558",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13559",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13560",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13561",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13562",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13563",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13564",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13565",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13566",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13567",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13568",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13569",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13570",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13571",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13572",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13573",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13574",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13576",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13577",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13578",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13579",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13580",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13581",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13522",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13523",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13524",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13525",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13526",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13527",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13528",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13529",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13530",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13531",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13532",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13533",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13534",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13535",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13536",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13537",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13538",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13539",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13540",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13541",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13542",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13543",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13544",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13545",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13546",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13547",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13548",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13549",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13550",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13551",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13552",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13553",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13554",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13555",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13556",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13557",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13558",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13559",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13560",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13561",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13562",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13563",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13564",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13565",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13566",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13567",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13568",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13569",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13570",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13571",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13572",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13573",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13574",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13576",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13577",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13578",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13579",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13580",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13581",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13522",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13523",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13524",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13525",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13526",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13527",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13528",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13529",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13530",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13531",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13532",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13533",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13534",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13535",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13536",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13537",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13538",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13539",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13540",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13541",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13542",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13543",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13544",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13545",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13546",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13547",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13548",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13549",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13550",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13551",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13552",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13553",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13554",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13555",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13556",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13557",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13558",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13559",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13560",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13561",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13562",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13563",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13564",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13565",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13566",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13567",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13568",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13569",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13570",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13571",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13572",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13573",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13574",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13576",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13577",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13578",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13579",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13580",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13581",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13527",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13528",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13534",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13535",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13541",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13542",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13548",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13550",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13563",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13565",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13567",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13569",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13571",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13572",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13574",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13576",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13577",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13578",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13580",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13581",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3549",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3552",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3557",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3559",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3560",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3562",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3563",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13522",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13523",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13525",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13527",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13528",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13529",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13532",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13534",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13535",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13536",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13537",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13539",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13541",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13542",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13548",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13549",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13550",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13555",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13559",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13560",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13562",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13563",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13564",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13565",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13566",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13567",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13568",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13569",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13570",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13571",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13572",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13574",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13576",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13577",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13578",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13579",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13580",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13581",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3549",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3550",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3552",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3553",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3557",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3558",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3559",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3560",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3561",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3562",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3563",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13522",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13523",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13525",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13527",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13528",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13529",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13530",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13532",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13534",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13535",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13536",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13537",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13539",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13541",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13542",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13543",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13544",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13546",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13548",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13549",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13550",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13551",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13553",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13555",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13556",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13557",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13558",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13559",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13560",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13561",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13562",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13563",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13564",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13565",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13566",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13567",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13568",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13569",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13570",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13571",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13572",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13573",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13574",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13576",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13577",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13578",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13579",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13580",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13581",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3548",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3549",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3550",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3551",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3552",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3553",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3554",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3555",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3556",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3557",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3558",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3559",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3560",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3561",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3562",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3563",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13522",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13523",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13524",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13525",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13526",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13527",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13528",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13529",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13530",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13531",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13532",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13533",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13534",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13535",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13536",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13537",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13538",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13539",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13540",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13541",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13542",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13543",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13544",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13545",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13546",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13547",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13548",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13549",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13550",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13551",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13552",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13553",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13554",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13555",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13556",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13557",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): number of quarry sites, 0-70. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13558",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13559",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13560",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): required correction, $0-$700,000; Table 2 displays $thousands. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13561",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13562",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13563",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): required correction, $0-$700,000; Table 2 displays $thousands. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13564",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13565",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): required correction, $0-$700,000; Table 2 displays $thousands. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13566",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13567",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): required correction, $0-$700,000; Table 2 displays $thousands. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13568",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13569",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): required correction, $0-$700,000; Table 2 displays $thousands. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13570",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13571",
+    "before": null,
+    "after": "Extent of counterfactual reasoning; elicitation scale/transform and empirical zero frequency not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13572",
+    "before": null,
+    "after": "Extent of counterfactual reasoning; elicitation scale/transform and empirical zero frequency not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13573",
+    "before": null,
+    "after": "Extent of counterfactual reasoning; elicitation scale/transform and empirical zero frequency not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13574",
+    "before": null,
+    "after": "Extent of counterfactual reasoning; elicitation scale/transform and empirical zero frequency not supplied."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13576",
+    "before": null,
+    "after": "Juror yes/no negligence verdict in the 163-person seven-site replication (p172 fn15). Binary response and unchanged instrument established; qualitative similarity does not independently document an observed zero in this replication. No table distribution reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13577",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13578",
+    "before": null,
+    "after": "SOC minimum quarry sites, replication uses seven sites; exact response scale and observed zero frequency not restated."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13579",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13580",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13581",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3548",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3549",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3550",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): number of quarry sites, 0-70. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3551",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3552",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3553",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): number of quarry sites, 0-70. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3554",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3555",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3556",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3557",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): required correction, $0-$700,000; Table 2 displays $thousands. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3558",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3559",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3560",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): required correction, $0-$700,000; Table 2 displays $thousands. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3561",
+    "before": null,
+    "after": "Juror yes/no negligence verdict; individual binary response, not the table percentage. Both verdicts observed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3562",
+    "before": null,
+    "after": "Juror assessed probability of negligence, 101-point 0-100 scale; permitted zero does not establish observed zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3563",
+    "before": null,
+    "after": "Juror assessed minimum standard of care (SOC): required correction, $0-$700,000; Table 2 displays $thousands. Zero allowed but observed zero frequency not reported."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E167",
+    "before": null,
+    "after": "DONE — full available 17-page source review followed by focused independent audit, accepted by parent with material alternatives preserved. 63 retained settings, 75 active outcomes, 70 comparisons in explicit same-outcome arm-and-Diff blocks: 30 means, 20 medians, 20 SDs; deliberate pairing not mere availability. Means low-AQ aligned1/high0, medians n/a, SD alignment unknown with both-arm target-state aligned1 substantial alternative; narrower means-only eligibility alternative held. All verbal0/divided0; raw levels not transferred to logit. Generic damages h54 and h54/hy1 withdrawn with IDs reserved, affirmative finding held for reporting granularity, not excluded for causal identification. Separate 163-person seven-site replication h55 retained minimum sample/design/named outcomes, unknown method and verdict zero mass, exact path grid and whole-record hold alternative explicit. h41 conditional indirect rating only; s3 timing, h58 separately reported pooled conditional AQ with stricter merge alternative. Methods 12RCT/30Other/21unknown; measured SOC/intention not randomized, nulls and causal intent retained. Corrected Figure2B unavailable; official erratum prose only, no coefficient invented. Table1C SE, Figure1 endpoint and Table2 rounding/path conflicts preserved. No empirical replication or omission-free claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5779",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5780",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5781",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5782",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5783",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5784",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5785",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5786",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5787",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5788",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5789",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5790",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5791",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5792",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5793",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5794",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5795",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5796",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5797",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5798",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5799",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5800",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5801",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5802",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5803",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5804",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5805",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5806",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5807",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5808",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5809",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5810",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5811",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5812",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5813",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5814",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5815",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5816",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5817",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5818",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5819",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5820",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5821",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5822",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5823",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5824",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5825",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5826",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5827",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5828",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5829",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5830",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5831",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5833",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5834",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5835",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5836",
+    "before": null,
+    "after": "67LYDNXH"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5779",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5780",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5781",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5782",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5783",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5784",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5785",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5786",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5787",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5788",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5789",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5790",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5791",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5792",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5793",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5794",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5795",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5796",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5797",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5798",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5799",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5800",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5801",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5802",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5803",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5804",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5805",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5806",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5807",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5808",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5809",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5810",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5811",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5812",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5813",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5814",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5815",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5816",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5817",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5818",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5819",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5820",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5821",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5822",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5823",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5824",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5825",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5826",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5827",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5828",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5829",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5830",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5831",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5833",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5834",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5835",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5836",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1406",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1408",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5783",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5790",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5797",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5804",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5811",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5824",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5826",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5827",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5831",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5833",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5835",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1406",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1407",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1408",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1409",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1410",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1411",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5779",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5780",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5781",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5782",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5783",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5784",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5785",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5786",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5787",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5788",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5789",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5790",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5791",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5792",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5793",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5794",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5795",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5796",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5797",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5798",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5799",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5800",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5801",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5802",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5803",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5804",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5805",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5806",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5807",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5808",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5809",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5810",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5811",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5812",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5813",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5814",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5815",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5816",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5817",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5818",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5819",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5820",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5821",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5822",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5823",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5824",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5825",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5826",
+    "before": null,
+    "after": "RCT"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5827",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5828",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5829",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5830",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5831",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5833",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5834",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5835",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5836",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1406",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1408",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5781",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5784",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5785",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5788",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5791",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5792",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5795",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5798",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5799",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5802",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5805",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5806",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5809",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5812",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5813",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5816",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5819",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5824",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5826",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5827",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5828",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5829",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5830",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5831",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5833",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5834",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5835",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1406",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1407",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1408",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1409",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1410",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1411",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5779",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5780",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5781",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5782",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5783",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5784",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5785",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5786",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5787",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5788",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5789",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5790",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5791",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5792",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5793",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5794",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5795",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5796",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5797",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5798",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5799",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5800",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5801",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5802",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5803",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5804",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5805",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5806",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5807",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5808",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5809",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5810",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5811",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5812",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5813",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5814",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5815",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5816",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5817",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5818",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5819",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5820",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5821",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5822",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5823",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5824",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5825",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5826",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5827",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5828",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5829",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5830",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5831",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5833",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5834",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5835",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5836",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1406",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1407",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1408",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1409",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1410",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1411",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5779",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5780",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5781",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5782",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5783",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5784",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5785",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5786",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5787",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5788",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5789",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5790",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5791",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5792",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5793",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5794",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5795",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5796",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5797",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5798",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5799",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5800",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5801",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5802",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5803",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5804",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5805",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5806",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5807",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5808",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5809",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5810",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5811",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5812",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5813",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5814",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5815",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5816",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5817",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5818",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5819",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5820",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5821",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5822",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5823",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5824",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5825",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5826",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5827",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5828",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5829",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5830",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5831",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5833",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5834",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5835",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5836",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1406",
+    "before": null,
+    "after": "Experiment 1, late SOC: randomized high-versus-low audit-quality assignment (10 versus 50 of 70 sites tested); unadjusted arm-mean differences on verdict, probability rating and SOC. Table 1A pp170-173 / Figure 2A"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1407",
+    "before": null,
+    "after": "Experiment 1, early SOC: randomized high-versus-low audit-quality assignment (10 versus 50 of 70 sites tested); unadjusted arm-mean differences on verdict, probability rating and SOC. Table 1B pp171-173 / Figure 2B"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1408",
+    "before": null,
+    "after": "Experiment 1 randomized timing of SOC assessment (before/after learning AQ) and its interaction with assigned AQ on negligence verdict. Table 1C p171, H2 pp172 and custom contrast fn13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1409",
+    "before": null,
+    "after": "Experiment 2, SOC before verdict: randomized high-versus-low audit-quality assignment ($108K versus $358K required correction of a possible $700K overstatement); unadjusted arm-mean differences on verdict, probability rating and SOC. Table 2A pp174-175"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1410",
+    "before": null,
+    "after": "Experiment 3, SOC after verdict: randomized high-versus-low audit-quality assignment ($108K versus $358K required correction of a possible $700K overstatement); unadjusted arm-mean differences on verdict, probability rating and SOC. Table 2B pp175-177"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1411",
+    "before": null,
+    "after": "Experiment 4, SOC after verdict; revised materials: randomized high-versus-low audit-quality assignment ($108K versus $358K required correction of a possible $700K overstatement); unadjusted arm-mean differences on verdict, probability rating and SOC. Table 2C pp175,178"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5779",
+    "before": null,
+    "after": "Experiment 1, late SOC: randomized AQ binary contrast (10 versus 50 of 70 sites tested) on negligence verdict, unconditional total Path C. Experiment 1, late SOC; Figure 2A, pp170-173"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5780",
+    "before": null,
+    "after": "Experiment 1, late SOC: randomized AQ binary contrast (10 versus 50 of 70 sites tested) on negligence verdict, SOC-conditioned direct Path Cprime. Experiment 1, late SOC; Figure 2A, pp170-173"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5781",
+    "before": null,
+    "after": "Experiment 1, late SOC: measured SOC effect on negligence verdict controlling AQ (Path B); SOC is nonbinary, not randomized. Experiment 1, late SOC; Figure 2A, pp170-173"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5782",
+    "before": null,
+    "after": "Experiment 1, late SOC: indirect effect of randomized AQ through measured SOC on negligence verdict. Experiment 1, late SOC; Figure 2A, pp170-173"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5783",
+    "before": null,
+    "after": "Experiment 1, late SOC: measured SOC effect on continuous probability-of-negligence rating, controlling AQ. Experiment 1, late SOC; Figure 2A, pp170-173; p169 fn6 and experiment-specific Sobel-test footnote"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5784",
+    "before": null,
+    "after": "Experiment 1, late SOC: AQ effect on continuous probability-of-negligence rating, direct effect conditional on SOC. Experiment 1, late SOC; Figure 2A, pp170-173; p169 fn6; p170 fn10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5785",
+    "before": null,
+    "after": "Experiment 1, late SOC: AQ effect on continuous probability-of-negligence rating, indirect effect through SOC. Experiment 1, late SOC; Figure 2A, pp170-173; p169 fn6; p170 fn10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5786",
+    "before": null,
+    "after": "Experiment 1, early SOC: randomized AQ binary contrast (10 versus 50 of 70 sites tested) on negligence verdict, unconditional total Path C. Experiment 1, early SOC; Figure 2B, pp170-173"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5787",
+    "before": null,
+    "after": "Experiment 1, early SOC: randomized AQ binary contrast (10 versus 50 of 70 sites tested) on negligence verdict, SOC-conditioned direct Path Cprime. Experiment 1, early SOC; Figure 2B, pp170-173"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5788",
+    "before": null,
+    "after": "Experiment 1, early SOC: measured SOC effect on negligence verdict controlling AQ (Path B); SOC is nonbinary, not randomized. Experiment 1, early SOC; Figure 2B, pp170-173"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5789",
+    "before": null,
+    "after": "Experiment 1, early SOC: indirect effect of randomized AQ through measured SOC on negligence verdict. Experiment 1, early SOC; Figure 2B, pp170-173"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5790",
+    "before": null,
+    "after": "Experiment 1, early SOC: measured SOC effect on continuous probability-of-negligence rating, controlling AQ. Experiment 1, early SOC; Figure 2B, pp170-173; p169 fn6 and experiment-specific Sobel-test footnote"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5791",
+    "before": null,
+    "after": "Experiment 1, early SOC: AQ effect on continuous probability-of-negligence rating, direct effect conditional on SOC. Experiment 1, early SOC; Figure 2B, pp170-173; p169 fn6; p170 fn10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5792",
+    "before": null,
+    "after": "Experiment 1, early SOC: AQ effect on continuous probability-of-negligence rating, indirect effect through SOC. Experiment 1, early SOC; Figure 2B, pp170-173; p169 fn6; p170 fn10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5793",
+    "before": null,
+    "after": "Experiment 2, SOC before verdict: randomized AQ binary contrast ($108K versus $358K required correction of a possible $700K overstatement) on negligence verdict, unconditional total Path C. Experiment 2, SOC before verdict; p174 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5794",
+    "before": null,
+    "after": "Experiment 2, SOC before verdict: randomized AQ binary contrast ($108K versus $358K required correction of a possible $700K overstatement) on negligence verdict, SOC-conditioned direct Path Cprime. Experiment 2, SOC before verdict; p174 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5795",
+    "before": null,
+    "after": "Experiment 2, SOC before verdict: measured SOC effect on negligence verdict controlling AQ (Path B); SOC is nonbinary, not randomized. Experiment 2, SOC before verdict; p174 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5796",
+    "before": null,
+    "after": "Experiment 2, SOC before verdict: indirect effect of randomized AQ through measured SOC on negligence verdict. Experiment 2, SOC before verdict; p174 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5797",
+    "before": null,
+    "after": "Experiment 2, SOC before verdict: measured SOC effect on continuous probability-of-negligence rating, controlling AQ. Experiment 2, SOC before verdict; p174 untabulated mediation; p169 fn6 and experiment-specific Sobel-test footnote"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5798",
+    "before": null,
+    "after": "Experiment 2, SOC before verdict: AQ effect on continuous probability-of-negligence rating, direct effect conditional on SOC. Experiment 2, SOC before verdict; p174 untabulated mediation; p169 fn6; p174 fn17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5799",
+    "before": null,
+    "after": "Experiment 2, SOC before verdict: AQ effect on continuous probability-of-negligence rating, indirect effect through SOC. Experiment 2, SOC before verdict; p174 untabulated mediation; p169 fn6; p174 fn17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5800",
+    "before": null,
+    "after": "Experiment 3, SOC after verdict: randomized AQ binary contrast ($108K versus $358K required correction of a possible $700K overstatement) on negligence verdict, unconditional total Path C. Experiment 3, SOC after verdict; p176 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5801",
+    "before": null,
+    "after": "Experiment 3, SOC after verdict: randomized AQ binary contrast ($108K versus $358K required correction of a possible $700K overstatement) on negligence verdict, SOC-conditioned direct Path Cprime. Experiment 3, SOC after verdict; p176 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5802",
+    "before": null,
+    "after": "Experiment 3, SOC after verdict: measured SOC effect on negligence verdict controlling AQ (Path B); SOC is nonbinary, not randomized. Experiment 3, SOC after verdict; p176 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5803",
+    "before": null,
+    "after": "Experiment 3, SOC after verdict: indirect effect of randomized AQ through measured SOC on negligence verdict. Experiment 3, SOC after verdict; p176 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5804",
+    "before": null,
+    "after": "Experiment 3, SOC after verdict: measured SOC effect on continuous probability-of-negligence rating, controlling AQ. Experiment 3, SOC after verdict; p176 untabulated mediation; p169 fn6 and experiment-specific Sobel-test footnote"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5805",
+    "before": null,
+    "after": "Experiment 3, SOC after verdict: AQ effect on continuous probability-of-negligence rating, direct effect conditional on SOC. Experiment 3, SOC after verdict; p176 untabulated mediation; p169 fn6; p176 fn19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5806",
+    "before": null,
+    "after": "Experiment 3, SOC after verdict: AQ effect on continuous probability-of-negligence rating, indirect effect through SOC. Experiment 3, SOC after verdict; p176 untabulated mediation; p169 fn6; p176 fn19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5807",
+    "before": null,
+    "after": "Experiment 4, SOC after verdict; revised materials: randomized AQ binary contrast ($108K versus $358K required correction of a possible $700K overstatement) on negligence verdict, unconditional total Path C. Experiment 4, SOC after verdict; revised materials; p178 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5808",
+    "before": null,
+    "after": "Experiment 4, SOC after verdict; revised materials: randomized AQ binary contrast ($108K versus $358K required correction of a possible $700K overstatement) on negligence verdict, SOC-conditioned direct Path Cprime. Experiment 4, SOC after verdict; revised materials; p178 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5809",
+    "before": null,
+    "after": "Experiment 4, SOC after verdict; revised materials: measured SOC effect on negligence verdict controlling AQ (Path B); SOC is nonbinary, not randomized. Experiment 4, SOC after verdict; revised materials; p178 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5810",
+    "before": null,
+    "after": "Experiment 4, SOC after verdict; revised materials: indirect effect of randomized AQ through measured SOC on negligence verdict. Experiment 4, SOC after verdict; revised materials; p178 untabulated mediation"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5811",
+    "before": null,
+    "after": "Experiment 4, SOC after verdict; revised materials: measured SOC effect on continuous probability-of-negligence rating, controlling AQ. Experiment 4, SOC after verdict; revised materials; p178 untabulated mediation; p169 fn6 and experiment-specific Sobel-test footnote"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5812",
+    "before": null,
+    "after": "Experiment 4, SOC after verdict; revised materials: AQ effect on continuous probability-of-negligence rating, direct effect conditional on SOC. Experiment 4, SOC after verdict; revised materials; p178 untabulated mediation; p169 fn6; p178 fn22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5813",
+    "before": null,
+    "after": "Experiment 4, SOC after verdict; revised materials: AQ effect on continuous probability-of-negligence rating, indirect effect through SOC. Experiment 4, SOC after verdict; revised materials; p178 untabulated mediation; p169 fn6; p178 fn22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5814",
+    "before": null,
+    "after": "Experiment 1 randomized SOC-elicitation timing modifies AQ effect on SOC (first-stage moderation, substantive anchoring mechanism). pp171-172; fn12 PROCESS model7; t124=2.04"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5815",
+    "before": null,
+    "after": "Experiment 1 timing-dependent indirect AQ effect through SOC on negligence verdict. pp171-172 moderated mediation; fn12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5816",
+    "before": null,
+    "after": "Experiment 1 randomized timing-by-AQ factorial contrast on probability-of-negligence rating. p172 fn14; ANOVA and weighted contrast p<0.05"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5817",
+    "before": null,
+    "after": "Experiment 2: AQ assignment effect on SOC moderated by indirect intention (would change SOC). p174 intention section, fn18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5818",
+    "before": null,
+    "after": "Experiment 2: AQ indirect effect through SOC on negligence verdict conditional on indirect intention (would change SOC). p174 intention section, fn18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5819",
+    "before": null,
+    "after": "Experiment 2: AQ indirect effect through SOC on probability-of-negligence rating, conditional on indirect intention. p174 intention section and fn18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5820",
+    "before": null,
+    "after": "Experiment 3: AQ assignment effect on SOC moderated by indirect intention (would change SOC). p177 intention section"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5821",
+    "before": null,
+    "after": "Experiment 3: AQ indirect effect through SOC on negligence verdict conditional on indirect intention (would change SOC). p177 intention section"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5822",
+    "before": null,
+    "after": "Experiment 3: AQ assignment effect on SOC moderated by direct self-reported intention. p177 and fn21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5823",
+    "before": null,
+    "after": "Experiment 3: AQ indirect effect through SOC on negligence verdict conditional on direct self-reported intention. p177 and fn21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5824",
+    "before": null,
+    "after": "Experiment 4: AQ assignment effect on SOC moderated by direct self-reported intention. p178 fn24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5825",
+    "before": null,
+    "after": "Experiment 4: AQ indirect effect through SOC on negligence verdict conditional on direct self-reported intention. p178 fn24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5826",
+    "before": null,
+    "after": "Experiment 4: AQ assignment effect on SOC moderated by indirect intention (would change SOC). p178 fn24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5827",
+    "before": null,
+    "after": "Experiment 4: AQ indirect effect through SOC on negligence verdict conditional on indirect intention (would change SOC). p178 fn24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5828",
+    "before": null,
+    "after": "Experiment 1: AQ assignment effect on extent of counterfactual reasoning; substantive null alternative mechanism. p170 fn9; conclusion p179"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5829",
+    "before": null,
+    "after": "Experiment 2: AQ assignment effect on extent of counterfactual reasoning; substantive null alternative mechanism. p170 fn9; conclusion p179"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5830",
+    "before": null,
+    "after": "Experiment 3: AQ assignment effect on extent of counterfactual reasoning; substantive null alternative mechanism. p170 fn9; conclusion p179"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5831",
+    "before": null,
+    "after": "Experiment 4: AQ assignment effect on extent of counterfactual reasoning; substantive null alternative mechanism. p170 fn9; conclusion p179"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5833",
+    "before": null,
+    "after": "Seven-site replication of Experiment1 AQ/timing effects on verdict, probability rating and SOC; 163 AMT jurors, one versus five of seven sites tested (p172 fn15). Implementation unresolved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5834",
+    "before": null,
+    "after": "Experiment 4 versus 3 case-material bundle effect on negligence verdict, adjusting for AQ; nonrandomized experiment comparison. p178 untabulated logistic regression"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5835",
+    "before": null,
+    "after": "AQ assignment effect and experiment moderation in pooled Experiments 3 and 4 logistic regression. p178 untabulated cross-experiment regression"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5836",
+    "before": null,
+    "after": "Experiment 1 pooled AQ assignment effect on negligence verdict adjusting for SOC-elicitation order, with AQ-by-order interaction. Table 1C p171; H2 p172"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1406",
+    "before": null,
+    "after": "Narrow mixed-estimator model bundle to linear direct assignment mean contrasts explicitly printed as Diff. Keep null effects and early SOC contrast (negative-control mechanism evidence). Logit paths and indirect estimands allocated separately. Experiment 4 supports abstract/conclusion generalization and is main=1. Random assignment within experiment; not a randomized experiment-number contrast. Table 1/2 rounded contrasts must not replace exact path coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1407",
+    "before": null,
+    "after": "Narrow mixed-estimator model bundle to linear direct assignment mean contrasts explicitly printed as Diff. Keep null effects and early SOC contrast (negative-control mechanism evidence). Logit paths and indirect estimands allocated separately. Experiment 4 supports abstract/conclusion generalization and is main=1. Random assignment within experiment; not a randomized experiment-number contrast. Table 1/2 rounded contrasts must not replace exact path coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1408",
+    "before": null,
+    "after": "Binary logistic regression, not RCT code. Timing main effect retained with interaction including null timing effect; the distinct conditional AQ term is assigned only to h58; model coefficient Order=-0.49, AQ=-2.464, Order*AQ=1.343. Printed SE column is anomalous (314.54/4418.26/1790.00); transcribe no corrected SE. Custom contrast weights 2,-2,1,-1 not an additional binary treatment; included same-location H2 contrast, no invented effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1409",
+    "before": null,
+    "after": "Narrow mixed-estimator model bundle to linear direct assignment mean contrasts explicitly printed as Diff. Keep null effects and early SOC contrast (negative-control mechanism evidence). Logit paths and indirect estimands allocated separately. Experiment 4 supports abstract/conclusion generalization and is main=1. Random assignment within experiment; not a randomized experiment-number contrast. Table 1/2 rounded contrasts must not replace exact path coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1410",
+    "before": null,
+    "after": "Narrow mixed-estimator model bundle to linear direct assignment mean contrasts explicitly printed as Diff. Keep null effects and early SOC contrast (negative-control mechanism evidence). Logit paths and indirect estimands allocated separately. Experiment 4 supports abstract/conclusion generalization and is main=1. Random assignment within experiment; not a randomized experiment-number contrast. Table 1/2 rounded contrasts must not replace exact path coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1411",
+    "before": null,
+    "after": "Narrow mixed-estimator model bundle to linear direct assignment mean contrasts explicitly printed as Diff. Keep null effects and early SOC contrast (negative-control mechanism evidence). Logit paths and indirect estimands allocated separately. Experiment 4 supports abstract/conclusion generalization and is main=1. Random assignment within experiment; not a randomized experiment-number contrast. Table 1/2 rounded contrasts must not replace exact path coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5779",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. C=-1.12; Cprime=-3.73; A=19.46; B=0.1; bootstrap significant at 99%. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5780",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. C=-1.12; Cprime=-3.73; A=19.46; B=0.1; bootstrap significant at 99%. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5781",
+    "before": null,
+    "after": "Logistic outcome equation. Explicit central mechanism interpretation in H1 and results (higher SOC increases verdict likelihood), not dismissed as correlation-only or automatically RCT. C=-1.12; Cprime=-3.73; A=19.46; B=0.1; bootstrap significant at 99%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5782",
+    "before": null,
+    "after": "PROCESS model 4, linear mediator plus logistic binary-response mediation; bootstrapped indirect effect is a separate estimand, not the total/direct effect or an IV design. C=-1.12; Cprime=-3.73; A=19.46; B=0.1; bootstrap significant at 99%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5783",
+    "before": null,
+    "after": "Authors report same inferences for probability ratings, including the SOC mechanism; experiment-specific footnotes report Sobel evidence where applicable. Do not transfer significant late-SOC mediation to early-SOC Experiment1. Preserve minimum named mediator-response path, but exact equation/implementation and coefficient are unreported. OLS is plausible; SOC is measured, so this path is not a randomized assignment effect. No exact path grid or benchmark invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5784",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5785",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5786",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. C=-2.46; Cprime=-3.39; A=4.32; B z=2.63 in prose; bootstrap not significant at 90%. Authoritative PDF omits B annotation; official 2017 erratum identifies omitted Figure 2B text. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5787",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. C=-2.46; Cprime=-3.39; A=4.32; B z=2.63 in prose; bootstrap not significant at 90%. Authoritative PDF omits B annotation; official 2017 erratum identifies omitted Figure 2B text. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5788",
+    "before": null,
+    "after": "Logistic outcome equation. Explicit central mechanism interpretation in H1 and results (higher SOC increases verdict likelihood), not dismissed as correlation-only or automatically RCT. C=-2.46; Cprime=-3.39; A=4.32; B z=2.63 in prose; bootstrap not significant at 90%. Authoritative PDF omits B annotation; official 2017 erratum identifies omitted Figure 2B text."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5789",
+    "before": null,
+    "after": "PROCESS model 4, linear mediator plus logistic binary-response mediation; bootstrapped indirect effect is a separate estimand, not the total/direct effect or an IV design. C=-2.46; Cprime=-3.39; A=4.32; B z=2.63 in prose; bootstrap not significant at 90%. Authoritative PDF omits B annotation; official 2017 erratum identifies omitted Figure 2B text."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5790",
+    "before": null,
+    "after": "Authors report same inferences for probability ratings, including the SOC mechanism; experiment-specific footnotes report Sobel evidence where applicable. Do not transfer significant late-SOC mediation to early-SOC Experiment1. Preserve minimum named mediator-response path, but exact equation/implementation and coefficient are unreported. OLS is plausible; SOC is measured, so this path is not a randomized assignment effect. No exact path grid or benchmark invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5791",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5792",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5793",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. Total z=-1.03; direct z=-2.37; SOC z=2.95; indirect significant at 99%. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5794",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. Total z=-1.03; direct z=-2.37; SOC z=2.95; indirect significant at 99%. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5795",
+    "before": null,
+    "after": "Logistic outcome equation. Explicit central mechanism interpretation in H1 and results (higher SOC increases verdict likelihood), not dismissed as correlation-only or automatically RCT. Total z=-1.03; direct z=-2.37; SOC z=2.95; indirect significant at 99%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5796",
+    "before": null,
+    "after": "PROCESS model 4, linear mediator plus logistic binary-response mediation; bootstrapped indirect effect is a separate estimand, not the total/direct effect or an IV design. Total z=-1.03; direct z=-2.37; SOC z=2.95; indirect significant at 99%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5797",
+    "before": null,
+    "after": "Authors report same inferences for probability ratings, including the SOC mechanism; experiment-specific footnotes report Sobel evidence where applicable. Do not transfer significant late-SOC mediation to early-SOC Experiment1. Preserve minimum named mediator-response path, but exact equation/implementation and coefficient are unreported. OLS is plausible; SOC is measured, so this path is not a randomized assignment effect. No exact path grid or benchmark invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5798",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5799",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5800",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. Total z=-0.07; direct z=-2.53; SOC z=3.80; indirect significant at 99%. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5801",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. Total z=-0.07; direct z=-2.53; SOC z=3.80; indirect significant at 99%. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5802",
+    "before": null,
+    "after": "Logistic outcome equation. Explicit central mechanism interpretation in H1 and results (higher SOC increases verdict likelihood), not dismissed as correlation-only or automatically RCT. Total z=-0.07; direct z=-2.53; SOC z=3.80; indirect significant at 99%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5803",
+    "before": null,
+    "after": "PROCESS model 4, linear mediator plus logistic binary-response mediation; bootstrapped indirect effect is a separate estimand, not the total/direct effect or an IV design. Total z=-0.07; direct z=-2.53; SOC z=3.80; indirect significant at 99%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5804",
+    "before": null,
+    "after": "Authors report same inferences for probability ratings, including the SOC mechanism; experiment-specific footnotes report Sobel evidence where applicable. Do not transfer significant late-SOC mediation to early-SOC Experiment1. Preserve minimum named mediator-response path, but exact equation/implementation and coefficient are unreported. OLS is plausible; SOC is measured, so this path is not a randomized assignment effect. No exact path grid or benchmark invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5805",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5806",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5807",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. Total z=-1.31; direct z=-2.84; SOC z=4.13; indirect significant at 95%. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5808",
+    "before": null,
+    "after": "Binary logistic response equation in PROCESS mediation, not linear RCT merely because assignment is randomized. Total z=-1.31; direct z=-2.84; SOC z=4.13; indirect significant at 95%. Direct conditioning on measured SOC changes estimand and requires additional mediation assumptions; those concerns do not negate author causal intention. No log-odds/observed-rate benchmark pairing across locations."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5809",
+    "before": null,
+    "after": "Logistic outcome equation. Explicit central mechanism interpretation in H1 and results (higher SOC increases verdict likelihood), not dismissed as correlation-only or automatically RCT. Total z=-1.31; direct z=-2.84; SOC z=4.13; indirect significant at 95%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5810",
+    "before": null,
+    "after": "PROCESS model 4, linear mediator plus logistic binary-response mediation; bootstrapped indirect effect is a separate estimand, not the total/direct effect or an IV design. Total z=-1.31; direct z=-2.84; SOC z=4.13; indirect significant at 95%."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5811",
+    "before": null,
+    "after": "Authors report same inferences for probability ratings, including the SOC mechanism; experiment-specific footnotes report Sobel evidence where applicable. Do not transfer significant late-SOC mediation to early-SOC Experiment1. Preserve minimum named mediator-response path, but exact equation/implementation and coefficient are unreported. OLS is plausible; SOC is measured, so this path is not a randomized assignment effect. No exact path grid or benchmark invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5812",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5813",
+    "before": null,
+    "after": "Authors report same inferences and Sobel mediation tests for probability rating, not coefficients or complete equation implementations. Minimum supported direct/indirect estimands; do not copy logistic coefficients to rating scale. Linear RCT/OLS mediation is plausible; exact implementation not independently established by a Sobel statistic alone. Overall unadjusted effect is in original RCT row; measured SOC path allocated separately as unknown implementation without invented coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5814",
+    "before": null,
+    "after": "Linear mediator regression interaction, direct randomized factorial manipulation; not diagnostic-only first stage or IV. Conditioning on timing defines contrast; no numerical interaction coefficient or outcome benchmark reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5815",
+    "before": null,
+    "after": "PROCESS model7 linear mediator/logistic verdict mediation, separate moderated indirect estimand. Early 90% CI [-0.35,1.20], late 95% CI [0.39,2.85]; no normalization by SOC or comparison of effect with verdict level."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5816",
+    "before": null,
+    "after": "Linear ANOVA direct experimental response, unlike binary-logit verdict equation. Weighted custom contrast part of factorial result, not a new treatment. No coefficient magnitude reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5817",
+    "before": null,
+    "after": "Linear PROCESS mediator moderation. Random AQ, post-task measured moderator, not randomized intention. Author interpretation retained including null direct-intent interaction in Experiment 3. t59=1.94; SOC differences $233K versus $69K; verdict differences 8 versus 25 percentage points. Contrasts of treatment effects across subgroups are not same-outcome baseline levels; no comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5818",
+    "before": null,
+    "after": "Moderated mediation with logistic verdict; both reported subgroup estimates including nulls retained as same-location variants. Measured intention selection limits causal mechanism interpretation, not automatic exclusion. t59=1.94; SOC differences $233K versus $69K; verdict differences 8 versus 25 percentage points. Do not invent estimate for Experiment 3 direct-intent nonintenders: explicitly insufficient power."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5819",
+    "before": null,
+    "after": "Footnote18 directly extends the immediately preceding intention-moderated mediation result to probability ratings. Retain that indirect estimand only, not an unspecified family of direct/total paths. Exact continuous-response implementation unreported; unknown, with linear mediation as competing alternative. Measured intention is not randomized; opposite-direction response exclusion is a sample variant."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5820",
+    "before": null,
+    "after": "Linear PROCESS mediator moderation. Random AQ, post-task measured moderator, not randomized intention. Author interpretation retained including null direct-intent interaction in Experiment 3. t62=1.68; 32 versus 31 jurors; mediation 95% versus marginal 90%. Contrasts of treatment effects across subgroups are not same-outcome baseline levels; no comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5821",
+    "before": null,
+    "after": "Moderated mediation with logistic verdict; both reported subgroup estimates including nulls retained as same-location variants. Measured intention selection limits causal mechanism interpretation, not automatic exclusion. t62=1.68; 32 versus 31 jurors; mediation 95% versus marginal 90%. Do not invent estimate for Experiment 3 direct-intent nonintenders: explicitly insufficient power."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5822",
+    "before": null,
+    "after": "Linear PROCESS mediator moderation. Random AQ, post-task measured moderator, not randomized intention. Author interpretation retained including null direct-intent interaction in Experiment 3. t62=1.21,p=0.115; 50 intending jurors; 13-person nonintender mediation not estimated. Contrasts of treatment effects across subgroups are not same-outcome baseline levels; no comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5823",
+    "before": null,
+    "after": "Moderated mediation with logistic verdict; both reported subgroup estimates including nulls retained as same-location variants. Measured intention selection limits causal mechanism interpretation, not automatic exclusion. t62=1.21,p=0.115; 50 intending jurors; 13-person nonintender mediation not estimated. Do not invent estimate for Experiment 3 direct-intent nonintenders: explicitly insufficient power."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5824",
+    "before": null,
+    "after": "Linear PROCESS mediator moderation. Random AQ, post-task measured moderator, not randomized intention. Author interpretation retained including null direct-intent interaction in Experiment 3. t61=2.18; 42 intenders versus 20 others. Contrasts of treatment effects across subgroups are not same-outcome baseline levels; no comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5825",
+    "before": null,
+    "after": "Moderated mediation with logistic verdict; both reported subgroup estimates including nulls retained as same-location variants. Measured intention selection limits causal mechanism interpretation, not automatic exclusion. t61=2.18; 42 intenders versus 20 others. Do not invent estimate for Experiment 3 direct-intent nonintenders: explicitly insufficient power."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5826",
+    "before": null,
+    "after": "Linear PROCESS mediator moderation. Random AQ, post-task measured moderator, not randomized intention. Author interpretation retained including null direct-intent interaction in Experiment 3. t61=1.29,p=0.1; 25 changers versus 37 nonchangers. Contrasts of treatment effects across subgroups are not same-outcome baseline levels; no comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5827",
+    "before": null,
+    "after": "Moderated mediation with logistic verdict; both reported subgroup estimates including nulls retained as same-location variants. Measured intention selection limits causal mechanism interpretation, not automatic exclusion. t61=1.29,p=0.1; 25 changers versus 37 nonchangers. Do not invent estimate for Experiment 3 direct-intent nonintenders: explicitly insufficient power."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5828",
+    "before": null,
+    "after": "Authors explicitly test and reject this mechanism in every experiment; not a manipulation/comprehension check. Implemented estimator not supplied, so unknown; RCT if linear, Other if nonlinear. No numerical effects or benchmarks reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5829",
+    "before": null,
+    "after": "Authors explicitly test and reject this mechanism in every experiment; not a manipulation/comprehension check. Implemented estimator not supplied, so unknown; RCT if linear, Other if nonlinear. No numerical effects or benchmarks reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5830",
+    "before": null,
+    "after": "Authors explicitly test and reject this mechanism in every experiment; not a manipulation/comprehension check. Implemented estimator not supplied, so unknown; RCT if linear, Other if nonlinear. No numerical effects or benchmarks reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5831",
+    "before": null,
+    "after": "Authors explicitly test and reject this mechanism in every experiment; not a manipulation/comprehension check. Implemented estimator not supplied, so unknown; RCT if linear, Other if nonlinear. No numerical effects or benchmarks reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5833",
+    "before": null,
+    "after": "A distinct implemented experiment and named unchanged outcomes are established, unlike a generic cross-paper placeholder. Retain a minimum unresolved-implementation record, not a claim that all paths share one method. Exact total/direct/indirect and timing grids held unallocated. Same-inference language is not independent evidence of observed zeros. Parent may hold the whole row instead of this minimum unresolved scope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5834",
+    "before": null,
+    "after": "Authors explicitly interpret redesigned materials as increasing negligence and report experiment chi-square=19.74 while warning assignment across experiments was not random. Retain intended substantive effect, not excluded solely for weaker identification. No within-experiment randomization of this treatment; no alignment of unconditional Table2 means to adjusted logit."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5835",
+    "before": null,
+    "after": "AQ main effect and AQ-by-experiment interaction both insignificant p>0.10; substantive floor-effect robustness, retain nulls. Same regression location but treatment distinct from experiment-number effect. No numerical coefficient or deliberate same-scale benchmark reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5836",
+    "before": null,
+    "after": "Distinct focal AQ treatment in pooled binary logistic model, separate from s3 timing treatment and stratified mediation Paths C/Cprime. Reported AQ B=-2.464; conditional main effect depends on order coding, not a population-average risk difference. Retain reported interaction without computing marginal probabilities. No logit-scale benchmark pairing with raw Table1A/B rates."
+  }
+]
+```
