@@ -1729113,3 +1729113,4386 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-28T09:10:26.296944+00:00 — Review 3HUV3JXM: one-paper adjudicated source-scoped coding
+
+729 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A17220",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17221",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17222",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17223",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17224",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17225",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17226",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17227",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17228",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17229",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17230",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17220",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17221",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17222",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17223",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17224",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17225",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17226",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17227",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17228",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17229",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17230",
+    "before": null,
+    "after": "s4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17220",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17221",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17222",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17223",
+    "before": null,
+    "after": "hc4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17224",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17225",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17226",
+    "before": null,
+    "after": "hc3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17227",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17228",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17229",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17230",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17225",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17220",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17221",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17222",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17223",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17224",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17225",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17226",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17227",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17228",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17229",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17230",
+    "before": null,
+    "after": "y4"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L967",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L968",
+    "before": null,
+    "after": "y2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L969",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L970",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L971",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L972",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L973",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L974",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L975",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L976",
+    "before": null,
+    "after": "y3"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17220",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17221",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17222",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17223",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17224",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17225",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17226",
+    "before": null,
+    "after": "other_level"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17227",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17228",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17229",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17230",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M967",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M968",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M969",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M970",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M971",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M972",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M973",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M974",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M975",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M976",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17220",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17221",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17222",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17223",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17224",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17225",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17226",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17227",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17228",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N972",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17220",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17221",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17222",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17224",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17225",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17226",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17227",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17228",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17229",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17230",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O967",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O968",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O969",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O970",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O971",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O973",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O974",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O975",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O976",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17220",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17221",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17222",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17223",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17224",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17225",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17226",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17227",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17228",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17229",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17230",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P967",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P968",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P969",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P970",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P971",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P972",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P973",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P974",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P975",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P976",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17220",
+    "before": null,
+    "after": "Fig3A p.13 and p.12: qualitative IRS Audit=1 minus 0 contrast in delayed gift CAR paths deliberately plotted against IRS Audit=0 mean CAR path. Benchmark is observed unaudited gifts, 2004-2016. No numeric endpoints or day-by-day triples invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17221",
+    "before": null,
+    "after": "Fig3A p.13 and p.12: qualitative IRS Audit=1 minus 0 contrast in delayed gift CAR paths deliberately plotted against IRS Audit=1 mean CAR path. Benchmark is observed audited gifts, 2004-2016. No numeric endpoints or day-by-day triples invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17222",
+    "before": null,
+    "after": "Fig3B p.13 and p.12: qualitative IRS Audit=1 minus 0 contrast in timely gift CAR paths deliberately plotted against IRS Audit=0 mean CAR path. Benchmark is observed unaudited gifts, 2004-2016. No numeric endpoints or day-by-day triples invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17223",
+    "before": null,
+    "after": "Fig3B p.13 and p.12: qualitative IRS Audit=1 minus 0 contrast in timely gift CAR paths deliberately plotted against IRS Audit=1 mean CAR path. Benchmark is observed audited gifts, 2004-2016. No numeric endpoints or day-by-day triples invented."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17224",
+    "before": null,
+    "after": "Section4.1 p.9: 16.6% decrease corresponds to roughly3150 fewer gifted shares relative to approximately19,000 annual shares by top officers. Raw-share mean differs from mean normalized Gift Volume."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17225",
+    "before": null,
+    "after": "Section4.1 p.9: 15.0% decrease corresponds to approximately$135,000 lower gifts relative to approximately$900,000 average annual gift value. Raw-dollar mean is not mean normalized Gift Value."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17226",
+    "before": null,
+    "after": "Section4.1 p.10: hypothetical$900,000 gift with$450,000 basis, top rates41.0% and21.7%, produces$466,650 tax savings; audit-induced gift decline corresponds to approximately$70,000 lower tax savings. No population mean asserted; 15% in sentence modifies gift value, so no independently explicit tax-benefit division coded."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17227",
+    "before": null,
+    "after": "Section6.3 p.20: 19.0% decrease corresponds to approximately12,350 shares versus annual opportunistic trade volume approximately65,000 shares (Table9A65.149 thousand)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17228",
+    "before": null,
+    "after": "Section6.3 p.20: 37.5% reduction corresponds to roughly$115,000 lower profit versus average annual opportunistic profits approximately$306,000 (Table9A305.702 thousand)."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17229",
+    "before": null,
+    "after": "Table8 col2 p.18, p.17: IRS Audit coefficient -0.086; authors report6.2% relative decline in non-suspect gift volume versus sample mean. Benchmark numeric value not printed; no backsolved denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17230",
+    "before": null,
+    "after": "Table8 col4 p.18, p.17: IRS Audit coefficient -0.048; authors report3.5% relative decline in non-suspect gift value versus sample mean. Benchmark numeric value not printed; no backsolved denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q967",
+    "before": null,
+    "after": "Table3 col1 p.11, p.9 fn19: coefficient -0.250; explicitly ((-0.250 / 100)*(1-0))/0.0151=-0.166. Mean Gift Volume 0.0151 for 2004-2016 firm-year sample; 16.6% decline. Do not conflate with separate raw-share illustration."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q968",
+    "before": null,
+    "after": "Table3 col2 p.11, p.9: coefficient -0.237; stated 15.0% decline relative to sample mean of scaled Gift Value. Table2B rounded mean 0.016. Do not backsolve unrounded denominator; raw $900,000 illustration is separately h14."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q969",
+    "before": null,
+    "after": "Table4 col1 p.12; p.11: -0.114, stated 33.3% decline relative to sample mean of delayed Gift Volume; Table2B rounded mean 0.004. Preserve printed percent; rounded mean does not reproduce it exactly and is not an unrounded denominator."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q970",
+    "before": null,
+    "after": "Table4 col3 p.12; p.11: -0.130, stated 34.5% decline relative to sample mean of delayed Gift Value; Table2B rounded mean 0.004. Do not backsolve unrounded mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q971",
+    "before": null,
+    "after": "Table5 col1 p.14, p.12: -0.035 versus delayed-gift sample mean +0.083, decreasing from 8.3% to 4.8%, explicitly 42.2% relative decrease. Sample includes audited and unaudited gifts, 2004-2016."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q972",
+    "before": null,
+    "after": "Table5 col3 p.14, p.12 and Table2A p.10: +0.027 versus delayed-gift sample mean -0.023 (NEGATIVE -2.3%), increasing to +0.004 (0.4%). Source minus sign visually verified; model sign is wrong. No own-mean division stated."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q973",
+    "before": null,
+    "after": "Table8 col1 p.18, p.17 fn28: -0.215; mean Gift VolumeSuspect 0.0045; printed ((-0.215/100)*(1-0))/0.0045=-0.478, 47.8% relative decline. Firm-year sample, suspect gifts."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q974",
+    "before": null,
+    "after": "Table8 col3 p.18, p.17: -0.233; stated 44.0% relative decline versus sample mean of suspect Gift Value. Exact benchmark not printed; no backsolved value asserted."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q975",
+    "before": null,
+    "after": "Table9B col1 p.19 and p.20: -0.019, stated 19.0% decline; Table9A mean Trade VolumeOpp 0.100 in 33,181 firm-years, 2004-2016. Separate raw-share translation under h15."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q976",
+    "before": null,
+    "after": "Table9B col3 p.19, p.20 fn31: -0.003; mean Trade ProfitOpp 0.008; printed (-0.003*(1-0))/0.008=-0.375, stated 37.5% decline. Raw-dollar translation separately h15."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17220",
+    "before": null,
+    "after": "Observed unaudited-group path is not demonstrated to represent the audited target counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17221",
+    "before": null,
+    "after": "Observed audited endpoint is a treated outcome level, not an untreated baseline for the oriented audit effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17222",
+    "before": null,
+    "after": "Observed unaudited-group path is not demonstrated to represent the audited target counterfactual."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17223",
+    "before": null,
+    "after": "Observed audited endpoint is a treated outcome level, not an untreated baseline for the oriented audit effect."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17224",
+    "before": null,
+    "after": "Untreated target mean/weights are not established by observed same-sample averaging. The reported proportional reduction is multiplied by this raw mean to obtain shares/dollars; it is not divided by this raw benchmark (instructions Section6). Normalization by a scaled dependent-outcome mean remains separately coded under s1/s5."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17225",
+    "before": null,
+    "after": "Untreated target mean/weights are not established by observed same-sample averaging. The reported proportional reduction is multiplied by this raw mean to obtain shares/dollars; it is not divided by this raw benchmark (instructions Section6). Normalization by a scaled dependent-outcome mean remains separately coded under s1/s5."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17226",
+    "before": null,
+    "after": "Illustrative maintained tax-rate/basis assumptions; assess the derived-causal-translation gate and divided flag independently."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17227",
+    "before": null,
+    "after": "Untreated target mean/weights are not established by observed same-sample averaging. The reported proportional reduction is multiplied by this raw mean to obtain shares/dollars; it is not divided by this raw benchmark (instructions Section6). Normalization by a scaled dependent-outcome mean remains separately coded under s1/s5."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17228",
+    "before": null,
+    "after": "Untreated target mean/weights are not established by observed same-sample averaging. The reported proportional reduction is multiplied by this raw mean to obtain shares/dollars; it is not divided by this raw benchmark (instructions Section6). Normalization by a scaled dependent-outcome mean remains separately coded under s1/s5."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17229",
+    "before": null,
+    "after": "Untreated target mean/weights are not established by observed same-sample averaging."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17230",
+    "before": null,
+    "after": "Untreated target mean/weights are not established by observed same-sample averaging."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R967",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R968",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R969",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R970",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R971",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R972",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R973",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R974",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R975",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R976",
+    "before": null,
+    "after": "Observed pooled sample mean is not shown to be the untreated mean under the within-firm regression target/weights. Source does not identify the needed target-population equivalence; unknown, not automatic alignment or automatic IV-style mismatch."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12854",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12855",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12856",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12857",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12858",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12859",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12860",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12861",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12862",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12863",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12864",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12865",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12866",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12867",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12868",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12869",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12870",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12871",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12872",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12873",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12874",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12875",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12876",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12877",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12878",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12879",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12880",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12881",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12882",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12883",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12884",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12885",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12886",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12887",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12888",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12889",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12890",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12891",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12892",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12893",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12894",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12895",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A12896",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12854",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12855",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12856",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12857",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12858",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12859",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12860",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12861",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12862",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12863",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12864",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12865",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12866",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12867",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12868",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12869",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12870",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12871",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12872",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12873",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12874",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12875",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12876",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12877",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12878",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12879",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12880",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12881",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12882",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12883",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12884",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12885",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12886",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12887",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12888",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12889",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12890",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12891",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12892",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12893",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12894",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12895",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B12896",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12854",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12855",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12856",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12857",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12858",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12859",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12860",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12861",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12862",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12863",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12864",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12865",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12866",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12867",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12868",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12869",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12870",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12871",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12872",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12873",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12874",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12875",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12876",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12877",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12878",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12879",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12880",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12881",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12882",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12883",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12884",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12885",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12886",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12887",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12888",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12889",
+    "before": null,
+    "after": "hy4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12890",
+    "before": null,
+    "after": "hy5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12891",
+    "before": null,
+    "after": "hy6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12892",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12893",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12894",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12895",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C12896",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12854",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12855",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12856",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12857",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12858",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12859",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12860",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12861",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12862",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12863",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12864",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12865",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12866",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12867",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12868",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12869",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12874",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12875",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12876",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12877",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12878",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12879",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12880",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12881",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12882",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12883",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12884",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12885",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12886",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12887",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12888",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12889",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12890",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12891",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12892",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12893",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12894",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12895",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H12896",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3470",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3471",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3472",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3473",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3474",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3475",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3476",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3477",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3478",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3479",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3480",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3481",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3484",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3485",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3486",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3487",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12854",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12855",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12856",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12857",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12858",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12859",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12860",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12861",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12862",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12863",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12864",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12865",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12866",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12867",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12868",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12869",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12874",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12875",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12876",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12877",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12878",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12879",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12880",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12881",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12882",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12883",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12884",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12885",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12886",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12887",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12888",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12889",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12890",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12891",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12892",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12893",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12894",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12895",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I12896",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3470",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3471",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3472",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3473",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3474",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3476",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3477",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3478",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3479",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3484",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3485",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3486",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3487",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12854",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12855",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12856",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12857",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12858",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12859",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12860",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12861",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12862",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12863",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12864",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12865",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12866",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12867",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12868",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12869",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12874",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12875",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12876",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12877",
+    "before": null,
+    "after": "log1p"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12878",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12879",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12880",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12881",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12882",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12883",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12884",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12885",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12886",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12887",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12888",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12889",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12890",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12891",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12892",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12893",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12894",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12895",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J12896",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3470",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3471",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3472",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3473",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3474",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3475",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3476",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3477",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3478",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3479",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3480",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3481",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3482",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3483",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3484",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3485",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3486",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3487",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12854",
+    "before": null,
+    "after": "Gift VolumeDelay: annual delayed-gift amount, prior-year shares/market-equity scaled and multiplied by 100 as defined in AppendixB. Audit-year and three post-audit coefficient path; volume shown in Fig2, value explicitly reported similar but not shown p.11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12855",
+    "before": null,
+    "after": "Gift ValueDelay: annual delayed-gift amount, prior-year shares/market-equity scaled and multiplied by 100 as defined in AppendixB. Audit-year and three post-audit coefficient path; volume shown in Fig2, value explicitly reported similar but not shown p.11."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12856",
+    "before": null,
+    "after": "Figure3A: mean cumulative daily CRSP equal-weighted-adjusted return path for delayed gifts, plotted from -120 through +120 trading days. Distinct from separately reset six-month pre/post Table5 dependent outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12857",
+    "before": null,
+    "after": "Figure3B: mean cumulative daily CRSP equal-weighted-adjusted return path for timely gifts, plotted from -120 through +120 trading days. Distinct from separately reset six-month pre/post Table5 dependent outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12858",
+    "before": null,
+    "after": "Outside-director annual delayed gift volume, Table6A; scaled by prior-year shares outstanding/market equity and multiplied by100. Zero-mass not explicitly established for this separate director sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12859",
+    "before": null,
+    "after": "Outside-director annual delayed gift value, Table6A; scaled by prior-year shares outstanding/market equity and multiplied by100. Zero-mass not explicitly established for this separate director sample."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12860",
+    "before": null,
+    "after": "Outside-director delayed gifts: six-month pre-gift cumulative abnormal return using CRSP equal-weighted adjustment, Table6B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12861",
+    "before": null,
+    "after": "Outside-director delayed gifts: six-month post-gift cumulative abnormal return using CRSP equal-weighted adjustment, Table6B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12862",
+    "before": null,
+    "after": "Delayed annual gift volume scaled as AppendixB, Table7A/B; subgroup audit effects and interaction differentials. Zero gift firm-years are retained in annual panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12863",
+    "before": null,
+    "after": "Delayed annual gift value scaled as AppendixB, Table7A/B; subgroup audit effects and interaction differentials. Zero gift firm-years are retained in annual panel."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12864",
+    "before": null,
+    "after": "Annual delayed gift volume, Table7A/B, expected-audit-likelihood main effect at IRS Audit=0; prior-year shares/market-equity scaling times100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12865",
+    "before": null,
+    "after": "Annual delayed gift value, Table7A/B, expected-audit-likelihood main effect at IRS Audit=0; prior-year shares/market-equity scaling times100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12866",
+    "before": null,
+    "after": "Annual delayed gift volume, Table7A/B, expected-audit-likelihood main effect at IRS Audit=0; prior-year shares/market-equity scaling times100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12867",
+    "before": null,
+    "after": "Annual delayed gift value, Table7A/B, expected-audit-likelihood main effect at IRS Audit=0; prior-year shares/market-equity scaling times100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12868",
+    "before": null,
+    "after": "Annual delayed gift volume, Table7A/B, expected-audit-likelihood main effect at IRS Audit=0; prior-year shares/market-equity scaling times100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12869",
+    "before": null,
+    "after": "Annual delayed gift value, Table7A/B, expected-audit-likelihood main effect at IRS Audit=0; prior-year shares/market-equity scaling times100."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12870",
+    "before": null,
+    "after": "Scaled annual gift volume, delayed reporting; Section5.4.1 p.17. No coefficients printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12871",
+    "before": null,
+    "after": "Scaled annual gift volume, timely reporting; Section5.4.1 p.17. No coefficients printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12872",
+    "before": null,
+    "after": "Scaled annual gift value, delayed reporting; Section5.4.1 p.17. No coefficients printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12873",
+    "before": null,
+    "after": "Scaled annual gift value, timely reporting; Section5.4.1 p.17. No coefficients printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12874",
+    "before": null,
+    "after": "log(1+annual unscaled gifted shares), delayed reporting; Section5.4.2 p.17. No coefficients printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12875",
+    "before": null,
+    "after": "log(1+annual unscaled gifted shares), timely reporting; Section5.4.2 p.17. No coefficients printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12876",
+    "before": null,
+    "after": "log(1+annual unscaled gifted dollars), delayed reporting; Section5.4.2 p.17. No coefficients printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12877",
+    "before": null,
+    "after": "log(1+annual unscaled gifted dollars), timely reporting; Section5.4.2 p.17. No coefficients printed."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12878",
+    "before": null,
+    "after": "Six-month cumulative unadjusted (raw) stock return pre gift, delayed reports; Section5.4.3. Not a log outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12879",
+    "before": null,
+    "after": "Six-month cumulative unadjusted (raw) stock return pre gift, timely reports; Section5.4.3. Not a log outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12880",
+    "before": null,
+    "after": "Six-month cumulative unadjusted (raw) stock return post gift, delayed reports; Section5.4.3. Not a log outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12881",
+    "before": null,
+    "after": "Six-month cumulative unadjusted (raw) stock return post gift, timely reports; Section5.4.3. Not a log outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12882",
+    "before": null,
+    "after": "Annual gift volume for delayed reporting, using alternative10/20-trading-day lag cutoffs, Section5.4.4. Same prior-year shares/market-equity scaling times100. Existing no-gift years imply zeros under either partition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12883",
+    "before": null,
+    "after": "Annual gift volume for timely reporting, using alternative10/20-trading-day lag cutoffs, Section5.4.4. Same prior-year shares/market-equity scaling times100. Existing no-gift years imply zeros under either partition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12884",
+    "before": null,
+    "after": "Annual gift value for delayed reporting, using alternative10/20-trading-day lag cutoffs, Section5.4.4. Same prior-year shares/market-equity scaling times100. Existing no-gift years imply zeros under either partition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12885",
+    "before": null,
+    "after": "Annual gift value for timely reporting, using alternative10/20-trading-day lag cutoffs, Section5.4.4. Same prior-year shares/market-equity scaling times100. Existing no-gift years imply zeros under either partition."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12886",
+    "before": null,
+    "after": "three-month pre-gift CAR, footnote16 alternative windows. Baseline equal-weighted adjustment inferred from Section3.1.3; exact delayed/timely allocation unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12887",
+    "before": null,
+    "after": "three-month post-gift CAR, footnote16 alternative windows. Baseline equal-weighted adjustment inferred from Section3.1.3; exact delayed/timely allocation unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12888",
+    "before": null,
+    "after": "one-year pre-gift CAR, footnote16 alternative windows. Baseline equal-weighted adjustment inferred from Section3.1.3; exact delayed/timely allocation unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12889",
+    "before": null,
+    "after": "one-year post-gift CAR, footnote16 alternative windows. Baseline equal-weighted adjustment inferred from Section3.1.3; exact delayed/timely allocation unreported."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12890",
+    "before": null,
+    "after": "CRSP value-weighted-index-adjusted pre-gift CAR; footnote16. Baseline six-month horizon inferred from immediate definition; no horizon cross-product asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12891",
+    "before": null,
+    "after": "CRSP value-weighted-index-adjusted post-gift CAR; footnote16. Baseline six-month horizon inferred from immediate definition; no horizon cross-product asserted."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12892",
+    "before": null,
+    "after": "Raw annual gifted share volume: reported reduction about3150 shares from sample average about19,000; p.9."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12893",
+    "before": null,
+    "after": "Raw annual gifted dollar value: reported reduction about$135,000 from sample average about$900,000; pp.9-10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12894",
+    "before": null,
+    "after": "Personal tax savings from stock gifts: illustrative total charitable-deduction plus capital-gains exemption benefit, reduced about$70,000 against$466,650; p.10."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12895",
+    "before": null,
+    "after": "Raw annual opportunistic trading volume, shares, approximate decrease12,350; p.20."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K12896",
+    "before": null,
+    "after": "Raw annual opportunistic abnormal trading profits, dollars, approximate decrease$115,000; p.20."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3470",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3471",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3472",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3473",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3474",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3475",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3476",
+    "before": null,
+    "after": "Six-month cumulative daily abnormal return, CRSP equal-weighted adjustment, AppendixB p.24. Continuous; no source establishes a point mass at exactly zero. Do not equate a null treatment coefficient with outcome zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3477",
+    "before": null,
+    "after": "Six-month cumulative daily abnormal return, CRSP equal-weighted adjustment, AppendixB p.24. Continuous; no source establishes a point mass at exactly zero. Do not equate a null treatment coefficient with outcome zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3478",
+    "before": null,
+    "after": "Six-month cumulative daily abnormal return, CRSP equal-weighted adjustment, AppendixB p.24. Continuous; no source establishes a point mass at exactly zero. Do not equate a null treatment coefficient with outcome zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3479",
+    "before": null,
+    "after": "Six-month cumulative daily abnormal return, CRSP equal-weighted adjustment, AppendixB p.24. Continuous; no source establishes a point mass at exactly zero. Do not equate a null treatment coefficient with outcome zeros."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3480",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3481",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3482",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3483",
+    "before": null,
+    "after": "Annual firm-level amount scaled by prior-year shares outstanding (volume) or market equity (value/profit), multiplied by 100; AppendixB pp.23,25. Gift regression captions and footnote19 additionally imply a /100 conversion of printed coefficients; preserve this reporting-scale ambiguity. No-gift years establish zeros for gift subcategories (fn18); trade zero quartiles in Table9A establish zeros for trading outcomes."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3484",
+    "before": null,
+    "after": "Annual trading volume/profit scaled by prior-year shares outstanding/market equity and multiplied by 100; AppendixB p.25. Profit is signed buy-and-hold abnormal return times buy value minus the analogous sale value, not gross trade proceeds. Table9A zero quartiles establish zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3485",
+    "before": null,
+    "after": "Annual trading volume/profit scaled by prior-year shares outstanding/market equity and multiplied by 100; AppendixB p.25. Profit is signed buy-and-hold abnormal return times buy value minus the analogous sale value, not gross trade proceeds. Table9A zero quartiles establish zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3486",
+    "before": null,
+    "after": "Annual trading volume/profit scaled by prior-year shares outstanding/market equity and multiplied by 100; AppendixB p.25. Profit is signed buy-and-hold abnormal return times buy value minus the analogous sale value, not gross trade proceeds. Table9A zero quartiles establish zero mass."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3487",
+    "before": null,
+    "after": "Annual trading volume/profit scaled by prior-year shares outstanding/market equity and multiplied by 100; AppendixB p.25. Profit is signed buy-and-hold abnormal return times buy value minus the analogous sale value, not gross trade proceeds. Table9A zero quartiles establish zero mass."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E160",
+    "before": null,
+    "after": "DONE — full available-source review and focused independent audit accepted. 20 settings, 61 active outcomes and 21 comparisons. Seven independent revisions accepted: four raw-mean conversion division flags are 0 (normalized benchmarks remain divided=1), two raw annual gift zero masses are 1, and Fig2 conventional dynamic DiD rationale uses the actual event contrast, not dummy counts or asserted parallel trends; recurrent-audit handling remains unknown and dynamic FE is an alternative. Fig3 author-intention OLS paths retain four symmetric qualitative endpoints without invented ordinates; treated baseline aligned=0 and untreated alignment unknown. Outside-director substantive nulls, Table7 anticipated-audit parameters and s5 main role retained. Post-CAR source sign is -2.3%; +0.027 fractional return means +2.7 percentage points, not relative percent. Table8 nonsuspect 6.2% volume and 3.5% value retained without backsolved means. Raw translations retain unknown complete method/target weights; conditional-summary FE is an alternative. Tax illustration is other_level/divided=0, not a population mean. Footnote16 minimum scope retained without Cartesian expansion. Footnote26 budget-cut level response AND stronger audit deterrence are explicitly implemented but both HELD because outcome allocation is unknown; no generic outcome invented and no national-cut firm/year FE inherited. All six held evidence entries, scale conflicts and source-intention alternatives remain documented; no omission-free claim, separate supplement verification or empirical replication. Original models and IDs preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5542",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5543",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5544",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5545",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5546",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5547",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5548",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5549",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5550",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5551",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5552",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5553",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5554",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5555",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A5556",
+    "before": null,
+    "after": "3HUV3JXM"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5542",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5543",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5544",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5545",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5546",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5547",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5548",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5549",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5550",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5551",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5552",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5553",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5554",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5555",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B5556",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5550",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5552",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I5556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1372",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1373",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1374",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1375",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1376",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5542",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5543",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5544",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5545",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5546",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5547",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5548",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5549",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5550",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5551",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5552",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5553",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5554",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5555",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J5556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1375",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5551",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5552",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5553",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5554",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5555",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K5556",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1372",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1373",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1374",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1375",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1376",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5542",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5543",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5544",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5545",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5546",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5547",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5548",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5549",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5550",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5551",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5552",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5553",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5554",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5555",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L5556",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1372",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1373",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1374",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1375",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1376",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5542",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5543",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5544",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5545",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5546",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5547",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5548",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5549",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5550",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5551",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5552",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5553",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5554",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5555",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M5556",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1374",
+    "before": null,
+    "after": "IRS Audit (1 versus 0) on six-month pre/post gift CARs separately for delayed and timely gifts, transaction-level firm/year FE, Table5. Delayed pre-CAR coefficient -0.035 versus mean +0.083; delayed post-CAR +0.027 versus mean -0.023, to +0.004. Timely coefficients +0.004 and -0.007 are substantive nulls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5542",
+    "before": null,
+    "after": "IRS audit event-time effects on delayed annual stock gift volume and value, Figure2 p.13 / Section4.2 p.11; modified Eq1 with indicators for audit year and three post years (and diagnostic leads). Audit-year decline and subsequent reversion substantively interpreted; value path explicitly said to yield similar inferences but not displayed. No numerical path ordinates invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5543",
+    "before": null,
+    "after": "IRS Audit=1 versus 0 on mean cumulative abnormal-return paths around gifts, Figure3A delayed and 3B timely, pp.12-13. Transaction-level unadjusted mean contrasts, not Table5 FE coefficients. Curves run -120 to +120 trading days around gift date; delayed paths flatten under audit while timely paths differ little."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5544",
+    "before": null,
+    "after": "IRS Audit on outside-director delayed gift volume and value, Table6A cols2,4 p.15: +0.001 and +0.012, no discernible effects. Annual firm/year FE. Top-officer cols1,3 repeat Table4 and are not duplicated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5545",
+    "before": null,
+    "after": "IRS Audit on outside-director delayed pre/post six-month CARs, Table6B cols2,4 p.15: +0.013 and -0.008, no discernible effects; transaction-level firm/year FE. Top-officer columns repeat Table5."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5546",
+    "before": null,
+    "after": "IRS Audit effects moderated by high expected audit likelihood: Table7A/B p.16, Asset Size, UTB Balance, CIC Score columns. Retain low-likelihood baseline coefficient, audit-by-high-likelihood differential, and reported high-likelihood joint-effect nulls for delayed gift volume/value. Continuous proxy ranks define binary top-quintile versus bottom-four-quintile moderators; focal audit remains binary."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5547",
+    "before": null,
+    "after": "High Audit Likelihood based on Asset Size (top quintile=1 versus bottom four=0) on delayed gift volume/value in non-audit years, Table7A/B col1 p.16: -0.148/-0.182. Included high-likelihood main effects in the joint audit-interaction FE equation, interpreted as ex ante deterrence; not effect of continuously changing Asset Size."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5548",
+    "before": null,
+    "after": "High Audit Likelihood based on UTB Balance (top quintile=1 versus bottom four=0) on delayed gift volume/value in non-audit years, Table7A/B col2 p.16: -0.100/-0.154. Included high-likelihood main effects in the joint audit-interaction FE equation, interpreted as ex ante deterrence; not effect of continuously changing UTB Balance."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5549",
+    "before": null,
+    "after": "High Audit Likelihood based on CIC Score (top quintile=1 versus bottom four=0) on delayed gift volume/value in non-audit years, Table7A/B col3 p.16: -0.156/-0.101. Included high-likelihood main effects in the joint audit-interaction FE equation, interpreted as ex ante deterrence; not effect of continuously changing CIC Score."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5550",
+    "before": null,
+    "after": "Continuous IRS Attention, log(1+annual IRS EDGAR 10-K downloads), replaces binary IRS Audit in Eq1; Section5.4.1 p.17. Delayed/timely annual gift volume and value: negative delayed effects, timely nulls, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5551",
+    "before": null,
+    "after": "Binary IRS Audit on log(1+unscaled annual gifted shares) and log(1+unscaled annual gifted dollars), separately delayed/timely; Eq1, Section5.4.2 p.17. Negative delayed effects and timely nulls, untabulated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5552",
+    "before": null,
+    "after": "IRS Audit on raw six-month cumulative stock returns before/after gifts, delayed/timely separately, Eqs2/3 replacing CARs; Section5.4.3 p.17. Delayed pre negative/post positive; timely nulls. Untabulated; deduplicates raw-return mention in fn16."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5553",
+    "before": null,
+    "after": "IRS Audit on delayed/timely annual gift volume and value with 10- and 20-trading-day reporting-lag cutoffs replacing15; Section5.4.4 p.18. Both cutoffs retain delayed declines and timely nulls. Routine cutoff variants grouped, no coefficients invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5554",
+    "before": null,
+    "after": "IRS Audit on alternative pre/post gift CAR horizons and market adjustments, footnote16 p.7. Explicit implemented three-month and one-year pre/post windows; CRSP value-weighted-adjusted robustness. No delayed/timely cross-product or alternative-horizon-by-index grid asserted; raw six-month scope deduplicated in h11."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5555",
+    "before": null,
+    "after": "Reported economic translations of IRS Audit in Section4.1 pp.9-10: roughly3150 fewer annual gifted shares, $135,000 lower annual gift value, and about$70,000 lower personal tax savings. Uses reported percentage gift effects and sample raw means; tax illustration assumes$450,000 basis on$900,000 gift and rates41.0%/21.7%. Not new direct raw-outcome regressions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N5556",
+    "before": null,
+    "after": "Economic translations of IRS Audit effects into raw annual opportunistic trade shares and profits, Section6.3 p.20: roughly12,350 fewer shares and roughly$115,000 lower profits. Computed from19.0%/37.5% reductions and raw sample means, not new raw-outcome regressions."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1372",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Table 3 p.11; magnitude prose pp.9-10 and footnote19. Retain reported gift-scaling formula without repairing the apparent extra factor 100 relative to Section3.1/AppendixB definitions. Raw-share/dollar and tax-saving illustrations separately recorded under h14."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1373",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Table4 p.12; dynamic Figure2 is h1, not part of this static estimator. Retain both delayed effects and timely nulls."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1374",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Table5 p.14, magnitude prose p.12: post-gift sample mean is NEGATIVE -2.3%, increasing to +0.4%; model dropped the minus sign. Figure3 unadjusted mean-path contrasts separately h2. Footnote16 alternate outcomes separately h13."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1375",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Table8 p.18; pp.17-18. Includes suspect and non-suspect nulls; missing 6.2%/3.5% relative-decline comparisons added. Price percentile identifies outcome components, not a running-variable treatment discontinuity."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1376",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Table9 pp.19-20. Main=1: introduction pp.3-4 and p.20 conclusion to Section6 identify informed-trading deterrence as direct corroboration of central self-dealing conclusion; secondary-setting heading alone does not imply supporting-only. Raw-dollar/share translations separately h15."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5542",
+    "before": null,
+    "after": "Conventional dynamic firm/year TWFE lead-lag regression, exact equation p.11 and Fig2 caption p.13: audit and three pre/post annual indicators jointly included, with firms outside these windows as comparison observations. Authors compare pre-audit firms to other firms, then interpret audit-year drop and post-audit reversion. DiD_conventional follows implemented dynamic comparison and precedence, not presence of two FE alone. No explicit parallel-trends statement or named modern estimator; recurrence/overlap handling and omitted category not specified. Dynamic identifying FE is the competing taxonomy reading; retained method is conventional DiD under the prompt dynamic-lead/lag criterion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5543",
+    "before": null,
+    "after": "Section4.3 explicitly interprets displayed audit-group paths as deterrence of timing/backdating. Mean contrasts are linear in reported CARs; audit groups are observational, not randomized or matched. Group composition/private information may confound. Include broad author-intention reading, not identification certification; no plot coordinates digitized."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5544",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Although called a falsification test, the outside-director response is substantively interpreted as weaker personal scrutiny in introduction p.3 and conclusion p.20. Included substantive-null exception, not diagnostic-only exclusion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5545",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Same substantive outside-director null gate as h3; not a causal effect of director status itself."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5546",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Example Asset Size: audit baseline -0.157 volume/-0.162 value, interaction +0.125/+0.113. Do not label interaction a high-group total. UTB sample starts2007 (fn25); top1000 CIC alternative fn24 grouped routine cutoff sensitivity. Audit-likelihood main-effect treatments separately h6-h8. No linked own-outcome means/SDs in Table7; no synthetic magnitude grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5547",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Explicit ex ante behavior interpretation pp.16-17 and conclusion p.20 supports focal included-regressor causal intent despite observed proxy-based classification. Binary group membership is not randomized. No separate OLS regression invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5548",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Explicit ex ante behavior interpretation pp.16-17 and conclusion p.20 supports focal included-regressor causal intent despite observed proxy-based classification. Binary group membership is not randomized. No separate OLS regression invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5549",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Explicit ex ante behavior interpretation pp.16-17 and conclusion p.20 supports focal included-regressor causal intent despite observed proxy-based classification. Binary group membership is not randomized. No separate OLS regression invented."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5550",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5551",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5552",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5553",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5554",
+    "before": null,
+    "after": "Firm/year FE absorb persistent firm heterogeneity and common year shocks (Section 3.2 p.8; within-firm interpretation p.9). No randomized audit or IV; causal intention is explicit but time-varying confounding and audit-proxy error remain. Conditional linearity is in the reported constructed outcome; winsorization/estimated nuisance controls are not treated as a new focal structural estimator. Minimum individually defined outcomes retained. Footnote16 says inferences unchanged; does not establish each delay/timely allocation or full cross-product of horizons and market adjustments. No exact coefficients or benchmarks reported."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5555",
+    "before": null,
+    "after": "Causal author intention explicit: audit effect on personal wealth. Do not exclude for being a worked illustration. Fixed-rate tax conversion is affine conditional on basis/rates, but full mapping from weighted scaled FE coefficient to raw representative amounts is not established; method unknown rather than invented nonlinear Other. Other-level tax benchmark is an illustrative scenario, not an estimated population mean. Separate from baseline normalized-scale comparisons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O5556",
+    "before": null,
+    "after": "Explicit causal translation retained, but mapping from normalized within-firm FE target to raw mean amounts is not established. Method unknown; no outcome-adaptive estimator asserted solely from ratios. Distinct reported raw scales from s5."
+  }
+]
+```
