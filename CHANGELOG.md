@@ -1833243,3 +1833243,1800 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-29T05:01:05.848624+00:00 — Review GNWLXS8A: one-paper adjudicated source-scoped coding
+
+298 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A17530",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17531",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17530",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17531",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17530",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17531",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1017",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1018",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17530",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17531",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17530",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17531",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17530",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17531",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17530",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17531",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17530",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17531",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17530",
+    "before": null,
+    "after": "Figure1 p270 at t: treated ETR mean0.302, matched non-adopter mean0.320, one-sided difference p0.010; p270 prose calls difference economically significant reduction and rejects no effect. No numeric difference or ratio calculated here. Benchmark matched control ETR in same event year."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17531",
+    "before": null,
+    "after": "Figure1 p270 at t+1: treated ETR mean0.300, matched non-adopter mean0.311, one-sided difference p0.078; p270 prose calls difference economically significant reduction and rejects no effect. No numeric difference or ratio calculated here. Benchmark matched control ETR in same event year."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1017",
+    "before": null,
+    "after": "pp260,271–272: -0.016 ETR translated to about $18m by mean pre-tax income $1.1bn (Table3A1138.570m). Pre-tax income is neither ETR nor tax-expense level. Same-dollar units/explicit translation do not make same-outcome benchmark. Broader translation interpretation held; multiplication would be divided=0 if admitted, never1."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1018",
+    "before": null,
+    "after": "Wrong setting and multiple horizons bundled: Figure1 matched contemporaneous mean differences, not Table3 DiD coefficient. Reallocated to h1 with two horizon-specific same-ETR comparisons. No duplicate pretrend comparison."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17530",
+    "before": null,
+    "after": "pp264,267 establish an adopter target and nearest-propensity matched pairs within year/industry, without replacement within each cell; p271 fn20 permits reuse across years. Figure1 reports event-year group means but not whether reused controls receive pair-frequency weights at each horizon or whether horizon-specific missingness preserves matched pairs (fn21 documents unequal availability for the regression sample). Thus intended counterfactual is established, exact horizon-level construction is not. Retain unknown; neither repeated controls nor insignificant baseline differences establish mismatch. Alignment1 is warranted if pair-frequency/horizon matching is confirmed, not assumed. No computed double difference."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17531",
+    "before": null,
+    "after": "pp264,267 establish an adopter target and nearest-propensity matched pairs within year/industry, without replacement within each cell; p271 fn20 permits reuse across years. Figure1 reports event-year group means but not whether reused controls receive pair-frequency weights at each horizon or whether horizon-specific missingness preserves matched pairs (fn21 documents unequal availability for the regression sample). Thus intended counterfactual is established, exact horizon-level construction is not. Retain unknown; neither repeated controls nor insignificant baseline differences establish mismatch. Alignment1 is warranted if pair-frequency/horizon matching is confirmed, not assumed. No computed double difference."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14057",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14058",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14059",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14060",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14061",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14062",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14063",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14064",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14065",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14066",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14067",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A14068",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14057",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14058",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14059",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14060",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14061",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14062",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14063",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14064",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14065",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14066",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14067",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B14068",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14057",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14058",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14059",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14060",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14061",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14062",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14063",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14064",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14065",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14066",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14067",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C14068",
+    "before": null,
+    "after": "hy3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14058",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14059",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14060",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14061",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14062",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H14068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3676",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3677",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3680",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3681",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3682",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3683",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3685",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3686",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3687",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3688",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3689",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3691",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3692",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3693",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14057",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14058",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14059",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14060",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14061",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14062",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14063",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14064",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14065",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14066",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14067",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I14068",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3676",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3677",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3678",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3679",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3680",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3681",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3682",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3683",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3684",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3685",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3686",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3687",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3688",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3689",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3691",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3692",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3693",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14057",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14058",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14059",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14060",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14061",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14062",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14063",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14064",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14065",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14066",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14067",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J14068",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3676",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3677",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3678",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3679",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3680",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3681",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3682",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3683",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3684",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3685",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3686",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3687",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3688",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3689",
+    "before": null,
+    "after": "log"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3691",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3692",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3693",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14057",
+    "before": null,
+    "after": "ETR: total income tax expense / pre-tax book income (TXT/PI); annual level, Appendix A. Not a first-differenced DV merely because treatment effect is a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14058",
+    "before": null,
+    "after": "ETR: total income tax expense / pre-tax book income (TXT/PI); annual level, Appendix A. Not a first-differenced DV merely because treatment effect is a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14059",
+    "before": null,
+    "after": "Duplicate robustness outcome grouped under s3; inactive parent h3, physical ID reserved. TAX EXPERT: indicator for purchasing auditor-provided tax services from an industry tax-expert audit firm in next fiscal year, p273; Appendix A short definition omits explicit purchase wording."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14060",
+    "before": null,
+    "after": "Duplicate robustness outcome grouped under s3; inactive parent h3, physical ID reserved. LOG TAX FEES: natural log of auditor tax-service fees in next fiscal year; no log1p specified and no raw-zero frequency established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14061",
+    "before": null,
+    "after": "Duplicate robustness outcome grouped under s3; inactive parent h3, physical ID reserved. LOW TAX TIES: percentage of connections to low-ETR firms, p274 and Appendix A; continuous share."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14062",
+    "before": null,
+    "after": "Duplicate robustness outcome grouped under s7; inactive parent h4, physical ID reserved. CV_ETR: SD(ETR) / mean(ETR) over t-4 through t. This constructs a coefficient-of-variation response, not outcome-SD standardization or a comparison of a focal effect to its own outcome mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14063",
+    "before": null,
+    "after": "ETR: total income tax expense / pre-tax book income (TXT/PI); annual level, Appendix A. Not a first-differenced DV merely because treatment effect is a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14064",
+    "before": null,
+    "after": "FIN48 reserve for uncertain tax positions; no reported unit/transformation, or exact change-versus-level response implementation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14065",
+    "before": null,
+    "after": "FIN48 reserve component that if recorded would impact ETR; no reported scale or implementation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14066",
+    "before": null,
+    "after": "Income tax expense / total assets, not ETR denominator PI."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14067",
+    "before": null,
+    "after": "Natural log income tax expense; reported significant reduction."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K14068",
+    "before": null,
+    "after": "Pre-tax income response; prose natural logarithm may govern this term as well as income tax expense, but allocation is ambiguous; null effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3676",
+    "before": null,
+    "after": "ETR: total income tax expense / pre-tax book income (TXT/PI); annual level, Appendix A. Not a first-differenced DV merely because treatment effect is a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3677",
+    "before": null,
+    "after": "ETR: total income tax expense / pre-tax book income (TXT/PI); annual level, Appendix A. Not a first-differenced DV merely because treatment effect is a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3678",
+    "before": null,
+    "after": "TAX HAVEN: indicator for at least one new material tax-haven subsidiary in year t, with none in t-3 through t-1; p273."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3679",
+    "before": null,
+    "after": "TAX EXPERT: indicator for purchasing auditor-provided tax services from an industry tax-expert audit firm in next fiscal year, p273; Appendix A short definition omits explicit purchase wording."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3680",
+    "before": null,
+    "after": "LOG TAX FEES: natural log of auditor tax-service fees in next fiscal year; no log1p specified and no raw-zero frequency established."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3681",
+    "before": null,
+    "after": "LOW TAX TIES: percentage of connections to low-ETR firms, p274 and Appendix A; continuous share."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3682",
+    "before": null,
+    "after": "ACCRUALS: absolute magnitude of modified-Jones pre-tax discretionary accruals; not performance-matched in baseline, fn29 (performance-matched robustness grouped)."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3683",
+    "before": null,
+    "after": "TAX ACCRUALS: abs(income tax expense minus cash taxes paid) / lagged assets."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3684",
+    "before": null,
+    "after": "TAX MISSTATE: future tax-related misstatement indicator; Appendix A and p275."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3685",
+    "before": null,
+    "after": "ETR: total income tax expense / pre-tax book income (TXT/PI); annual level, Appendix A. Not a first-differenced DV merely because treatment effect is a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3686",
+    "before": null,
+    "after": "ETR: total income tax expense / pre-tax book income (TXT/PI); annual level, Appendix A. Not a first-differenced DV merely because treatment effect is a change."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3687",
+    "before": null,
+    "after": "CV_ETR: SD(ETR) / mean(ETR) over t-4 through t. This constructs a coefficient-of-variation response, not outcome-SD standardization or a comparison of a focal effect to its own outcome mean."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3688",
+    "before": null,
+    "after": "FOG: natural log Gunning-Fog Index of tax footnote; lower means easier reading; p278 fn32."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3689",
+    "before": null,
+    "after": "WORD COUNT: natural log number of words in tax footnote."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3690",
+    "before": null,
+    "after": "Change in annual ETR; first-difference response."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3691",
+    "before": null,
+    "after": "Temporary book-tax differences: tax-deferral outcome, exact scaling not specified in available article; null CLAWBACK×POST effect."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3692",
+    "before": null,
+    "after": "Permanent book-tax differences: earnings-related outcome; positive effect, exact scaling not specified."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3693",
+    "before": null,
+    "after": "Cash taxes paid / total assets; reduction interpreted as cash tax savings, not a binary response."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E176",
+    "before": null,
+    "after": "DONE — parent accepted independent revisions. 16 physical/14 retained settings; 30 physical/26 active outcomes; 4 physical/2 retained comparisons. Changes Design s8 identifying first-difference FE eliminates static unobservables; no within/LSDV implementation claim; treatment support unknown. Incidental company-FE h3/h4 variants consolidated into s3/s7, physical inactive parents/four n/a child outcomes preserved. Dynamic s2 unknown with contextual OLS alternative. Figure1 Matching two horizon-specific mean comparisons, alignment unknown because horizon pair weights unresolved, not a credibility objection. Foreign-income and FIN48 minimal allocations method/domain unknown; pretax log scope unknown. Raw pretax-income dollar translation rejected as different outcome. Full independent 27-page source reread; inherited blocked retrieval, supplement absence unverified. All alternatives held; historical status unchanged; no empirical replication or zero-error claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6201",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6202",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6203",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6204",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6205",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6206",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6207",
+    "before": null,
+    "after": "GNWLXS8A"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6201",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6202",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6203",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6204",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6205",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6206",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6207",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1479",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1482",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6203",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6204",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6207",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1475",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1476",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1477",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1478",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1479",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1480",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1481",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1482",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1483",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6201",
+    "before": null,
+    "after": "Matching"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6202",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6205",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6206",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6207",
+    "before": null,
+    "after": "DiD_conventional"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1476",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1479",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1482",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1483",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6205",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6206",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6207",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1475",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1476",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1477",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1478",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1479",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1480",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1481",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1482",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1483",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6201",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6202",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6205",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6206",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6207",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1475",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1476",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1477",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1478",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1479",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1480",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1481",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1482",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1483",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6201",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6202",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6205",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6206",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6207",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1475",
+    "before": null,
+    "after": "Table3B cols1–2 pp271–272: matched conventional DiD clawback exposure effect on annual ETR; -0.016 and -0.017. Auxiliary matching/entropy balancing, controls/year or company FE variants grouped. Figure1 and adopter-only col3 separately allocated."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1476",
+    "before": null,
+    "after": "p273 untabulated dynamic regression: YEAR_ADOPT, YEAR_AFTER_ADOPT and TWOYEARS+_AFTER_ADOPT effects on ETR; pre-adoption indicator diagnostic only."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1477",
+    "before": null,
+    "after": "Table4 cols1–4 pp273–274: within-adopter AFTER CLAWBACK effects on new tax-haven use, tax-expert use, log tax fees and low-tax ties; 0.010,0.060,0.245,0.055."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1478",
+    "before": null,
+    "after": "Table5 cols1–3 pp275–276: within-adopter clawback effects on absolute pre-tax accruals, absolute tax accruals and future tax misstatement; -0.009,-0.001,-0.036."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1479",
+    "before": null,
+    "after": "Table6 pp275,277: within-adopter AFTER CLAWBACK ETR effects by decrease/no decrease in accruals; -0.023 and null -0.008 (p0.170), Welch contrast p<0.05. Same treatment/outcome/location, subsamples grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1480",
+    "before": null,
+    "after": "Table7 pp275,278: within-adopter AFTER CLAWBACK ETR effects by robust/misconduct policy; -0.023,-0.013; grouped policy subsamples."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1481",
+    "before": null,
+    "after": "Table8 pp276–279: within-adopter AFTER CLAWBACK effects on CV_ETR, log tax-footnote FOG and log WORD COUNT; -0.148,-0.027,+0.128."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1482",
+    "before": null,
+    "after": "p279 Changes Design: change in ETR on change in CLAW ADOPT and changed controls; negative significant p<0.05, no exact coefficient."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1483",
+    "before": null,
+    "after": "p280 Alternative Measures of Tax Outcomes: Eq2 repeated for temporary and permanent book-tax differences and cash taxes/total assets; null temporary result retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6201",
+    "before": null,
+    "after": "Figure1 p270: propensity-score matched adopter/non-adopter ETR contrasts at adoption t and t+1; causal interpretation explicitly rejects no effect. Baseline t-1 balance not a treatment effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6202",
+    "before": null,
+    "after": "Table3B col3 pp272–273: adopter-only POST effect on annual ETR, -0.016 p0.001, industry controls; not Table3 cols1–2 DiD."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6203",
+    "before": null,
+    "after": "pp273–274 untabulated company-FE regressions: AFTER CLAWBACK effects on TAX EXPERT, LOG TAX FEES and LOW TAX TIES, positive results persist."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6204",
+    "before": null,
+    "after": "p277 untabulated company-FE CV_ETR regression: AFTER CLAWBACK reduces tax-outcome volatility."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6205",
+    "before": null,
+    "after": "p274 and fn7 p263: clawback adoption ETR effect strongest for above-median foreign-income adopters; access to tax planning moderation."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6206",
+    "before": null,
+    "after": "p275 fn30: post-clawback change in FIN48 uncertain-tax-position reserve, including reserve that if recorded would affect ETR; no change (substantive null)."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6207",
+    "before": null,
+    "after": "p280 Alternative Scalars for ETR: Eq2 repeated with tax expense/total assets, ln(tax expense), and pre-tax income as separate responses; significant tax-expense decline and null income effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1475",
+    "before": null,
+    "after": "Eq2 linear OLS treated×post, not modern DiD; no IV despite first-/second-stage vocabulary. Appendix A defines exposure including adoption year; main Eq2 text says all years after. Preserve wording distinction; implemented year-of definition used."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1476",
+    "before": null,
+    "after": "p273 names coefficients on event-year indicators after adopter-only Table3B cols3–4, making adopter-only OLS the leading reading. It does not state an augmented equation/sample or treated-by-event interactions. Retain unknown rather than invent matched dynamic DiD; the original displayed Eq2 does not establish the untabulated augmentation. Binary event-exposure contrasts retained; pre-adoption lead diagnostic. No modern estimator or IV asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1477",
+    "before": null,
+    "after": "Explicit OLS table note; industry FE are controls, without a separate identifying-FE argument. No untreated-group interaction in within-adopter design. Causal-intention retained from mechanism hypotheses, positive-spillover interpretation and conclusion despite descriptive-not-definitive qualification p273; narrower descriptive exclusion held. Company-FE robustness is explicitly allocated to TAX EXPERT and LOG TAX FEES (p273), and LOW TAX TIES (p274), not TAX HAVEN. Grouped here: no separate affirmative identification argument in these sentences, unlike p279 Changes Design. Original h3 and children remain physically present inactive."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1478",
+    "before": null,
+    "after": "Explicit OLS table note; industry FE are controls, without a separate identifying-FE argument. No untreated-group interaction in within-adopter design. Causal-intention retained from mechanism hypotheses, positive-spillover interpretation and conclusion despite descriptive-not-definitive qualification p273; narrower descriptive exclusion held."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1479",
+    "before": null,
+    "after": "Explicit OLS table note; industry FE are controls, without a separate identifying-FE argument. No untreated-group interaction in within-adopter design. Causal-intention retained from mechanism hypotheses, positive-spillover interpretation and conclusion despite descriptive-not-definitive qualification p273; narrower descriptive exclusion held. Post-treatment accrual partition is not separately randomized; no outcome-level comparison from contrasting two effect coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1480",
+    "before": null,
+    "after": "Explicit OLS table note; industry FE are controls, without a separate identifying-FE argument. No untreated-group interaction in within-adopter design. Causal-intention retained from mechanism hypotheses, positive-spillover interpretation and conclusion despite descriptive-not-definitive qualification p273; narrower descriptive exclusion held. Authors call difference marginally significant at p0.104; retain printed value rather than silently changing threshold. One poor-performance policy included as robust, fn31."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1481",
+    "before": null,
+    "after": "Explicit OLS table note; industry FE are controls, without a separate identifying-FE argument. No untreated-group interaction in within-adopter design. Causal-intention retained from mechanism hypotheses, positive-spillover interpretation and conclusion despite descriptive-not-definitive qualification p273; narrower descriptive exclusion held. Mean/SD used to construct CV are ETR components, not benchmarks of CV_ETR treatment coefficient. Company-FE CV robustness separately allocated; no company-FE disclosure grid stated. p277 company-FE robustness is allocated only to CV_ETR, not disclosure. Grouped as a routine variant without an affirmative identifying-FE argument; original h4 and child retained physically inactive."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1482",
+    "before": null,
+    "after": "p279 Changes Design explicitly differences ETR, CLAW ADOPT and controls, thereby eliminating unobserved characteristics static during the interval. Classify identifying linear fixed-effect elimination (first differences), not a claim that a within-demeaned/LSDV estimator or three FE dimensions were implemented. OLS describes the changed-variable regression numerically but misses its affirmative identifying removal of static heterogeneity. Binary remains unknown: p264/Appendix A defines an adoption-year indicator with zero for never-adopters and does not specify coding in other adopter years or the difference interval. Signed differences are possible, not established observed support; permanent policy status in fn10 does not prove this regressor is cumulative status. No invented DiD comparison."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1483",
+    "before": null,
+    "after": "Explicit same conventional DiD implementation; no numeric effect or standalone mean/SD linked. BTD scaling unresolved, not guessed from cited literature."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6201",
+    "before": null,
+    "after": "No calculated double difference reported in figure. Treatment/covariate-selected matching precedes raw mean differences, so Matching before OLS; conventional DiD graphical reading held. Preperiod means0.319/0.321 and p0.411 diagnostic. Exact plot/table visually read."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6202",
+    "before": null,
+    "after": "Explicit OLS table note; industry FE are controls, without a separate identifying-FE argument. No untreated-group interaction in within-adopter design. Causal-intention retained from mechanism hypotheses, positive-spillover interpretation and conclusion despite descriptive-not-definitive qualification p273; narrower descriptive exclusion held. Non-adopter col4 -0.001 p0.841 is contextual counterfactual diagnostic, not actual treatment receipt effect; held broader same-null-family reading."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6203",
+    "before": null,
+    "after": "pp273–274: explicit company-FE robustness is real, but the text supplies no affirmative identifying rationale beyond replacing clustering (and reporting persistence for ties). Do not promote a dummy set to an identifying method merely from mechanical within-company variation. Group this routine specification variant with s3; retain physical ID and outcomes inactive. Broader identifying-FE reading held for parent adjudication."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6204",
+    "before": null,
+    "after": "p277: explicit company-FE robustness is real, but the text supplies no affirmative identifying rationale beyond replacing clustering (and reporting persistence for ties). Do not promote a dummy set to an identifying method merely from mechanical within-company variation. Group this routine specification variant with s7; retain physical ID and outcomes inactive. Broader identifying-FE reading held for parent adjudication."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6205",
+    "before": null,
+    "after": "Substantive moderator/partition reported but no table/equation stating whether matched DiD or adopter-only regression; unknown method, not invented OLS/DiD grid. Focal treatment is binary adoption within stated partition, not foreign-income SD change."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6206",
+    "before": null,
+    "after": "Null tests alternative accrual mechanism, not excluded as diagnostic simply for insignificance. Untabulated regression method unspecified; probable adopter-only OLS is held alternative. No numerical values or full robustness grid inferred."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6207",
+    "before": null,
+    "after": "Explicit alternative response design, separate section from alternative BTD/cash outcomes. No inference that log pre-tax income was definitely estimated; held log versus raw-scale readings. No magnitudes/benchmarks reported."
+  }
+]
+```
