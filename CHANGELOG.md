@@ -1809363,3 +1809363,12780 @@ Baseline of the original workbook before the approved OLS split.
   }
 ]
 ```
+
+## 2026-10-29T03:07:57.208837+00:00 — Review F2X7L9LX: one-paper adjudicated source-scoped coding
+
+2128 populated-cell value changes. The XLSX also preserves formatting.
+
+```json
+[
+  {
+    "sheet": "Comparisons",
+    "cell": "A17435",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17436",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17437",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17438",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17439",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17440",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17441",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17442",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17443",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17444",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17445",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "A17446",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17435",
+    "before": null,
+    "after": "s6"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17436",
+    "before": null,
+    "after": "h108"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17437",
+    "before": null,
+    "after": "h109"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17438",
+    "before": null,
+    "after": "h110"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17439",
+    "before": null,
+    "after": "h127"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17440",
+    "before": null,
+    "after": "h127"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17441",
+    "before": null,
+    "after": "h128"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17442",
+    "before": null,
+    "after": "h128"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17443",
+    "before": null,
+    "after": "h129"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17444",
+    "before": null,
+    "after": "h129"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17445",
+    "before": null,
+    "after": "h130"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "B17446",
+    "before": null,
+    "after": "h130"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17435",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17436",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17437",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17438",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17439",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17440",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17441",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17442",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17443",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17444",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17445",
+    "before": null,
+    "after": "hc1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "C17446",
+    "before": null,
+    "after": "hc2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1008",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1009",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1010",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1011",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1012",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K1013",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17439",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17440",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17441",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17442",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17443",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17444",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "K17446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17435",
+    "before": null,
+    "after": "y1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17436",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17437",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17438",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17439",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17440",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17441",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17442",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17443",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17444",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17445",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "L17446",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17435",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17436",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17437",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17438",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17439",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17440",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17441",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17442",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17443",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17444",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17445",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "M17446",
+    "before": null,
+    "after": "outcome_mean"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17435",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17436",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17437",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17438",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17445",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "N17446",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17438",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "O17446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17435",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17436",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17437",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17438",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17439",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17440",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17441",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17442",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17443",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17444",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17445",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "P17446",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17435",
+    "before": null,
+    "after": "Figure3A pp245,248–249 election-to-TCJA: deliberately paired exposed/comparator BHR paths and prose contrast 3.3 percentage points. Comparator is value-weighted nonshadow portfolio (A) or foreign-parent shadow portfolio (B); no precise endpoint level printed, not backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17436",
+    "before": null,
+    "after": "Figure3B pp245,248–249 election-to-TCJA: deliberately paired exposed/comparator BHR paths and prose contrast 11.5 percentage points. Comparator is value-weighted nonshadow portfolio (A) or foreign-parent shadow portfolio (B); no precise endpoint level printed, not backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17437",
+    "before": null,
+    "after": "Figure4A pp245,250 House-bill-to-TCJA: deliberately paired exposed/comparator BHR paths and prose contrast 1.9 percentage points. Comparator is value-weighted nonshadow portfolio (A) or foreign-parent shadow portfolio (B); no precise endpoint level printed, not backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17438",
+    "before": null,
+    "after": "Figure4B pp245,250 House-bill-to-TCJA: deliberately paired exposed/comparator BHR paths and prose contrast 4.8 percentage points. Comparator is value-weighted nonshadow portfolio (A) or foreign-parent shadow portfolio (B); no precise endpoint level printed, not backsolved."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17439",
+    "before": null,
+    "after": "Table8A bottom: all average shadow BHR=1.21%; same-column nonshadow benchmark=0.59%; value-weighted portfolio returns, averaging events without overlapping days. No division performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17440",
+    "before": null,
+    "after": "Table8A bottom: all average shadow BHAR=0.53%; same-column nonshadow benchmark=-0.09%; value-weighted portfolio returns, averaging events without overlapping days. No division performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17441",
+    "before": null,
+    "after": "Table8A bottom: domestic-parent average shadow BHR=1.3%; same-column nonshadow benchmark=0.69%; value-weighted portfolio returns, averaging events without overlapping days. No division performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17442",
+    "before": null,
+    "after": "Table8A bottom: domestic-parent average shadow BHAR=0.63%; same-column nonshadow benchmark=0.02%; value-weighted portfolio returns, averaging events without overlapping days. No division performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17443",
+    "before": null,
+    "after": "Table8A bottom: foreign-parent average shadow BHR=0.26%; same-column nonshadow benchmark=0.44%; value-weighted portfolio returns, averaging events without overlapping days. No division performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17444",
+    "before": null,
+    "after": "Table8A bottom: foreign-parent average shadow BHAR=-0.41%; same-column nonshadow benchmark=-0.23%; value-weighted portfolio returns, averaging events without overlapping days. No division performed."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17445",
+    "before": null,
+    "after": "Table8A Average Shadow: domestic-parent BHR 1.30% versus foreign-parent BHR 0.26%; value-weighted means over nonoverlapping event days. Comparative question p245; no ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "Q17446",
+    "before": null,
+    "after": "Table8A Average Shadow: domestic-parent BHAR 0.63% versus foreign-parent BHAR -0.41%; value-weighted means over nonoverlapping event days. Comparative question p245; no ratio."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1008",
+    "before": null,
+    "after": "Table4C/Table5B explicitly multiply ETR effect by average PRETAX INCOME to give dollars of tax savings/net-income gain. Pretax income is not a mean of tax expense, cash taxes, net income, or ETR. No same-outcome level is supplied. Broader cross-denominator translation inclusion held; if accepted, divided=0, never1. Dot/total comparisons also require reallocation to own treatment settings. Independent domain adjudication: distinguish prior E5N6TXU4 p402 return-to-equity-wealth mapping (mean market value is the same raw wealth outcome) from this pretax-income multiplier (not tax or net income). Author intent to translate is explicit, but no same-outcome level is supplied. All15 printed conversions are censused, not just the six original rows; aggregate fn31 is separate. No backsolved pretax mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1009",
+    "before": null,
+    "after": "Table4C/Table5B explicitly multiply ETR effect by average PRETAX INCOME to give dollars of tax savings/net-income gain. Pretax income is not a mean of tax expense, cash taxes, net income, or ETR. No same-outcome level is supplied. Broader cross-denominator translation inclusion held; if accepted, divided=0, never1. Dot/total comparisons also require reallocation to own treatment settings. Independent domain adjudication: distinguish prior E5N6TXU4 p402 return-to-equity-wealth mapping (mean market value is the same raw wealth outcome) from this pretax-income multiplier (not tax or net income). Author intent to translate is explicit, but no same-outcome level is supplied. All15 printed conversions are censused, not just the six original rows; aggregate fn31 is separate. No backsolved pretax mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1010",
+    "before": null,
+    "after": "Table4C/Table5B explicitly multiply ETR effect by average PRETAX INCOME to give dollars of tax savings/net-income gain. Pretax income is not a mean of tax expense, cash taxes, net income, or ETR. No same-outcome level is supplied. Broader cross-denominator translation inclusion held; if accepted, divided=0, never1. Dot/total comparisons also require reallocation to own treatment settings. Independent domain adjudication: distinguish prior E5N6TXU4 p402 return-to-equity-wealth mapping (mean market value is the same raw wealth outcome) from this pretax-income multiplier (not tax or net income). Author intent to translate is explicit, but no same-outcome level is supplied. All15 printed conversions are censused, not just the six original rows; aggregate fn31 is separate. No backsolved pretax mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1011",
+    "before": null,
+    "after": "Table4C/Table5B explicitly multiply ETR effect by average PRETAX INCOME to give dollars of tax savings/net-income gain. Pretax income is not a mean of tax expense, cash taxes, net income, or ETR. No same-outcome level is supplied. Broader cross-denominator translation inclusion held; if accepted, divided=0, never1. Dot/total comparisons also require reallocation to own treatment settings. Independent domain adjudication: distinguish prior E5N6TXU4 p402 return-to-equity-wealth mapping (mean market value is the same raw wealth outcome) from this pretax-income multiplier (not tax or net income). Author intent to translate is explicit, but no same-outcome level is supplied. All15 printed conversions are censused, not just the six original rows; aggregate fn31 is separate. No backsolved pretax mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1012",
+    "before": null,
+    "after": "Table4C/Table5B explicitly multiply ETR effect by average PRETAX INCOME to give dollars of tax savings/net-income gain. Pretax income is not a mean of tax expense, cash taxes, net income, or ETR. No same-outcome level is supplied. Broader cross-denominator translation inclusion held; if accepted, divided=0, never1. Dot/total comparisons also require reallocation to own treatment settings. Independent domain adjudication: distinguish prior E5N6TXU4 p402 return-to-equity-wealth mapping (mean market value is the same raw wealth outcome) from this pretax-income multiplier (not tax or net income). Author intent to translate is explicit, but no same-outcome level is supplied. All15 printed conversions are censused, not just the six original rows; aggregate fn31 is separate. No backsolved pretax mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R1013",
+    "before": null,
+    "after": "Table4C/Table5B explicitly multiply ETR effect by average PRETAX INCOME to give dollars of tax savings/net-income gain. Pretax income is not a mean of tax expense, cash taxes, net income, or ETR. No same-outcome level is supplied. Broader cross-denominator translation inclusion held; if accepted, divided=0, never1. Dot/total comparisons also require reallocation to own treatment settings. Independent domain adjudication: distinguish prior E5N6TXU4 p402 return-to-equity-wealth mapping (mean market value is the same raw wealth outcome) from this pretax-income multiplier (not tax or net income). Author intent to translate is explicit, but no same-outcome level is supplied. All15 printed conversions are censused, not just the six original rows; aggregate fn31 is separate. No backsolved pretax mean."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17435",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17436",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17437",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17438",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17439",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17440",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17441",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17442",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17443",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17444",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17445",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Comparisons",
+    "cell": "R17446",
+    "before": null,
+    "after": "Independent benchmark judgment: retain deliberate same-outcome portfolio-level comparison; aligned=0 because the benchmark is the stated different nonshadow or foreign-parent portfolio under the same policy news, not an established untreated outcome level for the focal shadow/domestic portfolio. This is an identified population/exposure mismatch, not rejection of causal credibility. An unspecified continuous-regression target would warrant unknown, but these portfolio memberships are explicit. Divided=0; do not treat the between-portfolio difference as a first-differenced dependent variable. No unprinted graph endpoint is inferred."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13846",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13847",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13848",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13849",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13850",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13851",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13852",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13853",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13854",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13855",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13856",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13857",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13858",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13859",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13860",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13861",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13862",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13863",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13864",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13865",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13866",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13867",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13868",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13869",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13870",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13871",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13872",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13873",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13874",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13875",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13876",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13877",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13878",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13879",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13880",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13881",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13882",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13883",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13884",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13885",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13886",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13887",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13888",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13889",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13890",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13891",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13892",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13893",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13894",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13895",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13896",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13897",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13898",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13899",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13900",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13901",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13902",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13903",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13904",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13905",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13906",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13907",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13908",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13909",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13910",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13911",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13912",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13913",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13914",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13915",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13916",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13917",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13918",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13919",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13920",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13921",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13922",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13923",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13924",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13925",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13926",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13927",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13928",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13929",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13930",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13931",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13932",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13933",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13934",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13935",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13936",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13937",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13938",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13939",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13940",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13941",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13942",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13943",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13944",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13945",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13946",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13947",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13948",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13949",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13950",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13951",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13952",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13953",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13954",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13955",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13956",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13957",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13958",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13959",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13960",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13961",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13962",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13963",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13964",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13965",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13966",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13967",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13968",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13969",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13970",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13971",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13972",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13973",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13974",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13975",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13976",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13977",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13978",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13979",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13980",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13981",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13982",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13983",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13984",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13985",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13986",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13987",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13988",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13989",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13990",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13991",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13992",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13993",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13994",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13995",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "A13996",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13846",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13847",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13848",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13849",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13850",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13851",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13852",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13853",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13854",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13855",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13856",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13857",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13858",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13859",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13860",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13861",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13862",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13863",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13864",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13865",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13866",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13867",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13868",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13869",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13870",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13871",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13872",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13873",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13874",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13875",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13876",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13877",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13878",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13879",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13880",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13881",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13882",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13883",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13884",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13885",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13886",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13887",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13888",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13889",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13890",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13891",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13892",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13893",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13894",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13895",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13896",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13897",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13898",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13899",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13900",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13901",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13902",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13903",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13904",
+    "before": null,
+    "after": "h59"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13905",
+    "before": null,
+    "after": "h59"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13906",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13907",
+    "before": null,
+    "after": "h61"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13908",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13909",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13910",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13911",
+    "before": null,
+    "after": "h65"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13912",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13913",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13914",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13915",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13916",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13917",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13918",
+    "before": null,
+    "after": "h72"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13919",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13920",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13921",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13922",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13923",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13924",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13925",
+    "before": null,
+    "after": "h79"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13926",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13927",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13928",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13929",
+    "before": null,
+    "after": "h83"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13930",
+    "before": null,
+    "after": "h84"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13931",
+    "before": null,
+    "after": "h85"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13932",
+    "before": null,
+    "after": "h86"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13933",
+    "before": null,
+    "after": "h87"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13934",
+    "before": null,
+    "after": "h88"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13935",
+    "before": null,
+    "after": "h89"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13936",
+    "before": null,
+    "after": "h90"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13937",
+    "before": null,
+    "after": "h91"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13938",
+    "before": null,
+    "after": "h92"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13939",
+    "before": null,
+    "after": "h93"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13940",
+    "before": null,
+    "after": "h94"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13941",
+    "before": null,
+    "after": "h95"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13942",
+    "before": null,
+    "after": "h96"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13943",
+    "before": null,
+    "after": "h97"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13944",
+    "before": null,
+    "after": "h98"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13945",
+    "before": null,
+    "after": "h99"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13946",
+    "before": null,
+    "after": "h100"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13947",
+    "before": null,
+    "after": "h101"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13948",
+    "before": null,
+    "after": "h102"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13949",
+    "before": null,
+    "after": "h103"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13950",
+    "before": null,
+    "after": "h104"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13951",
+    "before": null,
+    "after": "h105"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13952",
+    "before": null,
+    "after": "h106"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13953",
+    "before": null,
+    "after": "h107"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13954",
+    "before": null,
+    "after": "h108"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13955",
+    "before": null,
+    "after": "h109"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13956",
+    "before": null,
+    "after": "h110"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13957",
+    "before": null,
+    "after": "h111"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13958",
+    "before": null,
+    "after": "h111"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13959",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13960",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13961",
+    "before": null,
+    "after": "h113"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13962",
+    "before": null,
+    "after": "h113"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13963",
+    "before": null,
+    "after": "h114"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13964",
+    "before": null,
+    "after": "h114"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13965",
+    "before": null,
+    "after": "h115"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13966",
+    "before": null,
+    "after": "h115"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13967",
+    "before": null,
+    "after": "h116"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13968",
+    "before": null,
+    "after": "h116"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13969",
+    "before": null,
+    "after": "h117"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13970",
+    "before": null,
+    "after": "h117"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13971",
+    "before": null,
+    "after": "h118"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13972",
+    "before": null,
+    "after": "h118"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13973",
+    "before": null,
+    "after": "h119"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13974",
+    "before": null,
+    "after": "h119"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13975",
+    "before": null,
+    "after": "h120"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13976",
+    "before": null,
+    "after": "h120"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13977",
+    "before": null,
+    "after": "h121"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13978",
+    "before": null,
+    "after": "h121"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13979",
+    "before": null,
+    "after": "h122"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13980",
+    "before": null,
+    "after": "h122"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13981",
+    "before": null,
+    "after": "h123"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13982",
+    "before": null,
+    "after": "h123"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13983",
+    "before": null,
+    "after": "h124"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13984",
+    "before": null,
+    "after": "h124"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13985",
+    "before": null,
+    "after": "h125"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13986",
+    "before": null,
+    "after": "h125"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13987",
+    "before": null,
+    "after": "h126"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13988",
+    "before": null,
+    "after": "h126"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13989",
+    "before": null,
+    "after": "h127"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13990",
+    "before": null,
+    "after": "h127"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13991",
+    "before": null,
+    "after": "h128"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13992",
+    "before": null,
+    "after": "h128"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13993",
+    "before": null,
+    "after": "h129"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13994",
+    "before": null,
+    "after": "h129"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13995",
+    "before": null,
+    "after": "h130"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "B13996",
+    "before": null,
+    "after": "h130"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13846",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13847",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13848",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13849",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13850",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13851",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13852",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13853",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13854",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13855",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13856",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13857",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13858",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13859",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13860",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13861",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13862",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13863",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13864",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13865",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13866",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13867",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13868",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13869",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13870",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13871",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13872",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13873",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13874",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13875",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13876",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13877",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13878",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13879",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13880",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13881",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13882",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13883",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13884",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13885",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13886",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13887",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13888",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13889",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13890",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13891",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13892",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13893",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13894",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13895",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13896",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13897",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13898",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13899",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13900",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13901",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13902",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13903",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13904",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13905",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13906",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13907",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13908",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13909",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13910",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13911",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13912",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13913",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13914",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13915",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13916",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13917",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13918",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13919",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13920",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13921",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13922",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13923",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13924",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13925",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13926",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13927",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13928",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13929",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13930",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13931",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13932",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13933",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13934",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13935",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13936",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13937",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13938",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13939",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13940",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13941",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13942",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13943",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13944",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13945",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13946",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13947",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13948",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13949",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13950",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13951",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13952",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13953",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13954",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13955",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13956",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13957",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13958",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13959",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13960",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13961",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13962",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13963",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13964",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13965",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13966",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13967",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13968",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13969",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13970",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13971",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13972",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13973",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13974",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13975",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13976",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13977",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13978",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13979",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13980",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13981",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13982",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13983",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13984",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13985",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13986",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13987",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13988",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13989",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13990",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13991",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13992",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13993",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13994",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13995",
+    "before": null,
+    "after": "hy1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "C13996",
+    "before": null,
+    "after": "hy2"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13904",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13905",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13910",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13915",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13920",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13925",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13954",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13955",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13956",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13957",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13958",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13959",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13960",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13961",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13962",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13963",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13964",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13965",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13966",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13967",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13968",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13969",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13970",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13971",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13972",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13973",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13974",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13975",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13976",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13977",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13978",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13979",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13980",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13981",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13982",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13983",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13984",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13985",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13986",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13987",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13988",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13989",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13990",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13991",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13992",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13993",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13994",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13995",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H13996",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3659",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3660",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3665",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "H3666",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13904",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13905",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13910",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13915",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13920",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13925",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13954",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13955",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13956",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13957",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13958",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13959",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13960",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13961",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13962",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13963",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13964",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13965",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13966",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13967",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13968",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13969",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13970",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13971",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13972",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13973",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13974",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13975",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13976",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13977",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13978",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13979",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13980",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13981",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13982",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13983",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13984",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13985",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13986",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13987",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13988",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13989",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13990",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13991",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13992",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13993",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13994",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13995",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I13996",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3659",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3660",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3665",
+    "before": null,
+    "after": "unknown"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "I3666",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13904",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13905",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13910",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13915",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13920",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13925",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13954",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13955",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13956",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13957",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13958",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13959",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13960",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13961",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13962",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13963",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13964",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13965",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13966",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13967",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13968",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13969",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13970",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13971",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13972",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13973",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13974",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13975",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13976",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13977",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13978",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13979",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13980",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13981",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13982",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13983",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13984",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13985",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13986",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13987",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13988",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13989",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13990",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13991",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13992",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13993",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13994",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13995",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J13996",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3659",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3660",
+    "before": null,
+    "after": "none"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3665",
+    "before": null,
+    "after": "other"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "J3666",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13846",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13847",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13848",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13849",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13850",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13851",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13852",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13853",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13854",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13855",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13856",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13857",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13858",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13859",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13860",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13861",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13862",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13863",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13864",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13865",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13866",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13867",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13868",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13869",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13870",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13871",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13872",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13873",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13874",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13875",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13876",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13877",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13878",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13879",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13880",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13881",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13882",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13883",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13884",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13885",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13886",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13887",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13888",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13889",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13890",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13891",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13892",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13893",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13894",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13895",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13896",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13897",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13898",
+    "before": null,
+    "after": "D(SHADOW): indicator total shadow insurance positive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13899",
+    "before": null,
+    "after": "D(SHADOW): indicator total shadow insurance positive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13900",
+    "before": null,
+    "after": "D(SHADOW): indicator total shadow insurance positive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13901",
+    "before": null,
+    "after": "D(SHADOW): indicator total shadow insurance positive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13902",
+    "before": null,
+    "after": "D(SHADOW): indicator total shadow insurance positive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13903",
+    "before": null,
+    "after": "D(SHADOW): indicator total shadow insurance positive."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13904",
+    "before": null,
+    "after": "HAVEN_TO_TOT: haven shadow insurance / total shadow insurance, set0 for nonshadow firm-years."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13905",
+    "before": null,
+    "after": "DOT_TO_TOT: dot-haven shadow insurance / total shadow insurance, set0 for nonshadow firm-years."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13906",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13907",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13908",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13909",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13910",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13911",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13912",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13913",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13914",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13915",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13916",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13917",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13918",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13919",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13920",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13921",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13922",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13923",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13924",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13925",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13926",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13927",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13928",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13929",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13930",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13931",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13932",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13933",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13934",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13935",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13936",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13937",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13938",
+    "before": null,
+    "after": "Book ETR excluding state income taxes from numerator; three-year t to t+2 ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13939",
+    "before": null,
+    "after": "Book ETR excluding state income taxes from numerator; three-year t to t+2 ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13940",
+    "before": null,
+    "after": "Book ETR excluding state income taxes from numerator; three-year t to t+2 ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13941",
+    "before": null,
+    "after": "Book ETR excluding state income taxes from numerator; three-year t to t+2 ratio."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13942",
+    "before": null,
+    "after": "Three-year state ETR: state income tax expense / pretax income; t through t+2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13943",
+    "before": null,
+    "after": "Three-year state ETR: state income tax expense / pretax income; t through t+2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13944",
+    "before": null,
+    "after": "Three-year state ETR: state income tax expense / pretax income; t through t+2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13945",
+    "before": null,
+    "after": "Three-year state ETR: state income tax expense / pretax income; t through t+2."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13946",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13947",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13948",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13949",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13950",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13951",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13952",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13953",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13954",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13955",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13956",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13957",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13958",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13959",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13960",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13961",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13962",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13963",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13964",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13965",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13966",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13967",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13968",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13969",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13970",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13971",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13972",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13973",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13974",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13975",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13976",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13977",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13978",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13979",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13980",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13981",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13982",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13983",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13984",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13985",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13986",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13987",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13988",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13989",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13990",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13991",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13992",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13993",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13994",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13995",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K13996",
+    "before": null,
+    "after": "Value-weighted market-adjusted buy-and-hold return over specified window; not outcome-SD units."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3659",
+    "before": null,
+    "after": "HAVEN_TO_TOT: haven shadow insurance / total shadow insurance, set0 for nonshadow firm-years."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3660",
+    "before": null,
+    "after": "DOT_TO_TOT: dot-haven shadow insurance / total shadow insurance, set0 for nonshadow firm-years."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3661",
+    "before": null,
+    "after": "BOOKETR3: sum total tax expense / sum pretax income over t through t+2; outcome level, not first difference. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3662",
+    "before": null,
+    "after": "CASHETR3: sum cash income taxes paid / sum pretax income over t through t+2; level. Appendix B."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3663",
+    "before": null,
+    "after": "S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3664",
+    "before": null,
+    "after": "Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3665",
+    "before": null,
+    "after": "Value-weighted buy-and-hold raw return over specified window; compounding defines the outcome, fixed-weight averaging/difference is linear on that outcome."
+  },
+  {
+    "sheet": "Outcomes",
+    "cell": "K3666",
+    "before": null,
+    "after": "Reallocated: BHAR belongs to separately retained Table8 event settings, not Figure3A. Original ID reserved and inactive."
+  },
+  {
+    "sheet": "Papers",
+    "cell": "E174",
+    "before": null,
+    "after": "DONE — parent accepted independent adjudication. 136 retained settings (102 FE, 24 OLS, 10 Other); 159 physical/158 active outcomes; 18 physical/12 retained comparisons. Year FE identifying within-year variation (fn28); six parameter-specific propensity mechanisms supporting, not all controls. Allocated h59–h107 robustness follows main text, not unseen supplement grids. All 15 pretax-income tax/net-income conversions excluded for different outcome domain; six original comparisons remain rejected. Twelve explicit portfolio paths/pairs retained, divided=0 aligned=0: different exposed populations; unknown alternative held, no digitized endpoints. Ratings and cash are next-year levels, not differences. Original inactive rows and source contradictions preserved. Full first review and focused expanded independent audit inherited. Online Appendix C.1–C.6 exists but remains blocked/unread. Historical status preserved; held alternatives retained. No empirical replication or zero-error claim."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6018",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6019",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6020",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6021",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6022",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6023",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6024",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6025",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6026",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6027",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6028",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6029",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6030",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6031",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6032",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6033",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6034",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6035",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6036",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6037",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6038",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6039",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6040",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6041",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6042",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6043",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6044",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6045",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6046",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6047",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6048",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6049",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6050",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6051",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6052",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6053",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6054",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6055",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6056",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6057",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6058",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6059",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6060",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6061",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6062",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6063",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6064",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6065",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6066",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6067",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6068",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6069",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6070",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6071",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6072",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6073",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6074",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6075",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6076",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6077",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6078",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6079",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6080",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6081",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6082",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6083",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6084",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6085",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6086",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6087",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6088",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6089",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6090",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6091",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6092",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6093",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6094",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6095",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6096",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6097",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6098",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6099",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6100",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6101",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6102",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6103",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6104",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6105",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6106",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6107",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6108",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6109",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6110",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6111",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6112",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6113",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6114",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6115",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6116",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6117",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6118",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6119",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6120",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6121",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6122",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6123",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6124",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6125",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6126",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6127",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6128",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6129",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6130",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6131",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6132",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6133",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6134",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6135",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6136",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6137",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6138",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6139",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6140",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6141",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6142",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6143",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6144",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6145",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6146",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "A6147",
+    "before": null,
+    "after": "F2X7L9LX"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6018",
+    "before": null,
+    "after": "h1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6019",
+    "before": null,
+    "after": "h2"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6020",
+    "before": null,
+    "after": "h3"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6021",
+    "before": null,
+    "after": "h4"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6022",
+    "before": null,
+    "after": "h5"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6023",
+    "before": null,
+    "after": "h6"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6024",
+    "before": null,
+    "after": "h7"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6025",
+    "before": null,
+    "after": "h8"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6026",
+    "before": null,
+    "after": "h9"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6027",
+    "before": null,
+    "after": "h10"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6028",
+    "before": null,
+    "after": "h11"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6029",
+    "before": null,
+    "after": "h12"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6030",
+    "before": null,
+    "after": "h13"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6031",
+    "before": null,
+    "after": "h14"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6032",
+    "before": null,
+    "after": "h15"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6033",
+    "before": null,
+    "after": "h16"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6034",
+    "before": null,
+    "after": "h17"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6035",
+    "before": null,
+    "after": "h18"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6036",
+    "before": null,
+    "after": "h19"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6037",
+    "before": null,
+    "after": "h20"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6038",
+    "before": null,
+    "after": "h21"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6039",
+    "before": null,
+    "after": "h22"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6040",
+    "before": null,
+    "after": "h23"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6041",
+    "before": null,
+    "after": "h24"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6042",
+    "before": null,
+    "after": "h25"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6043",
+    "before": null,
+    "after": "h26"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6044",
+    "before": null,
+    "after": "h27"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6045",
+    "before": null,
+    "after": "h28"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6046",
+    "before": null,
+    "after": "h29"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6047",
+    "before": null,
+    "after": "h30"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6048",
+    "before": null,
+    "after": "h31"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6049",
+    "before": null,
+    "after": "h32"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6050",
+    "before": null,
+    "after": "h33"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6051",
+    "before": null,
+    "after": "h34"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6052",
+    "before": null,
+    "after": "h35"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6053",
+    "before": null,
+    "after": "h36"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6054",
+    "before": null,
+    "after": "h37"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6055",
+    "before": null,
+    "after": "h38"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6056",
+    "before": null,
+    "after": "h39"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6057",
+    "before": null,
+    "after": "h40"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6058",
+    "before": null,
+    "after": "h41"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6059",
+    "before": null,
+    "after": "h42"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6060",
+    "before": null,
+    "after": "h43"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6061",
+    "before": null,
+    "after": "h44"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6062",
+    "before": null,
+    "after": "h45"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6063",
+    "before": null,
+    "after": "h46"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6064",
+    "before": null,
+    "after": "h47"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6065",
+    "before": null,
+    "after": "h48"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6066",
+    "before": null,
+    "after": "h49"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6067",
+    "before": null,
+    "after": "h50"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6068",
+    "before": null,
+    "after": "h51"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6069",
+    "before": null,
+    "after": "h52"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6070",
+    "before": null,
+    "after": "h53"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6071",
+    "before": null,
+    "after": "h54"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6072",
+    "before": null,
+    "after": "h55"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6073",
+    "before": null,
+    "after": "h56"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6074",
+    "before": null,
+    "after": "h57"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6075",
+    "before": null,
+    "after": "h58"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6076",
+    "before": null,
+    "after": "h59"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6077",
+    "before": null,
+    "after": "h60"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6078",
+    "before": null,
+    "after": "h61"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6079",
+    "before": null,
+    "after": "h62"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6080",
+    "before": null,
+    "after": "h63"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6081",
+    "before": null,
+    "after": "h64"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6082",
+    "before": null,
+    "after": "h65"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6083",
+    "before": null,
+    "after": "h66"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6084",
+    "before": null,
+    "after": "h67"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6085",
+    "before": null,
+    "after": "h68"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6086",
+    "before": null,
+    "after": "h69"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6087",
+    "before": null,
+    "after": "h70"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6088",
+    "before": null,
+    "after": "h71"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6089",
+    "before": null,
+    "after": "h72"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6090",
+    "before": null,
+    "after": "h73"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6091",
+    "before": null,
+    "after": "h74"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6092",
+    "before": null,
+    "after": "h75"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6093",
+    "before": null,
+    "after": "h76"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6094",
+    "before": null,
+    "after": "h77"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6095",
+    "before": null,
+    "after": "h78"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6096",
+    "before": null,
+    "after": "h79"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6097",
+    "before": null,
+    "after": "h80"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6098",
+    "before": null,
+    "after": "h81"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6099",
+    "before": null,
+    "after": "h82"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6100",
+    "before": null,
+    "after": "h83"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6101",
+    "before": null,
+    "after": "h84"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6102",
+    "before": null,
+    "after": "h85"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6103",
+    "before": null,
+    "after": "h86"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6104",
+    "before": null,
+    "after": "h87"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6105",
+    "before": null,
+    "after": "h88"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6106",
+    "before": null,
+    "after": "h89"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6107",
+    "before": null,
+    "after": "h90"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6108",
+    "before": null,
+    "after": "h91"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6109",
+    "before": null,
+    "after": "h92"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6110",
+    "before": null,
+    "after": "h93"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6111",
+    "before": null,
+    "after": "h94"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6112",
+    "before": null,
+    "after": "h95"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6113",
+    "before": null,
+    "after": "h96"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6114",
+    "before": null,
+    "after": "h97"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6115",
+    "before": null,
+    "after": "h98"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6116",
+    "before": null,
+    "after": "h99"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6117",
+    "before": null,
+    "after": "h100"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6118",
+    "before": null,
+    "after": "h101"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6119",
+    "before": null,
+    "after": "h102"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6120",
+    "before": null,
+    "after": "h103"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6121",
+    "before": null,
+    "after": "h104"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6122",
+    "before": null,
+    "after": "h105"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6123",
+    "before": null,
+    "after": "h106"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6124",
+    "before": null,
+    "after": "h107"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6125",
+    "before": null,
+    "after": "h108"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6126",
+    "before": null,
+    "after": "h109"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6127",
+    "before": null,
+    "after": "h110"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6128",
+    "before": null,
+    "after": "h111"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6129",
+    "before": null,
+    "after": "h112"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6130",
+    "before": null,
+    "after": "h113"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6131",
+    "before": null,
+    "after": "h114"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6132",
+    "before": null,
+    "after": "h115"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6133",
+    "before": null,
+    "after": "h116"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6134",
+    "before": null,
+    "after": "h117"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6135",
+    "before": null,
+    "after": "h118"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6136",
+    "before": null,
+    "after": "h119"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6137",
+    "before": null,
+    "after": "h120"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6138",
+    "before": null,
+    "after": "h121"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6139",
+    "before": null,
+    "after": "h122"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6140",
+    "before": null,
+    "after": "h123"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6141",
+    "before": null,
+    "after": "h124"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6142",
+    "before": null,
+    "after": "h125"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6143",
+    "before": null,
+    "after": "h126"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6144",
+    "before": null,
+    "after": "h127"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6145",
+    "before": null,
+    "after": "h128"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6146",
+    "before": null,
+    "after": "h129"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "B6147",
+    "before": null,
+    "after": "h130"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1463",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I1465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6058",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6059",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6060",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6062",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6070",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6071",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6072",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6073",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6074",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6075",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6077",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6078",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6079",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6080",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6082",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6083",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6084",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6085",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6087",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6088",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6089",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6090",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6092",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6093",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6094",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6095",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6096",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6097",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6098",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6099",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6100",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6101",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6102",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6103",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6104",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6105",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6106",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6107",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6108",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6109",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6110",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6111",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6112",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6113",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6114",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6115",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6116",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6117",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6118",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6119",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6120",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6121",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6122",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6123",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6124",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6127",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6128",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6136",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6137",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6138",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "I6147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1460",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1461",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1462",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1463",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1464",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J1465",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6018",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6019",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6020",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6021",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6022",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6023",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6024",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6025",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6026",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6027",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6028",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6029",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6030",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6031",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6032",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6033",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6034",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6035",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6036",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6037",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6038",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6039",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6040",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6041",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6042",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6043",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6044",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6045",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6046",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6047",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6048",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6049",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6050",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6051",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6052",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6053",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6054",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6055",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6056",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6057",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6058",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6059",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6060",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6061",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6062",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6063",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6064",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6065",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6066",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6067",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6068",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6069",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6070",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6071",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6072",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6073",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6074",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6075",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6076",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6077",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6078",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6079",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6080",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6081",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6082",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6083",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6084",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6085",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6086",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6087",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6088",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6089",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6090",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6091",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6092",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6093",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6094",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6095",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6096",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6097",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6098",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6099",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6100",
+    "before": null,
+    "after": "Other"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6101",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6102",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6103",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6104",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6105",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6106",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6107",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6108",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6109",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6110",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6111",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6112",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6113",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6114",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6115",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6116",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6117",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6118",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6119",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6120",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6121",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6122",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6123",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6124",
+    "before": null,
+    "after": "FE"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6125",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6126",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6127",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6128",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6129",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6130",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6131",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6132",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6133",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6134",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6135",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6136",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6137",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6138",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6139",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6140",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6141",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6142",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6143",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6144",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6145",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6146",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "J6147",
+    "before": null,
+    "after": "OLS"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1461",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1462",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1463",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1464",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K1465",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6018",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6019",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6020",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6021",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6022",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6023",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6024",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6025",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6026",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6027",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6028",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6029",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6030",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6031",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6032",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6033",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6034",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6035",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6036",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6037",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6038",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6039",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6040",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6041",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6042",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6043",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6044",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6045",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6046",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6047",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6048",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6049",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6050",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6051",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6052",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6053",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6054",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6055",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6056",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6057",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6058",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6059",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6060",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6061",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6062",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6063",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6064",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6065",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6066",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6067",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6068",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6069",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6072",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6076",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6077",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6078",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6079",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6081",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6086",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6089",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6091",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6094",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6096",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6123",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6125",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6126",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6127",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6128",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6129",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6130",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6131",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6132",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6133",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6134",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6135",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6136",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6137",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6138",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6139",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6140",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6141",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6142",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6143",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6144",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6145",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6146",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "K6147",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1460",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1461",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1462",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1463",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1464",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L1465",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6018",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6019",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6020",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6021",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6022",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6023",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6024",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6025",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6026",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6027",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6028",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6029",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6030",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6031",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6032",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6033",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6034",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6035",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6036",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6037",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6038",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6039",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6040",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6041",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6042",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6043",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6044",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6045",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6046",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6047",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6048",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6049",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6050",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6051",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6052",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6053",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6054",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6055",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6056",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6057",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6058",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6059",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6060",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6061",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6062",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6063",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6064",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6065",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6066",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6067",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6068",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6069",
+    "before": null,
+    "after": "1"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6070",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6071",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6072",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6073",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6074",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6075",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6076",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6077",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6078",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6079",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6080",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6081",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6082",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6083",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6084",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6085",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6086",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6087",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6088",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6089",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6090",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6091",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6092",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6093",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6094",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6095",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6096",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6097",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6098",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6099",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6100",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6101",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6102",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6103",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6104",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6105",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6106",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6107",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6108",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6109",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6110",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6111",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6112",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6113",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6114",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6115",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6116",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6117",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6118",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6119",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6120",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6121",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6122",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6123",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6124",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6125",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6126",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6127",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6128",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6129",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6130",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6131",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6132",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6133",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6134",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6135",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6136",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6137",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6138",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6139",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6140",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6141",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6142",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6143",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6144",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6145",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6146",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "L6147",
+    "before": null,
+    "after": "0"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1460",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1461",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1462",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1463",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1464",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M1465",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6018",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6019",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6020",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6021",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6022",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6023",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6024",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6025",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6026",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6027",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6028",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6029",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6030",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6031",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6032",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6033",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6034",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6035",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6036",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6037",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6038",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6039",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6040",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6041",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6042",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6043",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6044",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6045",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6046",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6047",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6048",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6049",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6050",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6051",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6052",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6053",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6054",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6055",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6056",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6057",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6058",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6059",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6060",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6061",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6062",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6063",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6064",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6065",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6066",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6067",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6068",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6069",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6070",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6071",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6072",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6073",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6074",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6075",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6076",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6077",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6078",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6079",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6080",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6081",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6082",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6083",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6084",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6085",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6086",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6087",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6088",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6089",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6090",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6091",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6092",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6093",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6094",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6095",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6096",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6097",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6098",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6099",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6100",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6101",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6102",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6103",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6104",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6105",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6106",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6107",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6108",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6109",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6110",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6111",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6112",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6113",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6114",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6115",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6116",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6117",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6118",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6119",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6120",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6121",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6122",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6123",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6124",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6125",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6126",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6127",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6128",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6129",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6130",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6131",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6132",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6133",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6134",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6135",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6136",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6137",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6138",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6139",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6140",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6141",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6142",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6143",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6144",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6145",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6146",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "M6147",
+    "before": null,
+    "after": "n/a"
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1460",
+    "before": null,
+    "after": "Table3 pp233–235: foreign parent versus domestic parent effect on haven and dot-haven fractions; full and propensity-matched sample columns grouped."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1461",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, full sample: HAVEN_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1462",
+    "before": null,
+    "after": "Table5A/B pp236,240–241, full and propensity-matched sample columns at same Table5A location: HAVEN_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1463",
+    "before": null,
+    "after": "Table6 pp242–243: DOM_SHADOW domestic-parent conditional slope; full and matched samples grouped at same table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1464",
+    "before": null,
+    "after": "Table7 pp242–245: DOM_SHADOW domestic-parent conditional slope; full and matched samples grouped at same table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N1465",
+    "before": null,
+    "after": "Figure3A pp245,248–249 election-to-TCJA: shadow versus nonshadow insurers, value-weighted BHR contrast attributed to differential TCJA exposure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6018",
+    "before": null,
+    "after": "Table4A/B/C pp236–239: DOM_SHADOW pooled slope without ownership interaction; Table4A cols1–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6019",
+    "before": null,
+    "after": "Table4A/B/C pp236–239: HAVEN_SHADOW pooled slope without ownership interaction; Table4A cols1–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6020",
+    "before": null,
+    "after": "Table4A/B/C pp236–239: DOT_SHADOW pooled slope without ownership interaction; Table4A cols1–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6021",
+    "before": null,
+    "after": "Table4A/B/C pp236–239: TOT_SHADOW pooled slope without ownership interaction; Table4A cols1–4."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6022",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, full sample: DOM_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6023",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, full sample: DOM_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6024",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, full sample: HAVEN_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6025",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, full sample: DOT_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6026",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, full sample: DOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6027",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, full sample: TOT_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6028",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, full sample: TOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6029",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, propensity-matched sample: DOM_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6030",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, propensity-matched sample: DOM_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6031",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, propensity-matched sample: HAVEN_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6032",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, propensity-matched sample: HAVEN_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6033",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, propensity-matched sample: DOT_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6034",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, propensity-matched sample: DOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6035",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, propensity-matched sample: TOT_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6036",
+    "before": null,
+    "after": "Table4A/B/C pp236–239, propensity-matched sample: TOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6037",
+    "before": null,
+    "after": "Table5A/B pp236,240–241: DOM_SHADOW pooled slope without ownership interaction; untabulated main effects explicitly reported p236."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6038",
+    "before": null,
+    "after": "Table5A/B pp236,240–241: HAVEN_SHADOW pooled slope without ownership interaction; untabulated main effects explicitly reported p236."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6039",
+    "before": null,
+    "after": "Table5A/B pp236,240–241: DOT_SHADOW pooled slope without ownership interaction; untabulated main effects explicitly reported p236."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6040",
+    "before": null,
+    "after": "Table5A/B pp236,240–241: TOT_SHADOW pooled slope without ownership interaction; untabulated main effects explicitly reported p236."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6041",
+    "before": null,
+    "after": "Table5A/B pp236,240–241, full and propensity-matched sample columns at same Table5A location: DOM_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6042",
+    "before": null,
+    "after": "Table5A/B pp236,240–241, full and propensity-matched sample columns at same Table5A location: DOM_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6043",
+    "before": null,
+    "after": "Table5A/B pp236,240–241, full and propensity-matched sample columns at same Table5A location: HAVEN_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6044",
+    "before": null,
+    "after": "Table5A/B pp236,240–241, full and propensity-matched sample columns at same Table5A location: DOT_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6045",
+    "before": null,
+    "after": "Table5A/B pp236,240–241, full and propensity-matched sample columns at same Table5A location: DOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6046",
+    "before": null,
+    "after": "Table5A/B pp236,240–241, full and propensity-matched sample columns at same Table5A location: TOT_SHADOW domestic-parent conditional slope, ownership-interacted specification."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6047",
+    "before": null,
+    "after": "Table5A/B pp236,240–241, full and propensity-matched sample columns at same Table5A location: TOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope relative to domestic slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6048",
+    "before": null,
+    "after": "Table6 pp242–243: DOM_SHADOW × FOREIGN_PARENT incremental foreign-parent slope; full/matched columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6049",
+    "before": null,
+    "after": "Table6 pp242–243, adjacent prose joint F-tests: DOM_SHADOW total foreign-parent slope (main+interaction), distinct from incremental slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6050",
+    "before": null,
+    "after": "Table6 pp242–243: HAVEN_SHADOW domestic-parent conditional slope; full and matched samples grouped at same table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6051",
+    "before": null,
+    "after": "Table6 pp242–243: HAVEN_SHADOW × FOREIGN_PARENT incremental foreign-parent slope; full/matched columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6052",
+    "before": null,
+    "after": "Table6 pp242–243, adjacent prose joint F-tests: HAVEN_SHADOW total foreign-parent slope (main+interaction), distinct from incremental slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6053",
+    "before": null,
+    "after": "Table6 pp242–243: DOT_SHADOW domestic-parent conditional slope; full and matched samples grouped at same table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6054",
+    "before": null,
+    "after": "Table6 pp242–243: DOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope; full/matched columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6055",
+    "before": null,
+    "after": "Table6 pp242–243, adjacent prose joint F-tests: DOT_SHADOW total foreign-parent slope (main+interaction), distinct from incremental slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6056",
+    "before": null,
+    "after": "Table6 pp242–243: TOT_SHADOW domestic-parent conditional slope; full and matched samples grouped at same table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6057",
+    "before": null,
+    "after": "Table6 pp242–243: TOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope; full/matched columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6058",
+    "before": null,
+    "after": "Table6 pp242–243, adjacent prose joint F-tests: TOT_SHADOW total foreign-parent slope (main+interaction), distinct from incremental slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6059",
+    "before": null,
+    "after": "Table7 pp242–245: DOM_SHADOW × FOREIGN_PARENT incremental foreign-parent slope; full/matched columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6060",
+    "before": null,
+    "after": "Table7 pp242–245, adjacent prose joint F-tests: DOM_SHADOW total foreign-parent slope (main+interaction), distinct from incremental slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6061",
+    "before": null,
+    "after": "Table7 pp242–245: HAVEN_SHADOW domestic-parent conditional slope; full and matched samples grouped at same table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6062",
+    "before": null,
+    "after": "Table7 pp242–245: HAVEN_SHADOW × FOREIGN_PARENT incremental foreign-parent slope; full/matched columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6063",
+    "before": null,
+    "after": "Table7 pp242–245, adjacent prose joint F-tests: HAVEN_SHADOW total foreign-parent slope (main+interaction), distinct from incremental slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6064",
+    "before": null,
+    "after": "Table7 pp242–245: DOT_SHADOW domestic-parent conditional slope; full and matched samples grouped at same table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6065",
+    "before": null,
+    "after": "Table7 pp242–245: DOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope; full/matched columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6066",
+    "before": null,
+    "after": "Table7 pp242–245, adjacent prose joint F-tests: DOT_SHADOW total foreign-parent slope (main+interaction), distinct from incremental slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6067",
+    "before": null,
+    "after": "Table7 pp242–245: TOT_SHADOW domestic-parent conditional slope; full and matched samples grouped at same table."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6068",
+    "before": null,
+    "after": "Table7 pp242–245: TOT_SHADOW × FOREIGN_PARENT incremental foreign-parent slope; full/matched columns."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6069",
+    "before": null,
+    "after": "Table7 pp242–245, adjacent prose joint F-tests: TOT_SHADOW total foreign-parent slope (main+interaction), distinct from incremental slope."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6070",
+    "before": null,
+    "after": "Table2A pp230–231: lagged SIZE effect on D(SHADOW), pooled and ownership-partitioned samples; economies of scale: spreading the fixed costs of special-purpose entities; pp230–231 interpret positive size coefficients, principally domestic-parent firms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6071",
+    "before": null,
+    "after": "Table2A pp230–231: lagged LN_LIFESALES effect on D(SHADOW), pooled and ownership-partitioned samples; economies of scale and direct-written-premium opportunities; pp230–231 interpret positive life-sales coefficients."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6072",
+    "before": null,
+    "after": "Table2A pp230–231: lagged GROWTH effect on D(SHADOW), pooled and ownership-partitioned samples; greater premium volume creates benefits from locating reinsurance premiums within the group; p231 explicitly favors this mechanism over the fewer-growth-opportunities prediction for U.S.-owned firms."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6073",
+    "before": null,
+    "after": "Table2A pp230–231: lagged LEV effect on D(SHADOW), pooled and ownership-partitioned samples; negative leverage coefficient is interpreted as a potential debt-substitution effect at p231."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6074",
+    "before": null,
+    "after": "Table2A pp230–231: lagged LIQUID effect on D(SHADOW), pooled and ownership-partitioned samples; negative liquidity coefficient is interpreted as demand for the liquidity supplied by shadow insurance, pp230–231; this is not the cash-holdings consequence regression."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6075",
+    "before": null,
+    "after": "Table2A pp230–231: lagged RISK_CAP effect on D(SHADOW), pooled and ownership-partitioned samples; negative foreign-parent risk-capital coefficient is interpreted as a risk-capital-management motive, pp230–231; not a separately estimated effect of shadow insurance on capital."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6076",
+    "before": null,
+    "after": "p245, Online Appendix C.2: entropy-balanced reestimation of foreign-parent effect on haven/dot shares."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6077",
+    "before": null,
+    "after": "p244–245 Online Appendix C.3: entropy-balanced DOM_SHADOW effect and ownership heterogeneity on BOOKETR3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6078",
+    "before": null,
+    "after": "p244–245 Online Appendix C.3: entropy-balanced HAVEN_SHADOW effect and ownership heterogeneity on BOOKETR3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6079",
+    "before": null,
+    "after": "p244–245 Online Appendix C.3: entropy-balanced DOT_SHADOW effect and ownership heterogeneity on BOOKETR3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6080",
+    "before": null,
+    "after": "p244–245 Online Appendix C.3: entropy-balanced TOT_SHADOW effect and ownership heterogeneity on BOOKETR3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6081",
+    "before": null,
+    "after": "p245 Online Appendix C.3: D(SHADOW) replaces TOT_SHADOW; binary use contrast and FOREIGN_PARENT interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6082",
+    "before": null,
+    "after": "p244–245 Online Appendix C.4: entropy-balanced DOM_SHADOW effect and ownership heterogeneity on CASHETR3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6083",
+    "before": null,
+    "after": "p244–245 Online Appendix C.4: entropy-balanced HAVEN_SHADOW effect and ownership heterogeneity on CASHETR3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6084",
+    "before": null,
+    "after": "p244–245 Online Appendix C.4: entropy-balanced DOT_SHADOW effect and ownership heterogeneity on CASHETR3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6085",
+    "before": null,
+    "after": "p244–245 Online Appendix C.4: entropy-balanced TOT_SHADOW effect and ownership heterogeneity on CASHETR3."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6086",
+    "before": null,
+    "after": "p245 Online Appendix C.4: D(SHADOW) replaces TOT_SHADOW; binary use contrast and FOREIGN_PARENT interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6087",
+    "before": null,
+    "after": "p244–245 Online Appendix C.5: entropy-balanced DOM_SHADOW effect and ownership heterogeneity on S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV.."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6088",
+    "before": null,
+    "after": "p244–245 Online Appendix C.5: entropy-balanced HAVEN_SHADOW effect and ownership heterogeneity on S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV.."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6089",
+    "before": null,
+    "after": "p244–245 Online Appendix C.5: entropy-balanced DOT_SHADOW effect and ownership heterogeneity on S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV.."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6090",
+    "before": null,
+    "after": "p244–245 Online Appendix C.5: entropy-balanced TOT_SHADOW effect and ownership heterogeneity on S&P issuer rating at t+1 ranked 1=D through22=AAA; ordinal level, controlling rating at t is not differenced DV.."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6091",
+    "before": null,
+    "after": "p245 Online Appendix C.5: D(SHADOW) replaces TOT_SHADOW; binary use contrast and FOREIGN_PARENT interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6092",
+    "before": null,
+    "after": "p244–245 Online Appendix C.6: entropy-balanced DOM_SHADOW effect and ownership heterogeneity on Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation.."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6093",
+    "before": null,
+    "after": "p244–245 Online Appendix C.6: entropy-balanced HAVEN_SHADOW effect and ownership heterogeneity on Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation.."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6094",
+    "before": null,
+    "after": "p244–245 Online Appendix C.6: entropy-balanced DOT_SHADOW effect and ownership heterogeneity on Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation.."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6095",
+    "before": null,
+    "after": "p244–245 Online Appendix C.6: entropy-balanced TOT_SHADOW effect and ownership heterogeneity on Cash and cash equivalents / total assets at t+1; level, not first difference despite change interpretation.."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6096",
+    "before": null,
+    "after": "p245 Online Appendix C.6: D(SHADOW) replaces TOT_SHADOW; binary use contrast and FOREIGN_PARENT interaction."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6097",
+    "before": null,
+    "after": "p242 fn32 Online Appendix C.5 PanelA: ordered-logit DOM_SHADOW effect/foreign-parent heterogeneity on next-year rating."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6098",
+    "before": null,
+    "after": "p242 fn32 Online Appendix C.5 PanelA: ordered-logit HAVEN_SHADOW effect/foreign-parent heterogeneity on next-year rating."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6099",
+    "before": null,
+    "after": "p242 fn32 Online Appendix C.5 PanelA: ordered-logit DOT_SHADOW effect/foreign-parent heterogeneity on next-year rating."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6100",
+    "before": null,
+    "after": "p242 fn32 Online Appendix C.5 PanelA: ordered-logit TOT_SHADOW effect/foreign-parent heterogeneity on next-year rating."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6101",
+    "before": null,
+    "after": "p245 untabulated: firm-FE robustness for DOM_SHADOW effect and ownership heterogeneity on BOOKETR3; removes FOREIGN_PARENT main effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6102",
+    "before": null,
+    "after": "p245 untabulated: firm-FE robustness for HAVEN_SHADOW effect and ownership heterogeneity on BOOKETR3; removes FOREIGN_PARENT main effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6103",
+    "before": null,
+    "after": "p245 untabulated: firm-FE robustness for DOT_SHADOW effect and ownership heterogeneity on BOOKETR3; removes FOREIGN_PARENT main effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6104",
+    "before": null,
+    "after": "p245 untabulated: firm-FE robustness for TOT_SHADOW effect and ownership heterogeneity on BOOKETR3; removes FOREIGN_PARENT main effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6105",
+    "before": null,
+    "after": "p245 untabulated: firm-FE robustness for DOM_SHADOW effect and ownership heterogeneity on CASHETR3; removes FOREIGN_PARENT main effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6106",
+    "before": null,
+    "after": "p245 untabulated: firm-FE robustness for HAVEN_SHADOW effect and ownership heterogeneity on CASHETR3; removes FOREIGN_PARENT main effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6107",
+    "before": null,
+    "after": "p245 untabulated: firm-FE robustness for DOT_SHADOW effect and ownership heterogeneity on CASHETR3; removes FOREIGN_PARENT main effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6108",
+    "before": null,
+    "after": "p245 untabulated: firm-FE robustness for TOT_SHADOW effect and ownership heterogeneity on CASHETR3; removes FOREIGN_PARENT main effect."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6109",
+    "before": null,
+    "after": "p236 fn30: DOM_SHADOW Eq3 effect/ownership heterogeneity on Book ETR excluding state income taxes from numerator; three-year t to t+2 ratio."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6110",
+    "before": null,
+    "after": "p236 fn30: HAVEN_SHADOW Eq3 effect/ownership heterogeneity on Book ETR excluding state income taxes from numerator; three-year t to t+2 ratio."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6111",
+    "before": null,
+    "after": "p236 fn30: DOT_SHADOW Eq3 effect/ownership heterogeneity on Book ETR excluding state income taxes from numerator; three-year t to t+2 ratio."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6112",
+    "before": null,
+    "after": "p236 fn30: TOT_SHADOW Eq3 effect/ownership heterogeneity on Book ETR excluding state income taxes from numerator; three-year t to t+2 ratio."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6113",
+    "before": null,
+    "after": "p236 fn30: DOM_SHADOW Eq3 effect/ownership heterogeneity on Three-year state ETR: state income tax expense / pretax income; t through t+2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6114",
+    "before": null,
+    "after": "p236 fn30: HAVEN_SHADOW Eq3 effect/ownership heterogeneity on Three-year state ETR: state income tax expense / pretax income; t through t+2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6115",
+    "before": null,
+    "after": "p236 fn30: DOT_SHADOW Eq3 effect/ownership heterogeneity on Three-year state ETR: state income tax expense / pretax income; t through t+2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6116",
+    "before": null,
+    "after": "p236 fn30: TOT_SHADOW Eq3 effect/ownership heterogeneity on Three-year state ETR: state income tax expense / pretax income; t through t+2."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6117",
+    "before": null,
+    "after": "p245 untabulated ratings Eq4: DOM_SHADOW effects and foreign-parent interactions omitting contemporaneous DV control."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6118",
+    "before": null,
+    "after": "p245 untabulated ratings Eq4: HAVEN_SHADOW effects and foreign-parent interactions omitting contemporaneous DV control."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6119",
+    "before": null,
+    "after": "p245 untabulated ratings Eq4: DOT_SHADOW effects and foreign-parent interactions omitting contemporaneous DV control."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6120",
+    "before": null,
+    "after": "p245 untabulated ratings Eq4: TOT_SHADOW effects and foreign-parent interactions omitting contemporaneous DV control."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6121",
+    "before": null,
+    "after": "p245 untabulated cash Eq5: DOM_SHADOW effects and foreign-parent interactions omitting contemporaneous DV control."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6122",
+    "before": null,
+    "after": "p245 untabulated cash Eq5: HAVEN_SHADOW effects and foreign-parent interactions omitting contemporaneous DV control."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6123",
+    "before": null,
+    "after": "p245 untabulated cash Eq5: DOT_SHADOW effects and foreign-parent interactions omitting contemporaneous DV control."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6124",
+    "before": null,
+    "after": "p245 untabulated cash Eq5: TOT_SHADOW effects and foreign-parent interactions omitting contemporaneous DV control."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6125",
+    "before": null,
+    "after": "Figure3B pp245,248–249 election-to-TCJA: domestic-parent versus foreign-parent shadow insurers, value-weighted BHR contrast attributed to differential TCJA exposure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6126",
+    "before": null,
+    "after": "Figure4A pp245,250 House-bill-to-TCJA: shadow versus nonshadow insurers, value-weighted BHR contrast attributed to differential TCJA exposure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6127",
+    "before": null,
+    "after": "Figure4B pp245,250 House-bill-to-TCJA: domestic-parent versus foreign-parent shadow insurers, value-weighted BHR contrast attributed to differential TCJA exposure."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6128",
+    "before": null,
+    "after": "Table8A/B pp246–247 event1 11/08/2016: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6129",
+    "before": null,
+    "after": "Table8A/B pp246–247 event2 1/20/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6130",
+    "before": null,
+    "after": "Table8A/B pp246–247 event3 4/26/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6131",
+    "before": null,
+    "after": "Table8A/B pp246–247 event4 7/27/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6132",
+    "before": null,
+    "after": "Table8A/B pp246–247 event5 9/27/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6133",
+    "before": null,
+    "after": "Table8A/B pp246–247 event6 10/26/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6134",
+    "before": null,
+    "after": "Table8A/B pp246–247 event7 11/01/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6135",
+    "before": null,
+    "after": "Table8A/B pp246–247 event8 11/03/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6136",
+    "before": null,
+    "after": "Table8A/B pp246–247 event9 11/09/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6137",
+    "before": null,
+    "after": "Table8A/B pp246–247 event10 11/15/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6138",
+    "before": null,
+    "after": "Table8A/B pp246–247 event11 11/16/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6139",
+    "before": null,
+    "after": "Table8A/B pp246–247 event12 11/28/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6140",
+    "before": null,
+    "after": "Table8A/B pp246–247 event13 12/04/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6141",
+    "before": null,
+    "after": "Table8A/B pp246–247 event14 12/15/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6142",
+    "before": null,
+    "after": "Table8A/B pp246–247 event15 12/20/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6143",
+    "before": null,
+    "after": "Table8A/B pp246–247 event16 12/22/2017: legislative/election news exposure effects on five-day[-2,+2] BHR and BHAR of shadow insurers; domestic/foreign portfolio variants."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6144",
+    "before": null,
+    "after": "Table8A bottom rows pp246–247: pooled-event all shadow versus nonshadow portfolio BHR/BHAR contrast, overlapping days removed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6145",
+    "before": null,
+    "after": "Table8A bottom rows pp246–247: pooled-event domestic-parent shadow versus nonshadow portfolio BHR/BHAR contrast, overlapping days removed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6146",
+    "before": null,
+    "after": "Table8A bottom rows pp246–247: pooled-event foreign-parent shadow versus nonshadow portfolio BHR/BHAR contrast, overlapping days removed."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "N6147",
+    "before": null,
+    "after": "Table8A pooled-event domestic versus foreign-parent shadow portfolio BHR/BHAR contrast, pp245–247."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1460",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1461",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1462",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1463",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Table1A lists608 ratings/590 cash observations but Table1B and regression tables show590 ratings/608 cash; source conflict preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1464",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Table1A lists608 ratings/590 cash observations but Table1B and regression tables show590 ratings/608 cash; source conflict preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O1465",
+    "before": null,
+    "after": "Linear fixed-weight portfolio contrast on compounded return outcome, not DiD or Other solely because returns compound. Text p245 says two trading days after signing; figure notes say trading day after. Preserve timing inconsistency."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6018",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Domestic-shadow null retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6019",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Domestic-shadow null retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6020",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Domestic-shadow null retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6021",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Domestic-shadow null retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6022",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6023",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6024",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6025",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6026",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6027",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6028",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6029",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6030",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6031",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6032",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6033",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6034",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6035",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6036",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6037",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Domestic-shadow null retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6038",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Domestic-shadow null retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6039",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Domestic-shadow null retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6040",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Domestic-shadow null retained."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6041",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6042",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6043",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6044",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6045",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6046",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Substantive null tax effects retained; not ordinary covariate expansion."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6047",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Interaction is incremental, not total foreign slope. Treatment remains continuous; dollar translations use pretax income, not same-outcome means."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6048",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6049",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicitly interpreted null/non-null totals; coefficient sums not invented. Ratings: DOM significant, haven/dot/total null. Cash: DOM/total null, haven/dot significant. Independent null audit: interpretation is the foreign-parent linear combination b1+b2, not b2 alone and not a new coefficient. pp242–243 say F-test of joint coefficients without printing the restriction; offset/non-offset prose supports the sum-zero reading. Do not claim the unprinted restriction matrix was observed or confuse it with testing b1=b2=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6050",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Table1A lists608 ratings/590 cash observations but Table1B and regression tables show590 ratings/608 cash; source conflict preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6051",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6052",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicitly interpreted null/non-null totals; coefficient sums not invented. Ratings: DOM significant, haven/dot/total null. Cash: DOM/total null, haven/dot significant. Independent null audit: interpretation is the foreign-parent linear combination b1+b2, not b2 alone and not a new coefficient. pp242–243 say F-test of joint coefficients without printing the restriction; offset/non-offset prose supports the sum-zero reading. Do not claim the unprinted restriction matrix was observed or confuse it with testing b1=b2=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6053",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Table1A lists608 ratings/590 cash observations but Table1B and regression tables show590 ratings/608 cash; source conflict preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6054",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6055",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicitly interpreted null/non-null totals; coefficient sums not invented. Ratings: DOM significant, haven/dot/total null. Cash: DOM/total null, haven/dot significant. Independent null audit: interpretation is the foreign-parent linear combination b1+b2, not b2 alone and not a new coefficient. pp242–243 say F-test of joint coefficients without printing the restriction; offset/non-offset prose supports the sum-zero reading. Do not claim the unprinted restriction matrix was observed or confuse it with testing b1=b2=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6056",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Table1A lists608 ratings/590 cash observations but Table1B and regression tables show590 ratings/608 cash; source conflict preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6057",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6058",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicitly interpreted null/non-null totals; coefficient sums not invented. Ratings: DOM significant, haven/dot/total null. Cash: DOM/total null, haven/dot significant. Independent null audit: interpretation is the foreign-parent linear combination b1+b2, not b2 alone and not a new coefficient. pp242–243 say F-test of joint coefficients without printing the restriction; offset/non-offset prose supports the sum-zero reading. Do not claim the unprinted restriction matrix was observed or confuse it with testing b1=b2=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6059",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6060",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicitly interpreted null/non-null totals; coefficient sums not invented. Ratings: DOM significant, haven/dot/total null. Cash: DOM/total null, haven/dot significant. Independent null audit: interpretation is the foreign-parent linear combination b1+b2, not b2 alone and not a new coefficient. pp242–243 say F-test of joint coefficients without printing the restriction; offset/non-offset prose supports the sum-zero reading. Do not claim the unprinted restriction matrix was observed or confuse it with testing b1=b2=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6061",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Table1A lists608 ratings/590 cash observations but Table1B and regression tables show590 ratings/608 cash; source conflict preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6062",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6063",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicitly interpreted null/non-null totals; coefficient sums not invented. Ratings: DOM significant, haven/dot/total null. Cash: DOM/total null, haven/dot significant. Independent null audit: interpretation is the foreign-parent linear combination b1+b2, not b2 alone and not a new coefficient. pp242–243 say F-test of joint coefficients without printing the restriction; offset/non-offset prose supports the sum-zero reading. Do not claim the unprinted restriction matrix was observed or confuse it with testing b1=b2=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6064",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Table1A lists608 ratings/590 cash observations but Table1B and regression tables show590 ratings/608 cash; source conflict preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6065",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6066",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicitly interpreted null/non-null totals; coefficient sums not invented. Ratings: DOM significant, haven/dot/total null. Cash: DOM/total null, haven/dot significant. Independent null audit: interpretation is the foreign-parent linear combination b1+b2, not b2 alone and not a new coefficient. pp242–243 say F-test of joint coefficients without printing the restriction; offset/non-offset prose supports the sum-zero reading. Do not claim the unprinted restriction matrix was observed or confuse it with testing b1=b2=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6067",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Table1A lists608 ratings/590 cash observations but Table1B and regression tables show590 ratings/608 cash; source conflict preserved."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6068",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6069",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicitly interpreted null/non-null totals; coefficient sums not invented. Ratings: DOM significant, haven/dot/total null. Cash: DOM/total null, haven/dot significant. Independent null audit: interpretation is the foreign-parent linear combination b1+b2, not b2 alone and not a new coefficient. pp242–243 say F-test of joint coefficients without printing the restriction; offset/non-offset prose supports the sum-zero reading. Do not claim the unprinted restriction matrix was observed or confuse it with testing b1=b2=0."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6070",
+    "before": null,
+    "after": "Explicit logistic Eq(1), hence Other despite year FE. Independent scope judgment: authors endorse the parameter-specific incentive mechanism, not merely predictive discrimination. Supporting, not a main effect. Diagnostic-only reading considered and not adopted; balance/ROC and merely positive NOL are excluded. Fn26 unadjusted risk-capital measure is a routine grouped sensitivity, not a new outcome or coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6071",
+    "before": null,
+    "after": "Explicit logistic Eq(1), hence Other despite year FE. Independent scope judgment: authors endorse the parameter-specific incentive mechanism, not merely predictive discrimination. Supporting, not a main effect. Diagnostic-only reading considered and not adopted; balance/ROC and merely positive NOL are excluded. Fn26 unadjusted risk-capital measure is a routine grouped sensitivity, not a new outcome or coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6072",
+    "before": null,
+    "after": "Explicit logistic Eq(1), hence Other despite year FE. Independent scope judgment: authors endorse the parameter-specific incentive mechanism, not merely predictive discrimination. Supporting, not a main effect. Diagnostic-only reading considered and not adopted; balance/ROC and merely positive NOL are excluded. Fn26 unadjusted risk-capital measure is a routine grouped sensitivity, not a new outcome or coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6073",
+    "before": null,
+    "after": "Explicit logistic Eq(1), hence Other despite year FE. Independent scope judgment: authors endorse the parameter-specific incentive mechanism, not merely predictive discrimination. Supporting, not a main effect. Diagnostic-only reading considered and not adopted; balance/ROC and merely positive NOL are excluded. Fn26 unadjusted risk-capital measure is a routine grouped sensitivity, not a new outcome or coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6074",
+    "before": null,
+    "after": "Explicit logistic Eq(1), hence Other despite year FE. Independent scope judgment: authors endorse the parameter-specific incentive mechanism, not merely predictive discrimination. Supporting, not a main effect. Diagnostic-only reading considered and not adopted; balance/ROC and merely positive NOL are excluded. Fn26 unadjusted risk-capital measure is a routine grouped sensitivity, not a new outcome or coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6075",
+    "before": null,
+    "after": "Explicit logistic Eq(1), hence Other despite year FE. Independent scope judgment: authors endorse the parameter-specific incentive mechanism, not merely predictive discrimination. Supporting, not a main effect. Diagnostic-only reading considered and not adopted; balance/ROC and merely positive NOL are excluded. Fn26 unadjusted risk-capital measure is a routine grouped sensitivity, not a new outcome or coefficient grid."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6076",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Covariate weights use first/second moments, not focal outcomes. Appendix inaccessible; numerical cells not invented. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates. Eq(2), p233/Table3 allocate FOREIGN_PARENT and the two haven-share outcomes; C.2 locator follows the primary-test sequence. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6077",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(3)/Tables4–5, p235 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6078",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(3)/Tables4–5, p235 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6079",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(3)/Tables4–5, p235 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6080",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(3)/Tables4–5, p235 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6081",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Full/matched/entropy cross-grid not disclosed in available main text; minimum documented binary family, no invented Cartesian expansion. Zero masses of ETR/cash outcomes not established by positive quartiles. Independent allocation: p245 explicitly replaces TOT_SHADOW by D(SHADOW) and points to C.3–C.6. Allocate book ETR, cash ETR, ratings and cash holdings from Eqs(3)–(5), one binary response family each. Do not multiply by entropy/full/matched or ordered-logit grids. Linear primary-equation reestimation is the supported implementation; C.5 layout remains unread. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6082",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(3)/Tables4–5, p235 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6083",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(3)/Tables4–5, p235 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6084",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(3)/Tables4–5, p235 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6085",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(3)/Tables4–5, p235 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6086",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Full/matched/entropy cross-grid not disclosed in available main text; minimum documented binary family, no invented Cartesian expansion. Zero masses of ETR/cash outcomes not established by positive quartiles. Independent allocation: p245 explicitly replaces TOT_SHADOW by D(SHADOW) and points to C.3–C.6. Allocate book ETR, cash ETR, ratings and cash holdings from Eqs(3)–(5), one binary response family each. Do not multiply by entropy/full/matched or ordered-logit grids. Linear primary-equation reestimation is the supported implementation; C.5 layout remains unread. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6087",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(4)/Table6, p242 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6088",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(4)/Table6, p242 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6089",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(4)/Table6, p242 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6090",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(4)/Table6, p242 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6091",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Full/matched/entropy cross-grid not disclosed in available main text; minimum documented binary family, no invented Cartesian expansion. Zero masses of ETR/cash outcomes not established by positive quartiles. Independent allocation: p245 explicitly replaces TOT_SHADOW by D(SHADOW) and points to C.3–C.6. Allocate book ETR, cash ETR, ratings and cash holdings from Eqs(3)–(5), one binary response family each. Do not multiply by entropy/full/matched or ordered-logit grids. Linear primary-equation reestimation is the supported implementation; C.5 layout remains unread. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6092",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(5)/Table7, pp242–244 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6093",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(5)/Table7, pp242–244 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6094",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(5)/Table7, pp242–244 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6095",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit repeat of primary tests; domestic and foreign differences retained as one minimum reported robustness family per known treatment; unseen columns not materialized. For C.5 main text distinguishes ordered-logit PanelA separately. Independent allocation: pp244–245 explicitly reestimate each primary test using entropy-balanced covariates; Eq(5)/Table7, pp242–244 explicitly names DOM/HAVEN/DOT/TOT supports and ownership heterogeneity. This record is the named treatment in that response family; C-table assignment follows main-text sequence, not an inspected supplementary column. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6096",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Full/matched/entropy cross-grid not disclosed in available main text; minimum documented binary family, no invented Cartesian expansion. Zero masses of ETR/cash outcomes not established by positive quartiles. Independent allocation: p245 explicitly replaces TOT_SHADOW by D(SHADOW) and points to C.3–C.6. Allocate book ETR, cash ETR, ratings and cash holdings from Eqs(3)–(5), one binary response family each. Do not multiply by entropy/full/matched or ordered-logit grids. Linear primary-equation reestimation is the supported implementation; C.5 layout remains unread. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6097",
+    "before": null,
+    "after": "Explicit nonlinear ordered logistic implementation; alternative to Table6 OLS. Supplement blocked; no numerical coefficients inferred. Independent allocation: p242 fn32 explicitly substitutes an ordered logistic model for Table6. Eq(4) names the four SHADOW measures, supporting this named treatment family. Nonlinear interaction coefficient is not itself a constant probability cross-effect; no derivative or numerical total is invented. No separate binary ordered-logit implementation is established. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6098",
+    "before": null,
+    "after": "Explicit nonlinear ordered logistic implementation; alternative to Table6 OLS. Supplement blocked; no numerical coefficients inferred. Independent allocation: p242 fn32 explicitly substitutes an ordered logistic model for Table6. Eq(4) names the four SHADOW measures, supporting this named treatment family. Nonlinear interaction coefficient is not itself a constant probability cross-effect; no derivative or numerical total is invented. No separate binary ordered-logit implementation is established. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6099",
+    "before": null,
+    "after": "Explicit nonlinear ordered logistic implementation; alternative to Table6 OLS. Supplement blocked; no numerical coefficients inferred. Independent allocation: p242 fn32 explicitly substitutes an ordered logistic model for Table6. Eq(4) names the four SHADOW measures, supporting this named treatment family. Nonlinear interaction coefficient is not itself a constant probability cross-effect; no derivative or numerical total is invented. No separate binary ordered-logit implementation is established. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6100",
+    "before": null,
+    "after": "Explicit nonlinear ordered logistic implementation; alternative to Table6 OLS. Supplement blocked; no numerical coefficients inferred. Independent allocation: p242 fn32 explicitly substitutes an ordered logistic model for Table6. Eq(4) names the four SHADOW measures, supporting this named treatment family. Nonlinear interaction coefficient is not itself a constant probability cross-effect; no derivative or numerical total is invented. No separate binary ordered-logit implementation is established. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6101",
+    "before": null,
+    "after": "Two FE sets, firm and year, not HDFE. Text calls this Equation(2) despite book/cash ETR context pointing to Eq(3); contradiction preserved, not corrected silently. Independent allocation: p245 explicitly names both book and cash ETR tests, removal of FOREIGN_PARENT main effect and addition of firm FE. Eq(3), p235 names four SHADOW supports. Source calls it Eq(2); preserve that citation conflict. Missing-PIFO exclusion reported alongside is a routine sample sensitivity, grouped, not a new method. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6102",
+    "before": null,
+    "after": "Two FE sets, firm and year, not HDFE. Text calls this Equation(2) despite book/cash ETR context pointing to Eq(3); contradiction preserved, not corrected silently. Independent allocation: p245 explicitly names both book and cash ETR tests, removal of FOREIGN_PARENT main effect and addition of firm FE. Eq(3), p235 names four SHADOW supports. Source calls it Eq(2); preserve that citation conflict. Missing-PIFO exclusion reported alongside is a routine sample sensitivity, grouped, not a new method. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6103",
+    "before": null,
+    "after": "Two FE sets, firm and year, not HDFE. Text calls this Equation(2) despite book/cash ETR context pointing to Eq(3); contradiction preserved, not corrected silently. Independent allocation: p245 explicitly names both book and cash ETR tests, removal of FOREIGN_PARENT main effect and addition of firm FE. Eq(3), p235 names four SHADOW supports. Source calls it Eq(2); preserve that citation conflict. Missing-PIFO exclusion reported alongside is a routine sample sensitivity, grouped, not a new method. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6104",
+    "before": null,
+    "after": "Two FE sets, firm and year, not HDFE. Text calls this Equation(2) despite book/cash ETR context pointing to Eq(3); contradiction preserved, not corrected silently. Independent allocation: p245 explicitly names both book and cash ETR tests, removal of FOREIGN_PARENT main effect and addition of firm FE. Eq(3), p235 names four SHADOW supports. Source calls it Eq(2); preserve that citation conflict. Missing-PIFO exclusion reported alongside is a routine sample sensitivity, grouped, not a new method. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6105",
+    "before": null,
+    "after": "Two FE sets, firm and year, not HDFE. Text calls this Equation(2) despite book/cash ETR context pointing to Eq(3); contradiction preserved, not corrected silently. Independent allocation: p245 explicitly names both book and cash ETR tests, removal of FOREIGN_PARENT main effect and addition of firm FE. Eq(3), p235 names four SHADOW supports. Source calls it Eq(2); preserve that citation conflict. Missing-PIFO exclusion reported alongside is a routine sample sensitivity, grouped, not a new method. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6106",
+    "before": null,
+    "after": "Two FE sets, firm and year, not HDFE. Text calls this Equation(2) despite book/cash ETR context pointing to Eq(3); contradiction preserved, not corrected silently. Independent allocation: p245 explicitly names both book and cash ETR tests, removal of FOREIGN_PARENT main effect and addition of firm FE. Eq(3), p235 names four SHADOW supports. Source calls it Eq(2); preserve that citation conflict. Missing-PIFO exclusion reported alongside is a routine sample sensitivity, grouped, not a new method. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6107",
+    "before": null,
+    "after": "Two FE sets, firm and year, not HDFE. Text calls this Equation(2) despite book/cash ETR context pointing to Eq(3); contradiction preserved, not corrected silently. Independent allocation: p245 explicitly names both book and cash ETR tests, removal of FOREIGN_PARENT main effect and addition of firm FE. Eq(3), p235 names four SHADOW supports. Source calls it Eq(2); preserve that citation conflict. Missing-PIFO exclusion reported alongside is a routine sample sensitivity, grouped, not a new method. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6108",
+    "before": null,
+    "after": "Two FE sets, firm and year, not HDFE. Text calls this Equation(2) despite book/cash ETR context pointing to Eq(3); contradiction preserved, not corrected silently. Independent allocation: p245 explicitly names both book and cash ETR tests, removal of FOREIGN_PARENT main effect and addition of firm FE. Eq(3), p235 names four SHADOW supports. Source calls it Eq(2); preserve that citation conflict. Missing-PIFO exclusion reported alongside is a routine sample sensitivity, grouped, not a new method. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6109",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit Eq3 response robustness. State-tax reduction limited in full sample, does not persist in matched sample; substantive null retained. Independent allocation: p236 fn30 explicitly removes state income tax from BOOKETR3 and separately estimates Eq(3) with three-year state ETR. Eq(3), p235 names four SHADOW supports. Null matched-sample state-tax result retained. No numerical state-tax grid supplied. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6110",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit Eq3 response robustness. State-tax reduction limited in full sample, does not persist in matched sample; substantive null retained. Independent allocation: p236 fn30 explicitly removes state income tax from BOOKETR3 and separately estimates Eq(3) with three-year state ETR. Eq(3), p235 names four SHADOW supports. Null matched-sample state-tax result retained. No numerical state-tax grid supplied. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6111",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit Eq3 response robustness. State-tax reduction limited in full sample, does not persist in matched sample; substantive null retained. Independent allocation: p236 fn30 explicitly removes state income tax from BOOKETR3 and separately estimates Eq(3) with three-year state ETR. Eq(3), p235 names four SHADOW supports. Null matched-sample state-tax result retained. No numerical state-tax grid supplied. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6112",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit Eq3 response robustness. State-tax reduction limited in full sample, does not persist in matched sample; substantive null retained. Independent allocation: p236 fn30 explicitly removes state income tax from BOOKETR3 and separately estimates Eq(3) with three-year state ETR. Eq(3), p235 names four SHADOW supports. Null matched-sample state-tax result retained. No numerical state-tax grid supplied. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6113",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit Eq3 response robustness. State-tax reduction limited in full sample, does not persist in matched sample; substantive null retained. Independent allocation: p236 fn30 explicitly removes state income tax from BOOKETR3 and separately estimates Eq(3) with three-year state ETR. Eq(3), p235 names four SHADOW supports. Null matched-sample state-tax result retained. No numerical state-tax grid supplied. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6114",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit Eq3 response robustness. State-tax reduction limited in full sample, does not persist in matched sample; substantive null retained. Independent allocation: p236 fn30 explicitly removes state income tax from BOOKETR3 and separately estimates Eq(3) with three-year state ETR. Eq(3), p235 names four SHADOW supports. Null matched-sample state-tax result retained. No numerical state-tax grid supplied. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6115",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit Eq3 response robustness. State-tax reduction limited in full sample, does not persist in matched sample; substantive null retained. Independent allocation: p236 fn30 explicitly removes state income tax from BOOKETR3 and separately estimates Eq(3) with three-year state ETR. Eq(3), p235 names four SHADOW supports. Null matched-sample state-tax result retained. No numerical state-tax grid supplied. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6116",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Explicit Eq3 response robustness. State-tax reduction limited in full sample, does not persist in matched sample; substantive null retained. Independent allocation: p236 fn30 explicitly removes state income tax from BOOKETR3 and separately estimates Eq(3) with three-year state ETR. Eq(3), p235 names four SHADOW supports. Null matched-sample state-tax result retained. No numerical state-tax grid supplied. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6117",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Separately reported sensitivity family; not a first-difference DV. Independent allocation: p245 explicitly removes contemporaneous dependent-variable controls from ratings and cash-holdings tests; Eqs(4)–(5), p242 name four SHADOW supports. Text explicitly discusses SHADOW and its ownership interaction for ratings and interaction persistence for cash. Outcomes remain next-year levels, not first differences. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6118",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Separately reported sensitivity family; not a first-difference DV. Independent allocation: p245 explicitly removes contemporaneous dependent-variable controls from ratings and cash-holdings tests; Eqs(4)–(5), p242 name four SHADOW supports. Text explicitly discusses SHADOW and its ownership interaction for ratings and interaction persistence for cash. Outcomes remain next-year levels, not first differences. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6119",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Separately reported sensitivity family; not a first-difference DV. Independent allocation: p245 explicitly removes contemporaneous dependent-variable controls from ratings and cash-holdings tests; Eqs(4)–(5), p242 name four SHADOW supports. Text explicitly discusses SHADOW and its ownership interaction for ratings and interaction persistence for cash. Outcomes remain next-year levels, not first differences. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6120",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Separately reported sensitivity family; not a first-difference DV. Independent allocation: p245 explicitly removes contemporaneous dependent-variable controls from ratings and cash-holdings tests; Eqs(4)–(5), p242 name four SHADOW supports. Text explicitly discusses SHADOW and its ownership interaction for ratings and interaction persistence for cash. Outcomes remain next-year levels, not first differences. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6121",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Separately reported sensitivity family; not a first-difference DV. Independent allocation: p245 explicitly removes contemporaneous dependent-variable controls from ratings and cash-holdings tests; Eqs(4)–(5), p242 name four SHADOW supports. Text explicitly discusses SHADOW and its ownership interaction for ratings and interaction persistence for cash. Outcomes remain next-year levels, not first differences. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6122",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Separately reported sensitivity family; not a first-difference DV. Independent allocation: p245 explicitly removes contemporaneous dependent-variable controls from ratings and cash-holdings tests; Eqs(4)–(5), p242 name four SHADOW supports. Text explicitly discusses SHADOW and its ownership interaction for ratings and interaction persistence for cash. Outcomes remain next-year levels, not first differences. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6123",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Separately reported sensitivity family; not a first-difference DV. Independent allocation: p245 explicitly removes contemporaneous dependent-variable controls from ratings and cash-holdings tests; Eqs(4)–(5), p242 name four SHADOW supports. Text explicitly discusses SHADOW and its ownership interaction for ratings and interaction persistence for cash. Outcomes remain next-year levels, not first differences. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6124",
+    "before": null,
+    "after": "Year FE explicitly isolate within-year variation as jurisdictions and nontax factors evolve (p233 fn28); one identifying FE set, not HDFE. Alternative OLS if year adjustment is judged incidental held for audit. Matching is preprocessing, not a separate estimator here. Separately reported sensitivity family; not a first-difference DV. Independent allocation: p245 explicitly removes contemporaneous dependent-variable controls from ratings and cash-holdings tests; Eqs(4)–(5), p242 name four SHADOW supports. Text explicitly discusses SHADOW and its ownership interaction for ratings and interaction persistence for cash. Outcomes remain next-year levels, not first differences. Main text establishes this minimum treatment/response sensitivity family; exact sample/column/estimand grid and any further benchmarks in the blocked supplement are not asserted."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6125",
+    "before": null,
+    "after": "Linear fixed-weight portfolio contrast on compounded return outcome, not DiD or Other solely because returns compound. Text p245 says two trading days after signing; figure notes say trading day after. Preserve timing inconsistency."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6126",
+    "before": null,
+    "after": "Linear fixed-weight portfolio contrast on compounded return outcome, not DiD or Other solely because returns compound. Text p245 says two trading days after signing; figure notes say trading day after. Preserve timing inconsistency."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6127",
+    "before": null,
+    "after": "Linear fixed-weight portfolio contrast on compounded return outcome, not DiD or Other solely because returns compound. Text p245 says two trading days after signing; figure notes say trading day after. Preserve timing inconsistency."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6128",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6129",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6130",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6131",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6132",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6133",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6134",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6135",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6136",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6137",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6138",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6139",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6140",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6141",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6142",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6143",
+    "before": null,
+    "after": "Fixed value-weighted return contrasts/market adjustment, linear in reported returns. Not randomized or DiD. All16 events retained, including null/reversing responses; no significance filter. BHR/BHAR pairing alone does not print market return baseline."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6144",
+    "before": null,
+    "after": "Distinct pooled-event target and explicitly paired sample means; not 16 duplicated comparisons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6145",
+    "before": null,
+    "after": "Distinct pooled-event target and explicitly paired sample means; not 16 duplicated comparisons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6146",
+    "before": null,
+    "after": "Distinct pooled-event target and explicitly paired sample means; not 16 duplicated comparisons."
+  },
+  {
+    "sheet": "Settings",
+    "cell": "O6147",
+    "before": null,
+    "after": "Ownership contrast is distinct from shadow/nonshadow; comparative market test explicitly posed p245."
+  }
+]
+```
