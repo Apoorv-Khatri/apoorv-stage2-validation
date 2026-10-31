@@ -2045025,3 +2045025,8 @@ Baseline of the original workbook before the approved OLS split.
     }
   ]
 }
+
+## 2026-10-31T04:04:36.057350+00:00 — Saved Excel changes
+
+0 populated-cell value changes. The XLSX also preserves formatting.
+
